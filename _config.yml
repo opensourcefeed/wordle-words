@@ -1,0 +1,21 @@
+
+title: Wordle Words
+email: contact.opensourcefeed@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  List of all words used in Wordle puzzle - together with it's meaning
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: opensourcefeed
+github_username:  LibreTechie
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+domain: wordle-words.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://wordle-words.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /      # place folder name if the site is served in a subfolder
+sass:
+  sass_dir: _sass 
+  style: compressed
