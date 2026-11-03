@@ -1,12 +1,13 @@
-<header>
-    <nav class="navbar" aria-label="Main">
-        <div class="container nav-inner">
-            <a class="navbar-brand" href="{{ '/' | relative_url }}"><svg width="28" height="28" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="12" fill="#4f9d5d"/><path d="M13 19l9 27 10-20 10 20 9-27" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></svg>Wordle Words</a>
-            <ul class="nav-links">
-                <li><a href="{{ '/browse/' | relative_url }}">Browse</a></li>
-                <li><a href="{{ '/past-answers/' | relative_url }}">Past answers</a></li>
-                <li><a href="{{ '/possible-answers/' | relative_url }}">Possible answers</a></li>
-            </ul>
-        </div>
+{%- assign nav = "/browse/|Browse A–Z,/past-answers/|Past answers,/possible-answers/|Possible answers" | split: "," -%}
+<header class="site-header">
+    <nav class="container nav-inner" aria-label="Main">
+        <a class="navbar-brand" href="{{ '/' | relative_url }}">{% include logo.svg %}Wordle Words</a>
+        <ul class="nav-links">
+            {%- for item in nav %}{% assign parts = item | split: "|" %}
+            <li><a href="{{ parts[0] | relative_url }}"{% if page.url == parts[0] %} aria-current="page"{% endif %}>{{ parts[1] }}</a></li>
+            {%- endfor %}
+            <li><a href="/puzzles/wordle-solver/">Solver</a></li>
+            <li><a href="/puzzles/">Play puzzles</a></li>
+        </ul>
     </nav>
 </header>

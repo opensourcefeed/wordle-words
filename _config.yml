@@ -24,7 +24,16 @@ plugins:
 # links to them; this keeps canonical and sitemap URLs the same.
 defaults:
   - scope:
+      path: ""
+    values:
+      image: /assets/og-image.jpg
+  - scope:
       path: "word"
+    values:
+      permalink: /word/:basename
+  # "No" pages for searched-for words Wordle rejects (scripts/build_invalid_pages.rb)
+  - scope:
+      path: "invalid"
     values:
       permalink: /word/:basename
 

@@ -1,0 +1,1 @@
+<svg width="{{ include.size | default: 34 }}" height="{{ include.size | default: 34 }}" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#25d876"/><path d="M13 19l9 27 10-20 10 20 9-27" fill="none" stroke="#06210f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></svg>

@@ -1,10 +1,32 @@
-<footer>
-    <nav class="footer-links" aria-label="Footer">
-        <a href="{{ '/' | relative_url }}">All Wordle Words</a>
-        <a href="{{ '/about/' | relative_url }}">About</a>
-        <a href="/privacy-policy/">Privacy Policy</a>
-        <a href="/">OpenSourceFeed</a>
-    </nav>
-    <p class="disclaimer">Not affiliated with The New York Times. Wordle is a trademark of The New York Times Company.</p>
-    <p>&copy; {{ site.time | date: '%Y' }} Tahrik Studio</p>
+<footer class="site-footer">
+    <div class="container footer-grid">
+        <div>
+            <p class="footer-brand">{% include logo.svg size=26 %}Wordle Words</p>
+            <p>Check any word, see every past Wordle answer, and browse all 14,855 words Wordle accepts.</p>
+        </div>
+        <nav aria-label="Wordle Words">
+            <h2>Wordle Words</h2>
+            <ul>
+                <li><a href="{{ '/' | relative_url }}">Word checker</a></li>
+                <li><a href="{{ '/browse/' | relative_url }}">Browse A–Z</a></li>
+                <li><a href="{{ '/past-answers/' | relative_url }}">Past answers</a></li>
+                <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+                <li><a href="{{ '/about/' | relative_url }}#definitions">Attribution</a></li>
+            </ul>
+        </nav>
+        <nav aria-label="Puzzles">
+            <h2>Play puzzles</h2>
+            <ul>
+                <li><a href="/puzzles/wordle-unlimited/">Wordle Unlimited</a></li>
+                <li><a href="/puzzles/dordle/">Dordle</a></li>
+                <li><a href="/puzzles/decordle/">Decordle</a></li>
+                <li><a href="/puzzles/word-gridle/">Word Gridle</a></li>
+                <li><a href="/puzzles/">All puzzles</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="container footer-bottom">
+        <p>&copy; {{ site.time | date: '%Y' }} Tahrik Studio · <a href="/privacy-policy/">Privacy Policy</a> · <a href="/">OpenSourceFeed</a></p>
+        <p>Not affiliated with The New York Times. Wordle is a trademark of The New York Times Company.</p>
+    </div>
 </footer>

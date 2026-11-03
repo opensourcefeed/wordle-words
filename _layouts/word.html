@@ -4,137 +4,138 @@ layout: default
 {% assign up = page.word | upcase %}
 {% assign home = '/' | relative_url %}
 {% assign word_base = '/word/' | relative_url %}
-<div class="word-details">
-        <nav class="crumbs" aria-label="Breadcrumb">
-            {%- assign first = page.word | slice: 0 | upcase %}
-            <a href="{{ home }}">All Wordle Words</a> <span aria-hidden="true">›</span>
-            <a href="{{ page.hubs[0].url | relative_url }}">{{ first }}</a> <span aria-hidden="true">›</span>
-            <span aria-current="page">{{ up }}</span>
-        </nav>
+<nav class="crumbs" aria-label="Breadcrumb">
+    {%- assign first = page.word | slice: 0 | upcase %}
+    <a href="{{ home }}">All Wordle Words</a><span aria-hidden="true">›</span>
+    <a href="{{ page.hubs[0].url | relative_url }}">{{ first }}</a><span aria-hidden="true">›</span>
+    <span aria-current="page">{{ up }}</span>
+</nav>
 
-        <article>
-            <h1>{{ page.title }}</h1>
+<section class="answer-card status-{{ page.status }}" aria-labelledby="word-title">
+    <h1 id="word-title">{{ page.title }}</h1>
+    <div class="tiles" aria-hidden="true">
+        {%- assign letters = page.word | split: '' %}
+        {% for l in letters %}<span class="tile">{{ l | upcase }}</span>{% endfor %}
+    </div>
+    <p class="verdict"><strong>Yes.</strong> {{ up }} is a valid Wordle word.</p>
+    <ul class="badges">
+        <li class="badge-ok">Valid guess</li>
+        {%- if page.status == 'past' %}
+        {%- for a in page.past_answers %}
+        <li class="badge-past">Past answer #{{ a.number }} · {{ a.date | date: "%b %-d, %Y" }}</li>
+        {%- endfor %}
+        {%- elsif page.status == 'possible' %}
+        <li class="badge-possible">Possible answer</li>
+        {%- else %}
+        <li class="badge-no">Not on the answer list</li>
+        {%- endif %}
+    </ul>
+    <p class="answer-text">{{ page.answer_text }}</p>
+    {% if page.rule_note %}<p class="rule-note">{{ page.rule_note }}</p>{% endif %}
+    {% if page.repeat_note %}<p class="rule-note">{{ page.repeat_note }}</p>{% endif %}
+</section>
 
-            <section class="answer-card status-{{ page.status }}" aria-label="Answer">
-                <div class="tiles" aria-hidden="true">
-                    {% assign letters = page.word | split: '' %}
-                    {% for l in letters %}<span class="tile">{{ l | upcase }}</span>{% endfor %}
-                </div>
-                <p class="verdict"><strong>Yes.</strong> {{ up }} is a valid Wordle word.</p>
-                <ul class="badges">
-                    <li class="badge-ok">Accepted guess</li>
-                    {% if page.status == 'past' %}
-                    {% for a in page.past_answers %}
-                    <li class="badge-past">Past answer #{{ a.number }} · {{ a.date | date: "%b %-d, %Y" }}</li>
-                    {% endfor %}
-                    {% elsif page.status == 'possible' %}
-                    <li class="badge-possible">Possible future answer</li>
-                    {% else %}
-                    <li class="badge-no">Not on the answer list</li>
-                    {% endif %}
-                </ul>
-                <p class="answer-text">{{ page.answer_text }}</p>
-                {% if page.rule_note %}<p class="rule-note">{{ page.rule_note }}</p>{% endif %}
-                {% if page.repeat_note %}<p class="rule-note">{{ page.repeat_note }}</p>{% endif %}
-            </section>
+{% unless page.sensitive %}
+<div class="ad-slot">{% include ad.html %}</div>
+{% endunless %}
 
-            {% unless page.sensitive %}
-            <div class="ad-slot">{% include ad.html %}</div>
-            {% endunless %}
+{% if page.definitions %}
+<section class="card meaning">
+    <h2 class="card-title">{% include icon.html name='book' %}What does {{ up }} mean?</h2>
+    {% if page.phonetic %}<p class="phonetic">{{ page.phonetic | escape }}</p>{% endif %}
+    {% for group in page.definitions %}
+    <h3>{{ group.pos | default: 'meaning' | escape }}</h3>
+    <ol>
+        {% for d in group.defs limit: 3 %}
+        <li>{{ d.text | escape }}{% if d.example %}<span class="example">“{{ d.example | escape }}”</span>{% endif %}</li>
+        {% endfor %}
+    </ol>
+    {% if group.defs.size > 3 %}
+    <details>
+        <summary>{{ group.defs.size | minus: 3 }} more {{ group.pos | escape }} definition{% if group.defs.size > 4 %}s{% endif %}</summary>
+        <ol start="4">
+            {% for d in group.defs offset: 3 %}
+            <li>{{ d.text | escape }}{% if d.example %}<span class="example">“{{ d.example | escape }}”</span>{% endif %}</li>
+            {% endfor %}
+        </ol>
+    </details>
+    {% endif %}
+    {% endfor %}
+    <p class="attribution">
+        Definition from <a href="https://en.wiktionary.org/wiki/{{ page.word }}" rel="nofollow">Wiktionary</a>,
+        available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="license nofollow">CC BY-SA</a> license.
+    </p>
+</section>
+{% endif %}
 
-            {% if page.definitions %}
-            <section class="card-section meaning">
-                <h2>What does {{ up }} mean?</h2>
-                {% if page.phonetic %}<p class="phonetic">{{ page.phonetic | escape }}</p>{% endif %}
-                {% for group in page.definitions %}
-                <h3>{{ group.pos | default: 'meaning' | escape }}</h3>
-                <ol>
-                    {% for d in group.defs limit: 3 %}
-                    <li>{{ d.text | escape }}{% if d.example %}<span class="example">“{{ d.example | escape }}”</span>{% endif %}</li>
-                    {% endfor %}
-                </ol>
-                {% if group.defs.size > 3 %}
-                <details>
-                    <summary>{{ group.defs.size | minus: 3 }} more {{ group.pos | escape }} definition{% if group.defs.size > 4 %}s{% endif %}</summary>
-                    <ol start="4">
-                        {% for d in group.defs offset: 3 %}
-                        <li>{{ d.text | escape }}{% if d.example %}<span class="example">“{{ d.example | escape }}”</span>{% endif %}</li>
-                        {% endfor %}
-                    </ol>
-                </details>
-                {% endif %}
-                {% endfor %}
-                <p class="attribution">
-                    Definition from <a href="https://en.wiktionary.org/wiki/{{ page.word }}" rel="nofollow">Wiktionary</a>,
-                    available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="license nofollow">CC BY-SA</a> license.
-                </p>
-            </section>
-            {% endif %}
-
-            <section class="card-section stats">
-                <h2>{{ up }} in Wordle</h2>
-                <dl>
-                    <dt>Starter word rating</dt>
-                    <dd><strong>{{ page.stats.starter_tier }}</strong> – in the top {{ page.stats.starter_top_percent }}% of all
-                        valid Wordle words for testing common letters.</dd>
-                    <dt>Vowels</dt>
-                    <dd>{% if page.stats.vowels.size > 0 %}{{ page.stats.vowels | join: ', ' }}{% else %}None{% endif %}</dd>
-                    <dt>Unique letters</dt>
-                    <dd>{{ page.stats.unique_letters }} of 5{% if page.stats.repeated.size > 0 %} (repeats {{ page.stats.repeated | join: ', ' }}){% endif %}</dd>
-                    {% if page.stats.common.size > 0 %}
-                    <dt>Common letters</dt>
-                    <dd>{{ page.stats.common | join: ', ' }}</dd>
-                    {% endif %}
-                    {% if page.stats.rare.size > 0 %}
-                    <dt>Rare letters</dt>
-                    <dd>{{ page.stats.rare | join: ', ' }}</dd>
-                    {% endif %}
-                </dl>
-                {% if page.trap %}
-                <p class="trap"><strong>Hard-mode trap:</strong> {{ page.trap.count }} valid words fit the pattern
-                    <code>{{ page.trap.pattern }}</code>. If you reach it, you may need several guesses to find the last letter.</p>
-                {% endif %}
-                <p class="stats-note">Letter ratings use how often each letter appears in Wordle answers.</p>
-            </section>
-
-            {% if page.neighbours or page.anagrams %}
-            <section class="card-section related">
-                {% if page.neighbours %}
-                <h2>Words one letter away from {{ up }}</h2>
-                <ul class="word-chips">
-                    {% for w in page.neighbours %}<li><a href="{{ word_base }}{{ w }}">{{ w | upcase }}</a></li>{% endfor %}
-                </ul>
-                {% endif %}
-                {% if page.anagrams %}
-                <h2>Anagrams of {{ up }}</h2>
-                <ul class="word-chips">
-                    {% for w in page.anagrams %}<li><a href="{{ word_base }}{{ w }}">{{ w | upcase }}</a></li>{% endfor %}
-                </ul>
-                {% endif %}
-            </section>
-            {% endif %}
-
-            <section class="card-section browse-more">
-                <h2>Browse similar words</h2>
-                <ul class="hub-links">
-                    {% for h in page.hubs %}<li><a href="{{ h.url | relative_url }}">{{ h.label }}</a></li>{% endfor %}
-                </ul>
-                <nav class="prev-next" aria-label="Alphabetical">
-                    {% if page.prev_word %}<a rel="prev" href="{{ word_base }}{{ page.prev_word }}">&larr; {{ page.prev_word | upcase }}</a>{% else %}<span></span>{% endif %}
-                    {% if page.next_word %}<a rel="next" href="{{ word_base }}{{ page.next_word }}">{{ page.next_word | upcase }} &rarr;</a>{% endif %}
-                </nav>
-            </section>
-
-            <section class="card-section play">
-                <h2>Practice with {{ up }}</h2>
-                {% include playButtons.html %}
-            </section>
-        </article>
-
-        <div class="text-center back-link">
-            <a class="btn btn-primary" href="{{ home }}">&larr;&thinsp;&thinsp;Back to All Words</a>
+<section class="card stats">
+    <h2 class="card-title">{% include icon.html name='chart' %}{{ up }} in Wordle</h2>
+    <dl class="stat-grid">
+        <div class="wide">
+            <dt>Starter word rating</dt>
+            <dd>{{ page.stats.starter_tier }}<small>In the top {{ page.stats.starter_top_percent }}% of all valid Wordle words for testing common letters.</small></dd>
         </div>
-</div>
+        <div>
+            <dt>Vowels</dt>
+            <dd>{% if page.stats.vowels.size > 0 %}{{ page.stats.vowels | join: ', ' }}{% else %}None{% endif %}</dd>
+        </div>
+        <div>
+            <dt>Unique letters</dt>
+            <dd>{{ page.stats.unique_letters }} of 5{% if page.stats.repeated.size > 0 %}<small>Repeats {{ page.stats.repeated | join: ', ' }}</small>{% endif %}</dd>
+        </div>
+        {% if page.stats.common.size > 0 %}
+        <div>
+            <dt>Common letters</dt>
+            <dd>{{ page.stats.common | join: ', ' }}</dd>
+        </div>
+        {% endif %}
+        {% if page.stats.rare.size > 0 %}
+        <div>
+            <dt>Rare letters</dt>
+            <dd>{{ page.stats.rare | join: ', ' }}</dd>
+        </div>
+        {% endif %}
+    </dl>
+    {% if page.trap %}
+    <p class="trap"><strong>Hard-mode trap:</strong> {{ page.trap.count }} valid words fit the pattern
+        <code>{{ page.trap.pattern }}</code>. If you reach it, you may need several guesses to find the last letter.</p>
+    {% endif %}
+    <p class="stats-note">Letter ratings use how often each letter appears in Wordle answers.</p>
+</section>
+
+{% if page.neighbours or page.anagrams %}
+<section class="card related">
+    <h2 class="card-title">{% include icon.html name='shuffle' %}Related words</h2>
+    {% if page.neighbours %}
+    <h3>One letter away from {{ up }}</h3>
+    <ul class="word-chips">
+        {% for w in page.neighbours %}<li><a href="{{ word_base }}{{ w }}">{{ w | upcase }}</a></li>{% endfor %}
+    </ul>
+    {% endif %}
+    {% if page.anagrams %}
+    <h3>Anagrams of {{ up }}</h3>
+    <ul class="word-chips">
+        {% for w in page.anagrams %}<li><a href="{{ word_base }}{{ w }}">{{ w | upcase }}</a></li>{% endfor %}
+    </ul>
+    {% endif %}
+</section>
+{% endif %}
+
+<section class="card browse-more">
+    <h2 class="card-title">{% include icon.html name='grid' %}Browse similar words</h2>
+    <ul class="hub-links">
+        {% for h in page.hubs %}<li><a href="{{ h.url | relative_url }}">{{ h.label }}</a></li>{% endfor %}
+    </ul>
+    <nav class="prev-next" aria-label="Alphabetical">
+        {% if page.prev_word %}<a rel="prev" href="{{ word_base }}{{ page.prev_word }}">&larr; {{ page.prev_word | upcase }}</a>{% else %}<span></span>{% endif %}
+        {% if page.next_word %}<a rel="next" href="{{ word_base }}{{ page.next_word }}">{{ page.next_word | upcase }} &rarr;</a>{% endif %}
+    </nav>
+</section>
+
+<section class="card play text-center">
+    <h2 class="card-title">{% include icon.html name='play' %}Practice with {{ up }}</h2>
+    {% include playButtons.html %}
+</section>
 
 <script type="application/ld+json">
 [

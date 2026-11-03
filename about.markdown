@@ -18,7 +18,7 @@ description: What Wordle Words is, where its word list and definitions come from
 3 November 2026. If a word has a page here, Wordle accepts it as a guess. Not every accepted guess can be a daily
 answer, because the answer pool is a much smaller set of common words.</p>
 
-<h2>Where the definitions come from</h2>
+<h2 id="definitions">Where the definitions come from</h2>
 <p>Definitions come from <a href="https://en.wiktionary.org/" rel="nofollow">Wiktionary</a> through the
 <a href="https://dictionaryapi.dev/" rel="nofollow">Free Dictionary API</a> and the
 <a href="https://kaikki.org/" rel="nofollow">kaikki.org</a> Wiktionary extract, and are available under the

@@ -8,6 +8,9 @@ description: Check whether any word is a valid Wordle word, see if it has been t
 {%- assign word_base = '/word/' | relative_url -%}
 
 <section class="intro hero">
+  <div class="tiles" aria-hidden="true">
+    <span class="tile">W</span><span class="tile is-yellow">O</span><span class="tile is-grey">R</span><span class="tile">D</span><span class="tile is-yellow">S</span>
+  </div>
   <h1>Is it a Wordle word?</h1>
   <p>Type any word to check whether Wordle accepts it, whether it has been the answer, and what it means.</p>
 
@@ -15,7 +18,7 @@ description: Check whether any word is a valid Wordle word, see if it has been t
     data-words="{{ '/assets/words.json' | relative_url }}" data-base="{{ word_base }}">
     <label for="checker-input" class="visually-hidden">Word to check</label>
     <input id="checker-input" class="form-control" type="text" maxlength="15" autocomplete="off"
-      placeholder="Type a word, e.g. TIGER" autocapitalize="none" spellcheck="false" enterkeyhint="search">
+      placeholder="Type a word" autocapitalize="none" spellcheck="false" enterkeyhint="search">
     <button class="btn btn-primary" type="submit">Check</button>
   </form>
   <p id="checker-result" class="result" aria-live="polite"></p>
@@ -24,8 +27,8 @@ description: Check whether any word is a valid Wordle word, see if it has been t
 
 <div class="ad-slot">{% include ad.html slot="6641359186" %}</div>
 
-<section class="intro home-section">
-  <h2>Browse all Wordle words</h2>
+<section class="card home-section">
+  <h2 class="card-title">{% include icon.html name='grid' %}Browse all Wordle words</h2>
   <h3>Starting with</h3>
   <ul class="hub-links letters">
     {%- for l in letters %}<li><a href="{{ '/starting-with/' | append: l | append: '/' | relative_url }}">{{ l | upcase }}</a></li>{% endfor %}
@@ -41,22 +44,22 @@ description: Check whether any word is a valid Wordle word, see if it has been t
   <p><a href="{{ '/browse/' | relative_url }}">All word lists, including two-letter starts and endings &rarr;</a></p>
 </section>
 
-<section class="intro home-section">
-  <h2>Wordle answers</h2>
+<section class="card home-section">
+  <h2 class="card-title">{% include icon.html name='calendar' %}Wordle answers</h2>
   {%- assign recent = site.data.past-answers.past-answers | reverse -%}
-  <p>Recent answers (today's is never shown):</p>
+  <h3>Recent answers (today's is never shown)</h3>
   <ul class="word-grid">
     {%- for a in recent limit: 10 %}<li><a href="{{ word_base }}{{ a.word }}">{{ a.word | upcase }}</a><small>#{{ a.number }}</small></li>{% endfor %}
   </ul>
-  <ul class="hub-links">
+  <ul class="hub-links spaced">
     <li><a href="{{ '/past-answers/' | relative_url }}">All past answers by date</a></li>
     <li><a href="{{ '/past-answers/a-z/' | relative_url }}">Past answers A to Z</a></li>
     <li><a href="{{ '/possible-answers/' | relative_url }}">Possible future answers</a></li>
   </ul>
 </section>
 
-<section class="intro home-section">
-  <h2>Play word puzzles</h2>
+<section class="card home-section play text-center">
+  <h2 class="card-title">{% include icon.html name='play' %}Play word puzzles</h2>
   {% include playButtons.html %}
 </section>
 

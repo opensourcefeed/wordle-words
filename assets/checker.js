@@ -40,12 +40,21 @@
     return out.slice(0, 12);
   }
 
+  // Result styling: a placeholder while the word list loads, then a ✓ or ✕.
+  const mark = state => {
+    result.classList.remove('is-yes', 'is-no', 'is-loading');
+    if (state) { void result.offsetWidth; result.classList.add('is-' + state); } // restart the animation
+  };
+
   function check(raw) {
     const w = raw.trim().toLowerCase();
     if (!w) return;
+    const slow = setTimeout(() => mark('loading'), 80); // only if the list isn't ready yet
     load().then(({ set }) => {
+      clearTimeout(slow);
       const W = esc(w.toUpperCase());
       suggest.innerHTML = '';
+      mark(set.has(w) ? 'yes' : 'no');
       if (set.has(w)) {
         if (title) title.textContent = 'Yes, ' + w.toUpperCase() + ' is a Wordle word';
         result.innerHTML = '<strong>Yes.</strong> ' + W + ' is a valid Wordle word. ' +
@@ -70,11 +79,12 @@
   function live() {
     const q = input.value.trim().toLowerCase();
     if (!/^[a-z]{1,4}$/.test(q)) {
-      if (q.length === 5) check(q); else { result.innerHTML = ''; suggest.innerHTML = ''; }
+      if (q.length === 5) check(q); else { mark(); result.innerHTML = ''; suggest.innerHTML = ''; }
       return;
     }
     load().then(({ all }) => {
       if (input.value.trim().toLowerCase() !== q) return; // a newer keystroke won
+      mark();
       const matches = all.filter(w => w.startsWith(q));
       result.innerHTML = matches.length.toLocaleString() + ' valid word' + (matches.length === 1 ? '' : 's') +
         ' start with ' + esc(q.toUpperCase()) + '. Keep typing, or pick one:';
