@@ -52,7 +52,8 @@ Competitors such as fiveletterwords.io already show all three. A bare "Yes, it's
 - [x] **Structured data**: `BreadcrumbList` + `DefinedTerm` JSON-LD on word pages, alongside `jekyll-seo-tag`'s `WebPage`. Skipped `WebSite`/`SearchAction`, because Google retired the sitelinks search box in late 2024. (M, S)
 - [x] **"No" answers**: the 404 page checks the requested word (`/word/xyzzq`) against `assets/words.json`. It says why it isn't valid (not in the list, wrong length, non-letters), suggests valid words one letter away, and includes a check-another-word box. (M, M)
 - [x] **Static pages for popular invalid words** (2026-11-03): `scripts/gsc.rb candidates [days] [min]` finds "is X a wordle word" searches for words Wordle rejects, across the whole property. Seeded `_data/invalid-words.yml` with the 26 words that had >= 10 impressions in 90 days (BURPY 281, WISHY 99, FLEXY 74…). `scripts/build_invalid_pages.rb` builds a "No" page per word at `/word/<word>/` (reason, optional note such as a misspelling, valid words one letter away / anagrams, or one letter added/removed for 4- and 6-letter words) and the `/not-in-word-list/` list page, linked from Browse. **Monthly:** re-run `candidates`, add new words with real demand, rebuild. (M, M)
-- [ ] **Link the Wordle Solver to the checker**: all 13,590 impressions for "… a wordle word" searches in the last 90 days landed on `/puzzles/wordle-solver/` (puzzles repo). Add a visible "Is it a valid Wordle word? Check it here" link there to `/wordle-words/`. (H, S)
+- [x] **Link the Wordle Solver to the checker**: all 13,590 impressions for "… a wordle word" searches in the last 90 days landed on `/puzzles/wordle-solver/` (puzzles repo). Add a visible "Is it a valid Wordle word? Check it here" link there to `/wordle-words/`. (H, S) *Done in the solver source (a "Checking if a word is allowed?" box and a link on every 5-letter result); ships with the next solver deploy.*
+- [x] **Link back to the solver from word and past-answer pages**: a "Try WORD in the Wordle Solver" link on every word page that opens the solver with that guess filled in (`/puzzles/wordle-solver/?g=word`), and a solver link in the past-answers intro. (M, S)
 - [ ] **Keep data fresh**: run `ruby scripts/update_past_answers.rb && bundle exec ruby scripts/build_pages.rb` weekly. Best automated with a scheduled GitHub Action (see P5). (M, S)
 
 **Page-data workflow:** `generate_word_pages.rb` (fetch missing definitions) → `scripts/update_past_answers.rb` → `scripts/build_pages.rb` → `scripts/build_hubs.rb` → `scripts/validate_words.rb`.
@@ -100,7 +101,7 @@ Users judge a site's trust and quality in the first few seconds. A polished desi
 ## P4 – Engagement and funnel into the puzzles
 
 - [ ] **Call to action on every word page**: "Practice with TIGER → Play Wordle Unlimited", plus links to Decordle, Pentordle and Word Gridle. If the puzzle supports a seeded word, deep-link to a game that uses this word. (H, S–M)
-- [ ] **Wordle helper/solver tool**: enter green, yellow and grey letters to filter candidates, with every result linking to its word page. (H, L)
+- [x] **Wordle helper/solver tool**: enter green, yellow and grey letters to filter candidates, with every result linking to its word page. (H, L) *Built as the Wordle Solver (`/puzzles/wordle-solver/`, its own repo).*
 - [ ] **Small interactive extras**: "Copy word", a share button, and a "Random word" link (both pageviews and crawl paths). (L, S)
 - [ ] Optional daily "Today's Wordle hint" page. Demand is very high but the query is dominated by large publishers, so do this only after P1–P2 show traction. (M, M)
 

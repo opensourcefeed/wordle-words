@@ -132,6 +132,12 @@ layout: default
     </nav>
 </section>
 
+<section class="card solve-link">
+    <h2 class="card-title">{% include icon.html name='search' %}Played {{ up }} in Wordle?</h2>
+    <p>Tap its tiles to the colours Wordle showed, and the Wordle Solver lists every word that still fits, with the best next guess.</p>
+    <a class="btn btn-primary" href="/puzzles/wordle-solver/?g={{ page.word }}">Try {{ up }} in the Wordle Solver</a>
+</section>
+
 <section class="card play text-center">
     <h2 class="card-title">{% include icon.html name='play' %}Practice with {{ up }}</h2>
     {% include playButtons.html %}

@@ -39,6 +39,8 @@ def n(num) = num.to_s.reverse.scan(/\d{1,3}/).join(',').reverse
 def url(path) = "#{BASE}#{path}"
 def word_link(w) = %(<a href="#{url("/word/#{w}")}">#{w.upcase}</a>)
 def hub_link(path, label) = %(<a href="#{url(path)}">#{label}</a>)
+# The solver lives in the puzzles repo, outside this site's baseurl
+SOLVER_LINK = %(<a href="/puzzles/wordle-solver/">Wordle Solver</a>)
 
 def grid(words, numbers: false)
   items = words.map do |w|
@@ -183,7 +185,9 @@ body = +%(<p class="lead">Every Wordle answer from the first puzzle on June 19, 
        %(#{Date.parse(last['date']).strftime('%B %-d, %Y')} (##{last['number']}): #{n(past_list.size)} puzzles.) +
        %( Since February 2026 Wordle has reused some answers; #{repeats} words have now been the answer twice.</p>) +
        %(<p class="note">Today's answer is never listed, so this page won't spoil today's puzzle. ) +
-       %(See the #{hub_link('/past-answers/a-z/', 'alphabetical list')} or the #{hub_link('/possible-answers/', 'possible future answers')}.</p>)
+       %(See the #{hub_link('/past-answers/a-z/', 'alphabetical list')} or the #{hub_link('/possible-answers/', 'possible future answers')}.</p>) +
+       %(<p class="note">Stuck on today's puzzle? The #{SOLVER_LINK} lists every word that still fits your guesses, ) +
+       %(with the best next guess.</p>)
 body << ad
 body << %(<table class="answers"><thead><tr><th>Date</th><th>Puzzle</th><th>Answer</th></tr></thead><tbody>#{rows.join}</tbody></table>)
 write_page('past-answers/index.html', permalink: '/past-answers/', title: 'All Past Wordle Answers',
@@ -204,7 +208,8 @@ write_page('past-answers/a-z.html', permalink: '/past-answers/a-z/', title: 'Pas
 possible = POSSIBLE.to_a.sort
 body = +%(<p class="lead">#{n(possible.size)} words from the original Wordle answer list haven't been the answer yet. ) +
        %(They are the most likely future answers. The New York Times also chooses some answers that aren't on this list, ) +
-       %(and since February 2026 it sometimes reuses #{hub_link('/past-answers/', 'past answers')}.</p>)
+       %(and since February 2026 it sometimes reuses #{hub_link('/past-answers/', 'past answers')}.</p>) +
+       %(<p class="note">To narrow them down from your guesses, use the #{SOLVER_LINK}: it lists these words first.</p>)
 body << ad
 possible.group_by { |w| w[0] }.each do |l, list|
   body << %(<section><h2>#{l.upcase} <small>(#{list.size})</small></h2>#{grid(list)}</section>)
