@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is COZIE a Wordle Word?
-head_title: Is COZIE a Wordle Word? Yes – Valid Guess
+head_title: Is COZIE a Wordle Word? Yes – Valid Guess & Meaning
 word: cozie
 description: Yes, COZIE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,15 @@ neighbours:
 - cosie
 - oozie
 - tozie
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Archaic spelling of cosy: Affording comfort and warmth; snug; social and
+      comfortable.'
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of koozie: A thermal insulation sleeve for cans or
+      bottles.'
 prev_word: cozey
 next_word: craal
 hubs:

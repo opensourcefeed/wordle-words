@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BISOM a Wordle Word?
-head_title: Is BISOM a Wordle Word? Yes – Valid Guess
+head_title: Is BISOM a Wordle Word? Yes – Valid Guess & Meaning
 word: bisom
 description: Yes, BISOM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - besom
 anagrams:
 - imbos
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of besom: A broom made from a bundle of twigs tied onto a
+      shaft.'
 prev_word: bisks
 next_word: bison
 hubs:

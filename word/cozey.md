@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is COZEY a Wordle Word?
-head_title: Is COZEY a Wordle Word? Yes – Valid Guess
+head_title: Is COZEY a Wordle Word? Yes – Valid Guess & Meaning
 word: cozey
 description: Yes, COZEY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,11 @@ neighbours:
 trap:
   pattern: CO_EY
   count: 8
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Archaic spelling of cosy: Affording comfort and warmth; snug; social and
+      comfortable.'
 prev_word: cozes
 next_word: cozie
 hubs:

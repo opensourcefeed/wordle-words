@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ZARIS a Wordle Word?
-head_title: Is ZARIS a Wordle Word? Yes – Valid Guess
+head_title: Is ZARIS a Wordle Word? Yes – Valid Guess & Meaning
 word: zaris
 description: Yes, ZARIS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,11 @@ anagrams:
 trap:
   pattern: _ARIS
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of zari: A fine gold or silver thread used in traditional Indian,
+      Pakistani and Persian garments, especially as brocade in saris etc.'
 prev_word: zarfs
 next_word: zatis
 hubs:

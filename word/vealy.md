@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is VEALY a Wordle Word?
-head_title: Is VEALY a Wordle Word? Yes – Valid Guess
+head_title: Is VEALY a Wordle Word? Yes – Valid Guess & Meaning
 word: vealy
 description: Yes, VEALY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,15 @@ neighbours:
 - veily
 anagrams:
 - leavy
+phonetic: "/ˈvɪə.li/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling veal.
+    example: This meat had a vealy taste to it, didn't it?
+  - text: Immature or naive.
+    example: I hope you do not really / think I am so awful veally / as not to see
+      how famously you've played your little part.
 prev_word: veals
 next_word: veena
 hubs:

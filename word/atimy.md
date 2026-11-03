@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ATIMY a Wordle Word?
-head_title: Is ATIMY a Wordle Word? Yes – Valid Guess
+head_title: Is ATIMY a Wordle Word? Yes – Valid Guess & Meaning
 word: atimy
 description: Yes, ATIMY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,13 @@ neighbours:
 - stimy
 anagrams:
 - amity
+phonetic: "/ˈætɪmi/"
+definitions:
+- pos: noun
+  defs:
+  - text: Public disgrace or stigma; outlawry; loss of civil rights
+    example: the decree of atimy, or deprivation of rights and honors, which had been
+      passed against him on occasion of the mutilation of the Mercuries[…]
 prev_word: atilt
 next_word: atlas
 hubs:

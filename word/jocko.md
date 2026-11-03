@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is JOCKO a Wordle Word?
-head_title: Is JOCKO a Wordle Word? Yes – Valid Guess
+head_title: Is JOCKO a Wordle Word? Yes – Valid Guess & Meaning
 word: jocko
 description: Yes, JOCKO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,11 @@ neighbours:
 - jocks
 - jocky
 - socko
+definitions:
+- pos: noun
+  defs:
+  - text: A lawn jockey.
+  - text: A chimpanzee.
 prev_word: jobes
 next_word: jocks
 hubs:

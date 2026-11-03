@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is METTA a Wordle Word?
-head_title: Is METTA a Wordle Word? Yes – Valid Guess
+head_title: Is METTA a Wordle Word? Yes – Valid Guess & Meaning
 word: metta
 description: Yes, METTA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,11 @@ neighbours:
 - netta
 anagrams:
 - matte
+definitions:
+- pos: noun
+  defs:
+  - text: Lovingkindness or compassion, especially if developed through meditation
+      or mindfulness.
 prev_word: metro
 next_word: meums
 hubs:

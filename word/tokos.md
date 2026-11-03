@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TOKOS a Wordle Word?
-head_title: Is TOKOS a Wordle Word? Yes – Valid Guess
+head_title: Is TOKOS a Wordle Word? Yes – Valid Guess & Meaning
 word: tokos
 description: Yes, TOKOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,11 @@ anagrams:
 trap:
   pattern: TO_OS
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of toko: A shop in the Netherlands selling mainly Asian food products,
+      and generally Asian- or Indo-European-owned.'
 prev_word: tokes
 next_word: tolan
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AMOVE a Wordle Word?
-head_title: Is AMOVE a Wordle Word? Yes – Valid Guess
+head_title: Is AMOVE a Wordle Word? Yes – Valid Guess & Meaning
 word: amove
 description: Yes, AMOVE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,15 @@ neighbours:
 - emove
 anagrams:
 - voema
+definitions:
+- pos: verb
+  defs:
+  - text: To set in motion; to stir up, excite.
+    example: Vp-rose Duessa from her resting place, / And to the Paynims lodging comes
+      with silent pace […] And him amoues with speaches seeming fit […]
+  - text: To remove.
+    example: Hence claws, horns, hoofs they use the pinching ill t' amove
+  - text: To dismiss from an office or station.
 prev_word: amour
 next_word: amowt
 hubs:

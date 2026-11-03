@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HOXED a Wordle Word?
-head_title: Is HOXED a Wordle Word? Yes – Valid Guess
+head_title: Is HOXED a Wordle Word? Yes – Valid Guess & Meaning
 word: hoxed
 description: Yes, HOXED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,11 @@ neighbours:
 trap:
   pattern: HO_ED
   count: 12
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of hox: To hock; to hamstring; to cripple;
+      to disable.'
 prev_word: howto
 next_word: hoxes
 hubs:

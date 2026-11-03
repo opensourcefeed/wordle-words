@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ABORN a Wordle Word?
-head_title: Is ABORN a Wordle Word? Yes – Valid Guess
+head_title: Is ABORN a Wordle Word? Yes – Valid Guess & Meaning
 word: aborn
 description: Yes, ABORN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,16 @@ neighbours:
 anagrams:
 - baron
 - borna
+definitions:
+- pos: adjective
+  defs:
+  - text: Born, begotten, created, developed
+    example: '... or (B) explain it away as something caused by the circumstances
+      of his birth: "Aye, we often see these moles on babes aborn on escape wessels
+      under Romulan attack ... "'
+- pos: verb
+  defs:
+  - text: 'Past participle of abear: To put up with; to endure; to bear.'
 prev_word: abore
 next_word: abort
 hubs:

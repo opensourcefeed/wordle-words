@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TONKA a Wordle Word?
-head_title: Is TONKA a Wordle Word? Yes – Valid Guess
+head_title: Is TONKA a Wordle Word? Yes – Valid Guess & Meaning
 word: tonka
 description: Yes, TONKA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,14 @@ neighbours:
 - tonga
 - tanka
 - tonks
+definitions:
+- pos: noun
+  defs:
+  - text: A flavoring or fragrance used in foodstuffs and perfumes, derived from the
+      tonka bean which contains coumarin.
+    example: When grated into desserts or infused into syrups, they impart a flavour
+      so transcendent, tonka has been dubbed the most delicious ingredient you’ve
+      never heard of.
 prev_word: tonic
 next_word: tonks
 hubs:

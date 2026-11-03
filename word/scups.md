@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SCUPS a Wordle Word?
-head_title: Is SCUPS a Wordle Word? Yes – Valid Guess
+head_title: Is SCUPS a Wordle Word? Yes – Valid Guess & Meaning
 word: scups
 description: Yes, SCUPS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,11 @@ anagrams:
 trap:
   pattern: SCU_S
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of scup: A common sparoid food fish, Stenotomus chrysops, of temperate
+      regions of the Atlantic coast of North America; the porgy.'
 prev_word: scums
 next_word: scurf
 hubs:

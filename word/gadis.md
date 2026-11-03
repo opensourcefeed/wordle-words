@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GADIS a Wordle Word?
-head_title: Is GADIS a Wordle Word? Yes – Valid Guess
+head_title: Is GADIS a Wordle Word? Yes – Valid Guess & Meaning
 word: gadis
 description: Yes, GADIS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,10 @@ anagrams:
 trap:
   pattern: _ADIS
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of gadi: A cushioned throne used by Indian princes.'
 prev_word: gadid
 next_word: gadje
 hubs:

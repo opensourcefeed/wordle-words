@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DARCY a Wordle Word?
-head_title: Is DARCY a Wordle Word? Yes – Valid Guess
+head_title: Is DARCY a Wordle Word? Yes – Valid Guess & Meaning
 word: darcy
 description: Yes, DARCY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,11 @@ neighbours:
 - farcy
 anagrams:
 - cardy
+definitions:
+- pos: noun
+  defs:
+  - text: A (non SI) unit of permeability used in measuring the permeability of porous
+      mediums such as sand.
 prev_word: darbs
 next_word: dared
 hubs:

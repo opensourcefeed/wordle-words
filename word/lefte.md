@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LEFTE a Wordle Word?
-head_title: Is LEFTE a Wordle Word? Yes – Valid Guess
+head_title: Is LEFTE a Wordle Word? Yes – Valid Guess & Meaning
 word: lefte
 description: Yes, LEFTE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,12 @@ neighbours:
 - wefte
 anagrams:
 - fleet
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of leave: To cause or allow (something)
+      to remain as available; to refrain from taking (something) away; to stop short
+      of consuming or otherwise depleting (something) entirely.'
 prev_word: leeze
 next_word: lefts
 hubs:

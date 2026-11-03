@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GOBBO a Wordle Word?
-head_title: Is GOBBO a Wordle Word? Yes – Valid Guess
+head_title: Is GOBBO a Wordle Word? Yes – Valid Guess & Meaning
 word: gobbo
 description: Yes, GOBBO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 - gombo
 - robbo
 - yobbo
+phonetic: "/ˈɡɒbəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A goblin.
+  - text: Language of the goblin race
+    example: I speak a little bit of gobbo.
 prev_word: gobbi
 next_word: gobby
 hubs:

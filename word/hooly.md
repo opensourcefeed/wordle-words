@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HOOLY a Wordle Word?
-head_title: Is HOOLY a Wordle Word? Yes – Valid Guess
+head_title: Is HOOLY a Wordle Word? Yes – Valid Guess & Meaning
 word: hooly
 description: Yes, HOOLY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,17 @@ neighbours:
 trap:
   pattern: _OOLY
   count: 7
+definitions:
+- pos: adjective
+  defs:
+  - text: Holy.
+- pos: adverb
+  defs:
+  - text: Wholly; all the way.
+    example: "[…]bee by our Executours hooly and perfitely finiſshed in every behalve,
+      after the maner and fourme before rehersed, and futingly to that that is begoune
+      and doon of theim."
+  - text: Softly; carefully.
 prev_word: hooky
 next_word: hoons
 hubs:

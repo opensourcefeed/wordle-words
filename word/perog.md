@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PEROG a Wordle Word?
-head_title: Is PEROG a Wordle Word? Yes – Valid Guess
+head_title: Is PEROG a Wordle Word? Yes – Valid Guess & Meaning
 word: perog
 description: Yes, PEROG is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,12 @@ neighbours:
 anagrams:
 - grope
 - porge
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of pierogi: A square- or crescent-shaped dumpling
+      of unleavened dough, stuffed with sauerkraut, cheese, mashed potatoes, cabbage,
+      onion, meat, or any combination of these, or with a fruit filling.'
 prev_word: perns
 next_word: perps
 hubs:

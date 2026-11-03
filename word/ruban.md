@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RUBAN a Wordle Word?
-head_title: Is RUBAN a Wordle Word? Yes – Valid Guess
+head_title: Is RUBAN a Wordle Word? Yes – Valid Guess & Meaning
 word: ruban
 description: Yes, RUBAN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,12 @@ anagrams:
 - aburn
 - buran
 - unbar
+definitions:
+- pos: noun
+  defs:
+  - text: A ribbon.
+    example: "[…] and at the same time to suspend from a ruban at your neck a basket
+      full of little Spaniels […]"
 prev_word: rubai
 next_word: rubby
 hubs:

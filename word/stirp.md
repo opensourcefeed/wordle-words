@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STIRP a Wordle Word?
-head_title: Is STIRP a Wordle Word? Yes – Valid Guess
+head_title: Is STIRP a Wordle Word? Yes – Valid Guess & Meaning
 word: stirp
 description: Yes, STIRP is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,12 @@ anagrams:
 - spirt
 - sprit
 - trips
+definitions:
+- pos: noun
+  defs:
+  - text: A line descended from a single ancestor.
+  - text: A line descending from a single extant ancestor, a lineage descending from
+      a supergenerative species.
 prev_word: stirk
 next_word: stirs
 hubs:

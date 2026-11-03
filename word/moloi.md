@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MOLOI a Wordle Word?
-head_title: Is MOLOI a Wordle Word? Yes – Valid Guess
+head_title: Is MOLOI a Wordle Word? Yes – Valid Guess & Meaning
 word: moloi
 description: Yes, MOLOI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 - molvi
 anagrams:
 - mooli
+phonetic: "/məˈlɔɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A magician, witch, wizard, or other magic-user, especially in traditional
+      tribal society.
+    example: At dead of night the baloi issue forth from their homes.
 prev_word: molly
 next_word: molos
 hubs:

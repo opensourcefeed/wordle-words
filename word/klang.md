@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KLANG a Wordle Word?
-head_title: Is KLANG a Wordle Word? Yes – Valid Guess
+head_title: Is KLANG a Wordle Word? Yes – Valid Guess & Meaning
 word: klang
 description: Yes, KLANG is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - klong
 - krang
 - kyang
+definitions:
+- pos: noun
+  defs:
+  - text: Any periodic sound, especially one composed of a fundamental and harmonics,
+      as opposed to simple periodic sounds (sine tones).
 prev_word: kiwis
 next_word: klaps
 hubs:

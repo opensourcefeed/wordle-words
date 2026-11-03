@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UNDEE a Wordle Word?
-head_title: Is UNDEE a Wordle Word? Yes – Valid Guess
+head_title: Is UNDEE a Wordle Word? Yes – Valid Guess & Meaning
 word: undee
 description: Yes, UNDEE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - urdee
 anagrams:
 - endue
+definitions:
+- pos: adjective
+  defs:
+  - text: Alternative form of undé.
+    example: Arms - Gules, a falcon volant, or, within an orle engrailed, undee, argent.
 prev_word: undam
 next_word: under
 hubs:

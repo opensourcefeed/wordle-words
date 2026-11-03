@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LIMAX a Wordle Word?
-head_title: Is LIMAX a Wordle Word? Yes – Valid Guess
+head_title: Is LIMAX a Wordle Word? Yes – Valid Guess & Meaning
 word: limax
 description: Yes, LIMAX is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,13 @@ stats:
 neighbours:
 - liman
 - limas
+definitions:
+- pos: noun
+  defs:
+  - text: A slug or slug-like creature.
+    example: The Cylindrus is a simple shell, without a hinge, formed of one continued
+      piece, and of a figure approaching to a cylinder […]. The animal inhabiting
+      the Cylindrus is a limax.
 prev_word: limas
 next_word: limba
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OXINE a Wordle Word?
-head_title: Is OXINE a Wordle Word? Yes – Valid Guess
+head_title: Is OXINE a Wordle Word? Yes – Valid Guess & Meaning
 word: oxine
 description: Yes, OXINE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 - oxide
 - exine
 - oxime
+definitions:
+- pos: noun
+  defs:
+  - text: 8-hydroxyquinoline when used to form complexes with metal ions in inorganic
+      analysis.
 prev_word: oxims
 next_word: oxlip
 hubs:

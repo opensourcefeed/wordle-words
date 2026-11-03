@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ROKES a Wordle Word?
-head_title: Is ROKES a Wordle Word? Yes – Valid Guess
+head_title: Is ROKES a Wordle Word? Yes – Valid Guess & Meaning
 word: rokes
 description: Yes, ROKES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,10 @@ anagrams:
 trap:
   pattern: _OKES
   count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of roke: Fog, mist; light rain; smoke, vapour; damp.'
 prev_word: roker
 next_word: rokey
 hubs:

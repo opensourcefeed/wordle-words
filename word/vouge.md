@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is VOUGE a Wordle Word?
-head_title: Is VOUGE a Wordle Word? Yes – Valid Guess
+head_title: Is VOUGE a Wordle Word? Yes – Valid Guess & Meaning
 word: vouge
 description: Yes, VOUGE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,12 @@ neighbours:
 - bouge
 anagrams:
 - vogue
+phonetic: "/vuʒ/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of voulge: A medieval poleaxe bearing resemblance to a
+      glaive or a Lochaber ax, although the blade portion is somewhat more elongated.'
 prev_word: vouch
 next_word: voulu
 hubs:

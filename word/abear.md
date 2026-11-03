@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ABEAR a Wordle Word?
-head_title: Is ABEAR a Wordle Word? Yes – Valid Guess
+head_title: Is ABEAR a Wordle Word? Yes – Valid Guess & Meaning
 word: abear
 description: Yes, ABEAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,20 @@ neighbours:
 - afear
 - anear
 - arear
+phonetic: "/əˈbɛə/"
+definitions:
+- pos: verb
+  defs:
+  - text: To put up with; to endure; to bear.
+    example: Hunder-cook, indeed! which it's what I never abore yet, and never will
+      abear.
+  - text: To bear; to carry.
+  - text: To behave; to comport oneself.
+    example: So did the Faerie knight himselfe abeare, / And stouped oft his head
+      from shame to shield […]
+- pos: noun
+  defs:
+  - text: Bearing, behavior.
 prev_word: abeam
 next_word: abeat
 hubs:

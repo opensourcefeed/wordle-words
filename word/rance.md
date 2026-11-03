@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RANCE a Wordle Word?
-head_title: Is RANCE a Wordle Word? Yes – Valid Guess
+head_title: Is RANCE a Wordle Word? Yes – Valid Guess & Meaning
 word: rance
 description: Yes, RANCE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -43,6 +44,17 @@ anagrams:
 trap:
   pattern: _ANCE
   count: 6
+phonetic: "/ɹæns/"
+definitions:
+- pos: noun
+  defs:
+  - text: A type of coloured marble from Belgium. Rance is red and often has white
+      or blue graining.
+  - text: A prop or shore.
+  - text: A round or spreader between the legs of a chair.
+- pos: verb
+  defs:
+  - text: To prop or shore up.
 prev_word: ranas
 next_word: ranch
 hubs:

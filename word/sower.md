@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is SOWER a Wordle Word?
-head_title: 'Is SOWER a Wordle Word? Yes – Past Answer #42'
+head_title: 'Is SOWER a Wordle Word? Yes – Past Answer #42 & Meaning'
 word: sower
 description: Yes, SOWER is a valid Wordle word. It was the Wordle answer on July 31,
-  2021 (#42). See its starter rating and similar words.
+  2021 (#42). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on July 31, 2021 (#42).
 past_answers:
@@ -49,6 +49,14 @@ anagrams:
 trap:
   pattern: _OWER
   count: 10
+phonetic: "/ˈsəʊɚ/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who or that which sows.
+- pos: adjective
+  defs:
+  - text: 'Archaic form of sour: Tasting of acidity.'
 prev_word: sowed
 next_word: sowff
 hubs:

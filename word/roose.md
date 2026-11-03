@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ROOSE a Wordle Word?
-head_title: Is ROOSE a Wordle Word? Yes – Valid Guess
+head_title: Is ROOSE a Wordle Word? Yes – Valid Guess & Meaning
 word: roose
 description: Yes, ROOSE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,14 @@ neighbours:
 trap:
   pattern: _OOSE
   count: 7
+definitions:
+- pos: verb
+  defs:
+  - text: To flatter or praise.
+    example: Ha'e na ye roosed my cheeks like the morning? Ha'e na ye roosed my cherry-red
+      mou?
+  - text: To be proud.
+    example: I'll cock my nose aboon them a' — I'm roosed by Craigengillan !
 prev_word: roosa
 next_word: roost
 hubs:

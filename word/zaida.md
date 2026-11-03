@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ZAIDA a Wordle Word?
-head_title: Is ZAIDA a Wordle Word? Yes – Valid Guess
+head_title: Is ZAIDA a Wordle Word? Yes – Valid Guess & Meaning
 word: zaida
 description: Yes, ZAIDA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 - zaide
 - zaidy
 - zarda
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of zayde: Grandfather'
+    example: But while Zaida was alive we always went for Seder dinner on the first
+      night of Pesach, the Jewish holiday commemorating the Exodus from Egypt.
 prev_word: zacks
 next_word: zaide
 hubs:

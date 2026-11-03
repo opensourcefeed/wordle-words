@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GINNY a Wordle Word?
-head_title: Is GINNY a Wordle Word? Yes – Valid Guess
+head_title: Is GINNY a Wordle Word? Yes – Valid Guess & Meaning
 word: ginny
 description: Yes, GINNY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,15 @@ anagrams:
 trap:
   pattern: _INNY
   count: 9
+phonetic: "/ˈdʒɪni/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Affected by gin; resembling or characteristic of gin.
+    example: "‘Oh, to hell with art!’ he cried. ‘Let's get ginny.’"
+- pos: noun
+  defs:
+  - text: A stationary engine for hauling coal out of a mine.
 prev_word: ginks
 next_word: ginzo
 hubs:

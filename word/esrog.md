@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ESROG a Wordle Word?
-head_title: Is ESROG a Wordle Word? Yes – Valid Guess
+head_title: Is ESROG a Wordle Word? Yes – Valid Guess & Meaning
 word: esrog
 description: Yes, ESROG is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,11 @@ anagrams:
 - ogres
 - regos
 - soger
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of etrog: The yellow citron (Citrus medica) used in Sukkot
+      ritual.'
 prev_word: esnes
 next_word: essay
 hubs:

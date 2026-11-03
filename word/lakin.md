@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LAKIN a Wordle Word?
-head_title: Is LAKIN a Wordle Word? Yes – Valid Guess
+head_title: Is LAKIN a Wordle Word? Yes – Valid Guess & Meaning
 word: lakin
 description: Yes, LAKIN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,15 @@ neighbours:
 - takin
 anagrams:
 - alkin
+phonetic: "/ˈleɪkɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A toy.
+    example: And the gay lakin, mistress Fitton, mount and cry O, and his dainty birdsnies,
+      lady Penelope Rich, a clean quality woman is suited for a player, and the punks
+      of the bankside, a penny a time.
+  - text: 'Obsolete form of ladykin: A little, or young, lady.'
 prev_word: lakhs
 next_word: laksa
 hubs:

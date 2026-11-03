@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WHISH a Wordle Word?
-head_title: Is WHISH a Wordle Word? Yes – Valid Guess
+head_title: Is WHISH a Wordle Word? Yes – Valid Guess & Meaning
 word: whish
 description: Yes, WHISH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,20 @@ neighbours:
 - shish
 - whiss
 - whist
+phonetic: "/ˈwɪʃ/"
+definitions:
+- pos: interjection
+  defs:
+  - text: 'Alternative spelling of whisht: Shush, silence, be quiet!'
+- pos: noun
+  defs:
+  - text: A sibilant sound, especially that of rapid movement through the air.
+- pos: verb
+  defs:
+  - text: To make such a sound.
+- pos: adjective
+  defs:
+  - text: Silent.
 prev_word: whirs
 next_word: whisk
 hubs:

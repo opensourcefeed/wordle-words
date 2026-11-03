@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BREDE a Wordle Word?
-head_title: Is BREDE a Wordle Word? Yes – Valid Guess
+head_title: Is BREDE a Wordle Word? Yes – Valid Guess & Meaning
 word: brede
 description: Yes, BREDE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,13 @@ neighbours:
 - breve
 anagrams:
 - breed
+definitions:
+- pos: noun
+  defs:
+  - text: Ornamental embroidery.
+    example: "[…] while now the bright-hair'd Sun / Sits in yon western Tent, whose
+      cloudy Skirts, / With Brede ethereal wove"
+  - text: A braid.
 prev_word: bream
 next_word: breds
 hubs:

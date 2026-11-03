@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KAMIK a Wordle Word?
-head_title: Is KAMIK a Wordle Word? Yes – Valid Guess
+head_title: Is KAMIK a Wordle Word? Yes – Valid Guess & Meaning
 word: kamik
 description: Yes, KAMIK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,12 @@ stats:
   starter_top_percent: 89
 neighbours:
 - kamis
+phonetic: "/ˈkɑmɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A mukluk.
+    example: Regional differences affect kamik styles.
 prev_word: kames
 next_word: kamis
 hubs:

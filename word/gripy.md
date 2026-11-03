@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GRIPY a Wordle Word?
-head_title: Is GRIPY a Wordle Word? Yes – Valid Guess
+head_title: Is GRIPY a Wordle Word? Yes – Valid Guess & Meaning
 word: gripy
 description: Yes, GRIPY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,10 @@ neighbours:
 - gript
 - grisy
 - tripy
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Alternative form of gripey: Tending to gripe.'
 prev_word: gript
 next_word: grise
 hubs:

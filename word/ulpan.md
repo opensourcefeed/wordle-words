@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ULPAN a Wordle Word?
-head_title: Is ULPAN a Wordle Word? Yes – Valid Guess
+head_title: Is ULPAN a Wordle Word? Yes – Valid Guess & Meaning
 word: ulpan
 description: Yes, ULPAN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,10 @@ stats:
   starter_top_percent: 39
 anagrams:
 - unlap
+definitions:
+- pos: noun
+  defs:
+  - text: An Israeli school where the Hebrew language is taught to new immigrants.
 prev_word: ulnas
 next_word: ultra
 hubs:

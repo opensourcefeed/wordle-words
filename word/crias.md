@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CRIAS a Wordle Word?
-head_title: Is CRIAS a Wordle Word? Yes – Valid Guess
+head_title: Is CRIAS a Wordle Word? Yes – Valid Guess & Meaning
 word: crias
 description: Yes, CRIAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,11 @@ neighbours:
 trap:
   pattern: CRI_S
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of cria: A young South American camelid (llama, vicuna, guanaco
+      or alpaca).'
 prev_word: crews
 next_word: cribo
 hubs:

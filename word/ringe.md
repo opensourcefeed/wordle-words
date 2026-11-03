@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RINGE a Wordle Word?
-head_title: Is RINGE a Wordle Word? Yes – Valid Guess
+head_title: Is RINGE a Wordle Word? Yes – Valid Guess & Meaning
 word: ringe
 description: Yes, RINGE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -45,6 +46,10 @@ anagrams:
 trap:
   pattern: _INGE
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A whisk made of heather.
 prev_word: rines
 next_word: rings
 hubs:

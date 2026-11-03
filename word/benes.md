@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BENES a Wordle Word?
-head_title: Is BENES a Wordle Word? Yes – Valid Guess
+head_title: Is BENES a Wordle Word? Yes – Valid Guess & Meaning
 word: benes
 description: Yes, BENES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,10 @@ anagrams:
 trap:
   pattern: _ENES
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of bene: A prayer, especially to God; a petition; a boon.'
 prev_word: bendy
 next_word: benet
 hubs:

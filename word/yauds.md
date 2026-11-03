@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is YAUDS a Wordle Word?
-head_title: Is YAUDS a Wordle Word? Yes – Valid Guess
+head_title: Is YAUDS a Wordle Word? Yes – Valid Guess & Meaning
 word: yauds
 description: Yes, YAUDS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ neighbours:
 trap:
   pattern: _AUDS
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of yaud: A workhorse; an old or worn-out mare.'
 prev_word: yatra
 next_word: yauld
 hubs:

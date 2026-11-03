@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KITED a Wordle Word?
-head_title: Is KITED a Wordle Word? Yes – Valid Guess
+head_title: Is KITED a Wordle Word? Yes – Valid Guess & Meaning
 word: kited
 description: Yes, KITED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,16 @@ neighbours:
 trap:
   pattern: _ITED
   count: 6
+phonetic: "/ˈkaɪtɪd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Of a cheque: made out on an account with insufficient funds, either to
+      defraud or expecting that funds will become available by the time the cheque
+      clears.'
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of kite: A bird of prey of the family Accipitridae.'
 prev_word: kitab
 next_word: kiter
 hubs:

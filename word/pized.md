@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PIZED a Wordle Word?
-head_title: Is PIZED a Wordle Word? Yes – Valid Guess
+head_title: Is PIZED a Wordle Word? Yes – Valid Guess & Meaning
 word: pized
 description: Yes, PIZED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,11 @@ neighbours:
 - pizer
 - pizes
 - sized
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of pize: Used in various imprecatory expressions:
+      a pest, a pox.'
 prev_word: piyut
 next_word: pizer
 hubs:

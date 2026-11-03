@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KIBEI a Wordle Word?
-head_title: Is KIBEI a Wordle Word? Yes – Valid Guess
+head_title: Is KIBEI a Wordle Word? Yes – Valid Guess & Meaning
 word: kibei
 description: Yes, KIBEI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,13 @@ neighbours:
 - kibes
 anagrams:
 - bikie
+definitions:
+- pos: noun
+  defs:
+  - text: A Japanese-American who is born in the United States but primarily educated
+      in Japan.
+    example: Most kibei were not fluent in English because of their upbringing in
+      Japan.
 prev_word: kibbi
 next_word: kibes
 hubs:

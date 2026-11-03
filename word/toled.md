@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TOLED a Wordle Word?
-head_title: Is TOLED a Wordle Word? Yes – Valid Guess
+head_title: Is TOLED a Wordle Word? Yes – Valid Guess & Meaning
 word: toled
 description: Yes, TOLED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,11 @@ neighbours:
 trap:
   pattern: _OLED
   count: 10
+definitions:
+- pos: verb
+  defs:
+  - text: 'Past of tole: A decorative metalware having a lacquered or enamelled surface
+      that is painted or gilded.'
 prev_word: tolas
 next_word: toles
 hubs:

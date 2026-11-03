@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TOGUE a Wordle Word?
-head_title: Is TOGUE a Wordle Word? Yes – Valid Guess
+head_title: Is TOGUE a Wordle Word? Yes – Valid Guess & Meaning
 word: togue
 description: Yes, TOGUE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,11 @@ neighbours:
 trap:
   pattern: _OGUE
   count: 7
+phonetic: "/toʊɡ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Lake trout, Salvelinus namaycush, a freshwater char of northern North America.
 prev_word: toges
 next_word: tohos
 hubs:

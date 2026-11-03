@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PUYAS a Wordle Word?
-head_title: Is PUYAS a Wordle Word? Yes – Valid Guess
+head_title: Is PUYAS a Wordle Word? Yes – Valid Guess & Meaning
 word: puyas
 description: Yes, PUYAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,11 @@ anagrams:
 trap:
   pattern: PU_AS
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of puya: Any of a group of books written in the Old Manipuri language,
+      mostly sacred to Sanamahism.'
 prev_word: puuko
 next_word: puzel
 hubs:

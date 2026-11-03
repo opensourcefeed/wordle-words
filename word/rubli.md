@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RUBLI a Wordle Word?
-head_title: Is RUBLI a Wordle Word? Yes – Valid Guess
+head_title: Is RUBLI a Wordle Word? Yes – Valid Guess & Meaning
 word: rubli
 description: Yes, RUBLI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,11 @@ stats:
 neighbours:
 - rubai
 - ruble
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of rublis: The currency of Latvia from 1919 to 1922 and from 1992
+      to 1993.'
 prev_word: ruble
 next_word: rubor
 hubs:

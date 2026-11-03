@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CASUS a Wordle Word?
-head_title: Is CASUS a Wordle Word? Yes – Valid Guess
+head_title: Is CASUS a Wordle Word? Yes – Valid Guess & Meaning
 word: casus
 description: Yes, CASUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ neighbours:
 - nasus
 anagrams:
 - ascus
+definitions:
+- pos: noun
+  defs:
+  - text: A possible world, as a starting point for reasoning.
 prev_word: casts
 next_word: catch
 hubs:

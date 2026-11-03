@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REPEG a Wordle Word?
-head_title: Is REPEG a Wordle Word? Yes – Valid Guess
+head_title: Is REPEG a Wordle Word? Yes – Valid Guess & Meaning
 word: repeg
 description: Yes, REPEG is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,11 @@ stats:
 neighbours:
 - repel
 - repen
+definitions:
+- pos: verb
+  defs:
+  - text: To insert or drive in a peg or pegs again.
+  - text: To peg (a currency) again.
 prev_word: repay
 next_word: repel
 hubs:

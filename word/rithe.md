@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RITHE a Wordle Word?
-head_title: Is RITHE a Wordle Word? Yes – Valid Guess
+head_title: Is RITHE a Wordle Word? Yes – Valid Guess & Meaning
 word: rithe
 description: Yes, RITHE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,11 @@ anagrams:
 trap:
   pattern: _ITHE
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative form of rith (“small stream”).
+    example: Besides these branches, there are several rithes or channels, […]
 prev_word: rites
 next_word: ritts
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UPSEY a Wordle Word?
-head_title: Is UPSEY a Wordle Word? Yes – Valid Guess
+head_title: Is UPSEY a Wordle Word? Yes – Valid Guess & Meaning
 word: upsey
 description: Yes, UPSEY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,10 @@ stats:
 neighbours:
 - upset
 - upsee
+definitions:
+- pos: preposition
+  defs:
+  - text: 'Alternative form of upsee: After the fashion of; a la.'
 prev_word: upset
 next_word: uptak
 hubs:

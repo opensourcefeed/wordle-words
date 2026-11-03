@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MAQAM a Wordle Word?
-head_title: Is MAQAM a Wordle Word? Yes – Valid Guess
+head_title: Is MAQAM a Wordle Word? Yes – Valid Guess & Meaning
 word: maqam
 description: Yes, MAQAM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,14 @@ stats:
 neighbours:
 - madam
 - malam
+definitions:
+- pos: noun
+  defs:
+  - text: A modal structure characterizing the art of music of countries in North
+      Africa, West Asia and Central Asia.
+    example: At 18, late for a professional musician, he took up the oud, studying
+      the mysteries of the Iraqi maqam, the complex system of tonal sequences and
+      improvisation passed from master to student.
 prev_word: mappy
 next_word: maqui
 hubs:

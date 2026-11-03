@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOWLE a Wordle Word?
-head_title: Is SOWLE a Wordle Word? Yes – Valid Guess
+head_title: Is SOWLE a Wordle Word? Yes – Valid Guess & Meaning
 word: sowle
 description: Yes, SOWLE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,15 @@ anagrams:
 - lowes
 - lowse
 - swole
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete spelling of soul: The spirit or essence of a person usually thought
+      to consist of one''s thoughts and personality, often believed to live on after
+      the person''s death.'
+    example: 'The archbishop made the "proclamacion on the iiij quarters of the scaffolde,
+      seyend in this wyse: Sirs, heere comyth Henry, kyng Henryes sone the Vth, on
+      whose sowle God have mercy, Amen.'
 prev_word: sowfs
 next_word: sowls
 hubs:

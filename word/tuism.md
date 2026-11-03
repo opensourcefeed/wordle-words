@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TUISM a Wordle Word?
-head_title: Is TUISM a Wordle Word? Yes – Valid Guess
+head_title: Is TUISM a Wordle Word? Yes – Valid Guess & Meaning
 word: tuism
 description: Yes, TUISM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,11 @@ anagrams:
 - muist
 - musit
 - mutis
+definitions:
+- pos: noun
+  defs:
+  - text: The theory that all thought is directed to a second person or to one's future
+      self as such.
 prev_word: tuina
 next_word: tuktu
 hubs:

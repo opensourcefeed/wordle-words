@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DEICE a Wordle Word?
-head_title: Is DEICE a Wordle Word? Yes – Valid Guess
+head_title: Is DEICE a Wordle Word? Yes – Valid Guess & Meaning
 word: deice
 description: Yes, DEICE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,16 @@ stats:
 neighbours:
 - deuce
 - drice
+phonetic: "/diːˈaɪs/"
+definitions:
+- pos: verb
+  defs:
+  - text: To remove ice from (something).
+    example: They had to move the plane back from the runway to deice the wings before
+      takeoff.
+  - text: To lose its ice; to thaw.
+    example: Our streets are full of a general sloshiness that lingers and won't go
+      away, as if a glacier is deicing to the north.
 prev_word: degus
 next_word: deids
 hubs:

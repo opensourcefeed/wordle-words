@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ELINT a Wordle Word?
-head_title: Is ELINT a Wordle Word? Yes – Valid Guess
+head_title: Is ELINT a Wordle Word? Yes – Valid Guess & Meaning
 word: elint
 description: Yes, ELINT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,10 @@ anagrams:
 - enlit
 - intel
 - lenti
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative letter-case form of ELINT.
 prev_word: elide
 next_word: elite
 hubs:

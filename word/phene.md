@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PHENE a Wordle Word?
-head_title: Is PHENE a Wordle Word? Yes – Valid Guess
+head_title: Is PHENE a Wordle Word? Yes – Valid Guess & Meaning
 word: phene
 description: Yes, PHENE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,13 @@ neighbours:
 - pheme
 - phese
 - plene
+phonetic: "/ˈfiːn/"
+definitions:
+- pos: noun
+  defs:
+  - text: Benzene.
+  - text: A genetically determined phenotype.
+    example: This phene has a dominant influence on phosphorus acquisition.
 prev_word: pheme
 next_word: pheon
 hubs:

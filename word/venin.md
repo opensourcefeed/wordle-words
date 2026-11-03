@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is VENIN a Wordle Word?
-head_title: Is VENIN a Wordle Word? Yes – Valid Guess
+head_title: Is VENIN a Wordle Word? Yes – Valid Guess & Meaning
 word: venin
 description: Yes, VENIN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ stats:
 neighbours:
 - genin
 - renin
+definitions:
+- pos: noun
+  defs:
+  - text: Synonym of venom.
+  - text: A toxic substance found in the venom of poisonous snakes.
+  - text: A supposedly identical toxic substance obtained by cleavage of an albumose.
 prev_word: venge
 next_word: venom
 hubs:

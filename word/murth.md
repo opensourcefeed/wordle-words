@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MURTH a Wordle Word?
-head_title: Is MURTH a Wordle Word? Yes – Valid Guess
+head_title: Is MURTH a Wordle Word? Yes – Valid Guess & Meaning
 word: murth
 description: Yes, MURTH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - musth
 anagrams:
 - thrum
+definitions:
+- pos: noun
+  defs:
+  - text: Murder; slaughter.
+  - text: Plenty; abundance
 prev_word: murry
 next_word: murti
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MAWKS a Wordle Word?
-head_title: Is MAWKS a Wordle Word? Yes – Valid Guess
+head_title: Is MAWKS a Wordle Word? Yes – Valid Guess & Meaning
 word: mawks
 description: Yes, MAWKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,11 @@ neighbours:
 trap:
   pattern: _AWKS
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of mawk: A maggot.'
+  - text: Hands
 prev_word: mawed
 next_word: mawky
 hubs:

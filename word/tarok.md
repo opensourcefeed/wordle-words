@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TAROK a Wordle Word?
-head_title: Is TAROK a Wordle Word? Yes – Valid Guess
+head_title: Is TAROK a Wordle Word? Yes – Valid Guess & Meaning
 word: tarok
 description: Yes, TAROK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,10 @@ neighbours:
 anagrams:
 - korat
 - troak
+definitions:
+- pos: noun
+  defs:
+  - text: 'Dated form of tarot: A card game played in various different variations.'
 prev_word: taroc
 next_word: taros
 hubs:

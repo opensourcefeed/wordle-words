@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BEGAR a Wordle Word?
-head_title: Is BEGAR a Wordle Word? Yes – Valid Guess
+head_title: Is BEGAR a Wordle Word? Yes – Valid Guess & Meaning
 word: begar
 description: Yes, BEGAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,10 @@ neighbours:
 anagrams:
 - barge
 - garbe
+definitions:
+- pos: noun
+  defs:
+  - text: A system of forced labour in parts of India.
 prev_word: began
 next_word: begat
 hubs:

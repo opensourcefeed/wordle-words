@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SPIAL a Wordle Word?
-head_title: Is SPIAL a Wordle Word? Yes – Valid Guess
+head_title: Is SPIAL a Wordle Word? Yes – Valid Guess & Meaning
 word: spial
 description: Yes, SPIAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,14 @@ anagrams:
 - pails
 - palis
 - spail
+phonetic: "/ˈspaɪəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: Espionage.
+  - text: A spy.
+    example: And priuie spials plast in all his way, / To weete what course he takes,
+      and how he fares […]
 prev_word: spewy
 next_word: spica
 hubs:

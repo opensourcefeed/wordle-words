@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is QUEME a Wordle Word?
-head_title: Is QUEME a Wordle Word? Yes – Valid Guess
+head_title: Is QUEME a Wordle Word? Yes – Valid Guess & Meaning
 word: queme
 description: Yes, QUEME is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 - quete
 anagrams:
 - queem
+definitions:
+- pos: verb
+  defs:
+  - text: To please, to satisfy.
+    example: Of body she was right avenant, Of fair colour, with sweet semblant. Her
+      attire full well it seem'd, Marvellich the king she quemed.
 prev_word: quell
 next_word: quena
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CAUKS a Wordle Word?
-head_title: Is CAUKS a Wordle Word? Yes – Valid Guess
+head_title: Is CAUKS a Wordle Word? Yes – Valid Guess & Meaning
 word: cauks
 description: Yes, CAUKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,10 @@ neighbours:
 trap:
   pattern: CA_KS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of cauk: An opaque, earthy variety of barite, or heavy spar.'
 prev_word: cauda
 next_word: cauld
 hubs:

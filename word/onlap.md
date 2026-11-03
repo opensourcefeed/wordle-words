@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ONLAP a Wordle Word?
-head_title: Is ONLAP a Wordle Word? Yes – Valid Guess
+head_title: Is ONLAP a Wordle Word? Yes – Valid Guess & Meaning
 word: onlap
 description: Yes, ONLAP is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,18 @@ neighbours:
 - unlap
 anagrams:
 - nopal
+definitions:
+- pos: noun
+  defs:
+  - text: The phenomenon of successively younger rock strata extending progressively
+      further across an erosion surface cut in older rocks.
+    example: Displacement on F3 was followed by continued accumulation and onlap of
+      the fine-grained sands of unit 3 on the footwall and development of soil Qb2.
+- pos: verb
+  defs:
+  - text: To form an onlap.
+    example: Elsewhere, many of the youngest volcanic plains units onlap tesserae
+      at crustal plateau boundaries.
 prev_word: onkus
 next_word: onlay
 hubs:

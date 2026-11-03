@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WIFED a Wordle Word?
-head_title: Is WIFED a Wordle Word? Yes – Valid Guess
+head_title: Is WIFED a Wordle Word? Yes – Valid Guess & Meaning
 word: wifed
 description: Yes, WIFED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,16 @@ neighbours:
 trap:
   pattern: WI_ED
   count: 8
+definitions:
+- pos: adjective
+  defs:
+  - text: Having a wife or the specified number of wives.
+    example: "“You smile and mock me,” she said, “as if I meant naughtily.” “Do you
+      not?” She said with sudden gaiety, “Thou wifed man—I’ll unsmock thee.”"
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of wife: A married woman, especially in
+      relation to her spouse.'
 prev_word: wiels
 next_word: wifes
 hubs:

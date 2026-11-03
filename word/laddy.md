@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LADDY a Wordle Word?
-head_title: Is LADDY a Wordle Word? Yes – Valid Guess
+head_title: Is LADDY a Wordle Word? Yes – Valid Guess & Meaning
 word: laddy
 description: Yes, LADDY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,11 @@ neighbours:
 trap:
   pattern: _ADDY
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of laddie: A small boy.'
+    example: The Rantan Laddy (traditional ballad)
 prev_word: laddu
 next_word: laded
 hubs:

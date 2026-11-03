@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CURIA a Wordle Word?
-head_title: Is CURIA a Wordle Word? Yes – Valid Guess
+head_title: Is CURIA a Wordle Word? Yes – Valid Guess & Meaning
 word: curia
 description: Yes, CURIA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,13 @@ neighbours:
 anagrams:
 - auric
 - cauri
+phonetic: "/ˈkjʊəriə/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of the subdivisions of a tribe in ancient Rome
+  - text: The Roman senate during the republic
+  - text: Any of several medieval councils or courts of justice
 prev_word: curfs
 next_word: curie
 hubs:

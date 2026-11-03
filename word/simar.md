@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SIMAR a Wordle Word?
-head_title: Is SIMAR a Wordle Word? Yes – Valid Guess
+head_title: Is SIMAR a Wordle Word? Yes – Valid Guess & Meaning
 word: simar
 description: Yes, SIMAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,15 @@ anagrams:
 - amirs
 - mairs
 - ramis
+definitions:
+- pos: noun
+  defs:
+  - text: A woman's loose, long dress or robe; sometimes specifically, an undergarment
+      or chemise.
+    example: "[T]heir beautiful tresses were braided and incensed; and they were wrapped
+      in symars whiter than alabaster."
+  - text: A type of ecclesiastical vestment, similar to a cassock.
+  - text: A light covering; a cloak or mantle.
 prev_word: silva
 next_word: simas
 hubs:

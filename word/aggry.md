@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AGGRY a Wordle Word?
-head_title: Is AGGRY a Wordle Word? Yes – Valid Guess
+head_title: Is AGGRY a Wordle Word? Yes – Valid Guess & Meaning
 word: aggry
 description: Yes, AGGRY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - aggro
 anagrams:
 - raggy
+definitions:
+- pos: adjective
+  defs:
+  - text: Applied to a kind of variegated glass beads of ancient manufacture.
+    example: Aggri beads are found in Ashantee and Fantee in Africa.
 prev_word: aggro
 next_word: aghas
 hubs:

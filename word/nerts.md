@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NERTS a Wordle Word?
-head_title: Is NERTS a Wordle Word? Yes – Valid Guess
+head_title: Is NERTS a Wordle Word? Yes – Valid Guess & Meaning
 word: nerts
 description: Yes, NERTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,19 @@ anagrams:
 trap:
   pattern: NE_TS
   count: 6
+definitions:
+- pos: adjective
+  defs:
+  - text: Crazy; nuts.
+    example: '"You''d be plumb nerts" says he, "to think of it."'
+- pos: interjection
+  defs:
+  - text: Nuts! Expression of dismay.
+    example: FOUND HIM 'TERRIBLY NICE' She Wonders What He Thought When She Said,
+      'Oh, Nerts!' After a Bad Shot.
+- pos: noun
+  defs:
+  - text: A fast-paced card game played with multiple decks.
 prev_word: nerol
 next_word: nertz
 hubs:

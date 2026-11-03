@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ALMES a Wordle Word?
-head_title: Is ALMES a Wordle Word? Yes – Valid Guess
+head_title: Is ALMES a Wordle Word? Yes – Valid Guess & Meaning
 word: almes
 description: Yes, ALMES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,12 @@ anagrams:
 - melas
 - mesal
 - samel
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of alms: Something given to the poor as charity, such as
+      money, clothing or food.'
+  - text: Plural of alme
 prev_word: almeh
 next_word: almud
 hubs:

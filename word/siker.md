@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SIKER a Wordle Word?
-head_title: Is SIKER a Wordle Word? Yes – Valid Guess
+head_title: Is SIKER a Wordle Word? Yes – Valid Guess & Meaning
 word: siker
 description: Yes, SIKER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,18 @@ anagrams:
 trap:
   pattern: _IKER
   count: 6
+definitions:
+- pos: adjective
+  defs:
+  - text: Alternative spelling of sicker (“certain”).
+  - text: Alternative spelling of sicker (“secure”).
+    example: |-
+      That schip had a ful siker mast,
+      And a sayl strong and large.
+- pos: adverb
+  defs:
+  - text: Alternative spelling of sicker (“certainly”).
+  - text: Alternative spelling of sicker (“securely”).
 prev_word: sikas
 next_word: sikes
 hubs:

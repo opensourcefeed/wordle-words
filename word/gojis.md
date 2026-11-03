@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GOJIS a Wordle Word?
-head_title: Is GOJIS a Wordle Word? Yes – Valid Guess
+head_title: Is GOJIS a Wordle Word? Yes – Valid Guess & Meaning
 word: gojis
 description: Yes, GOJIS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - goris
 - kojis
 - rojis
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of goji: A fruit in the genus Lycium, especially in commercial products
+      where it is promoted as a superfruit.'
 prev_word: going
 next_word: gokes
 hubs:

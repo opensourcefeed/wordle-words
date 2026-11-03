@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SILVA a Wordle Word?
-head_title: Is SILVA a Wordle Word? Yes – Valid Guess
+head_title: Is SILVA a Wordle Word? Yes – Valid Guess & Meaning
 word: silva
 description: Yes, SILVA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,13 @@ anagrams:
 - vails
 - valis
 - vials
+definitions:
+- pos: noun
+  defs:
+  - text: The forest trees of a particular area
+    example: The most interesting and striking features of the silva of California
+      relate to its composition, the geographical distribution of the species and
+      their biological history.
 prev_word: silty
 next_word: simar
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is VOLED a Wordle Word?
-head_title: Is VOLED a Wordle Word? Yes – Valid Guess
+head_title: Is VOLED a Wordle Word? Yes – Valid Guess & Meaning
 word: voled
 description: Yes, VOLED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,12 @@ anagrams:
 trap:
   pattern: _OLED
   count: 10
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of vole: Any of a large number of species
+      of small rodents of the tribes Arvicolini, Ellobiusini, Clethrionomyini, Pliomyini,
+      Phenacomyini and Prometheomyini.'
 prev_word: volar
 next_word: voles
 hubs:

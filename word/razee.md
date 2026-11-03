@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RAZEE a Wordle Word?
-head_title: Is RAZEE a Wordle Word? Yes – Valid Guess
+head_title: Is RAZEE a Wordle Word? Yes – Valid Guess & Meaning
 word: razee
 description: Yes, RAZEE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,18 @@ anagrams:
 trap:
   pattern: RA_EE
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: An armed ship with its upper deck cut away, and thus reduced to the next
+      inferior rate, such as a seventy-four cut down to a frigate.
+    example: an old line-of-battle ship, (21 years of age,) cut down to a razee
+- pos: verb
+  defs:
+  - text: To cut (a ship) down to a smaller number of decks, and thus to an inferior
+      rate or class.
+  - text: To trim or abridge by cutting off parts.
+    example: to razee a book, or an article
 prev_word: razed
 next_word: razer
 hubs:

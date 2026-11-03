@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FETAS a Wordle Word?
-head_title: Is FETAS a Wordle Word? Yes – Valid Guess
+head_title: Is FETAS a Wordle Word? Yes – Valid Guess & Meaning
 word: fetas
 description: Yes, FETAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,11 @@ anagrams:
 trap:
   pattern: _ETAS
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of feta: A variety of curd cheese made from sheep’s or goat’s milk
+      and originating from Greece.'
 prev_word: fetal
 next_word: fetch
 hubs:

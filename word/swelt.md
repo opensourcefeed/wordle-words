@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SWELT a Wordle Word?
-head_title: Is SWELT a Wordle Word? Yes – Valid Guess
+head_title: Is SWELT a Wordle Word? Yes – Valid Guess & Meaning
 word: swelt
 description: Yes, SWELT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,15 @@ neighbours:
 - swept
 anagrams:
 - welts
+phonetic: "/swɛlt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To die.
+  - text: To succumb or be overcome with emotion, heat, etc.; to faint or swelter
+    example: Immediatly in smoldering heate of Love the t'one did swelt,
+  - text: 'Simple past of swell: To become larger, fuller, or rounder, or expand in
+      size or shape, usually as a result of pressure from within.'
 prev_word: swell
 next_word: swept
 hubs:

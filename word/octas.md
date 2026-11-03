@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OCTAS a Wordle Word?
-head_title: Is OCTAS a Wordle Word? Yes – Valid Guess
+head_title: Is OCTAS a Wordle Word? Yes – Valid Guess & Meaning
 word: octas
 description: Yes, OCTAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,12 @@ anagrams:
 - coats
 - costa
 - tacos
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of octa: The proportion of the sky that is obscured by clouds, in
+      eighths (one octa means that one eighth of the sky is obscured, two octas that
+      one quarter is obscured, and so on).'
 prev_word: octan
 next_word: octet
 hubs:

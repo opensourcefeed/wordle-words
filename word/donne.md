@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DONNE a Wordle Word?
-head_title: Is DONNE a Wordle Word? Yes – Valid Guess
+head_title: Is DONNE a Wordle Word? Yes – Valid Guess & Meaning
 word: donne
 description: Yes, DONNE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,11 @@ anagrams:
 trap:
   pattern: _ONNE
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of donna: A lady, especially a noblewoman; the title given to a
+      lady in Italy.'
 prev_word: donna
 next_word: donny
 hubs:

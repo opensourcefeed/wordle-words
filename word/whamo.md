@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WHAMO a Wordle Word?
-head_title: Is WHAMO a Wordle Word? Yes – Valid Guess
+head_title: Is WHAMO a Wordle Word? Yes – Valid Guess & Meaning
 word: whamo
 description: Yes, WHAMO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,10 @@ stats:
   starter_top_percent: 70
 neighbours:
 - whams
+definitions:
+- pos: interjection
+  defs:
+  - text: 'Alternative form of whammo: Used to emphasize the suddenness of an event.'
 prev_word: whale
 next_word: whams
 hubs:

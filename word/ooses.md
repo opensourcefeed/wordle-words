@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OOSES a Wordle Word?
-head_title: Is OOSES a Wordle Word? Yes – Valid Guess
+head_title: Is OOSES a Wordle Word? Yes – Valid Guess & Meaning
 word: ooses
 description: Yes, OOSES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,10 @@ neighbours:
 trap:
   pattern: _OSES
   count: 11
+definitions:
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of oose
 prev_word: oorie
 next_word: ootid
 hubs:

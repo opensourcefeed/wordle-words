@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SCOOG a Wordle Word?
-head_title: Is SCOOG a Wordle Word? Yes – Valid Guess
+head_title: Is SCOOG a Wordle Word? Yes – Valid Guess & Meaning
 word: scoog
 description: Yes, SCOOG is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,10 @@ neighbours:
 - scoot
 - scoug
 - scrog
+definitions:
+- pos: verb
+  defs:
+  - text: Alternative form of scug (“shelter; protect; hide; take shelter”).
 prev_word: scone
 next_word: scoop
 hubs:

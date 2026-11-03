@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WHOOT a Wordle Word?
-head_title: Is WHOOT a Wordle Word? Yes – Valid Guess
+head_title: Is WHOOT a Wordle Word? Yes – Valid Guess & Meaning
 word: whoot
 description: Yes, WHOOT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,13 @@ neighbours:
 - wroot
 anagrams:
 - howto
+definitions:
+- pos: verb
+  defs:
+  - text: To hoot.
+    example: which Birds for their blindnesse (for they see weakly in the day) and
+      for their cry and whooting, wee called the Sea Owle; they will bite cruelly
+      with their crooked Bills
 prev_word: whoop
 next_word: whops
 hubs:

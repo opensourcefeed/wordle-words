@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BAZAR a Wordle Word?
-head_title: Is BAZAR a Wordle Word? Yes – Valid Guess
+head_title: Is BAZAR a Wordle Word? Yes – Valid Guess & Meaning
 word: bazar
 description: Yes, BAZAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,11 @@ neighbours:
 anagrams:
 - braza
 - zabra
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete spelling of bazaar: A marketplace, particularly in the Middle
+      East and South Asia, and often covered with shops and stalls.'
 prev_word: bayts
 next_word: bazas
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LEPID a Wordle Word?
-head_title: Is LEPID a Wordle Word? Yes – Valid Guess
+head_title: Is LEPID a Wordle Word? Yes – Valid Guess & Meaning
 word: lepid
 description: Yes, LEPID is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,14 @@ neighbours:
 anagrams:
 - plied
 - piled
+phonetic: "/ˈlɛpɪd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Pleasant; amusing
+    example: |-
+      1807-1808, Sydney Smith, Peter Plymley's Letters
+      the joyous and lepid consul
 prev_word: leper
 next_word: lepra
 hubs:

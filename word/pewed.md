@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PEWED a Wordle Word?
-head_title: Is PEWED a Wordle Word? Yes – Valid Guess
+head_title: Is PEWED a Wordle Word? Yes – Valid Guess & Meaning
 word: pewed
 description: Yes, PEWED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,12 @@ neighbours:
 trap:
   pattern: _EWED
   count: 9
+phonetic: "/pjuːd/"
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of pew: One of the long benches in a church,
+      seating several persons, usually fixed to the floor and facing the chancel.'
 prev_word: petty
 next_word: pewee
 hubs:

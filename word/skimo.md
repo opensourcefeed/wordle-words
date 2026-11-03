@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SKIMO a Wordle Word?
-head_title: Is SKIMO a Wordle Word? Yes – Valid Guess
+head_title: Is SKIMO a Wordle Word? Yes – Valid Guess & Meaning
 word: skimo
 description: Yes, SKIMO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 anagrams:
 - mikos
 - mokis
+definitions:
+- pos: noun
+  defs:
+  - text: Ski mountaineering, especially competitive ski mountaineering.
 prev_word: skill
 next_word: skimp
 hubs:

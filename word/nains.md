@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NAINS a Wordle Word?
-head_title: Is NAINS a Wordle Word? Yes – Valid Guess
+head_title: Is NAINS a Wordle Word? Yes – Valid Guess & Meaning
 word: nains
 description: Yes, NAINS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,10 @@ neighbours:
 trap:
   pattern: _AINS
   count: 12
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of nain: A grandmother.'
 prev_word: naily
 next_word: naios
 hubs:

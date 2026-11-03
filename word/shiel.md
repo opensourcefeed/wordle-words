@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SHIEL a Wordle Word?
-head_title: Is SHIEL a Wordle Word? Yes – Valid Guess
+head_title: Is SHIEL a Wordle Word? Yes – Valid Guess & Meaning
 word: shiel
 description: Yes, SHIEL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,17 @@ neighbours:
 anagrams:
 - heils
 - leish
+phonetic: "/ʃiːl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A shepherd's hut or shieling.
+  - text: A cottage.
+    example: The craik amang the claver hay, The pairtrick whirrin o'er the ley, The
+      swallow jinkin round my shiel, Amuse me at my spinnin wheel.
+- pos: verb
+  defs:
+  - text: To use a place as a shieling.
 prev_word: shied
 next_word: shier
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CECAL a Wordle Word?
-head_title: Is CECAL a Wordle Word? Yes – Valid Guess
+head_title: Is CECAL a Wordle Word? Yes – Valid Guess & Meaning
 word: cecal
 description: Yes, CECAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 - decal
 - fecal
 - recal
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Alternative spelling of caecal: Of or pertaining to the caecum.'
 prev_word: cebid
 next_word: cecum
 hubs:

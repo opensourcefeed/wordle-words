@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SAAGS a Wordle Word?
-head_title: Is SAAGS a Wordle Word? Yes – Valid Guess
+head_title: Is SAAGS a Wordle Word? Yes – Valid Guess & Meaning
 word: saags
 description: Yes, SAAGS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,11 @@ anagrams:
 trap:
   pattern: S_AGS
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of saag: An Indian dish made from greens (usually spinach) cooked
+      down to a thick paste.'
 prev_word: ryugi
 next_word: sabal
 hubs:

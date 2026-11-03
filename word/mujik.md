@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MUJIK a Wordle Word?
-head_title: Is MUJIK a Wordle Word? Yes – Valid Guess
+head_title: Is MUJIK a Wordle Word? Yes – Valid Guess & Meaning
 word: mujik
 description: Yes, MUJIK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -20,6 +21,14 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 98
+phonetic: "/ˈmuː(d)ʒɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A Russian (male) peasant.
+    example: Since she had last looked at a newspaper, it appeared that the Russians
+      had become heroes and magnificent fighters. They were no longer a rabble of
+      ill-equipped moujiks fleeing before the Nazi hordes.
 prev_word: muist
 next_word: mukim
 hubs:

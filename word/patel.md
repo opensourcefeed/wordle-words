@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PATEL a Wordle Word?
-head_title: Is PATEL a Wordle Word? Yes – Valid Guess
+head_title: Is PATEL a Wordle Word? Yes – Valid Guess & Meaning
 word: patel
 description: Yes, PATEL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,11 @@ anagrams:
 trap:
   pattern: PATE_
   count: 6
+phonetic: "/pəˈtɛl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A village head man.
 prev_word: patee
 next_word: paten
 hubs:

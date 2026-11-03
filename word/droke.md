@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DROKE a Wordle Word?
-head_title: Is DROKE a Wordle Word? Yes – Valid Guess
+head_title: Is DROKE a Wordle Word? Yes – Valid Guess & Meaning
 word: droke
 description: Yes, DROKE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,15 @@ neighbours:
 - wroke
 anagrams:
 - roked
+definitions:
+- pos: noun
+  defs:
+  - text: An alley.
+  - text: A narrow valley with steep sides, sometimes with a stream.
+  - text: A thick grove or belt of trees, especially in (and stretching across) a
+      valley.
+    example: we lost sight of him entirely, as he entered a droke of woods where it
+      was impossible to follow him any further.
 prev_word: droit
 next_word: drole
 hubs:

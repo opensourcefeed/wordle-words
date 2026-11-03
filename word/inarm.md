@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is INARM a Wordle Word?
-head_title: Is INARM a Wordle Word? Yes – Valid Guess
+head_title: Is INARM a Wordle Word? Yes – Valid Guess & Meaning
 word: inarm
 description: Yes, INARM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,11 @@ neighbours:
 anagrams:
 - minar
 - ramin
+phonetic: "/ɪnˈɑːm/"
+definitions:
+- pos: verb
+  defs:
+  - text: To embrace.
 prev_word: inapt
 next_word: inbox
 hubs:

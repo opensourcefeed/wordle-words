@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AGRIN a Wordle Word?
-head_title: Is AGRIN a Wordle Word? Yes – Valid Guess
+head_title: Is AGRIN a Wordle Word? Yes – Valid Guess & Meaning
 word: agrin
 description: Yes, AGRIN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,15 @@ anagrams:
 - grain
 - garni
 - rangi
+phonetic: "/əˈɡɹɪn/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Grinning; having happiness or satisfaction apparent on one's face.
+- pos: noun
+  defs:
+  - text: A protein involved in the formation of neuromuscular junctions during embryonic
+      development
 prev_word: agria
 next_word: agros
 hubs:

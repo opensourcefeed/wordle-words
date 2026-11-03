@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UNKID a Wordle Word?
-head_title: Is UNKID a Wordle Word? Yes – Valid Guess
+head_title: Is UNKID a Wordle Word? Yes – Valid Guess & Meaning
 word: unkid
 description: Yes, UNKID is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,12 @@ neighbours:
 - unked
 - unlid
 - unrid
+definitions:
+- pos: adjective
+  defs:
+  - text: Alternative form of unked (“lonely, desolate”).
+    example: I am come to welcome you home; and I have brought my work to sit a bit
+      with you and keep you company, for you must be sadly unkid, all alone.
 prev_word: unkey
 next_word: unkut
 hubs:

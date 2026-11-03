@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BINGY a Wordle Word?
-head_title: Is BINGY a Wordle Word? Yes – Valid Guess
+head_title: Is BINGY a Wordle Word? Yes – Valid Guess & Meaning
 word: bingy
 description: Yes, BINGY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,12 @@ neighbours:
 trap:
   pattern: _INGY
   count: 8
+phonetic: "/ˈbɪŋ.i/"
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Of milk or butter: ropy; having gone bad or soured.'
+    example: By now the milk is bingy; I turn sulky with no butter for my bread.
 prev_word: bings
 next_word: binit
 hubs:

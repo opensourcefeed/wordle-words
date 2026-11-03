@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BATTA a Wordle Word?
-head_title: Is BATTA a Wordle Word? Yes – Valid Guess
+head_title: Is BATTA a Wordle Word? Yes – Valid Guess & Meaning
 word: batta
 description: Yes, BATTA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,17 @@ neighbours:
 - battu
 - betta
 - patta
+phonetic: "/ˈbʌtə/"
+definitions:
+- pos: noun
+  defs:
+  - text: An exchange rate.
+  - text: The discount on uncurrent coins.
+  - text: Extra pay; especially an extra allowance to an English officer serving in
+      India.
+    example: On the day previous to their entry into the place, the men had shown
+      a spirit of insubordination, refusing to proceed until some promise was given
+      that they should get their extra battas.
 prev_word: batos
 next_word: batts
 hubs:

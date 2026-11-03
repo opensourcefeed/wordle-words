@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MIRZA a Wordle Word?
-head_title: Is MIRZA a Wordle Word? Yes – Valid Guess
+head_title: Is MIRZA a Wordle Word? Yes – Valid Guess & Meaning
 word: mirza
 description: Yes, MIRZA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 - miraa
 anagrams:
 - ziram
+phonetic: "/ˈmɪəzə/"
+definitions:
+- pos: noun
+  defs:
+  - text: An educated man in India or Iran (Persia); an official, a clerk.
+    example: The same success attended the other mirzas and emirs in their excursions.
 prev_word: mirvs
 next_word: misal
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is EIGNE a Wordle Word?
-head_title: Is EIGNE a Wordle Word? Yes – Valid Guess
+head_title: Is EIGNE a Wordle Word? Yes – Valid Guess & Meaning
 word: eigne
 description: Yes, EIGNE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,13 @@ neighbours:
 - ligne
 anagrams:
 - genie
+phonetic: "/eɪn/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Eldest; firstborn. Only used in bastard eigne.
+  - text: Of superior or prior rank.
+    example: eigne title, eigne incumbrance
 prev_word: eight
 next_word: eiked
 hubs:

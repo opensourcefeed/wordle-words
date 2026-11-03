@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SPYRE a Wordle Word?
-head_title: Is SPYRE a Wordle Word? Yes – Valid Guess
+head_title: Is SPYRE a Wordle Word? Yes – Valid Guess & Meaning
 word: spyre
 description: Yes, SPYRE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,10 @@ anagrams:
 - preys
 - pryse
 - pyres
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete spelling of spire: The stalk or stem of a plant.'
 prev_word: spyal
 next_word: squab
 hubs:

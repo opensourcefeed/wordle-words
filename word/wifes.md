@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WIFES a Wordle Word?
-head_title: Is WIFES a Wordle Word? Yes – Valid Guess
+head_title: Is WIFES a Wordle Word? Yes – Valid Guess & Meaning
 word: wifes
 description: Yes, WIFES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,15 @@ neighbours:
 trap:
   pattern: WI_ES
   count: 10
+definitions:
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of wife
+- pos: noun
+  defs:
+  - text: 'Plural of wife: A married woman, especially in relation to her spouse.'
+  - text: Genitive of wife
+    example: "[…] for all that he had, was litle enough to ſatisfie his wifes ioynter."
 prev_word: wifed
 next_word: wifey
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ZOOEY a Wordle Word?
-head_title: Is ZOOEY a Wordle Word? Yes – Valid Guess
+head_title: Is ZOOEY a Wordle Word? Yes – Valid Guess & Meaning
 word: zooey
 description: Yes, ZOOEY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,13 @@ neighbours:
 trap:
   pattern: _OOEY
   count: 8
+phonetic: "/zuːi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling or characteristic of a zoo.
+    example: a zooey smell
+  - text: Crowded with people.
 prev_word: zooea
 next_word: zooid
 hubs:

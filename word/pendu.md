@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PENDU a Wordle Word?
-head_title: Is PENDU a Wordle Word? Yes – Valid Guess
+head_title: Is PENDU a Wordle Word? Yes – Valid Guess & Meaning
 word: pendu
 description: Yes, PENDU is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,10 @@ neighbours:
 - vendu
 anagrams:
 - upend
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of pendoo: A hick; a boorish or uncultured person.'
 prev_word: pends
 next_word: pened
 hubs:

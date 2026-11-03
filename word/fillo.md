@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FILLO a Wordle Word?
-head_title: Is FILLO a Wordle Word? Yes – Valid Guess
+head_title: Is FILLO a Wordle Word? Yes – Valid Guess & Meaning
 word: fillo
 description: Yes, FILLO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,12 @@ neighbours:
 - fille
 - fills
 - hillo
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of phyllo: A type of dough, originating in Mediterranean
+      cuisine, that is used in thin layers to make pastries (such as baklava and apple
+      strudel) and pies and becomes very flaky when cooked.'
 prev_word: fille
 next_word: fills
 hubs:

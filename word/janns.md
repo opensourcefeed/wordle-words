@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is JANNS a Wordle Word?
-head_title: Is JANNS a Wordle Word? Yes – Valid Guess
+head_title: Is JANNS a Wordle Word? Yes – Valid Guess & Meaning
 word: janns
 description: Yes, JANNS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,10 @@ neighbours:
 - jawns
 - jinns
 - ranns
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of jann: The father of the jinn preceding humanity.'
 prev_word: janky
 next_word: janny
 hubs:

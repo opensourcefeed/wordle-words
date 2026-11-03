@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PLAUD a Wordle Word?
-head_title: Is PLAUD a Wordle Word? Yes – Valid Guess
+head_title: Is PLAUD a Wordle Word? Yes – Valid Guess & Meaning
 word: plaud
 description: Yes, PLAUD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ neighbours:
 - plaid
 - blaud
 - plaur
+phonetic: "/plɔːd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To applaud.
+    example: Plauding our victorie and this happie end
 prev_word: platy
 next_word: plaur
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KOBOS a Wordle Word?
-head_title: Is KOBOS a Wordle Word? Yes – Valid Guess
+head_title: Is KOBOS a Wordle Word? Yes – Valid Guess & Meaning
 word: kobos
 description: Yes, KOBOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,11 @@ anagrams:
 trap:
   pattern: _OBOS
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of kobo: A subdivision of currency, equal to one hundredth of a
+      Nigerian naira.'
 prev_word: koban
 next_word: koels
 hubs:

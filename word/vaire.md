@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is VAIRE a Wordle Word?
-head_title: Is VAIRE a Wordle Word? Yes – Valid Guess
+head_title: Is VAIRE a Wordle Word? Yes – Valid Guess & Meaning
 word: vaire
 description: Yes, VAIRE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,13 @@ neighbours:
 - zaire
 anagrams:
 - aiver
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of vair: A type of fur from a squirrel with a grey back
+      and white belly, much used on garments in the Middle Ages.'
+    example: party per pale, gules and or, a border vert. B. 1'. 160b (iv. 232). lozengy,
+      vaire and gules.
 prev_word: vails
 next_word: vairs
 hubs:

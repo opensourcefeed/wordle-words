@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SAKIA a Wordle Word?
-head_title: Is SAKIA a Wordle Word? Yes – Valid Guess
+head_title: Is SAKIA a Wordle Word? Yes – Valid Guess & Meaning
 word: sakia
 description: Yes, SAKIA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - sakis
 anagrams:
 - sakai
+definitions:
+- pos: noun
+  defs:
+  - text: A water wheel, traditionally drawn by a draft animal, but now with a motor.
+      It is about 2-5 meters in diameter.
 prev_word: sakes
 next_word: sakis
 hubs:

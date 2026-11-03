@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PETRE a Wordle Word?
-head_title: Is PETRE a Wordle Word? Yes – Valid Guess
+head_title: Is PETRE a Wordle Word? Yes – Valid Guess & Meaning
 word: petre
 description: Yes, PETRE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 - petri
 anagrams:
 - peter
+phonetic: "/ˈpiːtə(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: Saltpetre
+    example: Oats are much assisted by the application of petre[…]
+  - text: Clipping of pet regression.
 prev_word: petos
 next_word: petri
 hubs:

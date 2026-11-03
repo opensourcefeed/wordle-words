@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UPLAY a Wordle Word?
-head_title: Is UPLAY a Wordle Word? Yes – Valid Guess
+head_title: Is UPLAY a Wordle Word? Yes – Valid Guess & Meaning
 word: uplay
 description: Yes, UPLAY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,16 @@ neighbours:
 - unlay
 anagrams:
 - layup
+phonetic: "/ʌpˈleɪ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To lay up; hoard.
+    example: |-
+      Or as though the least of His pains, deeds, or words,
+      Would busy a life, she all this day affords;
+      This treasure then, in gross, my soul uplay,
+      And in my life retail it every day.
 prev_word: upjet
 next_word: upled
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UPSEE a Wordle Word?
-head_title: Is UPSEE a Wordle Word? Yes – Valid Guess
+head_title: Is UPSEE a Wordle Word? Yes – Valid Guess & Meaning
 word: upsee
 description: Yes, UPSEE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,11 @@ neighbours:
 - upset
 - unsee
 - upsey
+definitions:
+- pos: preposition
+  defs:
+  - text: After the fashion of; a la.
+    example: to drink upsee Dutch
 prev_word: uprun
 next_word: upset
 hubs:

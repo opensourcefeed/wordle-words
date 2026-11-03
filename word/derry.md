@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DERRY a Wordle Word?
-head_title: Is DERRY a Wordle Word? Yes – Valid Guess
+head_title: Is DERRY a Wordle Word? Yes – Valid Guess & Meaning
 word: derry
 description: Yes, DERRY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,18 @@ anagrams:
 trap:
   pattern: _ERRY
   count: 11
+definitions:
+- pos: interjection
+  defs:
+  - text: A meaningless refrain or chorus.
+    example: |-
+      If that is so,
+      Sing derry down derry!
+      It's evident, very,
+      Our tastes are one.
+- pos: noun
+  defs:
+  - text: Dislike.
 prev_word: derro
 next_word: derth
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is EARED a Wordle Word?
-head_title: Is EARED a Wordle Word? Yes – Valid Guess
+head_title: Is EARED a Wordle Word? Yes – Valid Guess & Meaning
 word: eared
 description: Yes, EARED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,18 @@ anagrams:
 trap:
   pattern: _ARED
   count: 12
+phonetic: "/ɪəd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having ears (of a specified type).
+    example: He was a large-eared man.
+  - text: Having ears.
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of ear: The organ of hearing, consisting
+      of the pinna or auricle, auditory canal, eardrum, malleus, incus, stapes and
+      cochlea.'
 prev_word: eards
 next_word: earls
 hubs:

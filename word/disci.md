@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DISCI a Wordle Word?
-head_title: Is DISCI a Wordle Word? Yes – Valid Guess
+head_title: Is DISCI a Wordle Word? Yes – Valid Guess & Meaning
 word: disci
 description: Yes, DISCI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,12 @@ stats:
 neighbours:
 - disco
 - discs
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of discus: A round plate-like object that is thrown for sport.'
+    example: "(Since M. 23 is a P. porcarius, it is possible that the difference in
+      the size of the two disci is a specific one.)"
 prev_word: disas
 next_word: disco
 hubs:

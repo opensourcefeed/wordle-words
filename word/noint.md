@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NOINT a Wordle Word?
-head_title: Is NOINT a Wordle Word? Yes – Valid Guess
+head_title: Is NOINT a Wordle Word? Yes – Valid Guess & Meaning
 word: noint
 description: Yes, NOINT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,12 @@ neighbours:
 - point
 anagrams:
 - niton
+definitions:
+- pos: verb
+  defs:
+  - text: 'Obsolete form of anoint: To smear or rub over with oil or an unctuous substance;
+      also, to spread over, as oil.'
+    example: With nointed skin and dusty hands
 prev_word: noily
 next_word: noire
 hubs:

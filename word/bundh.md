@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BUNDH a Wordle Word?
-head_title: Is BUNDH a Wordle Word? Yes – Valid Guess
+head_title: Is BUNDH a Wordle Word? Yes – Valid Guess & Meaning
 word: bundh
 description: Yes, BUNDH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,15 @@ neighbours:
 trap:
   pattern: BUND_
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative form of bund (pond)
+    example: In wet bundhs, the brood fish stock is maintained throughout the year,
+      […]
+  - text: 'Alternative form of bandh: A general strike, shutdown, or other form of
+      protest used in South Asia in which a substantial portion of the population
+      stays home and does not report to work.'
 prev_word: bunde
 next_word: bunds
 hubs:

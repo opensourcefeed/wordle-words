@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AMUCK a Wordle Word?
-head_title: Is AMUCK a Wordle Word? Yes – Valid Guess
+head_title: Is AMUCK a Wordle Word? Yes – Valid Guess & Meaning
 word: amuck
 description: Yes, AMUCK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -19,6 +20,16 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 78
+phonetic: "/əˈmʌk/"
+definitions:
+- pos: adverb
+  defs:
+  - text: 'Alternative form of amok: Out of control, especially when armed and dangerous.'
+    example: when, like the inhabitants of the Malay Peninsula, they ran amuck, and
+      made it their habit to destroy life[…]
+- pos: noun
+  defs:
+  - text: 'Alternative form of amok: Out of control, especially when armed and dangerous.'
 prev_word: amrit
 next_word: amuse
 hubs:

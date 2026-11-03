@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LOGGY a Wordle Word?
-head_title: Is LOGGY a Wordle Word? Yes – Valid Guess
+head_title: Is LOGGY a Wordle Word? Yes – Valid Guess & Meaning
 word: loggy
 description: Yes, LOGGY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,13 @@ neighbours:
 trap:
   pattern: _OGGY
   count: 8
+definitions:
+- pos: adjective
+  defs:
+  - text: Full of logs.
+    example: "[…] a level area characterized by many large fallen logs, but without
+      boulders suitable for basking by lizards. Arctostaphylos, Ceanothus, and Quercus
+      shrubs are dispersed in this loggy area."
 prev_word: loges
 next_word: logia
 hubs:

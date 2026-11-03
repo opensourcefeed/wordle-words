@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RETEM a Wordle Word?
-head_title: Is RETEM a Wordle Word? Yes – Valid Guess
+head_title: Is RETEM a Wordle Word? Yes – Valid Guess & Meaning
 word: retem
 description: Yes, RETEM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,11 @@ anagrams:
 - meter
 - metre
 - remet
+definitions:
+- pos: noun
+  defs:
+  - text: A shrub with white flowers, possibly Retama raetam; the juniper of the (King
+      James Version) Old Testament.
 prev_word: retch
 next_word: retia
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FLORS a Wordle Word?
-head_title: Is FLORS a Wordle Word? Yes – Valid Guess
+head_title: Is FLORS a Wordle Word? Yes – Valid Guess & Meaning
 word: flors
 description: Yes, FLORS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,11 @@ anagrams:
 trap:
   pattern: FLO_S
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of flor: A film of yeast that develops on the surface of some wines
+      during fermentation, induced deliberately during the production of sherry.'
 prev_word: flore
 next_word: flory
 hubs:

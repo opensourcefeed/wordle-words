@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UNMAD a Wordle Word?
-head_title: Is UNMAD a Wordle Word? Yes – Valid Guess
+head_title: Is UNMAD a Wordle Word? Yes – Valid Guess & Meaning
 word: unmad
 description: Yes, UNMAD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ anagrams:
 - dunam
 - maund
 - undam
+definitions:
+- pos: adjective
+  defs:
+  - text: Not mad; sane.
 prev_word: unlit
 next_word: unman
 hubs:

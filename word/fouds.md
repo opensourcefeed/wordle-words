@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FOUDS a Wordle Word?
-head_title: Is FOUDS a Wordle Word? Yes – Valid Guess
+head_title: Is FOUDS a Wordle Word? Yes – Valid Guess & Meaning
 word: fouds
 description: Yes, FOUDS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ neighbours:
 trap:
   pattern: FO_DS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of foud: A bailiff or magistrate.'
 prev_word: fouat
 next_word: fouer
 hubs:

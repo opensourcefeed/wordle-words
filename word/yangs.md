@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is YANGS a Wordle Word?
-head_title: Is YANGS a Wordle Word? Yes – Valid Guess
+head_title: Is YANGS a Wordle Word? Yes – Valid Guess & Meaning
 word: yangs
 description: Yes, YANGS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,11 @@ anagrams:
 trap:
   pattern: _ANGS
   count: 15
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of yang: A principle in Chinese and related East Asian philosophies
+      associated with bright, hot, masculine, etc. elements of the natural world.'
 prev_word: yandy
 next_word: yanks
 hubs:

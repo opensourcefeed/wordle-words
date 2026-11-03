@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CULTY a Wordle Word?
-head_title: Is CULTY a Wordle Word? Yes – Valid Guess
+head_title: Is CULTY a Wordle Word? Yes – Valid Guess & Meaning
 word: culty
 description: Yes, CULTY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,13 @@ neighbours:
 - culti
 - cults
 - cutty
+phonetic: "/ˈkʌlti/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling a cult.
+    example: '"They''re not real culty. You look in their eyes and there are real
+      people there."'
 prev_word: cults
 next_word: cumec
 hubs:

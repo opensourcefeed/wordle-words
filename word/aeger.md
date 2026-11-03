@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AEGER a Wordle Word?
-head_title: Is AEGER a Wordle Word? Yes – Valid Guess
+head_title: Is AEGER a Wordle Word? Yes – Valid Guess & Meaning
 word: aeger
 description: Yes, AEGER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,18 @@ anagrams:
 - eagre
 - geare
 - ragee
+definitions:
+- pos: adjective
+  defs:
+  - text: Absent and excused from one’s classes due to illness
+  - text: Relating to such an excused absence
+- pos: noun
+  defs:
+  - text: An excused absence from classes due to illness
+  - text: A note excusing a student from classes due to illness
+    example: Dick laughed. 'I'll get the receipt from him. I often want a good thing
+      for an "æger."'
+  - text: A particularly high tidal wave on some rivers, esp. the Trent
 prev_word: aedes
 next_word: aegis
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NAZAR a Wordle Word?
-head_title: Is NAZAR a Wordle Word? Yes – Valid Guess
+head_title: Is NAZAR a Wordle Word? Yes – Valid Guess & Meaning
 word: nazar
 description: Yes, NAZAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 - nagar
 - navar
 - nazir
+definitions:
+- pos: noun
+  defs:
+  - text: An eye-shaped amulet supposed to protect against the evil eye in certain
+      cultures.
 prev_word: nawal
 next_word: nazes
 hubs:

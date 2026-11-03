@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KIORE a Wordle Word?
-head_title: Is KIORE a Wordle Word? Yes – Valid Guess
+head_title: Is KIORE a Wordle Word? Yes – Valid Guess & Meaning
 word: kiore
 description: Yes, KIORE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,12 @@ stats:
   rare: []
   starter_tier: Good
   starter_top_percent: 10
+phonetic: "/kiˈɔːɹeɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The Polynesian rat, Rattus exulans.
+    example: The only means of transport available to kiore was Polynesian vessels.
 prev_word: kinos
 next_word: kiosk
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ZOEAE a Wordle Word?
-head_title: Is ZOEAE a Wordle Word? Yes – Valid Guess
+head_title: Is ZOEAE a Wordle Word? Yes – Valid Guess & Meaning
 word: zoeae
 description: Yes, ZOEAE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,11 @@ neighbours:
 - zoeal
 - zoeas
 - zonae
+phonetic: "/zoʊˈi.i/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of zoea: Alternative spelling of zoëa.'
 prev_word: zocco
 next_word: zoeal
 hubs:

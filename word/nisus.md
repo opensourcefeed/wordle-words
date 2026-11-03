@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NISUS a Wordle Word?
-head_title: Is NISUS a Wordle Word? Yes – Valid Guess
+head_title: Is NISUS a Wordle Word? Yes – Valid Guess & Meaning
 word: nisus
 description: Yes, NISUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,17 @@ neighbours:
 anagrams:
 - sinus
 - sunis
+phonetic: "/ˈnaɪ.səs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A mental or physical effort to attain a specific goal; a striving.
+    example: The godly personality of a higher order, as the telos of the nisus of
+      moral categoriality, is the sensus plenior of the nisus to a universal communalization
+      of perspectives.
+  - text: The periodic procreative desire manifested in the spring by birds, etc.
+  - text: The contraction of the diaphragm and abdominal muscles to evacuate faeces
+      or urine.
 prev_word: nisse
 next_word: nital
 hubs:

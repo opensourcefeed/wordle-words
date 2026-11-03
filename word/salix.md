@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SALIX a Wordle Word?
-head_title: Is SALIX a Wordle Word? Yes – Valid Guess
+head_title: Is SALIX a Wordle Word? Yes – Valid Guess & Meaning
 word: salix
 description: Yes, SALIX is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,11 @@ neighbours:
 - salis
 anagrams:
 - axils
+phonetic: "/ˈseɪlɪks/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any member of the genus Salix; a willow.
 prev_word: salis
 next_word: salle
 hubs:

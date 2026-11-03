@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CAMAN a Wordle Word?
-head_title: Is CAMAN a Wordle Word? Yes – Valid Guess
+head_title: Is CAMAN a Wordle Word? Yes – Valid Guess & Meaning
 word: caman
 description: Yes, CAMAN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,16 @@ neighbours:
 - daman
 - saman
 - zaman
+phonetic: "/ˈkamən/"
+definitions:
+- pos: noun
+  defs:
+  - text: Synonym of shinty (“stick used to hit the ball in the game of shinty”).
+    example: "—One of the Crokes made a woeful wipe at him one time with his caman
+      and I declare to God he was within an aim’s ace of getting it at the side of
+      his temple."
+  - text: 'Archaic form of caiman: Any of the relatively small crocodilians of the
+      genus Caiman, within the family Alligatoridae.'
 prev_word: calyx
 next_word: camas
 hubs:

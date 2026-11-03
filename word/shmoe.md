@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SHMOE a Wordle Word?
-head_title: Is SHMOE a Wordle Word? Yes – Valid Guess
+head_title: Is SHMOE a Wordle Word? Yes – Valid Guess & Meaning
 word: shmoe
 description: Yes, SHMOE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,11 @@ stats:
   starter_top_percent: 31
 anagrams:
 - homes
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of schmo: A stupid, obnoxious, pathetic, or otherwise
+      contemptible person; a schmuck.'
 prev_word: shmek
 next_word: shoal
 hubs:

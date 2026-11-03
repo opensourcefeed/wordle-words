@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HOWRE a Wordle Word?
-head_title: Is HOWRE a Wordle Word? Yes – Valid Guess
+head_title: Is HOWRE a Wordle Word? Yes – Valid Guess & Meaning
 word: howre
 description: Yes, HOWRE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,13 @@ stats:
 neighbours:
 - howbe
 - powre
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete spelling of hour: A unit of time of one twenty-fourth of a day
+      (sixty minutes).'
+    example: 'His louely words her seemd due recompence / Of all her passed pains:
+      one louing howre / For many yeares of sorrow can dispence:'
 prev_word: howls
 next_word: howso
 hubs:

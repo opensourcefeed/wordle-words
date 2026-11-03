@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UNRED a Wordle Word?
-head_title: Is UNRED a Wordle Word? Yes – Valid Guess
+head_title: Is UNRED a Wordle Word? Yes – Valid Guess & Meaning
 word: unred
 description: Yes, UNRED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,11 @@ anagrams:
 trap:
   pattern: UN_ED
   count: 6
+definitions:
+- pos: adjective
+  defs:
+  - text: Not red.
+    example: Nothing can be red and unred all over at the same time for the same viewer.
 prev_word: unput
 next_word: unrid
 hubs:

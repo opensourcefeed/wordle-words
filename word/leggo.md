@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LEGGO a Wordle Word?
-head_title: Is LEGGO a Wordle Word? Yes – Valid Guess
+head_title: Is LEGGO a Wordle Word? Yes – Valid Guess & Meaning
 word: leggo
 description: Yes, LEGGO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,16 @@ neighbours:
 - legno
 - reggo
 - veggo
+definitions:
+- pos: contraction
+  defs:
+  - text: Contraction of let go.
+    example: He stepped in, gripping the orderly by the front of his white jacket.
+      "Hey, leggo me. You’ll start hemorrhaging and they’ll blame me."
+  - text: Contraction of let's go.
+- pos: noun
+  defs:
+  - text: A form of calypso music; lavway.
 prev_word: legge
 next_word: leggy
 hubs:

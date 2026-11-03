@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GEEPS a Wordle Word?
-head_title: Is GEEPS a Wordle Word? Yes – Valid Guess
+head_title: Is GEEPS a Wordle Word? Yes – Valid Guess & Meaning
 word: geeps
 description: Yes, GEEPS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,11 @@ neighbours:
 trap:
   pattern: _EEPS
   count: 12
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of geep: A sheep–goat hybrid, an animal with DNA from a goat and
+      from a sheep, whether produced artificially or by natural intermating.'
 prev_word: geeky
 next_word: geese
 hubs:

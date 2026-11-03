@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PRAPS a Wordle Word?
-head_title: Is PRAPS a Wordle Word? Yes – Valid Guess
+head_title: Is PRAPS a Wordle Word? Yes – Valid Guess & Meaning
 word: praps
 description: Yes, PRAPS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,13 @@ anagrams:
 trap:
   pattern: PRA_S
   count: 8
+definitions:
+- pos: adverb
+  defs:
+  - text: 'Contraction of perhaps: Possibly.'
+    example: I tried to see if I could tell by his looks which way he had decided
+      but I couldn't, and I thought praps it would be a good time to ask him and find
+      out.
 prev_word: praos
 next_word: prase
 hubs:

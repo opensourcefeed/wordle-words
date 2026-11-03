@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NANTI a Wordle Word?
-head_title: Is NANTI a Wordle Word? Yes – Valid Guess
+head_title: Is NANTI a Wordle Word? Yes – Valid Guess & Meaning
 word: nanti
 description: Yes, NANTI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,12 @@ neighbours:
 - tanti
 anagrams:
 - ninta
+definitions:
+- pos: determiner
+  defs:
+  - text: No; not any.
+    example: She's with the trade your mother charvaed yesterday. Some omees have
+      nanti taste!
 prev_word: nante
 next_word: nanto
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RAKIA a Wordle Word?
-head_title: Is RAKIA a Wordle Word? Yes – Valid Guess
+head_title: Is RAKIA a Wordle Word? Yes – Valid Guess & Meaning
 word: rakia
 description: Yes, RAKIA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,12 @@ neighbours:
 - sakia
 anagrams:
 - karai
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of rakija: A strong distilled alcoholic beverage made
+      from various fruits, varieties of which (such as slivovitz) are found across
+      the Balkans and the Mediterranean.'
 prev_word: rakhi
 next_word: rakis
 hubs:

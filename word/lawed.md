@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LAWED a Wordle Word?
-head_title: Is LAWED a Wordle Word? Yes – Valid Guess
+head_title: Is LAWED a Wordle Word? Yes – Valid Guess & Meaning
 word: lawed
 description: Yes, LAWED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,14 @@ anagrams:
 trap:
   pattern: LA_ED
   count: 12
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of law: The body of binding rules and regulations,
+      customs, and standards established in a community by its legislative and judicial
+      authorities.'
+  - text: 'Simple past and past participle of lawe: To cut off the claws and balls
+      of (e.g. a dog''s forefeet, to hinder it from hunting).'
 prev_word: lavvy
 next_word: lawer
 hubs:

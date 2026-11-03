@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UNKED a Wordle Word?
-head_title: Is UNKED a Wordle Word? Yes – Valid Guess
+head_title: Is UNKED a Wordle Word? Yes – Valid Guess & Meaning
 word: unked
 description: Yes, UNKED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,19 @@ anagrams:
 trap:
   pattern: UN_ED
   count: 6
+phonetic: "/ʌnˈkɛd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Odd; strange
+    example: Forsooth he misdoubted him that the bow was somewhat unked, and that
+      the lad had had some new dealings with the Dwarf-kin or other strange wights.
+  - text: Ugly
+  - text: Uncouth
+  - text: Lonely; dreary
+    example: |-
+      March 21, 1790, William Cowper, letter to Mrs. Throckmorton
+      Weston is sadly unked without you.
 prev_word: unjam
 next_word: unket
 hubs:

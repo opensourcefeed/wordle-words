@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TYPEY a Wordle Word?
-head_title: Is TYPEY a Wordle Word? Yes – Valid Guess
+head_title: Is TYPEY a Wordle Word? Yes – Valid Guess & Meaning
 word: typey
 description: Yes, TYPEY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,10 @@ stats:
 neighbours:
 - typed
 - types
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Alternative form of typy: Of a show animal: characteristic of its type.'
 prev_word: types
 next_word: typic
 hubs:

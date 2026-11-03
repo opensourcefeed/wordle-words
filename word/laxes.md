@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LAXES a Wordle Word?
-head_title: Is LAXES a Wordle Word? Yes – Valid Guess
+head_title: Is LAXES a Wordle Word? Yes – Valid Guess & Meaning
 word: laxes
 description: Yes, LAXES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,10 @@ anagrams:
 trap:
   pattern: _AXES
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of lax: A salmon.'
 prev_word: laxer
 next_word: laxly
 hubs:

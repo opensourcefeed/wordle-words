@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TEPOY a Wordle Word?
-head_title: Is TEPOY a Wordle Word? Yes – Valid Guess
+head_title: Is TEPOY a Wordle Word? Yes – Valid Guess & Meaning
 word: tepoy
 description: Yes, TEPOY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,12 @@ stats:
   starter_top_percent: 23
 neighbours:
 - sepoy
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of teapoy: Originally, a three-legged decorative stand
+      or table; now, especially, one with recesses for holding tea caddies and/or
+      a tea service.'
 prev_word: tepid
 next_word: terai
 hubs:

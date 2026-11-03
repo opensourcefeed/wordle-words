@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DOOLY a Wordle Word?
-head_title: Is DOOLY a Wordle Word? Yes – Valid Guess
+head_title: Is DOOLY a Wordle Word? Yes – Valid Guess & Meaning
 word: dooly
 description: Yes, DOOLY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,15 @@ neighbours:
 trap:
   pattern: _OOLY
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A basic Indian litter or sedan chair made of poles, ropes, and a seat or
+      cloth.
+    example: "“Not going out this journey,” gasped Bobby, as he was lifted from the
+      doolie. “Not going out this journey.”"
+  - text: Synonym of stretcher, a basic litter used for transport of the ill and injured.
+  - text: Synonym of litter of whatever type.
 prev_word: dools
 next_word: dooms
 hubs:

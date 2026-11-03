@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SONNE a Wordle Word?
-head_title: Is SONNE a Wordle Word? Yes – Valid Guess
+head_title: Is SONNE a Wordle Word? Yes – Valid Guess & Meaning
 word: sonne
 description: Yes, SONNE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,13 @@ anagrams:
 trap:
   pattern: _ONNE
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete spelling of son: One''s male offspring.'
+    example: 'And when I roſe in the moꝛning to giue my childe ſucke, behold, it was
+      dead: but when I had conſidered it in the moꝛning, beholde, it was not my ſonne,
+      which I did beare.'
 prev_word: sonly
 next_word: sonny
 hubs:

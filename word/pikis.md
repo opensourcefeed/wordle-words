@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PIKIS a Wordle Word?
-head_title: Is PIKIS a Wordle Word? Yes – Valid Guess
+head_title: Is PIKIS a Wordle Word? Yes – Valid Guess & Meaning
 word: pikis
 description: Yes, PIKIS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,11 @@ neighbours:
 - pipis
 - tikis
 - wikis
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of piki: A paper-thin, dry, rolled bread made by the Hopi with nixtamalized
+      blue corn meal.'
 prev_word: pikes
 next_word: pikul
 hubs:

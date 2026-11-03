@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FITTS a Wordle Word?
-head_title: Is FITTS a Wordle Word? Yes – Valid Guess
+head_title: Is FITTS a Wordle Word? Yes – Valid Guess & Meaning
 word: fitts
 description: Yes, FITTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ neighbours:
 - ritts
 anagrams:
 - tifts
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of fitt: Alternative form of fit (section of a poem or ballad)'
 prev_word: fitte
 next_word: fiver
 hubs:

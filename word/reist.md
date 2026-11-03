@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REIST a Wordle Word?
-head_title: Is REIST a Wordle Word? Yes – Valid Guess
+head_title: Is REIST a Wordle Word? Yes – Valid Guess & Meaning
 word: reist
 description: Yes, REIST is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,14 @@ anagrams:
 trap:
   pattern: _EIST
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A proponent of reism.
+- pos: verb
+  defs:
+  - text: 'Alternative form of reest: Alternative form of rest (“to cure, smoke, or
+      dry (meat or fish); (of a horse) to stop or refuse to go, balk”).'
 prev_word: reird
 next_word: reive
 hubs:

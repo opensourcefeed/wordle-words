@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TOYER a Wordle Word?
-head_title: Is TOYER a Wordle Word? Yes – Valid Guess
+head_title: Is TOYER a Wordle Word? Yes – Valid Guess & Meaning
 word: toyer
 description: Yes, TOYER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,11 @@ anagrams:
 trap:
   pattern: TO_ER
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: One who toys; one who is full of trifling tricks; a trifler.
+    example: She had a reputation as a toyer with men's hearts.
 prev_word: toyed
 next_word: toyon
 hubs:

@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is HOLEY a Wordle Word?
-head_title: 'Is HOLEY a Wordle Word? Yes – Past Answer #1953'
+head_title: 'Is HOLEY a Wordle Word? Yes – Past Answer #1953 & Meaning'
 word: holey
 description: Yes, HOLEY is a valid Wordle word. It was the Wordle answer on October
-  24, 2026 (#1953). See its starter rating and similar words.
+  24, 2026 (#1953). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on October 24, 2026 (#1953).
 past_answers:
@@ -43,6 +43,12 @@ anagrams:
 trap:
   pattern: _OLEY
   count: 6
+phonetic: "/ˈhəʊl.li/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having, or being full of, holes.
+    example: Fred loved holey Dutch cheese.
 prev_word: holes
 next_word: holks
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STIMS a Wordle Word?
-head_title: Is STIMS a Wordle Word? Yes – Valid Guess
+head_title: Is STIMS a Wordle Word? Yes – Valid Guess & Meaning
 word: stims
 description: Yes, STIMS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,13 @@ anagrams:
 trap:
   pattern: S_IMS
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of stim: Sensory stimulation.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of stim
 prev_word: stime
 next_word: stimy
 hubs:

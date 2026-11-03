@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CYCAS a Wordle Word?
-head_title: Is CYCAS a Wordle Word? Yes – Valid Guess
+head_title: Is CYCAS a Wordle Word? Yes – Valid Guess & Meaning
 word: cycas
 description: Yes, CYCAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ neighbours:
 - cocas
 - cycad
 - cymas
+definitions:
+- pos: noun
+  defs:
+  - text: Any member of the plant genus Cycas.
 prev_word: cycad
 next_word: cycle
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NAILY a Wordle Word?
-head_title: Is NAILY a Wordle Word? Yes – Valid Guess
+head_title: Is NAILY a Wordle Word? Yes – Valid Guess & Meaning
 word: naily
 description: Yes, NAILY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,13 @@ neighbours:
 anagrams:
 - inlay
 - layin
+definitions:
+- pos: adjective
+  defs:
+  - text: Full of nails (the fastener)
+  - text: Having long or overly protruding nails (fingernails or toenails)
+    example: As his black, naily fingers dug loose the scaly pig's skin, wandering
+      tears came to the bo'sun 's eyes.
 prev_word: nails
 next_word: nains
 hubs:

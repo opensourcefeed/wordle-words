@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ADOWN a Wordle Word?
-head_title: Is ADOWN a Wordle Word? Yes – Valid Guess
+head_title: Is ADOWN a Wordle Word? Yes – Valid Guess & Meaning
 word: adown
 description: Yes, ADOWN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,20 @@ neighbours:
 - adoon
 anagrams:
 - downa
+phonetic: "/əˈdaʊn/"
+definitions:
+- pos: adverb
+  defs:
+  - text: Down, downward; to or in a lower place.
+    example: Thrice did she sink adown.
+- pos: preposition
+  defs:
+  - text: Down.
+    example: |-
+      Before yon field of trembling gold
+      Is garnered into dusty sheaves,
+      Or ere the autumn’s scarlet leaves
+      Flutter as birds adown the wold, […]
 prev_word: adorn
 next_word: adoze
 hubs:

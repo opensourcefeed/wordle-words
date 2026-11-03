@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AGLEE a Wordle Word?
-head_title: Is AGLEE a Wordle Word? Yes – Valid Guess
+head_title: Is AGLEE a Wordle Word? Yes – Valid Guess & Meaning
 word: aglee
 description: Yes, AGLEE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,10 @@ neighbours:
 - allee
 anagrams:
 - eagle
+definitions:
+- pos: adverb
+  defs:
+  - text: 'Alternative spelling of agley: Wrong, awry, askew, amiss, or distortedly.'
 prev_word: agita
 next_word: aglet
 hubs:

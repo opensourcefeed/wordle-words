@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BUBBY a Wordle Word?
-head_title: Is BUBBY a Wordle Word? Yes – Valid Guess
+head_title: Is BUBBY a Wordle Word? Yes – Valid Guess & Meaning
 word: bubby
 description: Yes, BUBBY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,17 @@ neighbours:
 trap:
   pattern: _UBBY
   count: 10
+phonetic: "/ˈbʊbi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A woman's breast.
+    example: 'Chlo: What do you mean (uncivil as you are) / To touch my breaſts and
+      leave my boſome bare? / Daph: Theſe pretty bubbies firſt I make my own.'
+  - text: Familiar term of address for a boy; bub; bubba.
+    example: Mother sent me to hunt you; she is dying, and sissy and bubby are hungry
+      and the baby is crying, and we're afraid the cross man will come.
+  - text: Alternative spelling of bubbe (“grandmother”).
 prev_word: bubbe
 next_word: bubus
 hubs:

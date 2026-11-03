@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is IRONE a Wordle Word?
-head_title: Is IRONE a Wordle Word? Yes – Valid Guess
+head_title: Is IRONE a Wordle Word? Yes – Valid Guess & Meaning
 word: irone
 description: Yes, IRONE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,13 @@ anagrams:
 trap:
   pattern: _RONE
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: Any of several ketones, or a mixture of such, found in orris oil (oil extracted
+      from iris roots), used as odorants in perfumes.
+    example: As is well known, Irone is the principal odoriferous constituent of Orris
+      Butter, the essential oil obtained from Orris Root by steam distillation.
 prev_word: iroko
 next_word: irons
 hubs:

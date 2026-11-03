@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ROOPY a Wordle Word?
-head_title: Is ROOPY a Wordle Word? Yes – Valid Guess
+head_title: Is ROOPY a Wordle Word? Yes – Valid Guess & Meaning
 word: roopy
 description: Yes, ROOPY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,13 @@ neighbours:
 - rooty
 - roupy
 - woopy
+definitions:
+- pos: adjective
+  defs:
+  - text: Hoarse.
+    example: But he said he had observed I was sometimes hoarse — a little roopy was
+      his exact expression — and it should be, every drop, devoted to the purpose
+      he had mentioned.
 prev_word: roops
 next_word: roosa
 hubs:

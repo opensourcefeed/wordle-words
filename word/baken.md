@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BAKEN a Wordle Word?
-head_title: Is BAKEN a Wordle Word? Yes – Valid Guess
+head_title: Is BAKEN a Wordle Word? Yes – Valid Guess & Meaning
 word: baken
 description: Yes, BAKEN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,12 @@ neighbours:
 - waken
 anagrams:
 - ebank
+definitions:
+- pos: verb
+  defs:
+  - text: Alternative past participle of bake; baked.
+    example: And if thy oblation be a meate offering baken in the frying pan,it ſhalbe
+      made of fine flowꝛe with oyle.
 prev_word: baked
 next_word: baker
 hubs:

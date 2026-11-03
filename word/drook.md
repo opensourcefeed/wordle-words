@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DROOK a Wordle Word?
-head_title: Is DROOK a Wordle Word? Yes – Valid Guess
+head_title: Is DROOK a Wordle Word? Yes – Valid Guess & Meaning
 word: drook
 description: Yes, DROOK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,16 @@ neighbours:
 - droog
 - drouk
 - prook
+definitions:
+- pos: verb
+  defs:
+  - text: To drench, to soak.
+    example: She doesn't wait for an answer. She marches on inside. A few moments
+      later droukit Hugh and dry Weir hear a door slamming and a loud peal of female
+      laughter.
+- pos: noun
+  defs:
+  - text: 'Alternative form of droke: An alley.'
 prev_word: droog
 next_word: drool
 hubs:

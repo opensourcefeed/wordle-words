@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LURGI a Wordle Word?
-head_title: Is LURGI a Wordle Word? Yes – Valid Guess
+head_title: Is LURGI a Wordle Word? Yes – Valid Guess & Meaning
 word: lurgi
 description: Yes, LURGI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,14 @@ neighbours:
 - lungi
 - lurgy
 - murgi
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of lurgy: Idleness or laziness regarded as a medical
+      condition; also, depression, especially resulting from a hangover.'
+    example: Harry. Now, you claim that if we set you up in a well-equipped laboratory,
+      you will find the cure for almost everything. / Mike. (dramatically) Yes—including
+      the dreaded Lurgi.
 prev_word: lurex
 next_word: lurgy
 hubs:

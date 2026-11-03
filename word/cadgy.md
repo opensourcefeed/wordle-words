@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CADGY a Wordle Word?
-head_title: Is CADGY a Wordle Word? Yes – Valid Guess
+head_title: Is CADGY a Wordle Word? Yes – Valid Guess & Meaning
 word: cadgy
 description: Yes, CADGY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,11 @@ neighbours:
 - cadge
 - gadgy
 - radgy
+definitions:
+- pos: adjective
+  defs:
+  - text: Cheerful or mirthful, as after good eating or drinking
+  - text: Frolicsome; wanton
 prev_word: cadge
 next_word: cadie
 hubs:

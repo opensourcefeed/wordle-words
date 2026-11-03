@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NUDGY a Wordle Word?
-head_title: Is NUDGY a Wordle Word? Yes – Valid Guess
+head_title: Is NUDGY a Wordle Word? Yes – Valid Guess & Meaning
 word: nudgy
 description: Yes, NUDGY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 anagrams:
 - dungy
 - gundy
+definitions:
+- pos: adjective
+  defs:
+  - text: Of, or related to a nudge
+  - text: Nervous; edgy
+    example: '"Don''t get nudgy." "Who''s nudgy?" Koski did not answer.'
 prev_word: nudge
 next_word: nudie
 hubs:

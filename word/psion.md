@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PSION a Wordle Word?
-head_title: Is PSION a Wordle Word? Yes – Valid Guess
+head_title: Is PSION a Wordle Word? Yes – Valid Guess & Meaning
 word: psion
 description: Yes, PSION is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ anagrams:
 - inspo
 - opsin
 - pions
+definitions:
+- pos: noun
+  defs:
+  - text: The psi-meson, a sub-atomic particle.
+  - text: A person with psionic abilities.
 prev_word: psias
 next_word: psoae
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BERME a Wordle Word?
-head_title: Is BERME a Wordle Word? Yes – Valid Guess
+head_title: Is BERME a Wordle Word? Yes – Valid Guess & Meaning
 word: berme
 description: Yes, BERME is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ anagrams:
 - ember
 - breem
 - breme
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of berm: A narrow ledge or shelf, as along the top
+      or bottom of a slope.'
 prev_word: berks
 next_word: berms
 hubs:

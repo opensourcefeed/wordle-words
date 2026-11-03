@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FOREL a Wordle Word?
-head_title: Is FOREL a Wordle Word? Yes – Valid Guess
+head_title: Is FOREL a Wordle Word? Yes – Valid Guess & Meaning
 word: forel
 description: Yes, FOREL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,16 @@ neighbours:
 - sorel
 anagrams:
 - flore
+definitions:
+- pos: noun
+  defs:
+  - text: A kind of coarse parchment for book covers; a forrill.
+- pos: verb
+  defs:
+  - text: To bind with a forel.
+    example: As for Josephus's conceit , that the second edition of the temple by
+      Zerubbabel , as it was new forelled and filleted with gold by Herod , was a
+      statelier volume than the first of Solomon
 prev_word: fords
 next_word: fores
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AREAL a Wordle Word?
-head_title: Is AREAL a Wordle Word? Yes – Valid Guess
+head_title: Is AREAL a Wordle Word? Yes – Valid Guess & Meaning
 word: areal
 description: Yes, AREAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,12 @@ neighbours:
 - artal
 - arval
 - ureal
+phonetic: "/ˈɛɹiəl/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or pertaining to an area or geographic region.
+    example: areal flood warning
 prev_word: areae
 next_word: arear
 hubs:

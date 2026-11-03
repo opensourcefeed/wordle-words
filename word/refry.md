@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REFRY a Wordle Word?
-head_title: Is REFRY a Wordle Word? Yes – Valid Guess
+head_title: Is REFRY a Wordle Word? Yes – Valid Guess & Meaning
 word: refry
 description: Yes, REFRY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 anagrams:
 - ferry
 - fryer
+definitions:
+- pos: verb
+  defs:
+  - text: To fry again.
+  - text: In Mexican cookery, to fry beans after boiling and mashing them.
 prev_word: refly
 next_word: regal
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is EBENE a Wordle Word?
-head_title: Is EBENE a Wordle Word? Yes – Valid Guess
+head_title: Is EBENE a Wordle Word? Yes – Valid Guess & Meaning
 word: ebene
 description: Yes, EBENE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,12 @@ stats:
 neighbours:
 - ebena
 - epene
+definitions:
+- pos: noun
+  defs:
+  - text: A psychoactive material, variously described as obtained from plants of
+      either the genus Virola or of Anadenanthera peregrina, used ritually as snuff
+      by the Yanomamo people of South America.
 prev_word: ebena
 next_word: ebike
 hubs:

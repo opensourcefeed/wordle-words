@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% if page.head_title %}{{ page.head_title }}{% else %}{{ page.title }} | All Wordle Words{% endif %}</title>
-    {% if page.sensitive %}<meta name="robots" content="noindex, follow">{% endif %}
+    {% if page.sensitive or page.noindex %}<meta name="robots" content="noindex, follow">{% endif %}
     {% seo title=false %}
     {%- include_cached head-icons.html %}
     {% include_cached inline-css.html %}

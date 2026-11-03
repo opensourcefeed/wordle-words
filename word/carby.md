@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CARBY a Wordle Word?
-head_title: Is CARBY a Wordle Word? Yes – Valid Guess
+head_title: Is CARBY a Wordle Word? Yes – Valid Guess & Meaning
 word: carby
 description: Yes, CARBY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,17 @@ neighbours:
 - carvy
 - corby
 - warby
+definitions:
+- pos: noun
+  defs:
+  - text: Synonym of carb (“carburetor or carburettor”).
+    example: We replaced the old carby with an aftermarket throttle-body fuel injection
+      unit.
+- pos: adjective
+  defs:
+  - text: Rich in carbohydrates.
+    example: We'd better lay off the carby foods. It'll help protect our vascular
+      health.
 prev_word: carbs
 next_word: cardi
 hubs:

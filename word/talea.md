@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TALEA a Wordle Word?
-head_title: Is TALEA a Wordle Word? Yes – Valid Guess
+head_title: Is TALEA a Wordle Word? Yes – Valid Guess & Meaning
 word: talea
 description: Yes, TALEA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ neighbours:
 - talpa
 anagrams:
 - alate
+definitions:
+- pos: noun
+  defs:
+  - text: A repeated rhythmic pattern used in isorhythm implying a piece cut off.
 prev_word: talcy
 next_word: taler
 hubs:

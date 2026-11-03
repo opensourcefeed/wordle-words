@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KNICK a Wordle Word?
-head_title: Is KNICK a Wordle Word? Yes – Valid Guess
+head_title: Is KNICK a Wordle Word? Yes – Valid Guess & Meaning
 word: knick
 description: Yes, KNICK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,10 @@ neighbours:
 - knock
 - klick
 - snick
+definitions:
+- pos: verb
+  defs:
+  - text: Alternative spelling of nick (“to make a notch in”).
 prev_word: knelt
 next_word: knife
 hubs:

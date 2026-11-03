@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ACEDY a Wordle Word?
-head_title: Is ACEDY a Wordle Word? Yes – Valid Guess
+head_title: Is ACEDY a Wordle Word? Yes – Valid Guess & Meaning
 word: acedy
 description: Yes, ACEDY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,13 @@ neighbours:
 - acidy
 anagrams:
 - decay
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of acedia: Spiritual or mental sloth and the feeling it
+      provokes; apathy or indifference; a lack of care or interest and the resultant
+      avoidance of duties; a bored melancholy leading to desperation, restlessness
+      and anxiety.'
 prev_word: accra
 next_word: acene
 hubs:

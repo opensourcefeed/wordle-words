@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WOOLD a Wordle Word?
-head_title: Is WOOLD a Wordle Word? Yes – Valid Guess
+head_title: Is WOOLD a Wordle Word? Yes – Valid Guess & Meaning
 word: woold
 description: Yes, WOOLD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,15 @@ neighbours:
 - woald
 - wooed
 - wools
+phonetic: "/ˈwuːld/"
+definitions:
+- pos: verb
+  defs:
+  - text: To wind a chain or rope around in order to strengthen (especially a mast
+      or yard).
+- pos: noun
+  defs:
+  - text: Archaic form of weld (“dyer's rocket”).
 prev_word: woofy
 next_word: wools
 hubs:

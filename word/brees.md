@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BREES a Wordle Word?
-head_title: Is BREES a Wordle Word? Yes – Valid Guess
+head_title: Is BREES a Wordle Word? Yes – Valid Guess & Meaning
 word: brees
 description: Yes, BREES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,10 @@ anagrams:
 trap:
   pattern: _REES
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of bree: The eyelid.'
 prev_word: breer
 next_word: breid
 hubs:

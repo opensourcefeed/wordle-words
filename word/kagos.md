@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KAGOS a Wordle Word?
-head_title: Is KAGOS a Wordle Word? Yes – Valid Guess
+head_title: Is KAGOS a Wordle Word? Yes – Valid Guess & Meaning
 word: kagos
 description: Yes, KAGOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 - karos
 - kayos
 - sagos
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of kago: An open and suspended Japanese style of sedan chair.'
 prev_word: kadis
 next_word: kagus
 hubs:

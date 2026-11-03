@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KHETS a Wordle Word?
-head_title: Is KHETS a Wordle Word? Yes – Valid Guess
+head_title: Is KHETS a Wordle Word? Yes – Valid Guess & Meaning
 word: khets
 description: Yes, KHETS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 - kheth
 - shets
 - whets
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of khet: Alternative form of heth (“Semitic letter”).'
 prev_word: kheth
 next_word: khirs
 hubs:

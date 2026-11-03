@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GAMBS a Wordle Word?
-head_title: Is GAMBS a Wordle Word? Yes – Valid Guess
+head_title: Is GAMBS a Wordle Word? Yes – Valid Guess & Meaning
 word: gambs
 description: Yes, GAMBS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,11 @@ neighbours:
 - iambs
 - jambs
 - lambs
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of gamb: The leg or shank, typically of an animal, especially of
+      a lion, on a coat of arms, crest, etc.'
 prev_word: gambo
 next_word: gamed
 hubs:

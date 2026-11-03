@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is EROSE a Wordle Word?
-head_title: Is EROSE a Wordle Word? Yes – Valid Guess
+head_title: Is EROSE a Wordle Word? Yes – Valid Guess & Meaning
 word: erose
 description: Yes, EROSE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,11 @@ neighbours:
 - brose
 anagrams:
 - soree
+definitions:
+- pos: adjective
+  defs:
+  - text: Irregularly notched, eaten away, as though bitten.
+    example: an erose leaf
 prev_word: erode
 next_word: erred
 hubs:

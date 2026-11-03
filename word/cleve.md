@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CLEVE a Wordle Word?
-head_title: Is CLEVE a Wordle Word? Yes – Valid Guess
+head_title: Is CLEVE a Wordle Word? Yes – Valid Guess & Meaning
 word: cleve
 description: Yes, CLEVE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ neighbours:
 - clove
 - clave
 - clepe
+definitions:
+- pos: noun
+  defs:
+  - text: A room; chamber.
+  - text: A cottage.
+  - text: A cliff or hillside.
 prev_word: clerk
 next_word: clews
 hubs:

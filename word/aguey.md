@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AGUEY a Wordle Word?
-head_title: Is AGUEY a Wordle Word? Yes – Valid Guess
+head_title: Is AGUEY a Wordle Word? Yes – Valid Guess & Meaning
 word: aguey
 description: Yes, AGUEY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,14 @@ neighbours:
 - agley
 - agued
 - agues
+definitions:
+- pos: adjective
+  defs:
+  - text: In the state of having a high fever accompanied by shaking or shivering.
+    example: One is jaundiced, aguey, feverish or out of sorts in some other way.
+  - text: Conditions associated with catching ague.
+    example: This was the first long, dreary, rainy, aguey, summer and wet, nasty,
+      bitter winter my parents had ever known.
 prev_word: agues
 next_word: aguna
 hubs:

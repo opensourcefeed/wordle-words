@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TURON a Wordle Word?
-head_title: Is TURON a Wordle Word? Yes – Valid Guess
+head_title: Is TURON a Wordle Word? Yes – Valid Guess & Meaning
 word: turon
 description: Yes, TURON is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -21,6 +22,11 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 21
+definitions:
+- pos: noun
+  defs:
+  - text: A Philippine snack made of a fried and caramelized spring roll wrapping
+      thinly sliced bananas.
 prev_word: turnt
 next_word: turps
 hubs:

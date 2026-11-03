@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is SPINY a Wordle Word?
-head_title: 'Is SPINY a Wordle Word? Yes – Past Answer #1688'
+head_title: 'Is SPINY a Wordle Word? Yes – Past Answer #1688 & Meaning'
 word: spiny
 description: Yes, SPINY is a valid Wordle word. It was the Wordle answer on February
-  1, 2026 (#1688). See its starter rating and similar words.
+  1, 2026 (#1688). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on February 1, 2026 (#1688).
 past_answers:
@@ -34,6 +34,20 @@ neighbours:
 anagrams:
 - pyins
 - snipy
+phonetic: "/ˈspaɪni/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Covered in spines or thorns.
+  - text: Troublesome; difficult or vexing.
+    example: The spiney desarts of scholastic philosophy
+  - text: Like a spine in shape; slender.
+    example: And, as in well-growne woods, on trees, cold ſpinie Graſhoppers / Sit
+      chirping, […]
+- pos: noun
+  defs:
+  - text: 'Archaic form of spinney: A small copse or wood, especially one planted
+      as a shelter for game birds.'
 prev_word: spins
 next_word: spire
 hubs:

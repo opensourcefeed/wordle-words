@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LENSE a Wordle Word?
-head_title: Is LENSE a Wordle Word? Yes – Valid Guess
+head_title: Is LENSE a Wordle Word? Yes – Valid Guess & Meaning
 word: lense
 description: Yes, LENSE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,18 @@ anagrams:
 trap:
   pattern: _ENSE
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of lens: An object, usually made of glass, that focuses
+      or defocuses the light that passes through it.'
+    example: When a lense is described as of 4 inch focus, it means that such a lens
+      is capable of bringing parallel rays to a point at a distance of 4 inches from
+      the lens.
+- pos: verb
+  defs:
+  - text: 'Alternative spelling of lens: An object, usually made of glass, that focuses
+      or defocuses the light that passes through it.'
 prev_word: lenos
 next_word: lenti
 hubs:

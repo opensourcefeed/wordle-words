@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is METEG a Wordle Word?
-head_title: Is METEG a Wordle Word? Yes – Valid Guess
+head_title: Is METEG a Wordle Word? Yes – Valid Guess & Meaning
 word: meteg
 description: Yes, METEG is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ neighbours:
 - meted
 - metel
 - metes
+definitions:
+- pos: noun
+  defs:
+  - text: "◌ֽ, a vertical bar placed under a syllable in Biblical Hebrew to mark stress."
 prev_word: meted
 next_word: metel
 hubs:

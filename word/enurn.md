@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ENURN a Wordle Word?
-head_title: Is ENURN a Wordle Word? Yes – Valid Guess
+head_title: Is ENURN a Wordle Word? Yes – Valid Guess & Meaning
 word: enurn
 description: Yes, ENURN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,11 @@ stats:
 neighbours:
 - enure
 - inurn
+definitions:
+- pos: verb
+  defs:
+  - text: 'Obsolete form of inurn: To place (the remains of a person who has died)
+      in an urn or other container.'
 prev_word: enure
 next_word: envoi
 hubs:

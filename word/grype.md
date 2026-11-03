@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GRYPE a Wordle Word?
-head_title: Is GRYPE a Wordle Word? Yes – Valid Guess
+head_title: Is GRYPE a Wordle Word? Yes – Valid Guess & Meaning
 word: grype
 description: Yes, GRYPE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,14 @@ neighbours:
 - gryde
 - gryke
 - grypt
+definitions:
+- pos: verb
+  defs:
+  - text: 'Obsolete spelling of gripe: To complain; to whine.'
+- pos: noun
+  defs:
+  - text: A vulture, Gyps fulvus; the griffin.
+    example: One grype-ſchill, with a covering, gilt, […]
 prev_word: gryke
 next_word: grypt
 hubs:

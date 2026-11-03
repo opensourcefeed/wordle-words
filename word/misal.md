@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MISAL a Wordle Word?
-head_title: Is MISAL a Wordle Word? Yes – Valid Guess
+head_title: Is MISAL a Wordle Word? Yes – Valid Guess & Meaning
 word: misal
 description: Yes, MISAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,12 @@ anagrams:
 - mails
 - malis
 - salmi
+definitions:
+- pos: noun
+  defs:
+  - text: An Indian dish of vegetables in a spicy gravy.
+  - text: 'Alternative form of misl: Any of the twelve sovereign states in the Sikh
+      Confederacy that rose during the eighteenth century in the Punjab.'
 prev_word: mirza
 next_word: misch
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MOPEY a Wordle Word?
-head_title: Is MOPEY a Wordle Word? Yes – Valid Guess
+head_title: Is MOPEY a Wordle Word? Yes – Valid Guess & Meaning
 word: mopey
 description: Yes, MOPEY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,13 @@ anagrams:
 trap:
   pattern: MO_EY
   count: 8
+phonetic: "/ˈməʊpɪ/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Given to moping; in a depressed condition, low in spirits; lackadaisical.
+    example: "[T]hat is partly owing . . . to young Alexis having been desultory and
+      mopy of late—not taking the interest in his music he did."
 prev_word: mopes
 next_word: moppy
 hubs:

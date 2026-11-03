@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FARER a Wordle Word?
-head_title: Is FARER a Wordle Word? Yes – Valid Guess
+head_title: Is FARER a Wordle Word? Yes – Valid Guess & Meaning
 word: farer
 description: Yes, FARER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,11 @@ neighbours:
 trap:
   pattern: _ARER
   count: 8
+phonetic: "/ˈfɛəɹə(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who fares or travels, a traveller, tripper
 prev_word: fared
 next_word: fares
 hubs:

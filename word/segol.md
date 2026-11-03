@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SEGOL a Wordle Word?
-head_title: Is SEGOL a Wordle Word? Yes – Valid Guess
+head_title: Is SEGOL a Wordle Word? Yes – Valid Guess & Meaning
 word: segol
 description: Yes, SEGOL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,12 @@ anagrams:
 - goles
 - loges
 - ogles
+phonetic: "/seɪˈɡoʊl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A Hebrew niqqud diacritical mark (ִ◌ֶ) in the form of three dots arranged
+      as an upside-down triangle, pronounced in Modern Hebrew as /e/.
 prev_word: segno
 next_word: segos
 hubs:

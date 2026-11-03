@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STEEM a Wordle Word?
-head_title: Is STEEM a Wordle Word? Yes – Valid Guess
+head_title: Is STEEM a Wordle Word? Yes – Valid Guess & Meaning
 word: steem
 description: Yes, STEEM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,15 @@ anagrams:
 trap:
   pattern: STEE_
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A gleam of light; a flame.
+  - text: Value.
+- pos: verb
+  defs:
+  - text: To value, to esteem.
+    example: His life he steemed dearer than his friend […].
 prev_word: steel
 next_word: steen
 hubs:

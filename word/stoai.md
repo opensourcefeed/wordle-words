@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STOAI a Wordle Word?
-head_title: Is STOAI a Wordle Word? Yes – Valid Guess
+head_title: Is STOAI a Wordle Word? Yes – Valid Guess & Meaning
 word: stoai
 description: Yes, STOAI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,11 @@ neighbours:
 anagrams:
 - iotas
 - ostia
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of stoa: In Ancient Greece, a walkway with a roof supported by colonnades,
+      often with a wall on one side; specifically, the Great Hall in Athens.'
 prev_word: stoae
 next_word: stoas
 hubs:

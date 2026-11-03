@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OGLER a Wordle Word?
-head_title: Is OGLER a Wordle Word? Yes – Valid Guess
+head_title: Is OGLER a Wordle Word? Yes – Valid Guess & Meaning
 word: ogler
 description: Yes, OGLER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,11 @@ neighbours:
 - oiler
 - oller
 - owler
+phonetic: "/ˈəʊɡələ(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who ogles.
 prev_word: ogled
 next_word: ogles
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FERNY a Wordle Word?
-head_title: Is FERNY a Wordle Word? Yes – Valid Guess
+head_title: Is FERNY a Wordle Word? Yes – Valid Guess & Meaning
 word: ferny
 description: Yes, FERNY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,15 @@ neighbours:
 - fenny
 - ferly
 - ferns
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or pertaining to ferns.
+  - text: Resembling or characteristic of a fern, in appearance, smell, etc.
+    example: All kinds of mosses grew by the stream—tufty, flat, ferny, and curly,
+      green, yellow and a whitish kind that was tipped with scarlet sealing wax.
+  - text: Covered in or filled with ferns; flanked or surrounded by ferns.
+    example: We'll walk over the spring fields and through those ferny old woods.
 prev_word: ferns
 next_word: ferox
 hubs:

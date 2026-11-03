@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DERED a Wordle Word?
-head_title: Is DERED a Wordle Word? Yes – Valid Guess
+head_title: Is DERED a Wordle Word? Yes – Valid Guess & Meaning
 word: dered
 description: Yes, DERED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,10 @@ neighbours:
 anagrams:
 - dreed
 - reded
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of dere: Hurt; harm; injury.'
 prev_word: derby
 next_word: deres
 hubs:

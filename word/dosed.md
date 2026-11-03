@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DOSED a Wordle Word?
-head_title: Is DOSED a Wordle Word? Yes – Valid Guess
+head_title: Is DOSED a Wordle Word? Yes – Valid Guess & Meaning
 word: dosed
 description: Yes, DOSED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,11 @@ neighbours:
 trap:
   pattern: _OSED
   count: 9
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of dose: A measured portion of medicine
+      taken at any one time.'
 prev_word: dosas
 next_word: doseh
 hubs:

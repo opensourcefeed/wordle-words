@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PALSA a Wordle Word?
-head_title: Is PALSA a Wordle Word? Yes – Valid Guess
+head_title: Is PALSA a Wordle Word? Yes – Valid Guess & Meaning
 word: palsa
 description: Yes, PALSA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,13 @@ anagrams:
 - palas
 - plaas
 - salpa
+definitions:
+- pos: noun
+  defs:
+  - text: A hummock rising out of a bog with a core of ice; similar in appearance
+      to a pingo but due to different structure palsas cannot grow as big as pingos.
+    example: These basin bogs are generally associated with Picea mariana or are treeless.
+      Species in these wetlands are similar to those found in other palsas in Canada.
 prev_word: palps
 next_word: palsy
 hubs:

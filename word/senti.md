@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SENTI a Wordle Word?
-head_title: Is SENTI a Wordle Word? Yes – Valid Guess
+head_title: Is SENTI a Wordle Word? Yes – Valid Guess & Meaning
 word: senti
 description: Yes, SENTI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,14 @@ anagrams:
 - sient
 - teins
 - tines
+definitions:
+- pos: adjective
+  defs:
+  - text: Sentimental, emotional.
+- pos: noun
+  defs:
+  - text: A coin, one hundredth of a Tanzanian shilling.
+  - text: Plural of sent (subdivision of Estonian currency)
 prev_word: sente
 next_word: sents
 hubs:

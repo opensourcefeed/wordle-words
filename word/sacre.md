@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SACRE a Wordle Word?
-head_title: Is SACRE a Wordle Word? Yes – Valid Guess
+head_title: Is SACRE a Wordle Word? Yes – Valid Guess & Meaning
 word: sacre
 description: Yes, SACRE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,15 @@ anagrams:
 - races
 - scrae
 - serac
+phonetic: "/ˈseɪkɚ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To consecrate.
+    example: And I purpose this night to sacre you all with the Holy Incense.
+- pos: noun
+  defs:
+  - text: Alternative form of saker (“type of cannon”).
 prev_word: sacra
 next_word: saddo
 hubs:

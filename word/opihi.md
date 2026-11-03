@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OPIHI a Wordle Word?
-head_title: Is OPIHI a Wordle Word? Yes – Valid Guess
+head_title: Is OPIHI a Wordle Word? Yes – Valid Guess & Meaning
 word: opihi
 description: Yes, OPIHI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -21,6 +22,12 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 89
+definitions:
+- pos: noun
+  defs:
+  - text: A limpet of genus Cellana.
+    example: Place the opihi on their backs on a baking tray and put a small dab of
+      garlic butter on each of their bellies.
 prev_word: opgaf
 next_word: opine
 hubs:

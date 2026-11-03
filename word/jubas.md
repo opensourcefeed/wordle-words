@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is JUBAS a Wordle Word?
-head_title: Is JUBAS a Wordle Word? Yes – Valid Guess
+head_title: Is JUBAS a Wordle Word? Yes – Valid Guess & Meaning
 word: jubas
 description: Yes, JUBAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 - tubas
 anagrams:
 - bajus
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of juba: An American dance of West African origin that involves
+      stomping as well as slapping and patting the arms, legs, chest, and cheeks.'
 prev_word: joyed
 next_word: jubes
 hubs:

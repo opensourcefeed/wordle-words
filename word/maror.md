@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MAROR a Wordle Word?
-head_title: Is MAROR a Wordle Word? Yes – Valid Guess
+head_title: Is MAROR a Wordle Word? Yes – Valid Guess & Meaning
 word: maror
 description: Yes, MAROR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,11 @@ neighbours:
 anagrams:
 - armor
 - morra
+definitions:
+- pos: noun
+  defs:
+  - text: A bitter vegetable, such as horseradish or Romaine lettuce, eaten at the
+      Passover seder as a reminder of the bitterness of slavery in Egypt.
 prev_word: maron
 next_word: marra
 hubs:

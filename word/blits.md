@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BLITS a Wordle Word?
-head_title: Is BLITS a Wordle Word? Yes – Valid Guess
+head_title: Is BLITS a Wordle Word? Yes – Valid Guess & Meaning
 word: blits
 description: Yes, BLITS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,11 @@ neighbours:
 anagrams:
 - blist
 - stilb
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of blit: A logical operation in which a block of data is rapidly
+      moved or copied in memory, most commonly used to animate two-dimensional graphics.'
 prev_word: blite
 next_word: blitz
 hubs:

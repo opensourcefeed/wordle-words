@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GALED a Wordle Word?
-head_title: Is GALED a Wordle Word? Yes – Valid Guess
+head_title: Is GALED a Wordle Word? Yes – Valid Guess & Meaning
 word: galed
 description: Yes, GALED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,10 @@ anagrams:
 trap:
   pattern: _ALED
   count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of gale: To cry; groan; croak.'
 prev_word: galea
 next_word: gales
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GUSLI a Wordle Word?
-head_title: Is GUSLI a Wordle Word? Yes – Valid Guess
+head_title: Is GUSLI a Wordle Word? Yes – Valid Guess & Meaning
 word: gusli
 description: Yes, GUSLI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,12 @@ neighbours:
 - gusle
 anagrams:
 - iglus
+definitions:
+- pos: noun
+  defs:
+  - text: A plucked psaltery-like string instrument, usually played on the lap and
+      sometimes created with table legs so that the musician can play it seated next
+      to the instrument, originating in ancient Russian music.
 prev_word: gusle
 next_word: gussy
 hubs:

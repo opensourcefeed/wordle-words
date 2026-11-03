@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OLATE a Wordle Word?
-head_title: Is OLATE a Wordle Word? Yes – Valid Guess
+head_title: Is OLATE a Wordle Word? Yes – Valid Guess & Meaning
 word: olate
 description: Yes, OLATE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,12 @@ neighbours:
 trap:
   pattern: _LATE
   count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: To form an ol group or compound.
+    example: The hydroxo groups then “olated,” resulting in the formation of large
+      aggregates, eventually reaching colloidal size.
 prev_word: oktas
 next_word: olden
 hubs:

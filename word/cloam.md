@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CLOAM a Wordle Word?
-head_title: Is CLOAM a Wordle Word? Yes – Valid Guess
+head_title: Is CLOAM a Wordle Word? Yes – Valid Guess & Meaning
 word: cloam
 description: Yes, CLOAM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,18 @@ neighbours:
 - gloam
 anagrams:
 - comal
+definitions:
+- pos: noun
+  defs:
+  - text: Clay.
+  - text: Earthenware.
+- pos: adjective
+  defs:
+  - text: Made of earthenware.
+- pos: verb
+  defs:
+  - text: To make cloam.
+  - text: To gutter (as a candle).
 prev_word: cloak
 next_word: clock
 hubs:

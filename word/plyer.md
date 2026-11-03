@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PLYER a Wordle Word?
-head_title: Is PLYER a Wordle Word? Yes – Valid Guess
+head_title: Is PLYER a Wordle Word? Yes – Valid Guess & Meaning
 word: plyer
 description: Yes, PLYER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,12 @@ neighbours:
 - slyer
 anagrams:
 - reply
+definitions:
+- pos: noun
+  defs:
+  - text: A kind of balance used in raising and letting down a drawbridge. It consists
+      of timbers joined in the form of a Saint Andrew's cross.
+  - text: 'Alternative spelling of plier: One who plies.'
 prev_word: pluty
 next_word: pneus
 hubs:

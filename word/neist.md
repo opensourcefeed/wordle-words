@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NEIST a Wordle Word?
-head_title: Is NEIST a Wordle Word? Yes – Valid Guess
+head_title: Is NEIST a Wordle Word? Yes – Valid Guess & Meaning
 word: neist
 description: Yes, NEIST is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,19 @@ anagrams:
 trap:
   pattern: _EIST
   count: 6
+phonetic: "/niːst/"
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Alternative form of next: Nearest in place or position, having nothing
+      similar intervening; adjoining.'
+- pos: adverb
+  defs:
+  - text: 'Alternative form of next: Nearest in place or position, having nothing
+      similar intervening; adjoining.'
+    example: |-
+      The bonniest lass that ye meet neist,
+       Gie her a kiss an' a' that
 prev_word: neigh
 next_word: neive
 hubs:

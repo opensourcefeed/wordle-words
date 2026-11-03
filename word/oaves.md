@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OAVES a Wordle Word?
-head_title: Is OAVES a Wordle Word? Yes – Valid Guess
+head_title: Is OAVES a Wordle Word? Yes – Valid Guess & Meaning
 word: oaves
 description: Yes, OAVES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,10 @@ anagrams:
 trap:
   pattern: _AVES
   count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of oaf: A person, especially a large male, who is clumsy or a simpleton.'
 prev_word: oaths
 next_word: obang
 hubs:

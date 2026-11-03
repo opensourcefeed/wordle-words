@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DROIL a Wordle Word?
-head_title: Is DROIL a Wordle Word? Yes – Valid Guess
+head_title: Is DROIL a Wordle Word? Yes – Valid Guess & Meaning
 word: droil
 description: Yes, DROIL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,18 @@ neighbours:
 - drool
 - drail
 - droid
+phonetic: "/dɹɔɪl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A drudge; a minion or servile worker.
+    example: Then I begin to rave at my stars' bitterness, / To see how many muckhills
+      plac'd above me; / Peasants and droils, caroches full of dunghills
+  - text: Hard work; toil or drudgery.
+    example: When the burden of daytime droil is o'er
+- pos: verb
+  defs:
+  - text: To work sluggishly or slowly; to plod.
 prev_word: droid
 next_word: droit
 hubs:

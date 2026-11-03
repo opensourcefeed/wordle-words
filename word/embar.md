@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is EMBAR a Wordle Word?
-head_title: Is EMBAR a Wordle Word? Yes – Valid Guess
+head_title: Is EMBAR a Wordle Word? Yes – Valid Guess & Meaning
 word: embar
 description: Yes, EMBAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,12 @@ anagrams:
 - amber
 - brame
 - bream
+phonetic: "/ɪmˈbɑː/"
+definitions:
+- pos: verb
+  defs:
+  - text: To enclose (as though behind bars); to imprison.
+  - text: To prohibit, debar (someone from doing something).
 prev_word: email
 next_word: embay
 hubs:

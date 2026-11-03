@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DOUMS a Wordle Word?
-head_title: Is DOUMS a Wordle Word? Yes – Valid Guess
+head_title: Is DOUMS a Wordle Word? Yes – Valid Guess & Meaning
 word: doums
 description: Yes, DOUMS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,10 @@ neighbours:
 anagrams:
 - modus
 - odums
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of doum: The doum palm.'
 prev_word: douma
 next_word: doups
 hubs:

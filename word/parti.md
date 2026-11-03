@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PARTI a Wordle Word?
-head_title: Is PARTI a Wordle Word? Yes – Valid Guess
+head_title: Is PARTI a Wordle Word? Yes – Valid Guess & Meaning
 word: parti
 description: Yes, PARTI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,17 @@ neighbours:
 anagrams:
 - tapir
 - atrip
+phonetic: "/ˈpɑːti/"
+definitions:
+- pos: noun
+  defs:
+  - text: The basic, central, or main concept, drawing, or scheme of an architectural
+      design.
+  - text: Someone (especially a man) who is considered to be a good choice for marriage,
+      because of wealth, status etc.
+    example: We met some time ago a man that would just do for you, if you were not
+      already engaged to Jonathan. He is an excellent parti, being handsome, well
+      off, and of good birth.
 prev_word: parte
 next_word: parts
 hubs:

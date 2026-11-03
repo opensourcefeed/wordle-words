@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WASTS a Wordle Word?
-head_title: Is WASTS a Wordle Word? Yes – Valid Guess
+head_title: Is WASTS a Wordle Word? Yes – Valid Guess & Meaning
 word: wasts
 description: Yes, WASTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,10 @@ anagrams:
 trap:
   pattern: _ASTS
   count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of wast: Second-person singular simple past indicative of be; wert.'
 prev_word: waste
 next_word: watap
 hubs:

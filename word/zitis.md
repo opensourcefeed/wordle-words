@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ZITIS a Wordle Word?
-head_title: Is ZITIS a Wordle Word? Yes – Valid Guess
+head_title: Is ZITIS a Wordle Word? Yes – Valid Guess & Meaning
 word: zitis
 description: Yes, ZITIS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - mitis
 - titis
 - zatis
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of ziti: A type of macaroni pasta in the form of long smooth hollow
+      tubes.'
 prev_word: ziram
 next_word: zitty
 hubs:

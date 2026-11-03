@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HELED a Wordle Word?
-head_title: Is HELED a Wordle Word? Yes – Valid Guess
+head_title: Is HELED a Wordle Word? Yes – Valid Guess & Meaning
 word: heled
 description: Yes, HELED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,12 @@ neighbours:
 - hexed
 - heyed
 - holed
+phonetic: "/hiːld/"
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of hele: To hide, conceal, and keep secret,
+      especially for a secret society (such as the masons).'
 prev_word: hejra
 next_word: heles
 hubs:

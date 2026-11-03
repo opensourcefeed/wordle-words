@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOWNE a Wordle Word?
-head_title: Is SOWNE a Wordle Word? Yes – Valid Guess
+head_title: Is SOWNE a Wordle Word? Yes – Valid Guess & Meaning
 word: sowne
 description: Yes, SOWNE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,10 @@ neighbours:
 anagrams:
 - enows
 - owsen
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of sound: Healthy.'
 prev_word: sownd
 next_word: sowps
 hubs:

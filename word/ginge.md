@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GINGE a Wordle Word?
-head_title: Is GINGE a Wordle Word? Yes – Valid Guess
+head_title: Is GINGE a Wordle Word? Yes – Valid Guess & Meaning
 word: ginge
 description: Yes, GINGE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,16 @@ neighbours:
 trap:
   pattern: _INGE
   count: 10
+phonetic: "/d͡ʒɪnd͡ʒ/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Ginger, red-haired
+- pos: noun
+  defs:
+  - text: A red-haired person.
+    example: "“Listen, Ginge,” continued the bully. “We don’t want you in our bogs.
+      You hear? Puttin’ off all the customers by talking to yerself like some nutter…”"
 prev_word: ginga
 next_word: gings
 hubs:

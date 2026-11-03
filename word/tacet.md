@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TACET a Wordle Word?
-head_title: Is TACET a Wordle Word? Yes – Valid Guess
+head_title: Is TACET a Wordle Word? Yes – Valid Guess & Meaning
 word: tacet
 description: Yes, TACET is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,11 @@ neighbours:
 - tapet
 anagrams:
 - tecta
+phonetic: "/ˈteɪ.sɪt/"
+definitions:
+- pos: verb
+  defs:
+  - text: An instruction indicating silence on the part of the performers of a piece.
 prev_word: taces
 next_word: tache
 hubs:

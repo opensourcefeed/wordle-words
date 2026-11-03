@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OBOLE a Wordle Word?
-head_title: Is OBOLE a Wordle Word? Yes – Valid Guess
+head_title: Is OBOLE a Wordle Word? Yes – Valid Guess & Meaning
 word: obole
 description: Yes, OBOLE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 - oboli
 - obols
 - okole
+definitions:
+- pos: noun
+  defs:
+  - text: An obsolete French coin.
+    example: If a small ship arrives at Billingsgate it will give one obole as thelony
+      [custom]
 prev_word: oboes
 next_word: oboli
 hubs:

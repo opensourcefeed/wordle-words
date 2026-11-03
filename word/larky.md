@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LARKY a Wordle Word?
-head_title: Is LARKY a Wordle Word? Yes – Valid Guess
+head_title: Is LARKY a Wordle Word? Yes – Valid Guess & Meaning
 word: larky
 description: Yes, LARKY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,12 @@ neighbours:
 trap:
   pattern: _ARKY
   count: 6
+definitions:
+- pos: adjective
+  defs:
+  - text: Playful.
+    example: Bit of a card this Mr Willie Wich from what I hear. Old party keeps him
+      in pretty tight by all accounts. Larky; girls.
 prev_word: larks
 next_word: larns
 hubs:

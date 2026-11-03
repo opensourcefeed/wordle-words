@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STROY a Wordle Word?
-head_title: Is STROY a Wordle Word? Yes – Valid Guess
+head_title: Is STROY a Wordle Word? Yes – Valid Guess & Meaning
 word: stroy
 description: Yes, STROY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,15 @@ anagrams:
 - ryots
 - troys
 - tyros
+phonetic: "/stɹɔɪ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To destroy.
+    example: |-
+      How I convey my shame out of thine eyes
+      By looking back what I have left behind
+      Stroy'd in dishonour
 prev_word: strow
 next_word: strum
 hubs:

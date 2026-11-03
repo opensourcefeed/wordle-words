@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MILLE a Wordle Word?
-head_title: Is MILLE a Wordle Word? Yes – Valid Guess
+head_title: Is MILLE a Wordle Word? Yes – Valid Guess & Meaning
 word: mille
 description: Yes, MILLE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 - molle
 - rille
 - ville
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of mill: A grinding apparatus for substances such
+      as grains, seeds, etc. (Some are small and simple, and some are large and complex.)'
 prev_word: milky
 next_word: mills
 hubs:

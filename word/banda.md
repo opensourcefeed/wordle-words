@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BANDA a Wordle Word?
-head_title: Is BANDA a Wordle Word? Yes – Valid Guess
+head_title: Is BANDA a Wordle Word? Yes – Valid Guess & Meaning
 word: banda
 description: Yes, BANDA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,14 @@ neighbours:
 - vanda
 anagrams:
 - aband
+definitions:
+- pos: noun
+  defs:
+  - text: A style of Mexican brass band music, emerged in the 19th century.
+    example: With very little fanfare, WZAA had become the first FM station in New
+      York offering a format known as Mexican Regiona, which includes genres like
+      ranchera, banda and norteña music.
+  - text: An ensemble playing such music.
 prev_word: bancs
 next_word: bandh
 hubs:

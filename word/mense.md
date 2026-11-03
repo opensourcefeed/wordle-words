@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MENSE a Wordle Word?
-head_title: Is MENSE a Wordle Word? Yes – Valid Guess
+head_title: Is MENSE a Wordle Word? Yes – Valid Guess & Meaning
 word: mense
 description: Yes, MENSE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,18 @@ anagrams:
 trap:
   pattern: _ENSE
   count: 7
+phonetic: "/mɛns/"
+definitions:
+- pos: noun
+  defs:
+  - text: Property, owndom; possessions.
+  - text: Decency; propriety; civility.
+    example: "... But never a soul had the mense to come near them,[…]"
+  - text: A large amount.
+    example: There is not a mense of snow in "smoky Leeds,"
+- pos: verb
+  defs:
+  - text: To adorn, bring honour to; grace.
 prev_word: mensa
 next_word: mensh
 hubs:

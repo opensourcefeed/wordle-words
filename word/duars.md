@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DUARS a Wordle Word?
-head_title: Is DUARS a Wordle Word? Yes – Valid Guess
+head_title: Is DUARS a Wordle Word? Yes – Valid Guess & Meaning
 word: duars
 description: Yes, DUARS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ anagrams:
 - daurs
 - duras
 - rudas
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of duar: A camp or village of tents in an Arabic country.'
 prev_word: duans
 next_word: dubbo
 hubs:

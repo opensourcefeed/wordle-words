@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SPINA a Wordle Word?
-head_title: Is SPINA a Wordle Word? Yes – Valid Guess
+head_title: Is SPINA a Wordle Word? Yes – Valid Guess & Meaning
 word: spina
 description: Yes, SPINA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,13 @@ anagrams:
 - pians
 - pinas
 - spain
+phonetic: "/ˈspaɪ.nə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A spine; the backbone.
+  - text: One of the quills of a spinet.
+  - text: A barrier dividing the Ancient Roman hippodrome longitudinally.
 prev_word: spims
 next_word: spine
 hubs:

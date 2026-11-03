@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is URUBU a Wordle Word?
-head_title: Is URUBU a Wordle Word? Yes – Valid Guess
+head_title: Is URUBU a Wordle Word? Yes – Valid Guess & Meaning
 word: urubu
 description: Yes, URUBU is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -19,6 +20,11 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 99
+phonetic: "/ˈjuɹubu/"
+definitions:
+- pos: noun
+  defs:
+  - text: A New World vulture (a vulture from South America).
 prev_word: urson
 next_word: urupa
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GAMIC a Wordle Word?
-head_title: Is GAMIC a Wordle Word? Yes – Valid Guess
+head_title: Is GAMIC a Wordle Word? Yes – Valid Guess & Meaning
 word: gamic
 description: Yes, GAMIC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,10 @@ neighbours:
 - gamin
 anagrams:
 - magic
+definitions:
+- pos: adjective
+  defs:
+  - text: Formed as a result of syngamy (union of gametes), sexually produced, sexual.
 prev_word: gamey
 next_word: gamin
 hubs:

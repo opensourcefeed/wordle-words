@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CONGO a Wordle Word?
-head_title: Is CONGO a Wordle Word? Yes – Valid Guess
+head_title: Is CONGO a Wordle Word? Yes – Valid Guess & Meaning
 word: congo
 description: Yes, CONGO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,13 @@ neighbours:
 - songo
 anagrams:
 - cogon
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of congou: a kind of Chinese black tea.'
+- pos: interjection
+  defs:
+  - text: Congratulations
 prev_word: conge
 next_word: conia
 hubs:

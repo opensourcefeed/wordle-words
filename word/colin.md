@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is COLIN a Wordle Word?
-head_title: Is COLIN a Wordle Word? Yes – Valid Guess
+head_title: Is COLIN a Wordle Word? Yes – Valid Guess & Meaning
 word: colin
 description: Yes, COLIN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,12 @@ neighbours:
 - covin
 anagrams:
 - nicol
+definitions:
+- pos: noun
+  defs:
+  - text: The American quail or bobwhite, or related species.
+    example: To this belongs the Colin or Quail of New England and Partridge of the
+      South […]
 prev_word: colic
 next_word: colle
 hubs:

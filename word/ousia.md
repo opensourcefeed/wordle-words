@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OUSIA a Wordle Word?
-head_title: Is OUSIA a Wordle Word? Yes – Valid Guess
+head_title: Is OUSIA a Wordle Word? Yes – Valid Guess & Meaning
 word: ousia
 description: Yes, OUSIA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,16 @@ stats:
   starter_top_percent: 15
 neighbours:
 - ossia
+phonetic: "/ˈuːsɪə/"
+definitions:
+- pos: noun
+  defs:
+  - text: The essential nature or ‘substance’ of God, often as contrasted to the ‘energies’
+      (external actions and influences) through which he is manifest.
+    example: We could never know God's ousia, but in order to adapt his indescribable
+      nature to our limited intellect, God communicated to us through his activities
+      in the world.
+  - text: Essence, being.
 prev_word: ousel
 next_word: ousts
 hubs:

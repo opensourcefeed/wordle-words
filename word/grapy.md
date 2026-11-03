@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GRAPY a Wordle Word?
-head_title: Is GRAPY a Wordle Word? Yes – Valid Guess
+head_title: Is GRAPY a Wordle Word? Yes – Valid Guess & Meaning
 word: grapy
 description: Yes, GRAPY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 - crapy
 - drapy
 - gripy
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Alternative form of grapey: Resembling grapes.'
 prev_word: graph
 next_word: grasp
 hubs:

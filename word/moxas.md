@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MOXAS a Wordle Word?
-head_title: Is MOXAS a Wordle Word? Yes – Valid Guess
+head_title: Is MOXAS a Wordle Word? Yes – Valid Guess & Meaning
 word: moxas
 description: Yes, MOXAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,11 @@ neighbours:
 trap:
   pattern: MO_AS
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of moxa: A woolly material obtained from the dried leaves of an
+      Asian species of mugwort, such as Artemisia argyi, as used in moxibustion.'
 prev_word: mowra
 next_word: moxie
 hubs:

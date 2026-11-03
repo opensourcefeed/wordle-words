@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LIFES a Wordle Word?
-head_title: Is LIFES a Wordle Word? Yes – Valid Guess
+head_title: Is LIFES a Wordle Word? Yes – Valid Guess & Meaning
 word: lifes
 description: Yes, LIFES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,22 @@ anagrams:
 trap:
   pattern: LI_ES
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of life: The state of organisms preceding their death, characterized
+      by biological processes such as metabolism and reproduction and distinguishing
+      them from inanimate objects; the state of being alive and living.'
+  - text: Genitive of life
+    example: |-
+      Duncane is in his Graue:
+       After Lifes fitfull Feuer, he ſleepes well,
+       Treaſon ha's done his worſt: not Steele, not Poyſon,
+       Mallice domeſtique, forraine Leuie, nothing,
+       Can touch him further.
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of life
 prev_word: lifer
 next_word: lifey
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PRIER a Wordle Word?
-head_title: Is PRIER a Wordle Word? Yes – Valid Guess
+head_title: Is PRIER a Wordle Word? Yes – Valid Guess & Meaning
 word: prier
 description: Yes, PRIER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,10 @@ anagrams:
 trap:
   pattern: _RIER
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A person who pries.
 prev_word: prief
 next_word: pries
 hubs:

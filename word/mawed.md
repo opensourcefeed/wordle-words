@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MAWED a Wordle Word?
-head_title: Is MAWED a Wordle Word? Yes – Valid Guess
+head_title: Is MAWED a Wordle Word? Yes – Valid Guess & Meaning
 word: mawed
 description: Yes, MAWED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,12 @@ anagrams:
 trap:
   pattern: _AWED
   count: 11
+definitions:
+- pos: adjective
+  defs:
+  - text: Having a maw (of a specified kind).
+    example: "[…] Which, piling private ill on public wrong, / Beneath the garb of
+      patriotism hides / Its large-mawed cravings […]"
 prev_word: mavis
 next_word: mawks
 hubs:

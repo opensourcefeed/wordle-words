@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WHATS a Wordle Word?
-head_title: Is WHATS a Wordle Word? Yes – Valid Guess
+head_title: Is WHATS a Wordle Word? Yes – Valid Guess & Meaning
 word: whats
 description: Yes, WHATS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,14 @@ neighbours:
 anagrams:
 - swath
 - thaws
+definitions:
+- pos: noun
+  defs:
+  - text: Plural of what; used as a stand-in to collectively pluralize arbitrary instances
+      of things. Often used along with whys, hows, etc.
+    example: Shall I continue this reproaching style, quote all the whats and whys
+      out of Jeremiah's Lamentations, and then present you with some outlines of Job
+      for consolation?
 prev_word: whata
 next_word: whaup
 hubs:

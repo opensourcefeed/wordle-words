@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is VICED a Wordle Word?
-head_title: Is VICED a Wordle Word? Yes – Valid Guess
+head_title: Is VICED a Wordle Word? Yes – Valid Guess & Meaning
 word: viced
 description: Yes, VICED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,20 @@ neighbours:
 - vined
 - vired
 - vised
+definitions:
+- pos: adjective
+  defs:
+  - text: Vicious; corrupt
+    example: Jove Will o'er some high-viced city hang his poison In the sick air
+  - text: Held clamped by a vice or something with a similar squeezing action.
+    example: Ewan works a solid half-hour and the viced scroll looks barely scratched.
+  - text: Maintaining a vice-like grip.
+    example: After a while Farino fell and Lacy with him; but the viced fingers never
+      relaxed.
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of vice: Bad or immoral behaviour. (Especially
+      often, a habit that harms oneself or others)'
 prev_word: vicar
 next_word: vices
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MACAS a Wordle Word?
-head_title: Is MACAS a Wordle Word? Yes – Valid Guess
+head_title: Is MACAS a Wordle Word? Yes – Valid Guess & Meaning
 word: macas
 description: Yes, MACAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,11 @@ anagrams:
 trap:
   pattern: MA_AS
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of maca: Any member of the species Lepidium meyenii, an Andean medicinal
+      herb, or an extract of the root of this plant.'
 prev_word: mabes
 next_word: macaw
 hubs:

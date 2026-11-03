@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LAVRA a Wordle Word?
-head_title: Is LAVRA a Wordle Word? Yes – Valid Guess
+head_title: Is LAVRA a Wordle Word? Yes – Valid Guess & Meaning
 word: lavra
 description: Yes, LAVRA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,12 @@ anagrams:
 - larva
 - alvar
 - arval
+phonetic: "/ˈlævɹə/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of laura: A number of hermitages or cells in the same
+      neighborhood occupied by anchorites who were under the same superior'
 prev_word: laves
 next_word: lavvy
 hubs:

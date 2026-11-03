@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KIBBI a Wordle Word?
-head_title: Is KIBBI a Wordle Word? Yes – Valid Guess
+head_title: Is KIBBI a Wordle Word? Yes – Valid Guess & Meaning
 word: kibbi
 description: Yes, KIBBI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,11 @@ stats:
 neighbours:
 - kibbe
 - kibei
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of kibbeh: A form of dumpling, from the Levant, made
+      of spiced lamb and bulgur wheat.'
 prev_word: kibbe
 next_word: kibei
 hubs:

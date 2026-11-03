@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RIMER a Wordle Word?
-head_title: Is RIMER a Wordle Word? Yes – Valid Guess
+head_title: Is RIMER a Wordle Word? Yes – Valid Guess & Meaning
 word: rimer
 description: Yes, RIMER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,11 @@ neighbours:
 trap:
   pattern: RI_ER
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A tool for shaping the rimes of a ladder.
+  - text: 'Archaic spelling of rhymer: A minstrel.'
 prev_word: rimed
 next_word: rimes
 hubs:

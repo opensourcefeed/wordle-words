@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HOPER a Wordle Word?
-head_title: Is HOPER a Wordle Word? Yes – Valid Guess
+head_title: Is HOPER a Wordle Word? Yes – Valid Guess & Meaning
 word: hoper
 description: Yes, HOPER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,12 @@ anagrams:
 trap:
   pattern: _OPER
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: One who hopes.
+    example: Our thoroughsped republick of whigs, which contains the bulk of all hopers,
+      pretenders, expecters, and professors
 prev_word: hoped
 next_word: hopes
 hubs:

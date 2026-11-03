@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AXLED a Wordle Word?
-head_title: Is AXLED a Wordle Word? Yes – Valid Guess
+head_title: Is AXLED a Wordle Word? Yes – Valid Guess & Meaning
 word: axled
 description: Yes, AXLED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,11 @@ neighbours:
 - axles
 anagrams:
 - laxed
+definitions:
+- pos: adjective
+  defs:
+  - text: Having (a specified number or kind of) axles.
+    example: a three-axled motor vehicle
 prev_word: axite
 next_word: axles
 hubs:

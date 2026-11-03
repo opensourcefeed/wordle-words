@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WRATE a Wordle Word?
-head_title: Is WRATE a Wordle Word? Yes – Valid Guess
+head_title: Is WRATE a Wordle Word? Yes – Valid Guess & Meaning
 word: wrate
 description: Yes, WRATE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,17 @@ anagrams:
 trap:
   pattern: _RATE
   count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past of write: To form letters, words or symbols on a surface in
+      order to communicate.'
+    example: |-
+      I shall you make relacyon
+      By way of apostrofacyon […]
+      How I, Skelton laureat,
+      Devysed and also wrate
+      Uppon a lewde curate, […]
 prev_word: wrast
 next_word: wrath
 hubs:

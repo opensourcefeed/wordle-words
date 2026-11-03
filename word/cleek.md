@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CLEEK a Wordle Word?
-head_title: Is CLEEK a Wordle Word? Yes – Valid Guess
+head_title: Is CLEEK a Wordle Word? Yes – Valid Guess & Meaning
 word: cleek
 description: Yes, CLEEK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,20 @@ neighbours:
 - cleik
 - fleek
 - gleek
+phonetic: "/kliːk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A large hook.
+  - text: A metal-headed golf club with little loft, equivalent in a modern set of
+      clubs to a one or two iron or a four wood.
+    example: He had begun at four, playing with a miniature cleek and a found shilling
+      ball over the municipal links.
+- pos: verb
+  defs:
+  - text: To strike with the club called a cleek.
+    example: "[…] ready to acclaim his exploits, and listen to volumes about every
+      hole, and the marvellous way in which he cleeked his tee off the bogie."
 prev_word: cleck
 next_word: cleep
 hubs:

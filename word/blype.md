@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BLYPE a Wordle Word?
-head_title: Is BLYPE a Wordle Word? Yes – Valid Guess
+head_title: Is BLYPE a Wordle Word? Yes – Valid Guess & Meaning
 word: blype
 description: Yes, BLYPE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,10 @@ neighbours:
 - clype
 - flype
 - slype
+definitions:
+- pos: noun
+  defs:
+  - text: A thin membrane or small piece of skin.
 prev_word: blush
 next_word: boabs
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HIVER a Wordle Word?
-head_title: Is HIVER a Wordle Word? Yes – Valid Guess
+head_title: Is HIVER a Wordle Word? Yes – Valid Guess & Meaning
 word: hiver
 description: Yes, HIVER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,13 @@ neighbours:
 trap:
   pattern: _IVER
   count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: One who collects bees into a hive.
+    example: The hiver must have his face and hands defended, as above-mentioned,
+      and accompanied by a person holding a chafing-dish, with a coal fire, covered
+      with moist peat, to make the greater smoke […]
 prev_word: hived
 next_word: hives
 hubs:

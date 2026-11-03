@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PREVE a Wordle Word?
-head_title: Is PREVE a Wordle Word? Yes – Valid Guess
+head_title: Is PREVE a Wordle Word? Yes – Valid Guess & Meaning
 word: preve
 description: Yes, PREVE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,14 @@ neighbours:
 - prese
 anagrams:
 - perve
+definitions:
+- pos: verb
+  defs:
+  - text: 'Obsolete form of prove: To demonstrate that something is true or viable;
+      to give proof for; to bear out; to testify.'
+    example: And thus your huſbandrye me thincke, is more like the life of a couetous
+      ſnudge that ofte very euill preues, then the labour of a good huſbãde [husbande]
+      that knoweth well what he doth.
 prev_word: preux
 next_word: prexy
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOLUM a Wordle Word?
-head_title: Is SOLUM a Wordle Word? Yes – Valid Guess
+head_title: Is SOLUM a Wordle Word? Yes – Valid Guess & Meaning
 word: solum
 description: Yes, SOLUM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,13 @@ anagrams:
 - mouls
 - omuls
 - ulmos
+phonetic: "/ˈsəʊləm/"
+definitions:
+- pos: noun
+  defs:
+  - text: Within a soil profile, a set of related soil horizons that share the same
+      cycle of pedogenic processes; the upper layers of a soil profile that are affected
+      by climate.
 prev_word: solos
 next_word: solus
 hubs:

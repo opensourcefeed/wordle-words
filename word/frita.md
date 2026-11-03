@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FRITA a Wordle Word?
-head_title: Is FRITA a Wordle Word? Yes – Valid Guess
+head_title: Is FRITA a Wordle Word? Yes – Valid Guess & Meaning
 word: frita
 description: Yes, FRITA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,12 @@ anagrams:
 trap:
   pattern: FRIT_
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A kind of hamburger of Cuban origin, consisting of a seasoned ground beef
+      and pork patty with chorizo or chorizo spices, topped with sauteed onions, served
+      on a Cuban bread roll and garnished with julienned or shoestring potato fries.
 prev_word: frist
 next_word: frite
 hubs:

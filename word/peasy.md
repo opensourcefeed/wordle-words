@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PEASY a Wordle Word?
-head_title: Is PEASY a Wordle Word? Yes – Valid Guess
+head_title: Is PEASY a Wordle Word? Yes – Valid Guess & Meaning
 word: peasy
 description: Yes, PEASY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 - peavy
 - peisy
 - pensy
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling or characteristic of peas.
+    example: Becker et al (1988) investigated the origin of a 'peasy' off-flavor note
+      present in Central African coffees, defective green beans impairing considerably
+      the flavor of the final roasted product.
 prev_word: pease
 next_word: peats
 hubs:

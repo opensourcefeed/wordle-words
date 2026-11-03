@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RUMLY a Wordle Word?
-head_title: Is RUMLY a Wordle Word? Yes – Valid Guess
+head_title: Is RUMLY a Wordle Word? Yes – Valid Guess & Meaning
 word: rumly
 description: Yes, RUMLY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,14 @@ neighbours:
 - rumpy
 anagrams:
 - murly
+phonetic: "/ˈɹʌmli/"
+definitions:
+- pos: adverb
+  defs:
+  - text: In a rum manner; oddly, strangely.
+    example: |-
+      c. 1840–1850, Virgil's Aeneid, book v., translated by Thomas Moore
+      Thus rumly floor'd, the kind Acestes ran, / And pitying, raised from earth the game old man.
 prev_word: rumes
 next_word: rummy
 hubs:

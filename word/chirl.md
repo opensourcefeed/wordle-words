@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CHIRL a Wordle Word?
-head_title: Is CHIRL a Wordle Word? Yes – Valid Guess
+head_title: Is CHIRL a Wordle Word? Yes – Valid Guess & Meaning
 word: chirl
 description: Yes, CHIRL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,13 @@ neighbours:
 trap:
   pattern: CHIR_
   count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: To emit a low sound; to warble.
+- pos: noun
+  defs:
+  - text: A kind of musical warble.
 prev_word: chirk
 next_word: chirm
 hubs:

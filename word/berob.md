@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BEROB a Wordle Word?
-head_title: Is BEROB a Wordle Word? Yes – Valid Guess
+head_title: Is BEROB a Wordle Word? Yes – Valid Guess & Meaning
 word: berob
 description: Yes, BEROB is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,15 @@ stats:
   starter_top_percent: 44
 neighbours:
 - begob
+phonetic: "/bɪˈɹɒb/"
+definitions:
+- pos: verb
+  defs:
+  - text: To rob; to plunder.
+    example: |-
+      Ah dearest Lord! what evil starre
+      On you hath frownd, and pourd his influence bad,
+      That of your selfe ye thus berobbed arre
 prev_word: berms
 next_word: berry
 hubs:

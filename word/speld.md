@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SPELD a Wordle Word?
-head_title: Is SPELD a Wordle Word? Yes – Valid Guess
+head_title: Is SPELD a Wordle Word? Yes – Valid Guess & Meaning
 word: speld
 description: Yes, SPELD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,15 @@ neighbours:
 - sield
 - spald
 - spelk
+phonetic: "/spɛld/"
+definitions:
+- pos: noun
+  defs:
+  - text: A chip of wood; a splinter.
+- pos: verb
+  defs:
+  - text: To split.
+    example: I'm gonna speld your head asunderǃ You worthless gat.
 prev_word: speks
 next_word: spelk
 hubs:

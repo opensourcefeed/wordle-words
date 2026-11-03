@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is EDGER a Wordle Word?
-head_title: Is EDGER a Wordle Word? Yes – Valid Guess
+head_title: Is EDGER a Wordle Word? Yes – Valid Guess & Meaning
 word: edger
 description: Yes, EDGER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 - egger
 anagrams:
 - greed
+definitions:
+- pos: noun
+  defs:
+  - text: A tool that is used to trim the edges of a lawn.
+  - text: A woodworking tool for straightening the edges of wood and cutting it into
+      boards.
+  - text: One who practises the sexual technique of edging.
 prev_word: edged
 next_word: edges
 hubs:

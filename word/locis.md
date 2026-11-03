@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LOCIS a Wordle Word?
-head_title: Is LOCIS a Wordle Word? Yes – Valid Guess
+head_title: Is LOCIS a Wordle Word? Yes – Valid Guess & Meaning
 word: locis
 description: Yes, LOCIS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,10 @@ neighbours:
 - louis
 anagrams:
 - coils
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of loci: Alternative form of locie (“locomotive”).'
 prev_word: locie
 next_word: locks
 hubs:

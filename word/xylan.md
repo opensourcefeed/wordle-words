@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is XYLAN a Wordle Word?
-head_title: Is XYLAN a Wordle Word? Yes – Valid Guess
+head_title: Is XYLAN a Wordle Word? Yes – Valid Guess & Meaning
 word: xylan
 description: Yes, XYLAN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -20,6 +21,11 @@ stats:
   - X
   starter_tier: Weak
   starter_top_percent: 63
+definitions:
+- pos: noun
+  defs:
+  - text: A polysaccharide, consisting of xylose residues, found in the cell walls
+      of some algae and plants.
 prev_word: xviii
 next_word: xylem
 hubs:

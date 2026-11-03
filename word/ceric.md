@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CERIC a Wordle Word?
-head_title: Is CERIC a Wordle Word? Yes – Valid Guess
+head_title: Is CERIC a Wordle Word? Yes – Valid Guess & Meaning
 word: ceric
 description: Yes, CERIC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 - xeric
 anagrams:
 - cerci
+definitions:
+- pos: adjective
+  defs:
+  - text: Containing cerium with valence four.
+  - text: Relating to wax.
 prev_word: ceria
 next_word: cerne
 hubs:

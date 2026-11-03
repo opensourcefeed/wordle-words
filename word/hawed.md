@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HAWED a Wordle Word?
-head_title: Is HAWED a Wordle Word? Yes – Valid Guess
+head_title: Is HAWED a Wordle Word? Yes – Valid Guess & Meaning
 word: hawed
 description: Yes, HAWED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,13 @@ neighbours:
 trap:
   pattern: _AWED
   count: 11
+phonetic: "/hɔːd/"
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of haw: An imitation of laughter, often
+      used to express scorn or disbelief. Often doubled or tripled (haw haw or haw
+      haw haw).'
 prev_word: havoc
 next_word: hawks
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LACKY a Wordle Word?
-head_title: Is LACKY a Wordle Word? Yes – Valid Guess
+head_title: Is LACKY a Wordle Word? Yes – Valid Guess & Meaning
 word: lacky
 description: Yes, LACKY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,10 @@ neighbours:
 trap:
   pattern: _ACKY
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of lackey: A footman, a liveried male servant.'
 prev_word: lacks
 next_word: laddu
 hubs:

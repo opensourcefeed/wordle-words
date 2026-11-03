@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CLONS a Wordle Word?
-head_title: Is CLONS a Wordle Word? Yes – Valid Guess
+head_title: Is CLONS a Wordle Word? Yes – Valid Guess & Meaning
 word: clons
 description: Yes, CLONS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,10 @@ neighbours:
 trap:
   pattern: CLO_S
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: Plural of clon
 prev_word: clonk
 next_word: cloop
 hubs:

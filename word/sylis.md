@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SYLIS a Wordle Word?
-head_title: Is SYLIS a Wordle Word? Yes – Valid Guess
+head_title: Is SYLIS a Wordle Word? Yes – Valid Guess & Meaning
 word: sylis
 description: Yes, SYLIS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,11 @@ neighbours:
 - salis
 anagrams:
 - lysis
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of syli: The currency of Guinea between 1971 and 1985, subdivided
+      into 100 cauris.'
 prev_word: sykes
 next_word: sylph
 hubs:

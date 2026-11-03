@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ZIKRS a Wordle Word?
-head_title: Is ZIKRS a Wordle Word? Yes – Valid Guess
+head_title: Is ZIKRS a Wordle Word? Yes – Valid Guess & Meaning
 word: zikrs
 description: Yes, ZIKRS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -21,6 +22,10 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 77
+definitions:
+- pos: noun
+  defs:
+  - text: Plural of zikr
 prev_word: zigan
 next_word: zilas
 hubs:

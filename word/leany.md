@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LEANY a Wordle Word?
-head_title: Is LEANY a Wordle Word? Yes – Valid Guess
+head_title: Is LEANY a Wordle Word? Yes – Valid Guess & Meaning
 word: leany
 description: Yes, LEANY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,13 @@ neighbours:
 trap:
   pattern: LEA_Y
   count: 6
+phonetic: "/ˈliːni/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Lean
+    example: fat kernes, and leany knaves
+  - text: Leaning; inclined
 prev_word: leant
 next_word: leaps
 hubs:

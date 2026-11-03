@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PARMS a Wordle Word?
-head_title: Is PARMS a Wordle Word? Yes – Valid Guess
+head_title: Is PARMS a Wordle Word? Yes – Valid Guess & Meaning
 word: parms
 description: Yes, PARMS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,11 @@ anagrams:
 trap:
   pattern: PAR_S
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of parm: A dish served in the parmigiana style (combined with cheese
+      and coated with tomato sauce before baking).'
 prev_word: parmo
 next_word: parol
 hubs:

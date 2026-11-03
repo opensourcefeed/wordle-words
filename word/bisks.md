@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BISKS a Wordle Word?
-head_title: Is BISKS a Wordle Word? Yes – Valid Guess
+head_title: Is BISKS a Wordle Word? Yes – Valid Guess & Meaning
 word: bisks
 description: Yes, BISKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ neighbours:
 - fisks
 - lisks
 - risks
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of bisk: Alternative spelling of bisque (“extra turn”).'
 prev_word: bises
 next_word: bisom
 hubs:

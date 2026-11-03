@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is YUANS a Wordle Word?
-head_title: Is YUANS a Wordle Word? Yes – Valid Guess
+head_title: Is YUANS a Wordle Word? Yes – Valid Guess & Meaning
 word: yuans
 description: Yes, YUANS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 - yeans
 anagrams:
 - unsay
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of yuan: The basic unit of money in China.'
+    example: I knew a young woman of twenty who lived in the town of Tinghsiang in
+      the province of Shansi. She worked in a clothing cooperative and earned thirty
+      yuans a month.
 prev_word: ytost
 next_word: yucas
 hubs:

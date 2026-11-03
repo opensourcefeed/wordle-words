@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BINER a Wordle Word?
-head_title: Is BINER a Wordle Word? Yes – Valid Guess
+head_title: Is BINER a Wordle Word? Yes – Valid Guess & Meaning
 word: biner
 description: Yes, BINER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,12 @@ anagrams:
 trap:
   pattern: _INER
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: 'Abbreviation of carabiner: A metal link with a gate that can open and close,
+      generally used for clipping ropes to anchors or other objects or for slinging
+      gear (equipment) on one''s person.'
 prev_word: binds
 next_word: bines
 hubs:

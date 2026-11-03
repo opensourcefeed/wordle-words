@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MELES a Wordle Word?
-head_title: Is MELES a Wordle Word? Yes – Valid Guess
+head_title: Is MELES a Wordle Word? Yes – Valid Guess & Meaning
 word: meles
 description: Yes, MELES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,11 @@ anagrams:
 trap:
   pattern: ME_ES
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of mele: A chant in Polynesia, especially Hawaii, typically in praise
+      of a leader or to commemorate some significant event.'
 prev_word: melee
 next_word: melic
 hubs:

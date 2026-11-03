@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OHING a Wordle Word?
-head_title: Is OHING a Wordle Word? Yes – Valid Guess
+head_title: Is OHING a Wordle Word? Yes – Valid Guess & Meaning
 word: ohing
 description: Yes, OHING is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,10 @@ neighbours:
 anagrams:
 - hoing
 - hongi
+definitions:
+- pos: verb
+  defs:
+  - text: Present participle and gerund of oh
 prev_word: ohias
 next_word: ohmic
 hubs:

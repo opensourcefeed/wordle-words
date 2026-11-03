@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TENNE a Wordle Word?
-head_title: Is TENNE a Wordle Word? Yes – Valid Guess
+head_title: Is TENNE a Wordle Word? Yes – Valid Guess & Meaning
 word: tenne
 description: Yes, TENNE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,11 @@ neighbours:
 - tenue
 - terne
 - tonne
+definitions:
+- pos: numeral
+  defs:
+  - text: 'Obsolete spelling of ten: The number occurring after nine and before eleven,
+      represented in Arabic numerals (base ten) as 10 and in Roman numerals as X.'
 prev_word: tenia
 next_word: tenno
 hubs:

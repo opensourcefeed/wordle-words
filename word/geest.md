@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GEEST a Wordle Word?
-head_title: Is GEEST a Wordle Word? Yes – Valid Guess
+head_title: Is GEEST a Wordle Word? Yes – Valid Guess & Meaning
 word: geest
 description: Yes, GEEST is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,13 @@ neighbours:
 anagrams:
 - egest
 - geste
+phonetic: "/ɡiːst/"
+definitions:
+- pos: noun
+  defs:
+  - text: A type of slightly raised landscape, with sandy and gravelly soils, that
+      occurs in the plains of Northern Germany, the Northern Netherlands and Denmark.
+    example: the waves, beating agaiņst the geest, were thence repelled upon the marsch.
 prev_word: geese
 next_word: geist
 hubs:

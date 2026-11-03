@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LOSED a Wordle Word?
-head_title: Is LOSED a Wordle Word? Yes – Valid Guess
+head_title: Is LOSED a Wordle Word? Yes – Valid Guess & Meaning
 word: losed
 description: Yes, LOSED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -44,6 +45,12 @@ anagrams:
 trap:
   pattern: LO_ED
   count: 10
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of lose: To cease to have (something) in
+      one''s possession or capability.'
+  - text: 'Simple past and past participle of loose: To let loose, to free from restraints.'
 prev_word: lorry
 next_word: losel
 hubs:

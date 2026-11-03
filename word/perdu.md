@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PERDU a Wordle Word?
-head_title: Is PERDU a Wordle Word? Yes – Valid Guess
+head_title: Is PERDU a Wordle Word? Yes – Valid Guess & Meaning
 word: perdu
 description: Yes, PERDU is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,23 @@ anagrams:
 - duper
 - pured
 - urped
+phonetic: "/pəˈdjuː/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Stationed in an exposed or hazardous position; hidden in ambush. Originally
+      as sentinel perdu.
+    example: a perdue captain
+  - text: In a dangerous situation; lost, desperate.
+    example: Among certain grizzled sea-gossips of the gun decks and forecastle went
+      a rumor perdue […]
+  - text: Hidden; concealed from sight. Chiefly with lie.
+    example: He should lie Perdue who is to walk the round.
+- pos: noun
+  defs:
+  - text: One placed on watch, or in ambush.
+  - text: A soldier sent on a forlorn hope.
+    example: To watch, poor perdu, / With this thin helm?
 prev_word: percs
 next_word: perdy
 hubs:

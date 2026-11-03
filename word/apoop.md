@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is APOOP a Wordle Word?
-head_title: Is APOOP a Wordle Word? Yes – Valid Guess
+head_title: Is APOOP a Wordle Word? Yes – Valid Guess & Meaning
 word: apoop
 description: Yes, APOOP is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,13 @@ stats:
   starter_top_percent: 93
 anagrams:
 - poopa
+definitions:
+- pos: adverb
+  defs:
+  - text: On the poop; astern.
+    example: Thus, she made as much lee-way as head-way, could get along very nearly
+      as fast with the wind ahead as when it was apoop, and was particularly great
+      in a calm.
 prev_word: apols
 next_word: aport
 hubs:

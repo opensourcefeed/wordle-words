@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ILLTH a Wordle Word?
-head_title: Is ILLTH a Wordle Word? Yes – Valid Guess
+head_title: Is ILLTH a Wordle Word? Yes – Valid Guess & Meaning
 word: illth
 description: Yes, ILLTH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,12 @@ stats:
   starter_top_percent: 77
 anagrams:
 - thill
+phonetic: "/ɪlθ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The opposite of wealth; that which, by its possession, causes damage of
+      some kind.
 prev_word: iller
 next_word: image
 hubs:

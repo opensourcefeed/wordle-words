@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CRAAL a Wordle Word?
-head_title: Is CRAAL a Wordle Word? Yes – Valid Guess
+head_title: Is CRAAL a Wordle Word? Yes – Valid Guess & Meaning
 word: craal
 description: Yes, CRAAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 - kraal
 anagrams:
 - acral
+definitions:
+- pos: noun
+  defs:
+  - text: 'Archaic form of kraal: In Central and Southern Africa, a small rural community.'
+- pos: verb
+  defs:
+  - text: 'Archaic form of kraal: In Central and Southern Africa, a small rural community.'
 prev_word: cozie
 next_word: crabs
 hubs:

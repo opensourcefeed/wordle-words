@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LAITH a Wordle Word?
-head_title: Is LAITH a Wordle Word? Yes – Valid Guess
+head_title: Is LAITH a Wordle Word? Yes – Valid Guess & Meaning
 word: laith
 description: Yes, LAITH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,12 @@ anagrams:
 trap:
   pattern: _AITH
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: Shed, barn
+    example: "“What are ye for?” he shouted. “T’ maister’s down i’ t’ fowld. Go round
+      by th’ end o’ t’ laith, if ye went to spake to him.”"
 prev_word: lairy
 next_word: laity
 hubs:

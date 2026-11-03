@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AVIZE a Wordle Word?
-head_title: Is AVIZE a Wordle Word? Yes – Valid Guess
+head_title: Is AVIZE a Wordle Word? Yes – Valid Guess & Meaning
 word: avize
 description: Yes, AVIZE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - avine
 - avise
 - avyze
+definitions:
+- pos: verb
+  defs:
+  - text: 'Obsolete form of advise: To give advice to; to offer an opinion to, as
+      worthy or expedient to be followed.'
 prev_word: aviso
 next_word: avoid
 hubs:

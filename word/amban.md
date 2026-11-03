@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AMBAN a Wordle Word?
-head_title: Is AMBAN a Wordle Word? Yes – Valid Guess
+head_title: Is AMBAN a Wordle Word? Yes – Valid Guess & Meaning
 word: amban
 description: Yes, AMBAN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,14 @@ neighbours:
 anagrams:
 - maban
 - nabam
+definitions:
+- pos: noun
+  defs:
+  - text: A Chinese official under the Qing Dynasty, especially the ranking official
+      or provincial governor in a semi-independent territory under Chinese rule.
+    example: In 1846 Messrs. Huc and Gabet, two French Lazarist Fathers, visited Lhasa
+      from the north, and stayed two and a half months, when they were expelled through
+      the influence of the Chinese Amban.
 prev_word: amaze
 next_word: amber
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is YEXED a Wordle Word?
-head_title: Is YEXED a Wordle Word? Yes – Valid Guess
+head_title: Is YEXED a Wordle Word? Yes – Valid Guess & Meaning
 word: yexed
 description: Yes, YEXED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - vexed
 - wexed
 - yexes
+phonetic: "/jɛkst/"
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of yex: To hiccup.'
 prev_word: yewen
 next_word: yexes
 hubs:

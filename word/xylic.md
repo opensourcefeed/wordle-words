@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is XYLIC a Wordle Word?
-head_title: Is XYLIC a Wordle Word? Yes – Valid Guess
+head_title: Is XYLIC a Wordle Word? Yes – Valid Guess & Meaning
 word: xylic
 description: Yes, XYLIC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,13 @@ neighbours:
 - hylic
 anagrams:
 - cylix
+phonetic: "/ˈzaɪlɪk/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Pertaining to xylene.
+    example: Xylic material and organic sediment were deposited in the supratidal
+      marshes.
 prev_word: xylem
 next_word: xylol
 hubs:

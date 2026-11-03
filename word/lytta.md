@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LYTTA a Wordle Word?
-head_title: Is LYTTA a Wordle Word? Yes – Valid Guess
+head_title: Is LYTTA a Wordle Word? Yes – Valid Guess & Meaning
 word: lytta
 description: Yes, LYTTA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,11 @@ stats:
   starter_top_percent: 58
 neighbours:
 - lotta
+definitions:
+- pos: noun
+  defs:
+  - text: A fibrous muscular band lying within the longitudinal axis of the tongue
+      in many mammals, such as the dog.
 prev_word: lytic
 next_word: maaed
 hubs:

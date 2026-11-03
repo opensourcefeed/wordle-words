@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is QUEYU a Wordle Word?
-head_title: Is QUEYU a Wordle Word? Yes – Valid Guess
+head_title: Is QUEYU a Wordle Word? Yes – Valid Guess & Meaning
 word: queyu
 description: Yes, QUEYU is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,10 @@ stats:
 neighbours:
 - queyn
 - queys
+definitions:
+- pos: noun
+  defs:
+  - text: A skirt or apron of woven glass beads worn by Amerindian women of Guyana
 prev_word: queys
 next_word: quibs
 hubs:

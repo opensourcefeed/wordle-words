@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is THEIR a Wordle Word?
-head_title: 'Is THEIR a Wordle Word? Yes – Past Answer #275'
+head_title: 'Is THEIR a Wordle Word? Yes – Past Answer #275 & Meaning'
 word: their
 description: Yes, THEIR is a valid Wordle word. It was the Wordle answer on March
-  21, 2022 (#275). See its starter rating and similar words.
+  21, 2022 (#275). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on March 21, 2022 (#275).
 past_answers:
@@ -33,6 +33,16 @@ neighbours:
 anagrams:
 - ither
 - rithe
+phonetic: "/ðɛə/"
+definitions:
+- pos: determiner
+  defs:
+  - text: Belonging to, from, of, or relating to, them (plural).
+    example: they will meet tomorrow at their convenience
+  - text: Belonging to someone (one person, singular), or occasionally to something.
+    example: |-
+      There's not a man I meet but doth salute me
+      As if I were their well-acquainted friend […]
 prev_word: thein
 next_word: thelf
 hubs:

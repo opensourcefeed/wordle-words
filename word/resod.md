@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RESOD a Wordle Word?
-head_title: Is RESOD a Wordle Word? Yes – Valid Guess
+head_title: Is RESOD a Wordle Word? Yes – Valid Guess & Meaning
 word: resod
 description: Yes, RESOD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,10 @@ anagrams:
 - rodes
 - rosed
 - sored
+definitions:
+- pos: verb
+  defs:
+  - text: To sod again; to cover (a lawn) with fresh sod.
 prev_word: resit
 next_word: resol
 hubs:

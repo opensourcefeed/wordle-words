@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ROHES a Wordle Word?
-head_title: Is ROHES a Wordle Word? Yes – Valid Guess
+head_title: Is ROHES a Wordle Word? Yes – Valid Guess & Meaning
 word: rohes
 description: Yes, ROHES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -46,6 +47,11 @@ anagrams:
 trap:
   pattern: RO_ES
   count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of rohe: A Māori tribal territory or region; (loosely), an area
+      or region.'
 prev_word: rohan
 next_word: rohun
 hubs:

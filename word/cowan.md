@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is COWAN a Wordle Word?
-head_title: Is COWAN a Wordle Word? Yes – Valid Guess
+head_title: Is COWAN a Wordle Word? Yes – Valid Guess & Meaning
 word: cowan
 description: Yes, COWAN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,16 @@ neighbours:
 - lowan
 - powan
 - rowan
+phonetic: "/ˈkəʊən/"
+definitions:
+- pos: noun
+  defs:
+  - text: A worker in unmortared stone; a stonemason who has not served an apprenticeship.
+  - text: A person who attempts to pass himself off as a Freemason without having
+      experienced the rituals or going through the degrees.
+  - text: A sneak; an inquisitive or prying person.
+  - text: Uninitiated, outside, “profane”.
+  - text: A fishing-boat.
 prev_word: cowal
 next_word: cowed
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FUGLE a Wordle Word?
-head_title: Is FUGLE a Wordle Word? Yes – Valid Guess
+head_title: Is FUGLE a Wordle Word? Yes – Valid Guess & Meaning
 word: fugle
 description: Yes, FUGLE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 - fogle
 - fugie
 - fugly
+phonetic: "/ˈfjuːɡəl/"
+definitions:
+- pos: verb
+  defs:
+  - text: To manoeuvre, jiggle or manipulate.
+    example: wooden arms with elbow-joints are jerking and fugling in the air
 prev_word: fugis
 next_word: fugly
 hubs:

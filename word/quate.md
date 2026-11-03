@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is QUATE a Wordle Word?
-head_title: Is QUATE a Wordle Word? Yes – Valid Guess
+head_title: Is QUATE a Wordle Word? Yes – Valid Guess & Meaning
 word: quate
 description: Yes, QUATE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ neighbours:
 - quats
 - quete
 - quyte
+definitions:
+- pos: adjective
+  defs:
+  - text: Quiet
 prev_word: quass
 next_word: quats
 hubs:

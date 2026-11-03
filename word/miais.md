@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MIAIS a Wordle Word?
-head_title: Is MIAIS a Wordle Word? Yes – Valid Guess
+head_title: Is MIAIS a Wordle Word? Yes – Valid Guess & Meaning
 word: miais
 description: Yes, MIAIS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,10 @@ neighbours:
 trap:
   pattern: MI_IS
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of miai: In Japan, a formal marriage interview, marriage meeting.'
 prev_word: mhorr
 next_word: miaou
 hubs:

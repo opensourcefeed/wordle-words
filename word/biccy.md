@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BICCY a Wordle Word?
-head_title: Is BICCY a Wordle Word? Yes – Valid Guess
+head_title: Is BICCY a Wordle Word? Yes – Valid Guess & Meaning
 word: biccy
 description: Yes, BICCY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,13 @@ neighbours:
 - baccy
 - bicky
 - piccy
+phonetic: "/ˈbɪki/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of biscuit: a cookie.'
+    example: Unnoticed, little Wayne, having finished his second choccy biccy, had
+      moved off […]
 prev_word: bible
 next_word: bicep
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TERAS a Wordle Word?
-head_title: Is TERAS a Wordle Word? Yes – Valid Guess
+head_title: Is TERAS a Wordle Word? Yes – Valid Guess & Meaning
 word: teras
 description: Yes, TERAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -50,6 +51,10 @@ anagrams:
 trap:
   pattern: TER_S
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A grossly malformed fetus
 prev_word: terai
 next_word: terce
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TRONE a Wordle Word?
-head_title: Is TRONE a Wordle Word? Yes – Valid Guess
+head_title: Is TRONE a Wordle Word? Yes – Valid Guess & Meaning
 word: trone
 description: Yes, TRONE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -43,6 +44,13 @@ anagrams:
 trap:
   pattern: _RONE
   count: 7
+phonetic: "/tɹəʊn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A type of steelyard (weighing machine) for heavy wares, such as wool, consisting
+      of two horizontal bars crossing each other, beaked at the extremities, and supported
+      by a wooden pillar.
 prev_word: tronc
 next_word: tronk
 hubs:

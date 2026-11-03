@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MERSK a Wordle Word?
-head_title: Is MERSK a Wordle Word? Yes – Valid Guess
+head_title: Is MERSK a Wordle Word? Yes – Valid Guess & Meaning
 word: mersk
 description: Yes, MERSK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ anagrams:
 - merks
 - skerm
 - smerk
+definitions:
+- pos: noun
+  defs:
+  - text: A merse or marsh.
 prev_word: merse
 next_word: mesad
 hubs:

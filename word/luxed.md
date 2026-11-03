@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LUXED a Wordle Word?
-head_title: Is LUXED a Wordle Word? Yes – Valid Guess
+head_title: Is LUXED a Wordle Word? Yes – Valid Guess & Meaning
 word: luxed
 description: Yes, LUXED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,12 @@ neighbours:
 - luxer
 - luxes
 - muxed
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of lux: In the International System of
+      Units, the derived unit of illuminance or illumination; one lumen per square
+      metre. Symbol: lx'
 prev_word: luvvy
 next_word: luxer
 hubs:

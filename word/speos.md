@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SPEOS a Wordle Word?
-head_title: Is SPEOS a Wordle Word? Yes – Valid Guess
+head_title: Is SPEOS a Wordle Word? Yes – Valid Guess & Meaning
 word: speos
 description: Yes, SPEOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ anagrams:
 - posse
 - pesos
 - poses
+definitions:
+- pos: noun
+  defs:
+  - text: A tomb or temple carved from the solid rock
 prev_word: spent
 next_word: sperm
 hubs:

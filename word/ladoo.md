@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LADOO a Wordle Word?
-head_title: Is LADOO a Wordle Word? Yes – Valid Guess
+head_title: Is LADOO a Wordle Word? Yes – Valid Guess & Meaning
 word: ladoo
 description: Yes, LADOO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,11 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 61
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of laddu: A ball-shaped sweet made with flour and sugar,
+      popular in the Indian subcontinent.'
 prev_word: ladle
 next_word: laers
 hubs:

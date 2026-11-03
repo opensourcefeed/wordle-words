@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is JIRRE a Wordle Word?
-head_title: Is JIRRE a Wordle Word? Yes – Valid Guess
+head_title: Is JIRRE a Wordle Word? Yes – Valid Guess & Meaning
 word: jirre
 description: Yes, JIRRE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ stats:
   starter_top_percent: 63
 neighbours:
 - pirre
+definitions:
+- pos: interjection
+  defs:
+  - text: 'Alternative form of yirra: An exclamation used to express shock or exasperation.'
 prev_word: jirga
 next_word: jisms
 hubs:

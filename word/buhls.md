@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BUHLS a Wordle Word?
-head_title: Is BUHLS a Wordle Word? Yes – Valid Guess
+head_title: Is BUHLS a Wordle Word? Yes – Valid Guess & Meaning
 word: buhls
 description: Yes, BUHLS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 anagrams:
 - blush
 - shlub
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of buhl: A particularly decorative piece of brass or other material,
+      used as inlay in furniture or other works.'
 prev_word: bugle
 next_word: buhrs
 hubs:

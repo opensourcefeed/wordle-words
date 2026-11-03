@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is YAPON a Wordle Word?
-head_title: Is YAPON a Wordle Word? Yes – Valid Guess
+head_title: Is YAPON a Wordle Word? Yes – Valid Guess & Meaning
 word: yapon
 description: Yes, YAPON is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ neighbours:
 - capon
 - yapok
 - yupon
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of yaupon: The yaupon holly, Ilex vomitoria, an evergreen
+      holly shrub with white flowers and red or yellow berries, found in the south-eastern
+      United States.'
 prev_word: yapok
 next_word: yapps
 hubs:

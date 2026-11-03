@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STEWY a Wordle Word?
-head_title: Is STEWY a Wordle Word? Yes – Valid Guess
+head_title: Is STEWY a Wordle Word? Yes – Valid Guess & Meaning
 word: stewy
 description: Yes, STEWY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,13 @@ neighbours:
 - stews
 anagrams:
 - wytes
+definitions:
+- pos: adjective
+  defs:
+  - text: Stew-like, similar to stew.
+    example: All food is fetched in dixeys (large boilers), and tea, stew, and bacon
+      are all cooked in turn in these, so if the orderlies don't wash them clean at
+      dinner time we have greasy, stewy tea.
 prev_word: stews
 next_word: steys
 hubs:

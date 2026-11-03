@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WROKE a Wordle Word?
-head_title: Is WROKE a Wordle Word? Yes – Valid Guess
+head_title: Is WROKE a Wordle Word? Yes – Valid Guess & Meaning
 word: wroke
 description: Yes, WROKE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 - troke
 anagrams:
 - woker
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past of wreak: To cause harm; to afflict; to inflict; to harm or
+      injure; to let out harm.'
 prev_word: writs
 next_word: wrong
 hubs:

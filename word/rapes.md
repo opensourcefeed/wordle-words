@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RAPES a Wordle Word?
-head_title: Is RAPES a Wordle Word? Yes – Valid Guess
+head_title: Is RAPES a Wordle Word? Yes – Valid Guess & Meaning
 word: rapes
 description: Yes, RAPES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -51,6 +52,17 @@ anagrams:
 trap:
   pattern: RA_ES
   count: 14
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of rape: The act of forcing sex upon another person without their
+      consent or against their will; originally coitus forced by a man on a woman,
+      but now generally any sex act forced by any person upon another person, regardless
+      of gender; by extension, any non-consensual sex act forced on or perpetrated
+      by any being.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of rape
 prev_word: raper
 next_word: raphe
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PEBAS a Wordle Word?
-head_title: Is PEBAS a Wordle Word? Yes – Valid Guess
+head_title: Is PEBAS a Wordle Word? Yes – Valid Guess & Meaning
 word: pebas
 description: Yes, PEBAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,11 @@ stats:
   starter_top_percent: 21
 neighbours:
 - pelas
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of peba: An armadillo (Dasypus novemcinctus) found from Texas to
+      Paraguay; the tatouhou.'
 prev_word: peaze
 next_word: pecan
 hubs:

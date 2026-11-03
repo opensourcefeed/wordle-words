@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ELPEE a Wordle Word?
-head_title: Is ELPEE a Wordle Word? Yes – Valid Guess
+head_title: Is ELPEE a Wordle Word? Yes – Valid Guess & Meaning
 word: elpee
 description: Yes, ELPEE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -20,6 +21,12 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 89
+definitions:
+- pos: noun
+  defs:
+  - text: An LP.
+    example: And another thing — there's a new elpee from The Supa anytime now. The
+      B-side here features new singer Puddy Roots, well worth a listen.
 prev_word: elops
 next_word: elsin
 hubs:

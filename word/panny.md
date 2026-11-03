@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PANNY a Wordle Word?
-head_title: Is PANNY a Wordle Word? Yes – Valid Guess
+head_title: Is PANNY a Wordle Word? Yes – Valid Guess & Meaning
 word: panny
 description: Yes, PANNY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,12 @@ neighbours:
 trap:
   pattern: _ANNY
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A house.
+    example: The pigs frisked my panny, and nailed my screws; the officers searched
+      my house, and seized my pick-lock keys.
 prev_word: panni
 next_word: pansy
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is VERRY a Wordle Word?
-head_title: Is VERRY a Wordle Word? Yes – Valid Guess
+head_title: Is VERRY a Wordle Word? Yes – Valid Guess & Meaning
 word: verry
 description: Yes, VERRY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,19 @@ neighbours:
 trap:
   pattern: _ERRY
   count: 11
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Obsolete spelling of very: To a great extent or degree.'
+  - text: 'Obsolete spelling of vairy: Divided into vair-bells of two or more tinctures.'
+    example: Chambernon, of Umberlegh; Geules, a saltier verry. Chambernon, of Clift
+      Chambernon; Geules, [a] saltier verry, between 12[…]
+- pos: adverb
+  defs:
+  - text: 'Obsolete spelling of very: To a great extent or degree.'
+    example: |-
+      1862, Solomon York, Letter to his future wife, 2004, Wallace E. Jarrell, The Randolph Hornets in the Civil War, page 168,
+      I have nothing verry interesting to write.
 prev_word: verre
 next_word: versa
 hubs:

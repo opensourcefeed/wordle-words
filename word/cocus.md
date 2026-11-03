@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is COCUS a Wordle Word?
-head_title: Is COCUS a Wordle Word? Yes – Valid Guess
+head_title: Is COCUS a Wordle Word? Yes – Valid Guess & Meaning
 word: cocus
 description: Yes, COCUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,10 @@ neighbours:
 trap:
   pattern: _OCUS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: Brya ebenus, a Caribbean flowering tree.
 prev_word: cocos
 next_word: codas
 hubs:

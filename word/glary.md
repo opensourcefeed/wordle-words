@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GLARY a Wordle Word?
-head_title: Is GLARY a Wordle Word? Yes – Valid Guess
+head_title: Is GLARY a Wordle Word? Yes – Valid Guess & Meaning
 word: glary
 description: Yes, GLARY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,16 @@ neighbours:
 - goary
 anagrams:
 - gyral
+phonetic: "/ˈɡlɛəɹi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of a dazzling lustre; glaring; bright; shining.
+    example: |-
+      November 29, 1659, S. Hartlir, letter to Robert Boyle
+      Bright, crystal glass is glary.
+  - text: Resembling or characteristic of a glare, or angry look.
+    example: He gave me that glary look again, but he'd been overruled.
 prev_word: glare
 next_word: glass
 hubs:

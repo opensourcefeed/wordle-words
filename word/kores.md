@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KORES a Wordle Word?
-head_title: Is KORES a Wordle Word? Yes – Valid Guess
+head_title: Is KORES a Wordle Word? Yes – Valid Guess & Meaning
 word: kores
 description: Yes, KORES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,11 @@ anagrams:
 trap:
   pattern: _ORES
   count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of kore: An Ancient Greek statue of a woman, portrayed standing,
+      usually clothed, painted in bright colours and having an elaborate hairstyle.'
 prev_word: korat
 next_word: koris
 hubs:

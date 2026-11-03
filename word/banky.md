@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BANKY a Wordle Word?
-head_title: Is BANKY a Wordle Word? Yes – Valid Guess
+head_title: Is BANKY a Wordle Word? Yes – Valid Guess & Meaning
 word: banky
 description: Yes, BANKY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,16 @@ neighbours:
 trap:
   pattern: _ANKY
   count: 7
+phonetic: "/ˈbæŋ.ki/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Hilly; sloping.
+- pos: noun
+  defs:
+  - text: A child's blanket.
+    example: You sound like a little kid wrapped up in his banky watching his favorite
+      t.v. show.
 prev_word: banks
 next_word: banns
 hubs:

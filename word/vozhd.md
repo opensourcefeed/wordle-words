@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is VOZHD a Wordle Word?
-head_title: Is VOZHD a Wordle Word? Yes – Valid Guess
+head_title: Is VOZHD a Wordle Word? Yes – Valid Guess & Meaning
 word: vozhd
 description: Yes, VOZHD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -19,6 +20,10 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 98
+definitions:
+- pos: noun
+  defs:
+  - text: A Soviet leader.
 prev_word: voxes
 next_word: vraic
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SHOPE a Wordle Word?
-head_title: Is SHOPE a Wordle Word? Yes – Valid Guess
+head_title: Is SHOPE a Wordle Word? Yes – Valid Guess & Meaning
 word: shope
 description: Yes, SHOPE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,12 @@ neighbours:
 - stope
 anagrams:
 - hopes
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past of shape: The status or condition of something'
+    example: Then the LORde God ſhope man / even of the moulde of the erth and brethed
+      into his face the breth of lyfe.
 prev_word: shoot
 next_word: shops
 hubs:

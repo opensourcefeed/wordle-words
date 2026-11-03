@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WITED a Wordle Word?
-head_title: Is WITED a Wordle Word? Yes – Valid Guess
+head_title: Is WITED a Wordle Word? Yes – Valid Guess & Meaning
 word: wited
 description: Yes, WITED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,11 @@ neighbours:
 trap:
   pattern: WI_ED
   count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of wite: To regard (someone) as guilty;
+      to accuse; to blame; to fault.'
 prev_word: witch
 next_word: wites
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TIYNS a Wordle Word?
-head_title: Is TIYNS a Wordle Word? Yes – Valid Guess
+head_title: Is TIYNS a Wordle Word? Yes – Valid Guess & Meaning
 word: tiyns
 description: Yes, TIYNS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,11 @@ stats:
   starter_top_percent: 40
 neighbours:
 - tians
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of tiyn: A subdivision of currency, equal to one hundredth of a
+      Kazakh tenge.'
 prev_word: tiyin
 next_word: tizes
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is YORES a Wordle Word?
-head_title: Is YORES a Wordle Word? Yes – Valid Guess
+head_title: Is YORES a Wordle Word? Yes – Valid Guess & Meaning
 word: yores
 description: Yes, YORES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,12 @@ anagrams:
 trap:
   pattern: _ORES
   count: 13
+definitions:
+- pos: pronoun
+  defs:
+  - text: 'Eye dialect spelling of yours: That or those belonging to you; the possessive
+      second-person singular pronoun used without a following noun.'
+    example: '"Whut business is this here of yores?"'
 prev_word: yoppo
 next_word: yorga
 hubs:

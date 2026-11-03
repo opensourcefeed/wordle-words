@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SIRRA a Wordle Word?
-head_title: Is SIRRA a Wordle Word? Yes – Valid Guess
+head_title: Is SIRRA a Wordle Word? Yes – Valid Guess & Meaning
 word: sirra
 description: Yes, SIRRA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,11 @@ neighbours:
 anagrams:
 - arris
 - sarir
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of sirrah: A term of address to an inferior male or
+      more commonly a child. A modern-day equivalent would be "little man".'
 prev_word: siroc
 next_word: sirup
 hubs:

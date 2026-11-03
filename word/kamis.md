@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KAMIS a Wordle Word?
-head_title: Is KAMIS a Wordle Word? Yes – Valid Guess
+head_title: Is KAMIS a Wordle Word? Yes – Valid Guess & Meaning
 word: kamis
 description: Yes, KAMIS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,12 @@ anagrams:
 trap:
   pattern: KA_IS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of kami: An animistic god or spirit in the Shinto religion of Japan.'
+  - text: 'Alternative spelling of kamees: A long, loose shirt or blouse worn in some
+      South Asian and Islamic countries.'
 prev_word: kamik
 next_word: kamme
 hubs:

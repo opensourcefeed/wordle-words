@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KAREE a Wordle Word?
-head_title: Is KAREE a Wordle Word? Yes – Valid Guess
+head_title: Is KAREE a Wordle Word? Yes – Valid Guess & Meaning
 word: karee
 description: Yes, KAREE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,10 @@ neighbours:
 - saree
 anagrams:
 - rakee
+definitions:
+- pos: noun
+  defs:
+  - text: A South African sumac
 prev_word: karat
 next_word: karez
 hubs:

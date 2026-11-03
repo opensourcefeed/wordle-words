@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GALUT a Wordle Word?
-head_title: Is GALUT a Wordle Word? Yes – Valid Guess
+head_title: Is GALUT a Wordle Word? Yes – Valid Guess & Meaning
 word: galut
 description: Yes, GALUT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 - salut
 anagrams:
 - gault
+phonetic: "/ɡəˈluːt/"
+definitions:
+- pos: noun
+  defs:
+  - text: The Jewish Diaspora (dispersion from Israel).
+    example: At times we sense a heavy cloud of melancholy settling upon the spiirit,
+      as a result of century-long suffering under the pressure of the Golus.
 prev_word: galop
 next_word: galvo
 hubs:

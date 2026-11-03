@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SHEAS a Wordle Word?
-head_title: Is SHEAS a Wordle Word? Yes – Valid Guess
+head_title: Is SHEAS a Wordle Word? Yes – Valid Guess & Meaning
 word: sheas
 description: Yes, SHEAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,12 @@ neighbours:
 - shwas
 anagrams:
 - ashes
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of shea: A tree (Vitellaria paradoxa) indigenous to Africa, occurring
+      in Mali, Cameroon, Congo, Côte d''Ivoire, Ghana, Guinea, Togo, Nigeria, Senegal,
+      Sudan, Burkina Faso and Uganda.'
 prev_word: shear
 next_word: sheds
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PUBBY a Wordle Word?
-head_title: Is PUBBY a Wordle Word? Yes – Valid Guess
+head_title: Is PUBBY a Wordle Word? Yes – Valid Guess & Meaning
 word: pubby
 description: Yes, PUBBY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,15 @@ neighbours:
 trap:
   pattern: _UBBY
   count: 10
+phonetic: "/ˈpʌbi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Who enjoys frequenting public houses.
+  - text: Resembling a pub.
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of pubbie: A student at a public school.'
 prev_word: ptype
 next_word: pubco
 hubs:

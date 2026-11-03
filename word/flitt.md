@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FLITT a Wordle Word?
-head_title: Is FLITT a Wordle Word? Yes – Valid Guess
+head_title: Is FLITT a Wordle Word? Yes – Valid Guess & Meaning
 word: flitt
 description: Yes, FLITT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 - flite
 - flits
 - fritt
+definitions:
+- pos: verb
+  defs:
+  - text: 'Obsolete form of flit: A fluttering or darting movement.'
+    example: |-
+      Alexander Pope, The Rape of the Lock
+      Swift on his sooty Pinions flitts the Gnome, / And in a Vapour reach'd the dismal Dome.
 prev_word: flits
 next_word: float
 hubs:

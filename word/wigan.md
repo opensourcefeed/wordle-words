@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WIGAN a Wordle Word?
-head_title: Is WIGAN a Wordle Word? Yes – Valid Guess
+head_title: Is WIGAN a Wordle Word? Yes – Valid Guess & Meaning
 word: wigan
 description: Yes, WIGAN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,14 @@ neighbours:
 - zigan
 anagrams:
 - awing
+definitions:
+- pos: noun
+  defs:
+  - text: A canvas-like cotton fabric, often coated with latex rubber, used to stiffen
+      and protect the lower part of trousers, dresses, etc.
+    example: It was really no easy matter to build up two or three plies of double
+      warp Wigan with a thin covering of rubber to the accurate gauge that the printer
+      required.
 prev_word: wifty
 next_word: wiggy
 hubs:

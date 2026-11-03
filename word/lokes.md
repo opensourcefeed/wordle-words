@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LOKES a Wordle Word?
-head_title: Is LOKES a Wordle Word? Yes – Valid Guess
+head_title: Is LOKES a Wordle Word? Yes – Valid Guess & Meaning
 word: lokes
 description: Yes, LOKES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,10 @@ anagrams:
 trap:
   pattern: _OKES
   count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of loke: The wicket or hatch of a door.'
 prev_word: loirs
 next_word: lokey
 hubs:

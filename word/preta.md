@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PRETA a Wordle Word?
-head_title: Is PRETA a Wordle Word? Yes – Valid Guess
+head_title: Is PRETA a Wordle Word? Yes – Valid Guess & Meaning
 word: preta
 description: Yes, PRETA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,12 @@ anagrams:
 - prate
 - repat
 - trape
+phonetic: "/ˈpɹeɪtə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A hungry ghost (a supernatural being in Buddhist folklore, the spirit of
+      a greedy person whose divine retribution is never to be sated)
 prev_word: prest
 next_word: preux
 hubs:

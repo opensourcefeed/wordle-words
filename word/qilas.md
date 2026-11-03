@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is QILAS a Wordle Word?
-head_title: Is QILAS a Wordle Word? Yes – Valid Guess
+head_title: Is QILAS a Wordle Word? Yes – Valid Guess & Meaning
 word: qilas
 description: Yes, QILAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,10 @@ neighbours:
 - gilas
 - nilas
 - zilas
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of qila: A fort or fortress.'
 prev_word: qibla
 next_word: qipao
 hubs:

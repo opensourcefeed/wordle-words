@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MARSE a Wordle Word?
-head_title: Is MARSE a Wordle Word? Yes – Valid Guess
+head_title: Is MARSE a Wordle Word? Yes – Valid Guess & Meaning
 word: marse
 description: Yes, MARSE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,13 @@ anagrams:
 - ramse
 - reams
 - resam
+phonetic: "/mɑː(ɹ)s/"
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative form of master, often used as a general title of respect.
+    example: I followed old Marse Robert for four year near about / Got wounded in
+      three place and starved at Point Lookout
 prev_word: marry
 next_word: marsh
 hubs:

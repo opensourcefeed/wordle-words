@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is QUAWK a Wordle Word?
-head_title: Is QUAWK a Wordle Word? Yes – Valid Guess
+head_title: Is QUAWK a Wordle Word? Yes – Valid Guess & Meaning
 word: quawk
 description: Yes, QUAWK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,15 @@ neighbours:
 - quark
 - quank
 - quaws
+definitions:
+- pos: noun
+  defs:
+  - text: The black-crowned night heron, Nycticorax nycticorax.
+  - text: The harsh call of this or other birds.
+- pos: verb
+  defs:
+  - text: Of birds, to give loud, harsh vocalisations.
+    example: The old crows quawked for men had cut / Among the oak wood trees.
 prev_word: quats
 next_word: quaws
 hubs:

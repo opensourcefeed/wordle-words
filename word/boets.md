@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BOETS a Wordle Word?
-head_title: Is BOETS a Wordle Word? Yes – Valid Guess
+head_title: Is BOETS a Wordle Word? Yes – Valid Guess & Meaning
 word: boets
 description: Yes, BOETS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,10 @@ anagrams:
 trap:
   pattern: BO_TS
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of boet: A brother; often prefixed informally to a man’s first name.'
 prev_word: boeti
 next_word: boeuf
 hubs:

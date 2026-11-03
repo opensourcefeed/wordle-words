@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HEMIN a Wordle Word?
-head_title: Is HEMIN a Wordle Word? Yes – Valid Guess
+head_title: Is HEMIN a Wordle Word? Yes – Valid Guess & Meaning
 word: hemin
 description: Yes, HEMIN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,12 @@ stats:
   starter_top_percent: 38
 neighbours:
 - hemic
+phonetic: "/ˈhi.mɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A reddish brown substance produced in a laboratory test for the presence
+      of blood by reaction with glacial acetic acid and sodium chloride
 prev_word: hemic
 next_word: hemps
 hubs:

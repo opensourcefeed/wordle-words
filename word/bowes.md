@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BOWES a Wordle Word?
-head_title: Is BOWES a Wordle Word? Yes – Valid Guess
+head_title: Is BOWES a Wordle Word? Yes – Valid Guess & Meaning
 word: bowes
 description: Yes, BOWES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,14 @@ anagrams:
 trap:
   pattern: BO_ES
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: Plural of bowe
+- pos: verb
+  defs:
+  - text: 'Obsolete form of bow: A weapon made of a curved piece of wood or other
+      flexible material whose ends are connected by a string, used for shooting arrows.'
 prev_word: bower
 next_word: bowet
 hubs:

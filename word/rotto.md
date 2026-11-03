@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ROTTO a Wordle Word?
-head_title: Is ROTTO a Wordle Word? Yes – Valid Guess
+head_title: Is ROTTO a Wordle Word? Yes – Valid Guess & Meaning
 word: rotto
 description: Yes, ROTTO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,13 @@ neighbours:
 - sotto
 anagrams:
 - torot
+definitions:
+- pos: adjective
+  defs:
+  - text: Very drunk.
+    example: "[W]hen rotto and making himself a nuisance to everybody all round he
+      was in the habit of ostentatiously sporting in public a suit of brown paper
+      (a fact)."
 prev_word: rotte
 next_word: rotty
 hubs:

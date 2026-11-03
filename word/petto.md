@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PETTO a Wordle Word?
-head_title: Is PETTO a Wordle Word? Yes – Valid Guess
+head_title: Is PETTO a Wordle Word? Yes – Valid Guess & Meaning
 word: petto
 description: Yes, PETTO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,10 @@ neighbours:
 - petti
 - potto
 - putto
+definitions:
+- pos: noun
+  defs:
+  - text: Only used in in petto
 prev_word: petti
 next_word: petty
 hubs:

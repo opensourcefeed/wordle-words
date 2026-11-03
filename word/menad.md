@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MENAD a Wordle Word?
-head_title: Is MENAD a Wordle Word? Yes – Valid Guess
+head_title: Is MENAD a Wordle Word? Yes – Valid Guess & Meaning
 word: menad
 description: Yes, MENAD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,13 @@ anagrams:
 - deman
 - maned
 - named
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of maenad: A female follower of Dionysus (“the god
+      of wine”), associated with intense revelling.'
+    example: All about the walls hung pen and oil sketches of fantastic sea-monsters;
+      dances of satyrs and menads; […]
 prev_word: memos
 next_word: mence
 hubs:

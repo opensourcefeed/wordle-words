@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RENAY a Wordle Word?
-head_title: Is RENAY a Wordle Word? Yes – Valid Guess
+head_title: Is RENAY a Wordle Word? Yes – Valid Guess & Meaning
 word: renay
 description: Yes, RENAY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,13 @@ neighbours:
 anagrams:
 - yearn
 - rayne
+phonetic: "/ɹɪˈneɪ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To renounce (one’s faith or god), to apostasize from.
+  - text: To take back, to recant (something one says or believes).
+  - text: To reject, to deny the truth of (a statement).
 prev_word: renal
 next_word: rends
 hubs:

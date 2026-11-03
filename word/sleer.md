@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SLEER a Wordle Word?
-head_title: Is SLEER a Wordle Word? Yes – Valid Guess
+head_title: Is SLEER a Wordle Word? Yes – Valid Guess & Meaning
 word: sleer
 description: Yes, SLEER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,13 @@ anagrams:
 trap:
   pattern: S_EER
   count: 7
+definitions:
+- pos: verb
+  defs:
+  - text: To mock or jeer.
+    example: "[…] for were it possible that any one could bring us Father Adam's girdle
+      and Mother Eve's apron, what laughing — what sleering — what mocking of their
+      homely fashions would there be!"
 prev_word: sleep
 next_word: sleet
 hubs:

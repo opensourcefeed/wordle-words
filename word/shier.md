@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SHIER a Wordle Word?
-head_title: Is SHIER a Wordle Word? Yes – Valid Guess
+head_title: Is SHIER a Wordle Word? Yes – Valid Guess & Meaning
 word: shier
 description: Yes, SHIER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,13 @@ anagrams:
 - hires
 - rhies
 - sehri
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Alternative form of shyer, comparative form of shy: more shy.'
+- pos: noun
+  defs:
+  - text: Alternative form of shyer, a horse that shies.
 prev_word: shiel
 next_word: shies
 hubs:

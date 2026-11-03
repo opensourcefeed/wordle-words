@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ALARY a Wordle Word?
-head_title: Is ALARY a Wordle Word? Yes – Valid Guess
+head_title: Is ALARY a Wordle Word? Yes – Valid Guess & Meaning
 word: alary
 description: Yes, ALARY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - clary
 - flary
 - glary
+phonetic: "/ˈeɪ.lə.ɹi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Pertaining to wings.
 prev_word: alarm
 next_word: alata
 hubs:

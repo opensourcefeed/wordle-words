@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is THAWY a Wordle Word?
-head_title: Is THAWY a Wordle Word? Yes – Valid Guess
+head_title: Is THAWY a Wordle Word? Yes – Valid Guess & Meaning
 word: thawy
 description: Yes, THAWY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,14 @@ neighbours:
 - thaws
 - thawt
 - thewy
+definitions:
+- pos: adjective
+  defs:
+  - text: Becoming liquid; thawing; inclined to or tending to thaw.
+  - text: Conducive to thawing.
+    example: 'The N.W., which is the most frequent in winter, is dry, cold, and elastic;
+      the S.E. soft, thawy, and rainy: the wind seldom blows from west or south, more
+      rarely still from the north.'
 prev_word: thawt
 next_word: thebe
 hubs:

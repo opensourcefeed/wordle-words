@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HEMIC a Wordle Word?
-head_title: Is HEMIC a Wordle Word? Yes – Valid Guess
+head_title: Is HEMIC a Wordle Word? Yes – Valid Guess & Meaning
 word: hemic
 description: Yes, HEMIC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,13 @@ neighbours:
 anagrams:
 - chime
 - miche
+phonetic: "/ˈhi.mɪk/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or relating to blood
+  - text: Relating to heme
+  - text: Somewhat decomposed.
 prev_word: hemes
 next_word: hemin
 hubs:

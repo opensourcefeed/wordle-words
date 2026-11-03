@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NOMOS a Wordle Word?
-head_title: Is NOMOS a Wordle Word? Yes – Valid Guess
+head_title: Is NOMOS a Wordle Word? Yes – Valid Guess & Meaning
 word: nomos
 description: Yes, NOMOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,11 @@ anagrams:
 trap:
   pattern: _OMOS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: The body of law, especially that governing human behaviour.
+  - text: A territorial division of ancient Egypt; a nome.
 prev_word: nomoi
 next_word: nonan
 hubs:

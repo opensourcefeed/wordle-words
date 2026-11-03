@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is THOWL a Wordle Word?
-head_title: Is THOWL a Wordle Word? Yes – Valid Guess
+head_title: Is THOWL a Wordle Word? Yes – Valid Guess & Meaning
 word: thowl
 description: Yes, THOWL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,10 @@ stats:
   starter_top_percent: 63
 anagrams:
 - lowth
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of thowel: A tholepin in a boat.'
 prev_word: thous
 next_word: thrae
 hubs:

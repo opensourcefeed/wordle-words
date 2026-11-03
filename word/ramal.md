@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RAMAL a Wordle Word?
-head_title: Is RAMAL a Wordle Word? Yes – Valid Guess
+head_title: Is RAMAL a Wordle Word? Yes – Valid Guess & Meaning
 word: ramal
 description: Yes, RAMAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,14 @@ anagrams:
 - alarm
 - malar
 - maral
+phonetic: "/ˈɹeɪməl/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Relating to a branch.
+  - text: Of or pertaining to a ramus, or branching
+    example: Between the ramal walls above this the bone is longitudinally scooped
+      out to the upper termination of the symphysis.
 prev_word: ralph
 next_word: ramee
 hubs:

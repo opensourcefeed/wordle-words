@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TITUP a Wordle Word?
-head_title: Is TITUP a Wordle Word? Yes – Valid Guess
+head_title: Is TITUP a Wordle Word? Yes – Valid Guess & Meaning
 word: titup
 description: Yes, TITUP is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 anagrams:
 - pittu
 - putti
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of tittup: A caper, or canter.'
+- pos: verb
+  defs:
+  - text: 'Alternative form of tittup: A caper, or canter.'
 prev_word: titty
 next_word: tiyin
 hubs:

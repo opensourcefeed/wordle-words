@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SERER a Wordle Word?
-head_title: Is SERER a Wordle Word? Yes – Valid Guess
+head_title: Is SERER a Wordle Word? Yes – Valid Guess & Meaning
 word: serer
 description: Yes, SERER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,10 @@ anagrams:
 trap:
   pattern: SE_ER
   count: 7
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Comparative form of sere: more sere'
 prev_word: sered
 next_word: seres
 hubs:

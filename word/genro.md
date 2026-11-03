@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GENRO a Wordle Word?
-head_title: Is GENRO a Wordle Word? Yes – Valid Guess
+head_title: Is GENRO a Wordle Word? Yes – Valid Guess & Meaning
 word: genro
 description: Yes, GENRO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,14 @@ anagrams:
 - goner
 - ergon
 - grone
+phonetic: "/ˈɡɛnɹəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A body of elder statesmen of Japan, formerly used as informal advisors to
+      the Emperor.
+    example: 'That last part was in line with the genro Prince Saionji''s advice to
+      the Emperor: advice which the Emperor ignored.'
 prev_word: genre
 next_word: gents
 hubs:

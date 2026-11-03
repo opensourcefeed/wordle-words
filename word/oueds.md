@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OUEDS a Wordle Word?
-head_title: Is OUEDS a Wordle Word? Yes – Valid Guess
+head_title: Is OUEDS a Wordle Word? Yes – Valid Guess & Meaning
 word: oueds
 description: Yes, OUEDS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 - ouens
 anagrams:
 - douse
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of oued: Synonym of wadi.'
 prev_word: oucht
 next_word: ouens
 hubs:

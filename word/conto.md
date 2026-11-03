@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CONTO a Wordle Word?
-head_title: Is CONTO a Wordle Word? Yes – Valid Guess
+head_title: Is CONTO a Wordle Word? Yes – Valid Guess & Meaning
 word: conto
 description: Yes, CONTO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,13 @@ neighbours:
 - conte
 - convo
 - ponto
+definitions:
+- pos: noun
+  defs:
+  - text: In Portugal and Brazil, a million reis.
+    example: "‘I have a friend […] who has filed suit against the state for the cows
+      and sheep that the army troops ate. He's asking for seventy contos in compensation,
+      no less.’"
 prev_word: conte
 next_word: conus
 hubs:

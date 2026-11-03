@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MOCHY a Wordle Word?
-head_title: Is MOCHY a Wordle Word? Yes – Valid Guess
+head_title: Is MOCHY a Wordle Word? Yes – Valid Guess & Meaning
 word: mochy
 description: Yes, MOCHY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,12 @@ neighbours:
 - mochs
 - mocky
 - mothy
+definitions:
+- pos: adjective
+  defs:
+  - text: Damp and hot; muggy, close.
+    example: They are preferable to the "mochy" days which so effectually retard the
+      progress of harvest, and […]
 prev_word: mochs
 next_word: mocks
 hubs:

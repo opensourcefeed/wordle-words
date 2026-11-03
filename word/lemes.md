@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LEMES a Wordle Word?
-head_title: Is LEMES a Wordle Word? Yes – Valid Guess
+head_title: Is LEMES a Wordle Word? Yes – Valid Guess & Meaning
 word: lemes
 description: Yes, LEMES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,13 @@ anagrams:
 trap:
   pattern: LE_ES
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of leme: A ray or glimmer of light; a gleam.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of leme
 prev_word: lemel
 next_word: lemma
 hubs:

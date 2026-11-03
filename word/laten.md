@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LATEN a Wordle Word?
-head_title: Is LATEN a Wordle Word? Yes – Valid Guess
+head_title: Is LATEN a Wordle Word? Yes – Valid Guess & Meaning
 word: laten
 description: Yes, LATEN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,12 @@ neighbours:
 - paten
 anagrams:
 - leant
+definitions:
+- pos: verb
+  defs:
+  - text: To grow late; become later.
+    example: The afternoon was latening, but there was, I think, a quietly commemorative
+      glow from the west.
 prev_word: lated
 next_word: later
 hubs:

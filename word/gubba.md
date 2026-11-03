@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GUBBA a Wordle Word?
-head_title: Is GUBBA a Wordle Word? Yes – Valid Guess
+head_title: Is GUBBA a Wordle Word? Yes – Valid Guess & Meaning
 word: gubba
 description: Yes, GUBBA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,10 @@ neighbours:
 - bubba
 - gabba
 - hubba
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of gubbah: Synonym of balanda (“white person; European”).'
 prev_word: guava
 next_word: gucks
 hubs:

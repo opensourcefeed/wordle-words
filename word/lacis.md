@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LACIS a Wordle Word?
-head_title: Is LACIS a Wordle Word? Yes – Valid Guess
+head_title: Is LACIS a Wordle Word? Yes – Valid Guess & Meaning
 word: lacis
 description: Yes, LACIS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,14 @@ anagrams:
 - laics
 - salic
 - scail
+phonetic: "/ˈlasi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A type of lace consisting of patterns darned on to net.
+    example: he sought to accumulate the most exquisite specimens that he could find
+      of textile and embroidered work, getting […] veils of lacis worked in Hungary
+      point […]
 prev_word: lacey
 next_word: lacka
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RINDY a Wordle Word?
-head_title: Is RINDY a Wordle Word? Yes – Valid Guess
+head_title: Is RINDY a Wordle Word? Yes – Valid Guess & Meaning
 word: rindy
 description: Yes, RINDY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,14 @@ neighbours:
 - lindy
 - rinds
 - ringy
+phonetic: "/ˈɹaɪndi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having a rind or skin.
+    example: If you graff upon a large Stock that may pinch your Graff, let the inner
+      and woody Part of your Graff bear the Pressure, by being a little thicker than
+      the rindy Part
 prev_word: rinds
 next_word: rines
 hubs:

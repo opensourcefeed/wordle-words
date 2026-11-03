@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AGOOD a Wordle Word?
-head_title: Is AGOOD a Wordle Word? Yes – Valid Guess
+head_title: Is AGOOD a Wordle Word? Yes – Valid Guess & Meaning
 word: agood
 description: Yes, AGOOD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -21,6 +22,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 81
+phonetic: "/əˈɡʊd/"
+definitions:
+- pos: adverb
+  defs:
+  - text: In earnest; heartily; in good earnest.
+    example: "[…]And, at that time I made her weep a-good, / For I did play a lamentable
+      part:"
 prev_word: agony
 next_word: agora
 hubs:

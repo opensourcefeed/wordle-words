@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ESTOC a Wordle Word?
-head_title: Is ESTOC a Wordle Word? Yes – Valid Guess
+head_title: Is ESTOC a Wordle Word? Yes – Valid Guess & Meaning
 word: estoc
 description: Yes, ESTOC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,12 @@ anagrams:
 - cotes
 - escot
 - scote
+definitions:
+- pos: noun
+  defs:
+  - text: A type of sword used from the 14th to the 17th century, characterized by
+      a long, straight, edgeless, sharply pointed blade designed for penetrating mail
+      or plate.
 prev_word: ester
 next_word: estop
 hubs:

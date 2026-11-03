@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PELOG a Wordle Word?
-head_title: Is PELOG a Wordle Word? Yes – Valid Guess
+head_title: Is PELOG a Wordle Word? Yes – Valid Guess & Meaning
 word: pelog
 description: Yes, PELOG is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - perog
 anagrams:
 - golpe
+definitions:
+- pos: noun
+  defs:
+  - text: One of the two essential scales of gamelan music native to Bali and Java
+      in Indonesia. It has seven notes, of which sometimes only five are used.
 prev_word: pelma
 next_word: pelon
 hubs:

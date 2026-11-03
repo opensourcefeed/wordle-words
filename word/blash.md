@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BLASH a Wordle Word?
-head_title: Is BLASH a Wordle Word? Yes – Valid Guess
+head_title: Is BLASH a Wordle Word? Yes – Valid Guess & Meaning
 word: blash
 description: Yes, BLASH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,14 @@ neighbours:
 - plash
 anagrams:
 - blahs
+definitions:
+- pos: noun
+  defs:
+  - text: A heavy fall of rain.
+    example: For quotations using this term, see Citations:blash.
+- pos: verb
+  defs:
+  - text: To pour heavily.
 prev_word: blase
 next_word: blast
 hubs:

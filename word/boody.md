@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BOODY a Wordle Word?
-head_title: Is BOODY a Wordle Word? Yes – Valid Guess
+head_title: Is BOODY a Wordle Word? Yes – Valid Guess & Meaning
 word: boody
 description: Yes, BOODY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,12 @@ neighbours:
 trap:
   pattern: BOO_Y
   count: 9
+definitions:
+- pos: verb
+  defs:
+  - text: To sulk or mope.
+    example: "[…]he felt that he must be silent. 'Come,' said she—'don't boody with
+      me: don't be angry because I speak out some home truths.'"
 prev_word: booby
 next_word: booed
 hubs:

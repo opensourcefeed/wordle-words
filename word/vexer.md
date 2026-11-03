@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is VEXER a Wordle Word?
-head_title: Is VEXER a Wordle Word? Yes – Valid Guess
+head_title: Is VEXER a Wordle Word? Yes – Valid Guess & Meaning
 word: vexer
 description: Yes, VEXER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - sexer
 - vexed
 - vexes
+phonetic: "/ˈvɛksə(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who vexes; one who annoys
 prev_word: vexed
 next_word: vexes
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DRABS a Wordle Word?
-head_title: Is DRABS a Wordle Word? Yes – Valid Guess
+head_title: Is DRABS a Wordle Word? Yes – Valid Guess & Meaning
 word: drabs
 description: Yes, DRABS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,11 @@ anagrams:
 trap:
   pattern: DRA_S
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of drab: A fabric, usually of thick cotton or wool, having a dull
+      brownish yellow, dull grey, or dun colour.'
 prev_word: dozes
 next_word: drack
 hubs:

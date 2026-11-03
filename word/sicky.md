@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SICKY a Wordle Word?
-head_title: Is SICKY a Wordle Word? Yes – Valid Guess
+head_title: Is SICKY a Wordle Word? Yes – Valid Guess & Meaning
 word: sicky
 description: Yes, SICKY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,18 @@ neighbours:
 trap:
   pattern: _ICKY
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative form of sickie (“sick day”).
+- pos: adjective
+  defs:
+  - text: Covered in vomit.
+    example: Also consider how easy is it to clean with a sicky baby; can all of the
+      cover and straps go in the washing machine or is it wipe clean only?
+  - text: Prone to sickness; easily becoming ill; (somewhat) sick.
+    example: I started off with 18 sleepsuits, but got through them in 24 hours when
+      she was sicky.
 prev_word: sicks
 next_word: sidas
 hubs:

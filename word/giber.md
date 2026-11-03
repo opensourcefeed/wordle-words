@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GIBER a Wordle Word?
-head_title: Is GIBER a Wordle Word? Yes – Valid Guess
+head_title: Is GIBER a Wordle Word? Yes – Valid Guess & Meaning
 word: giber
 description: Yes, GIBER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,12 @@ neighbours:
 - gibes
 - jiber
 - liber
+definitions:
+- pos: noun
+  defs:
+  - text: One who utters gibes.
+    example: Come, come, you are well understood to be a perfecter / giber for the
+      table than a necessary bencher in the / Capitol.
 prev_word: gibel
 next_word: gibes
 hubs:

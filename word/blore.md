@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BLORE a Wordle Word?
-head_title: Is BLORE a Wordle Word? Yes – Valid Guess
+head_title: Is BLORE a Wordle Word? Yes – Valid Guess & Meaning
 word: blore
 description: Yes, BLORE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,16 @@ neighbours:
 anagrams:
 - borel
 - roble
+phonetic: "/blɔː(ɹ)/"
+definitions:
+- pos: verb
+  defs:
+  - text: To cry; cry out; weep.
+  - text: To bray; bleat like an animal; bellow.
+- pos: noun
+  defs:
+  - text: The act of blowing; a roaring wind; a blast.
+    example: a most tempestuous blore
 prev_word: bloop
 next_word: blots
 hubs:

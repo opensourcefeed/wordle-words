@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FIRER a Wordle Word?
-head_title: Is FIRER a Wordle Word? Yes – Valid Guess
+head_title: Is FIRER a Wordle Word? Yes – Valid Guess & Meaning
 word: firer
 description: Yes, FIRER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,13 @@ anagrams:
 trap:
   pattern: FI_ER
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A person who fires a weapon; a shooter.
+  - text: A person responsible for firing staff; a person who fires another.
+  - text: A pyromaniac.
+  - text: A person who fires pottery.
 prev_word: fired
 next_word: fires
 hubs:

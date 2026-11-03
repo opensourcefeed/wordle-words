@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DERMS a Wordle Word?
-head_title: Is DERMS a Wordle Word? Yes – Valid Guess
+head_title: Is DERMS a Wordle Word? Yes – Valid Guess & Meaning
 word: derms
 description: Yes, DERMS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,10 @@ anagrams:
 trap:
   pattern: _ERMS
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of derm: Animal skin.'
 prev_word: derma
 next_word: derns
 hubs:

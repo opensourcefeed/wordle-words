@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is VIBEX a Wordle Word?
-head_title: Is VIBEX a Wordle Word? Yes – Valid Guess
+head_title: Is VIBEX a Wordle Word? Yes – Valid Guess & Meaning
 word: vibex
 description: Yes, VIBEX is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 - vibes
 - vibey
 - vitex
+phonetic: "/ˈvaɪbɛks/"
+definitions:
+- pos: noun
+  defs:
+  - text: A narrow streak of subcutaneous extravasation of blood, often one of many
+      in a patch of such streaks, which may be extensive.
 prev_word: vibes
 next_word: vibey
 hubs:

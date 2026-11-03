@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LENGS a Wordle Word?
-head_title: Is LENGS a Wordle Word? Yes – Valid Guess
+head_title: Is LENGS a Wordle Word? Yes – Valid Guess & Meaning
 word: lengs
 description: Yes, LENGS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ neighbours:
 - rengs
 anagrams:
 - glens
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of leng: Synonym of peng (“attractive, excellent”).'
 prev_word: lenes
 next_word: lenis
 hubs:

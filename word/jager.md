@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is JAGER a Wordle Word?
-head_title: Is JAGER a Wordle Word? Yes – Valid Guess
+head_title: Is JAGER a Wordle Word? Yes – Valid Guess & Meaning
 word: jager
 description: Yes, JAGER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,10 @@ neighbours:
 trap:
   pattern: _AGER
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of jaeger: Any of three seabirds in the skua genus Stercorarius.'
 prev_word: jagas
 next_word: jaggs
 hubs:

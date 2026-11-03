@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RUBUS a Wordle Word?
-head_title: Is RUBUS a Wordle Word? Yes – Valid Guess
+head_title: Is RUBUS a Wordle Word? Yes – Valid Guess & Meaning
 word: rubus
 description: Yes, RUBUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - rubes
 - rufus
 - rurus
+definitions:
+- pos: noun
+  defs:
+  - text: Any of the genus Rubus of flowering plants, including the raspberry and
+      blackberry.
 prev_word: rubor
 next_word: ruche
 hubs:

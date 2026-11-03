@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OLIVA a Wordle Word?
-head_title: Is OLIVA a Wordle Word? Yes – Valid Guess
+head_title: Is OLIVA a Wordle Word? Yes – Valid Guess & Meaning
 word: oliva
 description: Yes, OLIVA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,12 @@ neighbours:
 anagrams:
 - viola
 - voila
+definitions:
+- pos: noun
+  defs:
+  - text: Olivary body
+    example: The medial part of the ventral lamina forms the most rostral pole of
+      the oliva, the dorsal lamina the most caudal one.
 prev_word: olios
 next_word: olive
 hubs:

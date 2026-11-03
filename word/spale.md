@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SPALE a Wordle Word?
-head_title: Is SPALE a Wordle Word? Yes – Valid Guess
+head_title: Is SPALE a Wordle Word? Yes – Valid Guess & Meaning
 word: spale
 description: Yes, SPALE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -47,6 +48,15 @@ anagrams:
 trap:
   pattern: SPA_E
   count: 7
+phonetic: "/ˈspeɪl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A chip or splinter of wood.
+  - text: A lath; a shaving or chip, as of wood or stone.
+  - text: A strengthening cross timber.
+  - text: One of a number of crossbands fastened temporarily to the frames to keep
+      them in place until properly secured.
 prev_word: spald
 next_word: spall
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KULAS a Wordle Word?
-head_title: Is KULAS a Wordle Word? Yes – Valid Guess
+head_title: Is KULAS a Wordle Word? Yes – Valid Guess & Meaning
 word: kulas
 description: Yes, KULAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,11 @@ neighbours:
 - kutas
 - kuyas
 - pulas
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of kula: A tower, turret or steeple in Southeastern Europe erected
+      during the period of Ottoman domination on the area.'
 prev_word: kulan
 next_word: kulfi
 hubs:

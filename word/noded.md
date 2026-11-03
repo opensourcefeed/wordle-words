@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NODED a Wordle Word?
-head_title: Is NODED a Wordle Word? Yes – Valid Guess
+head_title: Is NODED a Wordle Word? Yes – Valid Guess & Meaning
 word: noded
 description: Yes, NODED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,14 @@ neighbours:
 - nowed
 - noyed
 - roded
+definitions:
+- pos: adjective
+  defs:
+  - text: Having or divided into nodes.
+  - text: Pertaining to a group of individuals, possibly geographically separated
+      from each other, that form temporary or recurring project teams.
+    example: The noded philosophy is also about flexibility and efficiency in collaboration,
+      especially among people who are geographically far apart.
 prev_word: noddy
 next_word: nodes
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MALVA a Wordle Word?
-head_title: Is MALVA a Wordle Word? Yes – Valid Guess
+head_title: Is MALVA a Wordle Word? Yes – Valid Guess & Meaning
 word: malva
 description: Yes, MALVA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,13 @@ stats:
 neighbours:
 - halva
 - malwa
+phonetic: "/ˈmæl.və/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any plant of the genus Malva, a mallow.
+    example: Another malva to note is M. moschata Alba, the white form of our native
+      musk mallow.
 prev_word: malus
 next_word: malwa
 hubs:

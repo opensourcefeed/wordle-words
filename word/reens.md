@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REENS a Wordle Word?
-head_title: Is REENS a Wordle Word? Yes – Valid Guess
+head_title: Is REENS a Wordle Word? Yes – Valid Guess & Meaning
 word: reens
 description: Yes, REENS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,10 @@ anagrams:
 trap:
   pattern: _EENS
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of reen: A running waterway that links a ditch or stream to a river.'
 prev_word: reems
 next_word: reerd
 hubs:

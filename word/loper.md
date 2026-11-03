@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LOPER a Wordle Word?
-head_title: Is LOPER a Wordle Word? Yes – Valid Guess
+head_title: Is LOPER a Wordle Word? Yes – Valid Guess & Meaning
 word: loper
 description: Yes, LOPER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,15 @@ anagrams:
 trap:
   pattern: _OPER
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: One who or that which lopes; a runner; a leaper.
+    example: Wolves are very intelligent animals, and they are lopers and they are
+      survivors.
+  - text: A swivel placed at one end of the ropewalk, with the whirl being at the
+      opposite end.
+  - text: A wolf, especially a grey or timber wolf.
 prev_word: loped
 next_word: lopes
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CAMOS a Wordle Word?
-head_title: Is CAMOS a Wordle Word? Yes – Valid Guess
+head_title: Is CAMOS a Wordle Word? Yes – Valid Guess & Meaning
 word: camos
 description: Yes, CAMOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,15 @@ anagrams:
 trap:
   pattern: CAM_S
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of camo: A pattern on clothing consisting of irregularly shaped
+      patches that are either greenish/brownish, brownish/whitish, or bluish/whitish,
+      as used by ground combat forces.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of camo
 prev_word: camis
 next_word: campi
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DOVEN a Wordle Word?
-head_title: Is DOVEN a Wordle Word? Yes – Valid Guess
+head_title: Is DOVEN a Wordle Word? Yes – Valid Guess & Meaning
 word: doven
 description: Yes, DOVEN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,15 @@ neighbours:
 - roven
 anagrams:
 - devon
+definitions:
+- pos: verb
+  defs:
+  - text: 'Past participle of dive: To swim under water.'
+    example: Knowin’ what I do know, divin’ deep into the heights and depths of men’s
+      naters as I have doven, I knew that this would break Serepta’s chains.
+  - text: 'Alternative form of daven: To recite the Jewish liturgy; to pray'
+    example: I vatched^([sic]) through the portholes as they would doven and chant
+      / ‘Hey, mein Liebe, heyyyy.’
 prev_word: doved
 next_word: dover
 hubs:

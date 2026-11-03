@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is YECHY a Wordle Word?
-head_title: Is YECHY a Wordle Word? Yes – Valid Guess
+head_title: Is YECHY a Wordle Word? Yes – Valid Guess & Meaning
 word: yechy
 description: Yes, YECHY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,10 @@ stats:
 neighbours:
 - techy
 - yechs
+definitions:
+- pos: adjective
+  defs:
+  - text: Highly offensive; causing aversion or disgust.
 prev_word: yechs
 next_word: yedes
 hubs:

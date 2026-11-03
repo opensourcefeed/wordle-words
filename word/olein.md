@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OLEIN a Wordle Word?
-head_title: Is OLEIN a Wordle Word? Yes – Valid Guess
+head_title: Is OLEIN a Wordle Word? Yes – Valid Guess & Meaning
 word: olein
 description: Yes, OLEIN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,12 @@ neighbours:
 - plein
 anagrams:
 - eloin
+definitions:
+- pos: noun
+  defs:
+  - text: Any naturally-occurring greasy or oily substance related to fat.
+    example: 'Holonym: oleo oil'
+  - text: Any glyceride of oleic acid
 prev_word: oleic
 next_word: olent
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SIJOS a Wordle Word?
-head_title: Is SIJOS a Wordle Word? Yes – Valid Guess
+head_title: Is SIJOS a Wordle Word? Yes – Valid Guess & Meaning
 word: sijos
 description: Yes, SIJOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,11 @@ stats:
   starter_top_percent: 92
 neighbours:
 - silos
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of sijo: A classical Korean poetry form consisting of twelve accentual
+      phrases divided in three lines.'
 prev_word: sigri
 next_word: sikas
 hubs:

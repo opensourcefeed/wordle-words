@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TUBAE a Wordle Word?
-head_title: Is TUBAE a Wordle Word? Yes – Valid Guess
+head_title: Is TUBAE a Wordle Word? Yes – Valid Guess & Meaning
 word: tubae
 description: Yes, TUBAE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,10 @@ neighbours:
 anagrams:
 - beaut
 - taube
+definitions:
+- pos: noun
+  defs:
+  - text: Plural of tuba (“a tube or tubular organ; a type of Roman military trumpet”)
 prev_word: tuath
 next_word: tubal
 hubs:

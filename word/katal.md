@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KATAL a Wordle Word?
-head_title: Is KATAL a Wordle Word? Yes – Valid Guess
+head_title: Is KATAL a Wordle Word? Yes – Valid Guess & Meaning
 word: katal
 description: Yes, KATAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,11 @@ neighbours:
 - ratal
 anagrams:
 - talak
+definitions:
+- pos: noun
+  defs:
+  - text: 'In the International System of Units, the derived unit of catalytic activity;
+      one mole per second. Symbol: kat.'
 prev_word: kasme
 next_word: katas
 hubs:

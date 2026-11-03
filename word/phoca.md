@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PHOCA a Wordle Word?
-head_title: Is PHOCA a Wordle Word? Yes – Valid Guess
+head_title: Is PHOCA a Wordle Word? Yes – Valid Guess & Meaning
 word: phoca
 description: Yes, PHOCA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,15 @@ neighbours:
 anagrams:
 - copha
 - poach
+phonetic: "/ˈfəʊkə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A seal.
+    example: |-
+      His charet swift in haste he thither steard,
+       Which with a teeme of scaly Phocas bound
+       Was drawne vpon the waues, that fomed him around.
 prev_word: phobe
 next_word: phone
 hubs:

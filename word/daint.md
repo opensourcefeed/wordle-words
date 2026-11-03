@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DAINT a Wordle Word?
-head_title: Is DAINT a Wordle Word? Yes – Valid Guess
+head_title: Is DAINT a Wordle Word? Yes – Valid Guess & Meaning
 word: daint
 description: Yes, DAINT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,18 @@ anagrams:
 trap:
   pattern: _AINT
   count: 6
+phonetic: "/deɪnt/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Dainty.
+    example: |-
+      […] to cherish him with diets daint,
+       She cast to bring him, where he chearen might […]
+- pos: verb
+  defs:
+  - text: Do not, don't
+  - text: Didn't
 prev_word: daine
 next_word: dairy
 hubs:

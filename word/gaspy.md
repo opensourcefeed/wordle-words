@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GASPY a Wordle Word?
-head_title: Is GASPY a Wordle Word? Yes – Valid Guess
+head_title: Is GASPY a Wordle Word? Yes – Valid Guess & Meaning
 word: gaspy
 description: Yes, GASPY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 - gasps
 - paspy
 - waspy
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling or characterised by gasps.
+    example: 'Then his eyes began to spread and his breath to come out kinder gaspy
+      like, and he says: "Ger-reat Scott, it''s the LONGITUDE!"'
 prev_word: gasps
 next_word: gassy
 hubs:

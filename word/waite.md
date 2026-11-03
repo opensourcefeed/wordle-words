@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WAITE a Wordle Word?
-head_title: Is WAITE a Wordle Word? Yes – Valid Guess
+head_title: Is WAITE a Wordle Word? Yes – Valid Guess & Meaning
 word: waite
 description: Yes, WAITE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,14 @@ neighbours:
 - waits
 anagrams:
 - tawie
+definitions:
+- pos: verb
+  defs:
+  - text: 'Archaic spelling of wait: To delay movement or action until some event
+      or time; to remain neglected or in readiness.'
+    example: |-
+      And post o're Land and Ocean without rest:
+      They also serve who only stand and waite.
 prev_word: waist
 next_word: waits
 hubs:

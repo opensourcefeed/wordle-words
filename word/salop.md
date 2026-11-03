@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SALOP a Wordle Word?
-head_title: Is SALOP a Wordle Word? Yes – Valid Guess
+head_title: Is SALOP a Wordle Word? Yes – Valid Guess & Meaning
 word: salop
 description: Yes, SALOP is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,12 @@ neighbours:
 anagrams:
 - apols
 - opals
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of saloop: An aromatic drink originally prepared from
+      salep and later from sassafras bark with other ingredients such as milk and
+      sugar added, which was once popular in London, England.'
 prev_word: salon
 next_word: salpa
 hubs:

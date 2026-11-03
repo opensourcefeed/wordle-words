@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GRUED a Wordle Word?
-head_title: Is GRUED a Wordle Word? Yes – Valid Guess
+head_title: Is GRUED a Wordle Word? Yes – Valid Guess & Meaning
 word: grued
 description: Yes, GRUED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,11 @@ neighbours:
 anagrams:
 - redug
 - urged
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of grue: To be frightened; also, to shudder
+      with fear; to quake, to tremble.'
 prev_word: grubs
 next_word: gruel
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is IODID a Wordle Word?
-head_title: Is IODID a Wordle Word? Yes – Valid Guess
+head_title: Is IODID a Wordle Word? Yes – Valid Guess & Meaning
 word: iodid
 description: Yes, IODID is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,11 @@ stats:
 neighbours:
 - iodic
 - iodin
+definitions:
+- pos: noun
+  defs:
+  - text: 'Archaic form of iodide: A binary compound of iodine and another element
+      or radical.'
 prev_word: iodic
 next_word: iodin
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FOULE a Wordle Word?
-head_title: Is FOULE a Wordle Word? Yes – Valid Guess
+head_title: Is FOULE a Wordle Word? Yes – Valid Guess & Meaning
 word: foule
 description: Yes, FOULE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,15 @@ neighbours:
 trap:
   pattern: _OULE
   count: 7
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Obsolete form of foul: Covered with, or containing unclean matter; dirty.'
+    example: |-
+      The Patron of true Holinesse
+       foule Errour doth defeate;
+       Hypocrisie him to entrappe
+       doth to his home entreate.
 prev_word: fouet
 next_word: fouls
 hubs:

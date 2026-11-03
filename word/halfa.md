@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HALFA a Wordle Word?
-head_title: Is HALFA a Wordle Word? Yes – Valid Guess
+head_title: Is HALFA a Wordle Word? Yes – Valid Guess & Meaning
 word: halfa
 description: Yes, HALFA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,13 @@ neighbours:
 - halma
 - halva
 - halwa
+definitions:
+- pos: noun
+  defs:
+  - text: Synonym of esparto (“North African grass”).
+- pos: contraction
+  defs:
+  - text: Contraction of half + of.
 prev_word: hales
 next_word: halfs
 hubs:

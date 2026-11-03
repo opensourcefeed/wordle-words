@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MICOS a Wordle Word?
-head_title: Is MICOS a Wordle Word? Yes – Valid Guess
+head_title: Is MICOS a Wordle Word? Yes – Valid Guess & Meaning
 word: micos
 description: Yes, MICOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,11 @@ anagrams:
 trap:
   pattern: MI_OS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of mico: A small South American monkey (Mico melanurus, syn. Callithrix
+      melanura), allied to the marmoset.'
 prev_word: micky
 next_word: micra
 hubs:

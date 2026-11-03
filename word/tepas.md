@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TEPAS a Wordle Word?
-head_title: Is TEPAS a Wordle Word? Yes – Valid Guess
+head_title: Is TEPAS a Wordle Word? Yes – Valid Guess & Meaning
 word: tepas
 description: Yes, TEPAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,10 @@ anagrams:
 - spate
 - speat
 - tapes
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of tepa: A tree native to Chile and Argentina, Laureliopsis philippiana'
 prev_word: tepal
 next_word: tepee
 hubs:

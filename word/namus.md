@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NAMUS a Wordle Word?
-head_title: Is NAMUS a Wordle Word? Yes – Valid Guess
+head_title: Is NAMUS a Wordle Word? Yes – Valid Guess & Meaning
 word: namus
 description: Yes, NAMUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,13 @@ neighbours:
 - wamus
 anagrams:
 - manus
+definitions:
+- pos: noun
+  defs:
+  - text: A concept of virtue and honor within a family, typically relating to chastity
+      of female family members.
+  - text: A cromlech, a stone circle, a lithic burial structure in the Sinai connected
+      to various superstitions.
 prev_word: namma
 next_word: nanas
 hubs:

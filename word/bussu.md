@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BUSSU a Wordle Word?
-head_title: Is BUSSU a Wordle Word? Yes – Valid Guess
+head_title: Is BUSSU a Wordle Word? Yes – Valid Guess & Meaning
 word: bussu
 description: Yes, BUSSU is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -19,6 +20,12 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 100
+definitions:
+- pos: noun
+  defs:
+  - text: The palm tree Manicaria saccifera.
+    example: The Bussú, like the Hemp Palm, and the Coco-nut Palm, affords an excellent,
+      durable, ready made cloth.
 prev_word: busky
 next_word: busti
 hubs:

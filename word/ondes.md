@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ONDES a Wordle Word?
-head_title: Is ONDES a Wordle Word? Yes – Valid Guess
+head_title: Is ONDES a Wordle Word? Yes – Valid Guess & Meaning
 word: ondes
 description: Yes, ONDES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,10 @@ anagrams:
 - nodes
 - nosed
 - sonde
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of onde: Envy; hatred; malice'
 prev_word: oncus
 next_word: ondol
 hubs:

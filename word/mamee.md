@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MAMEE a Wordle Word?
-head_title: Is MAMEE a Wordle Word? Yes – Valid Guess
+head_title: Is MAMEE a Wordle Word? Yes – Valid Guess & Meaning
 word: mamee
 description: Yes, MAMEE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - mamey
 - mamie
 - ramee
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of mamey: An evergreen tree of species Mammea americana,
+      or its edible fruit.'
 prev_word: mambu
 next_word: mamey
 hubs:

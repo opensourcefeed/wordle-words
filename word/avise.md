@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AVISE a Wordle Word?
-head_title: Is AVISE a Wordle Word? Yes – Valid Guess
+head_title: Is AVISE a Wordle Word? Yes – Valid Guess & Meaning
 word: avise
 description: Yes, AVISE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,14 @@ neighbours:
 - avine
 - aviso
 - avize
+definitions:
+- pos: verb
+  defs:
+  - text: 'Obsolete spelling of advise: To give advice to; to offer an opinion to,
+      as worthy or expedient to be followed.'
+    example: |-
+      Now therefore, if thou wilt enriched bee,
+      Auise thee well, and chaunge thy wilfull mood,
 prev_word: avion
 next_word: aviso
 hubs:

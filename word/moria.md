@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MORIA a Wordle Word?
-head_title: Is MORIA a Wordle Word? Yes – Valid Guess
+head_title: Is MORIA a Wordle Word? Yes – Valid Guess & Meaning
 word: moria
 description: Yes, MORIA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ neighbours:
 - noria
 anagrams:
 - moira
+definitions:
+- pos: noun
+  defs:
+  - text: Excessive frivolity; an inability to be serious.
 prev_word: morgy
 next_word: morin
 hubs:

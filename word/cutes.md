@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CUTES a Wordle Word?
-head_title: Is CUTES a Wordle Word? Yes – Valid Guess
+head_title: Is CUTES a Wordle Word? Yes – Valid Guess & Meaning
 word: cutes
 description: Yes, CUTES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,17 @@ anagrams:
 trap:
   pattern: _UTES
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of cutis: The true skin, underlying the epidermis.'
+  - text: Cuteness
+    example: Chicago favorite Byrne Piven (shorn of his trademark beard) craftily
+      dumbs himself down to play Sam as a softhearted dreamer with a bad case of the
+      cutes.
+- pos: adjective
+  defs:
+  - text: Cute
 prev_word: cuter
 next_word: cutey
 hubs:

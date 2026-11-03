@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is YETTS a Wordle Word?
-head_title: Is YETTS a Wordle Word? Yes – Valid Guess
+head_title: Is YETTS a Wordle Word? Yes – Valid Guess & Meaning
 word: yetts
 description: Yes, YETTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,10 @@ neighbours:
 anagrams:
 - testy
 - styte
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of yett: Gate.'
 prev_word: yetis
 next_word: yeuch
 hubs:

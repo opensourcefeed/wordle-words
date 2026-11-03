@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PONTO a Wordle Word?
-head_title: Is PONTO a Wordle Word? Yes – Valid Guess
+head_title: Is PONTO a Wordle Word? Yes – Valid Guess & Meaning
 word: ponto
 description: Yes, PONTO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 - ponty
 - potto
 - punto
+definitions:
+- pos: noun
+  defs:
+  - text: A traditional short Portuguese unit of length usually about equal to 0.2
+      mm.
 prev_word: ponor
 next_word: ponts
 hubs:

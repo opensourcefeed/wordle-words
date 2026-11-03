@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HINAU a Wordle Word?
-head_title: Is HINAU a Wordle Word? Yes – Valid Guess
+head_title: Is HINAU a Wordle Word? Yes – Valid Guess & Meaning
 word: hinau
 description: Yes, HINAU is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -21,6 +22,10 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 37
+definitions:
+- pos: noun
+  defs:
+  - text: Elaeocarpus dentatus, a tree of New Zealand.
 prev_word: himbo
 next_word: hinds
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TALLS a Wordle Word?
-head_title: Is TALLS a Wordle Word? Yes – Valid Guess
+head_title: Is TALLS a Wordle Word? Yes – Valid Guess & Meaning
 word: talls
 description: Yes, TALLS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,12 @@ anagrams:
 trap:
   pattern: _ALLS
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of tall: Having great vertical extent (usually reckoned from the
+      bottom of the feet to the very top of the head) when standing. (For instance,
+      somebody with a height of over 6 feet would generally be deemed tall.)'
 prev_word: talky
 next_word: tally
 hubs:

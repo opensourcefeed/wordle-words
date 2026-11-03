@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is COUTA a Wordle Word?
-head_title: Is COUTA a Wordle Word? Yes – Valid Guess
+head_title: Is COUTA a Wordle Word? Yes – Valid Guess & Meaning
 word: couta
 description: Yes, COUTA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - costa
 - cotta
 - couth
+definitions:
+- pos: noun
+  defs:
+  - text: 'Clipping of barracouta: A snoek, any member of the species Thyrsites atun
+      of foodfish.'
 prev_word: court
 next_word: couth
 hubs:

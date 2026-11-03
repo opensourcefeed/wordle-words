@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CASER a Wordle Word?
-head_title: Is CASER a Wordle Word? Yes – Valid Guess
+head_title: Is CASER a Wordle Word? Yes – Valid Guess & Meaning
 word: caser
 description: Yes, CASER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -48,6 +49,10 @@ anagrams:
 trap:
   pattern: _ASER
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A crown, a five-shilling coin.
 prev_word: cased
 next_word: cases
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REAKS a Wordle Word?
-head_title: Is REAKS a Wordle Word? Yes – Valid Guess
+head_title: Is REAKS a Wordle Word? Yes – Valid Guess & Meaning
 word: reaks
 description: Yes, REAKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -45,6 +46,10 @@ anagrams:
 trap:
   pattern: REA_S
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of reak: A prank.'
 prev_word: reais
 next_word: realm
 hubs:

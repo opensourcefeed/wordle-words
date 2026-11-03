@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ZIBET a Wordle Word?
-head_title: Is ZIBET a Wordle Word? Yes – Valid Guess
+head_title: Is ZIBET a Wordle Word? Yes – Valid Guess & Meaning
 word: zibet
 description: Yes, ZIBET is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,10 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 56
+definitions:
+- pos: noun
+  defs:
+  - text: The large Indian civet (Viverra zibetha).
 prev_word: zhuzh
 next_word: ziffs
 hubs:

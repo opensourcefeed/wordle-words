@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PYOID a Wordle Word?
-head_title: Is PYOID a Wordle Word? Yes – Valid Guess
+head_title: Is PYOID a Wordle Word? Yes – Valid Guess & Meaning
 word: pyoid
 description: Yes, PYOID is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,12 @@ stats:
 neighbours:
 - hyoid
 - myoid
+phonetic: "/ˈpaɪ.ɔɪd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling or relating to pus.
+    example: pyoid globule
 prev_word: pynes
 next_word: pyots
 hubs:

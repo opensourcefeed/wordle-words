@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RAXED a Wordle Word?
-head_title: Is RAXED a Wordle Word? Yes – Valid Guess
+head_title: Is RAXED a Wordle Word? Yes – Valid Guess & Meaning
 word: raxed
 description: Yes, RAXED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,10 @@ neighbours:
 trap:
   pattern: RA_ED
   count: 13
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of rax: To stretch; stretch out.'
 prev_word: rawns
 next_word: raxes
 hubs:

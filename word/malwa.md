@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MALWA a Wordle Word?
-head_title: Is MALWA a Wordle Word? Yes – Valid Guess
+head_title: Is MALWA a Wordle Word? Yes – Valid Guess & Meaning
 word: malwa
 description: Yes, MALWA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 - malva
 anagrams:
 - mawla
+definitions:
+- pos: noun
+  defs:
+  - text: Beer made with millet, common in Africa
 prev_word: malva
 next_word: mamak
 hubs:

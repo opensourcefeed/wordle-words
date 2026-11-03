@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is JAMBE a Wordle Word?
-head_title: Is JAMBE a Wordle Word? Yes – Valid Guess
+head_title: Is JAMBE a Wordle Word? Yes – Valid Guess & Meaning
 word: jambe
 description: Yes, JAMBE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,15 @@ neighbours:
 - jambs
 - jambu
 - jembe
+phonetic: "/ˈd͡ʒæm/"
+definitions:
+- pos: noun
+  defs:
+  - text: A leg, of an animal or person.
+    example: Lion's jambe, erased, grasping a laurel branch.
+  - text: Synonym of jambeau (“a greave”).
+    example: Bainbergs were the precursors of the steel greaves or jambes of the fourteenth
+      century.
 prev_word: jalop
 next_word: jambo
 hubs:

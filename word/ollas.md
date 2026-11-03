@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OLLAS a Wordle Word?
-head_title: Is OLLAS a Wordle Word? Yes – Valid Guess
+head_title: Is OLLAS a Wordle Word? Yes – Valid Guess & Meaning
 word: ollas
 description: Yes, OLLAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,11 @@ neighbours:
 anagrams:
 - lolas
 - salol
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of olla: A cooking-pot or earthenware jar used in Spain and Spanish-speaking
+      countries.'
 prev_word: olive
 next_word: ollav
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NAHAL a Wordle Word?
-head_title: Is NAHAL a Wordle Word? Yes – Valid Guess
+head_title: Is NAHAL a Wordle Word? Yes – Valid Guess & Meaning
 word: nahal
 description: Yes, NAHAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,12 @@ neighbours:
 - lahal
 - mahal
 - nawal
+definitions:
+- pos: noun
+  defs:
+  - text: Synonym of wadi.
+  - text: A civilian settlement established by the military in Israel and Israeli-occupied
+      territories to support growth and expansion.
 prev_word: nagor
 next_word: naiad
 hubs:

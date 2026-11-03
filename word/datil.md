@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DATIL a Wordle Word?
-head_title: Is DATIL a Wordle Word? Yes – Valid Guess
+head_title: Is DATIL a Wordle Word? Yes – Valid Guess & Meaning
 word: datil
 description: Yes, DATIL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,12 @@ neighbours:
 anagrams:
 - tidal
 - dital
+definitions:
+- pos: noun
+  defs:
+  - text: A datil pepper, a very spicy pepper of the species Capsicum chinense.
+  - text: The queen palm, Syagrus romanzoffiana, or its leaf fibers used for weaving.
+  - text: Mexican yucca or its leaf fibers.
 prev_word: dates
 next_word: datos
 hubs:

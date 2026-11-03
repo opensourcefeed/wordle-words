@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOLAH a Wordle Word?
-head_title: Is SOLAH a Wordle Word? Yes – Valid Guess
+head_title: Is SOLAH a Wordle Word? Yes – Valid Guess & Meaning
 word: solah
 description: Yes, SOLAH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,13 @@ anagrams:
 - shoal
 - halos
 - shola
+phonetic: "/ˈsəʊlə/"
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative form of shola (“the plant Aeschynomene aspera”).
+    example: he descended in a new khaki suit—tight fitting—of a delicate olive-green;
+      a peacock-blue tie, white collar, and a snowy white solah helmet.
 prev_word: sokol
 next_word: solan
 hubs:

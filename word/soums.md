@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOUMS a Wordle Word?
-head_title: Is SOUMS a Wordle Word? Yes – Valid Guess
+head_title: Is SOUMS a Wordle Word? Yes – Valid Guess & Meaning
 word: soums
 description: Yes, SOUMS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,14 @@ anagrams:
 trap:
   pattern: SOU_S
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of soum: Alternative form of sowm (“proportion of sheep or cattle
+      for pasture”).'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of soum
 prev_word: souly
 next_word: sound
 hubs:

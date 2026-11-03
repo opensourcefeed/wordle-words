@@ -1,11 +1,11 @@
 ---
 layout: word
 title: Is WARTY a Wordle Word?
-head_title: Is WARTY a Wordle Word? Yes – Possible Answer
+head_title: Is WARTY a Wordle Word? Yes – Possible Answer & Meaning
 word: warty
 description: Yes, WARTY is a valid Wordle word. It is on the original Wordle answer
-  list and has not been an answer yet, so it could be a future answer. See its starter
-  rating and similar words.
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
 status: possible
 answer_text: It is on the original Wordle answer list and has not been an answer yet,
   so it could be a future answer.
@@ -28,6 +28,13 @@ neighbours:
 - wanty
 - warby
 - warts
+definitions:
+- pos: adjective
+  defs:
+  - text: Having warts.
+    example: a warty leaf
+  - text: Similar to a wart.
+    example: a warty excrescence
 prev_word: warts
 next_word: wases
 hubs:

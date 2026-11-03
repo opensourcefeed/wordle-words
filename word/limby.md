@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LIMBY a Wordle Word?
-head_title: Is LIMBY a Wordle Word? Yes – Valid Guess
+head_title: Is LIMBY a Wordle Word? Yes – Valid Guess & Meaning
 word: limby
 description: Yes, LIMBY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,17 @@ neighbours:
 - nimby
 anagrams:
 - blimy
+phonetic: "/ˈlɪ.mi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having many limbs, or branches.
+    example: a limby tree
+- pos: noun
+  defs:
+  - text: An amputee, especially one who has lost a leg.
+    example: All the golfers shown played in the N.Z. Annual "wingies" and "limbies"
+      tournament, total number of competitors, 40.
 prev_word: limbs
 next_word: limed
 hubs:

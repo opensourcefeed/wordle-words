@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SELLA a Wordle Word?
-head_title: Is SELLA a Wordle Word? Yes – Valid Guess
+head_title: Is SELLA a Wordle Word? Yes – Valid Guess & Meaning
 word: sella
 description: Yes, SELLA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ neighbours:
 - selva
 anagrams:
 - salle
+definitions:
+- pos: noun
+  defs:
+  - text: Synonym of sella turcica.
 prev_word: selky
 next_word: selle
 hubs:

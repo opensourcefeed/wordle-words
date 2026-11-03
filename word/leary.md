@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LEARY a Wordle Word?
-head_title: Is LEARY a Wordle Word? Yes – Valid Guess
+head_title: Is LEARY a Wordle Word? Yes – Valid Guess & Meaning
 word: leary
 description: Yes, LEARY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -43,6 +44,14 @@ anagrams:
 trap:
   pattern: LEA_Y
   count: 6
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Alternative spelling of leery: Cautious, suspicious, wary, hesitant, or
+      nervous about something; having reservations or concerns.'
+    example: |-
+      "I think it may first be as well to introduce my pupil and friend to his future companions."
+      "You speak like a leary cove," cried Gentleman George […]
 prev_word: lears
 next_word: lease
 hubs:

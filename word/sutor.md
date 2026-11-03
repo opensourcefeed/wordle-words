@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SUTOR a Wordle Word?
-head_title: Is SUTOR a Wordle Word? Yes – Valid Guess
+head_title: Is SUTOR a Wordle Word? Yes – Valid Guess & Meaning
 word: sutor
 description: Yes, SUTOR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,10 @@ anagrams:
 - routs
 - stour
 - tours
+definitions:
+- pos: noun
+  defs:
+  - text: Shoemaker; cobbler.
 prev_word: susus
 next_word: sutra
 hubs:

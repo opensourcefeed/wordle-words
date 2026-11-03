@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GLIME a Wordle Word?
-head_title: Is GLIME a Wordle Word? Yes – Valid Guess
+head_title: Is GLIME a Wordle Word? Yes – Valid Guess & Meaning
 word: glime
 description: Yes, GLIME is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,16 @@ neighbours:
 - glume
 anagrams:
 - gimel
+phonetic: "/ɡlaɪm/"
+definitions:
+- pos: verb
+  defs:
+  - text: To glance (at); to look sideways.
+- pos: noun
+  defs:
+  - text: A sideways glance.
+    example: "‘Aw, ye wouldn't think it's true, would ye, now?’ said Ned, with a wink
+      at Dan and a ‘glime’ at Davy."
 prev_word: glike
 next_word: glims
 hubs:

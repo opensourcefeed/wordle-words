@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MANAS a Wordle Word?
-head_title: Is MANAS a Wordle Word? Yes – Valid Guess
+head_title: Is MANAS a Wordle Word? Yes – Valid Guess & Meaning
 word: manas
 description: Yes, MANAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,12 @@ anagrams:
 trap:
   pattern: MA_AS
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: The mind; that which distinguishes man from the animals.
+  - text: 'Plural of mana: Power, prestige; specifically, a form of supernatural energy
+      in Polynesian religion that inheres in things or people.'
 prev_word: mammy
 next_word: manat
 hubs:

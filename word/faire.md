@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FAIRE a Wordle Word?
-head_title: Is FAIRE a Wordle Word? Yes – Valid Guess
+head_title: Is FAIRE a Wordle Word? Yes – Valid Guess & Meaning
 word: faire
 description: Yes, FAIRE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,15 @@ neighbours:
 anagrams:
 - afire
 - feria
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Obsolete spelling of fair: Beautiful, of a pleasing appearance, with a
+      pure and fresh quality.'
+- pos: noun
+  defs:
+  - text: 'Obsolete spelling of fair: Beautiful, of a pleasing appearance, with a
+      pure and fresh quality.'
 prev_word: faint
 next_word: fairs
 hubs:

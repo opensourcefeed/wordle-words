@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BOABS a Wordle Word?
-head_title: Is BOABS a Wordle Word? Yes – Valid Guess
+head_title: Is BOABS a Wordle Word? Yes – Valid Guess & Meaning
 word: boabs
 description: Yes, BOABS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,11 @@ neighbours:
 - doabs
 anagrams:
 - bobas
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of boab: The tree Adansonia gregorii, a baobab species endemic to
+      the Kimberley region and the Northern Territory of Australia.'
 prev_word: blype
 next_word: boaks
 hubs:

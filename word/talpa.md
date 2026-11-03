@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TALPA a Wordle Word?
-head_title: Is TALPA a Wordle Word? Yes – Valid Guess
+head_title: Is TALPA a Wordle Word? Yes – Valid Guess & Meaning
 word: talpa
 description: Yes, TALPA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 - talma
 - tappa
 - tulpa
+phonetic: "/ˈtælpə/"
+definitions:
+- pos: noun
+  defs:
+  - text: An encysted tumour on the head; a wen.
 prev_word: talon
 next_word: taluk
 hubs:

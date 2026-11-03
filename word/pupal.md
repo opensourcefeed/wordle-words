@@ -1,11 +1,11 @@
 ---
 layout: word
 title: Is PUPAL a Wordle Word?
-head_title: Is PUPAL a Wordle Word? Yes – Possible Answer
+head_title: Is PUPAL a Wordle Word? Yes – Possible Answer & Meaning
 word: pupal
 description: Yes, PUPAL is a valid Wordle word. It is on the original Wordle answer
-  list and has not been an answer yet, so it could be a future answer. See its starter
-  rating and similar words.
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
 status: possible
 answer_text: It is on the original Wordle answer list and has not been an answer yet,
   so it could be a future answer.
@@ -28,6 +28,11 @@ neighbours:
 - pipal
 - pupae
 - pupas
+phonetic: "/ˈpjuːpəl/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or pertaining to the pupa stage of insect metamorphosis.
 prev_word: pupae
 next_word: pupas
 hubs:

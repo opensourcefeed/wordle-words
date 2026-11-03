@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LOVEE a Wordle Word?
-head_title: Is LOVEE a Wordle Word? Yes – Valid Guess
+head_title: Is LOVEE a Wordle Word? Yes – Valid Guess & Meaning
 word: lovee
 description: Yes, LOVEE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 - loves
 - lovey
 - lovie
+definitions:
+- pos: noun
+  defs:
+  - text: One who is loved; a recipient of love.
+    example: What is a lovee without a confidant?
 prev_word: loved
 next_word: lover
 hubs:

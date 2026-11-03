@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FIKED a Wordle Word?
-head_title: Is FIKED a Wordle Word? Yes – Valid Guess
+head_title: Is FIKED a Wordle Word? Yes – Valid Guess & Meaning
 word: fiked
 description: Yes, FIKED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,10 @@ neighbours:
 trap:
   pattern: _IKED
   count: 9
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of fike: To feign; dissemble; flatter.'
 prev_word: figos
 next_word: fikes
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ELFED a Wordle Word?
-head_title: Is ELFED a Wordle Word? Yes – Valid Guess
+head_title: Is ELFED a Wordle Word? Yes – Valid Guess & Meaning
 word: elfed
 description: Yes, ELFED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,13 @@ stats:
   starter_top_percent: 80
 neighbours:
 - effed
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of elf: A supernatural being or spirit
+      associated with illness, mischief, and harmful or dangerous magical influence;
+      in later Norse sources, sometimes divided into benevolent light elves (inhabiting
+      Álfheimr) and malevolent dark elves.'
 prev_word: elemi
 next_word: elfin
 hubs:

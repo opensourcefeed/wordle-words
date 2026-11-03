@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ORNIS a Wordle Word?
-head_title: Is ORNIS a Wordle Word? Yes – Valid Guess
+head_title: Is ORNIS a Wordle Word? Yes – Valid Guess & Meaning
 word: ornis
 description: Yes, ORNIS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,13 @@ anagrams:
 - nosir
 - roins
 - rosin
+definitions:
+- pos: noun
+  defs:
+  - text: A bird.
+  - text: The birds collectively of a region; avifauna.
+    example: Baird then proceeds to treat of the eastward movement of American birds,
+      and its influence on the ornis of Greenland and Europe, and vice versâ.
 prev_word: ornee
 next_word: orped
 hubs:

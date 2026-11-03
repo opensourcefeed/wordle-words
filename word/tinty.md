@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TINTY a Wordle Word?
-head_title: Is TINTY a Wordle Word? Yes – Valid Guess
+head_title: Is TINTY a Wordle Word? Yes – Valid Guess & Meaning
 word: tinty
 description: Yes, TINTY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,10 @@ neighbours:
 - titty
 anagrams:
 - nitty
+definitions:
+- pos: adjective
+  defs:
+  - text: Inharmoniously tinted; making poor use of colour
 prev_word: tints
 next_word: tipis
 hubs:

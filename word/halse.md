@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HALSE a Wordle Word?
-head_title: Is HALSE a Wordle Word? Yes – Valid Guess
+head_title: Is HALSE a Wordle Word? Yes – Valid Guess & Meaning
 word: halse
 description: Yes, HALSE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,19 @@ anagrams:
 - heals
 - selah
 - sheal
+phonetic: "[hoːs]"
+definitions:
+- pos: noun
+  defs:
+  - text: The neck; the throat.
+    example: Well, as you know they used to hang folk by the halse for horse theft.
+  - text: 'Alternative form of hawse: The part of the bow containing the hawseholes.'
+- pos: verb
+  defs:
+  - text: To fall upon the neck of; hug; embrace.
+  - text: To greet; salute; hail.
+  - text: To beseech; adjure.
+  - text: To haul; to hoist.
 prev_word: halos
 next_word: halsh
 hubs:

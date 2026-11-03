@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BOYSY a Wordle Word?
-head_title: Is BOYSY a Wordle Word? Yes – Valid Guess
+head_title: Is BOYSY a Wordle Word? Yes – Valid Guess & Meaning
 word: boysy
 description: Yes, BOYSY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,11 @@ neighbours:
 - bousy
 - boyey
 - boyly
+definitions:
+- pos: adjective
+  defs:
+  - text: Characteristic of stereotypical boys.
+    example: A group of Aussie guys broke into laughter at a boysy joke.
 prev_word: boyos
 next_word: bozos
 hubs:

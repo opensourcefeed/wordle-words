@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SMOUT a Wordle Word?
-head_title: Is SMOUT a Wordle Word? Yes – Valid Guess
+head_title: Is SMOUT a Wordle Word? Yes – Valid Guess & Meaning
 word: smout
 description: Yes, SMOUT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,13 @@ anagrams:
 trap:
   pattern: S_OUT
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A printer who does short-term work in various offices.
+- pos: verb
+  defs:
+  - text: To do occasional work.
 prev_word: smote
 next_word: smowt
 hubs:

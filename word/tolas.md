@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TOLAS a Wordle Word?
-head_title: Is TOLAS a Wordle Word? Yes – Valid Guess
+head_title: Is TOLAS a Wordle Word? Yes – Valid Guess & Meaning
 word: tolas
 description: Yes, TOLAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -45,6 +46,12 @@ anagrams:
 trap:
   pattern: _OLAS
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of tola: A unit of mass used in India, equal to the mass of a silver
+      rupee coin, fixed at 180 troy grains (11.663 8038 grams) in 1833, and of a similar
+      but slightly variable value before that date.'
 prev_word: tolar
 next_word: toled
 hubs:

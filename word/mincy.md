@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MINCY a Wordle Word?
-head_title: Is MINCY a Wordle Word? Yes – Valid Guess
+head_title: Is MINCY a Wordle Word? Yes – Valid Guess & Meaning
 word: mincy
 description: Yes, MINCY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ neighbours:
 - minny
 - minxy
 - zincy
+definitions:
+- pos: adjective
+  defs:
+  - text: Mincing; affectedly dainty
 prev_word: mince
 next_word: mindi
 hubs:

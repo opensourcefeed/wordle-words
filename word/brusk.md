@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BRUSK a Wordle Word?
-head_title: Is BRUSK a Wordle Word? Yes – Valid Guess
+head_title: Is BRUSK a Wordle Word? Yes – Valid Guess & Meaning
 word: brusk
 description: Yes, BRUSK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,13 @@ neighbours:
 - brust
 anagrams:
 - burks
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Alternative spelling of brusque: Rudely abrupt; curt, unfriendly.'
+    example: Whether it were the absence of Theodora or some other cause, he was brusk,
+      ungracious, scowling, and silent, only nodding to the Bishop who benignly saluted
+      him, […]
 prev_word: brush
 next_word: brust
 hubs:

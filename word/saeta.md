@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SAETA a Wordle Word?
-head_title: Is SAETA a Wordle Word? Yes – Valid Guess
+head_title: Is SAETA a Wordle Word? Yes – Valid Guess & Meaning
 word: saeta
 description: Yes, SAETA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,11 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 18
+definitions:
+- pos: noun
+  defs:
+  - text: A Spanish religious song evoking strong emotion, usually sung during public
+      processions.
 prev_word: sadza
 next_word: safed
 hubs:

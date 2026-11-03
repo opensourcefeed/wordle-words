@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TRYKE a Wordle Word?
-head_title: Is TRYKE a Wordle Word? Yes – Valid Guess
+head_title: Is TRYKE a Wordle Word? Yes – Valid Guess & Meaning
 word: tryke
 description: Yes, TRYKE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,13 @@ neighbours:
 - gryke
 - trike
 - troke
+phonetic: "/tɹaɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A lesbian trans woman.
+    example: "[…] faggots dykes and trykes who have not found the ability or the words
+      […]"
 prev_word: tryer
 next_word: tryma
 hubs:

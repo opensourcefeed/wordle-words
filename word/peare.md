@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PEARE a Wordle Word?
-head_title: Is PEARE a Wordle Word? Yes – Valid Guess
+head_title: Is PEARE a Wordle Word? Yes – Valid Guess & Meaning
 word: peare
 description: Yes, PEARE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,13 @@ anagrams:
 trap:
   pattern: _EARE
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of pear: An edible fruit produced by the pear tree, similar
+      to an apple but typically elongated towards the stem.'
+  - text: 'Obsolete form of pair: Two alike or identical things taken together; often
+      followed by of.'
 prev_word: peans
 next_word: pearl
 hubs:

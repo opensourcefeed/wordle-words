@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LATED a Wordle Word?
-head_title: Is LATED a Wordle Word? Yes – Valid Guess
+head_title: Is LATED a Wordle Word? Yes – Valid Guess & Meaning
 word: lated
 description: Yes, LATED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,11 @@ anagrams:
 trap:
   pattern: LA_ED
   count: 12
+definitions:
+- pos: adjective
+  defs:
+  - text: Belated; too late; also, overtaken by night; delayed.
+    example: Now spurs the lated traveller apace / To gain the timely inn […]
 prev_word: latch
 next_word: laten
 hubs:

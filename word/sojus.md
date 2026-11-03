@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOJUS a Wordle Word?
-head_title: Is SOJUS a Wordle Word? Yes – Valid Guess
+head_title: Is SOJUS a Wordle Word? Yes – Valid Guess & Meaning
 word: sojus
 description: Yes, SOJUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,10 @@ neighbours:
 - solus
 - sorus
 - wojus
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of soju: A Korean distilled alcoholic beverage, similar to shochu.'
 prev_word: sojas
 next_word: sokah
 hubs:

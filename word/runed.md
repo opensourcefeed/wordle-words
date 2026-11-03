@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RUNED a Wordle Word?
-head_title: Is RUNED a Wordle Word? Yes – Valid Guess
+head_title: Is RUNED a Wordle Word? Yes – Valid Guess & Meaning
 word: runed
 description: Yes, RUNED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,17 @@ anagrams:
 - rendu
 - unred
 - urned
+definitions:
+- pos: adjective
+  defs:
+  - text: Inscribed with runes.
+    example: The number of these runed pieces is 95, but often several duplicate copies
+      of the same type (and struck from the same die) have been found.
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of rune: A letter, or character, used in
+      the written language of various ancient Germanic peoples, especially the Scandinavians
+      and the Anglo-Saxons.'
 prev_word: runds
 next_word: runer
 hubs:

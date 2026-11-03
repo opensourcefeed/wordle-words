@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ZIMBS a Wordle Word?
-head_title: Is ZIMBS a Wordle Word? Yes – Valid Guess
+head_title: Is ZIMBS a Wordle Word? Yes – Valid Guess & Meaning
 word: zimbs
 description: Yes, ZIMBS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,11 @@ neighbours:
 - limbs
 - nimbs
 - zimbi
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of zimb: An Ethiopian horsefly of the genus Pangonius, destructive
+      to livestock.'
 prev_word: zimbi
 next_word: zinco
 hubs:

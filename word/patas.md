@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PATAS a Wordle Word?
-head_title: Is PATAS a Wordle Word? Yes – Valid Guess
+head_title: Is PATAS a Wordle Word? Yes – Valid Guess & Meaning
 word: patas
 description: Yes, PATAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,13 @@ anagrams:
 trap:
   pattern: PA_AS
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A ground-dwelling long-tailed monkey of species Erythrocebus patas, found
+      in West and East Africa.
+    example: When a male patas observes a predator approaching its group, he performs
+      a noisy display, shaking the branches and overtly calling attention to himself.
 prev_word: pasty
 next_word: patch
 hubs:

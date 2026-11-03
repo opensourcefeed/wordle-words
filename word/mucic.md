@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MUCIC a Wordle Word?
-head_title: Is MUCIC a Wordle Word? Yes – Valid Guess
+head_title: Is MUCIC a Wordle Word? Yes – Valid Guess & Meaning
 word: mucic
 description: Yes, MUCIC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ neighbours:
 - mucid
 - mucin
 - mutic
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or pertaining to mucic acid or its derivatives
 prev_word: mucho
 next_word: mucid
 hubs:

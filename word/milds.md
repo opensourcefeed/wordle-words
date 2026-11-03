@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MILDS a Wordle Word?
-head_title: Is MILDS a Wordle Word? Yes – Valid Guess
+head_title: Is MILDS a Wordle Word? Yes – Valid Guess & Meaning
 word: milds
 description: Yes, MILDS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,10 @@ neighbours:
 trap:
   pattern: MIL_S
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of mild: Gentle and not easily angered.'
 prev_word: milch
 next_word: miler
 hubs:

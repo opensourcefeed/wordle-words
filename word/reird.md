@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REIRD a Wordle Word?
-head_title: Is REIRD a Wordle Word? Yes – Valid Guess
+head_title: Is REIRD a Wordle Word? Yes – Valid Guess & Meaning
 word: reird
 description: Yes, REIRD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,12 @@ anagrams:
 - drier
 - rider
 - direr
+phonetic: "/ɹɪəd/"
+definitions:
+- pos: noun
+  defs:
+  - text: Utterance, speech; an instance of this
+  - text: A voice, a cry.
 prev_word: reins
 next_word: reist
 hubs:

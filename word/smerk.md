@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SMERK a Wordle Word?
-head_title: Is SMERK a Wordle Word? Yes – Valid Guess
+head_title: Is SMERK a Wordle Word? Yes – Valid Guess & Meaning
 word: smerk
 description: Yes, SMERK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,16 @@ anagrams:
 - merks
 - mersk
 - skerm
+phonetic: "/smɜː(ɹ)k/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Dated form of smirk: An uneven, often crooked smile that is insolent, self-satisfied,
+      conceited or scornful.'
+- pos: verb
+  defs:
+  - text: 'Dated form of smirk: An uneven, often crooked smile that is insolent, self-satisfied,
+      conceited or scornful.'
 prev_word: smelt
 next_word: smews
 hubs:

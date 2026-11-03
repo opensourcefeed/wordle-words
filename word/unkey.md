@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UNKEY a Wordle Word?
-head_title: Is UNKEY a Wordle Word? Yes – Valid Guess
+head_title: Is UNKEY a Wordle Word? Yes – Valid Guess & Meaning
 word: unkey
 description: Yes, UNKEY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,11 @@ stats:
 neighbours:
 - unked
 - unket
+definitions:
+- pos: verb
+  defs:
+  - text: To stop transmitting on a two-way radio, etc.
+    example: I forgot to unkey the microphone, and everyone could still hear me.
 prev_word: unket
 next_word: unkid
 hubs:

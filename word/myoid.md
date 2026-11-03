@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MYOID a Wordle Word?
-head_title: Is MYOID a Wordle Word? Yes – Valid Guess
+head_title: Is MYOID a Wordle Word? Yes – Valid Guess & Meaning
 word: myoid
 description: Yes, MYOID is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,14 @@ neighbours:
 - hyoid
 - mysid
 - pyoid
+phonetic: "/ˈmaɪ.ɔɪd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Composed of or resembling muscle.
+- pos: noun
+  defs:
+  - text: A muscle-like structure.
 prev_word: mynas
 next_word: myoma
 hubs:

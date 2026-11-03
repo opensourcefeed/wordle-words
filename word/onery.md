@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ONERY a Wordle Word?
-head_title: Is ONERY a Wordle Word? Yes – Valid Guess
+head_title: Is ONERY a Wordle Word? Yes – Valid Guess & Meaning
 word: onery
 description: Yes, ONERY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - opery
 anagrams:
 - royne
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Pronunciation spelling of ornery: Disagreeable, stubborn, and troublesome
+      to deal with; cantankerous.'
 prev_word: oners
 next_word: ongon
 hubs:

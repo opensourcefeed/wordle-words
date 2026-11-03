@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OUPHE a Wordle Word?
-head_title: Is OUPHE a Wordle Word? Yes – Valid Guess
+head_title: Is OUPHE a Wordle Word? Yes – Valid Guess & Meaning
 word: ouphe
 description: Yes, OUPHE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,16 @@ stats:
 neighbours:
 - ouche
 - ouphs
+phonetic: "/ˈuːf/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small, often mischievous sprite; a fairy; a goblin; an elf.
+    example: |-
+      Strew good luck, ouphes, on every ſacred room,
+      That it may ſtand 'till the perpetual Doom,
+      In ſtate as wholſom, as in ſtate 'tis fit;
+      Worthy the owner, as the owner it.
 prev_word: ouped
 next_word: ouphs
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ACHEY a Wordle Word?
-head_title: Is ACHEY a Wordle Word? Yes – Valid Guess
+head_title: Is ACHEY a Wordle Word? Yes – Valid Guess & Meaning
 word: achey
 description: Yes, ACHEY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ neighbours:
 - ached
 - acher
 - aches
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Alternative spelling of achy: With or suffering from aches; sore.'
+    example: "“He said it feels a little achey,” [Gene] Mauch said, “but if there
+      are no muscular spasms, he should be ready to play tomorrow.”"
 prev_word: aches
 next_word: achoo
 hubs:

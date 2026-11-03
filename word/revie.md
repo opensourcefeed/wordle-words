@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REVIE a Wordle Word?
-head_title: Is REVIE a Wordle Word? Yes – Valid Guess
+head_title: Is REVIE a Wordle Word? Yes – Valid Guess & Meaning
 word: revie
 description: Yes, REVIE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,14 @@ neighbours:
 anagrams:
 - reive
 - rieve
+phonetic: "/ɹiˈvaɪ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To vie with, or rival, in return.
+  - text: To exceed an adversary's wager in a card game; to reraise.
+    example: here's a trick vied and revied!
+  - text: To make a retort; to bandy words.
 prev_word: revet
 next_word: revow
 hubs:

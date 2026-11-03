@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PAXES a Wordle Word?
-head_title: Is PAXES a Wordle Word? Yes – Valid Guess
+head_title: Is PAXES a Wordle Word? Yes – Valid Guess & Meaning
 word: paxes
 description: Yes, PAXES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,13 @@ neighbours:
 trap:
   pattern: _AXES
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of pax: A painted, stamped or carved tablet with a representation
+      of Christ or the Virgin Mary, which was kissed by the priest during the Mass
+      ("kiss of peace") and then passed to other officiating clergy and the congregation
+      to be kissed. See also osculatory.'
 prev_word: pawns
 next_word: payed
 hubs:

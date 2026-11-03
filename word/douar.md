@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DOUAR a Wordle Word?
-head_title: Is DOUAR a Wordle Word? Yes – Valid Guess
+head_title: Is DOUAR a Wordle Word? Yes – Valid Guess & Meaning
 word: douar
 description: Yes, DOUAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,14 @@ neighbours:
 - dowar
 anagrams:
 - doura
+phonetic: "/ˈduːɑː/"
+definitions:
+- pos: noun
+  defs:
+  - text: A camp or village of tents in a North African country.
+    example: "“A slave would be the better word,” she answered. “I was stolen in the
+      night from my father’s douar by a band of marauders. They brought me here and
+      sold me to the Arab who keeps this café.”"
 prev_word: dotty
 next_word: doubt
 hubs:

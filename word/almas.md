@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ALMAS a Wordle Word?
-head_title: Is ALMAS a Wordle Word? Yes – Valid Guess
+head_title: Is ALMAS a Wordle Word? Yes – Valid Guess & Meaning
 word: almas
 description: Yes, ALMAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,12 @@ anagrams:
 - amlas
 - lamas
 - malas
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of alma: An Egyptian female singer or dancing girl employed for
+      entertainment or as a professional mourner.'
+  - text: Caviar from the albino beluga
 prev_word: almah
 next_word: almeh
 hubs:

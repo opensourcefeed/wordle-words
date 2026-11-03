@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OWARE a Wordle Word?
-head_title: Is OWARE a Wordle Word? Yes – Valid Guess
+head_title: Is OWARE a Wordle Word? Yes – Valid Guess & Meaning
 word: oware
 description: Yes, OWARE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,12 @@ neighbours:
 - aware
 - owari
 - sware
+phonetic: "/əˈwɑːri/"
+definitions:
+- pos: noun
+  defs:
+  - text: A board game of the mancala family which originated in Africa, and is reputedly
+      the oldest game in the world.
 prev_word: ovule
 next_word: owari
 hubs:

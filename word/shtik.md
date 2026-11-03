@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SHTIK a Wordle Word?
-head_title: Is SHTIK a Wordle Word? Yes – Valid Guess
+head_title: Is SHTIK a Wordle Word? Yes – Valid Guess & Meaning
 word: shtik
 description: Yes, SHTIK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,13 @@ neighbours:
 - sheik
 anagrams:
 - kiths
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of shtick: A generally humorous routine.'
+    example: 'Yes, I’ve heard the shtik from every muscle-car manufacturer: We only
+      make a handful of these; most owners use them as weekend toys; boomers are willing
+      to pay the price for nostalgic fun.'
 prev_word: shtar
 next_word: shtum
 hubs:

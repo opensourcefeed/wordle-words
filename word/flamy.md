@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FLAMY a Wordle Word?
-head_title: Is FLAMY a Wordle Word? Yes – Valid Guess
+head_title: Is FLAMY a Wordle Word? Yes – Valid Guess & Meaning
 word: flamy
 description: Yes, FLAMY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,13 @@ neighbours:
 - flary
 - flawy
 - flaxy
+phonetic: "/ˈfleɪmi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Flaming, blazing.
+  - text: Flamelike, flame-colored.
+  - text: Composed of flame.
 prev_word: flams
 next_word: flane
 hubs:

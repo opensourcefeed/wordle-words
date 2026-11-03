@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TENUE a Wordle Word?
-head_title: Is TENUE a Wordle Word? Yes – Valid Guess
+head_title: Is TENUE a Wordle Word? Yes – Valid Guess & Meaning
 word: tenue
 description: Yes, TENUE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 - venue
 - tenge
 - tenne
+phonetic: "/tɪˈnjuː/"
+definitions:
+- pos: noun
+  defs:
+  - text: Bearing, carriage, deportment
+  - text: Mode of dress
 prev_word: tenty
 next_word: tepal
 hubs:

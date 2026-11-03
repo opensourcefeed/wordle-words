@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TOTER a Wordle Word?
-head_title: Is TOTER a Wordle Word? Yes – Valid Guess
+head_title: Is TOTER a Wordle Word? Yes – Valid Guess & Meaning
 word: toter
 description: Yes, TOTER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -44,6 +45,11 @@ anagrams:
 trap:
   pattern: TO_ER
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: One who totes or carries something.
+    example: His name was Vadian, and a cunning toter
 prev_word: totem
 next_word: totes
 hubs:

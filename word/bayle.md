@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BAYLE a Wordle Word?
-head_title: Is BAYLE a Wordle Word? Yes – Valid Guess
+head_title: Is BAYLE a Wordle Word? Yes – Valid Guess & Meaning
 word: bayle
 description: Yes, BAYLE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,14 @@ neighbours:
 - rayle
 anagrams:
 - belay
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete spelling of bail: Security, usually a sum of money, exchanged
+      for the release of an arrested person as a guarantee of that person''s appearance
+      for trial.'
+  - text: 'Obsolete spelling of bale: Evil, especially considered as an active force
+      for destruction or death.'
 prev_word: bayes
 next_word: bayou
 hubs:

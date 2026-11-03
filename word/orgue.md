@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ORGUE a Wordle Word?
-head_title: Is ORGUE a Wordle Word? Yes – Valid Guess
+head_title: Is ORGUE a Wordle Word? Yes – Valid Guess & Meaning
 word: orgue
 description: Yes, ORGUE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,15 @@ anagrams:
 - rogue
 - rouge
 - erugo
+definitions:
+- pos: noun
+  defs:
+  - text: Any of a number of long, thick pieces of timber, pointed and shod with iron,
+      and suspended, each by a separate rope, over a gateway, to be let down in case
+      of attack.
+  - text: A piece of ordnance, consisting of a number of musket barrels arranged so
+      that a match or train may connect with all their touchholes, and a discharge
+      be secured almost or quite simultaneously.
 prev_word: orgic
 next_word: oribi
 hubs:

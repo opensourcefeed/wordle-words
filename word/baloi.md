@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BALOI a Wordle Word?
-head_title: Is BALOI a Wordle Word? Yes – Valid Guess
+head_title: Is BALOI a Wordle Word? Yes – Valid Guess & Meaning
 word: baloi
 description: Yes, BALOI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,11 @@ neighbours:
 - balti
 anagrams:
 - aboil
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of moloi: A magician, witch, wizard, or other magic-user, especially
+      in traditional tribal society.'
 prev_word: balmy
 next_word: balon
 hubs:

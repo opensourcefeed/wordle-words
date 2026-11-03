@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SNIPY a Wordle Word?
-head_title: Is SNIPY a Wordle Word? Yes – Valid Guess
+head_title: Is SNIPY a Wordle Word? Yes – Valid Guess & Meaning
 word: snipy
 description: Yes, SNIPY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,15 @@ neighbours:
 anagrams:
 - spiny
 - pyins
+definitions:
+- pos: adjective
+  defs:
+  - text: Full of or attractive to snipe.
+  - text: Long, narrow, and pointed.
+    example: The muzzle is strong and squared off, never snipy.
+  - text: Prone to sniping.
+    example: On 16 December 1878 Marian went to court to prove the will, an ordeal
+      which even the usually snipy George Simpson though she should have been spared.
 prev_word: snips
 next_word: snirt
 hubs:

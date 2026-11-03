@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FAENA a Wordle Word?
-head_title: Is FAENA a Wordle Word? Yes – Valid Guess
+head_title: Is FAENA a Wordle Word? Yes – Valid Guess & Meaning
 word: faena
 description: Yes, FAENA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ stats:
 neighbours:
 - fauna
 - frena
+phonetic: "/fɑˈeɪ.nə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A series of passes performed by a matador with a muleta or a sword before
+      the kill.
 prev_word: fados
 next_word: faery
 hubs:

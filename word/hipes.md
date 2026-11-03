@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HIPES a Wordle Word?
-head_title: Is HIPES a Wordle Word? Yes – Valid Guess
+head_title: Is HIPES a Wordle Word? Yes – Valid Guess & Meaning
 word: hipes
 description: Yes, HIPES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,15 @@ anagrams:
 trap:
   pattern: _IPES
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of hipe: A throw in which the wrestler lifts his opponent from the
+      ground, swings him to one side, knocks up his nearer thigh from the back with
+      the knee, and throws him on his back.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of hipe
 prev_word: hiper
 next_word: hiply
 hubs:

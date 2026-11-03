@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RESTY a Wordle Word?
-head_title: Is RESTY a Wordle Word? Yes – Valid Guess
+head_title: Is RESTY a Wordle Word? Yes – Valid Guess & Meaning
 word: resty
 description: Yes, RESTY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,15 @@ anagrams:
 trap:
   pattern: _ESTY
   count: 7
+definitions:
+- pos: adjective
+  defs:
+  - text: Restive, resistant to control.
+    example: In vaine the Pagan bannes, and sweares, and rayles, / And backe with
+      both his hands unto him hayles / The resty raynes […]
+  - text: Disposed to rest; inactive, lazy.
+    example: "[…] Come; our stomachs / Will make what’s homely savoury: weariness
+      / Can snore upon the flint, when resty sloth / Finds the down pillow hard."
 prev_word: rests
 next_word: resue
 hubs:

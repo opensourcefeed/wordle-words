@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HILLO a Wordle Word?
-head_title: Is HILLO a Wordle Word? Yes – Valid Guess
+head_title: Is HILLO a Wordle Word? Yes – Valid Guess & Meaning
 word: hillo
 description: Yes, HILLO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,15 @@ neighbours:
 - hills
 - hollo
 - hullo
+definitions:
+- pos: interjection
+  defs:
+  - text: 'Obsolete form of hello: A greeting (salutation) said when meeting someone
+      or acknowledging someone’s arrival or presence.'
+    example: But, hillo! here comes another questioner for you, my poor quest.
+- pos: verb
+  defs:
+  - text: To holler, shout loudly at someone
 prev_word: hilch
 next_word: hills
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MARAH a Wordle Word?
-head_title: Is MARAH a Wordle Word? Yes – Valid Guess
+head_title: Is MARAH a Wordle Word? Yes – Valid Guess & Meaning
 word: marah
 description: Yes, MARAH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,11 @@ anagrams:
 trap:
   pattern: MARA_
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A gratuity in the form of deductions from the gross produce of cultivated
+      lands, granted to a mirasidar.
 prev_word: marae
 next_word: maral
 hubs:

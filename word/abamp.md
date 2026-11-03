@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ABAMP a Wordle Word?
-head_title: Is ABAMP a Wordle Word? Yes – Valid Guess
+head_title: Is ABAMP a Wordle Word? Yes – Valid Guess & Meaning
 word: abamp
 description: Yes, ABAMP is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -19,6 +20,12 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 95
+phonetic: "/ˈæbˌæmp/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of abampere: Unit of electrical current in electromagnetic
+      and Gaussian cgs systems of units, equal to 10 amperes in SI units.'
 prev_word: abaka
 next_word: aband
 hubs:

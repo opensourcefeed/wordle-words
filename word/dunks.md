@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DUNKS a Wordle Word?
-head_title: Is DUNKS a Wordle Word? Yes – Valid Guess
+head_title: Is DUNKS a Wordle Word? Yes – Valid Guess & Meaning
 word: dunks
 description: Yes, DUNKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,15 @@ anagrams:
 trap:
   pattern: _UNKS
   count: 10
+phonetic: "/dʌŋks/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of dunk: To submerge briefly in a liquid.'
+  - text: Ziziphus mauritiana, a tropical fruit tree.
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of dunk
 prev_word: dungy
 next_word: dunno
 hubs:

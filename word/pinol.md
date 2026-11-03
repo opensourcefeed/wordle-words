@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PINOL a Wordle Word?
-head_title: Is PINOL a Wordle Word? Yes – Valid Guess
+head_title: Is PINOL a Wordle Word? Yes – Valid Guess & Meaning
 word: pinol
 description: Yes, PINOL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 - pinot
 anagrams:
 - pilon
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative form of pinole (“type of flour”).
 prev_word: pinny
 next_word: pinon
 hubs:

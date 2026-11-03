@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LOAVE a Wordle Word?
-head_title: Is LOAVE a Wordle Word? Yes – Valid Guess
+head_title: Is LOAVE a Wordle Word? Yes – Valid Guess & Meaning
 word: loave
 description: Yes, LOAVE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,13 @@ neighbours:
 anagrams:
 - laevo
 - volae
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of lofe: An offer; choice; an opportunity; chance.'
+- pos: verb
+  defs:
+  - text: 'Alternative form of lofe: An offer; choice; an opportunity; chance.'
 prev_word: loath
 next_word: lobar
 hubs:

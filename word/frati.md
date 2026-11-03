@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FRATI a Wordle Word?
-head_title: Is FRATI a Wordle Word? Yes – Valid Guess
+head_title: Is FRATI a Wordle Word? Yes – Valid Guess & Meaning
 word: frati
 description: Yes, FRATI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,10 @@ anagrams:
 - frita
 - iftar
 - trifa
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of frate: A friar.'
 prev_word: frate
 next_word: frats
 hubs:

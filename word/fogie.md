@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FOGIE a Wordle Word?
-head_title: Is FOGIE a Wordle Word? Yes – Valid Guess
+head_title: Is FOGIE a Wordle Word? Yes – Valid Guess & Meaning
 word: fogie
 description: Yes, FOGIE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,11 @@ neighbours:
 trap:
   pattern: _OGIE
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of fogey: A dull person (especially an old man) who
+      is behind the times, holding antiquated, over-conservative views.'
 prev_word: foggy
 next_word: fogle
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BARIC a Wordle Word?
-head_title: Is BARIC a Wordle Word? Yes – Valid Guess
+head_title: Is BARIC a Wordle Word? Yes – Valid Guess & Meaning
 word: baric
 description: Yes, BARIC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,13 @@ neighbours:
 - naric
 anagrams:
 - rabic
+phonetic: "/ˈbæɹɪk/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or pertaining to weight, especially to the weight or pressure of the
+      atmosphere as measured by a barometer.
+  - text: Of or pertaining to barium.
 prev_word: barge
 next_word: barks
 hubs:

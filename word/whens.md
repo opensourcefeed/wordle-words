@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WHENS a Wordle Word?
-head_title: Is WHENS a Wordle Word? Yes – Valid Guess
+head_title: Is WHENS a Wordle Word? Yes – Valid Guess & Meaning
 word: whens
 description: Yes, WHENS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 - wrens
 anagrams:
 - shewn
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of when: At what time? At which time? Upon which occasion or circumstance?
+      Used to introduce direct or indirect questions about time.'
 prev_word: whelp
 next_word: where
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TATUS a Wordle Word?
-head_title: Is TATUS a Wordle Word? Yes – Valid Guess
+head_title: Is TATUS a Wordle Word? Yes – Valid Guess & Meaning
 word: tatus
 description: Yes, TATUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,10 @@ anagrams:
 - statu
 - sutta
 - tauts
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of tatu: Archaic form of tattoo (“decorative ink design on the skin”).'
 prev_word: tatty
 next_word: taube
 hubs:

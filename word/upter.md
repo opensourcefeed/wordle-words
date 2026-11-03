@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UPTER a Wordle Word?
-head_title: Is UPTER a Wordle Word? Yes – Valid Guess
+head_title: Is UPTER a Wordle Word? Yes – Valid Guess & Meaning
 word: upter
 description: Yes, UPTER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,13 @@ anagrams:
 - erupt
 - puter
 - reput
+phonetic: "/ˈʌptə/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Useless, no good.
+    example: "‘Where's your father hiding?’ She rubbed the rough-textured skin, trying
+      to warm it. ‘If he thinks he's entertaining us, he's upter.’"
 prev_word: uptak
 next_word: uptie
 hubs:

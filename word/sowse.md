@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOWSE a Wordle Word?
-head_title: Is SOWSE a Wordle Word? Yes – Valid Guess
+head_title: Is SOWSE a Wordle Word? Yes – Valid Guess & Meaning
 word: sowse
 description: Yes, SOWSE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,15 @@ neighbours:
 trap:
   pattern: _OWSE
   count: 6
+phonetic: "/saʊs/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of souse: The pickled ears, feet, etc., of swine.'
+- pos: verb
+  defs:
+  - text: 'Obsolete spelling of souse: The pickled ears, feet, etc., of swine.'
+    example: For then I viewd his body fall and ſowſe / Into the fomy maine, […]
 prev_word: sowps
 next_word: sowth
 hubs:

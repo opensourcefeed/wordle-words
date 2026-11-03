@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TAITS a Wordle Word?
-head_title: Is TAITS a Wordle Word? Yes – Valid Guess
+head_title: Is TAITS a Wordle Word? Yes – Valid Guess & Meaning
 word: taits
 description: Yes, TAITS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,10 @@ anagrams:
 trap:
   pattern: TA_TS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of tait: The honey possum (Tarsipes rostratus).'
 prev_word: taish
 next_word: tajes
 hubs:

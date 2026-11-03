@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is CORER a Wordle Word?
-head_title: 'Is CORER a Wordle Word? Yes – Past Answer #1214'
+head_title: 'Is CORER a Wordle Word? Yes – Past Answer #1214 & Meaning'
 word: corer
 description: Yes, CORER is a valid Wordle word. It was the Wordle answer on October
-  15, 2024 (#1214). See its starter rating and similar words.
+  15, 2024 (#1214). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on October 15, 2024 (#1214).
 past_answers:
@@ -44,6 +44,12 @@ anagrams:
 trap:
   pattern: CO_ER
   count: 8
+phonetic: "/ˈkɔːɹə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A utensil for removing the core from apples and similar fruit or vegetables.
+  - text: A device used to take core samples from the earth's crust for analysis.
 prev_word: cored
 next_word: cores
 hubs:

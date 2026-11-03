@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AGGIE a Wordle Word?
-head_title: Is AGGIE a Wordle Word? Yes – Valid Guess
+head_title: Is AGGIE a Wordle Word? Yes – Valid Guess & Meaning
 word: aggie
 description: Yes, AGGIE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,21 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 39
+phonetic: "/ˈæ.ɡi/"
+definitions:
+- pos: noun
+  defs:
+  - text: Marble or a marble made of agate, or one that looks as if it were made of
+      agate.
+    example: Most of the time it went fine; some of his classmates had so many marbles
+      they could have opened up their own shop in smurfs, pirates, purple aggies and
+      pink panthers.
+  - text: An agricultural school, such as one of the state land-grant colleges.
+  - text: A student or alumnus of such a school.
+- pos: adjective
+  defs:
+  - text: 'Alternative form of aggy: Aggravating; annoying, irritating, obnoxious.'
+    example: I got aggie like a motherfucker.
 prev_word: agger
 next_word: aggri
 hubs:

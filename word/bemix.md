@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BEMIX a Wordle Word?
-head_title: Is BEMIX a Wordle Word? Yes – Valid Guess
+head_title: Is BEMIX a Wordle Word? Yes – Valid Guess & Meaning
 word: bemix
 description: Yes, BEMIX is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,12 @@ stats:
   starter_top_percent: 78
 neighbours:
 - remix
+definitions:
+- pos: verb
+  defs:
+  - text: To mix around or about; mingle.
+    example: Following a brief visit to Mannheim in January 1777 Lessing, with a heavy
+      heart, abandoned any plans to 'bemix' with its theatre.
 prev_word: bemas
 next_word: bemud
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KADAI a Wordle Word?
-head_title: Is KADAI a Wordle Word? Yes – Valid Guess
+head_title: Is KADAI a Wordle Word? Yes – Valid Guess & Meaning
 word: kadai
 description: Yes, KADAI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ stats:
 neighbours:
 - kapai
 - karai
+definitions:
+- pos: noun
+  defs:
+  - text: Synonym of karahi (“cooking vessel”).
+    example: Slice a large lemon and keep it ready. This was done. Now place that
+      large kadai on the […]
 prev_word: kacks
 next_word: kades
 hubs:

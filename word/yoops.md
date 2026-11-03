@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is YOOPS a Wordle Word?
-head_title: Is YOOPS a Wordle Word? Yes – Valid Guess
+head_title: Is YOOPS a Wordle Word? Yes – Valid Guess & Meaning
 word: yoops
 description: Yes, YOOPS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,10 @@ anagrams:
 trap:
   pattern: _OOPS
   count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of yoop: A sobbing sound.'
 prev_word: yoofs
 next_word: yopos
 hubs:

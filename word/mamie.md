@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MAMIE a Wordle Word?
-head_title: Is MAMIE a Wordle Word? Yes – Valid Guess
+head_title: Is MAMIE a Wordle Word? Yes – Valid Guess & Meaning
 word: mamie
 description: Yes, MAMIE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,14 @@ neighbours:
 - mavie
 - momie
 - ramie
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of mamey: An evergreen tree of species Mammea americana,
+      or its edible fruit.'
+  - text: 'Alternative spelling of mammy: Mamma; mother'
+    example: is there really anyone who got thru ist grade in the US without learning
+      this song? […] the goslings are crying (3x) because their mamie's dead […]
 prev_word: mamey
 next_word: mamil
 hubs:

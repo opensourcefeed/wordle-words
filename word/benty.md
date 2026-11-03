@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BENTY a Wordle Word?
-head_title: Is BENTY a Wordle Word? Yes – Valid Guess
+head_title: Is BENTY a Wordle Word? Yes – Valid Guess & Meaning
 word: benty
 description: Yes, BENTY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,13 @@ neighbours:
 - bunty
 - genty
 - tenty
+definitions:
+- pos: adjective
+  defs:
+  - text: Abounding in bents, or the stalks of coarse, stiff, withered grass.
+    example: benty fields
+  - text: Resembling bent.
+    example: The gray benty colour of the always drenched pasture.
 prev_word: bents
 next_word: bepat
 hubs:

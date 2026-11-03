@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MUIDS a Wordle Word?
-head_title: Is MUIDS a Wordle Word? Yes – Valid Guess
+head_title: Is MUIDS a Wordle Word? Yes – Valid Guess & Meaning
 word: muids
 description: Yes, MUIDS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,10 @@ neighbours:
 - munds
 - quids
 - suids
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of muid: An old French liquid measure of approximately 274.2 litres.'
 prev_word: muhly
 next_word: muils
 hubs:

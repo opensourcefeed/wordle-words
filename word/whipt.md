@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WHIPT a Wordle Word?
-head_title: Is WHIPT a Wordle Word? Yes – Valid Guess
+head_title: Is WHIPT a Wordle Word? Yes – Valid Guess & Meaning
 word: whipt
 description: Yes, WHIPT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,13 @@ neighbours:
 - whift
 - whips
 - whist
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of whip: A lash; a pliant, flexible instrument,
+      such as a rod (commonly of cane or rattan) or a plaited or braided rope or thong
+      (commonly of leather) used to create a sharp "crack" sound for directing or
+      herding animals.'
 prev_word: whips
 next_word: whirl
 hubs:

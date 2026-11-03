@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BOTTS a Wordle Word?
-head_title: Is BOTTS a Wordle Word? Yes – Valid Guess
+head_title: Is BOTTS a Wordle Word? Yes – Valid Guess & Meaning
 word: botts
 description: Yes, BOTTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,13 @@ neighbours:
 trap:
   pattern: BO_TS
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: The disease caused by the maggots of the horse bot fly when they infect
+      the stomach of a horse.
+  - text: Infection by maggots under the skin of cows, or by sheep maggots in the
+      frontal sinus of sheep.
 prev_word: botte
 next_word: botty
 hubs:

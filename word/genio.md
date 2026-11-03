@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GENIO a Wordle Word?
-head_title: Is GENIO a Wordle Word? Yes – Valid Guess
+head_title: Is GENIO a Wordle Word? Yes – Valid Guess & Meaning
 word: genio
 description: Yes, GENIO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,12 @@ neighbours:
 trap:
   pattern: GENI_
   count: 6
+phonetic: "/ˈd͡ʒiːniəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Somebody having a particular way of thinking.
+    example: Some genios which are not capable of pure affection […]
 prev_word: genin
 next_word: genip
 hubs:

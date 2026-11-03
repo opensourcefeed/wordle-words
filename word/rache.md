@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RACHE a Wordle Word?
-head_title: Is RACHE a Wordle Word? Yes – Valid Guess
+head_title: Is RACHE a Wordle Word? Yes – Valid Guess & Meaning
 word: rache
 description: Yes, RACHE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,10 @@ anagrams:
 - reach
 - acher
 - chare
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of rach: A dog that hunts by scent.'
 prev_word: races
 next_word: racks
 hubs:

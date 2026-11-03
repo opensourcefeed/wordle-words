@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NIKAB a Wordle Word?
-head_title: Is NIKAB a Wordle Word? Yes – Valid Guess
+head_title: Is NIKAB a Wordle Word? Yes – Valid Guess & Meaning
 word: nikab
 description: Yes, NIKAB is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,11 @@ neighbours:
 - nikah
 - nikau
 - niqab
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of niqab: A veil which covers the face (except for
+      the eyes), worn by some Muslim women as a part of sartorial hijab.'
 prev_word: nihil
 next_word: nikah
 hubs:

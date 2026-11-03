@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ZUPAS a Wordle Word?
-head_title: Is ZUPAS a Wordle Word? Yes – Valid Guess
+head_title: Is ZUPAS a Wordle Word? Yes – Valid Guess & Meaning
 word: zupas
 description: Yes, ZUPAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ neighbours:
 - oupas
 - pupas
 - zupan
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of zupa: An administrative unit among various South Slavic peoples.'
 prev_word: zupan
 next_word: zuppa
 hubs:

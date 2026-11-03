@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PRIMA a Wordle Word?
-head_title: Is PRIMA a Wordle Word? Yes – Valid Guess
+head_title: Is PRIMA a Wordle Word? Yes – Valid Guess & Meaning
 word: prima
 description: Yes, PRIMA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,14 @@ neighbours:
 trap:
   pattern: PRIM_
   count: 7
+phonetic: "/ˈpɹiː.mə/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Most important
+- pos: noun
+  defs:
+  - text: Short for prima ballerina.
 prev_word: prill
 next_word: prime
 hubs:

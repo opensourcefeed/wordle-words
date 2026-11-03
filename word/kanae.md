@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KANAE a Wordle Word?
-head_title: Is KANAE a Wordle Word? Yes – Valid Guess
+head_title: Is KANAE a Wordle Word? Yes – Valid Guess & Meaning
 word: kanae
 description: Yes, KANAE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ neighbours:
 - kanal
 - kanas
 - kanat
+definitions:
+- pos: noun
+  defs:
+  - text: A grey mullet.
 prev_word: kamme
 next_word: kanal
 hubs:

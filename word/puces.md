@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PUCES a Wordle Word?
-head_title: Is PUCES a Wordle Word? Yes – Valid Guess
+head_title: Is PUCES a Wordle Word? Yes – Valid Guess & Meaning
 word: puces
 description: Yes, PUCES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,11 @@ neighbours:
 trap:
   pattern: PU_ES
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of puce: A brownish-purple color, sometimes more or less deep red
+      or grayish.'
 prev_word: pucer
 next_word: pucka
 hubs:

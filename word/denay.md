@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DENAY a Wordle Word?
-head_title: Is DENAY a Wordle Word? Yes – Valid Guess
+head_title: Is DENAY a Wordle Word? Yes – Valid Guess & Meaning
 word: denay
 description: Yes, DENAY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,18 @@ neighbours:
 - denar
 - deray
 - renay
+definitions:
+- pos: noun
+  defs:
+  - text: Denial; refusal
+    example: |-
+      Forget not yet the gret aſſays
+      the cruell wrong the ſkornfull ways
+      the paynfull pacyence in denays […]
+- pos: verb
+  defs:
+  - text: To deny, refuse.
+    example: That with great rage he stoutly doth denay.
 prev_word: denar
 next_word: dench
 hubs:

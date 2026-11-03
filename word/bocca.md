@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BOCCA a Wordle Word?
-head_title: Is BOCCA a Wordle Word? Yes – Valid Guess
+head_title: Is BOCCA a Wordle Word? Yes – Valid Guess & Meaning
 word: bocca
 description: Yes, BOCCA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,14 @@ neighbours:
 anagrams:
 - bacco
 - caboc
+phonetic: "/ˈbɒkə/"
+definitions:
+- pos: noun
+  defs:
+  - text: The round hole in the furnace of a glassworks through which the fused glass
+      is taken out.
+    example: The second partition divides this from the leer or annealing furnace;
+      through the boccas, or working holes,
 prev_word: bobos
 next_word: bocce
 hubs:

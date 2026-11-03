@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SUONA a Wordle Word?
-head_title: Is SUONA a Wordle Word? Yes – Valid Guess
+head_title: Is SUONA a Wordle Word? Yes – Valid Guess & Meaning
 word: suona
 description: Yes, SUONA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,12 @@ stats:
   starter_top_percent: 20
 neighbours:
 - sunna
+phonetic: "/swoʊˈnɑː/"
+definitions:
+- pos: noun
+  defs:
+  - text: A traditional Chinese double-reeded horn with a distinctively loud and high-pitched
+      sound.
 prev_word: sunup
 next_word: suped
 hubs:

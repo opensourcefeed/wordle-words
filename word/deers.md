@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DEERS a Wordle Word?
-head_title: Is DEERS a Wordle Word? Yes – Valid Guess
+head_title: Is DEERS a Wordle Word? Yes – Valid Guess & Meaning
 word: deers
 description: Yes, DEERS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -44,6 +45,13 @@ anagrams:
 trap:
   pattern: _EERS
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of deer: A ruminant mammal with hooves and often antlers, of the
+      family Cervidae, or one of several similar animals from related families of
+      the order Artiodactyla, such as the musk deer or mouse deer.'
+    example: '"Tris is sure to shirr the deers out"'
 prev_word: deere
 next_word: deets
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FLITE a Wordle Word?
-head_title: Is FLITE a Wordle Word? Yes – Valid Guess
+head_title: Is FLITE a Wordle Word? Yes – Valid Guess & Meaning
 word: flite
 description: Yes, FLITE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,16 @@ neighbours:
 - frite
 anagrams:
 - filet
+definitions:
+- pos: noun
+  defs:
+  - text: A quarrel, dispute, wrangling.
+  - text: A scolding.
+- pos: verb
+  defs:
+  - text: To dispute, quarrel, wrangle, brawl.
+  - text: To scold, jeer.
+  - text: To make or utter complaint.
 prev_word: flisk
 next_word: flits
 hubs:

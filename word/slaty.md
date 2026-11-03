@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SLATY a Wordle Word?
-head_title: Is SLATY a Wordle Word? Yes – Valid Guess
+head_title: Is SLATY a Wordle Word? Yes – Valid Guess & Meaning
 word: slaty
 description: Yes, SLATY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,14 @@ neighbours:
 - slats
 anagrams:
 - salty
+phonetic: "/ˈsleɪti/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling the rock slate.
+  - text: Of a light grey colour as slate.
+    example: But snow had now begun to fall out of a forbiddingly slaty-grey sky,
+      and this seemed to depress both engine and crew.
 prev_word: slats
 next_word: slave
 hubs:

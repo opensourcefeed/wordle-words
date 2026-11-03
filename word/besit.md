@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BESIT a Wordle Word?
-head_title: Is BESIT a Wordle Word? Yes – Valid Guess
+head_title: Is BESIT a Wordle Word? Yes – Valid Guess & Meaning
 word: besit
 description: Yes, BESIT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,16 @@ neighbours:
 anagrams:
 - besti
 - bites
+definitions:
+- pos: verb
+  defs:
+  - text: To sit around; sit about; besiege.
+    example: When not deep in thought, his blue eyes dance. I feel sometimes that
+      behind his thoughtful gaze besits a hint of strain.
+  - text: To sit upon; occupy.
+    example: In such contexts, the ישבים are those who “besit” large estates and seats
+      of judgment and power. The ישב par excellence is the king who “besits” the throne.
+  - text: To sit properly upon, as clothes; to suit; become.
 prev_word: beset
 next_word: besom
 hubs:

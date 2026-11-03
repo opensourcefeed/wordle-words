@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HAHAS a Wordle Word?
-head_title: Is HAHAS a Wordle Word? Yes – Valid Guess
+head_title: Is HAHAS a Wordle Word? Yes – Valid Guess & Meaning
 word: hahas
 description: Yes, HAHAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 - hakas
 - hapas
 - tahas
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of haha: An onomatopoeic representation of laughter.'
 prev_word: haham
 next_word: haick
 hubs:

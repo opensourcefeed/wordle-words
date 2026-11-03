@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MUGIL a Wordle Word?
-head_title: Is MUGIL a Wordle Word? Yes – Valid Guess
+head_title: Is MUGIL a Wordle Word? Yes – Valid Guess & Meaning
 word: mugil
 description: Yes, MUGIL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,10 @@ stats:
   starter_top_percent: 76
 neighbours:
 - pugil
+definitions:
+- pos: noun
+  defs:
+  - text: Any fish of the genus Mugil of mugilid mullets.
 prev_word: mugho
 next_word: mugos
 hubs:

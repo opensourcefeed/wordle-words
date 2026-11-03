@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NERTZ a Wordle Word?
-head_title: Is NERTZ a Wordle Word? Yes – Valid Guess
+head_title: Is NERTZ a Wordle Word? Yes – Valid Guess & Meaning
 word: nertz
 description: Yes, NERTZ is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,17 @@ neighbours:
 - hertz
 - nerts
 - nurtz
+definitions:
+- pos: adjective
+  defs:
+  - text: Nuts.
+  - text: Nonsense.
+- pos: noun
+  defs:
+  - text: Alternative form of nerts (“card game”).
+- pos: interjection
+  defs:
+  - text: 'Alternative form of nerts: Crazy; nuts.'
 prev_word: nerts
 next_word: nerve
 hubs:

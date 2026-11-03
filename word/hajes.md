@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HAJES a Wordle Word?
-head_title: Is HAJES a Wordle Word? Yes – Valid Guess
+head_title: Is HAJES a Wordle Word? Yes – Valid Guess & Meaning
 word: hajes
 description: Yes, HAJES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,10 @@ neighbours:
 trap:
   pattern: HA_ES
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: Plural of haj
 prev_word: haith
 next_word: hajis
 hubs:

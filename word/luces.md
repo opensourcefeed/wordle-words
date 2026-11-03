@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LUCES a Wordle Word?
-head_title: Is LUCES a Wordle Word? Yes – Valid Guess
+head_title: Is LUCES a Wordle Word? Yes – Valid Guess & Meaning
 word: luces
 description: Yes, LUCES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,12 @@ anagrams:
 trap:
   pattern: LU_ES
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of luce: The pike, Esox lucius, when fully grown.'
+  - text: 'Plural of lux: In the International System of Units, the derived unit of
+      illuminance or illumination; one lumen per square metre. Symbol: lx'
 prev_word: lubra
 next_word: lucid
 hubs:

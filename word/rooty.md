@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ROOTY a Wordle Word?
-head_title: Is ROOTY a Wordle Word? Yes – Valid Guess
+head_title: Is ROOTY a Wordle Word? Yes – Valid Guess & Meaning
 word: rooty
 description: Yes, ROOTY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,14 @@ neighbours:
 trap:
   pattern: _OOTY
   count: 8
+definitions:
+- pos: adjective
+  defs:
+  - text: Full of roots.
+    example: Disk plows also are better suited to rough, stony, and rooty ground because
+      the disks ride over the obstructions.
+  - text: Resembling or characteristic of roots.
+    example: The vegetable stew had an earthy, rooty flavour.
 prev_word: roots
 next_word: roped
 hubs:

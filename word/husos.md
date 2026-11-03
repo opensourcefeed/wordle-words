@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HUSOS a Wordle Word?
-head_title: Is HUSOS a Wordle Word? Yes – Valid Guess
+head_title: Is HUSOS a Wordle Word? Yes – Valid Guess & Meaning
 word: husos
 description: Yes, HUSOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,11 @@ stats:
 neighbours:
 - husks
 - musos
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of huso: A large European sturgeon (Huso huso), inhabiting the Black
+      Sea and Caspian Sea; the beluga.'
 prev_word: husky
 next_word: hussy
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WOOTZ a Wordle Word?
-head_title: Is WOOTZ a Wordle Word? Yes – Valid Guess
+head_title: Is WOOTZ a Wordle Word? Yes – Valid Guess & Meaning
 word: wootz
 description: Yes, WOOTZ is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -21,6 +22,13 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 99
+phonetic: "/wuːts/"
+definitions:
+- pos: noun
+  defs:
+  - text: A type of steel from India, much admired for making sword blades.
+    example: The celebrated wootz or steel of India, made in little cakes of only
+      about two pounds weight, possesses qualities which no European steel can surpass.
 prev_word: woosh
 next_word: woozy
 hubs:

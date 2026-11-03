@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ROTTA a Wordle Word?
-head_title: Is ROTTA a Wordle Word? Yes – Valid Guess
+head_title: Is ROTTA a Wordle Word? Yes – Valid Guess & Meaning
 word: rotta
 description: Yes, ROTTA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,12 @@ anagrams:
 - ottar
 - torta
 - troat
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of rota: A schedule that allocates some task, responsibility
+      or (rarely) privilege between a set of people according to a (possibly periodic)
+      calendar.'
 prev_word: rotos
 next_word: rotte
 hubs:

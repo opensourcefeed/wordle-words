@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HOOKA a Wordle Word?
-head_title: Is HOOKA a Wordle Word? Yes – Valid Guess
+head_title: Is HOOKA a Wordle Word? Yes – Valid Guess & Meaning
 word: hooka
 description: Yes, HOOKA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 - hooks
 - hooky
 - pooka
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of hookah: A pipe with a long flexible tube that draws
+      the smoke through water, traditionally used for smoking tobacco, which is often
+      flavored.'
 prev_word: hooha
 next_word: hooks
 hubs:

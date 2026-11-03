@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DAZER a Wordle Word?
-head_title: Is DAZER a Wordle Word? Yes – Valid Guess
+head_title: Is DAZER a Wordle Word? Yes – Valid Guess & Meaning
 word: dazer
 description: Yes, DAZER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,10 @@ neighbours:
 anagrams:
 - razed
 - zerda
+definitions:
+- pos: noun
+  defs:
+  - text: Something that causes someone to go into a daze.
 prev_word: dazed
 next_word: dazes
 hubs:

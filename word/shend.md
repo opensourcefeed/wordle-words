@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SHEND a Wordle Word?
-head_title: Is SHEND a Wordle Word? Yes – Valid Guess
+head_title: Is SHEND a Wordle Word? Yes – Valid Guess & Meaning
 word: shend
 description: Yes, SHEND is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,19 @@ neighbours:
 - stend
 anagrams:
 - hends
+phonetic: "/ʃɛnd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To disgrace or put to shame.
+    example: |-
+      Her fawning love with foule disdainefull spight
+      He would not shend
+  - text: To blame.
+  - text: To destroy; to spoil.
+    example: Go see their fleet and arms, their manner view / of moulded metal, ready
+      all to shend[.]
+  - text: To overpower; to surpass.
 prev_word: shell
 next_word: sheng
 hubs:

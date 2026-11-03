@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NABLA a Wordle Word?
-head_title: Is NABLA a Wordle Word? Yes – Valid Guess
+head_title: Is NABLA a Wordle Word? Yes – Valid Guess & Meaning
 word: nabla
 description: Yes, NABLA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,11 @@ neighbours:
 - tabla
 anagrams:
 - banal
+definitions:
+- pos: noun
+  defs:
+  - text: A Hebrew stringed instrument.
+  - text: The symbol ∇, used to denote the gradient operator.
 prev_word: nabks
 next_word: nabob
 hubs:

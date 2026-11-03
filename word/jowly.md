@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is JOWLY a Wordle Word?
-head_title: Is JOWLY a Wordle Word? Yes – Valid Guess
+head_title: Is JOWLY a Wordle Word? Yes – Valid Guess & Meaning
 word: jowly
 description: Yes, JOWLY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,14 @@ neighbours:
 - lowly
 - dowly
 - jowls
+phonetic: "/ˈd͡ʒaʊli/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having conspicuous jowls; with a double chin.
+    example: "[…] his strong jaw renders the face indeed “jowly” rather than oval,
+      consequently the expression is normally hard, though open and not ill-humoured,
+      whilst the smile which comes out of it is pleasant."
 prev_word: jowls
 next_word: joyed
 hubs:

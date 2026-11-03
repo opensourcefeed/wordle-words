@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is POYNT a Wordle Word?
-head_title: Is POYNT a Wordle Word? Yes – Valid Guess
+head_title: Is POYNT a Wordle Word? Yes – Valid Guess & Meaning
 word: poynt
 description: Yes, POYNT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,16 @@ neighbours:
 - point
 anagrams:
 - ponty
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of point: Something tiny, as a pinprick; a very small mark.'
+    example: |-
+      Which over Severne heere they in the Mountaines shut,
+      And some upon that poynt of Cornwall forth they put.
+- pos: verb
+  defs:
+  - text: 'Obsolete form of point: Something tiny, as a pinprick; a very small mark.'
 prev_word: poyas
 next_word: poyou
 hubs:

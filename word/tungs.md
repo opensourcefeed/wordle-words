@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TUNGS a Wordle Word?
-head_title: Is TUNGS a Wordle Word? Yes – Valid Guess
+head_title: Is TUNGS a Wordle Word? Yes – Valid Guess & Meaning
 word: tungs
 description: Yes, TUNGS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,11 @@ anagrams:
 trap:
   pattern: _UNGS
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of tung: Obsolete spelling of tongue, both as language and as part
+      of the body.'
 prev_word: tunes
 next_word: tunic
 hubs:

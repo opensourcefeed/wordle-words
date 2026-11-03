@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MESYL a Wordle Word?
-head_title: Is MESYL a Wordle Word? Yes – Valid Guess
+head_title: Is MESYL a Wordle Word? Yes – Valid Guess & Meaning
 word: mesyl
 description: Yes, MESYL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,15 @@ anagrams:
 - lymes
 - yelms
 - ylems
+phonetic: "/ˈmiː.sʌɪl/"
+definitions:
+- pos: noun
+  defs:
+  - text: The univalent radical CH₃SO₂– of methanesulfonic acid.
+  - text: Obsolete form of mesel, in its various senses.
+- pos: adjective
+  defs:
+  - text: Obsolete form of mesel, in its various senses.
 prev_word: mesto
 next_word: metal
 hubs:

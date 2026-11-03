@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOTTO a Wordle Word?
-head_title: Is SOTTO a Wordle Word? Yes – Valid Guess
+head_title: Is SOTTO a Wordle Word? Yes – Valid Guess & Meaning
 word: sotto
 description: Yes, SOTTO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,19 @@ neighbours:
 anagrams:
 - ottos
 - toots
+phonetic: "/ˈsəʊtəʊ/"
+definitions:
+- pos: adverb
+  defs:
+  - text: Ellipsis of sotto voce.
+    example: Jimi’s guitar plays flat against the major chord, giving a strange, almost
+      discordant effect. Mitch on drums is behind the bass sotto.
+- pos: adjective
+  defs:
+  - text: Ellipsis of sotto voce.
+    example: Playing against the effect, Wood plays single sotto lines with a variation
+      on the key that sustains a minor mode against the finely tuned feedback effects
+      stroked in pinks against the upper canvas.
 prev_word: sotol
 next_word: souce
 hubs:

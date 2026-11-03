@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NOULD a Wordle Word?
-head_title: Is NOULD a Wordle Word? Yes – Valid Guess
+head_title: Is NOULD a Wordle Word? Yes – Valid Guess & Meaning
 word: nould
 description: Yes, NOULD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 anagrams:
 - lound
 - unold
+definitions:
+- pos: verb
+  defs:
+  - text: Would not.
+    example: Yet n'ould she stent / Her bitter railing and foule revilement.
 prev_word: nouja
 next_word: noule
 hubs:

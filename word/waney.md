@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WANEY a Wordle Word?
-head_title: Is WANEY a Wordle Word? Yes – Valid Guess
+head_title: Is WANEY a Wordle Word? Yes – Valid Guess & Meaning
 word: waney
 description: Yes, WANEY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,16 @@ neighbours:
 - wanty
 - wavey
 - winey
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Alternative spelling of wany: Waning or diminished in some parts; not of
+      uniform size throughout; said especially of sawed boards or timber cut too near
+      the outside of the log.'
+- pos: noun
+  defs:
+  - text: A sharp or unevenly sawn board, cut from a log not perfectly squared, or
+      that is made in the process of squaring.
 prev_word: wanes
 next_word: wangs
 hubs:

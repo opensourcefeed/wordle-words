@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BASON a Wordle Word?
-head_title: Is BASON a Wordle Word? Yes – Valid Guess
+head_title: Is BASON a Wordle Word? Yes – Valid Guess & Meaning
 word: bason
 description: Yes, BASON is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,13 @@ neighbours:
 - nason
 anagrams:
 - baons
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of basin: A wide bowl for washing, sometimes affixed to
+      a wall.'
+    example: To proceed therefore, put a looking-glass into a bason of water; I suppose
+      you shall not see the image in a right line, or at equal angles, but aside.
 prev_word: basks
 next_word: basse
 hubs:

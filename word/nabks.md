@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NABKS a Wordle Word?
-head_title: Is NABKS a Wordle Word? Yes – Valid Guess
+head_title: Is NABKS a Wordle Word? Yes – Valid Guess & Meaning
 word: nabks
 description: Yes, NABKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 - narks
 anagrams:
 - banks
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of nabk: Either of two thorny shrublike trees, of the genus Ziziphus,
+      from North Africa and the Middle East; Ziziphus spina-christi is supposed to
+      be the plant from which Christ''s crown of thorns was made.'
 prev_word: nabis
 next_word: nabla
 hubs:

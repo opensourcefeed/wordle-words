@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MBILA a Wordle Word?
-head_title: Is MBILA a Wordle Word? Yes – Valid Guess
+head_title: Is MBILA a Wordle Word? Yes – Valid Guess & Meaning
 word: mbila
 description: Yes, MBILA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,12 @@ neighbours:
 - mbira
 anagrams:
 - limba
+definitions:
+- pos: noun
+  defs:
+  - text: In Southern Africa, an instrument similar to the xylophone, played by striking
+      the bars with mallets.
+  - text: The mbira or thumb piano.
 prev_word: mbars
 next_word: mbira
 hubs:

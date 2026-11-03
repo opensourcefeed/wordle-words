@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KINGY a Wordle Word?
-head_title: Is KINGY a Wordle Word? Yes – Valid Guess
+head_title: Is KINGY a Wordle Word? Yes – Valid Guess & Meaning
 word: kingy
 description: Yes, KINGY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,13 @@ neighbours:
 trap:
   pattern: _INGY
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: The kingfisher, Alcedo atthis.
+  - text: A term of address for a king.
+    example: “What's the scare here, kingy," I asked. “What gives?” "You can tell
+      him, sire,” Wanda said. "He's good magic.”
 prev_word: kings
 next_word: kinin
 hubs:

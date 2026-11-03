@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOWTH a Wordle Word?
-head_title: Is SOWTH a Wordle Word? Yes – Valid Guess
+head_title: Is SOWTH a Wordle Word? Yes – Valid Guess & Meaning
 word: sowth
 description: Yes, SOWTH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,11 @@ neighbours:
 - fowth
 - lowth
 - rowth
+definitions:
+- pos: verb
+  defs:
+  - text: To hum or whistle a low tone
+    example: we'll sit an' sowth a tune (Robert Burns)
 prev_word: sowse
 next_word: soxes
 hubs:

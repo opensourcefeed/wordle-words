@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SCRAW a Wordle Word?
-head_title: Is SCRAW a Wordle Word? Yes – Valid Guess
+head_title: Is SCRAW a Wordle Word? Yes – Valid Guess & Meaning
 word: scraw
 description: Yes, SCRAW is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,12 @@ anagrams:
 trap:
   pattern: SCRA_
   count: 9
+phonetic: "/skɹɔː/"
+definitions:
+- pos: noun
+  defs:
+  - text: A sod of grass-grown turf from the surface of a bog or from a field.
+  - text: Such a turf covering the roof of a cottage beneath the thatch.
 prev_word: scrat
 next_word: scray
 hubs:

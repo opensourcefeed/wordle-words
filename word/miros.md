@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MIROS a Wordle Word?
-head_title: Is MIROS a Wordle Word? Yes – Valid Guess
+head_title: Is MIROS a Wordle Word? Yes – Valid Guess & Meaning
 word: miros
 description: Yes, MIROS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,12 @@ neighbours:
 trap:
   pattern: MI_OS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of miro: A large conifer of New Zealand, Pectinopitys ferruginea
+      (syn. Prumnopitys ferruginea), with narrow leaves and reddish fruit; the wood
+      of this tree.'
 prev_word: mirly
 next_word: mirrl
 hubs:

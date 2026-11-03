@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CASCO a Wordle Word?
-head_title: Is CASCO a Wordle Word? Yes – Valid Guess
+head_title: Is CASCO a Wordle Word? Yes – Valid Guess & Meaning
 word: casco
 description: Yes, CASCO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,11 @@ neighbours:
 - cisco
 anagrams:
 - cocas
+definitions:
+- pos: noun
+  defs:
+  - text: A flat-bottomed, square-ended boat once used in the Philippines as a lighter
+      to ferry goods between ship and shore
 prev_word: casas
 next_word: cased
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AGAST a Wordle Word?
-head_title: Is AGAST a Wordle Word? Yes – Valid Guess
+head_title: Is AGAST a Wordle Word? Yes – Valid Guess & Meaning
 word: agast
 description: Yes, AGAST is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,11 @@ neighbours:
 - agasp
 - agist
 - avast
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Obsolete spelling of aghast: Terrified; struck with amazement; showing
+      signs of terror or horror.'
 prev_word: agasp
 next_word: agate
 hubs:

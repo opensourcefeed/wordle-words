@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TREMA a Wordle Word?
-head_title: Is TREMA a Wordle Word? Yes – Valid Guess
+head_title: Is TREMA a Wordle Word? Yes – Valid Guess & Meaning
 word: trema
 description: Yes, TREMA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,12 @@ anagrams:
 - mater
 - ramet
 - retam
+phonetic: "/ˈtɹiː.mə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A diacritic consisting of two dots ( ¨ ) placed over a letter, used among
+      other things to indicate umlaut or diaeresis.
 prev_word: treks
 next_word: trems
 hubs:

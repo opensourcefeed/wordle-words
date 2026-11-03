@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MUDAR a Wordle Word?
-head_title: Is MUDAR a Wordle Word? Yes – Valid Guess
+head_title: Is MUDAR a Wordle Word? Yes – Valid Guess & Meaning
 word: mudar
 description: Yes, MUDAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - musar
 anagrams:
 - mudra
+definitions:
+- pos: noun
+  defs:
+  - text: Calotropis gigantea (crown flower, giant milkweed)
+  - text: Calotropis procera (apple of Sodom)
 prev_word: mucus
 next_word: muddy
 hubs:

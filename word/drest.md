@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DREST a Wordle Word?
-head_title: Is DREST a Wordle Word? Yes – Valid Guess
+head_title: Is DREST a Wordle Word? Yes – Valid Guess & Meaning
 word: drest
 description: Yes, DREST is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,12 @@ neighbours:
 - drent
 - prest
 - trest
+definitions:
+- pos: verb
+  defs:
+  - text: Obsolete form of dressed; simple past and past participle of dress.
+    example: No arboret with painted blossomes drest, / And smelling sweet, but there
+      it might be found […]
 prev_word: dress
 next_word: dreys
 hubs:

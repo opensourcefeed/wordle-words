@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KITAB a Wordle Word?
-head_title: Is KITAB a Wordle Word? Yes – Valid Guess
+head_title: Is KITAB a Wordle Word? Yes – Valid Guess & Meaning
 word: kitab
 description: Yes, KITAB is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,13 @@ stats:
   starter_top_percent: 55
 anagrams:
 - batik
+definitions:
+- pos: noun
+  defs:
+  - text: An Islamic book.
+    example: "[…] mystical works were virtually absent from the curriculum in the
+      late nineteenth century, and the stress was on kitabs of Islamic law and Arabic
+      grammar."
 prev_word: kists
 next_word: kited
 hubs:

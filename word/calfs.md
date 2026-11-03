@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CALFS a Wordle Word?
-head_title: Is CALFS a Wordle Word? Yes – Valid Guess
+head_title: Is CALFS a Wordle Word? Yes – Valid Guess & Meaning
 word: calfs
 description: Yes, CALFS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,11 @@ neighbours:
 trap:
   pattern: CAL_S
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of calf: A young cow or bull of any bovid, such as domestic cattle
+      or buffalo.'
 prev_word: cakey
 next_word: calid
 hubs:

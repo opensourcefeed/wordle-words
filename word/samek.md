@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SAMEK a Wordle Word?
-head_title: Is SAMEK a Wordle Word? Yes – Valid Guess
+head_title: Is SAMEK a Wordle Word? Yes – Valid Guess & Meaning
 word: samek
 description: Yes, SAMEK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,11 @@ anagrams:
 - kasme
 - makes
 - meaks
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of samekh: The 15th letter of many Semitic alphabets/abjads
+      (Phoenician. Aramaic. Hebrew. Syriac. And many others).'
 prev_word: samba
 next_word: samel
 hubs:

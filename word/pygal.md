@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PYGAL a Wordle Word?
-head_title: Is PYGAL a Wordle Word? Yes – Valid Guess
+head_title: Is PYGAL a Wordle Word? Yes – Valid Guess & Meaning
 word: pygal
 description: Yes, PYGAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,15 @@ stats:
 neighbours:
 - pyral
 - zygal
+definitions:
+- pos: adjective
+  defs:
+  - text: Situated in the region of the rump, or rear end of the backbone; applied
+      especially to the posterior median plates in the carapace of chelonians.
+    example: pygal lobe
+- pos: noun
+  defs:
+  - text: The posterior median or supracaudal plate of a chelonian carapace.
 prev_word: pyets
 next_word: pygmy
 hubs:

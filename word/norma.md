@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NORMA a Wordle Word?
-head_title: Is NORMA a Wordle Word? Yes – Valid Guess
+head_title: Is NORMA a Wordle Word? Yes – Valid Guess & Meaning
 word: norma
 description: Yes, NORMA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,12 @@ anagrams:
 - morna
 - ramon
 - roman
+definitions:
+- pos: noun
+  defs:
+  - text: A norm.
+  - text: A template.
+  - text: A square for measuring right angles.
 prev_word: norks
 next_word: norms
 hubs:

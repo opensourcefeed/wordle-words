@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REDIG a Wordle Word?
-head_title: Is REDIG a Wordle Word? Yes – Valid Guess
+head_title: Is REDIG a Wordle Word? Yes – Valid Guess & Meaning
 word: redig
 description: Yes, REDIG is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,12 @@ anagrams:
 - ridge
 - derig
 - gride
+phonetic: "/ɹiːˈdɪɡ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To dig again.
+    example: I say to you, dig, redig; do, redo! Go for it all over again!
 prev_word: redif
 next_word: redip
 hubs:

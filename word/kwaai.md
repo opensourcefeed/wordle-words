@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KWAAI a Wordle Word?
-head_title: Is KWAAI a Wordle Word? Yes – Valid Guess
+head_title: Is KWAAI a Wordle Word? Yes – Valid Guess & Meaning
 word: kwaai
 description: Yes, KWAAI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -21,6 +22,11 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 92
+definitions:
+- pos: adjective
+  defs:
+  - text: Bad-tempered, aggressive, fierce
+  - text: A term of approval, equivalent to great or fantastic; cool; excellent
 prev_word: kvell
 next_word: kwela
 hubs:

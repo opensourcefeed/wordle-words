@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DURAS a Wordle Word?
-head_title: Is DURAS a Wordle Word? Yes – Valid Guess
+head_title: Is DURAS a Wordle Word? Yes – Valid Guess & Meaning
 word: duras
 description: Yes, DURAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,10 @@ anagrams:
 - daurs
 - duars
 - rudas
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of dura: Ellipsis of dura mater.'
 prev_word: dural
 next_word: dured
 hubs:

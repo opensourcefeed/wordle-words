@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MOTTS a Wordle Word?
-head_title: Is MOTTS a Wordle Word? Yes – Valid Guess
+head_title: Is MOTTS a Wordle Word? Yes – Valid Guess & Meaning
 word: motts
 description: Yes, MOTTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,11 @@ neighbours:
 trap:
   pattern: MO_TS
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of mott: A copse or small grove of trees, especially live oak or
+      elm.'
 prev_word: motto
 next_word: motty
 hubs:

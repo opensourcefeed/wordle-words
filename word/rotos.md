@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ROTOS a Wordle Word?
-head_title: Is ROTOS a Wordle Word? Yes – Valid Guess
+head_title: Is ROTOS a Wordle Word? Yes – Valid Guess & Meaning
 word: rotos
 description: Yes, ROTOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,13 @@ anagrams:
 - roots
 - stoor
 - toros
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of roto: Clipping of rotisserie baseball.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of roto
 prev_word: rotor
 next_word: rotta
 hubs:

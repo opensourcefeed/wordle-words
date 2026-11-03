@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SKIVY a Wordle Word?
-head_title: Is SKIVY a Wordle Word? Yes – Valid Guess
+head_title: Is SKIVY a Wordle Word? Yes – Valid Guess & Meaning
 word: skivy
 description: Yes, SKIVY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,11 @@ neighbours:
 - skiey
 - skive
 - stivy
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of skivvy: A female domestic servant, especially one employed
+      for menial work.'
 prev_word: skive
 next_word: sklim
 hubs:

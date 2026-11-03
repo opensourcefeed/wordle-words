@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BASEN a Wordle Word?
-head_title: Is BASEN a Wordle Word? Yes – Valid Guess
+head_title: Is BASEN a Wordle Word? Yes – Valid Guess & Meaning
 word: basen
 description: Yes, BASEN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,13 @@ anagrams:
 - banes
 - beans
 - nabes
+definitions:
+- pos: verb
+  defs:
+  - text: To make or become base (inferior or unworthy); to lower
+    example: If I had time I should write a long essay to show how much the political,
+      and the ethical, and the theological teaching of the early Friends has basened
+      that of modern England.
 prev_word: based
 next_word: baser
 hubs:

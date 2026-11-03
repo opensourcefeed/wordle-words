@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is EIKON a Wordle Word?
-head_title: Is EIKON a Wordle Word? Yes – Valid Guess
+head_title: Is EIKON a Wordle Word? Yes – Valid Guess & Meaning
 word: eikon
 description: Yes, EIKON is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 anagrams:
 - enoki
 - koine
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative spelling of icon (“religious image”).
+    example: Not like the eikons of other gods were those of Zo-Kalar and Tamash and
+      Lobon. For so close to life were they that one might swear the graceful bearded
+      gods themselves sate on the ivory thrones.
 prev_word: eiked
 next_word: eilds
 hubs:

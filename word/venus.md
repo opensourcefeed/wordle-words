@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is VENUS a Wordle Word?
-head_title: Is VENUS a Wordle Word? Yes – Valid Guess
+head_title: Is VENUS a Wordle Word? Yes – Valid Guess & Meaning
 word: venus
 description: Yes, VENUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 - vents
 anagrams:
 - nevus
+phonetic: "/ˈviːnəs/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of the bivalve molluscs in the genus Venus or family Veneridae.
 prev_word: venue
 next_word: verba
 hubs:

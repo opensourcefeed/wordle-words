@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ROHUS a Wordle Word?
-head_title: Is ROHUS a Wordle Word? Yes – Valid Guess
+head_title: Is ROHUS a Wordle Word? Yes – Valid Guess & Meaning
 word: rohus
 description: Yes, ROHUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 anagrams:
 - hours
 - sohur
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of rohu: A freshwater fish, Labeo rohita, of the carp family, found
+      throughout Asia.'
 prev_word: rohun
 next_word: roids
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REEDE a Wordle Word?
-head_title: Is REEDE a Wordle Word? Yes – Valid Guess
+head_title: Is REEDE a Wordle Word? Yes – Valid Guess & Meaning
 word: reede
 description: Yes, REEDE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - reeze
 anagrams:
 - deere
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of reed: Any of various types of tall stiff perennial grass-like
+      plants growing together in groups near water.'
 prev_word: reech
 next_word: reeds
 hubs:

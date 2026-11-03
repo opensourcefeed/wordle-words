@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RERIG a Wordle Word?
-head_title: Is RERIG a Wordle Word? Yes – Valid Guess
+head_title: Is RERIG a Wordle Word? Yes – Valid Guess & Meaning
 word: rerig
 description: Yes, RERIG is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,10 @@ neighbours:
 - redig
 - rejig
 - renig
+definitions:
+- pos: verb
+  defs:
+  - text: To rig again; to outfit (a ship) with new rigging.
 prev_word: reran
 next_word: rerun
 hubs:

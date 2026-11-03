@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FLIMP a Wordle Word?
-head_title: Is FLIMP a Wordle Word? Yes – Valid Guess
+head_title: Is FLIMP a Wordle Word? Yes – Valid Guess & Meaning
 word: flimp
 description: Yes, FLIMP is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,11 @@ neighbours:
 - blimp
 - flims
 - flump
+definitions:
+- pos: verb
+  defs:
+  - text: To steal; to commit petty theft.
+    example: Not worth flimping, eh?
 prev_word: flies
 next_word: flims
 hubs:

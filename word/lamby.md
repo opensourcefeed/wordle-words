@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LAMBY a Wordle Word?
-head_title: Is LAMBY a Wordle Word? Yes – Valid Guess
+head_title: Is LAMBY a Wordle Word? Yes – Valid Guess & Meaning
 word: lamby
 description: Yes, LAMBY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,16 @@ neighbours:
 - pamby
 anagrams:
 - balmy
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling or characteristic of a lamb or the meat of a lamb.
+    example: We try to avoid a lamby or "woolly" flavor.
+- pos: noun
+  defs:
+  - text: 'Alternative form of lambie: A lamb.'
+    example: With a big heavy bucket full of bottles of warm milk, she would call
+      out, “Here, lamby, lamby, lamby.”
 prev_word: lambs
 next_word: lamed
 hubs:

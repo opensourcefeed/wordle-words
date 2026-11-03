@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RAMSH a Wordle Word?
-head_title: Is RAMSH a Wordle Word? Yes – Valid Guess
+head_title: Is RAMSH a Wordle Word? Yes – Valid Guess & Meaning
 word: ramsh
 description: Yes, RAMSH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,11 @@ anagrams:
 - marsh
 - harms
 - mahrs
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of ramson: A plant, Allium ursinum, a wild relative of
+      chives and garlic.'
 prev_word: ramse
 next_word: ramus
 hubs:

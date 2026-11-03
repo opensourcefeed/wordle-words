@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ALALA a Wordle Word?
-head_title: Is ALALA a Wordle Word? Yes – Valid Guess
+head_title: Is ALALA a Wordle Word? Yes – Valid Guess & Meaning
 word: alala
 description: Yes, ALALA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ neighbours:
 - alapa
 - alata
 - alula
+definitions:
+- pos: noun
+  defs:
+  - text: A crow native to Hawaii, of species Corvus hawaiiensis.
 prev_word: alack
 next_word: alamo
 hubs:

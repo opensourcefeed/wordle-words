@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SLIPT a Wordle Word?
-head_title: Is SLIPT a Wordle Word? Yes – Valid Guess
+head_title: Is SLIPT a Wordle Word? Yes – Valid Guess & Meaning
 word: slipt
 description: Yes, SLIPT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,13 @@ neighbours:
 anagrams:
 - spilt
 - split
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of slip: To lose one’s traction on a slippery
+      surface; to slide due to a lack of friction.'
+    example: "[…] Once, slipping the money clandestinely, just in the act of taking
+      leave, he slipt it not into her hand but on the floor, and another had it; […]"
 prev_word: slips
 next_word: slish
 hubs:

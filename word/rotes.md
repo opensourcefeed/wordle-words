@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ROTES a Wordle Word?
-head_title: Is ROTES a Wordle Word? Yes – Valid Guess
+head_title: Is ROTES a Wordle Word? Yes – Valid Guess & Meaning
 word: rotes
 description: Yes, ROTES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -47,6 +48,11 @@ anagrams:
 trap:
   pattern: RO_ES
   count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of rote: Mechanical routine; a fixed, habitual, repetitive, or mechanical
+      course of procedure.'
 prev_word: roted
 next_word: rotis
 hubs:

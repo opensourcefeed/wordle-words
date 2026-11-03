@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PURDA a Wordle Word?
-head_title: Is PURDA a Wordle Word? Yes – Valid Guess
+head_title: Is PURDA a Wordle Word? Yes – Valid Guess & Meaning
 word: purda
 description: Yes, PURDA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,12 @@ stats:
 neighbours:
 - purdy
 - purga
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of purdah: A curtain, especially one used in some
+      Hindu or Muslim traditions to conceal women from the gaze of people, particularly
+      men and strangers.'
 prev_word: purau
 next_word: purdy
 hubs:

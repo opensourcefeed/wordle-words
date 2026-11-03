@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NEIFS a Wordle Word?
-head_title: Is NEIFS a Wordle Word? Yes – Valid Guess
+head_title: Is NEIFS a Wordle Word? Yes – Valid Guess & Meaning
 word: neifs
 description: Yes, NEIFS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ anagrams:
 - fines
 - niefs
 - nifes
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of neif: A woman born in the state of serfdom; a female serf.'
 prev_word: negus
 next_word: neigh
 hubs:

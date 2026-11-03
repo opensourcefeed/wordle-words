@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GATER a Wordle Word?
-head_title: Is GATER a Wordle Word? Yes – Valid Guess
+head_title: Is GATER a Wordle Word? Yes – Valid Guess & Meaning
 word: gater
 description: Yes, GATER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -44,6 +45,18 @@ anagrams:
 trap:
   pattern: _ATER
   count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: A mechanism that saves power in a circuit by removing the clock signal while
+      the circuit is not in use.
+    example: Optimizing the selection of clock gaters based on activity is known as
+      power-driven clock gating.
+  - text: A component of a neural network that determines the probability that each
+      member of a set of predictors will be selected.
+    example: In the same spirit, one can use a neural network called the gater to
+      select which one out of several expert networks will be used to compute the
+      output, given the current input.
 prev_word: gated
 next_word: gates
 hubs:

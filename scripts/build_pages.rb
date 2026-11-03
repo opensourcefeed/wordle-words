@@ -4,6 +4,9 @@
 #   _data/past-answers.yml      past answers (scripts/update_past_answers.rb)
 #   _data/sensitive-words.yml   words that get no ads, noindex and no sitemap entry
 #
+# Valid guesses (not past or possible answers) with no definition also get
+# noindex and no sitemap entry: they are too thin to be worth indexing.
+#
 # Definitions already on a page are kept. Older pages that store them as an
 # HTML `meaning` string are converted to structured `phonetic` + `definitions`.
 #
@@ -129,7 +132,13 @@ words.each do |word|
     'word' => word,
     'description' => description,
   }
-  fm.merge!('sensitive' => true, 'sitemap' => false) if sensitive.include?(word)
+  if sensitive.include?(word)
+    fm.merge!('sensitive' => true, 'sitemap' => false)
+  elsif status == 'guess' && !definitions&.any?
+    # Thin page: an obscure valid guess with no definition. Kept for visitors
+    # and the checker, but kept out of Google's index and the sitemap.
+    fm.merge!('noindex' => true, 'sitemap' => false)
+  end
   fm['status'] = status
   fm['answer_text'] = answer_text
   fm['past_answers'] = answers.map { |a| { 'date' => a['date'], 'number' => a['number'] } } if answers.any?

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LAARI a Wordle Word?
-head_title: Is LAARI a Wordle Word? Yes – Valid Guess
+head_title: Is LAARI a Wordle Word? Yes – Valid Guess & Meaning
 word: laari
 description: Yes, LAARI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,11 @@ stats:
   starter_top_percent: 30
 neighbours:
 - laarf
+definitions:
+- pos: noun
+  defs:
+  - text: A subdenomination of the rufiyaa, 1/100 of its value.
+  - text: A former currency of Maldives until 1913.
 prev_word: laarf
 next_word: labda
 hubs:

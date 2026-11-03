@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HELLS a Wordle Word?
-head_title: Is HELLS a Wordle Word? Yes – Valid Guess
+head_title: Is HELLS a Wordle Word? Yes – Valid Guess & Meaning
 word: hells
 description: Yes, HELLS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,16 @@ anagrams:
 trap:
   pattern: _ELLS
   count: 14
+phonetic: "/hɛlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of hell: A place or situation of great suffering in life.'
+- pos: interjection
+  defs:
+  - text: Synonym of hell.
+    example: We rarely did the sort of things you lot seem to get landed in. Hells,
+      you’ve all had more ‘adventures’ than me!
 prev_word: hello
 next_word: helly
 hubs:

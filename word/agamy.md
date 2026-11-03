@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AGAMY a Wordle Word?
-head_title: Is AGAMY a Wordle Word? Yes – Valid Guess
+head_title: Is AGAMY a Wordle Word? Yes – Valid Guess & Meaning
 word: agamy
 description: Yes, AGAMY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,14 @@ neighbours:
 anagrams:
 - aymag
 - gamay
+definitions:
+- pos: noun
+  defs:
+  - text: Absence or nonrecognition of marriage, or absence of a pair bond.
+    example: Cichlids exhibit monogamy, polygyny, polyandry, and agamy. […] In agamous
+      relationships, there is no bond formed at all. They separate from each other
+      immediately after spawning.
+  - text: Asexual reproduction.
 prev_word: agami
 next_word: agape
 hubs:

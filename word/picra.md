@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PICRA a Wordle Word?
-head_title: Is PICRA a Wordle Word? Yes – Valid Guess
+head_title: Is PICRA a Wordle Word? Yes – Valid Guess & Meaning
 word: picra
 description: Yes, PICRA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 anagrams:
 - capri
 - carpi
+phonetic: "/ˈpaɪkɹə/"
+definitions:
+- pos: noun
+  defs:
+  - text: The powder of aloes with canella, formerly officinal, employed as a cathartic.
 prev_word: picot
 next_word: picul
 hubs:

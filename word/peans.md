@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PEANS a Wordle Word?
-head_title: Is PEANS a Wordle Word? Yes – Valid Guess
+head_title: Is PEANS a Wordle Word? Yes – Valid Guess & Meaning
 word: peans
 description: Yes, PEANS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -45,6 +46,11 @@ anagrams:
 trap:
   pattern: _EANS
   count: 11
+phonetic: "/ˈpiːnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of pean: A heraldic fur of gold spots on a black field.'
 prev_word: peals
 next_word: peare
 hubs:

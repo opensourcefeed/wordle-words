@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AIERY a Wordle Word?
-head_title: Is AIERY a Wordle Word? Yes – Valid Guess
+head_title: Is AIERY a Wordle Word? Yes – Valid Guess & Meaning
 word: aiery
 description: Yes, AIERY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,13 @@ neighbours:
 - apery
 anagrams:
 - ayrie
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of eyrie: The nest of a bird of prey.'
+- pos: adjective
+  defs:
+  - text: 'Obsolete form of aery: Aerial; ethereal; incorporeal; visionary.'
 prev_word: aidos
 next_word: aigas
 hubs:

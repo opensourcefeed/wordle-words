@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TAXER a Wordle Word?
-head_title: Is TAXER a Wordle Word? Yes – Valid Guess
+head_title: Is TAXER a Wordle Word? Yes – Valid Guess & Meaning
 word: taxer
 description: Yes, TAXER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,12 @@ anagrams:
 trap:
   pattern: TA_ER
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: One who taxes.
+  - text: One of two officers chosen yearly to regulate the assize of bread, and to
+      see the true gauge of weights and measures is observed.
 prev_word: taxed
 next_word: taxes
 hubs:

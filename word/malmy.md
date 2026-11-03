@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MALMY a Wordle Word?
-head_title: Is MALMY a Wordle Word? Yes – Valid Guess
+head_title: Is MALMY a Wordle Word? Yes – Valid Guess & Meaning
 word: malmy
 description: Yes, MALMY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,12 @@ neighbours:
 - palmy
 anagrams:
 - lammy
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling or characteristic of malm.
+    example: It becomes what is here called a clay soil; in other counties, a malmy
+      one.
 prev_word: malms
 next_word: malts
 hubs:

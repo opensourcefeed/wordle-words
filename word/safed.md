@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SAFED a Wordle Word?
-head_title: Is SAFED a Wordle Word? Yes – Valid Guess
+head_title: Is SAFED a Wordle Word? Yes – Valid Guess & Meaning
 word: safed
 description: Yes, SAFED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,11 @@ anagrams:
 trap:
   pattern: SA_ED
   count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of safe: Not in danger; out of harm''s
+      reach.'
 prev_word: saeta
 next_word: safer
 hubs:

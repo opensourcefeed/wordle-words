@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PICON a Wordle Word?
-head_title: Is PICON a Wordle Word? Yes – Valid Guess
+head_title: Is PICON a Wordle Word? Yes – Valid Guess & Meaning
 word: picon
 description: Yes, PICON is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,11 @@ neighbours:
 - pilon
 - pinon
 - piton
+definitions:
+- pos: noun
+  defs:
+  - text: A caramel-coloured flavoured bitters made from oranges, gentian, and quinquina,
+      traditionally accompanying beer in the east and north of France.
 prev_word: picky
 next_word: picot
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OSSIA a Wordle Word?
-head_title: Is OSSIA a Wordle Word? Yes – Valid Guess
+head_title: Is OSSIA a Wordle Word? Yes – Valid Guess & Meaning
 word: ossia
 description: Yes, OSSIA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,13 @@ neighbours:
 - ousia
 anagrams:
 - oasis
+phonetic: "/ˈɑsiə/"
+definitions:
+- pos: noun
+  defs:
+  - text: In a musical score, an alternative version of a passage, usually just a
+      few measures long. The alternative may be an easier version of a particularly
+      difficult passage, or a more difficult version of a passage.
 prev_word: osone
 next_word: ostia
 hubs:

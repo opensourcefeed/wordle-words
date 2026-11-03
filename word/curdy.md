@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CURDY a Wordle Word?
-head_title: Is CURDY a Wordle Word? Yes – Valid Guess
+head_title: Is CURDY a Wordle Word? Yes – Valid Guess & Meaning
 word: curdy
 description: Yes, CURDY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,12 @@ neighbours:
 - purdy
 anagrams:
 - crudy
+definitions:
+- pos: adjective
+  defs:
+  - text: Like, or full of, curd; coagulated.
+    example: The oil by degrees gets covered with a curdy mass, which after some time
+      settles to the bottom, while itself becomes limpid and colorless.
 prev_word: curds
 next_word: cured
 hubs:

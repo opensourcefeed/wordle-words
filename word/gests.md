@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GESTS a Wordle Word?
-head_title: Is GESTS a Wordle Word? Yes – Valid Guess
+head_title: Is GESTS a Wordle Word? Yes – Valid Guess & Meaning
 word: gests
 description: Yes, GESTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,14 @@ neighbours:
 trap:
   pattern: _ESTS
   count: 15
+phonetic: "/d͡ʒɛsts/"
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative form of gists (“a roll reciting the several stages arranged
+      for a royal progress”).
+    example: The pictured lives of martyr, or of saint, / Or gests of valorous knight
+  - text: 'Plural of gest: A story or adventure; a verse or prose romance.'
 prev_word: geste
 next_word: getas
 hubs:

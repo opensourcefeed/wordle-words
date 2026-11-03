@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GADJO a Wordle Word?
-head_title: Is GADJO a Wordle Word? Yes – Valid Guess
+head_title: Is GADJO a Wordle Word? Yes – Valid Guess & Meaning
 word: gadjo
 description: Yes, GADJO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,10 @@ stats:
 neighbours:
 - gadje
 - gadso
+definitions:
+- pos: noun
+  defs:
+  - text: A non-Roma, a non-Romani person.
 prev_word: gadje
 next_word: gadso
 hubs:

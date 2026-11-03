@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RHINE a Wordle Word?
-head_title: Is RHINE a Wordle Word? Yes – Valid Guess
+head_title: Is RHINE a Wordle Word? Yes – Valid Guess & Meaning
 word: rhine
 description: Yes, RHINE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,13 @@ neighbours:
 - rhone
 - rhyne
 - thine
+phonetic: "/ɹaɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A watercourse; a ditch for water.
+    example: the Black Ditch and the Langmoor Rhine
+  - text: A running waterway that links a ditch or stream to a river.
 prev_word: rhime
 next_word: rhino
 hubs:

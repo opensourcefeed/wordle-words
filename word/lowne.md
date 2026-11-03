@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LOWNE a Wordle Word?
-head_title: Is LOWNE a Wordle Word? Yes – Valid Guess
+head_title: Is LOWNE a Wordle Word? Yes – Valid Guess & Meaning
 word: lowne
 description: Yes, LOWNE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,12 @@ neighbours:
 - sowne
 anagrams:
 - lowen
+definitions:
+- pos: noun
+  defs:
+  - text: Archaic form of loon (“idler, lout”).
+    example: What the Deowl ayles the lymmer lowne, bin thy braines broke lowſe trow
+      I.
 prev_word: lownd
 next_word: lowns
 hubs:

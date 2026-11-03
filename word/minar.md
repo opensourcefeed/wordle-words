@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MINAR a Wordle Word?
-head_title: Is MINAR a Wordle Word? Yes – Valid Guess
+head_title: Is MINAR a Wordle Word? Yes – Valid Guess & Meaning
 word: minar
 description: Yes, MINAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,12 @@ neighbours:
 anagrams:
 - inarm
 - ramin
+definitions:
+- pos: noun
+  defs:
+  - text: A minaret.
+    example: The barah-dari has six window places and two doorways, and is surmounted
+      by four small minars.
 prev_word: minae
 next_word: minas
 hubs:

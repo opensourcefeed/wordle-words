@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HAILY a Wordle Word?
-head_title: Is HAILY a Wordle Word? Yes – Valid Guess
+head_title: Is HAILY a Wordle Word? Yes – Valid Guess & Meaning
 word: haily
 description: Yes, HAILY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,12 @@ neighbours:
 - hails
 - haply
 - naily
+definitions:
+- pos: adjective
+  defs:
+  - text: Containing hail; involving hail falling.
+    example: "[T]he rolling clouds; / From whose dark womb a rattling tempest pours,
+      / Which the cold north congeals to haily showers."
 prev_word: hails
 next_word: hains
 hubs:

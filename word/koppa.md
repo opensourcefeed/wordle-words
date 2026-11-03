@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KOPPA a Wordle Word?
-head_title: Is KOPPA a Wordle Word? Yes – Valid Guess
+head_title: Is KOPPA a Wordle Word? Yes – Valid Guess & Meaning
 word: koppa
 description: Yes, KOPPA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,15 @@ neighbours:
 - kippa
 - poppa
 - zoppa
+definitions:
+- pos: noun
+  defs:
+  - text: An Ancient Greek letter representing /k/, Ϙ / ϙ, replaced by kappa by the
+      Classical Greek period.
+  - text: The Greek numeral Ϟ (lowercase ϟ), descended from the ancient letter and
+      having the numerical value of 90.
+  - text: The archaic Cyrillic numeral Ҁ (lowercase ҁ), descended from the ancient
+      Greek letter and having the numerical value of 90.
 prev_word: kopje
 next_word: korai
 hubs:

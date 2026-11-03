@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SYCEE a Wordle Word?
-head_title: Is SYCEE a Wordle Word? Yes – Valid Guess
+head_title: Is SYCEE a Wordle Word? Yes – Valid Guess & Meaning
 word: sycee
 description: Yes, SYCEE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,13 @@ stats:
 neighbours:
 - lycee
 - syces
+phonetic: "/sʌɪˈsiː/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of various gold or silver ingots used as currency in imperial China.
+  - text: Imitation ingots made of paper, burnt as an offering in ancestral veneration
+      on Tomb Sweeping Day or during the Ghost Festival.
 prev_word: sybow
 next_word: syces
 hubs:

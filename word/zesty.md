@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is ZESTY a Wordle Word?
-head_title: 'Is ZESTY a Wordle Word? Yes – Past Answer #313'
+head_title: 'Is ZESTY a Wordle Word? Yes – Past Answer #313 & Meaning'
 word: zesty
 description: Yes, ZESTY is a valid Wordle word. It was the Wordle answer on April
-  28, 2022 (#313). See its starter rating and similar words.
+  28, 2022 (#313). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on April 28, 2022 (#313).
 past_answers:
@@ -35,6 +35,14 @@ neighbours:
 trap:
   pattern: _ESTY
   count: 7
+phonetic: "/ˈzɛsti/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having a piquant or pungent taste; spicy.
+  - text: Zestful.
+  - text: "(of a man) Flamboyantly or effeminately gay."
+  - text: Gay.
 prev_word: zests
 next_word: zetas
 hubs:

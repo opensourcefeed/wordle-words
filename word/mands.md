@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MANDS a Wordle Word?
-head_title: Is MANDS a Wordle Word? Yes – Valid Guess
+head_title: Is MANDS a Wordle Word? Yes – Valid Guess & Meaning
 word: mands
 description: Yes, MANDS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,15 @@ anagrams:
 trap:
   pattern: _ANDS
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of mand: A verbal operant in which the response is reinforced by
+      a characteristic consequence and is therefore under the functional control of
+      relevant conditions of deprivation or aversive stimulation.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of mand
 prev_word: mandi
 next_word: mandy
 hubs:

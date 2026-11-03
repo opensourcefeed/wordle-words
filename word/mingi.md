@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MINGI a Wordle Word?
-head_title: Is MINGI a Wordle Word? Yes – Valid Guess
+head_title: Is MINGI a Wordle Word? Yes – Valid Guess & Meaning
 word: mingi
 description: Yes, MINGI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,12 @@ neighbours:
 - mings
 - mingy
 - mungi
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Among certain Ethiopian peoples: ritually impure.'
+    example: Some cattle are bought with the elephant tusks, they may not be used
+      for the garo calf, they are mingi.
 prev_word: mines
 next_word: mings
 hubs:

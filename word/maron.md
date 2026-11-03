@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MARON a Wordle Word?
-head_title: Is MARON a Wordle Word? Yes – Valid Guess
+head_title: Is MARON a Wordle Word? Yes – Valid Guess & Meaning
 word: maron
 description: Yes, MARON is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,10 @@ anagrams:
 - norma
 - ramon
 - roman
+definitions:
+- pos: noun
+  defs:
+  - text: An alpine guide.
 prev_word: marms
 next_word: maror
 hubs:

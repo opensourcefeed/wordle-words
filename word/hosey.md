@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HOSEY a Wordle Word?
-head_title: Is HOSEY a Wordle Word? Yes – Valid Guess
+head_title: Is HOSEY a Wordle Word? Yes – Valid Guess & Meaning
 word: hosey
 description: Yes, HOSEY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,10 @@ neighbours:
 trap:
   pattern: _OSEY
   count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: To bagsy; to shotgun (make a claim).
 prev_word: hoses
 next_word: hosta
 hubs:

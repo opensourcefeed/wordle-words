@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GORAS a Wordle Word?
-head_title: Is GORAS a Wordle Word? Yes – Valid Guess
+head_title: Is GORAS a Wordle Word? Yes – Valid Guess & Meaning
 word: goras
 description: Yes, GORAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,10 @@ anagrams:
 trap:
   pattern: _ORAS
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of gora: Pertaining to a fair-skinned or European person.'
 prev_word: goral
 next_word: goray
 hubs:

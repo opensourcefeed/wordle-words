@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LINDY a Wordle Word?
-head_title: Is LINDY a Wordle Word? Yes – Valid Guess
+head_title: Is LINDY a Wordle Word? Yes – Valid Guess & Meaning
 word: lindy
 description: Yes, LINDY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,17 @@ neighbours:
 trap:
   pattern: LIN_Y
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A jitterbug, originated in Harlem, New York.
+- pos: verb
+  defs:
+  - text: To perform this dance.
+- pos: adjective
+  defs:
+  - text: Alternative form of Lindy (“long-lasting; having a proven track record and
+      thus predicted by the Lindy effect to remain relevant far into the future”)
 prev_word: linds
 next_word: lined
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HEDGY a Wordle Word?
-head_title: Is HEDGY a Wordle Word? Yes – Valid Guess
+head_title: Is HEDGY a Wordle Word? Yes – Valid Guess & Meaning
 word: hedgy
 description: Yes, HEDGY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,14 @@ neighbours:
 - ledgy
 - sedgy
 - wedgy
+phonetic: "/ˈhɛ.d͡ʒi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Pertaining to or like a hedge.
+    example: A long hedgy path led through the woodland to the house.
+  - text: Indecisive, hesitant, noncommittal, unwilling to take a side.
+    example: He remained hedgy until he knew exactly what was being asked of him.
 prev_word: hedge
 next_word: heeds
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is COMAL a Wordle Word?
-head_title: Is COMAL a Wordle Word? Yes – Valid Guess
+head_title: Is COMAL a Wordle Word? Yes – Valid Guess & Meaning
 word: comal
 description: Yes, COMAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,13 @@ neighbours:
 - romal
 anagrams:
 - cloam
+definitions:
+- pos: noun
+  defs:
+  - text: A flat, pan-like clay or metal griddle used to cook tortillas or other foods.
+    example: A freshly ground masa tortilla, as it cooks on a comal, inflates as the
+      steam inside pushes apart the sides and releases an intoxicating toasted corn
+      aroma.
 prev_word: comae
 next_word: comas
 hubs:

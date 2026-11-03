@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DUNGY a Wordle Word?
-head_title: Is DUNGY a Wordle Word? Yes – Valid Guess
+head_title: Is DUNGY a Wordle Word? Yes – Valid Guess & Meaning
 word: dungy
 description: Yes, DUNGY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,16 @@ neighbours:
 anagrams:
 - gundy
 - nudgy
+phonetic: "/ˈdʌŋi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling or characteristic of dung.
+    example: "[…] they may not be drawn up long legged; and by no means to let them
+      have a dungy soil to grow in, or a very rich one […]"
+  - text: Covered in dung
+    example: If, however, excessively dungy animals are offered for transportation,
+      the owner of the animals is requested to clean them.
 prev_word: dungs
 next_word: dunks
 hubs:

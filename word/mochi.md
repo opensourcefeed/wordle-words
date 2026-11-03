@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MOCHI a Wordle Word?
-head_title: Is MOCHI a Wordle Word? Yes – Valid Guess
+head_title: Is MOCHI a Wordle Word? Yes – Valid Guess & Meaning
 word: mochi
 description: Yes, MOCHI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,14 @@ neighbours:
 anagrams:
 - chimo
 - ohmic
+phonetic: "/ˈmoʊtʃi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small Japanese rice cake made from glutinous rice.
+    example: Many of Japan's most popular confections are dusted with a light coating
+      of sweetened kinako. These confections usually consist of a grain such as mochi
+      (pounded glutinous rice) […]
 prev_word: mocha
 next_word: mochs
 hubs:

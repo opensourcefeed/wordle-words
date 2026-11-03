@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FEIST a Wordle Word?
-head_title: Is FEIST a Wordle Word? Yes – Valid Guess
+head_title: Is FEIST a Wordle Word? Yes – Valid Guess & Meaning
 word: feist
 description: Yes, FEIST is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,15 @@ anagrams:
 trap:
   pattern: _EIST
   count: 6
+phonetic: "/faɪst/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small, snappy, belligerent mixed-breed dog; a feist dog.
+  - text: Feisty behavior.
+    example: Sultry Joan Collins says she likes her men feisty and her beau Peter
+      Holm is full of feist.
+  - text: Silent (but pungent) flatulence.
 prev_word: feint
 next_word: felid
 hubs:

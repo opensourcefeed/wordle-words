@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SCROB a Wordle Word?
-head_title: Is SCROB a Wordle Word? Yes – Valid Guess
+head_title: Is SCROB a Wordle Word? Yes – Valid Guess & Meaning
 word: scrob
 description: Yes, SCROB is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 - scrog
 - scroo
 - scrow
+definitions:
+- pos: verb
+  defs:
+  - text: To scratch.
+    example: In Dallas, he scrobbed so hard at his face that he appeared to tear the
+      skin, rivulets of blood raising screams of joy from the billies […]
 prev_word: scrip
 next_word: scrod
 hubs:

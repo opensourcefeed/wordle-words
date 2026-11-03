@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UPLED a Wordle Word?
-head_title: Is UPLED a Wordle Word? Yes – Valid Guess
+head_title: Is UPLED a Wordle Word? Yes – Valid Guess & Meaning
 word: upled
 description: Yes, UPLED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 anagrams:
 - duple
 - puled
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of uplead: The line or lines connecting
+      the output of a transmitter to its antenna.'
 prev_word: uplay
 next_word: uplit
 hubs:

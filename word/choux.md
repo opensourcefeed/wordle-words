@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CHOUX a Wordle Word?
-head_title: Is CHOUX a Wordle Word? Yes – Valid Guess
+head_title: Is CHOUX a Wordle Word? Yes – Valid Guess & Meaning
 word: choux
 description: Yes, CHOUX is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,11 @@ stats:
   starter_top_percent: 91
 neighbours:
 - chout
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of chou: Choux pastry, usually in the form of a small round cake
+      with a sweet filling.'
 prev_word: chout
 next_word: chowk
 hubs:

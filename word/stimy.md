@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STIMY a Wordle Word?
-head_title: Is STIMY a Wordle Word? Yes – Valid Guess
+head_title: Is STIMY a Wordle Word? Yes – Valid Guess & Meaning
 word: stimy
 description: Yes, STIMY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,17 @@ neighbours:
 - stymy
 anagrams:
 - misty
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of stymie: A situation where an opponent''s ball is
+      directly in the way of one''s own ball and the hole, on the putting green (abolished
+      1952).'
+- pos: verb
+  defs:
+  - text: 'Alternative spelling of stymie: A situation where an opponent''s ball is
+      directly in the way of one''s own ball and the hole, on the putting green (abolished
+      1952).'
 prev_word: stims
 next_word: sting
 hubs:

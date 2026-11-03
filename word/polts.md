@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is POLTS a Wordle Word?
-head_title: Is POLTS a Wordle Word? Yes – Valid Guess
+head_title: Is POLTS a Wordle Word? Yes – Valid Guess & Meaning
 word: polts
 description: Yes, POLTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,10 @@ anagrams:
 trap:
   pattern: _OLTS
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of polt: A hard knock.'
 prev_word: polos
 next_word: polyp
 hubs:

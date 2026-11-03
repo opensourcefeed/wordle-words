@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TYTHE a Wordle Word?
-head_title: Is TYTHE a Wordle Word? Yes – Valid Guess
+head_title: Is TYTHE a Wordle Word? Yes – Valid Guess & Meaning
 word: tythe
 description: Yes, TYTHE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,13 @@ neighbours:
 trap:
   pattern: _YTHE
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete spelling of tithe: A tenth.'
+- pos: verb
+  defs:
+  - text: 'Obsolete spelling of tithe: A tenth.'
 prev_word: tyros
 next_word: tzars
 hubs:

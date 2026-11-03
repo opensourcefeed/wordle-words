@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is VOLVE a Wordle Word?
-head_title: Is VOLVE a Wordle Word? Yes – Valid Guess
+head_title: Is VOLVE a Wordle Word? Yes – Valid Guess & Meaning
 word: volve
 description: Yes, VOLVE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,11 @@ neighbours:
 - volte
 - volva
 - wolve
+phonetic: "/vɒlv/"
+definitions:
+- pos: verb
+  defs:
+  - text: To turn over in the mind; to ponder.
 prev_word: volva
 next_word: vomer
 hubs:

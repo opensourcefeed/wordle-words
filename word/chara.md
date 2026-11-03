@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CHARA a Wordle Word?
-head_title: Is CHARA a Wordle Word? Yes – Valid Guess
+head_title: Is CHARA a Wordle Word? Yes – Valid Guess & Meaning
 word: chara
 description: Yes, CHARA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,14 @@ anagrams:
 trap:
   pattern: CHAR_
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A green alga of the genus Chara.
+  - text: 'Shortened form of charabanc: A horse-drawn, and then later, motorized omnibus
+      with open sides, and often, no roof.'
+    example: The workers didn't get paid for any holidays, so a day out in a 'chara'
+      was all they got.
 prev_word: chapt
 next_word: chard
 hubs:

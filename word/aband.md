@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ABAND a Wordle Word?
-head_title: Is ABAND a Wordle Word? Yes – Valid Guess
+head_title: Is ABAND a Wordle Word? Yes – Valid Guess & Meaning
 word: aband
 description: Yes, ABAND is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,12 @@ neighbours:
 - aland
 anagrams:
 - banda
+phonetic: "/əˈbænd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To desist in practicing, using, or doing; to renounce.
+  - text: To desert; to forsake.
 prev_word: abamp
 next_word: abase
 hubs:

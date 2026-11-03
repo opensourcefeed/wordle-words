@@ -1,11 +1,11 @@
 ---
 layout: word
 title: Is MECCA a Wordle Word?
-head_title: Is MECCA a Wordle Word? Yes – Possible Answer
+head_title: Is MECCA a Wordle Word? Yes – Possible Answer & Meaning
 word: mecca
 description: Yes, MECCA is a valid Wordle word. It is on the original Wordle answer
-  list and has not been an answer yet, so it could be a future answer. See its starter
-  rating and similar words.
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
 status: possible
 answer_text: It is on the original Wordle answer list and has not been an answer yet,
   so it could be a future answer.
@@ -26,6 +26,13 @@ neighbours:
 - macca
 - mecha
 - mesca
+phonetic: "/ˈmɛkə/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of Mecca: ; a place to which a group of people (for example
+      shoppers) are drawn.'
+  - text: "; a place to which a group of people (for example shoppers) are drawn."
 prev_word: mebos
 next_word: mecha
 hubs:

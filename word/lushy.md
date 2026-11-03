@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LUSHY a Wordle Word?
-head_title: Is LUSHY a Wordle Word? Yes – Valid Guess
+head_title: Is LUSHY a Wordle Word? Yes – Valid Guess & Meaning
 word: lushy
 description: Yes, LUSHY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,18 @@ neighbours:
 trap:
   pattern: _USHY
   count: 9
+phonetic: "/ˈlʌ.ʃi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Given to drinking alcohol.
+    example: Pipes I blew, on malt I fuddled, / A lushy man! / Till my mind and head
+      got muddled, / Dissipated man!
+  - text: Drunk; tipsy.
+  - text: Lush; growing abundantly.
+    example: A foreground of lushy meadow-grass, intersected by a streamlet, the light
+      of an afternoon-sun glistening amid the foliage, which occupies two-thirds of
+      the background; […]
 prev_word: luser
 next_word: lusks
 hubs:

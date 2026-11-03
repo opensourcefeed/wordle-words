@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STUDE a Wordle Word?
-head_title: Is STUDE a Wordle Word? Yes – Valid Guess
+head_title: Is STUDE a Wordle Word? Yes – Valid Guess & Meaning
 word: stude
 description: Yes, STUDE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,13 @@ neighbours:
 - sture
 anagrams:
 - duets
+definitions:
+- pos: noun
+  defs:
+  - text: A student.
+    example: The Profs they lead a jolly life, jolly life, / They're free from every
+      care and strife, care and strife. / They make the studes, poor studes fall into
+      line; / I wish the Profs' soft snap were mine.
 prev_word: stucs
 next_word: studs
 hubs:

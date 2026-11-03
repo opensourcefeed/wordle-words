@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BILED a Wordle Word?
-head_title: Is BILED a Wordle Word? Yes – Valid Guess
+head_title: Is BILED a Wordle Word? Yes – Valid Guess & Meaning
 word: biled
 description: Yes, BILED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,12 @@ anagrams:
 trap:
   pattern: _ILED
   count: 9
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of bile: A bitter brownish-yellow or greenish-yellow
+      secretion produced by the liver, stored in the gall bladder, and discharged
+      into the duodenum where it aids the process of digestion.'
 prev_word: bilby
 next_word: biles
 hubs:

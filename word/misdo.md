@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MISDO a Wordle Word?
-head_title: Is MISDO a Wordle Word? Yes – Valid Guess
+head_title: Is MISDO a Wordle Word? Yes – Valid Guess & Meaning
 word: misdo
 description: Yes, MISDO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,15 @@ neighbours:
 - misto
 anagrams:
 - odism
+phonetic: "/mɪsˈduː/"
+definitions:
+- pos: verb
+  defs:
+  - text: To do evil; to commit misdeeds.
+  - text: To do (something) incorrectly or improperly.
+    example: Afford me place to ſhew what recompence / Towards thee I intend for what
+      I have miſdone,[…]
+  - text: To do harm to; to injure, mistreat.
 prev_word: misch
 next_word: miser
 hubs:

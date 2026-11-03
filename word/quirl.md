@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is QUIRL a Wordle Word?
-head_title: Is QUIRL a Wordle Word? Yes – Valid Guess
+head_title: Is QUIRL a Wordle Word? Yes – Valid Guess & Meaning
 word: quirl
 description: Yes, QUIRL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 - quire
 - quirt
 - quorl
+phonetic: "/kwɝl/"
+definitions:
+- pos: verb
+  defs:
+  - text: To curl or twirl, or twist or coil (up).
 prev_word: quirk
 next_word: quirt
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TALER a Wordle Word?
-head_title: Is TALER a Wordle Word? Yes – Valid Guess
+head_title: Is TALER a Wordle Word? Yes – Valid Guess & Meaning
 word: taler
 description: Yes, TALER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -45,6 +46,15 @@ anagrams:
 trap:
   pattern: TA_ER
   count: 10
+phonetic: "/ˈtɑlɚ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A talker; a teller
+    example: Earth writes from the point of view of " 'Baylor' the Taler of Behler
+      the Failer" who tells Scheherazade's story (to Death, her "familiar stranger")
+      of Somebody's last voyage.
+  - text: A Germanic unit of currency used between the 15th and 19th centuries.
 prev_word: talea
 next_word: tales
 hubs:

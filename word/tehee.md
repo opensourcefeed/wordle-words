@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TEHEE a Wordle Word?
-head_title: Is TEHEE a Wordle Word? Yes – Valid Guess
+head_title: Is TEHEE a Wordle Word? Yes – Valid Guess & Meaning
 word: tehee
 description: Yes, TEHEE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,13 @@ stats:
   starter_top_percent: 87
 neighbours:
 - tepee
+definitions:
+- pos: interjection
+  defs:
+  - text: Alternative spelling of tee hee.
+- pos: verb
+  defs:
+  - text: Alternative spelling of tee hee.
 prev_word: tegus
 next_word: tehrs
 hubs:

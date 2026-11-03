@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KAHAL a Wordle Word?
-head_title: Is KAHAL a Wordle Word? Yes – Valid Guess
+head_title: Is KAHAL a Wordle Word? Yes – Valid Guess & Meaning
 word: kahal
 description: Yes, KAHAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,15 @@ neighbours:
 - lahal
 - mahal
 - nahal
+definitions:
+- pos: noun
+  defs:
+  - text: The local governing body of a former European Jewish community, administering
+      religious, legal and communal affairs.
+    example: The State of Israel is the modern equivalent of the kahal, and its democratic
+      institutions must be treated with the same respect and authority as the medieval
+      kahal.
+  - text: A congregation.
 prev_word: kagus
 next_word: kaiak
 hubs:

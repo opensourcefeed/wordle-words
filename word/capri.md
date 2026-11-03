@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CAPRI a Wordle Word?
-head_title: Is CAPRI a Wordle Word? Yes – Valid Guess
+head_title: Is CAPRI a Wordle Word? Yes – Valid Guess & Meaning
 word: capri
 description: Yes, CAPRI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 anagrams:
 - carpi
 - picra
+definitions:
+- pos: noun
+  defs:
+  - text: A deep shade of sky blue between cyan and azure.
+  - text: Used in capri pants.
+    example: "[If you] wear Capri or cropped pants, they should hit 4 to 6 inches
+      above the ankle, depending on your height."
 prev_word: capot
 next_word: capul
 hubs:

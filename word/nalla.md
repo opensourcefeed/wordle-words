@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NALLA a Wordle Word?
-head_title: Is NALLA a Wordle Word? Yes – Valid Guess
+head_title: Is NALLA a Wordle Word? Yes – Valid Guess & Meaning
 word: nalla
 description: Yes, NALLA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,12 @@ neighbours:
 - walla
 anagrams:
 - allan
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of nullah: A stream-bed, ravine, or other watercourse;
+      a drain for rain or floodwater.'
+  - text: Useless person, slacker
 prev_word: naled
 next_word: namad
 hubs:

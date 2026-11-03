@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is READD a Wordle Word?
-head_title: Is READD a Wordle Word? Yes – Valid Guess
+head_title: Is READD a Wordle Word? Yes – Valid Guess & Meaning
 word: readd
 description: Yes, READD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,11 @@ anagrams:
 - adred
 - aredd
 - dared
+definitions:
+- pos: verb
+  defs:
+  - text: To add again.
+    example: Please readd me to your contact list; my username has changed.
 prev_word: react
 next_word: reads
 hubs:

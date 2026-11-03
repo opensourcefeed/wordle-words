@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is POGGE a Wordle Word?
-head_title: Is POGGE a Wordle Word? Yes – Valid Guess
+head_title: Is POGGE a Wordle Word? Yes – Valid Guess & Meaning
 word: pogge
 description: Yes, POGGE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - poggy
 - pogue
 - porge
+phonetic: "/pɒɡ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A scorpaeniform fish native to the waters of northern Europe, Agonus cataphractus
 prev_word: pogey
 next_word: poggy
 hubs:

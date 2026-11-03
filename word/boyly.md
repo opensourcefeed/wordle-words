@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BOYLY a Wordle Word?
-head_title: Is BOYLY a Wordle Word? Yes – Valid Guess
+head_title: Is BOYLY a Wordle Word? Yes – Valid Guess & Meaning
 word: boyly
 description: Yes, BOYLY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,13 @@ neighbours:
 - boyla
 - boysy
 - doyly
+definitions:
+- pos: adjective
+  defs:
+  - text: Characteristic of a boy; boyish.
+    example: I thought I really liked Lucas, but maybe not. Is it possible to like
+      two boys at once, a manly boy and a boyly man? Lucas is more man than boy. Stephen
+      is more boy than man.
 prev_word: boyla
 next_word: boyos
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is YUFTS a Wordle Word?
-head_title: Is YUFTS a Wordle Word? Yes – Valid Guess
+head_title: Is YUFTS a Wordle Word? Yes – Valid Guess & Meaning
 word: yufts
 description: Yes, YUFTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,10 @@ neighbours:
 - yurts
 anagrams:
 - fusty
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of yuft: Russia leather.'
 prev_word: yucky
 next_word: yugas
 hubs:

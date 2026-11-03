@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DEBUD a Wordle Word?
-head_title: Is DEBUD a Wordle Word? Yes – Valid Guess
+head_title: Is DEBUD a Wordle Word? Yes – Valid Guess & Meaning
 word: debud
 description: Yes, DEBUD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,10 @@ neighbours:
 - rebud
 anagrams:
 - buded
+definitions:
+- pos: verb
+  defs:
+  - text: To remove the bud or buds from.
 prev_word: debts
 next_word: debug
 hubs:

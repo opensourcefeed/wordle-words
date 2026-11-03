@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KNUTS a Wordle Word?
-head_title: Is KNUTS a Wordle Word? Yes – Valid Guess
+head_title: Is KNUTS a Wordle Word? Yes – Valid Guess & Meaning
 word: knuts
 description: Yes, KNUTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 - knurs
 anagrams:
 - stunk
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of knut: An idle upper-class man about town.'
 prev_word: knurs
 next_word: koala
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KYNDE a Wordle Word?
-head_title: Is KYNDE a Wordle Word? Yes – Valid Guess
+head_title: Is KYNDE a Wordle Word? Yes – Valid Guess & Meaning
 word: kynde
 description: Yes, KYNDE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,11 @@ neighbours:
 - hynde
 - kynds
 - tynde
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of kind: A type, race or category; a group of entities that
+      have common characteristics such that they may be grouped together.'
 prev_word: kyloe
 next_word: kynds
 hubs:

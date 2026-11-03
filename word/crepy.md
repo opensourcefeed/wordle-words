@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CREPY a Wordle Word?
-head_title: Is CREPY a Wordle Word? Yes – Valid Guess
+head_title: Is CREPY a Wordle Word? Yes – Valid Guess & Meaning
 word: crepy
 description: Yes, CREPY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ neighbours:
 - crept
 - crapy
 - creps
+definitions:
+- pos: adjective
+  defs:
+  - text: Alternative form of crêpy.
+    example: For more mature skin, you can use a cream blush for a smoother finish,
+      which is important for crepier skin.
 prev_word: crept
 next_word: cress
 hubs:

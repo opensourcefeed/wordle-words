@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is YERDS a Wordle Word?
-head_title: Is YERDS a Wordle Word? Yes – Valid Guess
+head_title: Is YERDS a Wordle Word? Yes – Valid Guess & Meaning
 word: yerds
 description: Yes, YERDS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,13 @@ neighbours:
 anagrams:
 - dreys
 - dyers
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of yerd: A yard, plot of ground around a building or fenced paddock.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of yerd
 prev_word: yerba
 next_word: yerks
 hubs:

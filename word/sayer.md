@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SAYER a Wordle Word?
-head_title: Is SAYER a Wordle Word? Yes – Valid Guess
+head_title: Is SAYER a Wordle Word? Yes – Valid Guess & Meaning
 word: sayer
 description: Yes, SAYER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -43,6 +44,10 @@ anagrams:
 trap:
   pattern: SA_ER
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: One who says; one who makes announcements; a crier.
 prev_word: sayee
 next_word: sayid
 hubs:

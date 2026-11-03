@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DOBLA a Wordle Word?
-head_title: Is DOBLA a Wordle Word? Yes – Valid Guess
+head_title: Is DOBLA a Wordle Word? Yes – Valid Guess & Meaning
 word: dobla
 description: Yes, DOBLA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,14 @@ neighbours:
 - dobra
 - doula
 - vobla
+definitions:
+- pos: noun
+  defs:
+  - text: A historical gold coin used in the Iberian peninsula between the 11th and
+      16th centuries.
+    example: "“Prithee, Pepe,” commenced the soldier, “how many hundred doblas a year
+      do they pay, in that service of thine, and how often do they renew that fine
+      leathern doublet?”"
 prev_word: dobie
 next_word: doble
 hubs:

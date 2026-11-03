@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LECHE a Wordle Word?
-head_title: Is LECHE a Wordle Word? Yes – Valid Guess
+head_title: Is LECHE a Wordle Word? Yes – Valid Guess & Meaning
 word: leche
 description: Yes, LECHE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - neche
 anagrams:
 - leech
+definitions:
+- pos: noun
+  defs:
+  - text: 'Archaic form of lechwe: Kobus leche, an African antelope that inhabits
+      marshy regions.'
 prev_word: leccy
 next_word: ledes
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SICHT a Wordle Word?
-head_title: Is SICHT a Wordle Word? Yes – Valid Guess
+head_title: Is SICHT a Wordle Word? Yes – Valid Guess & Meaning
 word: sicht
 description: Yes, SICHT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,11 @@ anagrams:
 trap:
   pattern: _ICHT
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Pronunciation spelling of sight: The sense or faculty by which objects
+      are perceived through the agency of light; the sense by which we see.'
 prev_word: sices
 next_word: sicko
 hubs:

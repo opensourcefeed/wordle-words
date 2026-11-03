@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CHAYA a Wordle Word?
-head_title: Is CHAYA a Wordle Word? Yes – Valid Guess
+head_title: Is CHAYA a Wordle Word? Yes – Valid Guess & Meaning
 word: chaya
 description: Yes, CHAYA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,14 @@ neighbours:
 - chays
 - khaya
 - shaya
+definitions:
+- pos: noun
+  defs:
+  - text: A teahouse in Japan.
+  - text: A large, fast-growing leafy perennial Mexican shrub which is popular in
+      Mexico and Central America as a leafy vegetable, cooked and eaten like spinach,
+      from species Cnidoscolus aconitifolius or Cnidoscolus chayamansa.
+  - text: One of the cabalistic aspects of the soul, related to the personality.
 prev_word: chaws
 next_word: chays
 hubs:

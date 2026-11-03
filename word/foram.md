@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FORAM a Wordle Word?
-head_title: Is FORAM a Wordle Word? Yes – Valid Guess
+head_title: Is FORAM a Wordle Word? Yes – Valid Guess & Meaning
 word: foram
 description: Yes, FORAM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,13 @@ neighbours:
 - joram
 anagrams:
 - forma
+phonetic: "/ˈfɔɹˌæm/"
+definitions:
+- pos: noun
+  defs:
+  - text: A foraminifer.
+    example: Some forams allow single-celled algae to lodge on the surface of their
+      bodies, rather as tropical coral do.
 prev_word: footy
 next_word: foray
 hubs:

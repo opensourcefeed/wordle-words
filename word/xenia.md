@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is XENIA a Wordle Word?
-head_title: Is XENIA a Wordle Word? Yes – Valid Guess
+head_title: Is XENIA a Wordle Word? Yes – Valid Guess & Meaning
 word: xenia
 description: Yes, XENIA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,16 @@ stats:
 neighbours:
 - tenia
 - xenic
+definitions:
+- pos: noun
+  defs:
+  - text: The concept of hospitality to strangers.
+  - text: The effect that genes from pollen have on the endosperm.
+  - text: A coral of the genus Xenia of photosynthetic soft marine corals with many-branched
+      arms which pulse and push water around the coral.
+    example: "[...] keep things like elegance corals, xenias and other soft corals
+      and polyps that don't need maximum light levels."
+  - text: 'Plural of xenium: A gift or offering.'
 prev_word: xebec
 next_word: xenic
 hubs:

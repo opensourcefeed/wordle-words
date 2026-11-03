@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ISLED a Wordle Word?
-head_title: Is ISLED a Wordle Word? Yes – Valid Guess
+head_title: Is ISLED a Wordle Word? Yes – Valid Guess & Meaning
 word: isled
 description: Yes, ISLED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,11 @@ anagrams:
 - sidle
 - sield
 - siled
+definitions:
+- pos: adjective
+  defs:
+  - text: Having an island or islands.
+    example: the five-isled city
 prev_word: ishes
 next_word: isles
 hubs:

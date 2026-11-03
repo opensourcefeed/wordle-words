@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PREON a Wordle Word?
-head_title: Is PREON a Wordle Word? Yes – Valid Guess
+head_title: Is PREON a Wordle Word? Yes – Valid Guess & Meaning
 word: preon
 description: Yes, PREON is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,11 @@ neighbours:
 - prion
 anagrams:
 - prone
+definitions:
+- pos: noun
+  defs:
+  - text: A hypothetical point-like particle, supposed to be a subcomponent of quarks
+      and leptons and possibly bosons too.
 prev_word: prent
 next_word: preop
 hubs:

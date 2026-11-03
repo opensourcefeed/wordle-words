@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ANANA a Wordle Word?
-head_title: Is ANANA a Wordle Word? Yes – Valid Guess
+head_title: Is ANANA a Wordle Word? Yes – Valid Guess & Meaning
 word: anana
 description: Yes, ANANA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,10 @@ neighbours:
 - anata
 - asana
 - jnana
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of ananas: Pineapple.'
 prev_word: amyls
 next_word: anata
 hubs:

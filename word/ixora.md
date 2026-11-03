@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is IXORA a Wordle Word?
-head_title: Is IXORA a Wordle Word? Yes – Valid Guess
+head_title: Is IXORA a Wordle Word? Yes – Valid Guess & Meaning
 word: ixora
 description: Yes, IXORA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ stats:
   starter_top_percent: 26
 anagrams:
 - orixa
+definitions:
+- pos: noun
+  defs:
+  - text: Any of the flowering plants in the genus Ixora.
+    example: He could see[…]some ragged red ixora hedges that need fixing up.
 prev_word: ixnay
 next_word: ixtle
 hubs:

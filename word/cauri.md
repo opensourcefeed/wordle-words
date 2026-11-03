@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CAURI a Wordle Word?
-head_title: Is CAURI a Wordle Word? Yes – Valid Guess
+head_title: Is CAURI a Wordle Word? Yes – Valid Guess & Meaning
 word: cauri
 description: Yes, CAURI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,14 @@ neighbours:
 anagrams:
 - auric
 - curia
+phonetic: "/ˈkaʊɹi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A former monetary subdivision, equivalent to one hundredth of a Guinean
+      syli.
+  - text: 'Alternative form of chowry: A flyflap or whisk originally made from the
+      bushy tail of a yak.'
 prev_word: caups
 next_word: causa
 hubs:

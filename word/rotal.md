@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ROTAL a Wordle Word?
-head_title: Is ROTAL a Wordle Word? Yes – Valid Guess
+head_title: Is ROTAL a Wordle Word? Yes – Valid Guess & Meaning
 word: rotal
 description: Yes, ROTAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,16 @@ neighbours:
 - rotas
 anagrams:
 - tolar
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or relating to wheels.
+  - text: 'Alternative form of rotary: of or relating to circular motion.'
+  - text: Of or relating to the Rota.
+- pos: noun
+  defs:
+  - text: 'Alternative form of rottol: a former Middle Eastern and North African unit
+      of dry weight variously equal to 1–5 lbs. (.5–2.5 kg.).'
 prev_word: rosts
 next_word: rotan
 hubs:

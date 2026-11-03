@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TRIFF a Wordle Word?
-head_title: Is TRIFF a Wordle Word? Yes – Valid Guess
+head_title: Is TRIFF a Wordle Word? Yes – Valid Guess & Meaning
 word: triff
 description: Yes, TRIFF is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ stats:
 neighbours:
 - griff
 - trifa
+definitions:
+- pos: adjective
+  defs:
+  - text: Terrific; wonderful
+    example: Our daughter thinks you're wonderful. “Cool” I think was the adjective
+      she used. […] Or maybe it was “triff”.
 prev_word: trifa
 next_word: trigo
 hubs:

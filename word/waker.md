@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WAKER a Wordle Word?
-head_title: Is WAKER a Wordle Word? Yes – Valid Guess
+head_title: Is WAKER a Wordle Word? Yes – Valid Guess & Meaning
 word: waker
 description: Yes, WAKER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,18 @@ anagrams:
 trap:
   pattern: _AKER
   count: 12
+definitions:
+- pos: adjective
+  defs:
+  - text: Watchful; vigilant; alert.
+- pos: noun
+  defs:
+  - text: One who wakens or arouses from sleep.
+    example: an early waker
+  - text: One who wakes somebody or something.
+  - text: An alarm clock.
+  - text: In the Rust programming language, a handle that "wakes up" a task by notifying
+      its executor that it is ready to be run.
 prev_word: waken
 next_word: wakes
 hubs:

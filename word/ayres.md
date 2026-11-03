@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AYRES a Wordle Word?
-head_title: Is AYRES a Wordle Word? Yes – Valid Guess
+head_title: Is AYRES a Wordle Word? Yes – Valid Guess & Meaning
 word: ayres
 description: Yes, AYRES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,10 @@ anagrams:
 trap:
   pattern: _YRES
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of ayre: A narrow bar of sand or gravel formed by the sea; a sandbank.'
 prev_word: ayont
 next_word: ayrie
 hubs:

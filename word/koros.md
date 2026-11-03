@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KOROS a Wordle Word?
-head_title: Is KOROS a Wordle Word? Yes – Valid Guess
+head_title: Is KOROS a Wordle Word? Yes – Valid Guess & Meaning
 word: koros
 description: Yes, KOROS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,12 @@ anagrams:
 - rokos
 - rooks
 - skroo
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of koro: A delusional syndrome found in Malay and southern Chinese
+      populations, characterized by a belief that the subject''s penis will retract
+      into the abdomen and cause death.'
 prev_word: korma
 next_word: korun
 hubs:

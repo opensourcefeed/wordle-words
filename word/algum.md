@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ALGUM a Wordle Word?
-head_title: Is ALGUM a Wordle Word? Yes – Valid Guess
+head_title: Is ALGUM a Wordle Word? Yes – Valid Guess & Meaning
 word: algum
 description: Yes, ALGUM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ anagrams:
 - almug
 - glaum
 - mulga
+definitions:
+- pos: noun
+  defs:
+  - text: A tree or wood mentioned in the Bible, possibly juniper or red sandalwood.
+    example: And the seruants also of Huram, and the seruants of Solomon, which brought
+      gold from Ophir, brought Algume trees and, precious stones.
 prev_word: algos
 next_word: alias
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PURAO a Wordle Word?
-head_title: Is PURAO a Wordle Word? Yes – Valid Guess
+head_title: Is PURAO a Wordle Word? Yes – Valid Guess & Meaning
 word: purao
 description: Yes, PURAO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - purau
 anagrams:
 - raupo
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of purau: A Polynesian shrub or small tree, Hibiscus tiliaceus,
+      having yellow flowers and a fibrous bark.'
 prev_word: pupus
 next_word: purau
 hubs:

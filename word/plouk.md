@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PLOUK a Wordle Word?
-head_title: Is PLOUK a Wordle Word? Yes – Valid Guess
+head_title: Is PLOUK a Wordle Word? Yes – Valid Guess & Meaning
 word: plouk
 description: Yes, PLOUK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,12 @@ neighbours:
 - plonk
 - plook
 - plout
+definitions:
+- pos: noun
+  defs:
+  - text: A pimple or spot.
+    example: No liquor hath been tryed more excellent for itching, and heat of the
+      face with plouks, & puſtuls then this water, it being both drunck and put thervpon.
 prev_word: plotz
 next_word: plout
 hubs:

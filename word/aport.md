@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is APORT a Wordle Word?
-head_title: Is APORT a Wordle Word? Yes – Valid Guess
+head_title: Is APORT a Wordle Word? Yes – Valid Guess & Meaning
 word: aport
 description: Yes, APORT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,10 @@ neighbours:
 anagrams:
 - porta
 - trapo
+definitions:
+- pos: adverb
+  defs:
+  - text: On the left side of the boat
 prev_word: apoop
 next_word: appal
 hubs:

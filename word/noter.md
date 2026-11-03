@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NOTER a Wordle Word?
-head_title: Is NOTER a Wordle Word? Yes – Valid Guess
+head_title: Is NOTER a Wordle Word? Yes – Valid Guess & Meaning
 word: noter
 description: Yes, NOTER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,13 @@ anagrams:
 - ronte
 - toner
 - trone
+definitions:
+- pos: noun
+  defs:
+  - text: One who takes notice.
+  - text: An annotator.
+  - text: A small rod, usually made of wood, pressed against the melody course of
+      a lap dulcimer to change the pitches.
 prev_word: noted
 next_word: notes
 hubs:

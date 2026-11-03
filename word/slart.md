@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SLART a Wordle Word?
-head_title: Is SLART a Wordle Word? Yes – Valid Guess
+head_title: Is SLART a Wordle Word? Yes – Valid Guess & Meaning
 word: slart
 description: Yes, SLART is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,17 @@ neighbours:
 trap:
   pattern: S_ART
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: Leftover(s), especially of food.
+    example: "[…] they must be able to measure any earth—any inch-space of the heart
+      whatever—else they are mere orts and slarts."
+- pos: verb
+  defs:
+  - text: To splash or splatter, especially with something dirty.
+    example: Luke at that dolly! — slarting t' barns wi' t' dish-clart, astead o'
+      gehring wesh'd up,[…]
 prev_word: slaps
 next_word: slash
 hubs:

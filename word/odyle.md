@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ODYLE a Wordle Word?
-head_title: Is ODYLE a Wordle Word? Yes – Valid Guess
+head_title: Is ODYLE a Wordle Word? Yes – Valid Guess & Meaning
 word: odyle
 description: Yes, ODYLE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,15 @@ anagrams:
 - doley
 - yodel
 - yodle
+phonetic: "/ˈɒd(ɪ)l/"
+definitions:
+- pos: noun
+  defs:
+  - text: Synonym of od (“a hypothetical force or natural power, now proved not to
+      exist, which was supposed by Carl Reichenbach and others to inhere in certain
+      people and produce phenomena such as animal magnetism and mesmerism, and to
+      be developed by various agencies, as by chemical or vital action, heat, light,
+      magnets, etc.”).
 prev_word: odums
 next_word: odyls
 hubs:

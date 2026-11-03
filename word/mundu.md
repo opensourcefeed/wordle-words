@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MUNDU a Wordle Word?
-head_title: Is MUNDU a Wordle Word? Yes – Valid Guess
+head_title: Is MUNDU a Wordle Word? Yes – Valid Guess & Meaning
 word: mundu
 description: Yes, MUNDU is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,11 @@ neighbours:
 - bundu
 - munds
 - muntu
+definitions:
+- pos: noun
+  defs:
+  - text: A garment resembling a dhoti, worn around the waist in Kerala, the Tulunadu
+      region, and Maldives.
 prev_word: munds
 next_word: munga
 hubs:

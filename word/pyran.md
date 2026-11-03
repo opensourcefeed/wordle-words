@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PYRAN a Wordle Word?
-head_title: Is PYRAN a Wordle Word? Yes – Valid Guess
+head_title: Is PYRAN a Wordle Word? Yes – Valid Guess & Meaning
 word: pyran
 description: Yes, PYRAN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ neighbours:
 - tyran
 anagrams:
 - pryan
+definitions:
+- pos: noun
+  defs:
+  - text: Any of a class of unsaturated heterocyclic compounds containing a ring of
+      five carbon atoms, an oxygen atom and two double bonds; especially the simplest
+      one, C₅H₆O.
 prev_word: pyral
 next_word: pyres
 hubs:

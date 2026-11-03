@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REDUB a Wordle Word?
-head_title: Is REDUB a Wordle Word? Yes – Valid Guess
+head_title: Is REDUB a Wordle Word? Yes – Valid Guess & Meaning
 word: redub
 description: Yes, REDUB is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,18 @@ neighbours:
 anagrams:
 - debur
 - rebud
+phonetic: "/ɹiːˈdʌb/"
+definitions:
+- pos: verb
+  defs:
+  - text: To give another name or title to; to dub again.
+  - text: To dub (video material) again; to provide with a new soundtrack.
+  - text: To repair or correct something.
+    example: God shall giue power to redub it with some like requitall to the Frenc
+- pos: noun
+  defs:
+  - text: A video re-edited in any way an editor wants.
+  - text: A remedy or improvement
 prev_word: redry
 next_word: redug
 hubs:

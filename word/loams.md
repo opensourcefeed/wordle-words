@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LOAMS a Wordle Word?
-head_title: Is LOAMS a Wordle Word? Yes – Valid Guess
+head_title: Is LOAMS a Wordle Word? Yes – Valid Guess & Meaning
 word: loams
 description: Yes, LOAMS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,14 @@ anagrams:
 - lomas
 - moals
 - molas
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of loam: A type of soil; an earthy mixture of sand, silt and clay,
+      with organic matter to which its fertility is chiefly due.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of loam
 prev_word: loafs
 next_word: loamy
 hubs:

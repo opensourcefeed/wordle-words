@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SHEAL a Wordle Word?
-head_title: Is SHEAL a Wordle Word? Yes – Valid Guess
+head_title: Is SHEAL a Wordle Word? Yes – Valid Guess & Meaning
 word: sheal
 description: Yes, SHEAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,16 @@ anagrams:
 - halse
 - heals
 - selah
+definitions:
+- pos: noun
+  defs:
+  - text: A shell or pod.
+  - text: A shieling
+- pos: verb
+  defs:
+  - text: To shell (remove husks, shells etc)
+    example: That's a shealed peascod.
+  - text: To shelter under a shieling
 prev_word: sheaf
 next_word: shear
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KANDY a Wordle Word?
-head_title: Is KANDY a Wordle Word? Yes – Valid Guess
+head_title: Is KANDY a Wordle Word? Yes – Valid Guess & Meaning
 word: kandy
 description: Yes, KANDY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,10 @@ neighbours:
 trap:
   pattern: _ANDY
   count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative form of candy (Indian unit of mass)
 prev_word: kanat
 next_word: kaneh
 hubs:

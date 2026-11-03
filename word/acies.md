@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ACIES a Wordle Word?
-head_title: Is ACIES a Wordle Word? Yes – Valid Guess
+head_title: Is ACIES a Wordle Word? Yes – Valid Guess & Meaning
 word: acies
 description: Yes, ACIES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,12 @@ neighbours:
 - amies
 anagrams:
 - saice
+definitions:
+- pos: noun
+  defs:
+  - text: The full attention of one's sight, hearing or other senses, as directed
+      towards a particular object.
+  - text: The edge or angle of certain stems.
 prev_word: acidy
 next_word: acing
 hubs:

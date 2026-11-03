@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LUNET a Wordle Word?
-head_title: Is LUNET a Wordle Word? Yes – Valid Guess
+head_title: Is LUNET a Wordle Word? Yes – Valid Guess & Meaning
 word: lunet
 description: Yes, LUNET is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,13 @@ neighbours:
 - lunes
 anagrams:
 - unlet
+definitions:
+- pos: noun
+  defs:
+  - text: A little moon or satellite.
+    example: "[…] our predecessors; who could never have believed, that there were
+      such lunets about some of the planets, as our late perspectives have descried
+      […]"
 prev_word: lunes
 next_word: lunge
 hubs:

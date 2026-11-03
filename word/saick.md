@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SAICK a Wordle Word?
-head_title: Is SAICK a Wordle Word? Yes – Valid Guess
+head_title: Is SAICK a Wordle Word? Yes – Valid Guess & Meaning
 word: saick
 description: Yes, SAICK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,11 @@ neighbours:
 trap:
   pattern: S_ICK
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of saic: A kind of ketch heavily used in the Black Sea, Tisa,
+      Danube and Sava'
 prev_word: saice
 next_word: saics
 hubs:

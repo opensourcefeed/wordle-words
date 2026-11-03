@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OSHAC a Wordle Word?
-head_title: Is OSHAC a Wordle Word? Yes – Valid Guess
+head_title: Is OSHAC a Wordle Word? Yes – Valid Guess & Meaning
 word: oshac
 description: Yes, OSHAC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,10 @@ stats:
   starter_top_percent: 31
 anagrams:
 - chaos
+definitions:
+- pos: noun
+  defs:
+  - text: The perennial herb Dorema ammoniacum, whose stem yields ammoniacum.
 prev_word: oseys
 next_word: osier
 hubs:

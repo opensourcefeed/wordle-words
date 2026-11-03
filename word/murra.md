@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MURRA a Wordle Word?
-head_title: Is MURRA a Wordle Word? Yes – Valid Guess
+head_title: Is MURRA a Wordle Word? Yes – Valid Guess & Meaning
 word: murra
 description: Yes, MURRA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,11 @@ neighbours:
 - murry
 - murva
 - surra
+definitions:
+- pos: noun
+  defs:
+  - text: An ornamental stone for vases, etc. described by Pliny, most probably fluorspar;
+      it was first brought to Rome by Pompey, 61 B.C.
 prev_word: murly
 next_word: murre
 hubs:

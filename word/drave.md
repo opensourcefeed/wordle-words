@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DRAVE a Wordle Word?
-head_title: Is DRAVE a Wordle Word? Yes – Valid Guess
+head_title: Is DRAVE a Wordle Word? Yes – Valid Guess & Meaning
 word: drave
 description: Yes, DRAVE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,13 @@ neighbours:
 - trave
 anagrams:
 - raved
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past of drive: To operate (a wheeled motorized vehicle).'
+    example: I do not know its name, but the Sahib sat in the midst of three silver
+      wheels that made no creaking, and drave them with his legs, prancing like a
+      bean-fed horse—thus.
 prev_word: drats
 next_word: drawl
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WASES a Wordle Word?
-head_title: Is WASES a Wordle Word? Yes – Valid Guess
+head_title: Is WASES a Wordle Word? Yes – Valid Guess & Meaning
 word: wases
 description: Yes, WASES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,11 @@ neighbours:
 trap:
   pattern: _ASES
   count: 12
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of wase: A bundle of straw, or other material, to relieve the pressure
+      of burdens carried upon the head.'
 prev_word: warty
 next_word: washi
 hubs:

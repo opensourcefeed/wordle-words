@@ -1,11 +1,11 @@
 ---
 layout: word
 title: Is BONEY a Wordle Word?
-head_title: Is BONEY a Wordle Word? Yes – Possible Answer
+head_title: Is BONEY a Wordle Word? Yes – Possible Answer & Meaning
 word: boney
 description: Yes, BONEY is a valid Wordle word. It is on the original Wordle answer
-  list and has not been an answer yet, so it could be a future answer. See its starter
-  rating and similar words.
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
 status: possible
 answer_text: It is on the original Wordle answer list and has not been an answer yet,
   so it could be a future answer.
@@ -39,6 +39,11 @@ anagrams:
 trap:
   pattern: _ONEY
   count: 6
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Alternative spelling of bony: Resembling, having the appearance or consistence
+      of, or relating to bone; osseous.'
 prev_word: bones
 next_word: bongo
 hubs:

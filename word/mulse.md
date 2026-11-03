@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MULSE a Wordle Word?
-head_title: Is MULSE a Wordle Word? Yes – Valid Guess
+head_title: Is MULSE a Wordle Word? Yes – Valid Guess & Meaning
 word: mulse
 description: Yes, MULSE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,12 @@ neighbours:
 - musse
 anagrams:
 - mules
+definitions:
+- pos: noun
+  defs:
+  - text: Wine or water boiled and mixed with honey.
+    example: Rome's herdfolk, […] Leaned on their elbows; drinking mulse and milk,
+      In yewen cups, […]
 prev_word: mulls
 next_word: mulsh
 hubs:

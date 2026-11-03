@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MOTON a Wordle Word?
-head_title: Is MOTON a Wordle Word? Yes – Valid Guess
+head_title: Is MOTON a Wordle Word? Yes – Valid Guess & Meaning
 word: moton
 description: Yes, MOTON is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,13 @@ neighbours:
 - moten
 - muton
 - roton
+definitions:
+- pos: noun
+  defs:
+  - text: A small plate covering the armpit in armour of the 14th century and later.
+    example: "[…], the pauldrons covered the back of the shoulders, motons were worn
+      over a gusset of mail at the right armpit, and the elbow-plates were of large
+      size."
 prev_word: motis
 next_word: motor
 hubs:

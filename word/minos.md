@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MINOS a Wordle Word?
-head_title: Is MINOS a Wordle Word? Yes – Valid Guess
+head_title: Is MINOS a Wordle Word? Yes – Valid Guess & Meaning
 word: minos
 description: Yes, MINOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,10 @@ neighbours:
 trap:
   pattern: MIN_S
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of mino: A traditional Japanese raincoat made from straw.'
 prev_word: minor
 next_word: minse
 hubs:

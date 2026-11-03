@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FORKY a Wordle Word?
-head_title: Is FORKY a Wordle Word? Yes – Valid Guess
+head_title: Is FORKY a Wordle Word? Yes – Valid Guess & Meaning
 word: forky
 description: Yes, FORKY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,12 @@ neighbours:
 - forks
 - porky
 - worky
+definitions:
+- pos: adjective
+  defs:
+  - text: Synonym of forked.
+    example: The Leaves are compoſed each of ſeven parts; the Flowers grow by two's
+      on forky Footſtalks.
 prev_word: forks
 next_word: forma
 hubs:

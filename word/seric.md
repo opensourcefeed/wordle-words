@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SERIC a Wordle Word?
-head_title: Is SERIC a Wordle Word? Yes – Valid Guess
+head_title: Is SERIC a Wordle Word? Yes – Valid Guess & Meaning
 word: seric
 description: Yes, SERIC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,12 @@ anagrams:
 - icers
 - rices
 - scire
+phonetic: "/ˈsɛɹɪk/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Synonym of silken, made of silk.
+  - text: Synonym of silky, like silk.
 prev_word: seria
 next_word: serif
 hubs:

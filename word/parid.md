@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PARID a Wordle Word?
-head_title: Is PARID a Wordle Word? Yes – Valid Guess
+head_title: Is PARID a Wordle Word? Yes – Valid Guess & Meaning
 word: parid
 description: Yes, PARID is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,10 @@ anagrams:
 - adrip
 - padri
 - pardi
+definitions:
+- pos: noun
+  defs:
+  - text: Any bird in the family Paridae, the tits or chickadees
 prev_word: pargo
 next_word: paris
 hubs:

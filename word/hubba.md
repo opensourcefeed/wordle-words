@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HUBBA a Wordle Word?
-head_title: Is HUBBA a Wordle Word? Yes – Valid Guess
+head_title: Is HUBBA a Wordle Word? Yes – Valid Guess & Meaning
 word: hubba
 description: Yes, HUBBA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,15 @@ neighbours:
 - bubba
 - gubba
 - hubby
+definitions:
+- pos: noun
+  defs:
+  - text: A grain.
+    example: Diamonds and pearls are sold by hubbas and ruttees; 8 hubbas equal to
+      1 ruttee, about 2 grains troy.
+  - text: A jot or tittle; the smallest amount.
+    example: The camp Banyans, to make their purchases of him, pay the assize your
+      Highness may fix, and not a hubba shall be taken without payment being made.
 prev_word: hoyle
 next_word: hubby
 hubs:

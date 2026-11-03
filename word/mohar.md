@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MOHAR a Wordle Word?
-head_title: Is MOHAR a Wordle Word? Yes – Valid Guess
+head_title: Is MOHAR a Wordle Word? Yes – Valid Guess & Meaning
 word: mohar
 description: Yes, MOHAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,11 @@ neighbours:
 anagrams:
 - morah
 - omrah
+definitions:
+- pos: noun
+  defs:
+  - text: The currency of the Kingdom of Nepal and adjoining parts of Videha from
+      the late 17th century until 1932, subdivided into dams.
 prev_word: mogul
 next_word: mohel
 hubs:

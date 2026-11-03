@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DOTAL a Wordle Word?
-head_title: Is DOTAL a Wordle Word? Yes – Valid Guess
+head_title: Is DOTAL a Wordle Word? Yes – Valid Guess & Meaning
 word: dotal
 description: Yes, DOTAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,15 @@ neighbours:
 - domal
 - notal
 - rotal
+phonetic: "/ˈdəʊtəl/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Pertaining to dower, or a woman's marriage portion; constituting or comprised
+      in dower.
+    example: |-
+      Shall I, of one poor dotal town poſſeſt,
+      My people thin, my wretched country waſte
 prev_word: dosha
 next_word: doted
 hubs:

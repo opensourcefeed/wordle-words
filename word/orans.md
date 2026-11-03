@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ORANS a Wordle Word?
-head_title: Is ORANS a Wordle Word? Yes – Valid Guess
+head_title: Is ORANS a Wordle Word? Yes – Valid Guess & Meaning
 word: orans
 description: Yes, ORANS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,12 @@ anagrams:
 trap:
   pattern: _RANS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A figure in an attitude of prayer, usually standing, with the elbows close
+      to the sides of the body and with the hands outstretched sideways, palms up.
+  - text: The posture or bodily attitude of such a figure.
 prev_word: orang
 next_word: orant
 hubs:

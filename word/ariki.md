@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ARIKI a Wordle Word?
-head_title: Is ARIKI a Wordle Word? Yes – Valid Guess
+head_title: Is ARIKI a Wordle Word? Yes – Valid Guess & Meaning
 word: ariki
 description: Yes, ARIKI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,10 @@ stats:
   starter_top_percent: 61
 neighbours:
 - briki
+definitions:
+- pos: noun
+  defs:
+  - text: A person having a hereditary chiefly or noble rank in Polynesia.
 prev_word: ariel
 next_word: arils
 hubs:

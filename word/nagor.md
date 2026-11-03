@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NAGOR a Wordle Word?
-head_title: Is NAGOR a Wordle Word? Yes – Valid Guess
+head_title: Is NAGOR a Wordle Word? Yes – Valid Guess & Meaning
 word: nagor
 description: Yes, NAGOR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,11 @@ anagrams:
 - grano
 - orang
 - rogan
+phonetic: "/ˈneɪɡɔɹ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The bohor reedbuck, Redunca redunca.
 prev_word: naggy
 next_word: nahal
 hubs:

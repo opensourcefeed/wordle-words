@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OWLED a Wordle Word?
-head_title: Is OWLED a Wordle Word? Yes – Valid Guess
+head_title: Is OWLED a Wordle Word? Yes – Valid Guess & Meaning
 word: owled
 description: Yes, OWLED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,13 @@ anagrams:
 - dowel
 - dowle
 - lowed
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of owl: Any of various birds of prey of
+      the order Strigiformes, families Strigidae and Tytonidae, that are primarily
+      nocturnal and have forward-looking, binocular vision, limited eye movement,
+      and good hearing.'
 prev_word: owing
 next_word: owler
 hubs:

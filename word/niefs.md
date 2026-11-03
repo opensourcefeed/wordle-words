@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NIEFS a Wordle Word?
-head_title: Is NIEFS a Wordle Word? Yes – Valid Guess
+head_title: Is NIEFS a Wordle Word? Yes – Valid Guess & Meaning
 word: niefs
 description: Yes, NIEFS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,10 @@ anagrams:
 - fines
 - neifs
 - nifes
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of nief: A serf or bondsman born into servitude.'
 prev_word: niece
 next_word: niess
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LORIC a Wordle Word?
-head_title: Is LORIC a Wordle Word? Yes – Valid Guess
+head_title: Is LORIC a Wordle Word? Yes – Valid Guess & Meaning
 word: loric
 description: Yes, LORIC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,18 @@ neighbours:
 - lotic
 - roric
 - toric
+phonetic: "/ˈlɔɹɪk/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Pertaining to or characterized by lore.
+    example: "[…] the loric and sacred dimensions tend to blur into one another."
+- pos: noun
+  defs:
+  - text: A cosmid vector derived from the lambda phage replicon.
+    example: The cosmid vector loric ( 'lambda-origin cosmid' ) is designed to allow
+      rapid mapping of restriction sites in cloned DNAs and thus to facilitate analyses
+      of large regions of chromosomes.
 prev_word: lores
 next_word: loris
 hubs:

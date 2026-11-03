@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TUFAS a Wordle Word?
-head_title: Is TUFAS a Wordle Word? Yes – Valid Guess
+head_title: Is TUFAS a Wordle Word? Yes – Valid Guess & Meaning
 word: tufas
 description: Yes, TUFAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,11 @@ neighbours:
 - tunas
 anagrams:
 - fauts
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of tufa: Calcareous lime deposited by precipitation from a body
+      of water, such as a hot spring.'
 prev_word: tucks
 next_word: tuffe
 hubs:

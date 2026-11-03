@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CLOFF a Wordle Word?
-head_title: Is CLOFF a Wordle Word? Yes – Valid Guess
+head_title: Is CLOFF a Wordle Word? Yes – Valid Guess & Meaning
 word: cloff
 description: Yes, CLOFF is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,12 @@ stats:
   starter_top_percent: 91
 neighbours:
 - cliff
+definitions:
+- pos: noun
+  defs:
+  - text: An allowance of two pounds in every three hundredweight after the tare and
+      tret are subtracted; now used only in a general sense, of small deductions from
+      the original weight.
 prev_word: clods
 next_word: clogs
 hubs:

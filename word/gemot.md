@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GEMOT a Wordle Word?
-head_title: Is GEMOT a Wordle Word? Yes – Valid Guess
+head_title: Is GEMOT a Wordle Word? Yes – Valid Guess & Meaning
 word: gemot
 description: Yes, GEMOT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,16 @@ stats:
   starter_top_percent: 33
 neighbours:
 - demot
+phonetic: "/ɡɪˈməʊt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A (legislative or judicial) assembly in Anglo-Saxon England.
+    example: a.d. 978. — In this year was held the celebrated gemot at Calne in Wiltshire,
+      when the floor gave way […]
+  - text: Any assembly.
+    example: I have spoken to Veedron, a member of one of Trellisane's many gemots,
+      or ruling councils.
 prev_word: gemmy
 next_word: genae
 hubs:

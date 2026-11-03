@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CONNE a Wordle Word?
-head_title: Is CONNE a Wordle Word? Yes – Valid Guess
+head_title: Is CONNE a Wordle Word? Yes – Valid Guess & Meaning
 word: conne
 description: Yes, CONNE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,11 @@ anagrams:
 trap:
   pattern: _ONNE
   count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: 'Obsolete form of con: To study or examine carefully, especially in order
+      to gain knowledge of; to learn, or learn by heart.'
 prev_word: conky
 next_word: conns
 hubs:

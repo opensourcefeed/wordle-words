@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BELLO a Wordle Word?
-head_title: Is BELLO a Wordle Word? Yes – Valid Guess
+head_title: Is BELLO a Wordle Word? Yes – Valid Guess & Meaning
 word: bello
 description: Yes, BELLO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ neighbours:
 - bells
 - jello
 - rello
+definitions:
+- pos: noun
+  defs:
+  - text: A young man; sweetheart.
 prev_word: belli
 next_word: bells
 hubs:

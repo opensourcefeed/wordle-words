@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DONAH a Wordle Word?
-head_title: Is DONAH a Wordle Word? Yes – Valid Guess
+head_title: Is DONAH a Wordle Word? Yes – Valid Guess & Meaning
 word: donah
 description: Yes, DONAH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,10 @@ neighbours:
 - donas
 anagrams:
 - honda
+definitions:
+- pos: noun
+  defs:
+  - text: A larrikin's girlfriend.
 prev_word: domic
 next_word: donas
 hubs:

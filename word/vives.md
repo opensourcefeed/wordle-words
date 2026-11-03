@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is VIVES a Wordle Word?
-head_title: Is VIVES a Wordle Word? Yes – Valid Guess
+head_title: Is VIVES a Wordle Word? Yes – Valid Guess & Meaning
 word: vives
 description: Yes, VIVES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,11 @@ neighbours:
 trap:
   pattern: _IVES
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A disease of animals, especially horses, based in the glands under the ear,
+      where a tumour is formed which sometimes ends in suppuration.
 prev_word: viver
 next_word: vivid
 hubs:

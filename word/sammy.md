@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SAMMY a Wordle Word?
-head_title: Is SAMMY a Wordle Word? Yes – Valid Guess
+head_title: Is SAMMY a Wordle Word? Yes – Valid Guess & Meaning
 word: sammy
 description: Yes, SAMMY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,18 @@ neighbours:
 trap:
   pattern: _AMMY
   count: 9
+phonetic: "/ˈsæmi/"
+definitions:
+- pos: verb
+  defs:
+  - text: To moisten (animal skins) with water.
+- pos: noun
+  defs:
+  - text: A machine for moistening animal skins with water.
+  - text: 'Alternative form of sammie: A sandwich.'
+    example: The quintessential Toronto treat is a peameal bacon sammy (try one at
+      the St. Lawrence Market’s Carousel Bakery), and you ought to sample an ooey-gooey
+      butter tart, too.
 prev_word: samfu
 next_word: sampi
 hubs:

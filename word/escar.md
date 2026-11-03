@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ESCAR a Wordle Word?
-head_title: Is ESCAR a Wordle Word? Yes – Valid Guess
+head_title: Is ESCAR a Wordle Word? Yes – Valid Guess & Meaning
 word: escar
 description: Yes, ESCAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,12 @@ anagrams:
 - sacre
 - scrae
 - serac
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of eschar: A superficial structure of dead tissue, usually
+      hardened, and commonly but not necessarily dark, adhering to underlying living
+      or necrotic tissue, caused by gangrene or a burn.'
 prev_word: ervil
 next_word: escot
 hubs:

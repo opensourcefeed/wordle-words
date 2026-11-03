@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PAOLI a Wordle Word?
-head_title: Is PAOLI a Wordle Word? Yes – Valid Guess
+head_title: Is PAOLI a Wordle Word? Yes – Valid Guess & Meaning
 word: paoli
 description: Yes, PAOLI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,10 @@ neighbours:
 anagrams:
 - apiol
 - pilao
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of paolo: An old Italian silver coin.'
 prev_word: panty
 next_word: paolo
 hubs:

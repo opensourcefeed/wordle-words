@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PAGOD a Wordle Word?
-head_title: Is PAGOD a Wordle Word? Yes – Valid Guess
+head_title: Is PAGOD a Wordle Word? Yes – Valid Guess & Meaning
 word: pagod
 description: Yes, PAGOD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,14 @@ stats:
   starter_top_percent: 61
 neighbours:
 - paged
+phonetic: "/ˈpæɡəd/"
+definitions:
+- pos: noun
+  defs:
+  - text: Synonym of idol, particularly in South and Southeast Asia.
+    example: They worship idols called pagods, after such a terrible representation
+      as we make of devils.
+  - text: Alternative form of pagoda, various structures, a former coin.
 prev_word: pagne
 next_word: pagri
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WEANS a Wordle Word?
-head_title: Is WEANS a Wordle Word? Yes – Valid Guess
+head_title: Is WEANS a Wordle Word? Yes – Valid Guess & Meaning
 word: weans
 description: Yes, WEANS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,15 @@ anagrams:
 trap:
   pattern: _EANS
   count: 11
+definitions:
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of wean
+- pos: noun
+  defs:
+  - text: 'Plural of wean: To cease giving breast milk to an offspring; to accustom
+      and reconcile (a child or young animal) to a want or deprivation of mother''s
+      milk; to take from the breast or udder.'
 prev_word: weamb
 next_word: wears
 hubs:

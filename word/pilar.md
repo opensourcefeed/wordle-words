@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PILAR a Wordle Word?
-head_title: Is PILAR a Wordle Word? Yes – Valid Guess
+head_title: Is PILAR a Wordle Word? Yes – Valid Guess & Meaning
 word: pilar
 description: Yes, PILAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,12 @@ anagrams:
 trap:
   pattern: PILA_
   count: 6
+definitions:
+- pos: adjective
+  defs:
+  - text: Relating to hair.
+    example: pilar muscle; pilar cyst
+  - text: Covered in hair; hairy.
 prev_word: pilao
 next_word: pilau
 hubs:

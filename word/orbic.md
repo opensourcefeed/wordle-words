@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ORBIC a Wordle Word?
-head_title: Is ORBIC a Wordle Word? Yes – Valid Guess
+head_title: Is ORBIC a Wordle Word? Yes – Valid Guess & Meaning
 word: orbic
 description: Yes, ORBIC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 anagrams:
 - boric
 - cribo
+definitions:
+- pos: adjective
+  defs:
+  - text: Shaped or moving like an orb; spherical, circular.
+    example: the body of this orbic frame
 prev_word: orbed
 next_word: orbit
 hubs:

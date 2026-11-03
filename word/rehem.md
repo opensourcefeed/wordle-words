@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REHEM a Wordle Word?
-head_title: Is REHEM a Wordle Word? Yes – Valid Guess
+head_title: Is REHEM a Wordle Word? Yes – Valid Guess & Meaning
 word: rehem
 description: Yes, REHEM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,10 @@ neighbours:
 - retem
 anagrams:
 - rheme
+definitions:
+- pos: verb
+  defs:
+  - text: To supply (a garment, etc.) with a new hem.
 prev_word: rehab
 next_word: reifs
 hubs:

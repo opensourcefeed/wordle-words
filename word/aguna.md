@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AGUNA a Wordle Word?
-head_title: Is AGUNA a Wordle Word? Yes – Valid Guess
+head_title: Is AGUNA a Wordle Word? Yes – Valid Guess & Meaning
 word: aguna
 description: Yes, AGUNA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ neighbours:
 - abuna
 anagrams:
 - guana
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of agunah: A Jewish woman who is trapped in a marriage,
+      either because her husband has disappeared or because he will not grant her
+      a gett.'
 prev_word: aguey
 next_word: agush
 hubs:

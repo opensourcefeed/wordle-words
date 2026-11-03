@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NONNY a Wordle Word?
-head_title: Is NONNY a Wordle Word? Yes – Valid Guess
+head_title: Is NONNY a Wordle Word? Yes – Valid Guess & Meaning
 word: nonny
 description: Yes, NONNY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,22 @@ neighbours:
 - nunny
 - sonny
 - yonny
+phonetic: "/ˈnɒni/"
+definitions:
+- pos: noun
+  defs:
+  - text: A fool.
+  - text: An anon; a user who posts anonymously on the Internet.
+- pos: interjection
+  defs:
+  - text: A meaningless word used in refrains, especially in old English ballads and
+      glees.
+    example: |-
+      Then sigh not so,
+      But let them go,
+      And be you blithe and bonny,
+      Converting all your sounds of woe
+      Into Hey nonny, nonny.
 prev_word: nonno
 next_word: nonyl
 hubs:

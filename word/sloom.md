@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SLOOM a Wordle Word?
-head_title: Is SLOOM a Wordle Word? Yes – Valid Guess
+head_title: Is SLOOM a Wordle Word? Yes – Valid Guess & Meaning
 word: sloom
 description: Yes, SLOOM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,19 @@ anagrams:
 - mools
 - osmol
 - slomo
+phonetic: "/sluːm/"
+definitions:
+- pos: noun
+  defs:
+  - text: A gentle sleep; slumber.
+- pos: verb
+  defs:
+  - text: To sleep lightly, to doze, to nod; to be half-asleep.
+    example: The squire sloomed and slept in his chair; and finally, after a cup of
+      tea, went to bed.
+  - text: To soften or rot with damp. (of plants or soil)
+    example: He adds, that one hundred bolls, or fifty quarters of wheat may be thrashed
+      in a day of eight hours, unless the grain has been sloomed or mildewed; […]
 prev_word: slomo
 next_word: sloop
 hubs:

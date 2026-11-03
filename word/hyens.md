@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HYENS a Wordle Word?
-head_title: Is HYENS a Wordle Word? Yes – Valid Guess
+head_title: Is HYENS a Wordle Word? Yes – Valid Guess & Meaning
 word: hyens
 description: Yes, HYENS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,10 @@ neighbours:
 - hyena
 - hymns
 - syens
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of hyen: A hyena.'
 prev_word: hyena
 next_word: hygge
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BODGY a Wordle Word?
-head_title: Is BODGY a Wordle Word? Yes – Valid Guess
+head_title: Is BODGY a Wordle Word? Yes – Valid Guess & Meaning
 word: bodgy
 description: Yes, BODGY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,16 @@ neighbours:
 - boogy
 - podgy
 - wodgy
+definitions:
+- pos: adjective
+  defs:
+  - text: Fake; phony.
+    example: On the other hand, 'bodgy' dealers (those who sell fake caps or half-weights)
+      have become more common, especially during periods when there are few genuine
+      dealers available
+  - text: Sloppy or makeshift; bodged.
+    example: A bodgy eighties removal of all the picture rails had left the walls
+      with a serious case of the lumps.
 prev_word: bodge
 next_word: bodhi
 hubs:

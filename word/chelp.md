@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CHELP a Wordle Word?
-head_title: Is CHELP a Wordle Word? Yes – Valid Guess
+head_title: Is CHELP a Wordle Word? Yes – Valid Guess & Meaning
 word: chelp
 description: Yes, CHELP is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,14 @@ neighbours:
 - chela
 anagrams:
 - pelch
+definitions:
+- pos: verb
+  defs:
+  - text: To gossip, particularly in a forthright manner.
+    example: He's not here so we are chelping in the staffroom and ignoring the to-do
+      list on the board.
+  - text: To speak rudely or out of turn.
+    example: The teacher got angry at all her chelping.
 prev_word: chela
 next_word: chemo
 hubs:

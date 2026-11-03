@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AGERS a Wordle Word?
-head_title: Is AGERS a Wordle Word? Yes – Valid Guess
+head_title: Is AGERS a Wordle Word? Yes – Valid Guess & Meaning
 word: agers
 description: Yes, AGERS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,10 @@ anagrams:
 - sager
 - sarge
 - segar
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of ager: One who or that which ages something.'
 prev_word: agent
 next_word: aggag
 hubs:

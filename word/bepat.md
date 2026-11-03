@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BEPAT a Wordle Word?
-head_title: Is BEPAT a Wordle Word? Yes – Valid Guess
+head_title: Is BEPAT a Wordle Word? Yes – Valid Guess & Meaning
 word: bepat
 description: Yes, BEPAT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ neighbours:
 - begat
 - besat
 - repat
+definitions:
+- pos: verb
+  defs:
+  - text: To beat upon (as on a drum); patter upon.
 prev_word: benty
 next_word: beray
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ABOIL a Wordle Word?
-head_title: Is ABOIL a Wordle Word? Yes – Valid Guess
+head_title: Is ABOIL a Wordle Word? Yes – Valid Guess & Meaning
 word: aboil
 description: Yes, ABOIL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,21 @@ stats:
   starter_top_percent: 24
 anagrams:
 - baloi
+phonetic: "/əˈbɔɪl/"
+definitions:
+- pos: adjective
+  defs:
+  - text: In a boil; boiling.
+    example: The cooking, I can tell you, kept her nose to the pot, and even if there
+      was nothing in it, even though there was no pot, she had to keep watching that
+      it came aboil just the same.
+  - text: Heated up; excited.
+    example: He plugged on steadily, unmindful of where he was going. He was aboil
+      with perturbation.
+- pos: adverb
+  defs:
+  - text: In a boil; boiling.
+  - text: Heated up; excited.
 prev_word: abohm
 next_word: aboma
 hubs:

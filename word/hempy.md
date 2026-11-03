@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HEMPY a Wordle Word?
-head_title: Is HEMPY a Wordle Word? Yes – Valid Guess
+head_title: Is HEMPY a Wordle Word? Yes – Valid Guess & Meaning
 word: hempy
 description: Yes, HEMPY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,17 @@ neighbours:
 - hemps
 - humpy
 - kempy
+definitions:
+- pos: adjective
+  defs:
+  - text: Like hemp.
+    example: the rind and the Tree there is a Cotton, or hempy kind of Moss
+  - text: 'Alternative spelling of hempie: A criminal; someone who deserves to be,
+      or is likely to be, hanged.'
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of hempie: A criminal; someone who deserves to be,
+      or is likely to be, hanged.'
 prev_word: hemps
 next_word: hence
 hubs:

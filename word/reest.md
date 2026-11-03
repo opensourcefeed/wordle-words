@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REEST a Wordle Word?
-head_title: Is REEST a Wordle Word? Yes – Valid Guess
+head_title: Is REEST a Wordle Word? Yes – Valid Guess & Meaning
 word: reest
 description: Yes, REEST is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,13 @@ anagrams:
 - teers
 - teres
 - trees
+definitions:
+- pos: verb
+  defs:
+  - text: Alternative form of rest (“to cure, smoke, or dry (meat or fish); (of a
+      horse) to stop or refuse to go, balk”).
+    example: Gay Garland had carried my father over long to reest with him at the
+      hinderend.
 prev_word: reerd
 next_word: reeve
 hubs:

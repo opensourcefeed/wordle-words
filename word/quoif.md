@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is QUOIF a Wordle Word?
-head_title: Is QUOIF a Wordle Word? Yes – Valid Guess
+head_title: Is QUOIF a Wordle Word? Yes – Valid Guess & Meaning
 word: quoif
 description: Yes, QUOIF is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,13 @@ neighbours:
 - quoin
 - quois
 - quoit
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of coif: A hairdo.'
+    example: 'A scaly gauntlet now with joints of steel / Must glove this hand: and
+      hence, thou sickly quoif! / Thou art a guard too wanton for the head / Which
+      princes, flesh''d with conquest, aim to hit.'
 prev_word: quods
 next_word: quoin
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is VEINY a Wordle Word?
-head_title: Is VEINY a Wordle Word? Yes – Valid Guess
+head_title: Is VEINY a Wordle Word? Yes – Valid Guess & Meaning
 word: veiny
 description: Yes, VEINY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,13 @@ neighbours:
 - meiny
 - veily
 - veins
+phonetic: "/ˈveɪni/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having prominent veins.
+    example: Jason's throbbing veiny cock proudly telepathing his arousal for all
+      to witness.
 prev_word: veins
 next_word: velar
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOKEN a Wordle Word?
-head_title: Is SOKEN a Wordle Word? Yes – Valid Guess
+head_title: Is SOKEN a Wordle Word? Yes – Valid Guess & Meaning
 word: soken
 description: Yes, SOKEN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,14 @@ anagrams:
 - nokes
 - snoek
 - snoke
+definitions:
+- pos: noun
+  defs:
+  - text: The 'resort' (right) of specific farmers to have their grain ground at a
+      specific mill or, inversely, the right of a mill to that custom.
+  - text: A right of prosecution and judgement.
+  - text: The area over which this right was established.
+  - text: A place that is regularly frequented.
 prev_word: sokah
 next_word: sokes
 hubs:

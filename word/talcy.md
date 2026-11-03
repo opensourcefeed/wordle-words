@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TALCY a Wordle Word?
-head_title: Is TALCY a Wordle Word? Yes – Valid Guess
+head_title: Is TALCY a Wordle Word? Yes – Valid Guess & Meaning
 word: talcy
 description: Yes, TALCY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,10 @@ neighbours:
 - tally
 - talcs
 - talky
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or relating to talc; composed of, or resembling, talc.
 prev_word: talcs
 next_word: talea
 hubs:

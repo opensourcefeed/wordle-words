@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KEHUA a Wordle Word?
-head_title: Is KEHUA a Wordle Word? Yes – Valid Guess
+head_title: Is KEHUA a Wordle Word? Yes – Valid Guess & Meaning
 word: kehua
 description: Yes, KEHUA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,12 @@ stats:
   starter_top_percent: 33
 neighbours:
 - lehua
+definitions:
+- pos: noun
+  defs:
+  - text: A ghost; an evil spirit.
+    example: We'd say, 'Ready? Steady. Go!' And we'd run past his bedroom. Grandpa
+      would be in his armchair looking out. We'd flash past crying out, ‘Kehua! Kehua!’
 prev_word: kefir
 next_word: keirs
 hubs:

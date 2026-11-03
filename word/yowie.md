@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is YOWIE a Wordle Word?
-head_title: Is YOWIE a Wordle Word? Yes – Valid Guess
+head_title: Is YOWIE a Wordle Word? Yes – Valid Guess & Meaning
 word: yowie
 description: Yes, YOWIE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,13 @@ neighbours:
 trap:
   pattern: _OWIE
   count: 8
+phonetic: "/ˈjaʊwi/"
+definitions:
+- pos: noun
+  defs:
+  - text: An ape-like monster or animal said to exist in parts of eastern Australia.
+    example: The white population claimed that an escaped panther from a travelling
+      circus was the culprit; others thought that a Yowie was responsible.
 prev_word: yowes
 next_word: yowls
 hubs:

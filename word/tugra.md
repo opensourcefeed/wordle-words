@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TUGRA a Wordle Word?
-head_title: Is TUGRA a Wordle Word? Yes – Valid Guess
+head_title: Is TUGRA a Wordle Word? Yes – Valid Guess & Meaning
 word: tugra
 description: Yes, TUGRA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,13 @@ stats:
   starter_top_percent: 22
 anagrams:
 - tragu
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of tughra: A calligraphic signature of an Ottoman sultan
+      (and some other rulers to the present day) that was affixed to official documents,
+      carved on his seal, and stamped on coins and inscribed on some stamps issued
+      during his reign.'
 prev_word: tufty
 next_word: tuile
 hubs:

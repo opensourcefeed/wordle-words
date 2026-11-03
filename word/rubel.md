@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RUBEL a Wordle Word?
-head_title: Is RUBEL a Wordle Word? Yes – Valid Guess
+head_title: Is RUBEL a Wordle Word? Yes – Valid Guess & Meaning
 word: rubel
 description: Yes, RUBEL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,12 @@ anagrams:
 - bluer
 - brule
 - ruble
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative form of ruble (“the monetary unit of Belarus, equal to 100 kopeks”).
+    example: Belarus has issued new notes in the values of 50 kapeek, 1 rubel, 5 rublei,
+      10 rublei and 50 rublei.
 prev_word: rubby
 next_word: rubes
 hubs:

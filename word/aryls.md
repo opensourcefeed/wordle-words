@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ARYLS a Wordle Word?
-head_title: Is ARYLS a Wordle Word? Yes – Valid Guess
+head_title: Is ARYLS a Wordle Word? Yes – Valid Guess & Meaning
 word: aryls
 description: Yes, ARYLS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,11 @@ neighbours:
 anagrams:
 - rayls
 - ryals
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of aryl: Any univalent organic radical derived from an aromatic
+      hydrocarbon by removing a hydrogen atom.'
 prev_word: arvos
 next_word: asada
 hubs:

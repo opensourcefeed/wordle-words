@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is JHALA a Wordle Word?
-head_title: Is JHALA a Wordle Word? Yes – Valid Guess
+head_title: Is JHALA a Wordle Word? Yes – Valid Guess & Meaning
 word: jhala
 description: Yes, JHALA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -21,6 +22,11 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 92
+definitions:
+- pos: noun
+  defs:
+  - text: In Hindustani classical music, the fast-paced conclusion of a raga, often
+      characterized by the overwhelming of the melodic component by the rhythmic component.
 prev_word: jewie
 next_word: jheel
 hubs:

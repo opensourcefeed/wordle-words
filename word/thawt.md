@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is THAWT a Wordle Word?
-head_title: Is THAWT a Wordle Word? Yes – Valid Guess
+head_title: Is THAWT a Wordle Word? Yes – Valid Guess & Meaning
 word: thawt
 description: Yes, THAWT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,12 @@ stats:
 neighbours:
 - thaws
 - thawy
+definitions:
+- pos: verb
+  defs:
+  - text: 'Eye dialect spelling of thought: A representation created in the mind without
+      the use of one''s faculties of vision, sound, smell, touch, or taste; an instance
+      of thinking.'
 prev_word: thaws
 next_word: thawy
 hubs:

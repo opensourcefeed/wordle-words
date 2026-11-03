@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ROSET a Wordle Word?
-head_title: Is ROSET a Wordle Word? Yes – Valid Guess
+head_title: Is ROSET a Wordle Word? Yes – Valid Guess & Meaning
 word: roset
 description: Yes, ROSET is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,15 @@ anagrams:
 - rotes
 - tores
 - torse
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete spelling of rosette: An element or ornament resembling a rose,
+      especially on a wall or other surface, mostly for decorative purposes.'
+  - text: A red colour or pigment used by painters.
+    example: Take Florey Blew, and grinde it with a little fine Roset, and it will
+      made a deep Violet.
+  - text: Synonym of rosin.
 prev_word: roses
 next_word: rosha
 hubs:

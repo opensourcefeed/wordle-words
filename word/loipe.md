@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LOIPE a Wordle Word?
-head_title: Is LOIPE a Wordle Word? Yes – Valid Guess
+head_title: Is LOIPE a Wordle Word? Yes – Valid Guess & Meaning
 word: loipe
 description: Yes, LOIPE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,12 @@ stats:
   starter_top_percent: 12
 neighbours:
 - loupe
+definitions:
+- pos: noun
+  defs:
+  - text: A cross-country ski trail.
+    example: The provision of one of the basic requirements, a prepared track, commonly
+      called a "loipe," is now a normal feature of almost every resort in the world.
 prev_word: loins
 next_word: loirs
 hubs:

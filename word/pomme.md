@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is POMME a Wordle Word?
-head_title: Is POMME a Wordle Word? Yes – Valid Guess
+head_title: Is POMME a Wordle Word? Yes – Valid Guess & Meaning
 word: pomme
 description: Yes, POMME is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,11 @@ neighbours:
 - tomme
 anagrams:
 - mompe
+phonetic: "/pɑm/"
+definitions:
+- pos: noun
+  defs:
+  - text: A roundel vert (green circular spot), resembling or representing an apple.
 prev_word: pomes
 next_word: pommy
 hubs:

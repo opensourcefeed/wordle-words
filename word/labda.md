@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LABDA a Wordle Word?
-head_title: Is LABDA a Wordle Word? Yes – Valid Guess
+head_title: Is LABDA a Wordle Word? Yes – Valid Guess & Meaning
 word: labda
 description: Yes, LABDA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,11 @@ stats:
 neighbours:
 - labia
 - labra
+definitions:
+- pos: noun
+  defs:
+  - text: 'Archaic form of lambda: The eleventh letter of the Classical and Modern
+      Greek alphabet, the twelfth of the Old Greek alphabet.'
 prev_word: laari
 next_word: label
 hubs:

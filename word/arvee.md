@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ARVEE a Wordle Word?
-head_title: Is ARVEE a Wordle Word? Yes – Valid Guess
+head_title: Is ARVEE a Wordle Word? Yes – Valid Guess & Meaning
 word: arvee
 description: Yes, ARVEE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,12 @@ stats:
 anagrams:
 - eaver
 - reave
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative form of RV (“recreational vehicle”).
+    example: The arvee stopped in front of a side corridor with a small black sign
+      etched in gold that read, Dark Alpha Corporation.
 prev_word: arval
 next_word: arvos
 hubs:

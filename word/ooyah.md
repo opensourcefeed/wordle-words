@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OOYAH a Wordle Word?
-head_title: Is OOYAH a Wordle Word? Yes – Valid Guess
+head_title: Is OOYAH a Wordle Word? Yes – Valid Guess & Meaning
 word: ooyah
 description: Yes, OOYAH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,11 @@ neighbours:
 - oojah
 anagrams:
 - yahoo
+definitions:
+- pos: interjection
+  defs:
+  - text: Ouch; oof
+    example: "'Yeeks! Ooyah!' yelled Willard in agony."
 prev_word: ootid
 next_word: oozed
 hubs:

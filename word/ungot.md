@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UNGOT a Wordle Word?
-head_title: Is UNGOT a Wordle Word? Yes – Valid Guess
+head_title: Is UNGOT a Wordle Word? Yes – Valid Guess & Meaning
 word: ungot
 description: Yes, UNGOT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,15 @@ neighbours:
 - unget
 - ungod
 - unpot
+phonetic: "/ʌnˈɡɒt/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Not begotten.
+    example: |-
+      c. 1625, Edmund Waller, Of the Danger His Majesty (being Prince) Escaped in the Road at St Andero Light
+      his loins yet full of ungot princes
+  - text: Not acquired; ungotten.
 prev_word: ungod
 next_word: ungum
 hubs:

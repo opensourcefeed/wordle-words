@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GYNIE a Wordle Word?
-head_title: Is GYNIE a Wordle Word? Yes – Valid Guess
+head_title: Is GYNIE a Wordle Word? Yes – Valid Guess & Meaning
 word: gynie
 description: Yes, GYNIE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,14 @@ neighbours:
 - gynae
 anagrams:
 - eying
+definitions:
+- pos: noun
+  defs:
+  - text: Diminutive of gynaecologist.
+  - text: Diminutive of gynaecology.
+    example: "“When I came, well I am trained as a gynie [gynecologist], and I came
+      to provide services to my gynie patients,” she said, fighting the fatigue weighing
+      down her eyelids."
 prev_word: gynae
 next_word: gynny
 hubs:

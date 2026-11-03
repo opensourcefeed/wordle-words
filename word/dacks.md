@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DACKS a Wordle Word?
-head_title: Is DACKS a Wordle Word? Yes – Valid Guess
+head_title: Is DACKS a Wordle Word? Yes – Valid Guess & Meaning
 word: dacks
 description: Yes, DACKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,13 @@ neighbours:
 trap:
   pattern: _ACKS
   count: 15
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of daks: Trousers or underwear.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of dack
 prev_word: dacha
 next_word: dadah
 hubs:

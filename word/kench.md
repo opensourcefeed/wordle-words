@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KENCH a Wordle Word?
-head_title: Is KENCH a Wordle Word? Yes – Valid Guess
+head_title: Is KENCH a Wordle Word? Yes – Valid Guess & Meaning
 word: kench
 description: Yes, KENCH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,12 @@ neighbours:
 trap:
   pattern: _ENCH
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A bin or enclosure in which fish or skins are salted.
+    example: In the former process, the fish are thoroughly salted and placed in regular
+      piles on top of each other, called kenches.
 prev_word: kenaf
 next_word: kendo
 hubs:

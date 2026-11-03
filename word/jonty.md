@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is JONTY a Wordle Word?
-head_title: Is JONTY a Wordle Word? Yes – Valid Guess
+head_title: Is JONTY a Wordle Word? Yes – Valid Guess & Meaning
 word: jonty
 description: Yes, JONTY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 - jotty
 - monty
 - ponty
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative form of jaunty (“master-at-arms in the Royal Navy”).
 prev_word: jongs
 next_word: jooks
 hubs:

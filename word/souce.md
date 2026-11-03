@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOUCE a Wordle Word?
-head_title: Is SOUCE a Wordle Word? Yes – Valid Guess
+head_title: Is SOUCE a Wordle Word? Yes – Valid Guess & Meaning
 word: souce
 description: Yes, SOUCE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,20 @@ neighbours:
 - souct
 - souse
 - sowce
+phonetic: "/saʊs/"
+definitions:
+- pos: verb
+  defs:
+  - text: 'Obsolete form of souse: The pickled ears, feet, etc., of swine.'
+    example: |-
+      sadly soucing on the sandy shore ,
+      He tombled on an heape
+- pos: noun
+  defs:
+  - text: 'Obsolete form of souse: The pickled ears, feet, etc., of swine.'
+    example: |-
+      With dreadfull force he flies at her bylive ,
+      That with his souce , which none enduren dare
 prev_word: sotto
 next_word: souct
 hubs:

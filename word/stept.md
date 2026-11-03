@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STEPT a Wordle Word?
-head_title: Is STEPT a Wordle Word? Yes – Valid Guess
+head_title: Is STEPT a Wordle Word? Yes – Valid Guess & Meaning
 word: stept
 description: Yes, STEPT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 - stent
 - steps
 - stopt
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of step: An advance or movement made from
+      one foot to the other; a pace.'
+    example: Proud Margaret stept in o'er the door-sill.
 prev_word: steps
 next_word: stere
 hubs:

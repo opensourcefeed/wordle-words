@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HOISE a Wordle Word?
-head_title: Is HOISE a Wordle Word? Yes – Valid Guess
+head_title: Is HOISE a Wordle Word? Yes – Valid Guess & Meaning
 word: hoise
 description: Yes, HOISE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,12 @@ neighbours:
 - noise
 - poise
 - toise
+phonetic: "/hɔɪz/"
+definitions:
+- pos: verb
+  defs:
+  - text: To hoist.
+  - text: To hoist, be raised.
 prev_word: hoing
 next_word: hoist
 hubs:

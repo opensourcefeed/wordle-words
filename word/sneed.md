@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SNEED a Wordle Word?
-head_title: Is SNEED a Wordle Word? Yes – Valid Guess
+head_title: Is SNEED a Wordle Word? Yes – Valid Guess & Meaning
 word: sneed
 description: Yes, SNEED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,14 @@ anagrams:
 - deens
 - denes
 - needs
+phonetic: "/ˈsniːd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To seethe; to become extremely frustrated and agitated.
+    example: If it was a real /pol/ poster, he'd tell her to cope and sneed.
+  - text: To laugh; to find something amusing or funny, especially at someone's expense.
+  - text: 'Simple past and past participle of snee: A large knife.'
 prev_word: sneds
 next_word: sneer
 hubs:

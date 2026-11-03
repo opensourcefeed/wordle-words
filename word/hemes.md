@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HEMES a Wordle Word?
-head_title: Is HEMES a Wordle Word? Yes – Valid Guess
+head_title: Is HEMES a Wordle Word? Yes – Valid Guess & Meaning
 word: hemes
 description: Yes, HEMES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,12 @@ neighbours:
 trap:
   pattern: _EMES
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of heme: The component of hemoglobin (and other hemoproteins) responsible
+      for binding oxygen. It consists of an iron ion that binds oxygen and a porphyrin
+      ring that binds the globin molecules; one molecule binds one molecule of oxygen.'
 prev_word: hemal
 next_word: hemic
 hubs:

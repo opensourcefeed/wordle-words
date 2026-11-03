@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BREME a Wordle Word?
-head_title: Is BREME a Wordle Word? Yes – Valid Guess
+head_title: Is BREME a Wordle Word? Yes – Valid Guess & Meaning
 word: breme
 description: Yes, BREME is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,13 @@ anagrams:
 - ember
 - berme
 - breem
+phonetic: "/bɹiːm/"
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Of the sea, wind, etc.: fierce; raging; stormy, tempestuous.'
+    example: Let me, ah! lette me in your folds ye lock, / Ere the breme winter breede
+      you greater griefe.
 prev_word: breis
 next_word: brens
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MUGGA a Wordle Word?
-head_title: Is MUGGA a Wordle Word? Yes – Valid Guess
+head_title: Is MUGGA a Wordle Word? Yes – Valid Guess & Meaning
 word: mugga
 description: Yes, MUGGA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,12 @@ neighbours:
 - muggy
 - mulga
 - munga
+phonetic: "/ˈmʌɡə/"
+definitions:
+- pos: noun
+  defs:
+  - text: Eucalyptus sideroxylon, a species of eucalyptus endemic to eastern Australia.
+  - text: Alternative form of muga (“type of silk”).
 prev_word: mufti
 next_word: muggs
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is IRING a Wordle Word?
-head_title: Is IRING a Wordle Word? Yes – Valid Guess
+head_title: Is IRING a Wordle Word? Yes – Valid Guess & Meaning
 word: iring
 description: Yes, IRING is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 - wring
 - ering
 - pring
+definitions:
+- pos: verb
+  defs:
+  - text: Present participle and gerund of ire
 prev_word: irids
 next_word: irked
 hubs:

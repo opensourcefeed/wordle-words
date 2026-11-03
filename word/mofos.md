@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MOFOS a Wordle Word?
-head_title: Is MOFOS a Wordle Word? Yes – Valid Guess
+head_title: Is MOFOS a Wordle Word? Yes – Valid Guess & Meaning
 word: mofos
 description: Yes, MOFOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,10 @@ neighbours:
 trap:
   pattern: MO_OS
   count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: Plural of mofo
 prev_word: moers
 next_word: mogar
 hubs:

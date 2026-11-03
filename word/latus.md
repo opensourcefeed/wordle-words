@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LATUS a Wordle Word?
-head_title: Is LATUS a Wordle Word? Yes – Valid Guess
+head_title: Is LATUS a Wordle Word? Yes – Valid Guess & Meaning
 word: latus
 description: Yes, LATUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,11 @@ anagrams:
 - salut
 - sault
 - talus
+phonetic: "/ˈleɪ.təs/"
+definitions:
+- pos: noun
+  defs:
+  - text: Synonym of flank.
 prev_word: latte
 next_word: lauan
 hubs:

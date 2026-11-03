@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FEARE a Wordle Word?
-head_title: Is FEARE a Wordle Word? Yes – Valid Guess
+head_title: Is FEARE a Wordle Word? Yes – Valid Guess & Meaning
 word: feare
 description: Yes, FEARE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,17 @@ anagrams:
 trap:
   pattern: _EARE
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete spelling of fear: A strong, unpleasant emotion or feeling caused
+      by actual or perceived danger or threat.'
+    example: Revenge and Malice were as two violent oppugners on the one ſide, but
+      Honeſty, Religion, Feare of God, with-held him on the other.
+- pos: verb
+  defs:
+  - text: 'Obsolete spelling of fear: A strong, unpleasant emotion or feeling caused
+      by actual or perceived danger or threat.'
 prev_word: feard
 next_word: fears
 hubs:

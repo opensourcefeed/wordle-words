@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RONNE a Wordle Word?
-head_title: Is RONNE a Wordle Word? Yes – Valid Guess
+head_title: Is RONNE a Wordle Word? Yes – Valid Guess & Meaning
 word: ronne
 description: Yes, RONNE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,11 @@ neighbours:
 trap:
   pattern: _ONNE
   count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: 'Obsolete form of run: To move forward quickly upon two feet by alternately
+      making a short jump off either foot.'
 prev_word: ronin
 next_word: ronte
 hubs:

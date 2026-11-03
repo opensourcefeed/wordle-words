@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STADE a Wordle Word?
-head_title: Is STADE a Wordle Word? Yes – Valid Guess
+head_title: Is STADE a Wordle Word? Yes – Valid Guess & Meaning
 word: stade
 description: Yes, STADE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -44,6 +45,20 @@ anagrams:
 trap:
   pattern: STA_E
   count: 8
+phonetic: "/steɪd/"
+definitions:
+- pos: noun
+  defs:
+  - text: Synonym of stadion (“former Greek unit of distance”).
+  - text: A track for footraces and its surrounding stadium.
+  - text: In a journey.
+  - text: Of a disease.
+  - text: In glaciation during which a secondary advance of the glaciers occurs.
+  - text: A unit of length notionally based on the height of a grown man, equivalent
+      to a fathom.
+  - text: 'Synonym of estadio: a traditional Spanish unit of measure equivalent to
+      about 1.67 m.'
+  - text: A chief town in an area or country.
 prev_word: stack
 next_word: staff
 hubs:

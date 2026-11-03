@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BUIST a Wordle Word?
-head_title: Is BUIST a Wordle Word? Yes – Valid Guess
+head_title: Is BUIST a Wordle Word? Yes – Valid Guess & Meaning
 word: buist
 description: Yes, BUIST is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,14 @@ neighbours:
 - quist
 anagrams:
 - busti
+definitions:
+- pos: noun
+  defs:
+  - text: A box or chest.
+  - text: A mark put on sheep or cattle to indicate ownership.
+- pos: verb
+  defs:
+  - text: To mark with a buist.
 prev_word: built
 next_word: bukes
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REBUD a Wordle Word?
-head_title: Is REBUD a Wordle Word? Yes – Valid Guess
+head_title: Is REBUD a Wordle Word? Yes – Valid Guess & Meaning
 word: rebud
 description: Yes, REBUD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,10 @@ neighbours:
 anagrams:
 - debur
 - redub
+definitions:
+- pos: verb
+  defs:
+  - text: To bud again (send forth a second group of buds)
 prev_word: rebop
 next_word: rebus
 hubs:

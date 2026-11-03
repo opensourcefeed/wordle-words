@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MAJAT a Wordle Word?
-head_title: Is MAJAT a Wordle Word? Yes – Valid Guess
+head_title: Is MAJAT a Wordle Word? Yes – Valid Guess & Meaning
 word: majat
 description: Yes, MAJAT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,11 @@ stats:
 neighbours:
 - majas
 - manat
+definitions:
+- pos: noun
+  defs:
+  - text: Cannabis of low quality with too many sticks and seeds.
+  - text: Any other product or service that is of inferior quality.
 prev_word: majas
 next_word: majoe
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GYELD a Wordle Word?
-head_title: Is GYELD a Wordle Word? Yes – Valid Guess
+head_title: Is GYELD a Wordle Word? Yes – Valid Guess & Meaning
 word: gyeld
 description: Yes, GYELD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -21,6 +22,13 @@ stats:
   starter_top_percent: 47
 anagrams:
 - ledgy
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of guild: A group or association mainly of tradespeople made
+      up of merchants, craftspeople, or artisans, particularly in the Middle Ages,
+      established to oversee and protect their specific commercial interests and to
+      provide mutual aid.'
 prev_word: gybes
 next_word: gymps
 hubs:

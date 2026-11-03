@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NOTAL a Wordle Word?
-head_title: Is NOTAL a Wordle Word? Yes – Valid Guess
+head_title: Is NOTAL a Wordle Word? Yes – Valid Guess & Meaning
 word: notal
 description: Yes, NOTAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,10 @@ anagrams:
 - tonal
 - ontal
 - tolan
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or pertaining to the back; dorsal.
 prev_word: nosir
 next_word: notam
 hubs:

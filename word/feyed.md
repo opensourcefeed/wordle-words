@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FEYED a Wordle Word?
-head_title: Is FEYED a Wordle Word? Yes – Valid Guess
+head_title: Is FEYED a Wordle Word? Yes – Valid Guess & Meaning
 word: feyed
 description: Yes, FEYED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - feyer
 - heyed
 - keyed
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of fey: About to die; doomed; on the verge
+      of sudden or violent death.'
 prev_word: fewer
 next_word: feyer
 hubs:

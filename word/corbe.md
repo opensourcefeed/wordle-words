@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CORBE a Wordle Word?
-head_title: Is CORBE a Wordle Word? Yes – Valid Guess
+head_title: Is CORBE a Wordle Word? Yes – Valid Guess & Meaning
 word: corbe
 description: Yes, CORBE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,16 @@ neighbours:
 - combe
 - corby
 - corse
+phonetic: "/kɔː(ɹ)b/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Crooked
+    example: |-
+      I deeme thy braine emperished bee
+      Through rusty elde, that hath rotted thee:
+      Or sicker thy head veray tottie is,
+      So on thy corbe shoulder it leanes amisse.
 prev_word: coram
 next_word: corby
 hubs:

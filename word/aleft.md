@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ALEFT a Wordle Word?
-head_title: Is ALEFT a Wordle Word? Yes – Valid Guess
+head_title: Is ALEFT a Wordle Word? Yes – Valid Guess & Meaning
 word: aleft
 description: Yes, ALEFT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,16 @@ neighbours:
 - alefs
 anagrams:
 - fetal
+definitions:
+- pos: adverb
+  defs:
+  - text: To or on the left-hand side.
+    example: |-
+      Once more away! and now
+      The long descent is seen,
+      A long, long, narrow path.
+      Ice rocks aright, and hills of snow,
+      Aleft the giddy precipice.
 prev_word: alefs
 next_word: aleph
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OUMAS a Wordle Word?
-head_title: Is OUMAS a Wordle Word? Yes – Valid Guess
+head_title: Is OUMAS a Wordle Word? Yes – Valid Guess & Meaning
 word: oumas
 description: Yes, OUMAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,10 @@ neighbours:
 - lumas
 - oupas
 - pumas
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of ouma: A grandmother.'
 prev_word: oulks
 next_word: ounce
 hubs:

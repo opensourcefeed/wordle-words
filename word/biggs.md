@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BIGGS a Wordle Word?
-head_title: Is BIGGS a Wordle Word? Yes – Valid Guess
+head_title: Is BIGGS a Wordle Word? Yes – Valid Guess & Meaning
 word: biggs
 description: Yes, BIGGS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,10 @@ neighbours:
 - biogs
 - miggs
 - riggs
+definitions:
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of bigg
 prev_word: bigae
 next_word: biggy
 hubs:

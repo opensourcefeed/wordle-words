@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SPUGS a Wordle Word?
-head_title: Is SPUGS a Wordle Word? Yes – Valid Guess
+head_title: Is SPUGS a Wordle Word? Yes – Valid Guess & Meaning
 word: spugs
 description: Yes, SPUGS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ neighbours:
 trap:
   pattern: S_UGS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of spug: A sparrow.'
 prev_word: spues
 next_word: spule
 hubs:

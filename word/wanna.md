@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WANNA a Wordle Word?
-head_title: Is WANNA a Wordle Word? Yes – Valid Guess
+head_title: Is WANNA a Wordle Word? Yes – Valid Guess & Meaning
 word: wanna
 description: Yes, WANNA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,14 @@ neighbours:
 trap:
   pattern: _ANNA
   count: 6
+phonetic: "/ˈwɑ.nə/"
+definitions:
+- pos: contraction
+  defs:
+  - text: Represents a contracted pronunciation of want to.
+    example: I wanna go home!
+  - text: Represents a contracted pronunciation of want a.
+    example: I wanna puppy!
 prev_word: wanly
 next_word: wanta
 hubs:

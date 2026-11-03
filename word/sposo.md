@@ -5,6 +5,8 @@ head_title: Is SPOSO a Wordle Word? Yes – Valid Guess
 word: sposo
 description: Yes, SPOSO is a valid Wordle word. It is not on the Wordle answer list,
   so it is unlikely to be a daily answer. See its starter rating and similar words.
+noindex: true
+sitemap: false
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.

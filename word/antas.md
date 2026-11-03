@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ANTAS a Wordle Word?
-head_title: Is ANTAS a Wordle Word? Yes – Valid Guess
+head_title: Is ANTAS a Wordle Word? Yes – Valid Guess & Meaning
 word: antas
 description: Yes, ANTAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,11 @@ anagrams:
 trap:
   pattern: AN_AS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of anta: A kind of pier that terminates the walls of the naos, a
+      kind of post or pillar on either side of a doorway or entrance of a Greek temple.'
 prev_word: antar
 next_word: anted
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is COLLE a Wordle Word?
-head_title: Is COLLE a Wordle Word? Yes – Valid Guess
+head_title: Is COLLE a Wordle Word? Yes – Valid Guess & Meaning
 word: colle
 description: Yes, COLLE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,11 @@ neighbours:
 - zolle
 anagrams:
 - cello
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of coal: A black or brownish black rock formed from prehistoric
+      plant remains, composed largely of carbon and burned as a fuel.'
 prev_word: colin
 next_word: colls
 hubs:

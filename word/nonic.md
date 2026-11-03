@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NONIC a Wordle Word?
-head_title: Is NONIC a Wordle Word? Yes – Valid Guess
+head_title: Is NONIC a Wordle Word? Yes – Valid Guess & Meaning
 word: nonic
 description: Yes, NONIC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,15 @@ anagrams:
 trap:
   pattern: _ONIC
   count: 7
+phonetic: "/ˈnɒ.nɪk/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Describing a polynomial that has 9 as the highest exponent of its terms.
+  - text: Describing a curve the equation of which is nonic.
+  - text: Describing a type of beer glass used in British public houses; in the form
+      of a truncated cone with a bulge around outside, just below the rim.
+    example: a 20-ounce nonic glass
 prev_word: nongs
 next_word: nonis
 hubs:

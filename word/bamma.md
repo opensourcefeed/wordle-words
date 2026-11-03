@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BAMMA a Wordle Word?
-head_title: Is BAMMA a Wordle Word? Yes – Valid Guess
+head_title: Is BAMMA a Wordle Word? Yes – Valid Guess & Meaning
 word: bamma
 description: Yes, BAMMA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,14 @@ neighbours:
 - namma
 anagrams:
 - mamba
+phonetic: "/ˈbæmə/"
+definitions:
+- pos: noun
+  defs:
+  - text: An unstylish rural person; a hick.
+    example: Black didn't like them much. He said to me one day, “Stan, why do you
+      hang around them bammas?” Bamma meant “country” or “slow” or something of that
+      nature.
 prev_word: bambi
 next_word: bammy
 hubs:

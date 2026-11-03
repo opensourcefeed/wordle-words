@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ABORD a Wordle Word?
-head_title: Is ABORD a Wordle Word? Yes – Valid Guess
+head_title: Is ABORD a Wordle Word? Yes – Valid Guess & Meaning
 word: abord
 description: Yes, ABORD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,19 @@ anagrams:
 - bardo
 - dobra
 - dorba
+phonetic: "/əˈbɔːd/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act of approaching or arriving; approach.
+    example: He entered with an air so immensely conceited and affected, and, at the
+      same Time, so uncommonly bold, that I could scarce stand his Abord […].
+  - text: A road, or means of approach.
+- pos: verb
+  defs:
+  - text: 'Alternative form of aboard: On board; into or within a ship or boat; hence,
+      into or within a railway car.'
+    example: Mrs Hurstpierpoint aborded her with a smile.
 prev_word: aboon
 next_word: abore
 hubs:

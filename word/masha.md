@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MASHA a Wordle Word?
-head_title: Is MASHA a Wordle Word? Yes – Valid Guess
+head_title: Is MASHA a Wordle Word? Yes – Valid Guess & Meaning
 word: masha
 description: Yes, MASHA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,12 @@ neighbours:
 anagrams:
 - amahs
 - shama
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of maasha: A traditional unit of weight in South Asia,
+      usually about a gram and variably equivalent to a tenth or a twelfth of a tola;
+      in modern use, standardised to 0.972 grams and a twelfth of a tola.'
 prev_word: mases
 next_word: mashy
 hubs:

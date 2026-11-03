@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AZIDO a Wordle Word?
-head_title: Is AZIDO a Wordle Word? Yes – Valid Guess
+head_title: Is AZIDO a Wordle Word? Yes – Valid Guess & Meaning
 word: azido
 description: Yes, AZIDO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,10 @@ neighbours:
 - azide
 anagrams:
 - diazo
+definitions:
+- pos: noun
+  defs:
+  - text: The univalent radical N₃- related to azide
 prev_word: azide
 next_word: azine
 hubs:

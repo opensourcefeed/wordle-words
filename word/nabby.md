@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NABBY a Wordle Word?
-head_title: Is NABBY a Wordle Word? Yes – Valid Guess
+head_title: Is NABBY a Wordle Word? Yes – Valid Guess & Meaning
 word: nabby
 description: Yes, NABBY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,11 @@ neighbours:
 trap:
   pattern: _ABBY
   count: 7
+phonetic: "/ˈnæ.bɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A skiff used for fishing.
 prev_word: nabam
 next_word: nabes
 hubs:

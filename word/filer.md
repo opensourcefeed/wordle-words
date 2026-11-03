@@ -1,11 +1,11 @@
 ---
 layout: word
 title: Is FILER a Wordle Word?
-head_title: Is FILER a Wordle Word? Yes – Possible Answer
+head_title: Is FILER a Wordle Word? Yes – Possible Answer & Meaning
 word: filer
 description: Yes, FILER is a valid Wordle word. It is on the original Wordle answer
-  list and has not been an answer yet, so it could be a future answer. See its starter
-  rating and similar words.
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
 status: possible
 answer_text: It is on the original Wordle answer list and has not been an answer yet,
   so it could be a future answer.
@@ -43,6 +43,17 @@ anagrams:
 trap:
   pattern: _ILER
   count: 7
+phonetic: "/ˈfaɪlɚ/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who files something.
+    example: Hitherto I have hoarded up mementoes and monuments of the past; been
+      a worshiper of all heirlooms; a fond filer away of letters, locks of hair, bits
+      of ribbon, flowers, […]
+  - text: A software program for managing files.
+    example: The filer allows users to format and copy disks and to include a run-time
+      UCSD Pascal operating system.
 prev_word: filed
 next_word: files
 hubs:

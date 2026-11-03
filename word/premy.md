@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PREMY a Wordle Word?
-head_title: Is PREMY a Wordle Word? Yes – Valid Guess
+head_title: Is PREMY a Wordle Word? Yes – Valid Guess & Meaning
 word: premy
 description: Yes, PREMY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 - primy
 anagrams:
 - permy
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of preemie: A baby that has been born prematurely.'
 prev_word: prems
 next_word: prent
 hubs:

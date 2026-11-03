@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CAUPS a Wordle Word?
-head_title: Is CAUPS a Wordle Word? Yes – Valid Guess
+head_title: Is CAUPS a Wordle Word? Yes – Valid Guess & Meaning
 word: caups
 description: Yes, CAUPS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,10 @@ neighbours:
 - yaups
 anagrams:
 - scaup
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of caup: Cup.'
 prev_word: caums
 next_word: cauri
 hubs:

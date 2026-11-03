@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WAQFS a Wordle Word?
-head_title: Is WAQFS a Wordle Word? Yes – Valid Guess
+head_title: Is WAQFS a Wordle Word? Yes – Valid Guess & Meaning
 word: waqfs
 description: Yes, WAQFS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,14 @@ neighbours:
 - waffs
 - waifs
 - wakfs
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of waqf: An endowment of land given for religious or charitable
+      purposes.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of waqf
 prev_word: wanze
 next_word: warbs
 hubs:

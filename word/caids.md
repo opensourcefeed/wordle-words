@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CAIDS a Wordle Word?
-head_title: Is CAIDS a Wordle Word? Yes – Valid Guess
+head_title: Is CAIDS a Wordle Word? Yes – Valid Guess & Meaning
 word: caids
 description: Yes, CAIDS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,11 @@ anagrams:
 trap:
   pattern: _AIDS
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of caid: A local governor or leader, especially in North Africa
+      or Moorish Spain; an alcaide.'
 prev_word: cahow
 next_word: cains
 hubs:

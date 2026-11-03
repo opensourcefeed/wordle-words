@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HYLAS a Wordle Word?
-head_title: Is HYLAS a Wordle Word? Yes – Valid Guess
+head_title: Is HYLAS a Wordle Word? Yes – Valid Guess & Meaning
 word: hylas
 description: Yes, HYLAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ neighbours:
 - hyles
 anagrams:
 - shaly
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of hyla: A tree frog of the genus Hyla.'
 prev_word: hykes
 next_word: hyleg
 hubs:

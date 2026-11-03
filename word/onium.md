@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ONIUM a Wordle Word?
-head_title: Is ONIUM a Wordle Word? Yes – Valid Guess
+head_title: Is ONIUM a Wordle Word? Yes – Valid Guess & Meaning
 word: onium
 description: Yes, ONIUM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,14 @@ neighbours:
 - opium
 - odium
 - otium
+phonetic: "/ˈoʊniəm/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any cation derived by the addition of a proton to the hydride of any element
+      of the nitrogen, chalcogen or halogen families.
+  - text: Any organic derivative of these compounds.
+  - text: The bound pair of a particle and its antiparticle.
 prev_word: onion
 next_word: onkus
 hubs:

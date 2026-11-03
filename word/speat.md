@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SPEAT a Wordle Word?
-head_title: Is SPEAT a Wordle Word? Yes – Valid Guess
+head_title: Is SPEAT a Wordle Word? Yes – Valid Guess & Meaning
 word: speat
 description: Yes, SPEAT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,12 @@ anagrams:
 - spate
 - tapes
 - tepas
+definitions:
+- pos: noun
+  defs:
+  - text: One of the rods on which fish are placed to drain before being smoked.
+    example: Many of these devices leave unsightly holes in the fish, and wooden tenter
+      sticks, metal speats, etc., are difficult to keep clean.
 prev_word: spear
 next_word: speck
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HEJAB a Wordle Word?
-head_title: Is HEJAB a Wordle Word? Yes – Valid Guess
+head_title: Is HEJAB a Wordle Word? Yes – Valid Guess & Meaning
 word: hejab
 description: Yes, HEJAB is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,11 @@ stats:
   starter_top_percent: 58
 neighbours:
 - hijab
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of hijab: A traditional headscarf worn by Muslim women,
+      covering the hair and neck.'
 prev_word: heist
 next_word: hejra
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PEEPY a Wordle Word?
-head_title: Is PEEPY a Wordle Word? Yes – Valid Guess
+head_title: Is PEEPY a Wordle Word? Yes – Valid Guess & Meaning
 word: peepy
 description: Yes, PEEPY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,13 @@ neighbours:
 - peppy
 - seepy
 - weepy
+phonetic: "/ˈpiː.pɪ/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Inclined to peep (to watch someone or something).
+  - text: Having a high-pitched voice, like the sound of a peep.
+    example: She is so peepy sometimes I think only dogs can hear her.
 prev_word: peeps
 next_word: peers
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is JUTTY a Wordle Word?
-head_title: Is JUTTY a Wordle Word? Yes – Valid Guess
+head_title: Is JUTTY a Wordle Word? Yes – Valid Guess & Meaning
 word: jutty
 description: Yes, JUTTY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,13 @@ neighbours:
 trap:
   pattern: _UTTY
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A projection in a building; or a pier (jetty).
+- pos: verb
+  defs:
+  - text: To project outwards.
 prev_word: jutes
 next_word: juves
 hubs:

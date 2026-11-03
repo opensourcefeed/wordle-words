@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SYMAR a Wordle Word?
-head_title: Is SYMAR a Wordle Word? Yes – Valid Guess
+head_title: Is SYMAR a Wordle Word? Yes – Valid Guess & Meaning
 word: symar
 description: Yes, SYMAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,11 @@ stats:
 neighbours:
 - cymar
 - simar
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of simar: A woman''s loose, long dress or robe; sometimes
+      specifically, an undergarment or chemise.'
 prev_word: sylva
 next_word: synch
 hubs:

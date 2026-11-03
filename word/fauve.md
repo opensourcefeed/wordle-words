@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FAUVE a Wordle Word?
-head_title: Is FAUVE a Wordle Word? Yes – Valid Guess
+head_title: Is FAUVE a Wordle Word? Yes – Valid Guess & Meaning
 word: fauve
 description: Yes, FAUVE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ neighbours:
 - mauve
 - faute
 - sauve
+definitions:
+- pos: noun
+  defs:
+  - text: Synonym of fauvist.
 prev_word: fauts
 next_word: favas
 hubs:

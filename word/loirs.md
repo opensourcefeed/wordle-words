@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LOIRS a Wordle Word?
-head_title: Is LOIRS a Wordle Word? Yes – Valid Guess
+head_title: Is LOIRS a Wordle Word? Yes – Valid Guess & Meaning
 word: loirs
 description: Yes, LOIRS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,10 @@ neighbours:
 anagrams:
 - loris
 - roils
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of loir: Dormouse'
 prev_word: loipe
 next_word: lokes
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LEMEL a Wordle Word?
-head_title: Is LEMEL a Wordle Word? Yes – Valid Guess
+head_title: Is LEMEL a Wordle Word? Yes – Valid Guess & Meaning
 word: lemel
 description: Yes, LEMEL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 - gemel
 - lemed
 - lemes
+definitions:
+- pos: noun
+  defs:
+  - text: Metal filings
 prev_word: lemed
 next_word: lemes
 hubs:

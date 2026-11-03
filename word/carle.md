@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CARLE a Wordle Word?
-head_title: Is CARLE a Wordle Word? Yes – Valid Guess
+head_title: Is CARLE a Wordle Word? Yes – Valid Guess & Meaning
 word: carle
 description: Yes, CARLE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,12 @@ anagrams:
 trap:
   pattern: CAR_E
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: Peasant; fellow
+    example: Eh, Mr Henry! but the carle gae him a screed o' doctrine! Ye might hae
+      heard him a mile down the wind—He routed like a cow in a fremd loaning.
 prev_word: carks
 next_word: carls
 hubs:

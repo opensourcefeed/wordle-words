@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ACNED a Wordle Word?
-head_title: Is ACNED a Wordle Word? Yes – Valid Guess
+head_title: Is ACNED a Wordle Word? Yes – Valid Guess & Meaning
 word: acned
 description: Yes, ACNED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,12 @@ anagrams:
 - dance
 - caned
 - decan
+definitions:
+- pos: adjective
+  defs:
+  - text: Marked by acne; suffering from acne.
+    example: An acned teenager with his hand in a bag of nacho-flavored Doritos was
+      whispering to another kid who was reading Lolita and picking his nose.
 prev_word: acmic
 next_word: acnes
 hubs:

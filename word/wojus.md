@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WOJUS a Wordle Word?
-head_title: Is WOJUS a Wordle Word? Yes – Valid Guess
+head_title: Is WOJUS a Wordle Word? Yes – Valid Guess & Meaning
 word: wojus
 description: Yes, WOJUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,12 @@ stats:
   starter_top_percent: 92
 neighbours:
 - sojus
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Alternative form of woegeous: Of poor quality; woefully bad; awful.'
+    example: The taxi-driver said the traffic was only wojus. Rush hour got longer
+      and meaner every day.
 prev_word: woful
 next_word: woken
 hubs:

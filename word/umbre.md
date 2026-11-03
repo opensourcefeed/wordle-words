@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UMBRE a Wordle Word?
-head_title: Is UMBRE a Wordle Word? Yes – Valid Guess
+head_title: Is UMBRE a Wordle Word? Yes – Valid Guess & Meaning
 word: umbre
 description: Yes, UMBRE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,15 @@ neighbours:
 anagrams:
 - brume
 - umber
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Obsolete form of umber: A brown clay, somewhat darker than ochre, which
+      contains iron and manganese oxides.'
+- pos: noun
+  defs:
+  - text: 'Obsolete form of umber: A brown clay, somewhat darker than ochre, which
+      contains iron and manganese oxides.'
 prev_word: umbra
 next_word: umiac
 hubs:

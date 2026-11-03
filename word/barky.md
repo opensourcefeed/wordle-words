@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BARKY a Wordle Word?
-head_title: Is BARKY a Wordle Word? Yes – Valid Guess
+head_title: Is BARKY a Wordle Word? Yes – Valid Guess & Meaning
 word: barky
 description: Yes, BARKY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,16 @@ anagrams:
 trap:
   pattern: BAR_Y
   count: 7
+phonetic: "/ˈbɑɹki/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having bark.
+    example: This drink has a barky taste.
+  - text: Prone to bark, to make the sound of a dog.
+    example: a barky dog
+  - text: Sounding like the bark of a dog.
+    example: She has a barky cough.
 prev_word: barks
 next_word: barms
 hubs:

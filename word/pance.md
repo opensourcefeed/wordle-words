@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PANCE a Wordle Word?
-head_title: Is PANCE a Wordle Word? Yes – Valid Guess
+head_title: Is PANCE a Wordle Word? Yes – Valid Guess & Meaning
 word: pance
 description: Yes, PANCE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,10 @@ anagrams:
 trap:
   pattern: _ANCE
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: Pansy (flower)
 prev_word: panax
 next_word: panch
 hubs:

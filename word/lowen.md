@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LOWEN a Wordle Word?
-head_title: Is LOWEN a Wordle Word? Yes – Valid Guess
+head_title: Is LOWEN a Wordle Word? Yes – Valid Guess & Meaning
 word: lowen
 description: Yes, LOWEN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,12 @@ neighbours:
 - rowen
 anagrams:
 - lowne
+definitions:
+- pos: verb
+  defs:
+  - text: To make or become low.
+    example: And in the morning it will be foul weather to-day; for the sky is red
+      and lowening.
 prev_word: lowed
 next_word: lower
 hubs:

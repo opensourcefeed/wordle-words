@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PRODD a Wordle Word?
-head_title: Is PRODD a Wordle Word? Yes – Valid Guess
+head_title: Is PRODD a Wordle Word? Yes – Valid Guess & Meaning
 word: prodd
 description: Yes, PRODD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,10 @@ stats:
 neighbours:
 - proud
 - prods
+definitions:
+- pos: noun
+  defs:
+  - text: A kind of crossbow used to shoot pebbles or pellets
 prev_word: proby
 next_word: prods
 hubs:

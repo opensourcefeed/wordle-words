@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REBUY a Wordle Word?
-head_title: Is REBUY a Wordle Word? Yes – Valid Guess
+head_title: Is REBUY a Wordle Word? Yes – Valid Guess & Meaning
 word: rebuy
 description: Yes, REBUY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,15 @@ neighbours:
 - rebud
 anagrams:
 - buyer
+phonetic: "/ɹiːˈbaɪ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To buy again, especially to buy something previously sold (or pawned)
+- pos: noun
+  defs:
+  - text: A type of poker tournament that allows players to purchase more chips during
+      the course of the tournament.
 prev_word: rebut
 next_word: recal
 hubs:

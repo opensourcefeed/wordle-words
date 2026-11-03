@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ROIST a Wordle Word?
-head_title: Is ROIST a Wordle Word? Yes – Valid Guess
+head_title: Is ROIST a Wordle Word? Yes – Valid Guess & Meaning
 word: roist
 description: Yes, ROIST is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -45,6 +46,15 @@ anagrams:
 trap:
   pattern: _OIST
   count: 6
+phonetic: "/ˈɹɔɪst/"
+definitions:
+- pos: verb
+  defs:
+  - text: To roister.
+    example: |-
+      I have a roisting challenge sent amongst
+      The dull and factious nobles of the Greeks
+      Will strike amazement to their drowsy spirits.
 prev_word: roins
 next_word: rojak
 hubs:

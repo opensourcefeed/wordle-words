@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ROGUY a Wordle Word?
-head_title: Is ROGUY a Wordle Word? Yes – Valid Guess
+head_title: Is ROGUY a Wordle Word? Yes – Valid Guess & Meaning
 word: roguy
 description: Yes, ROGUY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,11 @@ neighbours:
 - rogue
 anagrams:
 - rougy
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Alternative spelling of roguey: Resembling or characteristic of a rogue.'
+    example: The Roguy Boys had sunk a Huge Bundle of Brambles
 prev_word: rogue
 next_word: rohan
 hubs:

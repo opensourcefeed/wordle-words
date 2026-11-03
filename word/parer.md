@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is PARER a Wordle Word?
-head_title: 'Is PARER a Wordle Word? Yes – Past Answer #454'
+head_title: 'Is PARER a Wordle Word? Yes – Past Answer #454 & Meaning'
 word: parer
 description: Yes, PARER is a valid Wordle word. It was the Wordle answer on September
-  16, 2022 (#454). See its starter rating and similar words.
+  16, 2022 (#454). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on September 16, 2022 (#454).
 past_answers:
@@ -44,6 +44,11 @@ anagrams:
 trap:
   pattern: PA_ER
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A tool used to pare things.
+  - text: A pencil sharpener.
 prev_word: pareo
 next_word: pares
 hubs:

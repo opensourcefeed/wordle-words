@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is JAKES a Wordle Word?
-head_title: Is JAKES a Wordle Word? Yes – Valid Guess
+head_title: Is JAKES a Wordle Word? Yes – Valid Guess & Meaning
 word: jakes
 description: Yes, JAKES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,17 @@ neighbours:
 trap:
   pattern: _AKES
   count: 11
+phonetic: "/d͡ʒeɪks/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'A place to urinate and defecate: an outhouse or lavatory.'
+    example: My lord, if you’ll give me leave, I will tread this unbolted villain
+      into mortar and daub the walls of a jakes with him.
+  - text: 'Plural of jake: Synonym of OK: adequate, satisfactory, acceptable.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of jake
 prev_word: jaker
 next_word: jakey
 hubs:

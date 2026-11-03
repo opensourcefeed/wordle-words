@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ZLOTE a Wordle Word?
-head_title: Is ZLOTE a Wordle Word? Yes – Valid Guess
+head_title: Is ZLOTE a Wordle Word? Yes – Valid Guess & Meaning
 word: zlote
 description: Yes, ZLOTE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,10 @@ neighbours:
 - clote
 - flote
 - zloty
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of zloty: The currency unit of Poland, divided into 100 groszy.'
 prev_word: zizit
 next_word: zloty
 hubs:

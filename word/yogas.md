@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is YOGAS a Wordle Word?
-head_title: Is YOGAS a Wordle Word? Yes – Valid Guess
+head_title: Is YOGAS a Wordle Word? Yes – Valid Guess & Meaning
 word: yogas
 description: Yes, YOGAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 - yoghs
 - yogis
 - yugas
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of yoga: Any of several Hindu or Buddhist disciplines aimed at training
+      the consciousness for a state of perfect spiritual insight and tranquillity;
+      especially a system of exercises practiced to promote control of the body and
+      mind.'
 prev_word: yodle
 next_word: yogee
 hubs:

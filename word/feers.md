@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FEERS a Wordle Word?
-head_title: Is FEERS a Wordle Word? Yes – Valid Guess
+head_title: Is FEERS a Wordle Word? Yes – Valid Guess & Meaning
 word: feers
 description: Yes, FEERS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,13 @@ anagrams:
 trap:
   pattern: _EERS
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of feer: Alternative form of fear (“able, capable”).'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of feer
 prev_word: feens
 next_word: feese
 hubs:

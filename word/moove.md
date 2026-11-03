@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MOOVE a Wordle Word?
-head_title: Is MOOVE a Wordle Word? Yes – Valid Guess
+head_title: Is MOOVE a Wordle Word? Yes – Valid Guess & Meaning
 word: moove
 description: Yes, MOOVE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 - hoove
 - noove
 - poove
+definitions:
+- pos: verb
+  defs:
+  - text: 'Obsolete spelling of move: To change place or posture; to go, in any manner,
+      from one place or position to another.'
+    example: Was heard, of Harp and Organ; and who moovd
 prev_word: moots
 next_word: moped
 hubs:

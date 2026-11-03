@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is YOWES a Wordle Word?
-head_title: Is YOWES a Wordle Word? Yes – Valid Guess
+head_title: Is YOWES a Wordle Word? Yes – Valid Guess & Meaning
 word: yowes
 description: Yes, YOWES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,10 @@ neighbours:
 - yores
 - yowed
 - yowls
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of yowe: A ewe; a female sheep.'
 prev_word: yowed
 next_word: yowie
 hubs:

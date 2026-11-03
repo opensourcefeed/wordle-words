@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PENIE a Wordle Word?
-head_title: Is PENIE a Wordle Word? Yes – Valid Guess
+head_title: Is PENIE a Wordle Word? Yes – Valid Guess & Meaning
 word: penie
 description: Yes, PENIE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,12 @@ neighbours:
 - pense
 anagrams:
 - peine
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of penny: In the United Kingdom and Ireland and many other
+      countries, a unit of currency worth ¹⁄₂₄₀ of a pound sterling or Irish pound
+      before decimalisation, or a copper coin worth this amount. Abbreviation: d.'
 prev_word: pengo
 next_word: penis
 hubs:

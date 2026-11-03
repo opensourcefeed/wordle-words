@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AIYOH a Wordle Word?
-head_title: Is AIYOH a Wordle Word? Yes – Valid Guess
+head_title: Is AIYOH a Wordle Word? Yes – Valid Guess & Meaning
 word: aiyoh
 description: Yes, AIYOH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ stats:
 neighbours:
 - aiyah
 - aiyoo
+definitions:
+- pos: interjection
+  defs:
+  - text: 'Alternative form of aiyo: Expressing distress, regret, or fear.'
 prev_word: aiyee
 next_word: aiyoo
 hubs:

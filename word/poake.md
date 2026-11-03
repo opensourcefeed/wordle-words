@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is POAKE a Wordle Word?
-head_title: Is POAKE a Wordle Word? Yes – Valid Guess
+head_title: Is POAKE a Wordle Word? Yes – Valid Guess & Meaning
 word: poake
 description: Yes, POAKE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - poaka
 - pouke
 - roake
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of poke: To prod or jab with an object such as a finger or
+      a stick.'
 prev_word: poaka
 next_word: poalo
 hubs:

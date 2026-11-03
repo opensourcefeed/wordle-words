@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CROWL a Wordle Word?
-head_title: Is CROWL a Wordle Word? Yes – Valid Guess
+head_title: Is CROWL a Wordle Word? Yes – Valid Guess & Meaning
 word: crowl
 description: Yes, CROWL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,14 @@ neighbours:
 - prowl
 - crool
 - crows
+phonetic: "/kɹaʊl/"
+definitions:
+- pos: verb
+  defs:
+  - text: To make a growling noise, as the stomach.
+- pos: noun
+  defs:
+  - text: A small person or creature; a dwarf or runt.
 prev_word: crowd
 next_word: crown
 hubs:

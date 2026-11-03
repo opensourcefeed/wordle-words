@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CERIA a Wordle Word?
-head_title: Is CERIA a Wordle Word? Yes – Valid Guess
+head_title: Is CERIA a Wordle Word? Yes – Valid Guess & Meaning
 word: ceria
 description: Yes, CERIA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ neighbours:
 anagrams:
 - areic
 - erica
+definitions:
+- pos: noun
+  defs:
+  - text: The compound cerium(IV) oxide.
 prev_word: cerge
 next_word: ceric
 hubs:

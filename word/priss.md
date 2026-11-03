@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PRISS a Wordle Word?
-head_title: Is PRISS a Wordle Word? Yes – Valid Guess
+head_title: Is PRISS a Wordle Word? Yes – Valid Guess & Meaning
 word: priss
 description: Yes, PRISS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,16 @@ neighbours:
 - pross
 anagrams:
 - risps
+phonetic: "/pɹɪs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A prissy person
+    example: 'Robin: Have you ever been in love? / Steve: Yep. Nancy Wheeler. First
+      semester, senior year. / Robin: Oh my God. She''s such a priss.'
+- pos: verb
+  defs:
+  - text: To dress or behave in a prissy manner
 prev_word: prism
 next_word: prius
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FYKED a Wordle Word?
-head_title: Is FYKED a Wordle Word? Yes – Valid Guess
+head_title: Is FYKED a Wordle Word? Yes – Valid Guess & Meaning
 word: fyked
 description: Yes, FYKED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - fiked
 - fykes
 - ryked
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of fyke: A type of fish-trap consisting
+      of tubular nets that are supported by hoops.'
 prev_word: fyces
 next_word: fykes
 hubs:

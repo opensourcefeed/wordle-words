@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BINAL a Wordle Word?
-head_title: Is BINAL a Wordle Word? Yes – Valid Guess
+head_title: Is BINAL a Wordle Word? Yes – Valid Guess & Meaning
 word: binal
 description: Yes, BINAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,12 @@ neighbours:
 - vinal
 anagrams:
 - blain
+phonetic: "/ˈbaɪnəl/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Twofold; double
+    example: Binal revenge, all this.
 prev_word: bimbo
 next_word: bindi
 hubs:

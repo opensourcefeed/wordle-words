@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PEEPE a Wordle Word?
-head_title: Is PEEPE a Wordle Word? Yes – Valid Guess
+head_title: Is PEEPE a Wordle Word? Yes – Valid Guess & Meaning
 word: peepe
 description: Yes, PEEPE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ neighbours:
 - peeps
 - peepy
 - peeve
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of peep: A feeble utterance or complaint.'
 prev_word: peeoy
 next_word: peeps
 hubs:

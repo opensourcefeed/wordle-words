@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FRORN a Wordle Word?
-head_title: Is FRORN a Wordle Word? Yes – Valid Guess
+head_title: Is FRORN a Wordle Word? Yes – Valid Guess & Meaning
 word: frorn
 description: Yes, FRORN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,11 @@ neighbours:
 - frown
 - frore
 - frory
+definitions:
+- pos: adjective
+  defs:
+  - text: Frozen; intensely cold; frosty.
+    example: My heart-blood is nigh well frorn I feel.
 prev_word: frore
 next_word: frory
 hubs:

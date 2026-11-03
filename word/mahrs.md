@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MAHRS a Wordle Word?
-head_title: Is MAHRS a Wordle Word? Yes – Valid Guess
+head_title: Is MAHRS a Wordle Word? Yes – Valid Guess & Meaning
 word: mahrs
 description: Yes, MAHRS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,11 @@ anagrams:
 - marsh
 - harms
 - ramsh
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of mahr: A mandatory gift from the groom (or his family) to the
+      bride (or her family) upon marriage in Islamic cultures.'
 prev_word: mahoe
 next_word: mahua
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BAISA a Wordle Word?
-head_title: Is BAISA a Wordle Word? Yes – Valid Guess
+head_title: Is BAISA a Wordle Word? Yes – Valid Guess & Meaning
 word: baisa
 description: Yes, BAISA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - balsa
 - beisa
 - paisa
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of paisa: A subdivision of currency, equal to one hundredth
+      of a Indian, Nepalese, or Pakistani rupee.'
 prev_word: bairn
 next_word: baith
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ABLOW a Wordle Word?
-head_title: Is ABLOW a Wordle Word? Yes – Valid Guess
+head_title: Is ABLOW a Wordle Word? Yes – Valid Guess & Meaning
 word: ablow
 description: Yes, ABLOW is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,14 @@ neighbours:
 - aglow
 - allow
 - aflow
+phonetic: "/əˈbloʊ/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Blossoming, blooming, in blossom.
+    example: "[...] The flower breaks from its sheath and is ablow / And gives its
+      richest perfumes. [...]"
+  - text: Blowing or being blown; windy.
 prev_word: ablet
 next_word: abmho
 hubs:

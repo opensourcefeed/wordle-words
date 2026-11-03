@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PASPY a Wordle Word?
-head_title: Is PASPY a Wordle Word? Yes – Valid Guess
+head_title: Is PASPY a Wordle Word? Yes – Valid Guess & Meaning
 word: paspy
 description: Yes, PASPY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,12 @@ neighbours:
 anagrams:
 - sappy
 - yapps
+phonetic: "/ˈpɑːspi/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of passepied: A courtly dance, in triple time, from 17th-century
+      France; a faster form of the minuet.'
 prev_word: pasmo
 next_word: passe
 hubs:

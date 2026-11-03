@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SUCCI a Wordle Word?
-head_title: Is SUCCI a Wordle Word? Yes – Valid Guess
+head_title: Is SUCCI a Wordle Word? Yes – Valid Guess & Meaning
 word: succi
 description: Yes, SUCCI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,11 @@ stats:
   starter_top_percent: 85
 neighbours:
 - sulci
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of succus: The expressed juice or sap of a plant, often for medicinal
+      use'
 prev_word: subha
 next_word: sucks
 hubs:

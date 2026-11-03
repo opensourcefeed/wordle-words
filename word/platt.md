@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PLATT a Wordle Word?
-head_title: Is PLATT a Wordle Word? Yes – Valid Guess
+head_title: Is PLATT a Wordle Word? Yes – Valid Guess & Meaning
 word: platt
 description: Yes, PLATT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,14 @@ neighbours:
 - plats
 - platy
 - pratt
+definitions:
+- pos: noun
+  defs:
+  - text: Obsolete spelling of plat (“scheme, plan, design, map”).
+  - text: Obsolete spelling of plat (“material made by interweaving, especially by
+      interweaving straw, to make hats”).
+    example: straw platt
+  - text: A marketplace.
 prev_word: plats
 next_word: platy
 hubs:

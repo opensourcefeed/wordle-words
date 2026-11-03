@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PHUTS a Wordle Word?
-head_title: Is PHUTS a Wordle Word? Yes – Valid Guess
+head_title: Is PHUTS a Wordle Word? Yes – Valid Guess & Meaning
 word: phuts
 description: Yes, PHUTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,15 @@ neighbours:
 - shuts
 anagrams:
 - pshut
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of phut: A representation of the sound resembling the release of
+      a blast of steam or exhaust gas; a representation of the sound of a fast but
+      small puff of wind.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of phut
 prev_word: phubs
 next_word: phutu
 hubs:

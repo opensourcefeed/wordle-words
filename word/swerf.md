@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SWERF a Wordle Word?
-head_title: Is SWERF a Wordle Word? Yes – Valid Guess
+head_title: Is SWERF a Wordle Word? Yes – Valid Guess & Meaning
 word: swerf
 description: Yes, SWERF is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,10 @@ neighbours:
 - swarf
 anagrams:
 - werfs
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative letter-case form of SWERF.
 prev_word: swept
 next_word: sweys
 hubs:

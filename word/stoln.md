@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STOLN a Wordle Word?
-head_title: Is STOLN a Wordle Word? Yes – Valid Guess
+head_title: Is STOLN a Wordle Word? Yes – Valid Guess & Meaning
 word: stoln
 description: Yes, STOLN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - stoun
 - stown
 - swoln
+phonetic: "/stoʊln/"
+definitions:
+- pos: verb
+  defs:
+  - text: 'Obsolete form of stolen: That has been stolen.'
 prev_word: stole
 next_word: stoma
 hubs:

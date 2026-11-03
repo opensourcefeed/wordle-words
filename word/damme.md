@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DAMME a Wordle Word?
-head_title: Is DAMME a Wordle Word? Yes – Valid Guess
+head_title: Is DAMME a Wordle Word? Yes – Valid Guess & Meaning
 word: damme
 description: Yes, DAMME is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ stats:
 neighbours:
 - gamme
 - kamme
+phonetic: "/ˈdæmi/"
+definitions:
+- pos: interjection
+  defs:
+  - text: Expressing anger or vehemence.
+    example: And now, have at the Ministry, Damme!
 prev_word: dames
 next_word: damna
 hubs:

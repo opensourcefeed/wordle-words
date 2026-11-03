@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BHATS a Wordle Word?
-head_title: Is BHATS a Wordle Word? Yes – Valid Guess
+head_title: Is BHATS a Wordle Word? Yes – Valid Guess & Meaning
 word: bhats
 description: Yes, BHATS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,10 @@ anagrams:
 trap:
   pattern: B_ATS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: Plural of bhat
 prev_word: bhang
 next_word: bhava
 hubs:

@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is MASSE a Wordle Word?
-head_title: 'Is MASSE a Wordle Word? Yes – Past Answer #176'
+head_title: 'Is MASSE a Wordle Word? Yes – Past Answer #176 & Meaning'
 word: masse
 description: Yes, MASSE is a valid Wordle word. It was the Wordle answer on December
-  12, 2021 (#176). See its starter rating and similar words.
+  12, 2021 (#176). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on December 12, 2021 (#176).
 past_answers:
@@ -46,6 +46,12 @@ anagrams:
 trap:
   pattern: _ASSE
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of mass: A quantity of matter cohering so as to make one
+      body, or an aggregation of particles or things which collectively make one body
+      or quantity, usually of considerable size.'
 prev_word: massa
 next_word: massy
 hubs:

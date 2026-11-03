@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AREAD a Wordle Word?
-head_title: Is AREAD a Wordle Word? Yes – Valid Guess
+head_title: Is AREAD a Wordle Word? Yes – Valid Guess & Meaning
 word: aread
 description: Yes, AREAD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,16 @@ neighbours:
 - areas
 - aredd
 - oread
+definitions:
+- pos: verb
+  defs:
+  - text: To soothsay, prophesy.
+  - text: To interpret; to explain.
+    example: Therefore more plain aread this doubtful case.
+  - text: To advise, counsel.
+    example: |-
+      Me, all too meane, the ſacred Muſe areeds
+      To blazon broad emongſt her learned throng:
 prev_word: ardri
 next_word: areae
 hubs:

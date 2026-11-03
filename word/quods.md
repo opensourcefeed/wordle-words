@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is QUODS a Wordle Word?
-head_title: Is QUODS a Wordle Word? Yes – Valid Guess
+head_title: Is QUODS a Wordle Word? Yes – Valid Guess & Meaning
 word: quods
 description: Yes, QUODS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,10 @@ neighbours:
 - quois
 - quops
 - quoys
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of quod: A quadrangle or court, as of a prison; a prison.'
 prev_word: quoad
 next_word: quoif
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BASSY a Wordle Word?
-head_title: Is BASSY a Wordle Word? Yes – Valid Guess
+head_title: Is BASSY a Wordle Word? Yes – Valid Guess & Meaning
 word: bassy
 description: Yes, BASSY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,19 @@ neighbours:
 - massy
 anagrams:
 - abyss
+phonetic: "/ˈbeɪsi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Describing the reproduction of sound that overemphasizes low-frequency sounds.
+    example: The speakers were so bassy it was almost like being there.
+  - text: Resembling a bass (fish).
+    example: "[…] the Piky Getum the vertical bar markings on the side of the body
+      are clearly shown, whereas the Bassy Getum has the spots, gills and lateral
+      lines of the bass."
+- pos: noun
+  defs:
+  - text: A knife.
 prev_word: basso
 next_word: basta
 hubs:

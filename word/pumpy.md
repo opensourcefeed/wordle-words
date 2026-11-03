@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PUMPY a Wordle Word?
-head_title: Is PUMPY a Wordle Word? Yes – Valid Guess
+head_title: Is PUMPY a Wordle Word? Yes – Valid Guess & Meaning
 word: pumpy
 description: Yes, PUMPY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,17 @@ neighbours:
 trap:
   pattern: _UMPY
   count: 8
+phonetic: "/ˈpʌmpi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Intense on the forearms.
+    example: a pumpy climb
+- pos: noun
+  defs:
+  - text: A pump action shotgun.
+    example: Hold tight, Asznee (my brudda) / He's got the pumpy (big ting) / Hold
+      tight, my man (my guy) / He's got the frisbee (shew)
 prev_word: pumps
 next_word: punas
 hubs:

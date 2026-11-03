@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DITAL a Wordle Word?
-head_title: Is DITAL a Wordle Word? Yes – Valid Guess
+head_title: Is DITAL a Wordle Word? Yes – Valid Guess & Meaning
 word: dital
 description: Yes, DITAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ neighbours:
 anagrams:
 - tidal
 - datil
+definitions:
+- pos: noun
+  defs:
+  - text: A finger-operated key for raising the pitch of a guitar by a semitone.
 prev_word: disme
 next_word: ditas
 hubs:

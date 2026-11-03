@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PREED a Wordle Word?
-head_title: Is PREED a Wordle Word? Yes – Valid Guess
+head_title: Is PREED a Wordle Word? Yes – Valid Guess & Meaning
 word: preed
 description: Yes, PREED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,11 @@ neighbours:
 trap:
   pattern: _REED
   count: 7
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of pree: To heed, to take notice of or
+      pay attention to'
 prev_word: predy
 next_word: preem
 hubs:

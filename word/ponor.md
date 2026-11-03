@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PONOR a Wordle Word?
-head_title: Is PONOR a Wordle Word? Yes – Valid Guess
+head_title: Is PONOR a Wordle Word? Yes – Valid Guess & Meaning
 word: ponor
 description: Yes, PONOR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,12 @@ stats:
 neighbours:
 - donor
 - honor
+definitions:
+- pos: noun
+  defs:
+  - text: A natural surface opening associated with karst.
+    example: As long as the total capacity q of the spring is smaller than the total
+      capacity q₂ of the ponor, no flooding of the polje will occur.
 prev_word: ponks
 next_word: ponto
 hubs:

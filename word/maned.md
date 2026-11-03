@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MANED a Wordle Word?
-head_title: Is MANED a Wordle Word? Yes – Valid Guess
+head_title: Is MANED a Wordle Word? Yes – Valid Guess & Meaning
 word: maned
 description: Yes, MANED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -43,6 +44,11 @@ anagrams:
 trap:
   pattern: _ANED
   count: 10
+phonetic: "/meɪnd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having a (specified form of) mane.
 prev_word: maneb
 next_word: maneh
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TOKER a Wordle Word?
-head_title: Is TOKER a Wordle Word? Yes – Valid Guess
+head_title: Is TOKER a Wordle Word? Yes – Valid Guess & Meaning
 word: toker
 description: Yes, TOKER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,11 @@ anagrams:
 trap:
   pattern: _OKER
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: One who tokes, especially marijuana.
+    example: I'm a joker, I'm a smoker / I'm a midnight toker
 prev_word: token
 next_word: tokes
 hubs:

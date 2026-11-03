@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CHUTS a Wordle Word?
-head_title: Is CHUTS a Wordle Word? Yes – Valid Guess
+head_title: Is CHUTS a Wordle Word? Yes – Valid Guess & Meaning
 word: chuts
 description: Yes, CHUTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,14 @@ neighbours:
 - chums
 - phuts
 - shuts
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of chut: A repeated short, low vocal sound made by guinea pigs,
+      thought to express interest or curiosity.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of chut
 prev_word: chute
 next_word: chyle
 hubs:

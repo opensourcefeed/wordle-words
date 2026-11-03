@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is EISEL a Wordle Word?
-head_title: Is EISEL a Wordle Word? Yes – Valid Guess
+head_title: Is EISEL a Wordle Word? Yes – Valid Guess & Meaning
 word: eisel
 description: Yes, EISEL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 - easel
 anagrams:
 - esile
+phonetic: "/ˈeɪsəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: Vinegar, verjuice
+    example: Woul't drink up eisel, eat a crocodile?
 prev_word: eiron
 next_word: eject
 hubs:

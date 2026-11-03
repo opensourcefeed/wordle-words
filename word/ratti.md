@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RATTI a Wordle Word?
-head_title: Is RATTI a Wordle Word? Yes – Valid Guess
+head_title: Is RATTI a Wordle Word? Yes – Valid Guess & Meaning
 word: ratti
 description: Yes, RATTI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,10 @@ neighbours:
 anagrams:
 - trait
 - titar
+definitions:
+- pos: noun
+  defs:
+  - text: A traditional Indian unit of measure for mass, approximately 0.1215 grams.
 prev_word: ratos
 next_word: ratty
 hubs:

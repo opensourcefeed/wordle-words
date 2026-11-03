@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RYNDS a Wordle Word?
-head_title: Is RYNDS a Wordle Word? Yes – Valid Guess
+head_title: Is RYNDS a Wordle Word? Yes – Valid Guess & Meaning
 word: rynds
 description: Yes, RYNDS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - runds
 - synds
 - wynds
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of rynd: A piece of iron crossing the hole in the upper millstone,
+      by which the stone is supported on the spindle.'
 prev_word: rymme
 next_word: ryoti
 hubs:

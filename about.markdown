@@ -20,7 +20,8 @@ answer, because the answer pool is a much smaller set of common words.</p>
 
 <h2>Where the definitions come from</h2>
 <p>Definitions come from <a href="https://en.wiktionary.org/" rel="nofollow">Wiktionary</a> through the
-<a href="https://dictionaryapi.dev/" rel="nofollow">Free Dictionary API</a>, and are available under the
+<a href="https://dictionaryapi.dev/" rel="nofollow">Free Dictionary API</a> and the
+<a href="https://kaikki.org/" rel="nofollow">kaikki.org</a> Wiktionary extract, and are available under the
 <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="license nofollow">CC BY-SA</a> license.
 Some rare words have no definition yet.</p>
 

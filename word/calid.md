@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CALID a Wordle Word?
-head_title: Is CALID a Wordle Word? Yes – Valid Guess
+head_title: Is CALID a Wordle Word? Yes – Valid Guess & Meaning
 word: calid
 description: Yes, CALID is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,14 @@ neighbours:
 - halid
 anagrams:
 - alcid
+phonetic: "/ˈkælɪd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Warm, hot.
+    example: The great abundance of limestone, and the conditions of a wet and calid
+      weather, have determined a wide distribution of carsic manifestations (caves,
+      rounded-summit hills, hills, lapies, etc.)
 prev_word: calfs
 next_word: calif
 hubs:

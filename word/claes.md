@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CLAES a Wordle Word?
-head_title: Is CLAES a Wordle Word? Yes – Valid Guess
+head_title: Is CLAES a Wordle Word? Yes – Valid Guess & Meaning
 word: claes
 description: Yes, CLAES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -43,6 +44,11 @@ anagrams:
 trap:
   pattern: CLA_S
   count: 10
+phonetic: "/kleːz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Clothes
 prev_word: clads
 next_word: clags
 hubs:

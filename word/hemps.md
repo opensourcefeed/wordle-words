@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HEMPS a Wordle Word?
-head_title: Is HEMPS a Wordle Word? Yes – Valid Guess
+head_title: Is HEMPS a Wordle Word? Yes – Valid Guess & Meaning
 word: hemps
 description: Yes, HEMPS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,10 @@ neighbours:
 - humps
 - kemps
 - temps
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of hemp: A tall annual herb, Cannabis sativa, native to Asia.'
 prev_word: hemin
 next_word: hempy
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ARAKS a Wordle Word?
-head_title: Is ARAKS a Wordle Word? Yes – Valid Guess
+head_title: Is ARAKS a Wordle Word? Yes – Valid Guess & Meaning
 word: araks
 description: Yes, ARAKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 anagrams:
 - askar
 - karas
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of arak: A clear, unsweetened aniseed-flavoured alcoholic drink,
+      produced and consumed primarily in the Levant.'
 prev_word: araba
 next_word: arame
 hubs:

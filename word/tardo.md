@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TARDO a Wordle Word?
-head_title: Is TARDO a Wordle Word? Yes – Valid Guess
+head_title: Is TARDO a Wordle Word? Yes – Valid Guess & Meaning
 word: tardo
 description: Yes, TARDO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,12 @@ neighbours:
 - vardo
 anagrams:
 - troad
+definitions:
+- pos: noun
+  defs:
+  - text: A sloth (animal).
+    example: On my last trip to Vera Cruz I procured a pair of black tardos, full-grown
+      and in a normal state of health […]
 prev_word: taras
 next_word: tardy
 hubs:

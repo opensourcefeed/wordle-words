@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RAIKS a Wordle Word?
-head_title: Is RAIKS a Wordle Word? Yes – Valid Guess
+head_title: Is RAIKS a Wordle Word? Yes – Valid Guess & Meaning
 word: raiks
 description: Yes, RAIKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,14 @@ anagrams:
 trap:
   pattern: _AIKS
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of raik: A walk, or a journey taken (especially on foot); the act
+      of taking a walk or journey.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of raik
 prev_word: raike
 next_word: raile
 hubs:

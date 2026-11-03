@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CHIMO a Wordle Word?
-head_title: Is CHIMO a Wordle Word? Yes – Valid Guess
+head_title: Is CHIMO a Wordle Word? Yes – Valid Guess & Meaning
 word: chimo
 description: Yes, CHIMO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,17 @@ anagrams:
 trap:
   pattern: CHI_O
   count: 6
+phonetic: "/ˈt͡ʃi.moʊ/"
+definitions:
+- pos: interjection
+  defs:
+  - text: Hello; goodbye.
+- pos: noun
+  defs:
+  - text: A child molester.
+    example: |-
+      Oh no, did I end up in Hell because I was atheist my whole life?
+      No, people don't go to Hell for being atheist, you chi-mo.
 prev_word: chime
 next_word: chimp
 hubs:

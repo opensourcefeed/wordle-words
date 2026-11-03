@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KONBU a Wordle Word?
-head_title: Is KONBU a Wordle Word? Yes – Valid Guess
+head_title: Is KONBU a Wordle Word? Yes – Valid Guess & Meaning
 word: konbu
 description: Yes, KONBU is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,12 @@ neighbours:
 - kombu
 anagrams:
 - bunko
+phonetic: "/ˈkɒnbuː/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of kombu: Edible kelp (“a type of brown seaweed”)
+      (from the class Phaeophyceae) used in East Asian cuisine.'
 prev_word: kombu
 next_word: kondo
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MARIL a Wordle Word?
-head_title: Is MARIL a Wordle Word? Yes – Valid Guess
+head_title: Is MARIL a Wordle Word? Yes – Valid Guess & Meaning
 word: maril
 description: Yes, MARIL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,12 @@ neighbours:
 - meril
 anagrams:
 - armil
+phonetic: "/mæˈɹɪl/"
+definitions:
+- pos: noun
+  defs:
+  - text: An ornamental binding material with a variegated grain, made from scraps
+      of coloured leather mixed in a resin, compressed, and dried.
 prev_word: marid
 next_word: marka
 hubs:

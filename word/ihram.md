@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is IHRAM a Wordle Word?
-head_title: Is IHRAM a Wordle Word? Yes – Valid Guess
+head_title: Is IHRAM a Wordle Word? Yes – Valid Guess & Meaning
 word: ihram
 description: Yes, IHRAM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ stats:
 anagrams:
 - harim
 - mirah
+definitions:
+- pos: noun
+  defs:
+  - text: The state of ritual purity and dedication of a Muslim hajj pilgrim to Mecca.
+  - text: The clothing worn on such a pilgrimage; one length of cotton cloth around
+      the loins and another thrown over the left shoulder.
 prev_word: ignis
 next_word: iiwis
 hubs:

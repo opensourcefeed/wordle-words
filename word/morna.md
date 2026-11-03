@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MORNA a Wordle Word?
-head_title: Is MORNA a Wordle Word? Yes – Valid Guess
+head_title: Is MORNA a Wordle Word? Yes – Valid Guess & Meaning
 word: morna
 description: Yes, MORNA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,12 @@ anagrams:
 - norma
 - ramon
 - roman
+phonetic: "/məʊˈɹnɑ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A genre of Cape Verdean music and dance.
+  - text: A piece of music in this style.
 prev_word: mormo
 next_word: morne
 hubs:

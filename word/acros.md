@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ACROS a Wordle Word?
-head_title: Is ACROS a Wordle Word? Yes – Valid Guess
+head_title: Is ACROS a Wordle Word? Yes – Valid Guess & Meaning
 word: acros
 description: Yes, ACROS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,10 @@ anagrams:
 - arcos
 - orcas
 - oscar
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of acro: Combining acrobatic elements with something else.'
 prev_word: acron
 next_word: acryl
 hubs:

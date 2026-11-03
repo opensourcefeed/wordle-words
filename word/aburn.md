@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ABURN a Wordle Word?
-head_title: Is ABURN a Wordle Word? Yes – Valid Guess
+head_title: Is ABURN a Wordle Word? Yes – Valid Guess & Meaning
 word: aburn
 description: Yes, ABURN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,14 @@ anagrams:
 - buran
 - ruban
 - unbar
+phonetic: "/əˈbɜː(ɹ)n/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Burning
+    example: First we could see only outlines, then bright beads of light from the
+      torches themselves, and by the time a thousand torches were all aburn, we could
+      see for more than fifty yards.
 prev_word: abura
 next_word: abuse
 hubs:

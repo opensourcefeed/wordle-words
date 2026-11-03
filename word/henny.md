@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HENNY a Wordle Word?
-head_title: Is HENNY a Wordle Word? Yes – Valid Guess
+head_title: Is HENNY a Wordle Word? Yes – Valid Guess & Meaning
 word: henny
 description: Yes, HENNY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,16 @@ neighbours:
 trap:
   pattern: _ENNY
   count: 8
+phonetic: "/ˈhɛni/"
+definitions:
+- pos: noun
+  defs:
+  - text: Synonym of hinny (cross between a stallion and a she-ass)
+  - text: 'Alternative spelling of honey: A sweet, viscous, gold-colored fluid produced
+      from plant nectar by bees, and often consumed by humans.'
+- pos: adjective
+  defs:
+  - text: Resembling or characteristic of a hen.
 prev_word: henna
 next_word: henry
 hubs:

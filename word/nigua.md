@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NIGUA a Wordle Word?
-head_title: Is NIGUA a Wordle Word? Yes – Valid Guess
+head_title: Is NIGUA a Wordle Word? Yes – Valid Guess & Meaning
 word: nigua
 description: Yes, NIGUA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,11 @@ stats:
   starter_top_percent: 42
 anagrams:
 - unagi
+phonetic: "/ˈniː.ɡwə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A tropical flea, the chigoe.
 prev_word: nigre
 next_word: nihil
 hubs:

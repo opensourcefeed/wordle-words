@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ACHOO a Wordle Word?
-head_title: Is ACHOO a Wordle Word? Yes – Valid Guess
+head_title: Is ACHOO a Wordle Word? Yes – Valid Guess & Meaning
 word: achoo
 description: Yes, ACHOO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -21,6 +22,18 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 73
+phonetic: "/əˈt͡ʃuː/"
+definitions:
+- pos: interjection
+  defs:
+  - text: The sound of a sneeze.
+    example: Achoo—I think I'm coming down with something!
+- pos: noun
+  defs:
+  - text: The sound of a sneeze.
+- pos: verb
+  defs:
+  - text: To sneeze loudly; to make an achoo sound.
 prev_word: achey
 next_word: acids
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KANAS a Wordle Word?
-head_title: Is KANAS a Wordle Word? Yes – Valid Guess
+head_title: Is KANAS a Wordle Word? Yes – Valid Guess & Meaning
 word: kanas
 description: Yes, KANAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,12 @@ anagrams:
 trap:
   pattern: KA_AS
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of kana: The hiragana and katakana syllabaries. These are made up
+      of characters that represent individual syllables, which are used to write Japanese
+      words and particles. Kana are derived from kanji.'
 prev_word: kanal
 next_word: kanat
 hubs:

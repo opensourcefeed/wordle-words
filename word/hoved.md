@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HOVED a Wordle Word?
-head_title: Is HOVED a Wordle Word? Yes – Valid Guess
+head_title: Is HOVED a Wordle Word? Yes – Valid Guess & Meaning
 word: hoved
 description: Yes, HOVED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,12 @@ neighbours:
 trap:
   pattern: HO_ED
   count: 12
+definitions:
+- pos: verb
+  defs:
+  - text: Misconstruction of hove, as past tense of heave.
+    example: So how the hearts of the paps must have leapt as Madonna plus children
+      – and lover Jesus – hoved into view off the coast of Italy this week.
 prev_word: hovea
 next_word: hovel
 hubs:

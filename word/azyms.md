@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AZYMS a Wordle Word?
-head_title: Is AZYMS a Wordle Word? Yes – Valid Guess
+head_title: Is AZYMS a Wordle Word? Yes – Valid Guess & Meaning
 word: azyms
 description: Yes, AZYMS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,10 @@ stats:
   starter_top_percent: 80
 neighbours:
 - azyme
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of azym: Alternative form of azyme (“unleavened bread”).'
 prev_word: azyme
 next_word: baaed
 hubs:

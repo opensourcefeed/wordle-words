@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PERNS a Wordle Word?
-head_title: Is PERNS a Wordle Word? Yes – Valid Guess
+head_title: Is PERNS a Wordle Word? Yes – Valid Guess & Meaning
 word: perns
 description: Yes, PERNS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,11 @@ neighbours:
 trap:
   pattern: PER_S
   count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of pern: Part of a spinning wheel, a conical spool onto which the
+      thread is wound from the spindle.'
 prev_word: perne
 next_word: perog
 hubs:

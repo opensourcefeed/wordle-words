@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FAVUS a Wordle Word?
-head_title: Is FAVUS a Wordle Word? Yes – Valid Guess
+head_title: Is FAVUS a Wordle Word? Yes – Valid Guess & Meaning
 word: favus
 description: Yes, FAVUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,14 @@ neighbours:
 - cavus
 - favas
 - faves
+phonetic: "/ˈfeɪvəs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A severe, chronic infection of ringworm.
+    example: The first signs of an attack of favus are small, pale, irregular, cup-like
+      spots on the comb or wattles, generally appearing on the comb first.
+  - text: A tile or flagstone cut into a hexagonal shape to produce a honeycomb pattern.
 prev_word: favor
 next_word: fawns
 hubs:

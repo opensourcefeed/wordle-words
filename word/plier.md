@@ -1,11 +1,11 @@
 ---
 layout: word
 title: Is PLIER a Wordle Word?
-head_title: Is PLIER a Wordle Word? Yes – Possible Answer
+head_title: Is PLIER a Wordle Word? Yes – Possible Answer & Meaning
 word: plier
 description: Yes, PLIER is a valid Wordle word. It is on the original Wordle answer
-  list and has not been an answer yet, so it could be a future answer. See its starter
-  rating and similar words.
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
 status: possible
 answer_text: It is on the original Wordle answer list and has not been an answer yet,
   so it could be a future answer.
@@ -33,6 +33,13 @@ neighbours:
 anagrams:
 - peril
 - piler
+definitions:
+- pos: noun
+  defs:
+  - text: One who plies.
+  - text: 'Attributive form of pliers: A pincer-like gripping tool that multiplies
+      the strength of the user''s hand, often used for bending things.'
+    example: a 3-piece plier kit
 prev_word: plied
 next_word: plies
 hubs:

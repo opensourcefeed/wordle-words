@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AMIAS a Wordle Word?
-head_title: Is AMIAS a Wordle Word? Yes – Valid Guess
+head_title: Is AMIAS a Wordle Word? Yes – Valid Guess & Meaning
 word: amias
 description: Yes, AMIAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,10 @@ neighbours:
 trap:
   pattern: AMI_S
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of amia: The bowfin, Amia calva.'
 prev_word: ament
 next_word: amice
 hubs:

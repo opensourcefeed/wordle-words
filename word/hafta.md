@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HAFTA a Wordle Word?
-head_title: Is HAFTA a Wordle Word? Yes – Valid Guess
+head_title: Is HAFTA a Wordle Word? Yes – Valid Guess & Meaning
 word: hafta
 description: Yes, HAFTA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ neighbours:
 - bafta
 - hafts
 - hasta
+phonetic: "/ˈhæf.tə/"
+definitions:
+- pos: verb
+  defs:
+  - text: Contraction of have to (“be required to; must”).
+    example: I hafta fill in my tax return.
 prev_word: hafiz
 next_word: hafts
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LICHI a Wordle Word?
-head_title: Is LICHI a Wordle Word? Yes – Valid Guess
+head_title: Is LICHI a Wordle Word? Yes – Valid Guess & Meaning
 word: lichi
 description: Yes, LICHI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - pichi
 anagrams:
 - chili
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of lychee: The Chinese tropical fruit tree Litchi
+      chinensis, of the soapberry family.'
 prev_word: licet
 next_word: licht
 hubs:

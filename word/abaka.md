@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ABAKA a Wordle Word?
-head_title: Is ABAKA a Wordle Word? Yes – Valid Guess
+head_title: Is ABAKA a Wordle Word? Yes – Valid Guess & Meaning
 word: abaka
 description: Yes, ABAKA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,11 @@ stats:
 neighbours:
 - abaca
 - abaya
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of abaca: Musa textilis, a species of banana tree
+      native to the Philippines grown for its textile, rope- and papermaking fibre.'
 prev_word: abaht
 next_word: abamp
 hubs:

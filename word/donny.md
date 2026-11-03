@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DONNY a Wordle Word?
-head_title: Is DONNY a Wordle Word? Yes – Valid Guess
+head_title: Is DONNY a Wordle Word? Yes – Valid Guess & Meaning
 word: donny
 description: Yes, DONNY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,12 @@ neighbours:
 - nonny
 - sonny
 - yonny
+phonetic: "/ˈdɒni/"
+definitions:
+- pos: noun
+  defs:
+  - text: Don; bloke; dude; any man.
+    example: Big up that donny for giving man a free meal.
 prev_word: donne
 next_word: donor
 hubs:

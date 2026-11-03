@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MEARE a Wordle Word?
-head_title: Is MEARE a Wordle Word? Yes – Valid Guess
+head_title: Is MEARE a Wordle Word? Yes – Valid Guess & Meaning
 word: meare
 description: Yes, MEARE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,16 @@ anagrams:
 trap:
   pattern: _EARE
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of mere: Just, only; no more than, pure and simple, neither
+      more nor better than might be expected.'
+  - text: 'Obsolete form of mare: An adult female horse.'
+- pos: adjective
+  defs:
+  - text: 'Obsolete form of mere: Just, only; no more than, pure and simple, neither
+      more nor better than might be expected.'
 prev_word: meany
 next_word: mease
 hubs:

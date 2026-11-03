@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NINER a Wordle Word?
-head_title: Is NINER a Wordle Word? Yes – Valid Guess
+head_title: Is NINER a Wordle Word? Yes – Valid Guess & Meaning
 word: niner
 description: Yes, NINER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,12 @@ anagrams:
 trap:
   pattern: _INER
   count: 8
+phonetic: "/ˈnaɪnə(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: Something nine inches long, or holding nine gallons, etc.
+  - text: The digit 9 in the NATO phonetic alphabet.
 prev_word: nimps
 next_word: nines
 hubs:

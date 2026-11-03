@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KYARS a Wordle Word?
-head_title: Is KYARS a Wordle Word? Yes – Valid Guess
+head_title: Is KYARS a Wordle Word? Yes – Valid Guess & Meaning
 word: kyars
 description: Yes, KYARS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,10 @@ anagrams:
 - krays
 - sarky
 - yarks
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of kyar: A car.'
 prev_word: kyang
 next_word: kyats
 hubs:

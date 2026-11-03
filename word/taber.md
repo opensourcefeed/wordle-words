@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TABER a Wordle Word?
-head_title: Is TABER a Wordle Word? Yes – Valid Guess
+head_title: Is TABER a Wordle Word? Yes – Valid Guess & Meaning
 word: taber
 description: Yes, TABER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,15 @@ neighbours:
 trap:
   pattern: TA_ER
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete spelling of tabor: A small drum.'
+- pos: verb
+  defs:
+  - text: 'Obsolete spelling of tabor: A small drum.'
+    example: And Huzzab shall be led away captive, she shall be brought up, and her
+      maids shall lead her as with the voice of doves, tabering upon their breasts.
 prev_word: tabby
 next_word: tabes
 hubs:

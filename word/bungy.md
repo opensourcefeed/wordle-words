@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BUNGY a Wordle Word?
-head_title: Is BUNGY a Wordle Word? Yes – Valid Guess
+head_title: Is BUNGY a Wordle Word? Yes – Valid Guess & Meaning
 word: bungy
 description: Yes, BUNGY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,12 @@ neighbours:
 - gungy
 - mungy
 - pungy
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete spelling of bungee: An elastic fabric-bound strap with a hook
+      at each end, used for securing luggage.'
+  - text: Alternative form of Bhangi.
 prev_word: bungs
 next_word: bunia
 hubs:

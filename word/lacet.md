@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LACET a Wordle Word?
-head_title: Is LACET a Wordle Word? Yes – Valid Guess
+head_title: Is LACET a Wordle Word? Yes – Valid Guess & Meaning
 word: lacet
 description: Yes, LACET is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,12 @@ neighbours:
 anagrams:
 - cleat
 - eclat
+definitions:
+- pos: noun
+  defs:
+  - text: A small lace.
+    example: "[…] the crimson velvet sleeve […] shows the shirt beneath, and is brought
+      together by red lacets."
 prev_word: laces
 next_word: lacey
 hubs:

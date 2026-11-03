@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LASSY a Wordle Word?
-head_title: Is LASSY a Wordle Word? Yes – Valid Guess
+head_title: Is LASSY a Wordle Word? Yes – Valid Guess & Meaning
 word: lassy
 description: Yes, LASSY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,11 @@ neighbours:
 anagrams:
 - lyssa
 - slays
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of lassie: A young girl, a lass, especially one seen as
+      a sweetheart.'
 prev_word: lassu
 next_word: lasts
 hubs:

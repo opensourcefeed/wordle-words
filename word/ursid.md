@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is URSID a Wordle Word?
-head_title: Is URSID a Wordle Word? Yes – Valid Guess
+head_title: Is URSID a Wordle Word? Yes – Valid Guess & Meaning
 word: ursid
 description: Yes, URSID is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ neighbours:
 - ureid
 anagrams:
 - rudis
+phonetic: "/ˈɝsɪd/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any species of the family Ursidae; a bear, a giant panda, or any of certain
+      extinct relatives.
 prev_word: ursae
 next_word: urson
 hubs:

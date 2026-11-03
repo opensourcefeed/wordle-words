@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STEAR a Wordle Word?
-head_title: Is STEAR a Wordle Word? Yes – Valid Guess
+head_title: Is STEAR a Wordle Word? Yes – Valid Guess & Meaning
 word: stear
 description: Yes, STEAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -50,6 +51,11 @@ anagrams:
 trap:
   pattern: S_EAR
   count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: 'Obsolete form of steer: To guide the course of a vessel, vehicle, aircraft
+      etc. (by means of a device such as a rudder, paddle, or steering wheel).'
 prev_word: stean
 next_word: stedd
 hubs:

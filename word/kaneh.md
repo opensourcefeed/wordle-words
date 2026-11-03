@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KANEH a Wordle Word?
-head_title: Is KANEH a Wordle Word? Yes – Valid Guess
+head_title: Is KANEH a Wordle Word? Yes – Valid Guess & Meaning
 word: kaneh
 description: Yes, KANEH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,10 @@ neighbours:
 - caneh
 - kanes
 - maneh
+definitions:
+- pos: noun
+  defs:
+  - text: A Hebrew measure of length, equal to six cubits.
 prev_word: kandy
 next_word: kanes
 hubs:

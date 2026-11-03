@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DAWAH a Wordle Word?
-head_title: Is DAWAH a Wordle Word? Yes – Valid Guess
+head_title: Is DAWAH a Wordle Word? Yes – Valid Guess & Meaning
 word: dawah
 description: Yes, DAWAH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,10 @@ stats:
 neighbours:
 - dadah
 - sawah
+definitions:
+- pos: noun
+  defs:
+  - text: Islamic proselytism, particularly through preaching
 prev_word: davit
 next_word: dawds
 hubs:

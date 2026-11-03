@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NAZES a Wordle Word?
-head_title: Is NAZES a Wordle Word? Yes – Valid Guess
+head_title: Is NAZES a Wordle Word? Yes – Valid Guess & Meaning
 word: nazes
 description: Yes, NAZES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,10 @@ anagrams:
 trap:
   pattern: _AZES
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of naze: A promontory or headland.'
 prev_word: nazar
 next_word: nazir
 hubs:

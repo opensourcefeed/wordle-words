@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MADOS a Wordle Word?
-head_title: Is MADOS a Wordle Word? Yes – Valid Guess
+head_title: Is MADOS a Wordle Word? Yes – Valid Guess & Meaning
 word: mados
 description: Yes, MADOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,11 @@ neighbours:
 - sados
 anagrams:
 - omdas
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of mado: Any fish in the genus Atypichthys, in Australia mostly
+      Atypichthys strigatus and in New Zealand Atypichthys latus.'
 prev_word: madly
 next_word: madre
 hubs:

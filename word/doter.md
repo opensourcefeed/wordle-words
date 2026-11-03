@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DOTER a Wordle Word?
-head_title: Is DOTER a Wordle Word? Yes – Valid Guess
+head_title: Is DOTER a Wordle Word? Yes – Valid Guess & Meaning
 word: doter
 description: Yes, DOTER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,13 @@ anagrams:
 trap:
   pattern: DO_ER
   count: 7
+phonetic: "/ˈdəʊtə(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: Synonym of dotard (“old person with impaired intellect”).
+    example: "“Hold thy tongue! old doter; how should my daughter resemble thy son?”"
+  - text: Synonym of dotard (“one who dotes on another, showing excessive fondness”).
 prev_word: doted
 next_word: dotes
 hubs:

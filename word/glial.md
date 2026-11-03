@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GLIAL a Wordle Word?
-head_title: Is GLIAL a Wordle Word? Yes – Valid Guess
+head_title: Is GLIAL a Wordle Word? Yes – Valid Guess & Meaning
 word: glial
 description: Yes, GLIAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,11 @@ stats:
 neighbours:
 - glias
 - ilial
+phonetic: "/ˈɡliː.əl/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or pertaining to glia.
 prev_word: gleys
 next_word: glias
 hubs:

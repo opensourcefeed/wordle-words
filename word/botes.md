@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BOTES a Wordle Word?
-head_title: Is BOTES a Wordle Word? Yes – Valid Guess
+head_title: Is BOTES a Wordle Word? Yes – Valid Guess & Meaning
 word: botes
 description: Yes, BOTES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,11 @@ anagrams:
 trap:
   pattern: _OTES
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of bote: Atonement, compensation, amends, satisfaction; as, manbote,
+      a compensation for a man slain.'
 prev_word: botel
 next_word: botew
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LOREL a Wordle Word?
-head_title: Is LOREL a Wordle Word? Yes – Valid Guess
+head_title: Is LOREL a Wordle Word? Yes – Valid Guess & Meaning
 word: lorel
 description: Yes, LOREL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,13 @@ neighbours:
 anagrams:
 - oller
 - rello
+definitions:
+- pos: noun
+  defs:
+  - text: 'A good-for-nothing: a vagabond, waster or losel.'
+    example: Just as a simian – be it a monkey or a marmoset, an ape or cercopithecus
+      – may play the scholar or abuse the book, so the lorel can only look upon the
+      Bible or play-act as lord.
 prev_word: lordy
 next_word: lores
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AREFY a Wordle Word?
-head_title: Is AREFY a Wordle Word? Yes – Valid Guess
+head_title: Is AREFY a Wordle Word? Yes – Valid Guess & Meaning
 word: arefy
 description: Yes, AREFY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,14 @@ anagrams:
 - faery
 - fayer
 - fayre
+phonetic: "/ˈɛəɹɪfaɪ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To dry, or make dry; wither.
+    example: Time, and Heat, are Fellovves in many Effects. Heat drieth Bodies, that
+      doe eaſily expire; As Parchment, Leaues, Roots, Clay, &c. And, ſo doth Time
+      or Age arefie; […]
 prev_word: arede
 next_word: areic
 hubs:

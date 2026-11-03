@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FANKS a Wordle Word?
-head_title: Is FANKS a Wordle Word? Yes – Valid Guess
+head_title: Is FANKS a Wordle Word? Yes – Valid Guess & Meaning
 word: fanks
 description: Yes, FANKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,17 @@ neighbours:
 trap:
   pattern: _ANKS
   count: 12
+phonetic: "/ˈfæŋks/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of fank: A pen for enclosing sheep, mainly in the Scottish Highlands.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of fank
+- pos: interjection
+  defs:
+  - text: Thanks.
 prev_word: fangs
 next_word: fanny
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ADAYS a Wordle Word?
-head_title: Is ADAYS a Wordle Word? Yes – Valid Guess
+head_title: Is ADAYS a Wordle Word? Yes – Valid Guess & Meaning
 word: adays
 description: Yes, ADAYS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - apays
 - aways
 - bdays
+definitions:
+- pos: adverb
+  defs:
+  - text: In the daytime.
+  - text: Nowadays; in the present time period.
 prev_word: adaws
 next_word: adbot
 hubs:

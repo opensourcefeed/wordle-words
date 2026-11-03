@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SMOOT a Wordle Word?
-head_title: Is SMOOT a Wordle Word? Yes – Valid Guess
+head_title: Is SMOOT a Wordle Word? Yes – Valid Guess & Meaning
 word: smoot
 description: Yes, SMOOT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,14 @@ anagrams:
 trap:
   pattern: S_OOT
   count: 6
+phonetic: "/smuːt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A unit of length defined as exactly sixty-seven inches (approximately 1.70
+      meters).
+  - text: A small opening built into a dry-stone wall, fence, or hedge to allow sheep
+      (and hares) to pass through; a thirl.
 prev_word: smoor
 next_word: smore
 hubs:

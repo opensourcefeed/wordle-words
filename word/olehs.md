@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OLEHS a Wordle Word?
-head_title: Is OLEHS a Wordle Word? Yes – Valid Guess
+head_title: Is OLEHS a Wordle Word? Yes – Valid Guess & Meaning
 word: olehs
 description: Yes, OLEHS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,11 @@ anagrams:
 - holes
 - hosel
 - sheol
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of oleh: A Jew who has recently made aliyah to Israel; an immigrant
+      to Israel.'
 prev_word: oldly
 next_word: oleic
 hubs:

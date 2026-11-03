@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AGOGE a Wordle Word?
-head_title: Is AGOGE a Wordle Word? Yes – Valid Guess
+head_title: Is AGOGE a Wordle Word? Yes – Valid Guess & Meaning
 word: agoge
 description: Yes, AGOGE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,14 @@ stats:
 neighbours:
 - agogo
 - agone
+phonetic: "/əˈɡoʊ.d͡ʒi/"
+definitions:
+- pos: noun
+  defs:
+  - text: In ancient Greek music, tempo or pace; rhythmical movement.
+  - text: 'Melodic motion upward or downward by successive scale-steps: same as ductus
+      in medieval music.'
+  - text: A rigorous training regimen for Spartan men in preparation for army service.
 prev_word: agmas
 next_word: agogo
 hubs:

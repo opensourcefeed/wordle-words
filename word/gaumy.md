@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GAUMY a Wordle Word?
-head_title: Is GAUMY a Wordle Word? Yes – Valid Guess
+head_title: Is GAUMY a Wordle Word? Yes – Valid Guess & Meaning
 word: gaumy
 description: Yes, GAUMY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,14 @@ neighbours:
 - gaums
 - gauzy
 - maumy
+phonetic: "[ˈɡɔː.mi]"
+definitions:
+- pos: adjective
+  defs:
+  - text: Sticky; smeared with something sticky.
+    example: The narrow, dark stairs are gaumy with paste, and everywhere open barrels
+      of the mixture gave out the sickening, sour odor that is always in the nostrils
+      of the workers.
 prev_word: gaums
 next_word: gaunt
 hubs:

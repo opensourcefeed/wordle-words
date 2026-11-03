@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AMORT a Wordle Word?
-head_title: Is AMORT a Wordle Word? Yes – Valid Guess
+head_title: Is AMORT a Wordle Word? Yes – Valid Guess & Meaning
 word: amort
 description: Yes, AMORT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 - aport
 anagrams:
 - morat
+definitions:
+- pos: adjective
+  defs:
+  - text: As if dead; depressed
+    example: How fares my Kate? What, sweeting, all amort?
 prev_word: amore
 next_word: amour
 hubs:

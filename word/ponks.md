@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PONKS a Wordle Word?
-head_title: Is PONKS a Wordle Word? Yes – Valid Guess
+head_title: Is PONKS a Wordle Word? Yes – Valid Guess & Meaning
 word: ponks
 description: Yes, PONKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,10 @@ anagrams:
 trap:
   pattern: _ONKS
   count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of ponk: A nocturnal evil spirit.'
 prev_word: pongy
 next_word: ponor
 hubs:

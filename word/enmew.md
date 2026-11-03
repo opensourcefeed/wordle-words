@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ENMEW a Wordle Word?
-head_title: Is ENMEW a Wordle Word? Yes – Valid Guess
+head_title: Is ENMEW a Wordle Word? Yes – Valid Guess & Meaning
 word: enmew
 description: Yes, ENMEW is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,10 @@ neighbours:
 - endew
 - ensew
 - unmew
+definitions:
+- pos: verb
+  defs:
+  - text: 'Alternative form of emmew: To mew or coop up.'
 prev_word: enlit
 next_word: ennog
 hubs:

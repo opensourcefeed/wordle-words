@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DARIC a Wordle Word?
-head_title: Is DARIC a Wordle Word? Yes – Valid Guess
+head_title: Is DARIC a Wordle Word? Yes – Valid Guess & Meaning
 word: daric
 description: Yes, DARIC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,11 @@ anagrams:
 - acrid
 - caird
 - cardi
+definitions:
+- pos: noun
+  defs:
+  - text: A gold coin from Persian Empire, introduced by Darius the Great (522-486
+      BC) and used until Alexander the Great's invasion (330 BC).
 prev_word: dargs
 next_word: daris
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOGER a Wordle Word?
-head_title: Is SOGER a Wordle Word? Yes – Valid Guess
+head_title: Is SOGER a Wordle Word? Yes – Valid Guess & Meaning
 word: soger
 description: Yes, SOGER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,21 @@ anagrams:
 - gorse
 - ogres
 - regos
+phonetic: "/ˈsəʊd͡ʒə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A poor or lazy hand on a sailing vessel.
+    example: The captain called him a "soger," and promised to "ride him down as he
+      would the main tack;" and when officers are once determined to "ride a man down,"
+      it is a gone case with him.
+  - text: Pronunciation spelling of soldier, representing nonstandardly-pronounced
+      English, sojer.
+    example: '"Bad luck to the whole breed and seed of the sogers!" muttered a fifth
+      villager, between his teeth.'
+- pos: verb
+  defs:
+  - text: To shirk; to neglect one's work.
 prev_word: softy
 next_word: soggy
 hubs:

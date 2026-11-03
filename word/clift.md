@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CLIFT a Wordle Word?
-head_title: Is CLIFT a Wordle Word? Yes – Valid Guess
+head_title: Is CLIFT a Wordle Word? Yes – Valid Guess & Meaning
 word: clift
 description: Yes, CLIFT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,13 @@ neighbours:
 - clint
 - clipt
 - glift
+phonetic: "/klɪft/"
+definitions:
+- pos: noun
+  defs:
+  - text: A cliff.
+    example: So downe he fell, as an huge rockie clift, / Whose false foundation waues
+      haue washt away [...].
 prev_word: cliff
 next_word: climb
 hubs:

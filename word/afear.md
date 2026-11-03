@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AFEAR a Wordle Word?
-head_title: Is AFEAR a Wordle Word? Yes – Valid Guess
+head_title: Is AFEAR a Wordle Word? Yes – Valid Guess & Meaning
 word: afear
 description: Yes, AFEAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 - abear
 - anear
 - arear
+definitions:
+- pos: verb
+  defs:
+  - text: To imbue with fear; to affright, to terrify.
+    example: Be not affeard, the Iſle is full of noyſes, / Sounds, and ſweet aires,
+      that giue delight and hurt not.
 prev_word: afars
 next_word: affix
 hubs:

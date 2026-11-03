@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ARGAL a Wordle Word?
-head_title: Is ARGAL a Wordle Word? Yes – Valid Guess
+head_title: Is ARGAL a Wordle Word? Yes – Valid Guess & Meaning
 word: argal
 description: Yes, ARGAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,18 @@ anagrams:
 - graal
 - lagar
 - larga
+phonetic: "/ˈɑːɹɡəl/"
+definitions:
+- pos: adverb
+  defs:
+  - text: Thus, therefore
+    example: And an act hath three branches—it is to act, to do, to perform. Argal,
+      she drowned herself wittingly.
+- pos: noun
+  defs:
+  - text: Crude tartar.
+  - text: An argali (species of sheep, ammon ovis from the subfamily caprinae from
+      family bovidae).
 prev_word: arett
 next_word: argan
 hubs:

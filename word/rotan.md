@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ROTAN a Wordle Word?
-head_title: Is ROTAN a Wordle Word? Yes – Valid Guess
+head_title: Is ROTAN a Wordle Word? Yes – Valid Guess & Meaning
 word: rotan
 description: Yes, ROTAN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,14 @@ anagrams:
 - orant
 - toran
 - trona
+phonetic: "/ˈɹotɑn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A long rattan cane used for corporal punishment.
+    example: Two boys, aged 14 and 11, were each sentenced to three strokes of the
+      light rotan at Kluang for stealing duck eggs from Loh Wee Seng.
+  - text: Amur sleeper (Perccottus glenii)
 prev_word: rotal
 next_word: rotas
 hubs:

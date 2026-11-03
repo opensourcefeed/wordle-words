@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ENTIA a Wordle Word?
-head_title: Is ENTIA a Wordle Word? Yes – Valid Guess
+head_title: Is ENTIA a Wordle Word? Yes – Valid Guess & Meaning
 word: entia
 description: Yes, ENTIA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ anagrams:
 - eatin
 - tenia
 - tinea
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of ens: An entity or being; an existing thing, as opposed to a quality
+      or attribute.'
 prev_word: enter
 next_word: entre
 hubs:

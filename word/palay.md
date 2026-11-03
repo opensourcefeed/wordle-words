@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PALAY a Wordle Word?
-head_title: Is PALAY a Wordle Word? Yes – Valid Guess
+head_title: Is PALAY a Wordle Word? Yes – Valid Guess & Meaning
 word: palay
 description: Yes, PALAY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,13 @@ neighbours:
 - palmy
 anagrams:
 - playa
+phonetic: "/ˈpæleɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Paddy
+    example: The Department of Agriculture (DA) is targeting an additional 1.1 million
+      metric tons of palay production amid the COVID-19 pandemic.
 prev_word: palas
 next_word: palea
 hubs:

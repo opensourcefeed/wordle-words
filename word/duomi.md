@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DUOMI a Wordle Word?
-head_title: Is DUOMI a Wordle Word? Yes – Valid Guess
+head_title: Is DUOMI a Wordle Word? Yes – Valid Guess & Meaning
 word: duomi
 description: Yes, DUOMI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,11 @@ neighbours:
 - duomo
 anagrams:
 - odium
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of duomo: A cathedral, or a cathedral-like building, especially
+      one in Italy.'
 prev_word: dunts
 next_word: duomo
 hubs:

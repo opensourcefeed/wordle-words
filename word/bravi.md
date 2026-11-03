@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BRAVI a Wordle Word?
-head_title: Is BRAVI a Wordle Word? Yes – Valid Guess
+head_title: Is BRAVI a Wordle Word? Yes – Valid Guess & Meaning
 word: bravi
 description: Yes, BRAVI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 - bravo
 - braai
 - brava
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of bravo: A hired soldier; an assassin; a desperado.'
 prev_word: brave
 next_word: bravo
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KOORI a Wordle Word?
-head_title: Is KOORI a Wordle Word? Yes – Valid Guess
+head_title: Is KOORI a Wordle Word? Yes – Valid Guess & Meaning
 word: koori
 description: Yes, KOORI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 - poori
 anagrams:
 - iroko
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative form of Koori.
 prev_word: kooky
 next_word: kopek
 hubs:

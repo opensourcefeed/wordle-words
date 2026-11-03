@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REGIE a Wordle Word?
-head_title: Is REGIE a Wordle Word? Yes – Valid Guess
+head_title: Is REGIE a Wordle Word? Yes – Valid Guess & Meaning
 word: regie
 description: Yes, REGIE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,15 @@ neighbours:
 - retie
 - revie
 - vegie
+phonetic: "/ɹeɪˈʒi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A government monopoly, such as on tobacco, typically used to raise revenue
+      (via taxes).
+    example: The influence of the tobacco industry on the affairs of the European
+      nations led some years ago to the establishment of tobacco regies or boards
+      of control in practically all of them.
 prev_word: regia
 next_word: regle
 hubs:

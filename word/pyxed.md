@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PYXED a Wordle Word?
-head_title: Is PYXED a Wordle Word? Yes – Valid Guess
+head_title: Is PYXED a Wordle Word? Yes – Valid Guess & Meaning
 word: pyxed
 description: Yes, PYXED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ neighbours:
 - poxed
 - pyned
 - pyxes
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of pyx: A small, usually round container
+      used to hold the host (“consecrated bread or wafer of the Eucharist”), especially
+      when bringing communion to the sick or others unable to attend Mass.'
 prev_word: pyuff
 next_word: pyxes
 hubs:

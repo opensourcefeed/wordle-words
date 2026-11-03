@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NAPED a Wordle Word?
-head_title: Is NAPED a Wordle Word? Yes – Valid Guess
+head_title: Is NAPED a Wordle Word? Yes – Valid Guess & Meaning
 word: naped
 description: Yes, NAPED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,14 @@ anagrams:
 trap:
   pattern: _APED
   count: 7
+phonetic: "/neɪpt/"
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of nape: The back part of the neck.'
+- pos: adjective
+  defs:
+  - text: Having a nape (of the neck) of a specified kind.
 prev_word: napas
 next_word: napes
 hubs:

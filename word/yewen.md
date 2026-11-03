@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is YEWEN a Wordle Word?
-head_title: Is YEWEN a Wordle Word? Yes – Valid Guess
+head_title: Is YEWEN a Wordle Word? Yes – Valid Guess & Meaning
 word: yewen
 description: Yes, YEWEN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,11 @@ neighbours:
 - yeven
 anagrams:
 - weeny
+phonetic: "/ˈjuːən/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Made from the wood of the yew tree.
 prev_word: yeves
 next_word: yexed
 hubs:

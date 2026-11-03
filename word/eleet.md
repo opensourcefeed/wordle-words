@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ELEET a Wordle Word?
-head_title: Is ELEET a Wordle Word? Yes – Valid Guess
+head_title: Is ELEET a Wordle Word? Yes – Valid Guess & Meaning
 word: eleet
 description: Yes, ELEET is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,13 @@ neighbours:
 - fleet
 - sleet
 - gleet
+definitions:
+- pos: noun
+  defs:
+  - text: Dated form of leet (“elite”).
+- pos: adjective
+  defs:
+  - text: Dated form of leet (“elite”).
 prev_word: elect
 next_word: elegy
 hubs:

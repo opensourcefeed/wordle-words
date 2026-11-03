@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HERRY a Wordle Word?
-head_title: Is HERRY a Wordle Word? Yes – Valid Guess
+head_title: Is HERRY a Wordle Word? Yes – Valid Guess & Meaning
 word: herry
 description: Yes, HERRY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,14 @@ neighbours:
 trap:
   pattern: _ERRY
   count: 11
+definitions:
+- pos: verb
+  defs:
+  - text: To honour, praise or celebrate.
+    example: Thenceforth it firmely was eſtabliſhed, / And for Apolloes temple highly
+      herried.
+  - text: 'Alternative form of harry: To plunder, pillage, assault.'
+  - text: 'Pronunciation spelling of hurry: A rushed action.'
 prev_word: herps
 next_word: herse
 hubs:

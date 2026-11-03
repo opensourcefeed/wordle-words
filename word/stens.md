@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STENS a Wordle Word?
-head_title: Is STENS a Wordle Word? Yes – Valid Guess
+head_title: Is STENS a Wordle Word? Yes – Valid Guess & Meaning
 word: stens
 description: Yes, STENS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,10 @@ anagrams:
 trap:
   pattern: STE_S
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: Plural of sten
 prev_word: steno
 next_word: stent
 hubs:

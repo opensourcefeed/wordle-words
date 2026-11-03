@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SPIER a Wordle Word?
-head_title: Is SPIER a Wordle Word? Yes – Valid Guess
+head_title: Is SPIER a Wordle Word? Yes – Valid Guess & Meaning
 word: spier
 description: Yes, SPIER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,10 @@ anagrams:
 - prise
 - ripes
 - speir
+definitions:
+- pos: noun
+  defs:
+  - text: One who spies; a spy.
 prev_word: spiel
 next_word: spies
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HOSEN a Wordle Word?
-head_title: Is HOSEN a Wordle Word? Yes – Valid Guess
+head_title: Is HOSEN a Wordle Word? Yes – Valid Guess & Meaning
 word: hosen
 description: Yes, HOSEN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,15 @@ anagrams:
 trap:
   pattern: HOSE_
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: Plural of hose (the old-fashioned garment; stockings)
+    example: These men were bound in their coats, their hosen, and their hats, and
+      their other garments.
+  - text: Coverings for the legs; trousers; pants.
+    example: At the court of the Kaiser I born was and bred ; and there my hosen and
+      jerkin were made ; […]
 prev_word: hosel
 next_word: hoser
 hubs:

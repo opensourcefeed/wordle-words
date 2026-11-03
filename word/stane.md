@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STANE a Wordle Word?
-head_title: Is STANE a Wordle Word? Yes – Valid Guess
+head_title: Is STANE a Wordle Word? Yes – Valid Guess & Meaning
 word: stane
 description: Yes, STANE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -44,6 +45,12 @@ anagrams:
 trap:
   pattern: STA_E
   count: 8
+phonetic: "/steɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'A dialectal or obsolete form of stone: A hard earthen substance that can
+      form rocks; especially, such substance when regarded as a building material.'
 prev_word: stand
 next_word: stang
 hubs:

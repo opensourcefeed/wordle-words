@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RETAG a Wordle Word?
-head_title: Is RETAG a Wordle Word? Yes – Valid Guess
+head_title: Is RETAG a Wordle Word? Yes – Valid Guess & Meaning
 word: retag
 description: Yes, RETAG is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,12 @@ anagrams:
 - gater
 - targe
 - terga
+definitions:
+- pos: verb
+  defs:
+  - text: To tag again or anew.
+    example: Merchandise marked down must be retagged in the same manner, and the
+      comptroller must be notified of the total amount of the markdown.
 prev_word: resus
 next_word: retam
 hubs:

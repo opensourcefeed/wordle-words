@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BEMUD a Wordle Word?
-head_title: Is BEMUD a Wordle Word? Yes – Valid Guess
+head_title: Is BEMUD a Wordle Word? Yes – Valid Guess & Meaning
 word: bemud
 description: Yes, BEMUD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -21,6 +22,11 @@ stats:
   starter_top_percent: 71
 neighbours:
 - bemad
+definitions:
+- pos: verb
+  defs:
+  - text: To cover, bespatter, or befoul with mud.
+  - text: To confuse; muddle.
 prev_word: bemix
 next_word: bench
 hubs:

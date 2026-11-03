@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WANTY a Wordle Word?
-head_title: Is WANTY a Wordle Word? Yes – Valid Guess
+head_title: Is WANTY a Wordle Word? Yes – Valid Guess & Meaning
 word: wanty
 description: Yes, WANTY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,15 @@ anagrams:
 trap:
   pattern: _ANTY
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A girth or belly-band for a horse's harness.
+  - text: A leather tie; a short wagon rope
+  - text: A stretch of fishing-lines shot in the water.
+- pos: adjective
+  defs:
+  - text: Possessing or indicating lack; deficient.
 prev_word: wants
 next_word: wanze
 hubs:

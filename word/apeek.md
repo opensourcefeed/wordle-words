@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is APEEK a Wordle Word?
-head_title: Is APEEK a Wordle Word? Yes – Valid Guess
+head_title: Is APEEK a Wordle Word? Yes – Valid Guess & Meaning
 word: apeek
 description: Yes, APEEK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 anagrams:
 - peake
 - pekea
+definitions:
+- pos: adverb
+  defs:
+  - text: 'Alternative spelling of apeak: In a vertical line, the cable having been
+      sufficiently hove in to bring the ship over it.'
 prev_word: apeak
 next_word: apers
 hubs:

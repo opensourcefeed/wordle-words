@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BELAH a Wordle Word?
-head_title: Is BELAH a Wordle Word? Yes – Valid Guess
+head_title: Is BELAH a Wordle Word? Yes – Valid Guess & Meaning
 word: belah
 description: Yes, BELAH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,10 @@ neighbours:
 anagrams:
 - bleah
 - hable
+definitions:
+- pos: noun
+  defs:
+  - text: Beefwood
 prev_word: bekah
 next_word: belar
 hubs:

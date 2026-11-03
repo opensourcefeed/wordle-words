@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TOGED a Wordle Word?
-head_title: Is TOGED a Wordle Word? Yes – Valid Guess
+head_title: Is TOGED a Wordle Word? Yes – Valid Guess & Meaning
 word: toged
 description: Yes, TOGED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,12 @@ anagrams:
 trap:
   pattern: TO_ED
   count: 10
+definitions:
+- pos: adjective
+  defs:
+  - text: Togated; dressed in a toga
+    example: "[…]Nor the deuiſion of a Battell knowes, / More then a Spinſter, vnleſſe
+      the bookiſh Theorique, / Wherein the toged Conſuls can propoſe"
 prev_word: togas
 next_word: toges
 hubs:

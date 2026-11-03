@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is POTSY a Wordle Word?
-head_title: Is POTSY a Wordle Word? Yes – Valid Guess
+head_title: Is POTSY a Wordle Word? Yes – Valid Guess & Meaning
 word: potsy
 description: Yes, POTSY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 anagrams:
 - pyots
 - typos
+definitions:
+- pos: noun
+  defs:
+  - text: A children's game, similar to hopscotch, especially popular in New York.
+  - text: The puck used in this game, usually made of a flattened tin can.
 prev_word: potro
 next_word: potto
 hubs:

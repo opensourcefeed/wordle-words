@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TALAR a Wordle Word?
-head_title: Is TALAR a Wordle Word? Yes – Valid Guess
+head_title: Is TALAR a Wordle Word? Yes – Valid Guess & Meaning
 word: talar
 description: Yes, TALAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,13 @@ anagrams:
 - altar
 - artal
 - ratal
+definitions:
+- pos: adjective
+  defs:
+  - text: Relating to the talus.
+- pos: noun
+  defs:
+  - text: An ankle-length robe.
 prev_word: talaq
 next_word: talas
 hubs:

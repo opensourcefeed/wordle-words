@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GAMBE a Wordle Word?
-head_title: Is GAMBE a Wordle Word? Yes – Valid Guess
+head_title: Is GAMBE a Wordle Word? Yes – Valid Guess & Meaning
 word: gambe
 description: Yes, GAMBE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - gamme
 - garbe
 - jambe
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of gamb: The leg or shank, typically of an animal, especially
+      of a lion, on a coat of arms, crest, etc.'
 prev_word: gamba
 next_word: gambo
 hubs:

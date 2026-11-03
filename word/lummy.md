@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LUMMY a Wordle Word?
-head_title: Is LUMMY a Wordle Word? Yes – Valid Guess
+head_title: Is LUMMY a Wordle Word? Yes – Valid Guess & Meaning
 word: lummy
 description: Yes, LUMMY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,17 @@ neighbours:
 trap:
   pattern: _UMMY
   count: 8
+phonetic: "/ˈlʌmi/"
+definitions:
+- pos: interjection
+  defs:
+  - text: 'Alternative form of lumme: Expressing surprise.'
+- pos: adjective
+  defs:
+  - text: Shrewd; knowing; cute
+    example: To think of Jack Dawkins—lummy Jack—the Dodger—the Artful Dodger—going
+      abroad for a common twopenny-halfpenny sneeze-box!
+  - text: Jolly, first-rate.
 prev_word: lumme
 next_word: lumps
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is JAUPS a Wordle Word?
-head_title: Is JAUPS a Wordle Word? Yes – Valid Guess
+head_title: Is JAUPS a Wordle Word? Yes – Valid Guess & Meaning
 word: jaups
 description: Yes, JAUPS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,13 @@ neighbours:
 - yaups
 anagrams:
 - pujas
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of jaup: A splash.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of jaup
 prev_word: jaunt
 next_word: javas
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BOYEY a Wordle Word?
-head_title: Is BOYEY a Wordle Word? Yes – Valid Guess
+head_title: Is BOYEY a Wordle Word? Yes – Valid Guess & Meaning
 word: boyey
 description: Yes, BOYEY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,13 @@ neighbours:
 - boyed
 - boyly
 - boysy
+definitions:
+- pos: adjective
+  defs:
+  - text: Characteristic of stereotypical boys.
+    example: "[…] to his sister's olfactory nerves, there was no denying the fact
+      that his little brown tunic, his worn little trousers had acquired a very boyey
+      smell."
 prev_word: boyed
 next_word: boyfs
 hubs:

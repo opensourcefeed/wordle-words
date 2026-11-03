@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ZOWEE a Wordle Word?
-head_title: Is ZOWEE a Wordle Word? Yes – Valid Guess
+head_title: Is ZOWEE a Wordle Word? Yes – Valid Guess & Meaning
 word: zowee
 description: Yes, ZOWEE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,11 @@ stats:
 neighbours:
 - wowee
 - zowie
+definitions:
+- pos: interjection
+  defs:
+  - text: 'Alternative spelling of zowie: An indication of astonishment or admiration.'
+    example: "‘Zoweee!’ Monte had never heard anybody but Jerry say that."
 prev_word: zouks
 next_word: zowie
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CEDER a Wordle Word?
-head_title: Is CEDER a Wordle Word? Yes – Valid Guess
+head_title: Is CEDER a Wordle Word? Yes – Valid Guess & Meaning
 word: ceder
 description: Yes, CEDER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,12 @@ neighbours:
 anagrams:
 - creed
 - cered
+definitions:
+- pos: noun
+  defs:
+  - text: One who cedes something.
+  - text: 'Obsolete spelling of cedar: A coniferous tree of the genus Cedrus in the
+      family Pinaceae.'
 prev_word: ceded
 next_word: cedes
 hubs:

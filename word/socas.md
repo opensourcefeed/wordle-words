@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOCAS a Wordle Word?
-head_title: Is SOCAS a Wordle Word? Yes – Valid Guess
+head_title: Is SOCAS a Wordle Word? Yes – Valid Guess & Meaning
 word: socas
 description: Yes, SOCAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,12 @@ neighbours:
 trap:
   pattern: SO_AS
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of soca: A genre of music that originated in Trinidad and Tobago
+      in the early 1970s and developed into a range of styles during the 1980s and
+      after which primarily includes influences of African and Indian rhythms.'
 prev_word: sober
 next_word: soces
 hubs:

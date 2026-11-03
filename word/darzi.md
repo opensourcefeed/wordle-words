@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DARZI a Wordle Word?
-head_title: Is DARZI a Wordle Word? Yes – Valid Guess
+head_title: Is DARZI a Wordle Word? Yes – Valid Guess & Meaning
 word: darzi
 description: Yes, DARZI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 - durzi
 anagrams:
 - izard
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of durzi: A tailor, especially a personal one.'
 prev_word: darts
 next_word: dashi
 hubs:

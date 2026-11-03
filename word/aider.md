@@ -1,11 +1,11 @@
 ---
 layout: word
 title: Is AIDER a Wordle Word?
-head_title: Is AIDER a Wordle Word? Yes – Possible Answer
+head_title: Is AIDER a Wordle Word? Yes – Possible Answer & Meaning
 word: aider
 description: Yes, AIDER is a valid Wordle word. It is on the original Wordle answer
-  list and has not been an answer yet, so it could be a future answer. See its starter
-  rating and similar words.
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
 status: possible
 answer_text: It is on the original Wordle answer list and has not been an answer yet,
   so it could be a future answer.
@@ -45,6 +45,15 @@ anagrams:
 trap:
   pattern: _IDER
   count: 8
+phonetic: "/ˈeɪdə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person who aids or assists.
+    example: The capitaines of the toune seyng theire pillers borken, and their chief
+      ayders discomfited, rendered the toune to the duke of Somerset,
+  - text: A mountaineer's stirrup or étrier.
+    example: As I was switching my feet in my aiders, the hook popped.
 prev_word: aided
 next_word: aides
 hubs:

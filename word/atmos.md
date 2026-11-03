@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ATMOS a Wordle Word?
-head_title: Is ATMOS a Wordle Word? Yes – Valid Guess
+head_title: Is ATMOS a Wordle Word? Yes – Valid Guess & Meaning
 word: atmos
 description: Yes, ATMOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,17 @@ anagrams:
 - atoms
 - moats
 - stoma
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of atmo: The standard atmospheric pressure used in certain physical
+      measurements and calculations; conventionally, that pressure under which the
+      barometer stands at 760 millimeters, at a temperature of 0° Centigrade, at the
+      level of the sea, and in the latitude of Paris.'
+  - text: 'Clipping of atmosphere: The gases surrounding the Earth or any astronomical
+      body.'
+    example: Wherever possible, it is best to record your sound effects in the location
+      as they will contain the right atmos for the location.
 prev_word: atmas
 next_word: atocs
 hubs:

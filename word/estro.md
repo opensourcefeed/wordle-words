@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ESTRO a Wordle Word?
-head_title: Is ESTRO a Wordle Word? Yes – Valid Guess
+head_title: Is ESTRO a Wordle Word? Yes – Valid Guess & Meaning
 word: estro
 description: Yes, ESTRO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,13 @@ anagrams:
 - rotes
 - tores
 - torse
+definitions:
+- pos: noun
+  defs:
+  - text: 'Clipping of estrogen: Any of a group of steroids that are secreted by the
+      ovaries and function as female sex hormones.'
+    example: With spiro and estro from Vanuatu / What the hell do you think that'll
+      do to you?
 prev_word: estop
 next_word: etage
 hubs:

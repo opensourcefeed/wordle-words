@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HURLY a Wordle Word?
-head_title: Is HURLY a Wordle Word? Yes – Valid Guess
+head_title: Is HURLY a Wordle Word? Yes – Valid Guess & Meaning
 word: hurly
 description: Yes, HURLY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,13 @@ neighbours:
 trap:
   pattern: _URLY
   count: 6
+phonetic: "/ˈhɜː(ɹ)li/"
+definitions:
+- pos: noun
+  defs:
+  - text: Noise; confusion; uproar
+    example: "[…] that, with the hurly, death itself awakes."
+  - text: A wheelbarrow.
 prev_word: hurls
 next_word: hurra
 hubs:

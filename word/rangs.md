@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RANGS a Wordle Word?
-head_title: Is RANGS a Wordle Word? Yes – Valid Guess
+head_title: Is RANGS a Wordle Word? Yes – Valid Guess & Meaning
 word: rangs
 description: Yes, RANGS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,11 @@ anagrams:
 trap:
   pattern: _ANGS
   count: 15
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of rang: Simple past of ring (only in senses related to a bell —
+      etymology 2)'
 prev_word: rangi
 next_word: rangy
 hubs:

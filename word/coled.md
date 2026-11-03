@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is COLED a Wordle Word?
-head_title: Is COLED a Wordle Word? Yes – Valid Guess
+head_title: Is COLED a Wordle Word? Yes – Valid Guess & Meaning
 word: coled
 description: Yes, COLED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,11 @@ anagrams:
 trap:
   pattern: CO_ED
   count: 14
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of colead: A joint lead; one of a group
+      of actors who jointly take lead roles.'
 prev_word: colds
 next_word: coles
 hubs:

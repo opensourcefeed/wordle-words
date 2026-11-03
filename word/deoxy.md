@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DEOXY a Wordle Word?
-head_title: Is DEOXY a Wordle Word? Yes – Valid Guess
+head_title: Is DEOXY a Wordle Word? Yes – Valid Guess & Meaning
 word: deoxy
 description: Yes, DEOXY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -21,6 +22,12 @@ stats:
   - X
   starter_tier: Weak
   starter_top_percent: 64
+phonetic: "/diːˈɒksi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Describing any compound formally derived from another by replacement of
+      a hydroxy group by a hydrogen atom.
 prev_word: deoch
 next_word: depot
 hubs:

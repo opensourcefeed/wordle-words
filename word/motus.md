@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MOTUS a Wordle Word?
-head_title: Is MOTUS a Wordle Word? Yes – Valid Guess
+head_title: Is MOTUS a Wordle Word? Yes – Valid Guess & Meaning
 word: motus
 description: Yes, MOTUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,11 @@ anagrams:
 trap:
   pattern: MO_US
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of motu: A reef islet formed by broken coral and sand, surrounding
+      an atoll.'
 prev_word: motty
 next_word: motza
 hubs:

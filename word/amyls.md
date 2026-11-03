@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AMYLS a Wordle Word?
-head_title: Is AMYLS a Wordle Word? Yes – Valid Guess
+head_title: Is AMYLS a Wordle Word? Yes – Valid Guess & Meaning
 word: amyls
 description: Yes, AMYLS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 anagrams:
 - lyams
 - myals
+phonetic: "/ˈæ.mɪlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of amyl: Synonym of pentyl.'
 prev_word: amuse
 next_word: anana
 hubs:

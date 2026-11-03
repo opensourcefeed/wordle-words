@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NOSER a Wordle Word?
-head_title: Is NOSER a Wordle Word? Yes – Valid Guess
+head_title: Is NOSER a Wordle Word? Yes – Valid Guess & Meaning
 word: noser
 description: Yes, NOSER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,14 @@ anagrams:
 - rones
 - senor
 - seron
+definitions:
+- pos: noun
+  defs:
+  - text: A nosy person.
+  - text: An indulgence in nosiness or other curiosity.
+    example: You got your grade back already? Let's have a noser!
+  - text: A punch to the nose.
+    example: "[…] the blow was veritably a noser"
 prev_word: nosed
 next_word: noses
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ASWAY a Wordle Word?
-head_title: Is ASWAY a Wordle Word? Yes – Valid Guess
+head_title: Is ASWAY a Wordle Word? Yes – Valid Guess & Meaning
 word: asway
 description: Yes, ASWAY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ neighbours:
 - alway
 anagrams:
 - aways
+definitions:
+- pos: adjective
+  defs:
+  - text: Swaying.
+    example: Now the whole great terrace was a-sway with the crowd of nobles and princes,
+      and others that were neither nobles nor princes, but true men only;
 prev_word: asura
 next_word: aswim
 hubs:

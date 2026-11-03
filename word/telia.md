@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TELIA a Wordle Word?
-head_title: Is TELIA a Wordle Word? Yes – Valid Guess
+head_title: Is TELIA a Wordle Word? Yes – Valid Guess & Meaning
 word: telia
 description: Yes, TELIA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,11 @@ neighbours:
 - nelia
 - telic
 - tenia
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of telium: A sorus, in the form of a pustule, in the tissue of plants
+      infected with rust fungi.'
 prev_word: telex
 next_word: telic
 hubs:

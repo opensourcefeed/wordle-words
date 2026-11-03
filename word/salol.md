@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SALOL a Wordle Word?
-head_title: Is SALOL a Wordle Word? Yes – Valid Guess
+head_title: Is SALOL a Wordle Word? Yes – Valid Guess & Meaning
 word: salol
 description: Yes, SALOL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,14 @@ neighbours:
 anagrams:
 - lolas
 - ollas
+definitions:
+- pos: noun
+  defs:
+  - text: Phenyl salicylate; a, odorless, tasteless, white crystalline powder, nearly
+      insoluble in water, but soluble in chloroform, ether, oils, and certain concentrations
+      of alcohol, which is split up in the intestines into salicylic acid and phenol,
+      and which is used for certain medicinal purposes.
+    example: The therapeutic action of alphol is said to be similar to that of salol.
 prev_word: salmi
 next_word: salon
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NARIC a Wordle Word?
-head_title: Is NARIC a Wordle Word? Yes – Valid Guess
+head_title: Is NARIC a Wordle Word? Yes – Valid Guess & Meaning
 word: naric
 description: Yes, NARIC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,12 @@ neighbours:
 - naris
 anagrams:
 - cairn
+definitions:
+- pos: adjective
+  defs:
+  - text: Synonym of narial.
+    example: The naric-hypophysial canal was blind at both ends, and paired olfactory
+      sacs opened into it, as well as a narrow canal from the front of the gut.
 prev_word: nares
 next_word: naris
 hubs:

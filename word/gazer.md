@@ -1,11 +1,11 @@
 ---
 layout: word
 title: Is GAZER a Wordle Word?
-head_title: Is GAZER a Wordle Word? Yes – Possible Answer
+head_title: Is GAZER a Wordle Word? Yes – Possible Answer & Meaning
 word: gazer
 description: Yes, GAZER is a valid Wordle word. It is on the original Wordle answer
-  list and has not been an answer yet, so it could be a future answer. See its starter
-  rating and similar words.
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
 status: possible
 answer_text: It is on the original Wordle answer list and has not been an answer yet,
   so it could be a future answer.
@@ -41,6 +41,12 @@ anagrams:
 trap:
   pattern: GA_ER
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: One who gazes.
+    example: I'll drown more sailors than the mermaid shall; / I'll slay more gazers
+      than the basilisk;
 prev_word: gazed
 next_word: gazes
 hubs:

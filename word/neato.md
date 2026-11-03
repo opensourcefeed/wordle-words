@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NEATO a Wordle Word?
-head_title: Is NEATO a Wordle Word? Yes – Valid Guess
+head_title: Is NEATO a Wordle Word? Yes – Valid Guess & Meaning
 word: neato
 description: Yes, NEATO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,12 @@ neighbours:
 anagrams:
 - atone
 - oaten
+phonetic: "/ˈnitoʊ/"
+definitions:
+- pos: interjection
+  defs:
+  - text: Neat (in the sense of being excellent or desirable).
+    example: Oh, neato! My car is fixed.
 prev_word: neath
 next_word: neats
 hubs:

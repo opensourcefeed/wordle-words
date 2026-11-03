@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOLER a Wordle Word?
-head_title: Is SOLER a Wordle Word? Yes – Valid Guess
+head_title: Is SOLER a Wordle Word? Yes – Valid Guess & Meaning
 word: soler
 description: Yes, SOLER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -43,6 +44,12 @@ anagrams:
 - resol
 - roles
 - sorel
+definitions:
+- pos: noun
+  defs:
+  - text: One who fits the soles to shoes.
+    example: He was a great mender and soler of shoes, and even could make new ones
+      very strong and coarse.
 prev_word: solei
 next_word: soles
 hubs:

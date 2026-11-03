@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GUYLE a Wordle Word?
-head_title: Is GUYLE a Wordle Word? Yes – Valid Guess
+head_title: Is GUYLE a Wordle Word? Yes – Valid Guess & Meaning
 word: guyle
 description: Yes, GUYLE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,15 @@ neighbours:
 - guyse
 anagrams:
 - gluey
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of guile: Astuteness often marked by a certain sense of cunning
+      or artful deception.'
+- pos: verb
+  defs:
+  - text: 'Obsolete form of guile: Astuteness often marked by a certain sense of cunning
+      or artful deception.'
 prev_word: guyed
 next_word: guyot
 hubs:

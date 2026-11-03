@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GAGER a Wordle Word?
-head_title: Is GAGER a Wordle Word? Yes – Valid Guess
+head_title: Is GAGER a Wordle Word? Yes – Valid Guess & Meaning
 word: gager
 description: Yes, GAGER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,10 @@ anagrams:
 trap:
   pattern: _AGER
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of gauger: One who gauges.'
 prev_word: gaged
 next_word: gages
 hubs:

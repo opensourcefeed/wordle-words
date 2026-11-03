@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FYLES a Wordle Word?
-head_title: Is FYLES a Wordle Word? Yes – Valid Guess
+head_title: Is FYLES a Wordle Word? Yes – Valid Guess & Meaning
 word: fyles
 description: Yes, FYLES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,10 @@ neighbours:
 anagrams:
 - fleys
 - selfy
+definitions:
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of fyle
 prev_word: fykes
 next_word: fyrds
 hubs:

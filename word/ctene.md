@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CTENE a Wordle Word?
-head_title: Is CTENE a Wordle Word? Yes – Valid Guess
+head_title: Is CTENE a Wordle Word? Yes – Valid Guess & Meaning
 word: ctene
 description: Yes, CTENE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -20,6 +21,10 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 52
+definitions:
+- pos: noun
+  defs:
+  - text: A band of fused cilia on the bodies of ctenophores, used for locomotion.
 prev_word: crypt
 next_word: cubby
 hubs:

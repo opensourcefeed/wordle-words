@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is YOURT a Wordle Word?
-head_title: Is YOURT a Wordle Word? Yes – Valid Guess
+head_title: Is YOURT a Wordle Word? Yes – Valid Guess & Meaning
 word: yourt
 description: Yes, YOURT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,12 @@ neighbours:
 - court
 - yourn
 - yours
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete spelling of yurt: A large, round, semi-permanent tent with vertical
+      walls and a conical roof, usually associated with Central Asia and Mongolia
+      (where it is known as a ger).'
 prev_word: yours
 next_word: youse
 hubs:

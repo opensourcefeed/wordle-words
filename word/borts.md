@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BORTS a Wordle Word?
-head_title: Is BORTS a Wordle Word? Yes – Valid Guess
+head_title: Is BORTS a Wordle Word? Yes – Valid Guess & Meaning
 word: borts
 description: Yes, BORTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,12 @@ neighbours:
 trap:
   pattern: _ORTS
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of bort: The shards or fragments removed from diamonds during cutting,
+      used for industrial purposes such as abrasives in cutting, drilling or grinding
+      tools; a poorly crystallized diamond.'
 prev_word: boron
 next_word: borty
 hubs:

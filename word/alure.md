@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ALURE a Wordle Word?
-head_title: Is ALURE a Wordle Word? Yes – Valid Guess
+head_title: Is ALURE a Wordle Word? Yes – Valid Guess & Meaning
 word: alure
 description: Yes, ALURE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,11 @@ neighbours:
 - alurk
 anagrams:
 - ureal
+definitions:
+- pos: noun
+  defs:
+  - text: A walkway or passageway.
+    example: The sides of every street were covered with fresh alures of marble.
 prev_word: alumy
 next_word: alurk
 hubs:

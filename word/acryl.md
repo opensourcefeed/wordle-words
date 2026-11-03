@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ACRYL a Wordle Word?
-head_title: Is ACRYL a Wordle Word? Yes – Valid Guess
+head_title: Is ACRYL a Wordle Word? Yes – Valid Guess & Meaning
 word: acryl
 description: Yes, ACRYL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ neighbours:
 anagrams:
 - clary
 - lycra
+definitions:
+- pos: noun
+  defs:
+  - text: The univalent radical derived from acrylic acid :- CH₂=CH-CO-
 prev_word: acros
 next_word: actas
 hubs:

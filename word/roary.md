@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ROARY a Wordle Word?
-head_title: Is ROARY a Wordle Word? Yes – Valid Guess
+head_title: Is ROARY a Wordle Word? Yes – Valid Guess & Meaning
 word: roary
 description: Yes, ROARY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,12 @@ neighbours:
 - roaky
 - roany
 - roars
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling or characteristic of a roaring sound.
+    example: "“What are you doing on my island?” the lion shouted in a roary kind
+      of voice."
 prev_word: roars
 next_word: roast
 hubs:

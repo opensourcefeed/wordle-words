@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LUTER a Wordle Word?
-head_title: Is LUTER a Wordle Word? Yes – Valid Guess
+head_title: Is LUTER a Wordle Word? Yes – Valid Guess & Meaning
 word: luter
 description: Yes, LUTER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,11 @@ neighbours:
 - lutes
 - luxer
 - muter
+definitions:
+- pos: noun
+  defs:
+  - text: One who uses lute (the material).
+  - text: A musician who plays a lute.
 prev_word: luted
 next_word: lutes
 hubs:

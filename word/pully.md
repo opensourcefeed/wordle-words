@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PULLY a Wordle Word?
-head_title: Is PULLY a Wordle Word? Yes – Valid Guess
+head_title: Is PULLY a Wordle Word? Yes – Valid Guess & Meaning
 word: pully
 description: Yes, PULLY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,10 @@ neighbours:
 trap:
   pattern: _ULLY
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A pullover.
 prev_word: pulls
 next_word: pulmo
 hubs:

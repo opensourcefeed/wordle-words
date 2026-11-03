@@ -25,7 +25,7 @@ None of the local work has shipped, and the current local config would break the
   - [x] Rewrote `about.markdown`: what the site is, word-list and definition sources, who runs it, contact, NYT disclaimer.
   - [x] Privacy Policy: footer links to the main site's existing `/privacy-policy/`, which already covers AdSense, Google cookies and Ahrefs.
   - [ ] *(your action)* Confirm the Google-certified consent message (CMP) for EEA/UK is turned on in AdSense under **Privacy & messaging**. That setting is per account, so it's not set in this repo.
-  - [x] Attribution line on every word page with a definition (Wiktionary via the Free Dictionary API, CC BY-SA).
+  - [x] Attribution line on every word page with a definition (Wiktionary, CC BY-SA).
   - [x] Footer: About, Privacy Policy and OpenSourceFeed links, an NYT trademark disclaimer, and a current-year "© Tahrik Studio" (same owner name as the main site).
   - [x] Added `jekyll-seo-tag` (canonical, meta description, Open Graph and Twitter tags), and made word-page canonical and sitemap URLs extensionless (`/word/tiger`).
 - [x] **Offensive words**: 60 slurs, strong profanities and explicit sexual terms are listed in `_data/sensitive-words.yml`. Their pages have no ads, a `noindex` tag and no sitemap entry. To keep the page flags in sync, run `ruby scripts/flag_sensitive_words.rb`; `scripts/validate_words.rb` checks it. Review the list from time to time. (M, S)
@@ -48,6 +48,7 @@ Competitors such as fiveletterwords.io already show all three. A bare "Yes, it's
   - Up to 12 neighbours (words one letter away, common answer words first) and anagrams, all as internal links. Sensitive words are never linked.
   - Hard-mode trap warning when 6+ words share a pattern (e.g. `_ATCH`: 10 words).
 - [x] **Cleaned-up definitions**: stored as structured `phonetic` + `definitions` front matter (no raw HTML, output escaped). The page shows up to 3 definitions per part of speech, with the rest in a "more definitions" toggle, and examples in italics. (M, S)
+- [x] **Thin-content fix (2026-11-03)**: filled 4,922 of the 6,953 missing definitions from the kaikki.org Wiktionary extract (same source and license as the API, streamed with `scripts/extract_kaikki.rb`, about 2 minutes per pass, nothing stored). A second pass looks up the base word of "form of" entries, so 2,168 of them read like "Plural of tift: A fit of pettishness…" (`scripts/import_definitions.rb`). The 2,031 valid guesses still without a definition get `noindex, follow` and no sitemap entry (`scripts/build_pages.rb`); they stay on the site for the checker and the word lists. Pages with a definition: 7,891 → 12,824 of 14,855; sitemap 15,301 → 13,270 URLs. (H, M)
 - [x] **Structured data**: `BreadcrumbList` + `DefinedTerm` JSON-LD on word pages, alongside `jekyll-seo-tag`'s `WebPage`. Skipped `WebSite`/`SearchAction`, because Google retired the sitelinks search box in late 2024. (M, S)
 - [x] **"No" answers**: the 404 page checks the requested word (`/word/xyzzq`) against `assets/words.json`. It says why it isn't valid (not in the list, wrong length, non-letters), suggests valid words one letter away, and includes a check-another-word box. (M, M)
 - [ ] **Static pages for popular invalid words** (4- and 6-letter words, proper nouns): wait for Search Console data to show which ones people actually search. (M, M)

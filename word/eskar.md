@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ESKAR a Wordle Word?
-head_title: Is ESKAR a Wordle Word? Yes – Valid Guess
+head_title: Is ESKAR a Wordle Word? Yes – Valid Guess & Meaning
 word: eskar
 description: Yes, ESKAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,11 @@ anagrams:
 - reaks
 - saker
 - skear
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of esker: A long, narrow, sinuous ridge created by deposits
+      from a stream running beneath a glacier.'
 prev_word: esile
 next_word: esker
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MULAI a Wordle Word?
-head_title: Is MULAI a Wordle Word? Yes – Valid Guess
+head_title: Is MULAI a Wordle Word? Yes – Valid Guess & Meaning
 word: mulai
 description: Yes, MULAI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 anagrams:
 - aumil
 - miaul
+phonetic: "/ˈmuːleɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A title for the ruler of Morocco.
+    example: Mulay Hafiz appealed to France. France immediately responded by sending
+      a sizable expeditionary force to occupy Morocco.
 prev_word: mukti
 next_word: mulch
 hubs:

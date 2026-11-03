@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CRARE a Wordle Word?
-head_title: Is CRARE a Wordle Word? Yes – Valid Guess
+head_title: Is CRARE a Wordle Word? Yes – Valid Guess & Meaning
 word: crare
 description: Yes, CRARE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,13 @@ anagrams:
 trap:
   pattern: CRA_E
   count: 8
+phonetic: "/ˈkɹɛə(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: A slow unwieldy trading vessel.
+    example: Who ever yet could sound thy bottom? find / The ooze, to show what coast
+      thy sluggish crare / Might easiliest harbour in?
 prev_word: crapy
 next_word: crash
 hubs:

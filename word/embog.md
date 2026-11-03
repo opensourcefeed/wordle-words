@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is EMBOG a Wordle Word?
-head_title: Is EMBOG a Wordle Word? Yes – Valid Guess
+head_title: Is EMBOG a Wordle Word? Yes – Valid Guess & Meaning
 word: embog
 description: Yes, EMBOG is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,13 @@ stats:
 neighbours:
 - embow
 - embox
+definitions:
+- pos: verb
+  defs:
+  - text: To bog down.
+    example: |-
+      American Federal Tax Reports
+      He does not seek judicial determination, he seeks to embog the judicial process in a morass of frivolous pleadings and argument.
 prev_word: ember
 next_word: embow
 hubs:

@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is WOOER a Wordle Word?
-head_title: 'Is WOOER a Wordle Word? Yes – Past Answer #78'
+head_title: 'Is WOOER a Wordle Word? Yes – Past Answer #78 & Meaning'
 word: wooer
 description: Yes, WOOER is a valid Wordle word. It was the Wordle answer on September
-  5, 2021 (#78). See its starter rating and similar words.
+  5, 2021 (#78). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on September 5, 2021 (#78).
 past_answers:
@@ -30,6 +30,14 @@ neighbours:
 - cooer
 - woker
 - wooed
+phonetic: "/ˈwuːə/"
+definitions:
+- pos: noun
+  defs:
+  - text: Someone who woos or courts.
+    example: 'Penelope for her Vliſſes ſake, / Deuiz''d a VVeb her vvooers to deceaue:
+      / in vvhich the vvorke that ſhe all day did make / the ſame at night ſhe did
+      againe vnreaue, […]'
 prev_word: wooed
 next_word: woofs
 hubs:

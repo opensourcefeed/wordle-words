@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PALLA a Wordle Word?
-head_title: Is PALLA a Wordle Word? Yes – Valid Guess
+head_title: Is PALLA a Wordle Word? Yes – Valid Guess & Meaning
 word: palla
 description: Yes, PALLA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,12 @@ neighbours:
 - pally
 - palsa
 - walla
+definitions:
+- pos: noun
+  defs:
+  - text: A traditional Tuscan ball game played in the street.
+  - text: A rectangular piece of cloth worn by ladies in Ancient Rome and fastened
+      with brooches.
 prev_word: palki
 next_word: palls
 hubs:

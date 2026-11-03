@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WANZE a Wordle Word?
-head_title: Is WANZE a Wordle Word? Yes – Valid Guess
+head_title: Is WANZE a Wordle Word? Yes – Valid Guess & Meaning
 word: wanze
 description: Yes, WANZE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ neighbours:
 - wanle
 - winze
 - zanze
+definitions:
+- pos: verb
+  defs:
+  - text: 'Alternative form of wanse: To wane; waste, waste away; pine; wither.'
 prev_word: wanty
 next_word: waqfs
 hubs:

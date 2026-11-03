@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NASUS a Wordle Word?
-head_title: Is NASUS a Wordle Word? Yes – Valid Guess
+head_title: Is NASUS a Wordle Word? Yes – Valid Guess & Meaning
 word: nasus
 description: Yes, NASUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 - namus
 - nasis
 - nisus
+phonetic: "/ˈneɪ.zəs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A horn-like elongated rostrum on the head of soldier termites of the subfamily
+      Nasutiterminae, capable of producing and spraying noxious secretions for defense.
+  - text: A prolongation on the front of the head of a cranefly.
 prev_word: nasty
 next_word: natak
 hubs:

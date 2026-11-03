@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HUHUS a Wordle Word?
-head_title: Is HUHUS a Wordle Word? Yes – Valid Guess
+head_title: Is HUHUS a Wordle Word? Yes – Valid Guess & Meaning
 word: huhus
 description: Yes, HUHUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,10 @@ stats:
   starter_top_percent: 99
 neighbours:
 - humus
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of huhu: A beetle, Prionoplus reticularis, endemic to New Zealand.'
 prev_word: huggy
 next_word: huias
 hubs:

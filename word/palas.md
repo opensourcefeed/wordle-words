@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PALAS a Wordle Word?
-head_title: Is PALAS a Wordle Word? Yes – Valid Guess
+head_title: Is PALAS a Wordle Word? Yes – Valid Guess & Meaning
 word: palas
 description: Yes, PALAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -44,6 +45,13 @@ anagrams:
 trap:
   pattern: PA_AS
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A tree of eastern India and Burma, Butea monosperma.
+    example: The Dhak or Palas is a familiar wild tree and is common throughout the
+      greater part of India except in drier parts.
+  - text: Plural of pala (“paladin”)
 prev_word: palar
 next_word: palay
 hubs:

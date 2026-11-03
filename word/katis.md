@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KATIS a Wordle Word?
-head_title: Is KATIS a Wordle Word? Yes – Valid Guess
+head_title: Is KATIS a Wordle Word? Yes – Valid Guess & Meaning
 word: katis
 description: Yes, KATIS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -43,6 +44,11 @@ anagrams:
 trap:
   pattern: KA_IS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of kati: A weight equivalent to about 1.5 pounds, adopted as a standard
+      by British companies.'
 prev_word: katas
 next_word: katti
 hubs:

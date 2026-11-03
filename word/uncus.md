@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UNCUS a Wordle Word?
-head_title: Is UNCUS a Wordle Word? Yes – Valid Guess
+head_title: Is UNCUS a Wordle Word? Yes – Valid Guess & Meaning
 word: uncus
 description: Yes, UNCUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,13 @@ neighbours:
 - unaus
 - unces
 - uncos
+definitions:
+- pos: noun
+  defs:
+  - text: A hook or claw.
+  - text: Any body part which is long, thin, and curved.
+  - text: Specifically, the hooked end of the parahippocampal gyrus of the temporal
+      lobe.
 prev_word: uncoy
 next_word: uncut
 hubs:

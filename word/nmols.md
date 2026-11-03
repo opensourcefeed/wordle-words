@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NMOLS a Wordle Word?
-head_title: Is NMOLS a Wordle Word? Yes – Valid Guess
+head_title: Is NMOLS a Wordle Word? Yes – Valid Guess & Meaning
 word: nmols
 description: Yes, NMOLS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,10 @@ stats:
   starter_top_percent: 48
 neighbours:
 - nmoli
+definitions:
+- pos: noun
+  defs:
+  - text: Plural of nmol
 prev_word: nmoli
 next_word: noahs
 hubs:

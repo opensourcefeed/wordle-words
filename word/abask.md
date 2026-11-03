@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ABASK a Wordle Word?
-head_title: Is ABASK a Wordle Word? Yes – Valid Guess
+head_title: Is ABASK a Wordle Word? Yes – Valid Guess & Meaning
 word: abask
 description: Yes, ABASK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,11 @@ neighbours:
 - aback
 - abase
 - abash
+phonetic: "/əˈbæsk/"
+definitions:
+- pos: adverb
+  defs:
+  - text: In the sunshine; basking.
 prev_word: abash
 next_word: abate
 hubs:

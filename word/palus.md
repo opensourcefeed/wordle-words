@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PALUS a Wordle Word?
-head_title: Is PALUS a Wordle Word? Yes – Valid Guess
+head_title: Is PALUS a Wordle Word? Yes – Valid Guess & Meaning
 word: palus
 description: Yes, PALUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,12 @@ anagrams:
 trap:
   pattern: PAL_S
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A vertical pillar along the inner septal margin of a coral.
+  - text: A small plain (compared to mare) on the surface of a planet or satellite.
+  - text: Any of the ranks in the hierarchy of gladiators.
 prev_word: palsy
 next_word: pamby
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BOURD a Wordle Word?
-head_title: Is BOURD a Wordle Word? Yes – Valid Guess
+head_title: Is BOURD a Wordle Word? Yes – Valid Guess & Meaning
 word: bourd
 description: Yes, BOURD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,14 @@ neighbours:
 - bourg
 - bourn
 - courd
+definitions:
+- pos: noun
+  defs:
+  - text: A joke; jesting, banter.
+    example: |-
+      The wisard could no lenger beare her bord,
+       But brusting forth in laughter, to her sayd;
+       Glauce, what needs this colourable word […] ?
 prev_word: bouns
 next_word: bourg
 hubs:

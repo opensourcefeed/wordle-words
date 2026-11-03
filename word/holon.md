@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HOLON a Wordle Word?
-head_title: Is HOLON a Wordle Word? Yes – Valid Guess
+head_title: Is HOLON a Wordle Word? Yes – Valid Guess & Meaning
 word: holon
 description: Yes, HOLON is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,14 @@ neighbours:
 - halon
 - holos
 - solon
+definitions:
+- pos: noun
+  defs:
+  - text: One of three kinds of quasiparticle (the others being the spinon and orbiton)
+      that electrons in solids are able to split into during the process of spin–charge
+      separation, when extremely tightly confined at temperatures close to absolute
+      zero.
+  - text: Something that is both a part and a whole.
 prev_word: holms
 next_word: holos
 hubs:

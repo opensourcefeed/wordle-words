@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TUTTY a Wordle Word?
-head_title: Is TUTTY a Wordle Word? Yes – Valid Guess
+head_title: Is TUTTY a Wordle Word? Yes – Valid Guess & Meaning
 word: tutty
 description: Yes, TUTTY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,11 @@ neighbours:
 trap:
   pattern: _UTTY
   count: 9
+phonetic: "/ˈtʌti/"
+definitions:
+- pos: noun
+  defs:
+  - text: A powdered form of impure zinc oxide used for polishing.
 prev_word: tutti
 next_word: tutus
 hubs:

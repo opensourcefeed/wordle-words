@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KANAL a Wordle Word?
-head_title: Is KANAL a Wordle Word? Yes – Valid Guess
+head_title: Is KANAL a Wordle Word? Yes – Valid Guess & Meaning
 word: kanal
 description: Yes, KANAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,11 @@ neighbours:
 - kanat
 - katal
 - kaval
+definitions:
+- pos: noun
+  defs:
+  - text: A unit of area used in parts of northern India and in Pakistan, equivalent
+      to one eighth of an acre.
 prev_word: kanae
 next_word: kanas
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LAKHS a Wordle Word?
-head_title: Is LAKHS a Wordle Word? Yes – Valid Guess
+head_title: Is LAKHS a Wordle Word? Yes – Valid Guess & Meaning
 word: lakhs
 description: Yes, LAKHS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,12 @@ stats:
 neighbours:
 - lakes
 - laths
+phonetic: "/lɑːks/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of lakh: One hundred thousand (10⁵): 100,000, that is, with Indian
+      digit grouping, 1,00,000.'
 prev_word: lakes
 next_word: lakin
 hubs:

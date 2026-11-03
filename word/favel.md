@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FAVEL a Wordle Word?
-head_title: Is FAVEL a Wordle Word? Yes – Valid Guess
+head_title: Is FAVEL a Wordle Word? Yes – Valid Guess & Meaning
 word: favel
 description: Yes, FAVEL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,20 @@ neighbours:
 trap:
   pattern: _AVEL
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: Flattery; cajolery; deceit
+    example: |-
+      The friendly foe, with his double face,
+      Say he is gentle and courteous therewithal;
+      And say that favel hath a goodly grace
+      In eloquence; and cruelty to name
+  - text: A horse of a favel or dun colour.
+- pos: adjective
+  defs:
+  - text: Yellow or dun in colour
+    example: There came rydynge a messager vpon a horse fauell.
 prev_word: favas
 next_word: faver
 hubs:

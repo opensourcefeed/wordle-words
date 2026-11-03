@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ZARFS a Wordle Word?
-head_title: Is ZARFS a Wordle Word? Yes – Valid Guess
+head_title: Is ZARFS a Wordle Word? Yes – Valid Guess & Meaning
 word: zarfs
 description: Yes, ZARFS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - larfs
 - zaris
 - zurfs
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of zarf: An ornamental container designed to hold a coffee cup or
+      teacup and insulate it from the hand of the drinker.'
 prev_word: zarda
 next_word: zaris
 hubs:

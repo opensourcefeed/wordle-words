@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FIQUE a Wordle Word?
-head_title: Is FIQUE a Wordle Word? Yes – Valid Guess
+head_title: Is FIQUE a Wordle Word? Yes – Valid Guess & Meaning
 word: fique
 description: Yes, FIQUE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,11 @@ stats:
   starter_top_percent: 74
 neighbours:
 - pique
+definitions:
+- pos: noun
+  defs:
+  - text: A natural fiber, similar to hemp, obtained from the leaves of the plant
+      Furcraea andina and certain other plants of the genus Furcraea.
 prev_word: fiqhs
 next_word: fired
 hubs:

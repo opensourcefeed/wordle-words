@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LAZZO a Wordle Word?
-head_title: Is LAZZO a Wordle Word? Yes – Valid Guess
+head_title: Is LAZZO a Wordle Word? Yes – Valid Guess & Meaning
 word: lazzo
 description: Yes, LAZZO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ stats:
 neighbours:
 - lazzi
 - lezzo
+definitions:
+- pos: noun
+  defs:
+  - text: A stock comedic routine or physical action, traditionally associated with
+      commedia dell'arte.
 prev_word: lazzi
 next_word: leach
 hubs:

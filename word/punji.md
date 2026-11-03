@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PUNJI a Wordle Word?
-head_title: Is PUNJI a Wordle Word? Yes – Valid Guess
+head_title: Is PUNJI a Wordle Word? Yes – Valid Guess & Meaning
 word: punji
 description: Yes, PUNJI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,13 @@ stats:
   starter_top_percent: 90
 neighbours:
 - pungi
+definitions:
+- pos: noun
+  defs:
+  - text: A sharpened stick, often made of bamboo and covered in feces or other biohazardous
+      material, set in the ground to wound or impale enemy soldiers.
+    example: Ordinary punjis will penetrate thick uniforms or the upper part of a
+      shoe.
 prev_word: punim
 next_word: punka
 hubs:

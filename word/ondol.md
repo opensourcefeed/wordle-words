@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ONDOL a Wordle Word?
-head_title: Is ONDOL a Wordle Word? Yes – Valid Guess
+head_title: Is ONDOL a Wordle Word? Yes – Valid Guess & Meaning
 word: ondol
 description: Yes, ONDOL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,11 @@ stats:
   starter_top_percent: 81
 neighbours:
 - indol
+definitions:
+- pos: noun
+  defs:
+  - text: A Korean form of underfloor heating that uses direct heat transfer from
+      wood smoke to the underside of a thick masonry floor.
 prev_word: ondes
 next_word: onely
 hubs:

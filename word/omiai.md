@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OMIAI a Wordle Word?
-head_title: Is OMIAI a Wordle Word? Yes – Valid Guess
+head_title: Is OMIAI a Wordle Word? Yes – Valid Guess & Meaning
 word: omiai
 description: Yes, OMIAI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,11 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 66
+definitions:
+- pos: noun
+  defs:
+  - text: A Japanese custom in which unattached individuals are introduced to each
+      other to consider the possibility of marriage.
 prev_word: omers
 next_word: omits
 hubs:

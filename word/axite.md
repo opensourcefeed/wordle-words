@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AXITE a Wordle Word?
-head_title: Is AXITE a Wordle Word? Yes – Valid Guess
+head_title: Is AXITE a Wordle Word? Yes – Valid Guess & Meaning
 word: axite
 description: Yes, AXITE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ stats:
 neighbours:
 - axile
 - exite
+definitions:
+- pos: noun
+  defs:
+  - text: A type of smokeless gunpowder.
+    example: '"This is a Bland''s .577 axite express," said he. "I got that big fellow
+      with it." He glanced up at the white rhinoceros.'
+  - text: The terminal branch of an axon.
 prev_word: axion
 next_word: axled
 hubs:

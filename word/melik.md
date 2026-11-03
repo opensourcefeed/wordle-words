@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MELIK a Wordle Word?
-head_title: Is MELIK a Wordle Word? Yes – Valid Guess
+head_title: Is MELIK a Wordle Word? Yes – Valid Guess & Meaning
 word: melik
 description: Yes, MELIK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - melic
 anagrams:
 - kelim
+definitions:
+- pos: noun
+  defs:
+  - text: A member of hereditary nobility in certain Armenian principalities, especially
+      in Artsakh
 prev_word: melic
 next_word: mells
 hubs:

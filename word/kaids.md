@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KAIDS a Wordle Word?
-head_title: Is KAIDS a Wordle Word? Yes – Valid Guess
+head_title: Is KAIDS a Wordle Word? Yes – Valid Guess & Meaning
 word: kaids
 description: Yes, KAIDS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,10 @@ anagrams:
 trap:
   pattern: _AIDS
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of kaid: Alternative spelling of caid (“kind of governor”).'
 prev_word: kaiak
 next_word: kaies
 hubs:

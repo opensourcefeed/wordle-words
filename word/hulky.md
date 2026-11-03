@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HULKY a Wordle Word?
-head_title: Is HULKY a Wordle Word? Yes – Valid Guess
+head_title: Is HULKY a Wordle Word? Yes – Valid Guess & Meaning
 word: hulky
 description: Yes, HULKY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,12 @@ neighbours:
 - sulky
 - hulks
 - hully
+definitions:
+- pos: adjective
+  defs:
+  - text: Large; hulking.
+    example: "‘I want to go first and have a round with that hulky fellow who turned
+      to challenge me. It would be a good lesson for him.’"
 prev_word: hulks
 next_word: hullo
 hubs:

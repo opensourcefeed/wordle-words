@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GOLES a Wordle Word?
-head_title: Is GOLES a Wordle Word? Yes – Valid Guess
+head_title: Is GOLES a Wordle Word? Yes – Valid Guess & Meaning
 word: goles
 description: Yes, GOLES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -43,6 +44,11 @@ anagrams:
 trap:
   pattern: _OLES
   count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of gole: The main body of an army in array; a clustered body of
+      troops; an irregular squadron of horsemen.'
 prev_word: golem
 next_word: golfs
 hubs:

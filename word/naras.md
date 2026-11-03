@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NARAS a Wordle Word?
-head_title: Is NARAS a Wordle Word? Yes – Valid Guess
+head_title: Is NARAS a Wordle Word? Yes – Valid Guess & Meaning
 word: naras
 description: Yes, NARAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,14 @@ anagrams:
 trap:
   pattern: NA_AS
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A spiny shrub, Acanthosicyos horridus, growing in Namibia and the Kalahari
+      Desert, or the melon-like fruit that it produces.
+    example: The Bay people catch and eat fish after the ‘naras is out of season,
+      and the carcases of whales killed by the crews of whaling ships, afford them
+      savoury repasts […].
 prev_word: nappy
 next_word: narco
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NAVED a Wordle Word?
-head_title: Is NAVED a Wordle Word? Yes – Valid Guess
+head_title: Is NAVED a Wordle Word? Yes – Valid Guess & Meaning
 word: naved
 description: Yes, NAVED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,11 @@ anagrams:
 trap:
   pattern: _AVED
   count: 8
+definitions:
+- pos: adjective
+  defs:
+  - text: Having a (specified kind or number of) nave.
+    example: a triple-naved church
 prev_word: navar
 next_word: navel
 hubs:

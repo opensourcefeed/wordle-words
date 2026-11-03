@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PIONY a Wordle Word?
-head_title: Is PIONY a Wordle Word? Yes – Valid Guess
+head_title: Is PIONY a Wordle Word? Yes – Valid Guess & Meaning
 word: piony
 description: Yes, PIONY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,11 @@ neighbours:
 - peony
 - pinny
 - pions
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of peony: A flowering plant of the genus Paeonia with large
+      fragrant flowers.'
 prev_word: pions
 next_word: pious
 hubs:

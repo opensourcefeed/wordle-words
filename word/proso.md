@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PROSO a Wordle Word?
-head_title: Is PROSO a Wordle Word? Yes – Valid Guess
+head_title: Is PROSO a Wordle Word? Yes – Valid Guess & Meaning
 word: proso
 description: Yes, PROSO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,11 @@ anagrams:
 - roops
 - sopor
 - spoor
+definitions:
+- pos: noun
+  defs:
+  - text: Panicum miliaceum, a grass used as a crop.
+    example: Examples are corn, sorghum, wheat, oats, millet, soybeans, and proso.
 prev_word: prose
 next_word: pross
 hubs:

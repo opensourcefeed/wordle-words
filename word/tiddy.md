@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TIDDY a Wordle Word?
-head_title: Is TIDDY a Wordle Word? Yes – Valid Guess
+head_title: Is TIDDY a Wordle Word? Yes – Valid Guess & Meaning
 word: tiddy
 description: Yes, TIDDY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,16 @@ neighbours:
 trap:
   pattern: _IDDY
   count: 7
+phonetic: "/ˈtɪdi/"
+definitions:
+- pos: noun
+  defs:
+  - text: The European wren.
+  - text: Alternative spelling of titty (“a breast”).
+    example: a splendid tiddy in these trying times
+- pos: adjective
+  defs:
+  - text: Alternative form of diddy (“very small, tiny”).
 prev_word: tidal
 next_word: tided
 hubs:

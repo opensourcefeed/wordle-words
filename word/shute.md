@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SHUTE a Wordle Word?
-head_title: Is SHUTE a Wordle Word? Yes – Valid Guess
+head_title: Is SHUTE a Wordle Word? Yes – Valid Guess & Meaning
 word: shute
 description: Yes, SHUTE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,15 @@ neighbours:
 - shote
 - shule
 - shuts
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of chute: A framework, trough, or tube, upon or through
+      which objects are made to slide from a higher to a lower level, or through which
+      water passes to a wheel.'
+  - text: 'Alternative form of shoot: To fire (a weapon that releases a bullet or
+      other projectile).'
+  - text: A steep road through a cleft in a hill.
 prev_word: shush
 next_word: shuts
 hubs:

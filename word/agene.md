@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AGENE a Wordle Word?
-head_title: Is AGENE a Wordle Word? Yes – Valid Guess
+head_title: Is AGENE a Wordle Word? Yes – Valid Guess & Meaning
 word: agene
 description: Yes, AGENE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,11 @@ neighbours:
 - arene
 anagrams:
 - genae
+definitions:
+- pos: noun
+  defs:
+  - text: Nitrogen trichloride when it was used as a bleaching agent and improving
+      agent in flour
 prev_word: agbas
 next_word: agent
 hubs:

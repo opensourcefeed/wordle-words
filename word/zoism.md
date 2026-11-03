@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ZOISM a Wordle Word?
-head_title: Is ZOISM a Wordle Word? Yes – Valid Guess
+head_title: Is ZOISM a Wordle Word? Yes – Valid Guess & Meaning
 word: zoism
 description: Yes, ZOISM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,13 @@ stats:
   starter_top_percent: 80
 neighbours:
 - zoist
+definitions:
+- pos: noun
+  defs:
+  - text: A reverence for animal life or belief in animal powers and influences, as
+      among primitive groups.
+  - text: A former doctrine claiming that the phenomena of life are due to a peculiar
+      vital principle; the theory of vital force.
 prev_word: zoeas
 next_word: zoist
 hubs:

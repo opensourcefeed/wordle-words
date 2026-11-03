@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is COALY a Wordle Word?
-head_title: Is COALY a Wordle Word? Yes – Valid Guess
+head_title: Is COALY a Wordle Word? Yes – Valid Guess & Meaning
 word: coaly
 description: Yes, COALY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,13 @@ neighbours:
 - coals
 - colly
 - cooly
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling coal.
+  - text: Covered in, or containing, coal.
+    example: Nearer, I distinguished the green slime of ditches mixing with the pale
+      drab of dried clay and shiny coaly patches.
 prev_word: coals
 next_word: coapt
 hubs:

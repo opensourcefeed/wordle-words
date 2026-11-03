@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LEAVY a Wordle Word?
-head_title: Is LEAVY a Wordle Word? Yes – Valid Guess
+head_title: Is LEAVY a Wordle Word? Yes – Valid Guess & Meaning
 word: leavy
 description: Yes, LEAVY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,13 @@ anagrams:
 trap:
   pattern: LEA_Y
   count: 6
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Alternative form of leafy: Covered with leaves.'
+    example: |-
+      Within the furthest end thereof there was a pleasant Bowre
+      So vaulted with the leauie trées the Sunne had there no powre:
 prev_word: leave
 next_word: leaze
 hubs:

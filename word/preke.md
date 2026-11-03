@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PREKE a Wordle Word?
-head_title: Is PREKE a Wordle Word? Yes – Valid Guess
+head_title: Is PREKE a Wordle Word? Yes – Valid Guess & Meaning
 word: preke
 description: Yes, PREKE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - proke
 anagrams:
 - kreep
+phonetic: "/pɹiːk/"
+definitions:
+- pos: noun
+  defs:
+  - text: An octopus or similar marine organism, such as a cuttlefish or squid.
 prev_word: preif
 next_word: prems
 hubs:

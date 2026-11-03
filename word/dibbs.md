@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DIBBS a Wordle Word?
-head_title: Is DIBBS a Wordle Word? Yes – Valid Guess
+head_title: Is DIBBS a Wordle Word? Yes – Valid Guess & Meaning
 word: dibbs
 description: Yes, DIBBS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,11 @@ neighbours:
 - diebs
 - jibbs
 - sibbs
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative form of dibs (“the right to use or enjoy something exclusively
+      or before anyone else”).
 prev_word: diazo
 next_word: diced
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PYRIC a Wordle Word?
-head_title: Is PYRIC a Wordle Word? Yes – Valid Guess
+head_title: Is PYRIC a Wordle Word? Yes – Valid Guess & Meaning
 word: pyric
 description: Yes, PYRIC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,10 @@ neighbours:
 - lyric
 anagrams:
 - pricy
+definitions:
+- pos: adjective
+  defs:
+  - text: Relating to, resulting from, or caused by burning.
 prev_word: pyrex
 next_word: pyros
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LUSUS a Wordle Word?
-head_title: Is LUSUS a Wordle Word? Yes – Valid Guess
+head_title: Is LUSUS a Wordle Word? Yes – Valid Guess & Meaning
 word: lusus
 description: Yes, LUSUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,13 @@ neighbours:
 - susus
 anagrams:
 - sulus
+definitions:
+- pos: noun
+  defs:
+  - text: Ellipsis of lusus naturae.
+    example: On the right hand […] is a multitude of loose stones, lying on the surface.
+      They are of the lime-stone kind, mere lususes, assuming most singular forms;
+      some are excavated, and often perforated.
 prev_word: lusty
 next_word: lutea
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HANCH a Wordle Word?
-head_title: Is HANCH a Wordle Word? Yes – Valid Guess
+head_title: Is HANCH a Wordle Word? Yes – Valid Guess & Meaning
 word: hanch
 description: Yes, HANCH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,17 @@ neighbours:
 - hench
 - lanch
 - panch
+phonetic: "/hænt͡ʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of hance: To raise, to elevate.'
+  - text: 'Obsolete form of haunch: The area encompassing the upper thigh, hip and
+      buttocks on one side of a human, primate, or quadruped animal, especially one
+      that can sit on its hindquarters.'
+- pos: verb
+  defs:
+  - text: To snap at something with the jaws.
 prev_word: hance
 next_word: handi
 hubs:

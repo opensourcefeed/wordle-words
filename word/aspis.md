@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ASPIS a Wordle Word?
-head_title: Is ASPIS a Wordle Word? Yes – Valid Guess
+head_title: Is ASPIS a Wordle Word? Yes – Valid Guess & Meaning
 word: aspis
 description: Yes, ASPIS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,18 @@ neighbours:
 anagrams:
 - apsis
 - psias
+phonetic: "/ˈæspɪs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A type of round shield borne by ancient Greek soldiers.
+    example: '"shield both large and tough" has never said that aspides are small
+      and weak […]'
+  - text: An asp or generic venomous snake
+    example: Flesh dipped in the sea Ægeum will never be sweet; the herb Trigion being
+      once bit with an aspis never groweth, and conscience once stained with innocent
+      blood is always tied to a guilty remorse.
+  - text: A prominent ring of thickened exine around a pore on a pollen grain
 prev_word: aspie
 next_word: aspro
 hubs:

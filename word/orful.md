@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ORFUL a Wordle Word?
-head_title: Is ORFUL a Wordle Word? Yes – Valid Guess
+head_title: Is ORFUL a Wordle Word? Yes – Valid Guess & Meaning
 word: orful
 description: Yes, ORFUL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,15 @@ anagrams:
 - flour
 - fluor
 - furol
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Pronunciation spelling of awful: Very bad.'
+    example: '"Gorblimey, it''s bleedin'' orful," said they.'
+- pos: adverb
+  defs:
+  - text: 'Pronunciation spelling of awful: Very bad.'
+    example: "\"It's orful silly of you to stick to that notion!"
 prev_word: orfes
 next_word: organ
 hubs:

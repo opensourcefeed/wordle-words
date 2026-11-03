@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is POODS a Wordle Word?
-head_title: Is POODS a Wordle Word? Yes – Valid Guess
+head_title: Is POODS a Wordle Word? Yes – Valid Guess & Meaning
 word: poods
 description: Yes, POODS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,11 @@ anagrams:
 trap:
   pattern: POO_S
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of pood: An obsolete Russian unit of mass, equal to 40 Russian funt,
+      or about 16.38 kg (approximately 36.11 pounds).'
 prev_word: pooch
 next_word: pooed
 hubs:

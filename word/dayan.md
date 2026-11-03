@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DAYAN a Wordle Word?
-head_title: Is DAYAN a Wordle Word? Yes – Valid Guess
+head_title: Is DAYAN a Wordle Word? Yes – Valid Guess & Meaning
 word: dayan
 description: Yes, DAYAN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,10 @@ neighbours:
 - daman
 - dayal
 - mayan
+definitions:
+- pos: noun
+  defs:
+  - text: A rabbinic judge.
 prev_word: dayal
 next_word: daych
 hubs:

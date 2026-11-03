@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STEDD a Wordle Word?
-head_title: Is STEDD a Wordle Word? Yes – Valid Guess
+head_title: Is STEDD a Wordle Word? Yes – Valid Guess & Meaning
 word: stedd
 description: Yes, STEDD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - stede
 - steds
 - stend
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of stead: The position or function (of someone or something),
+      as taken on by a successor.'
 prev_word: stear
 next_word: stede
 hubs:

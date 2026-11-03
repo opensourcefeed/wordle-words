@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SPEAL a Wordle Word?
-head_title: Is SPEAL a Wordle Word? Yes – Valid Guess
+head_title: Is SPEAL a Wordle Word? Yes – Valid Guess & Meaning
 word: speal
 description: Yes, SPEAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -44,6 +45,10 @@ anagrams:
 - salep
 - sepal
 - spale
+definitions:
+- pos: noun
+  defs:
+  - text: Only used in speal-bone (“shoulder bone”)
 prev_word: speak
 next_word: spean
 hubs:

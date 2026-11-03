@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DACES a Wordle Word?
-head_title: Is DACES a Wordle Word? Yes – Valid Guess
+head_title: Is DACES a Wordle Word? Yes – Valid Guess & Meaning
 word: daces
 description: Yes, DACES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,12 @@ anagrams:
 trap:
   pattern: _ACES
   count: 7
+phonetic: "/ˈdeɪsɪz/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of dace: A shoal-forming fish of species Leuciscus leuciscus, common
+      to swift rivers in England and Wales and in Europe.'
 prev_word: dabba
 next_word: dacha
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is YATES a Wordle Word?
-head_title: Is YATES a Wordle Word? Yes – Valid Guess
+head_title: Is YATES a Wordle Word? Yes – Valid Guess & Meaning
 word: yates
 description: Yes, YATES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,10 @@ anagrams:
 trap:
   pattern: _ATES
   count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of yate: Any of several species of Eucalyptus.'
 prev_word: yarto
 next_word: yatra
 hubs:

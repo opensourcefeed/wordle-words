@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FLAWY a Wordle Word?
-head_title: Is FLAWY a Wordle Word? Yes – Valid Guess
+head_title: Is FLAWY a Wordle Word? Yes – Valid Guess & Meaning
 word: flawy
 description: Yes, FLAWY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 - flaws
 - flaxy
 - flowy
+definitions:
+- pos: adjective
+  defs:
+  - text: Full of flaws or cracks; broken; defective.
+    example: a small diamond , that was cut or polished, but foul or flawy, as jewellers
+      term it
+  - text: Subject to sudden flaws or gusts of wind.
 prev_word: flaws
 next_word: flaxy
 hubs:

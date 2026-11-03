@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MILLY a Wordle Word?
-head_title: Is MILLY a Wordle Word? Yes – Valid Guess
+head_title: Is MILLY a Wordle Word? Yes – Valid Guess & Meaning
 word: milly
 description: Yes, MILLY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,12 @@ neighbours:
 trap:
   pattern: _ILLY
   count: 10
+phonetic: "/ˈmɪli/"
+definitions:
+- pos: numeral
+  defs:
+  - text: 'Clipping of million: The cardinal number 1 000 000: 10⁶; a thousand thousand
+      (1,000²).'
 prev_word: mills
 next_word: milor
 hubs:

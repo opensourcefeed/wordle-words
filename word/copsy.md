@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is COPSY a Wordle Word?
-head_title: Is COPSY a Wordle Word? Yes – Valid Guess
+head_title: Is COPSY a Wordle Word? Yes – Valid Guess & Meaning
 word: copsy
 description: Yes, COPSY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,14 @@ neighbours:
 - mopsy
 - oopsy
 - popsy
+phonetic: "/ˈkɒpsi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Characterized by copses.
+    example: |-
+      […]And trading bark with low contracted fail,
+      Linger among the reeds and copsy banks
 prev_word: copse
 next_word: coqui
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LOOED a Wordle Word?
-head_title: Is LOOED a Wordle Word? Yes – Valid Guess
+head_title: Is LOOED a Wordle Word? Yes – Valid Guess & Meaning
 word: looed
 description: Yes, LOOED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,11 @@ anagrams:
 trap:
   pattern: LO_ED
   count: 10
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of loo: A lavatory: a room used for urination
+      and defecation.'
 prev_word: looby
 next_word: looey
 hubs:

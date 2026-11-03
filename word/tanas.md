@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TANAS a Wordle Word?
-head_title: Is TANAS a Wordle Word? Yes – Valid Guess
+head_title: Is TANAS a Wordle Word? Yes – Valid Guess & Meaning
 word: tanas
 description: Yes, TANAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,10 @@ anagrams:
 trap:
   pattern: TA_AS
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of tana: The banxring or tree shrew.'
 prev_word: tamps
 next_word: tanga
 hubs:

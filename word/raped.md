@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RAPED a Wordle Word?
-head_title: Is RAPED a Wordle Word? Yes – Valid Guess
+head_title: Is RAPED a Wordle Word? Yes – Valid Guess & Meaning
 word: raped
 description: Yes, RAPED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,15 @@ anagrams:
 trap:
   pattern: RA_ED
   count: 13
+phonetic: "/ɹeɪ̯pt/"
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of rape: The act of forcing sex upon another
+      person without their consent or against their will; originally coitus forced
+      by a man on a woman, but now generally any sex act forced by any person upon
+      another person, regardless of gender; by extension, any non-consensual sex act
+      forced on or perpetrated by any being.'
 prev_word: ranty
 next_word: rapee
 hubs:

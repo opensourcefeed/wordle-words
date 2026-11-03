@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TAMIS a Wordle Word?
-head_title: Is TAMIS a Wordle Word? Yes – Valid Guess
+head_title: Is TAMIS a Wordle Word? Yes – Valid Guess & Meaning
 word: tamis
 description: Yes, TAMIS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,11 @@ neighbours:
 anagrams:
 - maist
 - mitas
+definitions:
+- pos: noun
+  defs:
+  - text: A culinary strainer, originally made from worsted cloth.
+  - text: The cloth itself; a tammy.
 prev_word: tamin
 next_word: tammy
 hubs:

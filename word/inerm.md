@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is INERM a Wordle Word?
-head_title: Is INERM a Wordle Word? Yes – Valid Guess
+head_title: Is INERM a Wordle Word? Yes – Valid Guess & Meaning
 word: inerm
 description: Yes, INERM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 - inarm
 anagrams:
 - miner
+definitions:
+- pos: adjective
+  defs:
+  - text: Without spines or thorns; inermous.
+    example: The cirrus is inerm and slender, measuring 0.1 mm. in length and 0.02
+      mm. in diameter.
 prev_word: inept
 next_word: inert
 hubs:

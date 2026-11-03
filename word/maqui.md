@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MAQUI a Wordle Word?
-head_title: Is MAQUI a Wordle Word? Yes – Valid Guess
+head_title: Is MAQUI a Wordle Word? Yes – Valid Guess & Meaning
 word: maqui
 description: Yes, MAQUI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,14 @@ stats:
   starter_top_percent: 77
 anagrams:
 - umiaq
+definitions:
+- pos: noun
+  defs:
+  - text: A South American shrub (Aristotelia chilensis) native to the Valdivian temperate
+      rainforest ecoregion of Chile and southern Argentina.
+    example: But based on independent laboratory tests, maqui berry is not nearly
+      as strong an antioxidant as açai.
+  - text: The edible berry of this shrub.
 prev_word: maqam
 next_word: marae
 hubs:

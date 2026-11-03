@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LARES a Wordle Word?
-head_title: Is LARES a Wordle Word? Yes – Valid Guess
+head_title: Is LARES a Wordle Word? Yes – Valid Guess & Meaning
 word: lares
 description: Yes, LARES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -48,6 +49,15 @@ anagrams:
 trap:
   pattern: _ARES
   count: 14
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative letter-case form of Lares.
+    example: |-
+      The season now invites me to retire
+      To the dear lares of my household fire
+      To homely scenes of calm domestic peace,
+      A poet's leisure, and an old man's ease...
 prev_word: laree
 next_word: larfs
 hubs:

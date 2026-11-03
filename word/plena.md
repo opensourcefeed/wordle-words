@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PLENA a Wordle Word?
-head_title: Is PLENA a Wordle Word? Yes – Valid Guess
+head_title: Is PLENA a Wordle Word? Yes – Valid Guess & Meaning
 word: plena
 description: Yes, PLENA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,16 @@ anagrams:
 - panel
 - penal
 - plane
+definitions:
+- pos: noun
+  defs:
+  - text: A style of Puerto Rican music having a highly syncopated rhythm and often
+      satirical lyrics.
+    example: This eclectic group is dedicated to preserving the Puerto Rican traditions
+      of bomba and plena, two drum-focused (and African-derived) forms of traditional
+      dance music.
+  - text: A song in this style.
+  - text: 'Plural of plenum: A space that is completely filled with matter.'
 prev_word: plein
 next_word: plene
 hubs:

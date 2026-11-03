@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NUNNY a Wordle Word?
-head_title: Is NUNNY a Wordle Word? Yes – Valid Guess
+head_title: Is NUNNY a Wordle Word? Yes – Valid Guess & Meaning
 word: nunny
 description: Yes, NUNNY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,14 @@ neighbours:
 trap:
   pattern: _UNNY
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of ninny: A silly or foolish person.'
+  - text: Ellipsis of nunny bag.
+  - text: Grandmother.
+    example: The greatest influence on my childhood faith was my maternal grandmother
+      Elizabeth, my "Nunny." She and my grandfather lived across the street from us.
 prev_word: nunky
 next_word: nunus
 hubs:

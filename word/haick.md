@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HAICK a Wordle Word?
-head_title: Is HAICK a Wordle Word? Yes – Valid Guess
+head_title: Is HAICK a Wordle Word? Yes – Valid Guess & Meaning
 word: haick
 description: Yes, HAICK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,10 @@ stats:
 neighbours:
 - hoick
 - saick
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of haik: A covering for the head and body worn by Arabs.'
 prev_word: hahas
 next_word: haika
 hubs:

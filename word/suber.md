@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SUBER a Wordle Word?
-head_title: Is SUBER a Wordle Word? Yes – Valid Guess
+head_title: Is SUBER a Wordle Word? Yes – Valid Guess & Meaning
 word: suber
 description: Yes, SUBER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,13 @@ anagrams:
 - rebus
 - burse
 - rubes
+definitions:
+- pos: noun
+  defs:
+  - text: Cork, or the corresponding layer of woody tissue below the epidermis of
+      a plant.
+    example: In many trees the suber is very slightly developed. But this is not the
+      case with the Cork-oak (Quercus suber).
 prev_word: subby
 next_word: subha
 hubs:

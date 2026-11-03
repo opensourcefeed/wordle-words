@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OVISM a Wordle Word?
-head_title: Is OVISM a Wordle Word? Yes – Valid Guess
+head_title: Is OVISM a Wordle Word? Yes – Valid Guess & Meaning
 word: ovism
 description: Yes, OVISM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,14 @@ stats:
 neighbours:
 - odism
 - ovist
+definitions:
+- pos: noun
+  defs:
+  - text: The belief that the ovum holds all material needed for the development of
+      the embryo.
+    example: 'Above all, ovism seems to us utterly impossible: how could every human
+      being that ever existed or ever will exist be contained, fully formed, within
+      Eve''s ovaries?'
 prev_word: ovine
 next_word: ovist
 hubs:

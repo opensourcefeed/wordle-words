@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MAKAI a Wordle Word?
-head_title: Is MAKAI a Wordle Word? Yes – Valid Guess
+head_title: Is MAKAI a Wordle Word? Yes – Valid Guess & Meaning
 word: makai
 description: Yes, MAKAI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,17 @@ neighbours:
 - sakai
 anagrams:
 - aimak
+definitions:
+- pos: adverb
+  defs:
+  - text: Seaward, towards the sea.
+    example: There are plenty of lots for sale — ranging from $30,000 to $60,000 for
+      an acre that’s mauka (toward the mountain), and $100,000 or much higher for
+      land that’s makai (toward the sea).
+- pos: noun
+  defs:
+  - text: Any of the species Anthoshorea assamica (syn. Shorea assamica of trees of
+      India.
 prev_word: makaf
 next_word: makan
 hubs:

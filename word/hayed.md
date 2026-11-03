@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HAYED a Wordle Word?
-head_title: Is HAYED a Wordle Word? Yes – Valid Guess
+head_title: Is HAYED a Wordle Word? Yes – Valid Guess & Meaning
 word: hayed
 description: Yes, HAYED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,11 @@ anagrams:
 trap:
   pattern: _AYED
   count: 9
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of hay: Grass cut and dried for use as
+      animal fodder.'
 prev_word: hawse
 next_word: hayer
 hubs:

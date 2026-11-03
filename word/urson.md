@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is URSON a Wordle Word?
-head_title: Is URSON a Wordle Word? Yes – Valid Guess
+head_title: Is URSON a Wordle Word? Yes – Valid Guess & Meaning
 word: urson
 description: Yes, URSON is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,13 @@ neighbours:
 - arson
 anagrams:
 - runos
+definitions:
+- pos: noun
+  defs:
+  - text: A species of New World porcupine, Erethizon dorsatum.
+    example: The urson (Hystrix dorsata)^([sic]) inhabits the United States and Canada,
+      and is the only species of porcupine, properly so called, which appears to have
+      the power of climbing trees.
 prev_word: ursid
 next_word: urubu
 hubs:

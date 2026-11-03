@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REGUR a Wordle Word?
-head_title: Is REGUR a Wordle Word? Yes – Valid Guess
+head_title: Is REGUR a Wordle Word? Yes – Valid Guess & Meaning
 word: regur
 description: Yes, REGUR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,10 @@ neighbours:
 - regar
 anagrams:
 - urger
+definitions:
+- pos: noun
+  defs:
+  - text: A rich, black, loamy soil found in India.
 prev_word: regot
 next_word: rehab
 hubs:

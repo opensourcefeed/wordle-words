@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RUGGY a Wordle Word?
-head_title: Is RUGGY a Wordle Word? Yes – Valid Guess
+head_title: Is RUGGY a Wordle Word? Yes – Valid Guess & Meaning
 word: ruggy
 description: Yes, RUGGY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,16 @@ neighbours:
 trap:
   pattern: _UGGY
   count: 7
+phonetic: "/ˈrʌɡi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Frusty, frowsy.
+    example: Hayes is one of the ruggiest men in the game. He has fought most of the
+      cracks of his weight in the country and one or two from England.
+  - text: Of, relating to, or resembling a rug.
+    example: Everyone but the Terrys had given Alice rugs. It was the ruggiest wedding
+      the world had ever known.
 prev_word: rugby
 next_word: ruice
 hubs:

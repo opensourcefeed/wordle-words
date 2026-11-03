@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NIKAU a Wordle Word?
-head_title: Is NIKAU a Wordle Word? Yes – Valid Guess
+head_title: Is NIKAU a Wordle Word? Yes – Valid Guess & Meaning
 word: nikau
 description: Yes, NIKAU is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,13 @@ neighbours:
 - nikab
 - nikah
 - pikau
+definitions:
+- pos: noun
+  defs:
+  - text: A New Zealand palm, Rhopalostylis sapida, with edible pith and leaves used
+      for building and thatching.
+    example: These buildings with split-paling walls and nīkau-thatched roofs would
+      become their home for several years.
 prev_word: nikah
 next_word: nilas
 hubs:

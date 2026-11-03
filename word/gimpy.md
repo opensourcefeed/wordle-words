@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GIMPY a Wordle Word?
-head_title: Is GIMPY a Wordle Word? Yes – Valid Guess
+head_title: Is GIMPY a Wordle Word? Yes – Valid Guess & Meaning
 word: gimpy
 description: Yes, GIMPY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,15 @@ neighbours:
 - jimpy
 anagrams:
 - pigmy
+phonetic: "/ˈɡɪmpi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Limping, lame, with crippled legs.
+    example: Presently Gimpy, who limped, as his name indicated, spoke up.
+  - text: Exhibiting deficiencies associated with the derogatory term "gimp", such
+      as might inspire discomfort or revulsion
+    example: One of the kittens has a gimpy eye.
 prev_word: gimps
 next_word: ginch
 hubs:

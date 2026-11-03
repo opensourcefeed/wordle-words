@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DEARY a Wordle Word?
-head_title: Is DEARY a Wordle Word? Yes – Valid Guess
+head_title: Is DEARY a Wordle Word? Yes – Valid Guess & Meaning
 word: deary
 description: Yes, DEARY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,13 @@ anagrams:
 - deray
 - rayed
 - yeard
+phonetic: "/ˈdɪəɹi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A dear; a darling.
+  - text: A term of address for a female.
+    example: 'Listen, deary: I''d appreciate your not talking about my son like that.'
 prev_word: dears
 next_word: deash
 hubs:

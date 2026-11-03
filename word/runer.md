@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RUNER a Wordle Word?
-head_title: Is RUNER a Wordle Word? Yes – Valid Guess
+head_title: Is RUNER a Wordle Word? Yes – Valid Guess & Meaning
 word: runer
 description: Yes, RUNER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,13 @@ neighbours:
 - tuner
 anagrams:
 - rerun
+phonetic: "/ˈɹuːnə(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: A bard, or learned man, among the ancient Goths.
+    example: Those Runers who could not raise Admiration by the Spirit of their Poetry
+  - text: Someone who writes runes
 prev_word: runed
 next_word: runes
 hubs:

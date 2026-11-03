@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GOOPY a Wordle Word?
-head_title: Is GOOPY a Wordle Word? Yes – Valid Guess
+head_title: Is GOOPY a Wordle Word? Yes – Valid Guess & Meaning
 word: goopy
 description: Yes, GOOPY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,15 @@ neighbours:
 trap:
   pattern: GOO_Y
   count: 11
+phonetic: "/ˈɡuːpi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having the consistency of goop.
+    example: The flask had something goopy in it.
+  - text: Saccharine; sentimental.
+    example: "“She’d had some goopy notion of self-sacrifice, or maybe it was self-punishment,
+      of making amends.”"
 prev_word: goops
 next_word: goors
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NUDER a Wordle Word?
-head_title: Is NUDER a Wordle Word? Yes – Valid Guess
+head_title: Is NUDER a Wordle Word? Yes – Valid Guess & Meaning
 word: nuder
 description: Yes, NUDER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,10 @@ anagrams:
 - runed
 - unred
 - urned
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Comparative form of nude: more nude'
 prev_word: nuddy
 next_word: nudes
 hubs:

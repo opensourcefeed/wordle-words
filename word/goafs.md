@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GOAFS a Wordle Word?
-head_title: Is GOAFS a Wordle Word? Yes – Valid Guess
+head_title: Is GOAFS a Wordle Word? Yes – Valid Guess & Meaning
 word: goafs
 description: Yes, GOAFS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,11 @@ neighbours:
 - goofs
 - gowfs
 - loafs
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of goaf: A rick or stack (of hay, etc.) when laid up inside a barn
+      (e.g., as winter fodder).'
 prev_word: goads
 next_word: goaft
 hubs:

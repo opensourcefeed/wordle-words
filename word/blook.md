@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BLOOK a Wordle Word?
-head_title: Is BLOOK a Wordle Word? Yes – Valid Guess
+head_title: Is BLOOK a Wordle Word? Yes – Valid Guess & Meaning
 word: blook
 description: Yes, BLOOK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 - brook
 - bloop
 - plook
+phonetic: "/blʊk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A book serialized on a blog (weblog) platform.
+  - text: A book about blogging.
+  - text: A printed book containing content which first appeared on a blog.
 prev_word: blood
 next_word: bloom
 hubs:

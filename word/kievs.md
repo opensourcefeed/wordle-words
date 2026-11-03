@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KIEVS a Wordle Word?
-head_title: Is KIEVS a Wordle Word? Yes – Valid Guess
+head_title: Is KIEVS a Wordle Word? Yes – Valid Guess & Meaning
 word: kievs
 description: Yes, KIEVS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - kieve
 anagrams:
 - skive
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of kiev: A dish like chicken Kiev, with substitutes for the chicken,
+      sauces or other components, to fit dietary restrictions such as vegetarianism.'
 prev_word: kieve
 next_word: kight
 hubs:

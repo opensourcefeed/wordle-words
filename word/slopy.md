@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SLOPY a Wordle Word?
-head_title: Is SLOPY a Wordle Word? Yes – Valid Guess
+head_title: Is SLOPY a Wordle Word? Yes – Valid Guess & Meaning
 word: slopy
 description: Yes, SLOPY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ anagrams:
 - ploys
 - polys
 - yolps
+phonetic: "/ˈsləʊ.pi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Characterised by a slope or slopes; sloping
 prev_word: slops
 next_word: slorm
 hubs:

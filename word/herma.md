@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HERMA a Wordle Word?
-head_title: Is HERMA a Wordle Word? Yes – Valid Guess
+head_title: Is HERMA a Wordle Word? Yes – Valid Guess & Meaning
 word: herma
 description: Yes, HERMA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - kerma
 anagrams:
 - harem
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of herm: A rectangular pillar bearing a bust of Hermes,
+      once used as a boundary marker and later as decoration.'
 prev_word: herls
 next_word: herms
 hubs:

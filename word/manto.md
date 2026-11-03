@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MANTO a Wordle Word?
-head_title: Is MANTO a Wordle Word? Yes – Valid Guess
+head_title: Is MANTO a Wordle Word? Yes – Valid Guess & Meaning
 word: manto
 description: Yes, MANTO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,12 @@ anagrams:
 trap:
   pattern: _ANTO
   count: 6
+phonetic: "/ˈmæntəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete form of manteau: A cloak or gown, especially of a kind popular
+      with women in the 17th and 18th centuries.'
 prev_word: mante
 next_word: mants
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PROSS a Wordle Word?
-head_title: Is PROSS a Wordle Word? Yes – Valid Guess
+head_title: Is PROSS a Wordle Word? Yes – Valid Guess & Meaning
 word: pross
 description: Yes, PROSS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,14 @@ anagrams:
 trap:
   pattern: PRO_S
   count: 9
+phonetic: "/ˈpɹɒs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A prostitute.
+- pos: verb
+  defs:
+  - text: To sponge or scrounge; to take advantage of a person's generosity.
 prev_word: proso
 next_word: prost
 hubs:

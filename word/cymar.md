@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CYMAR a Wordle Word?
-head_title: Is CYMAR a Wordle Word? Yes – Valid Guess
+head_title: Is CYMAR a Wordle Word? Yes – Valid Guess & Meaning
 word: cymar
 description: Yes, CYMAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,13 @@ neighbours:
 - cymae
 - cymas
 - symar
+phonetic: "/saɪˈmɑː(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: A scarf.
+    example: Her body shaded with a light cymar
+  - text: A loose light dress for women.
 prev_word: cymae
 next_word: cymas
 hubs:

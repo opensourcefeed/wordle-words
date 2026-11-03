@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BLIVE a Wordle Word?
-head_title: Is BLIVE a Wordle Word? Yes – Valid Guess
+head_title: Is BLIVE a Wordle Word? Yes – Valid Guess & Meaning
 word: blive
 description: Yes, BLIVE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,15 @@ neighbours:
 - olive
 - blite
 - slive
+phonetic: "/blaɪv/"
+definitions:
+- pos: verb
+  defs:
+  - text: Alternative form of belive ("to remain").
+- pos: adverb
+  defs:
+  - text: Quickly; forthwith
+    example: "“Perdy, ſir knight,” ſaide then th’ enchaunter blive […]"
 prev_word: blitz
 next_word: bloat
 hubs:

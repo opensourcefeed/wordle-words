@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FOLIC a Wordle Word?
-head_title: Is FOLIC a Wordle Word? Yes – Valid Guess
+head_title: Is FOLIC a Wordle Word? Yes – Valid Guess & Meaning
 word: folic
 description: Yes, FOLIC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 - colic
 - folia
 - folie
+phonetic: "/ˈfɒl.ɪk/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or relating to foliage; pteroylglutamic, as in folic acid.
 prev_word: folia
 next_word: folie
 hubs:

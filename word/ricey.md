@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RICEY a Wordle Word?
-head_title: Is RICEY a Wordle Word? Yes – Valid Guess
+head_title: Is RICEY a Wordle Word? Yes – Valid Guess & Meaning
 word: ricey
 description: Yes, RICEY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,16 @@ neighbours:
 - ricer
 - rices
 - riley
+phonetic: "/ˈɹaɪsi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Containing rice.
+    example: Nor may the fleeteſt hawk, untired, explore / Where end the ricey groves
+      that crown the ſhore.
+  - text: Resembling or characteristic of rice.
+    example: It is yellow, brittle, dry and ricey and not of a particularly pleasing
+      appearance.
 prev_word: rices
 next_word: riche
 hubs:

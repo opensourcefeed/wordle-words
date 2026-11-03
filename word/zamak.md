@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ZAMAK a Wordle Word?
-head_title: Is ZAMAK a Wordle Word? Yes – Valid Guess
+head_title: Is ZAMAK a Wordle Word? Yes – Valid Guess & Meaning
 word: zamak
 description: Yes, ZAMAK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - zaman
 anagrams:
 - mazak
+definitions:
+- pos: noun
+  defs:
+  - text: Any of a family of alloys with a zinc base and alloying elements of aluminium,
+      magnesium, and copper.
 prev_word: zamac
 next_word: zaman
 hubs:

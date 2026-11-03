@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is VASAL a Wordle Word?
-head_title: Is VASAL a Wordle Word? Yes – Valid Guess
+head_title: Is VASAL a Wordle Word? Yes – Valid Guess & Meaning
 word: vasal
 description: Yes, VASAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,20 @@ neighbours:
 - vagal
 anagrams:
 - lavas
+definitions:
+- pos: adjective
+  defs:
+  - text: Relating to a vessel (of the body).
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of vassal: The grantee of a fief, a subordinate granted
+      use of a superior''s land and its income in exchange for vows of fidelity and
+      homage and (typically) military service.'
+- pos: verb
+  defs:
+  - text: 'Alternative spelling of vassal: The grantee of a fief, a subordinate granted
+      use of a superior''s land and its income in exchange for vows of fidelity and
+      homage and (typically) military service.'
 prev_word: varve
 next_word: vases
 hubs:

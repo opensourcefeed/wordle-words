@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DUNCH a Wordle Word?
-head_title: Is DUNCH a Wordle Word? Yes – Valid Guess
+head_title: Is DUNCH a Wordle Word? Yes – Valid Guess & Meaning
 word: dunch
 description: Yes, DUNCH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,21 @@ neighbours:
 trap:
   pattern: _UNCH
   count: 7
+phonetic: "/dʌnt͡ʃ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To knock against; to hit, punch
+  - text: To crash into; to bump into.
+  - text: To gore with the horns, as a bull.
+  - text: To push, jog, or nudge, especially with the elbow.
+- pos: noun
+  defs:
+  - text: A push; knock; bump.
+  - text: A fat hit from a claggy lie.
+  - text: A leisurely meal between lunch and dinner in the late afternoon or early
+      evening (about 3-5 p.m.), usually instead of lunch or dinner.
+    example: I have a lunchtime meeting tomorrow, so let's have dunch together instead.
 prev_word: dunce
 next_word: dunes
 hubs:

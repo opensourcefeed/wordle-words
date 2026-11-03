@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HIBAS a Wordle Word?
-head_title: Is HIBAS a Wordle Word? Yes – Valid Guess
+head_title: Is HIBAS a Wordle Word? Yes – Valid Guess & Meaning
 word: hibas
 description: Yes, HIBAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,11 @@ neighbours:
 anagrams:
 - bhais
 - sahib
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of hiba: The conifer Thujopsis dolabrata, a cypress (in the broad
+      sense) that is endemic to Japan.'
 prev_word: hiant
 next_word: hicks
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is GRIDE a Wordle Word?
-head_title: Is GRIDE a Wordle Word? Yes – Valid Guess
+head_title: Is GRIDE a Wordle Word? Yes – Valid Guess & Meaning
 word: gride
 description: Yes, GRIDE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,21 @@ anagrams:
 trap:
   pattern: GRI_E
   count: 7
+phonetic: "/ˈɡɹaɪd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To pierce (something) with a weapon; to wound, to stab.
+    example: Where feeling one cloſe couched by her ſide / She lightly lept out of
+      her filed bedd, / And to her weapon ran, in minde to gride / The loathed leachour.
+  - text: To travel through something.
+  - text: To produce a grinding or scraping sound.
+- pos: noun
+  defs:
+  - text: A harsh grating sound.
+    example: The tumultuous noise resolved itself now into the disorderly mingling
+      of many voices, the gride of many wheels, the creaking of waggons, and the staccato
+      of hoofs.
 prev_word: grice
 next_word: grids
 hubs:

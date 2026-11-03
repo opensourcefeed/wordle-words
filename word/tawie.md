@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TAWIE a Wordle Word?
-head_title: Is TAWIE a Wordle Word? Yes – Valid Guess
+head_title: Is TAWIE a Wordle Word? Yes – Valid Guess & Meaning
 word: tawie
 description: Yes, TAWIE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 - towie
 anagrams:
 - waite
+definitions:
+- pos: adjective
+  defs:
+  - text: Docile or tractable to the extent of allowing itself to be handled without
+      complaint.
 prev_word: tawer
 next_word: tawny
 hubs:

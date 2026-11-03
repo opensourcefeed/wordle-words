@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RASER a Wordle Word?
-head_title: Is RASER a Wordle Word? Yes – Valid Guess
+head_title: Is RASER a Wordle Word? Yes – Valid Guess & Meaning
 word: raser
 description: Yes, RASER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,12 @@ anagrams:
 trap:
   pattern: RA_ER
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative form of razer (“one who razes”).
+  - text: 'Obsolete form of razor: A keen-edged knife of peculiar shape, used in shaving
+      the hair from the face or other parts of the body.'
 prev_word: rased
 next_word: rases
 hubs:

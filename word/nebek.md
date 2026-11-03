@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NEBEK a Wordle Word?
-head_title: Is NEBEK a Wordle Word? Yes – Valid Guess
+head_title: Is NEBEK a Wordle Word? Yes – Valid Guess & Meaning
 word: nebek
 description: Yes, NEBEK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -21,6 +22,11 @@ stats:
   starter_top_percent: 88
 neighbours:
 - nebel
+definitions:
+- pos: noun
+  defs:
+  - text: Paliurus spina-christi, a deciduous shrub or small tree native to the Mediterranean
+      region and southwest and central Asia.
 prev_word: nebby
 next_word: nebel
 hubs:

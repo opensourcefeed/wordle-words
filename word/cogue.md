@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is COGUE a Wordle Word?
-head_title: Is COGUE a Wordle Word? Yes – Valid Guess
+head_title: Is COGUE a Wordle Word? Yes – Valid Guess & Meaning
 word: cogue
 description: Yes, COGUE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,11 @@ neighbours:
 trap:
   pattern: _OGUE
   count: 7
+phonetic: "/kəʊɡ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small round wooden vessel for holding milk.
 prev_word: cogon
 next_word: cohab
 hubs:

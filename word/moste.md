@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MOSTE a Wordle Word?
-head_title: Is MOSTE a Wordle Word? Yes – Valid Guess
+head_title: Is MOSTE a Wordle Word? Yes – Valid Guess & Meaning
 word: moste
 description: Yes, MOSTE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,10 @@ anagrams:
 - mesto
 - motes
 - tomes
+definitions:
+- pos: adverb
+  defs:
+  - text: 'Obsolete spelling of most: Superlative degree of much.'
 prev_word: mossy
 next_word: mosto
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RETOX a Wordle Word?
-head_title: Is RETOX a Wordle Word? Yes – Valid Guess
+head_title: Is RETOX a Wordle Word? Yes – Valid Guess & Meaning
 word: retox
 description: Yes, RETOX is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 - retax
 anagrams:
 - oxter
+definitions:
+- pos: verb
+  defs:
+  - text: To resume the consumption of alcohol, drugs, etc.; to reverse a period of
+      detox.
 prev_word: retip
 next_word: retro
 hubs:

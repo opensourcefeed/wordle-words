@@ -5,6 +5,8 @@ head_title: Is DOLEE a Wordle Word? Yes – Valid Guess
 word: dolee
 description: Yes, DOLEE is a valid Wordle word. It is not on the Wordle answer list,
   so it is unlikely to be a daily answer. See its starter rating and similar words.
+noindex: true
+sitemap: false
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.

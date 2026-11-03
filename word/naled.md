@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NALED a Wordle Word?
-head_title: Is NALED a Wordle Word? Yes – Valid Guess
+head_title: Is NALED a Wordle Word? Yes – Valid Guess & Meaning
 word: naled
 description: Yes, NALED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,6 +43,20 @@ anagrams:
 trap:
   pattern: _ALED
   count: 8
+phonetic: "/ˈneɪ.lɛd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A particular organophosphate insecticide.
+    example: AMVAC Chemical Corp. spokesman Brian Maddox said the company does not
+      sell naled into China and has “no idea how it may have been used or how much
+      is applied.
+  - text: A sheet-like layered mass of ice formed in freezing temperatures from the
+      freezing of successive flows of ground water over previously formed layers of
+      ice.
+    example: The geographic distribution of naleds in Trans-Baikal does not confirm
+      the view of certain researchers to the effect that naleds are typical only of
+      the regions where permafrost occurs.
 prev_word: nalas
 next_word: nalla
 hubs:

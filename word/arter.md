@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ARTER a Wordle Word?
-head_title: Is ARTER a Wordle Word? Yes – Valid Guess
+head_title: Is ARTER a Wordle Word? Yes – Valid Guess & Meaning
 word: arter
 description: Yes, ARTER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,13 @@ anagrams:
 trap:
   pattern: A_TER
   count: 6
+definitions:
+- pos: preposition
+  defs:
+  - text: 'Pronunciation spelling of after: Behind; later in time; following.'
+    example: '"[…]His right name was Compeyson; and that''s the man, dear boy, what
+      you see me a-pounding in the ditch, according to what you truly told your comrade
+      arter I was gone last night.[…]"'
 prev_word: artel
 next_word: artic
 hubs:

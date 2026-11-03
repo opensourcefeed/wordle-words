@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FACIE a Wordle Word?
-head_title: Is FACIE a Wordle Word? Yes – Valid Guess
+head_title: Is FACIE a Wordle Word? Yes – Valid Guess & Meaning
 word: facie
 description: Yes, FACIE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,12 @@ stats:
 neighbours:
 - facia
 - fakie
+definitions:
+- pos: noun
+  defs:
+  - text: Diminutive of face.
+    example: Lovely is thy little facie, / Wi’ its locks o’ goud / Calmly couched
+      roun’ thy wee haffets, / Like some simmer cloud.
 prev_word: facia
 next_word: facta
 hubs:

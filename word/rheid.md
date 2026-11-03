@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RHEID a Wordle Word?
-head_title: Is RHEID a Wordle Word? Yes – Valid Guess
+head_title: Is RHEID a Wordle Word? Yes – Valid Guess & Meaning
 word: rheid
 description: Yes, RHEID is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,14 @@ stats:
 anagrams:
 - hider
 - hired
+phonetic: "/ˈriːɪd/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any member of the Rheidae; a rhea.
+  - text: A substance whose temperature is below the melting point and whose deformation
+      by viscous flow during the time of observation is at least three orders of magnitude
+      (1,000 ×) greater than the elastic deformation under the given conditions.
 prev_word: rheas
 next_word: rheme
 hubs:

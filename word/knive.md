@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is KNIVE a Wordle Word?
-head_title: Is KNIVE a Wordle Word? Yes – Valid Guess
+head_title: Is KNIVE a Wordle Word? Yes – Valid Guess & Meaning
 word: knive
 description: Yes, KNIVE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,16 @@ neighbours:
 - knave
 - knife
 - snive
+phonetic: "/naɪv/"
+definitions:
+- pos: verb
+  defs:
+  - text: 'Rare form of knife: A utensil or a tool designed for cutting, consisting
+      of a flat piece of hard material, usually steel or other metal (the blade),
+      usually sharpened on one edge, attached to a handle. The blade may be pointed
+      for piercing.'
+    example: all small weak Shoots should be cut close to the main Stems; and (generally
+      speaking) nipping with your Nails, is a better Way than kniving of them.
 prev_word: knits
 next_word: knobs
 hubs:

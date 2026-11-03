@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WAXER a Wordle Word?
-head_title: Is WAXER a Wordle Word? Yes – Valid Guess
+head_title: Is WAXER a Wordle Word? Yes – Valid Guess & Meaning
 word: waxer
 description: Yes, WAXER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,12 @@ anagrams:
 trap:
   pattern: WA_ER
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A device used to apply wax.
+  - text: A person who applies wax.
+  - text: Something that waxes (grows larger, as opposed to waning).
 prev_word: waxen
 next_word: waxes
 hubs:

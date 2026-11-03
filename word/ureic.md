@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UREIC a Wordle Word?
-head_title: Is UREIC a Wordle Word? Yes – Valid Guess
+head_title: Is UREIC a Wordle Word? Yes – Valid Guess & Meaning
 word: ureic
 description: Yes, UREIC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,13 @@ neighbours:
 anagrams:
 - curie
 - ruice
+definitions:
+- pos: adjective
+  defs:
+  - text: Of, relating to, or derived from urea.
+    example: In the morning the blood was crowded with commuters, the glucose peons,
+      lactic and ureic sanitation workers, hemoglobinous deliverymen carrying loads
+      of freshly brewed oxygen in their dented vans, […]
 prev_word: uredo
 next_word: ureid
 hubs:

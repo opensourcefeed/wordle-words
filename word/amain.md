@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AMAIN a Wordle Word?
-head_title: Is AMAIN a Wordle Word? Yes – Valid Guess
+head_title: Is AMAIN a Wordle Word? Yes – Valid Guess & Meaning
 word: amain
 description: Yes, AMAIN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,26 @@ anagrams:
 - mania
 - amnia
 - anima
+phonetic: "/əˈmeɪn/"
+definitions:
+- pos: adverb
+  defs:
+  - text: With all of one's might; mightily; forcefully, violently.
+    example: So likewiſe turnde the Prince vpon the Knight, / And layd at him amaine
+      with all his will and might.
+  - text: At full speed; also, in great haste.
+    example: At length the Danes beeing aſſayled on eche ſide, both a front before,
+      and on their backes behinde, oppreſſed as it were wyth multitude, they threwe
+      downe theyr weapons and fled amain.
+  - text: Out of control.
+  - text: Exceedingly; overmuch.
+    example: Riches are mine, Fortune is in my hand; / They whom I favour thrive in
+      wealth amain, / While Virtue, Valour, Wiſdom ſit in want.
+- pos: verb
+  defs:
+  - text: To lower (the sail of a ship, particularly the topsail).
+  - text: To decrease or reduce (something).
+  - text: To lower the topsail in token of surrender; to yield.
 prev_word: amahs
 next_word: amari
 hubs:

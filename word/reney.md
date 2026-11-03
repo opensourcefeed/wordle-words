@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RENEY a Wordle Word?
-head_title: Is RENEY a Wordle Word? Yes – Valid Guess
+head_title: Is RENEY a Wordle Word? Yes – Valid Guess & Meaning
 word: reney
 description: Yes, RENEY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,11 @@ neighbours:
 - rekey
 - renay
 - veney
+definitions:
+- pos: verb
+  defs:
+  - text: 'Alternative form of renay: To renounce (one’s faith or god), to apostasize
+      from.'
 prev_word: renew
 next_word: renga
 hubs:

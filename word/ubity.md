@@ -5,6 +5,8 @@ head_title: Is UBITY a Wordle Word? Yes – Valid Guess
 word: ubity
 description: Yes, UBITY is a valid Wordle word. It is not on the Wordle answer list,
   so it is unlikely to be a daily answer. See its starter rating and similar words.
+noindex: true
+sitemap: false
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.

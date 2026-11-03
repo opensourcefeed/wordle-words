@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BUBUS a Wordle Word?
-head_title: Is BUBUS a Wordle Word? Yes – Valid Guess
+head_title: Is BUBUS a Wordle Word? Yes – Valid Guess & Meaning
 word: bubus
 description: Yes, BUBUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,10 @@ neighbours:
 - babus
 - bubas
 - rubus
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of bubu: Alternative form of boubou (“type of robe”).'
 prev_word: bubby
 next_word: buchu
 hubs:

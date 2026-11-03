@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ARIOT a Wordle Word?
-head_title: Is ARIOT a Wordle Word? Yes – Valid Guess
+head_title: Is ARIOT a Wordle Word? Yes – Valid Guess & Meaning
 word: ariot
 description: Yes, ARIOT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,15 @@ neighbours:
 anagrams:
 - ratio
 - riato
+phonetic: "/əˈɹaɪət/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Filled with or involving rioting or riotous behaviour.
+    example: |-
+      In the camp at the bend of the river, with its dozen saloons aglare,
+      Its gambling dens ariot, its gramophones all ablare;
+  - text: Filled in an unrestrained manner.
 prev_word: arils
 next_word: arise
 hubs:

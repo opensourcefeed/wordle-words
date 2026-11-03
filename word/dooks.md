@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DOOKS a Wordle Word?
-head_title: Is DOOKS a Wordle Word? Yes – Valid Guess
+head_title: Is DOOKS a Wordle Word? Yes – Valid Guess & Meaning
 word: dooks
 description: Yes, DOOKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,13 @@ neighbours:
 trap:
   pattern: _OOKS
   count: 14
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of dook: To make a certain clucking sound.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of dook
 prev_word: doofs
 next_word: dooky
 hubs:

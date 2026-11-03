@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SUPES a Wordle Word?
-head_title: Is SUPES a Wordle Word? Yes – Valid Guess
+head_title: Is SUPES a Wordle Word? Yes – Valid Guess & Meaning
 word: supes
 description: Yes, SUPES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,16 @@ neighbours:
 anagrams:
 - puses
 - spues
+definitions:
+- pos: adverb
+  defs:
+  - text: Super; extremely.
+    example: Supes Awesome. Dating advice from the clown who'd put baby powder in
+      my blow-dryer, frozen marbles in my bed, and still regularly strung plastic
+      wrap across the doorway.
+- pos: noun
+  defs:
+  - text: 'Plural of supe: Clipping of supernumerary (“an extra or walk-on”).'
 prev_word: super
 next_word: supra
 hubs:

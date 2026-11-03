@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SORRA a Wordle Word?
-head_title: Is SORRA a Wordle Word? Yes – Valid Guess
+head_title: Is SORRA a Wordle Word? Yes – Valid Guess & Meaning
 word: sorra
 description: Yes, SORRA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,16 @@ neighbours:
 - surra
 anagrams:
 - roars
+definitions:
+- pos: noun
+  defs:
+  - text: Sorrow
+- pos: determiner
+  defs:
+  - text: Nary (a); no; not one
+    example: "'Sorra a friend I have - sorra a friend, Masther Richard; and I did
+      not spake to the priest this year or more, and I darn't go near him,' said the
+      poor Palmerstown lass that was once so merry."
 prev_word: sorns
 next_word: sorry
 hubs:

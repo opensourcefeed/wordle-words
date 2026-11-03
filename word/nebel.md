@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NEBEL a Wordle Word?
-head_title: Is NEBEL a Wordle Word? Yes – Valid Guess
+head_title: Is NEBEL a Wordle Word? Yes – Valid Guess & Meaning
 word: nebel
 description: Yes, NEBEL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,12 @@ neighbours:
 - newel
 anagrams:
 - leben
+definitions:
+- pos: noun
+  defs:
+  - text: A Hebrew stringed instrument, possibly the same as the nabla.
+    example: Two nebels were always to be played in the daily services of the Temple,
+      and the number might not exceed six.
 prev_word: nebek
 next_word: neche
 hubs:

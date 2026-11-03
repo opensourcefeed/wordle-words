@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ALGIN a Wordle Word?
-head_title: Is ALGIN a Wordle Word? Yes – Valid Guess
+head_title: Is ALGIN a Wordle Word? Yes – Valid Guess & Meaning
 word: algin
 description: Yes, ALGIN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,14 @@ anagrams:
 - liang
 - ligan
 - linga
+phonetic: "/ˈæl.dʒɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of various gelatinous gums, derivatives of alginic acid, derived from
+      marine brown algae and used especially as emulsifiers or thickeners.
+    example: All the algins are edible, but they pass unchanged through the alimentary
+      tract and add no food value.
 prev_word: algid
 next_word: algor
 hubs:

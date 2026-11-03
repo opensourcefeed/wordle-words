@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TINED a Wordle Word?
-head_title: Is TINED a Wordle Word? Yes – Valid Guess
+head_title: Is TINED a Wordle Word? Yes – Valid Guess & Meaning
 word: tined
 description: Yes, TINED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,15 @@ anagrams:
 trap:
   pattern: _INED
   count: 9
+definitions:
+- pos: adjective
+  defs:
+  - text: Furnished with tines.
+    example: a three-tined fork
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of tine: A spike or point on an implement
+      or tool, especially a prong of a fork or a tooth of a comb.'
 prev_word: tinea
 next_word: tines
 hubs:

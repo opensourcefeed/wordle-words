@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PUNGS a Wordle Word?
-head_title: Is PUNGS a Wordle Word? Yes – Valid Guess
+head_title: Is PUNGS a Wordle Word? Yes – Valid Guess & Meaning
 word: pungs
 description: Yes, PUNGS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,6 +35,10 @@ neighbours:
 trap:
   pattern: _UNGS
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of pung: A low box-like sleigh designed to be pulled by one horse.'
 prev_word: pungo
 next_word: pungy
 hubs:

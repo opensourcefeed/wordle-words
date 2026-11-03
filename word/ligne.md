@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LIGNE a Wordle Word?
-head_title: Is LIGNE a Wordle Word? Yes – Valid Guess
+head_title: Is LIGNE a Wordle Word? Yes – Valid Guess & Meaning
 word: ligne
 description: Yes, LIGNE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - ligge
 anagrams:
 - ingle
+definitions:
+- pos: noun
+  defs:
+  - text: Synonym of line (“ill-defined unit of length”).
+  - text: A unit of length used for measuring the diameter of buttons.
 prev_word: light
 next_word: liked
 hubs:

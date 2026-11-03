@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BANYA a Wordle Word?
-head_title: Is BANYA a Wordle Word? Yes – Valid Guess
+head_title: Is BANYA a Wordle Word? Yes – Valid Guess & Meaning
 word: banya
 description: Yes, BANYA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,14 @@ neighbours:
 - banda
 - bania
 - bunya
+phonetic: "/ˈbɑːnjə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A type of steam bath, popular in Russia (and in some parts of Alaska as
+      well).
+    example: The Russian public steam bath (banya) is a cultural hybrid which borrows
+      freely from the Finnish sauna and the Turkish political detention centre.
 prev_word: bantz
 next_word: baons
 hubs:

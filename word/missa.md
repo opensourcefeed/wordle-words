@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MISSA a Wordle Word?
-head_title: Is MISSA a Wordle Word? Yes – Valid Guess
+head_title: Is MISSA a Wordle Word? Yes – Valid Guess & Meaning
 word: missa
 description: Yes, MISSA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,13 @@ anagrams:
 - amiss
 - saims
 - simas
+definitions:
+- pos: noun
+  defs:
+  - text: A mass, in the sense of a composition setting several sung parts of the
+      liturgical service (most often chosen from the ordinary parts Kyrie, Gloria,
+      Credo, Agnus Dei and/or Sanctus) to music, notably when the text in Latin is
+      used (as long universally prescribed by Rome)
 prev_word: misos
 next_word: missy
 hubs:

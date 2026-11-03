@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TONEY a Wordle Word?
-head_title: Is TONEY a Wordle Word? Yes – Valid Guess
+head_title: Is TONEY a Wordle Word? Yes – Valid Guess & Meaning
 word: toney
 description: Yes, TONEY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,11 @@ neighbours:
 trap:
   pattern: _ONEY
   count: 6
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Alternative spelling of tony: Stylish, high-toned, upscale.'
+    example: '[…] The ball will be rather a toney affair."'
 prev_word: tones
 next_word: tonga
 hubs:

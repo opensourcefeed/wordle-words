@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SAMPS a Wordle Word?
-head_title: Is SAMPS a Wordle Word? Yes – Valid Guess
+head_title: Is SAMPS a Wordle Word? Yes – Valid Guess & Meaning
 word: samps
 description: Yes, SAMPS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,11 @@ anagrams:
 trap:
   pattern: _AMPS
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of samp: An article of food consisting of coarse ground maize, or
+      a porridge made from it.'
 prev_word: sampi
 next_word: sanad
 hubs:

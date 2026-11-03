@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MARMS a Wordle Word?
-head_title: Is MARMS a Wordle Word? Yes – Valid Guess
+head_title: Is MARMS a Wordle Word? Yes – Valid Guess & Meaning
 word: marms
 description: Yes, MARMS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,6 +40,10 @@ anagrams:
 trap:
   pattern: MAR_S
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of marm: Madam; a polite term of address for a lady.'
 prev_word: marma
 next_word: maron
 hubs:

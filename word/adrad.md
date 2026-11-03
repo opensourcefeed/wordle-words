@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ADRAD a Wordle Word?
-head_title: Is ADRAD a Wordle Word? Yes – Valid Guess
+head_title: Is ADRAD a Wordle Word? Yes – Valid Guess & Meaning
 word: adrad
 description: Yes, ADRAD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,13 @@ neighbours:
 - ydrad
 anagrams:
 - addra
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Obsolete spelling of adread: To dread, fear greatly.'
+    example: For as I lay sleeping betwixt the strokes of night, a dream of the night
+      stood by my bed and beheld me with a glance so fell that I was all adrad and
+      quaking with fear.
 prev_word: adoze
 next_word: adraw
 hubs:

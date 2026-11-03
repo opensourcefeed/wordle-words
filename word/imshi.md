@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is IMSHI a Wordle Word?
-head_title: Is IMSHI a Wordle Word? Yes – Valid Guess
+head_title: Is IMSHI a Wordle Word? Yes – Valid Guess & Meaning
 word: imshi
 description: Yes, IMSHI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,12 @@ neighbours:
 - imshy
 anagrams:
 - mihis
+definitions:
+- pos: verb
+  defs:
+  - text: 'Alternative form of imshee: Go away'
+    example: The driver told him that Al Zia had paid for the cab ride and he should
+      go now—Imshi—quickly.
 prev_word: impro
 next_word: imshy
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BASTI a Wordle Word?
-head_title: Is BASTI a Wordle Word? Yes – Valid Guess
+head_title: Is BASTI a Wordle Word? Yes – Valid Guess & Meaning
 word: basti
 description: Yes, BASTI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,13 @@ anagrams:
 - absit
 - baits
 - tabis
+phonetic: "/bʌstiː/"
+definitions:
+- pos: noun
+  defs:
+  - text: A slum.
+    example: There is a dreary bustee in the neighbourhood which is said to make the
+      most of any cholera that may be going.
 prev_word: baste
 next_word: basto
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MAWNS a Wordle Word?
-head_title: Is MAWNS a Wordle Word? Yes – Valid Guess
+head_title: Is MAWNS a Wordle Word? Yes – Valid Guess & Meaning
 word: mawns
 description: Yes, MAWNS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,10 @@ neighbours:
 trap:
   pattern: _AWNS
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of mawn: A maund; a basket or hamper.'
 prev_word: mawla
 next_word: mawps
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ARROZ a Wordle Word?
-head_title: Is ARROZ a Wordle Word? Yes – Valid Guess
+head_title: Is ARROZ a Wordle Word? Yes – Valid Guess & Meaning
 word: arroz
 description: Yes, ARROZ is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 - arrow
 anagrams:
 - razor
+phonetic: "/aˈɹɒs/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any Spanish rice-based dish.
+    example: Reliable, traditional bar-restaurant for dishes of the sierra including
+      […] arrozes (rice dishes).
 prev_word: arrow
 next_word: arsed
 hubs:

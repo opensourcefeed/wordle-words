@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BLETS a Wordle Word?
-head_title: Is BLETS a Wordle Word? Yes – Valid Guess
+head_title: Is BLETS a Wordle Word? Yes – Valid Guess & Meaning
 word: blets
 description: Yes, BLETS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,14 @@ neighbours:
 anagrams:
 - belts
 - blest
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of blet: To undergo or cause to undergo bletting, a fermentation
+      process in certain fruit beyond ripening.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of blet
 prev_word: blest
 next_word: bleys
 hubs:

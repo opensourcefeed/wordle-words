@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NOMOI a Wordle Word?
-head_title: Is NOMOI a Wordle Word? Yes – Valid Guess
+head_title: Is NOMOI a Wordle Word? Yes – Valid Guess & Meaning
 word: nomoi
 description: Yes, NOMOI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ neighbours:
 - nomos
 anagrams:
 - mooni
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of nomos: The body of law, especially that governing human behaviour.'
 prev_word: nomic
 next_word: nomos
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HAKAM a Wordle Word?
-head_title: Is HAKAM a Wordle Word? Yes – Valid Guess
+head_title: Is HAKAM a Wordle Word? Yes – Valid Guess & Meaning
 word: hakam
 description: Yes, HAKAM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,10 @@ neighbours:
 - hakas
 - hakim
 - haram
+definitions:
+- pos: noun
+  defs:
+  - text: An arbitrator.
 prev_word: hajji
 next_word: hakas
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is NEEBS a Wordle Word?
-head_title: Is NEEBS a Wordle Word? Yes – Valid Guess
+head_title: Is NEEBS a Wordle Word? Yes – Valid Guess & Meaning
 word: neebs
 description: Yes, NEEBS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,10 @@ neighbours:
 - newbs
 anagrams:
 - benes
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of neeb: A kind of spirit according to Hmong beliefs.'
 prev_word: neddy
 next_word: needs
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HOAST a Wordle Word?
-head_title: Is HOAST a Wordle Word? Yes – Valid Guess
+head_title: Is HOAST a Wordle Word? Yes – Valid Guess & Meaning
 word: hoast
 description: Yes, HOAST is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,6 +38,19 @@ anagrams:
 trap:
   pattern: _OAST
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A cough.
+    example: in the winter time, right in the middle of the Lord's Prayer, maybe,
+      you'd hear an outbreak of hoasts fit to lift off the roof [...].
+  - text: 'Obsolete form of host: One which receives or entertains a guest, socially,
+      commercially, or officially.'
+- pos: verb
+  defs:
+  - text: To cough.
+  - text: 'Obsolete form of host: One which receives or entertains a guest, socially,
+      commercially, or officially.'
 prev_word: hoary
 next_word: hobby
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HOWFS a Wordle Word?
-head_title: Is HOWFS a Wordle Word? Yes – Valid Guess
+head_title: Is HOWFS a Wordle Word? Yes – Valid Guess & Meaning
 word: howfs
 description: Yes, HOWFS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 - howks
 - howls
 - sowfs
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of howf: A frequent meeting place; a haunt; often specifically,
+      a drinking-house or tavern.'
 prev_word: howff
 next_word: howks
 hubs:

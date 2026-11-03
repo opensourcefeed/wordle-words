@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SAIST a Wordle Word?
-head_title: Is SAIST a Wordle Word? Yes – Valid Guess
+head_title: Is SAIST a Wordle Word? Yes – Valid Guess & Meaning
 word: saist
 description: Yes, SAIST is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,6 +32,11 @@ neighbours:
 anagrams:
 - satis
 - sista
+definitions:
+- pos: verb
+  defs:
+  - text: 'Obsolete form of sayest: Second-person singular simple present indicative
+      of say'
 prev_word: sairs
 next_word: saith
 hubs:

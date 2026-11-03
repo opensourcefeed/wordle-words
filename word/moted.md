@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MOTED a Wordle Word?
-head_title: Is MOTED a Wordle Word? Yes – Valid Guess
+head_title: Is MOTED a Wordle Word? Yes – Valid Guess & Meaning
 word: moted
 description: Yes, MOTED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,6 +41,12 @@ anagrams:
 trap:
   pattern: MO_ED
   count: 9
+definitions:
+- pos: adjective
+  defs:
+  - text: Filled with motes, or fine floating dust.
+    example: "[B]ut most she loath'd the hour / When the thick-moted sunbeam lay /
+      Athwart the chambers, and the day / Was sloping toward his western bower."
 prev_word: mosts
 next_word: motel
 hubs:

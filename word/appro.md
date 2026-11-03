@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is APPRO a Wordle Word?
-head_title: Is APPRO a Wordle Word? Yes – Valid Guess
+head_title: Is APPRO a Wordle Word? Yes – Valid Guess & Meaning
 word: appro
 description: Yes, APPRO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,12 @@ stats:
   starter_top_percent: 49
 neighbours:
 - aspro
+definitions:
+- pos: noun
+  defs:
+  - text: The situation where goods, especially jewellery, must be returned by the
+      retailer if not successfully sold.
+    example: The goods were delivered on appro.
 prev_word: apply
 next_word: appts
 hubs:

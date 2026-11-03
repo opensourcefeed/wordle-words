@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is QUICH a Wordle Word?
-head_title: Is QUICH a Wordle Word? Yes – Valid Guess
+head_title: Is QUICH a Wordle Word? Yes – Valid Guess & Meaning
 word: quich
 description: Yes, QUICH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -22,6 +23,13 @@ stats:
   starter_top_percent: 92
 neighbours:
 - quick
+definitions:
+- pos: noun
+  defs:
+  - text: 'Obsolete spelling of quitch: To shake (something); to stir, move.'
+- pos: verb
+  defs:
+  - text: 'Obsolete spelling of quitch: To shake (something); to stir, move.'
 prev_word: quibs
 next_word: quick
 hubs:

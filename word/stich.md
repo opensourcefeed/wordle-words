@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STICH a Wordle Word?
-head_title: Is STICH a Wordle Word? Yes – Valid Guess
+head_title: Is STICH a Wordle Word? Yes – Valid Guess & Meaning
 word: stich
 description: Yes, STICH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,21 @@ anagrams:
 - chits
 - sicht
 - sitch
+phonetic: "/stɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A verse, of whatever measure or number of feet, especially a verse of Scripture.
+  - text: A part of a line of poetry, especially in the distichal poetry of the Hebrew
+      Bible and in early Germanic heroic verse such as Beowulf, where the line is
+      composed of two (occasionally three) such parts.
+  - text: A row, line, or rank of trees.
+  - text: 'Obsolete form of stitch: A single pass of a needle in sewing; the loop
+      or turn of the thread thus made.'
+- pos: verb
+  defs:
+  - text: 'Obsolete form of stitch: A single pass of a needle in sewing; the loop
+      or turn of the thread thus made.'
 prev_word: steys
 next_word: stick
 hubs:

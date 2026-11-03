@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is DHAKS a Wordle Word?
-head_title: Is DHAKS a Wordle Word? Yes – Valid Guess
+head_title: Is DHAKS a Wordle Word? Yes – Valid Guess & Meaning
 word: dhaks
 description: Yes, DHAKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,11 @@ neighbours:
 - dhals
 anagrams:
 - khads
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of dhak: Any member of the species Butea monosperma of trees of
+      southern Asia.'
 prev_word: dhaba
 next_word: dhals
 hubs:

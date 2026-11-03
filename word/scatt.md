@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SCATT a Wordle Word?
-head_title: Is SCATT a Wordle Word? Yes – Valid Guess
+head_title: Is SCATT a Wordle Word? Yes – Valid Guess & Meaning
 word: scatt
 description: Yes, SCATT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,13 @@ neighbours:
 - skatt
 anagrams:
 - tacts
+phonetic: "/skæt/"
+definitions:
+- pos: noun
+  defs:
+  - text: Obsolete spelling of scat (“tax, tribute”).
+    example: When he ravaged Norway, / Laying waste the kingdom, / Seizing scatt and
+      treasure / For her royal needs.
 prev_word: scats
 next_word: scaud
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LAURA a Wordle Word?
-head_title: Is LAURA a Wordle Word? Yes – Valid Guess
+head_title: Is LAURA a Wordle Word? Yes – Valid Guess & Meaning
 word: laura
 description: Yes, LAURA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,14 @@ neighbours:
 - lavra
 anagrams:
 - aural
+phonetic: "/ˈlɔɹə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A number of hermitages or cells in the same neighborhood occupied by anchorites
+      who were under the same superior
+  - text: A cluster of cells or caves for hermits, with a church and sometimes a refectory
+      at the centre.
 prev_word: laund
 next_word: laval
 hubs:

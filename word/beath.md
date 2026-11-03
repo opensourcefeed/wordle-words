@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BEATH a Wordle Word?
-head_title: Is BEATH a Wordle Word? Yes – Valid Guess
+head_title: Is BEATH a Wordle Word? Yes – Valid Guess & Meaning
 word: beath
 description: Yes, BEATH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,16 @@ neighbours:
 - neath
 anagrams:
 - bathe
+phonetic: "/biːð/"
+definitions:
+- pos: verb
+  defs:
+  - text: To bathe (with warm liquid); foment.
+    example: |-
+      And in his hand a tall young oake he bore,
+      Whose knottie snags were sharpned all afore,
+      And beath'd in fire for steel to be in sted
+  - text: To dry or heat (unseasoned) wood for the purpose of straightening it.
 prev_word: beast
 next_word: beats
 hubs:

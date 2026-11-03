@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is WOADS a Wordle Word?
-head_title: Is WOADS a Wordle Word? Yes – Valid Guess
+head_title: Is WOADS a Wordle Word? Yes – Valid Guess & Meaning
 word: woads
 description: Yes, WOADS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,10 @@ neighbours:
 - wolds
 - woods
 - words
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of woad: The plant Isatis tinctoria.'
 prev_word: wizzo
 next_word: woady
 hubs:

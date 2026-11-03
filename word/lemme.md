@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LEMME a Wordle Word?
-head_title: Is LEMME a Wordle Word? Yes – Valid Guess
+head_title: Is LEMME a Wordle Word? Yes – Valid Guess & Meaning
 word: lemme
 description: Yes, LEMME is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,12 @@ neighbours:
 - femme
 - lemma
 - lumme
+phonetic: "/ˈlɛmi/"
+definitions:
+- pos: contraction
+  defs:
+  - text: Let me.
+    example: Lemme go!
 prev_word: lemma
 next_word: lemon
 hubs:

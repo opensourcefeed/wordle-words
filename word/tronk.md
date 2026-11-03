@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TRONK a Wordle Word?
-head_title: Is TRONK a Wordle Word? Yes – Valid Guess
+head_title: Is TRONK a Wordle Word? Yes – Valid Guess & Meaning
 word: tronk
 description: Yes, TRONK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,12 @@ neighbours:
 - trone
 - trons
 - twonk
+definitions:
+- pos: noun
+  defs:
+  - text: A prison.
+    example: The diary of another settler, who had been wrongfully imprisoned in the
+      Tronk, and described the daily life there in no uncertain terms […]
 prev_word: trone
 next_word: trons
 hubs:

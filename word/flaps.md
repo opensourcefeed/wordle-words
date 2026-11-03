@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FLAPS a Wordle Word?
-head_title: Is FLAPS a Wordle Word? Yes – Valid Guess
+head_title: Is FLAPS a Wordle Word? Yes – Valid Guess & Meaning
 word: flaps
 description: Yes, FLAPS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,18 @@ neighbours:
 trap:
   pattern: FLA_S
   count: 9
+phonetic: "/flæps/"
+definitions:
+- pos: noun
+  defs:
+  - text: A disease in the mouths of horses involving inflammation in the cheeks or
+      lips.
+    example: Giges or flappes, is pimples or teates in the in side of his mouth.
+  - text: 'Plural of flap: Anything broad and flexible that hangs loose, or that is
+      attached by one side or end and is easily moved.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of flap
 prev_word: flans
 next_word: flare
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is THEMA a Wordle Word?
-head_title: Is THEMA a Wordle Word? Yes – Valid Guess
+head_title: Is THEMA a Wordle Word? Yes – Valid Guess & Meaning
 word: thema
 description: Yes, THEMA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,13 @@ neighbours:
 anagrams:
 - mathe
 - meath
+definitions:
+- pos: noun
+  defs:
+  - text: A subject or theme.
+    example: 'Eco has his own image for this method-spiral repetition: every new exploration
+      elevates the solutions to a higher level by expanding the thema''s cognitive
+      context.'
 prev_word: thelf
 next_word: theme
 hubs:

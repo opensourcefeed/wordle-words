@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is MINTY a Wordle Word?
-head_title: 'Is MINTY a Wordle Word? Yes – Past Answer #1513'
+head_title: 'Is MINTY a Wordle Word? Yes – Past Answer #1513 & Meaning'
 word: minty
 description: Yes, MINTY is a valid Wordle word. It was the Wordle answer on August
-  10, 2025 (#1513). See its starter rating and similar words.
+  10, 2025 (#1513). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on August 10, 2025 (#1513).
 past_answers:
@@ -36,6 +36,13 @@ neighbours:
 - misty
 - monty
 - tinty
+phonetic: "/ˈmɪnti/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having a flavor or essence of mint.
+    example: Moroccan curried crab and streaks of minty, lemony yogurt add luxury
+      to a supersimple zucchini soup ($14).
 prev_word: mints
 next_word: minus
 hubs:

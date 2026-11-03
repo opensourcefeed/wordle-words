@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PLIPS a Wordle Word?
-head_title: Is PLIPS a Wordle Word? Yes – Valid Guess
+head_title: Is PLIPS a Wordle Word? Yes – Valid Guess & Meaning
 word: plips
 description: Yes, PLIPS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,10 @@ neighbours:
 - plops
 - plups
 - slips
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of plip: A light sound or action like liquid hitting a surface.'
 prev_word: plink
 next_word: plish
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TUPEK a Wordle Word?
-head_title: Is TUPEK a Wordle Word? Yes – Valid Guess
+head_title: Is TUPEK a Wordle Word? Yes – Valid Guess & Meaning
 word: tupek
 description: Yes, TUPEK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,11 @@ stats:
 neighbours:
 - topek
 - tupik
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative spelling of tupik: A tent or other building made from animal
+      skins, used by the Inuit during the summer.'
 prev_word: tunny
 next_word: tupik
 hubs:

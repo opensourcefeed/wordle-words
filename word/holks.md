@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HOLKS a Wordle Word?
-head_title: Is HOLKS a Wordle Word? Yes – Valid Guess
+head_title: Is HOLKS a Wordle Word? Yes – Valid Guess & Meaning
 word: holks
 description: Yes, HOLKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,13 @@ anagrams:
 trap:
   pattern: HO_KS
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of holk: A hollow cavity.'
+- pos: verb
+  defs:
+  - text: Third-person singular simple present indicative of holk
 prev_word: holey
 next_word: holla
 hubs:

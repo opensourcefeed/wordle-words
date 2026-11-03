@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OSETR a Wordle Word?
-head_title: Is OSETR a Wordle Word? Yes – Valid Guess
+head_title: Is OSETR a Wordle Word? Yes – Valid Guess & Meaning
 word: osetr
 description: Yes, OSETR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,6 +31,13 @@ anagrams:
 - rotes
 - tores
 - torse
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of osseter: Acipenser gueldenstaedtii, the Russian sturgeon.'
+    example: Detlaf & Ginzburg (1950) and Kazanskii (1950a) each discovered dividing
+      eggs in the ovaries of a sevriuga and an osetr, respectively, given large doses
+      of pituitaries.
 prev_word: oscar
 next_word: oseys
 hubs:

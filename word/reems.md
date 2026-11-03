@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REEMS a Wordle Word?
-head_title: Is REEMS a Wordle Word? Yes – Valid Guess
+head_title: Is REEMS a Wordle Word? Yes – Valid Guess & Meaning
 word: reems
 description: Yes, REEMS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,6 +42,12 @@ anagrams:
 trap:
   pattern: _EEMS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of reem: A large horned animal in ancient Hebrew literature, variously
+      identified with the wild ox or aurochs (Bos primigenius), the Arabian oryx,
+      or a mythical creature (compare unicorn).'
 prev_word: reely
 next_word: reens
 hubs:

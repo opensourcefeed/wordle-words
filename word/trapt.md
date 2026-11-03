@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TRAPT a Wordle Word?
-head_title: Is TRAPT a Wordle Word? Yes – Valid Guess
+head_title: Is TRAPT a Wordle Word? Yes – Valid Guess & Meaning
 word: trapt
 description: Yes, TRAPT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,13 @@ neighbours:
 - yrapt
 anagrams:
 - pratt
+definitions:
+- pos: verb
+  defs:
+  - text: 'Simple past and past participle of trap: A machine or other device designed
+      to catch (and sometimes kill) animals, either by holding them in a container,
+      or by catching hold of part of the body.'
+  - text: 'Alternative form of trapped: Caught in a trap.'
 prev_word: traps
 next_word: trash
 hubs:

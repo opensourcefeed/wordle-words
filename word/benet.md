@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BENET a Wordle Word?
-head_title: Is BENET a Wordle Word? Yes – Valid Guess
+head_title: Is BENET a Wordle Word? Yes – Valid Guess & Meaning
 word: benet
 description: Yes, BENET is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,16 @@ neighbours:
 - bewet
 - denet
 - genet
+phonetic: "/bɪˈnɛt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To catch in a net; ensnare.
+  - text: To surround as by a net.
+    example: Being thus benetted round with villains
+- pos: noun
+  defs:
+  - text: An exorcist, the third of the four lesser orders in the Roman Catholic church.
 prev_word: benes
 next_word: benga
 hubs:

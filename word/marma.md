@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is MARMA a Wordle Word?
-head_title: Is MARMA a Wordle Word? Yes – Valid Guess
+head_title: Is MARMA a Wordle Word? Yes – Valid Guess & Meaning
 word: marma
 description: Yes, MARMA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,10 @@ neighbours:
 trap:
   pattern: MAR_A
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A special, sensitive point on the body.
 prev_word: marly
 next_word: marms
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is HURRA a Wordle Word?
-head_title: Is HURRA a Wordle Word? Yes – Valid Guess
+head_title: Is HURRA a Wordle Word? Yes – Valid Guess & Meaning
 word: hurra
 description: Yes, HURRA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,17 @@ neighbours:
 - durra
 - murra
 - surra
+definitions:
+- pos: interjection
+  defs:
+  - text: 'Alternative form of hurrah: Expressing approval, appreciation, or happiness.'
+    example: Hurra! long live the friendly, generous Dwarfs!
+- pos: noun
+  defs:
+  - text: 'Alternative form of hurrah: Expressing approval, appreciation, or happiness.'
+- pos: verb
+  defs:
+  - text: 'Alternative form of hurrah: Expressing approval, appreciation, or happiness.'
 prev_word: hurly
 next_word: hurry
 hubs:

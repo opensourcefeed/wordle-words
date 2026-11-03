@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ZENDO a Wordle Word?
-head_title: Is ZENDO a Wordle Word? Yes – Valid Guess
+head_title: Is ZENDO a Wordle Word? Yes – Valid Guess & Meaning
 word: zendo
 description: Yes, ZENDO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,15 @@ neighbours:
 anagrams:
 - dozen
 - zoned
+phonetic: "/ˈzɛndəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A hall at a Zen buddhist monastery where formal seated meditation (zazen)
+      is practiced.
+    example: In the zendo, she settled herself in her teacher’s old seat and looked
+      out over the room at the rows of meditators who were settling on their cushions,
+      turning to face the smooth, white walls.
 prev_word: zeins
 next_word: zerda
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ABRIM a Wordle Word?
-head_title: Is ABRIM a Wordle Word? Yes – Valid Guess
+head_title: Is ABRIM a Wordle Word? Yes – Valid Guess & Meaning
 word: abrim
 description: Yes, ABRIM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,15 @@ anagrams:
 - imbar
 - mbari
 - mbira
+phonetic: "/əˈbɹɪm/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Brimming, full to the brim.
+    example: the stand-place / Of carriages a-brim with Florence Beauties
+- pos: adverb
+  defs:
+  - text: Brimming, full to the brim.
 prev_word: abray
 next_word: abrin
 hubs:

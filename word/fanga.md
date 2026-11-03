@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is FANGA a Wordle Word?
-head_title: Is FANGA a Wordle Word? Yes – Valid Guess
+head_title: Is FANGA a Wordle Word? Yes – Valid Guess & Meaning
 word: fanga
 description: Yes, FANGA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,6 +33,11 @@ neighbours:
 trap:
   pattern: _ANGA
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A traditional Portuguese dry measure, equal to about 50–75 liters at different
+      places and times.
 prev_word: fanes
 next_word: fango
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TRECK a Wordle Word?
-head_title: Is TRECK a Wordle Word? Yes – Valid Guess
+head_title: Is TRECK a Wordle Word? Yes – Valid Guess & Meaning
 word: treck
 description: Yes, TRECK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,13 @@ neighbours:
 - wreck
 - dreck
 - trock
+definitions:
+- pos: noun
+  defs:
+  - text: 'Archaic form of trek: A journey by ox wagon.'
+- pos: verb
+  defs:
+  - text: 'Archaic form of trek: A journey by ox wagon.'
 prev_word: treat
 next_word: treed
 hubs:

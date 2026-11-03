@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PREOP a Wordle Word?
-head_title: Is PREOP a Wordle Word? Yes – Valid Guess
+head_title: Is PREOP a Wordle Word? Yes – Valid Guess & Meaning
 word: preop
 description: Yes, PREOP is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,6 +25,13 @@ stats:
   starter_top_percent: 39
 neighbours:
 - preon
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Alternative form of pre-op: Happening before an operation.'
+- pos: noun
+  defs:
+  - text: 'Alternative form of pre-op: Happening before an operation.'
 prev_word: preon
 next_word: preps
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ORBED a Wordle Word?
-head_title: Is ORBED a Wordle Word? Yes – Valid Guess
+head_title: Is ORBED a Wordle Word? Yes – Valid Guess & Meaning
 word: orbed
 description: Yes, ORBED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,14 @@ anagrams:
 - borde
 - bored
 - robed
+phonetic: "/ˈɔː(ɹ)bd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having the form of an orb; round; spherical.
+    example: |-
+      Orbed is the moon and bright,
+       And the stars they glisten, glisten,
 prev_word: orbat
 next_word: orbic
 hubs:

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is EXING a Wordle Word?
-head_title: Is EXING a Wordle Word? Yes – Valid Guess
+head_title: Is EXING a Wordle Word? Yes – Valid Guess & Meaning
 word: exing
 description: Yes, EXING is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,11 @@ neighbours:
 - ehing
 - ering
 - exine
+phonetic: "/ˈɛksɪŋ/"
+definitions:
+- pos: verb
+  defs:
+  - text: Present participle and gerund of ex
 prev_word: exine
 next_word: exist
 hubs:

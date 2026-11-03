@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TACTS a Wordle Word?
-head_title: Is TACTS a Wordle Word? Yes – Valid Guess
+head_title: Is TACTS a Wordle Word? Yes – Valid Guess & Meaning
 word: tacts
 description: Yes, TACTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,6 +39,13 @@ anagrams:
 trap:
   pattern: TA_TS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of tact: Sensitive mental touch; special skill or faculty; keen
+      perception or discernment; ready power of appreciating and doing what is required
+      by circumstances; the ability to say the right thing and avoid statements that
+      will give offence or pain even if true.'
 prev_word: tacos
 next_word: tadah
 hubs:

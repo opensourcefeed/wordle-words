@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CANGS a Wordle Word?
-head_title: Is CANGS a Wordle Word? Yes – Valid Guess
+head_title: Is CANGS a Wordle Word? Yes – Valid Guess & Meaning
 word: cangs
 description: Yes, CANGS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,10 @@ neighbours:
 trap:
   pattern: _ANGS
   count: 15
+definitions:
+- pos: noun
+  defs:
+  - text: 'Plural of cang: Alternative form of cangue (“type of pillory”).'
 prev_word: canes
 next_word: canid
 hubs:

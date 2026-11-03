@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is LOURY a Wordle Word?
-head_title: Is LOURY a Wordle Word? Yes – Valid Guess
+head_title: Is LOURY a Wordle Word? Yes – Valid Guess & Meaning
 word: loury
 description: Yes, LOURY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,11 @@ neighbours:
 - loure
 - lours
 - lowry
+phonetic: "/ˈlaʊəɹi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Alternative form of lowery: Dark and gloomy; threatening; lowering.'
 prev_word: lours
 next_word: louse
 hubs:

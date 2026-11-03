@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RESUS a Wordle Word?
-head_title: Is RESUS a Wordle Word? Yes – Valid Guess
+head_title: Is RESUS a Wordle Word? Yes – Valid Guess & Meaning
 word: resus
 description: Yes, RESUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,6 +36,13 @@ anagrams:
 - suers
 - sures
 - users
+definitions:
+- pos: noun
+  defs:
+  - text: 'Clipping of resuscitation: The act of resuscitating.'
+    example: Some patients survived such resuses – the slim chances of you making
+      it back from a cardiorespiratory arrest are slightly better if it happens while
+      you're in hospital.
 prev_word: resue
 next_word: retag
 hubs:

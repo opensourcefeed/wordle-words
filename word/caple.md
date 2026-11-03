@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CAPLE a Wordle Word?
-head_title: Is CAPLE a Wordle Word? Yes – Valid Guess
+head_title: Is CAPLE a Wordle Word? Yes – Valid Guess & Meaning
 word: caple
 description: Yes, CAPLE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,6 +29,11 @@ neighbours:
 - carle
 anagrams:
 - place
+phonetic: "/ˈkeɪp(ə)l/"
+definitions:
+- pos: noun
+  defs:
+  - text: A horse.
 prev_word: capiz
 next_word: capon
 hubs:

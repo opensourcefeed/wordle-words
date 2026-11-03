@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SEPIC a Wordle Word?
-head_title: Is SEPIC a Wordle Word? Yes – Valid Guess
+head_title: Is SEPIC a Wordle Word? Yes – Valid Guess & Meaning
 word: sepic
 description: Yes, SEPIC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,6 +27,12 @@ neighbours:
 anagrams:
 - spice
 - epics
+phonetic: "/ˈsiːpɪk/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or pertaining to sepia; done in sepia.
+    example: a sepic drawing
 prev_word: sepia
 next_word: sepoy
 hubs:

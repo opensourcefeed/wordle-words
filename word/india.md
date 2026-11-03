@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is INDIA a Wordle Word?
-head_title: Is INDIA a Wordle Word? Yes – Valid Guess
+head_title: Is INDIA a Wordle Word? Yes – Valid Guess & Meaning
 word: india
 description: Yes, INDIA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,6 +24,10 @@ stats:
   starter_top_percent: 69
 neighbours:
 - indie
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative letter-case form of India from the NATO/ICAO Phonetic Alphabet.
 prev_word: index
 next_word: indie
 hubs:

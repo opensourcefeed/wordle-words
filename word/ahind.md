@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is AHIND a Wordle Word?
-head_title: Is AHIND a Wordle Word? Yes – Valid Guess
+head_title: Is AHIND a Wordle Word? Yes – Valid Guess & Meaning
 word: ahind
 description: Yes, AHIND is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,12 @@ neighbours:
 - ahint
 anagrams:
 - handi
+phonetic: "/əˈhaɪnd/"
+definitions:
+- pos: preposition
+  defs:
+  - text: Behind
+    example: "\"Watch was drunk; I crawled down ahind the whiskey."
 prev_word: ahigh
 next_word: ahing
 hubs:

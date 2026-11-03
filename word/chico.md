@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is CHICO a Wordle Word?
-head_title: Is CHICO a Wordle Word? Yes – Valid Guess
+head_title: Is CHICO a Wordle Word? Yes – Valid Guess & Meaning
 word: chico
 description: Yes, CHICO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,6 +37,12 @@ neighbours:
 trap:
   pattern: CHI_O
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A Latin-American boy; a Latino.
+  - text: The fruit of the sapodilla, Manilkara zapota.
+  - text: Sweet corn that has been cooked and dried on the cob.
 prev_word: chick
 next_word: chics
 hubs:

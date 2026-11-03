@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SUBBY a Wordle Word?
-head_title: Is SUBBY a Wordle Word? Yes – Valid Guess
+head_title: Is SUBBY a Wordle Word? Yes – Valid Guess & Meaning
 word: subby
 description: Yes, SUBBY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,6 +34,16 @@ anagrams:
 trap:
   pattern: _UBBY
   count: 10
+phonetic: "/ˈsʌbi/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Alternative form of subbie: A subcontractor.'
+- pos: adjective
+  defs:
+  - text: Submissive (in regard to BDSM roles).
+    example: That pretty little sub, Kelly, who'd been with Master Thomas for months,
+      was laughing and flirting — […] Kelly wasn't acting very subby, […]
 prev_word: subas
 next_word: suber
 hubs:

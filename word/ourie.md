@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OURIE a Wordle Word?
-head_title: Is OURIE a Wordle Word? Yes – Valid Guess
+head_title: Is OURIE a Wordle Word? Yes – Valid Guess & Meaning
 word: ourie
 description: Yes, OURIE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,6 +30,11 @@ neighbours:
 - oorie
 - outie
 - owrie
+definitions:
+- pos: adjective
+  defs:
+  - text: Chill; having the sensation of cold; drooping; shivering.
+  - text: Bleak; melancholy.
 prev_word: ourey
 next_word: ousel
 hubs:

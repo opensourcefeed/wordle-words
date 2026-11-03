@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PRUNT a Wordle Word?
-head_title: Is PRUNT a Wordle Word? Yes – Valid Guess
+head_title: Is PRUNT a Wordle Word? Yes – Valid Guess & Meaning
 word: prunt
 description: Yes, PRUNT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,6 +28,12 @@ neighbours:
 - prent
 - pruno
 - pruny
+phonetic: "/pɹʌnt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small piece of glass fused to the main body of a piece of glasswork and
+      then shaped or pressed, for decoration
 prev_word: pruno
 next_word: pruny
 hubs:

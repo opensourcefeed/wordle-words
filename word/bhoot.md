@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is BHOOT a Wordle Word?
-head_title: Is BHOOT a Wordle Word? Yes – Valid Guess
+head_title: Is BHOOT a Wordle Word? Yes – Valid Guess & Meaning
 word: bhoot
 description: Yes, BHOOT is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,6 +26,10 @@ neighbours:
 - whoot
 anagrams:
 - booth
+definitions:
+- pos: noun
+  defs:
+  - text: A supernatural creature, usually the ghost of a deceased person.
 prev_word: bhels
 next_word: bhuna
 hubs:
