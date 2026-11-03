@@ -20,14 +20,15 @@ None of the local work has shipped, and the current local config would break the
 - [x] **Replace hard-coded `href="/"` with `{{ '/' | relative_url }}`** in `_includes/header.html` and `_layouts/word.html`. Today "Back to All Words" goes to the opensourcefeed.org homepage. (H, S)
 - [x] **Do NOT delete the 5,727 "skipped" word pages** (the uncommitted `D word/*.md`). They are live URLs today, and the home page links to all 14,855 words, so deleting them creates thousands of internal 404s. Generate a page for **every** word in `_data/wordle-words.yml`. A definition is optional, because the Wordle data from P1 carries the page. (H, M)
 - [x] **Deploy, then verify in production**: CSS loads, `/wordle-words/sitemap.xml` returns 200 (it returns 404 today), and the canonical URLs are correct. (H, S)
-- [ ] **Google Search Console**: add the property and submit `https://www.opensourcefeed.org/wordle-words/sitemap.xml`. Also add a `Sitemap:` line for it in the main site's `robots.txt`. (H, S)
-- [ ] **Trust and compliance pages** (H, S)
-  - Replace the boilerplate `about.markdown` (it still has the Minima/Jekyll placeholder text).
-  - Add a Privacy Policy page. AdSense requires one.
-  - Add a Google-certified consent banner (CMP) for EEA/UK traffic. AdSense requires this for those regions.
-  - Add an attribution line for the definitions: dictionaryapi.dev serves Wiktionary content under **CC BY-SA**.
-  - Make the footer brand consistent ("Tahrik Studio" vs OpenSourceFeed).
-- [ ] **Offensive words**: about 3+ slurs and profanities are in the list. Flag them in data: no ads, `noindex`, and no example sentences. This protects AdSense standing. (M, S)
+- [ ] **Google Search Console** *(your action, needs account access)*: add the property and submit `https://www.opensourcefeed.org/wordle-words/sitemap.xml`. Also add `Sitemap: https://www.opensourcefeed.org/wordle-words/sitemap.xml` to the main site's `robots.txt` (that file lives in the main site repo; crawlers ignore `/wordle-words/robots.txt`). (H, S)
+- [x] **Trust and compliance pages** (H, S)
+  - [x] Rewrote `about.markdown`: what the site is, word-list and definition sources, who runs it, contact, NYT disclaimer.
+  - [x] Privacy Policy: footer links to the main site's existing `/privacy-policy/`, which already covers AdSense, Google cookies and Ahrefs.
+  - [ ] *(your action)* Confirm the Google-certified consent message (CMP) for EEA/UK is turned on in AdSense under **Privacy & messaging**. That setting is per account, so it's not set in this repo.
+  - [x] Attribution line on every word page with a definition (Wiktionary via the Free Dictionary API, CC BY-SA).
+  - [x] Footer: About, Privacy Policy and OpenSourceFeed links, an NYT trademark disclaimer, and a current-year "© Tahrik Studio" (same owner name as the main site).
+  - [x] Added `jekyll-seo-tag` (canonical, meta description, Open Graph and Twitter tags), and made word-page canonical and sitemap URLs extensionless (`/word/tiger`).
+- [x] **Offensive words**: 60 slurs, strong profanities and explicit sexual terms are listed in `_data/sensitive-words.yml`. Their pages have no ads, a `noindex` tag and no sitemap entry. To keep the page flags in sync, run `ruby scripts/flag_sensitive_words.rb`; `scripts/validate_words.rb` checks it. Review the list from time to time. (M, S)
 
 ## P1 – Answer the search intent better than competitors
 
@@ -38,7 +39,7 @@ Competitors such as fiveletterwords.io already show all three. A bare "Yes, it's
   - `<title>Is TIGER a Wordle Word? Yes – Valid Guess, Answer History & Meaning</title>`
   - Meta description with the direct answer in the first 150 chars.
   - `<h1>Is TIGER a Wordle word?</h1>`, followed immediately by a one-line answer box (✅ Valid guess · ✅/❌ Possible answer · 📅 Past answer #NNN on DATE).
-  - Add `jekyll-seo-tag` for canonical, Open Graph and Twitter tags.
+  - Per-word meta descriptions (`jekyll-seo-tag` is in place, but word pages currently fall back to the site description).
 - [ ] **Add Wordle status data** (H, M)
   - Split the list into *answer pool* (about 2.3k) and *allowed guesses only*.
   - Add a `past_answers.yml` file (date, puzzle #, word). Make the update scriptable.

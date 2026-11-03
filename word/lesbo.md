@@ -2,6 +2,8 @@
 layout: word
 title: lesbo
 word: lesbo
+sensitive: true
+sitemap: false
 meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈlɛzbəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Lesbian.</li></ul></div></div>"
 ---
 

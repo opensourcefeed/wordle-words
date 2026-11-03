@@ -56,6 +56,9 @@ unless invalid.empty? && duplicates.empty?
   abort "Refusing to generate pages. Invalid entries: #{invalid.inspect}, duplicates: #{duplicates.inspect}"
 end
 
+# Sensitive words get no ads and are kept out of search (see scripts/flag_sensitive_words.rb).
+$sensitive_words = YAML.load_file('_data/sensitive-words.yml')['sensitive-words'].map(&:to_s)
+
 # Create a directory to store the generated pages
 FileUtils.mkdir_p('word')
 
@@ -94,6 +97,7 @@ def process_word(word, index, processed_words, mutex)
     # Quote values so words like "false" stay strings in front matter.
     f.write("title: \"#{word}\"\n")
     f.write("word: \"#{word}\"\n")
+    f.write("sensitive: true\nsitemap: false\n") if $sensitive_words.include?(word)
     # Escape backslashes first (definitions can contain LaTeX like \operatorname), then quotes.
     f.write("meaning: \"#{html_content.gsub('\\') { '\\\\' }.gsub('"') { '\\"' }}\"\n")
     f.write("---\n")

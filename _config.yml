@@ -1,8 +1,11 @@
 title: Wordle Words
 email: contact.opensourcefeed@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  List of all words used in Wordle puzzle - together with it's meaning
+  Check whether any word is a valid Wordle word. Browse all 14,855 accepted
+  five-letter Wordle words, with meanings.
 twitter_username: opensourcefeed
+twitter:
+  username: opensourcefeed
 github_username:  LibreTechie
 
 # Served at https://www.opensourcefeed.org/wordle-words
@@ -14,6 +17,15 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Word pages are served without ".html" (/word/tiger), which is how the site
+# links to them; this keeps canonical and sitemap URLs the same.
+defaults:
+  - scope:
+      path: "word"
+    values:
+      permalink: /word/:basename
 
 sass:
   sass_dir: _sass

@@ -1,0 +1,67 @@
+# Valid Wordle words whose pages should carry no ads and be kept out of search
+# (slurs, strong profanity, explicit sexual terms). Protects AdSense standing.
+# After editing, run: ruby scripts/flag_sensitive_words.rb
+sensitive-words:
+  # Slurs (ethnic, religious, sexual orientation, disability)
+  - boong
+  - chink
+  - coons
+  - dagos
+  - darky
+  - dykes
+  - faggy
+  - fagot
+  - gippo
+  - gooks
+  - gypos
+  - gyppo
+  - hebes
+  - homos
+  - honky
+  - jewed
+  - kafir
+  - kikes
+  - kraut
+  - lesbo
+  - lezes
+  - lezza
+  - lezzy
+  - mongs
+  - nancy
+  - negro
+  - niger
+  - nigga
+  - pikey
+  - poofs
+  - poofy
+  - sambo
+  - spazz
+  - spick
+  - spics
+  - spiks
+  - squaw
+  - tards
+  - wigga
+  # Strong profanity and insults
+  - bitch
+  - cunts
+  - fucks
+  - shite
+  - shits
+  - skank
+  - sluts
+  - twats
+  - wanks
+  - wanky
+  - whore
+  # Explicit sexual terms
+  - clits
+  - cooze
+  - dicks
+  - dildo
+  - felch
+  - minge
+  - porno
+  - porny
+  - quims
+  - shtup

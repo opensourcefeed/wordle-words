@@ -12,7 +12,15 @@ layout: default
             <div class="meaning">
                 {{page.meaning}}
             </div>
+            {% if page.meaning %}
+            <p class="attribution">
+                Definition from <a href="https://en.wiktionary.org/wiki/{{ page.word }}" rel="nofollow">Wiktionary</a>
+                via the <a href="https://dictionaryapi.dev/" rel="nofollow">Free Dictionary API</a>,
+                available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="license nofollow">CC BY-SA</a> license.
+            </p>
+            {% endif %}
         </article>
+        {% unless page.sensitive %}
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6380671811722843"
             crossorigin="anonymous"></script>
         <!-- Wordle Words - Word Info -->
@@ -25,6 +33,7 @@ layout: default
         <script>
             (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
+        {% endunless %}
         &nbsp;
         <div class="text-center">
             <a class="btn btn-primary" href="{{ '/' | relative_url }}">&larr;&thinsp;&thinsp;Back to All Words</a>

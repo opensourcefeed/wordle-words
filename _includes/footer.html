@@ -1,3 +1,10 @@
 <footer>
-    <p>© 2025 Tahrik Studio</p>
+    <nav class="footer-links" aria-label="Footer">
+        <a href="{{ '/' | relative_url }}">All Wordle Words</a>
+        <a href="{{ '/about/' | relative_url }}">About</a>
+        <a href="/privacy-policy/">Privacy Policy</a>
+        <a href="/">OpenSourceFeed</a>
+    </nav>
+    <p class="disclaimer">Not affiliated with The New York Times. Wordle is a trademark of The New York Times Company.</p>
+    <p>&copy; {{ site.time | date: '%Y' }} Tahrik Studio</p>
 </footer>

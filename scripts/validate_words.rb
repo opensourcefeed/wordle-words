@@ -7,6 +7,7 @@
 # Exits with status 1 if any check fails.
 
 require 'yaml'
+require 'set'
 
 DATA_FILE = '_data/wordle-words.yml'
 PAGES_DIR = 'word'
@@ -23,6 +24,9 @@ end
 words = raw.map(&:to_s)
 words.tally.each { |w, c| errors << "#{DATA_FILE}: duplicate word #{w} (#{c}x)" if c > 1 }
 word_set = words.to_set
+
+sensitive = YAML.load_file('_data/sensitive-words.yml')['sensitive-words'].map(&:to_s).to_set
+(sensitive - word_set).sort.each { |w| errors << "_data/sensitive-words.yml: #{w} is not in #{DATA_FILE}" }
 
 # 2. Optional reference list (for example the current official list).
 if (ref_path = ARGV[0])
@@ -51,6 +55,10 @@ Dir.glob(File.join(PAGES_DIR, '*')).sort.each do |path|
   rescue Psych::SyntaxError => e
     errors << "#{path}: invalid front matter YAML (#{e.problem})"
     next
+  end
+  flagged = fm['sensitive'] == true && fm['sitemap'] == false
+  if sensitive.include?(name) != flagged
+    errors << "#{path}: sensitive flags out of sync; run ruby scripts/flag_sensitive_words.rb"
   end
   %w[word title].each do |key|
     value = fm[key]
