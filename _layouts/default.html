@@ -7,17 +7,17 @@
     <title>{% if page.head_title %}{{ page.head_title }}{% else %}{{ page.title }} | All Wordle Words{% endif %}</title>
     {% if page.sensitive %}<meta name="robots" content="noindex, follow">{% endif %}
     {% seo title=false %}
+    {%- include_cached head-icons.html %}
     {% include_cached inline-css.html %}
 </head>
 
 <body>
-    {% include header.html %} 
+    {% include header.html %}
     <main class="container">
         {{ content }}
     </main>
     {% include footer.html %}
     {% include tracking.html %}
-    <script src="{{ '/assets/main.js' | relative_url }}"></script>
 </body>
 
 </html>

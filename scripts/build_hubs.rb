@@ -57,10 +57,12 @@ def ad
 end
 
 $written = []
-def write_page(path, permalink:, title:, short:, description:, crumbs:, body:)
+# filter: show the sticky "find a word on this page" bar (pages that list words).
+def write_page(path, permalink:, title:, short:, description:, crumbs:, body:, filter: true)
   FileUtils.mkdir_p(File.dirname(path))
   fm = { 'layout' => 'hub', 'title' => title, 'short' => short, 'description' => description,
          'permalink' => permalink, 'crumbs' => crumbs }
+  fm['filter'] = true if filter
   File.write(path, "#{fm.to_yaml}---\n#{body}")
   $written << path
 end
@@ -220,7 +222,7 @@ body << %(<section><h2>Words ending in</h2>#{links(LETTERS.select { |l| WORDS.an
 body << %(<section><h2>Words containing</h2>#{links(letter_links.call(->(l) { HubRules.contain_url(l) })).sub('hub-links', 'hub-links letters')}</section>)
 body << %(<section><h2>Starting with two letters</h2>#{links(PREFIXES.sort.map { |p| [HubRules.start_url(p), p.upcase] }).sub('hub-links', 'hub-links letters')}</section>)
 body << %(<section><h2>Ending in two letters</h2>#{links(SUFFIXES.sort.map { |s| [HubRules.end_url(s), "-#{s.upcase}"] }).sub('hub-links', 'hub-links letters')}</section>)
-write_page('browse.html', permalink: '/browse/', title: 'Browse All Wordle Words', short: 'Browse', crumbs: [],
+write_page('browse.html', permalink: '/browse/', title: 'Browse All Wordle Words', short: 'Browse', crumbs: [], filter: false,
            description: "Browse all #{n(all_words.size)} valid Wordle words by first letter, last letter, letters they contain, and past answers.",
            body: body)
 

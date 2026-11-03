@@ -10,12 +10,24 @@ layout: default
 
 <article class="hub">
     <h1>{{ page.title }}</h1>
+    {%- if page.filter %}
+    <div class="list-filter">
+        <form role="search" data-list-filter data-base="{{ '/word/' | relative_url }}">
+            <label for="list-filter-input" class="visually-hidden">Find a word on this page</label>
+            <input id="list-filter-input" class="form-control" type="search" maxlength="5" autocomplete="off"
+                placeholder="Find a word on this page" autocapitalize="none" spellcheck="false" enterkeyhint="go">
+            <button class="btn btn-primary" type="submit">Go</button>
+        </form>
+        <p class="filter-status" aria-live="polite"></p>
+    </div>
+    {%- endif %}
     {{ content }}
     <div class="text-center back-link">
         <a class="btn btn-primary" href="{{ '/browse/' | relative_url }}">Browse all word lists</a>
     </div>
 </article>
 
+{% if page.filter %}<script src="{{ '/assets/list-filter.js' | relative_url }}" defer></script>{% endif %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

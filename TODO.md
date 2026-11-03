@@ -73,12 +73,12 @@ The home page's word list is built entirely by JavaScript from 120 KB of inline 
 ## P3 – User experience, device friendliness and speed
 
 - [x] Dropped the Bootstrap CDN (~230 KB CSS, ~30 KB gzipped, render-blocking). `_includes/site.scss` now defines only what the site uses (reset, container, navbar, buttons, form input, pagination, utilities) plus the site styles: 5.9 KB minified, ~2 KB gzipped. It is compiled once per build and inlined on every page through `{% include_cached inline-css.html %}`, so pages make no stylesheet request. (M, S)
-- [ ] Remove the empty `assets/main.js` request. Load `home.js` with `defer`. (L, S)
-- [ ] Reserve a fixed min-height for ad slots to avoid layout shift (CLS). Keep only one ad above the fold on mobile. (M, S)
-- [ ] Mobile: 48 px tap targets on word tiles, a sticky search on the browse pages, and replace the 15-button pagination with prev/next plus a page select. (M, S)
-- [ ] Add dark mode (`prefers-color-scheme`), a favicon and touch icons, and a `theme-color` meta tag. (L, S)
-- [ ] Accessibility: a label on the search input, a visible focus state, and colour contrast that passes WCAG AA. (M, S)
-- [ ] Target Lighthouse mobile ≥ 90 for Performance, SEO and Accessibility on the home page and a word page. (M, S)
+- [x] Removed the empty `assets/main.js` request. (`home.js` was already replaced by the deferred `checker.js` in P2.) (L, S)
+- [x] Ad slots reserve the space AdSense actually uses, measured on the live site: a viewport-wide square under 500 px (`min-height: 100vw`), 280 px above. Home CLS went from 0.137 to 0. Each page has one in-content ad. AdSense Auto ads, if turned on in the AdSense account, can still add more. (M, S)
+- [x] Mobile: 48 px tap targets on word chips, word grids, letter links and prev/next; 44 px on nav, footer, buttons and inputs. Every word-list hub has a sticky "Find a word on this page" filter (`assets/list-filter.js`) that narrows the list as you type and opens a word's page on Go. The 15-button pagination went away with the P2 static hubs. (M, S)
+- [x] Dark mode via CSS variables and `prefers-color-scheme`; SVG favicon plus 48 px PNG, apple-touch-icon, 192/512 icons with a web manifest; light and dark `theme-color`; header logo. (L, S)
+- [x] Accessibility: labelled inputs, `:focus-visible` outline, and every text colour pair checked against WCAG AA in both themes (the grey breadcrumbs at 4.41:1 and the "Past answer" badge at 3.32:1 used to fail). (M, S)
+- [x] Lighthouse mobile, local build 2026-11-03: home, TIGER and starting-with/T all score 100 for Performance, Accessibility and SEO. Live baseline before the change: home 88/100/100, TIGER 94/96/100. Best practices stays at 79 because of AdSense third-party cookies. (M, S)
 
 ### Premium look and feel
 

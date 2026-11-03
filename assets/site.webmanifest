@@ -1,0 +1,16 @@
+---
+---
+{
+  "name": "Wordle Words",
+  "short_name": "Wordle Words",
+  "description": "Check whether any word is a valid Wordle word.",
+  "start_url": "{{ '/' | relative_url }}",
+  "scope": "{{ '/' | relative_url }}",
+  "display": "browser",
+  "background_color": "#f8f8f8",
+  "theme_color": "#212529",
+  "icons": [
+    { "src": "{{ '/assets/icon-192.png' | relative_url }}", "sizes": "192x192", "type": "image/png" },
+    { "src": "{{ '/assets/icon-512.png' | relative_url }}", "sizes": "512x512", "type": "image/png" }
+  ]
+}
