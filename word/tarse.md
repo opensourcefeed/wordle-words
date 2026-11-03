@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TARSE a Wordle Word?
-head_title: Is TARSE a Wordle Word? Yes – Valid Guess
+head_title: Is TARSE a Wordle Word? Yes – Valid Guess & Meaning
 word: tarse
 description: Yes, TARSE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -48,4 +49,9 @@ anagrams:
 - strae
 - tares
 - taser
+phonetic: "/tɑːɹs/"
+definitions:
+- pos: noun
+  defs:
+  - text: The penis.
 ---

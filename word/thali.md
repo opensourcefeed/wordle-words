@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is THALI a Wordle Word?
-head_title: Is THALI a Wordle Word? Yes – Valid Guess
+head_title: Is THALI a Wordle Word? Yes – Valid Guess & Meaning
 word: thali
 description: Yes, THALI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,4 +30,10 @@ neighbours:
 anagrams:
 - laith
 - lathi
+definitions:
+- pos: noun
+  defs:
+  - text: A round metal platter used to serve food in India.
+  - text: A meal served on such a platter, typically comprising a selection of different
+      dishes presented in small bowls.
 ---

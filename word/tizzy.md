@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is TIZZY a Wordle Word?
-head_title: 'Is TIZZY a Wordle Word? Yes – Past Answer #1493'
+head_title: 'Is TIZZY a Wordle Word? Yes – Past Answer #1493 & Meaning'
 word: tizzy
 description: Yes, TIZZY is a valid Wordle word. It was the Wordle answer on July 21,
-  2025 (#1493). See its starter rating and similar words.
+  2025 (#1493). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on July 21, 2025 (#1493).
 past_answers:
@@ -30,4 +30,9 @@ neighbours:
 - fizzy
 - bizzy
 - mizzy
+definitions:
+- pos: noun
+  defs:
+  - text: A state of nervous excitement, confusion, or distress; a dither.
+  - text: A sixpence; a tester.
 ---

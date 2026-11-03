@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STIES a Wordle Word?
-head_title: Is STIES a Wordle Word? Yes – Valid Guess
+head_title: Is STIES a Wordle Word? Yes – Valid Guess & Meaning
 word: sties
 description: Yes, STIES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,4 +39,22 @@ anagrams:
 trap:
   pattern: S_IES
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A pen or enclosure for swine.
+  - text: A messy, dirty or debauched place.
+- pos: verb
+  defs:
+  - text: To place in, or as if in, a sty
+  - text: To live in a sty, or any messy or dirty place
+- pos: noun
+  defs:
+  - text: A ladder.
+- pos: verb
+  defs:
+  - text: To ascend, rise up, climb.
+- pos: noun
+  defs:
+  - text: An inflammation of the eyelid.
 ---

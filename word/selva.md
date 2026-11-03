@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SELVA a Wordle Word?
-head_title: Is SELVA a Wordle Word? Yes – Valid Guess
+head_title: Is SELVA a Wordle Word? Yes – Valid Guess & Meaning
 word: selva
 description: Yes, SELVA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,4 +35,9 @@ anagrams:
 - vales
 - valse
 - veals
+phonetic: "/ˈsɛlvə/"
+definitions:
+- pos: noun
+  defs:
+  - text: Heavily forested ground in the Amazon basin.
 ---

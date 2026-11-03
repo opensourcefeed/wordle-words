@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SLOES a Wordle Word?
-head_title: Is SLOES a Wordle Word? Yes – Valid Guess
+head_title: Is SLOES a Wordle Word? Yes – Valid Guess & Meaning
 word: sloes
 description: Yes, SLOES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,4 +43,11 @@ anagrams:
 trap:
   pattern: SLO_S
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: The small, bitter, wild fruit of the blackthorn (Prunus spinosa).
+  - text: The tree Prunus spinosa.
+  - text: Any of various other plants of the genus Prunus, as a shrub or small tree,
+      Prunus alleghaniensis, bearing dark-purple fruit.
 ---

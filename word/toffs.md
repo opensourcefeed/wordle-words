@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TOFFS a Wordle Word?
-head_title: Is TOFFS a Wordle Word? Yes – Valid Guess
+head_title: Is TOFFS a Wordle Word? Yes – Valid Guess & Meaning
 word: toffs
 description: Yes, TOFFS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,4 +37,10 @@ neighbours:
 trap:
   pattern: _OFFS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: An elegantly dressed person.
+  - text: A person of the upper class, or with pretensions to it, who usually communicates
+      an air of superiority.
 ---

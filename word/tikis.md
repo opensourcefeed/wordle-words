@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TIKIS a Wordle Word?
-head_title: Is TIKIS a Wordle Word? Yes – Valid Guess
+head_title: Is TIKIS a Wordle Word? Yes – Valid Guess & Meaning
 word: tikis
 description: Yes, TIKIS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,4 +31,9 @@ neighbours:
 - tipis
 - titis
 - wikis
+definitions:
+- pos: noun
+  defs:
+  - text: Carved talisman in humanoid form, common to the cultures of the Pacific
+      Ocean.
 ---

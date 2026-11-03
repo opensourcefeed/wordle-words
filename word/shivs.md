@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SHIVS a Wordle Word?
-head_title: Is SHIVS a Wordle Word? Yes – Valid Guess
+head_title: Is SHIVS a Wordle Word? Yes – Valid Guess & Meaning
 word: shivs
 description: Yes, SHIVS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,4 +34,15 @@ neighbours:
 trap:
   pattern: SHI_S
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A knife, especially a makeshift one fashioned from something not normally
+      used as a weapon (like a plastic spoon or a toothbrush).
+  - text: A particular woody by-product of processing flax or hemp.
+- pos: verb
+  defs:
+  - text: To stab someone with a shiv.
+  - text: "(by extension) To stab someone with anything not normally used as a stabbing
+      weapon."
 ---

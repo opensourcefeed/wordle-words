@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SUCKY a Wordle Word?
-head_title: Is SUCKY a Wordle Word? Yes – Valid Guess
+head_title: Is SUCKY a Wordle Word? Yes – Valid Guess & Meaning
 word: sucky
 description: Yes, SUCKY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,4 +32,13 @@ anagrams:
 trap:
   pattern: _UCKY
   count: 6
+phonetic: "/ˈsʌki/"
+definitions:
+- pos: noun
+  defs:
+  - text: A pacifier.
+- pos: adjective
+  defs:
+  - text: Being something which sucks, which is unpleasant or inferior.
+    example: That comedian was pretty sucky on TV last night.
 ---

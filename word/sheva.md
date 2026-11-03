@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SHEVA a Wordle Word?
-head_title: Is SHEVA a Wordle Word? Yes – Valid Guess
+head_title: Is SHEVA a Wordle Word? Yes – Valid Guess & Meaning
 word: sheva
 description: Yes, SHEVA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,4 +26,9 @@ neighbours:
 anagrams:
 - shave
 - haves
+definitions:
+- pos: noun
+  defs:
+  - text: A Hebrew nikud vowel sign written as two vertical dots beneath a letter,
+      indicating either the phoneme /ə/ or the complete absence of a vowel.
 ---

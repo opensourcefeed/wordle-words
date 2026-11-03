@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SKELP a Wordle Word?
-head_title: Is SKELP a Wordle Word? Yes – Valid Guess
+head_title: Is SKELP a Wordle Word? Yes – Valid Guess & Meaning
 word: skelp
 description: Yes, SKELP is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,4 +27,14 @@ neighbours:
 anagrams:
 - kelps
 - spelk
+definitions:
+- pos: noun
+  defs:
+  - text: A blow; a smart stroke.
+  - text: A squall; a heavy fall of rain.
+  - text: A large portion.
+- pos: verb
+  defs:
+  - text: To beat or slap.
+  - text: To move briskly along.
 ---

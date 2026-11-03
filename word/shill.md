@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is SHILL a Wordle Word?
-head_title: 'Is SHILL a Wordle Word? Yes – Past Answer #1858'
+head_title: 'Is SHILL a Wordle Word? Yes – Past Answer #1858 & Meaning'
 word: shill
 description: Yes, SHILL is a valid Wordle word. It was the Wordle answer on July 21,
-  2026 (#1858). See its starter rating and similar words.
+  2026 (#1858). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on July 21, 2026 (#1858).
 past_answers:
@@ -37,4 +37,16 @@ neighbours:
 - thill
 anagrams:
 - hills
+phonetic: "/ʃɪl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person paid to endorse a product favourably, while pretending to be impartial.
+  - text: An accomplice at a confidence trick during an auction or gambling game.
+  - text: A house player in a casino.
+- pos: verb
+  defs:
+  - text: To promote or endorse in return for payment, especially dishonestly.
+  - text: To put under cover; to sheal.
+  - text: To shell.
 ---

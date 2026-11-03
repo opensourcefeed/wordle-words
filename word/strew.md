@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is STREW a Wordle Word?
-head_title: 'Is STREW a Wordle Word? Yes – Past Answer #1937'
+head_title: 'Is STREW a Wordle Word? Yes – Past Answer #1937 & Meaning'
 word: strew
 description: Yes, STREW is a valid Wordle word. It was the Wordle answer on October
-  8, 2026 (#1937). See its starter rating and similar words.
+  8, 2026 (#1937). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on October 8, 2026 (#1937).
 past_answers:
@@ -34,4 +34,14 @@ neighbours:
 anagrams:
 - wrest
 - trews
+phonetic: "/stɹuː/"
+definitions:
+- pos: verb
+  defs:
+  - text: "(archaic except strewn) To distribute objects or pieces of something over
+      an area, especially in a random manner."
+    example: to strew sand over a floor
+  - text: "(archaic except strewn) To cover, or lie upon, by having been scattered."
+    example: Leaves strewed the ground.
+  - text: To spread abroad; to disseminate.
 ---

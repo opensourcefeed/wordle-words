@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TENIA a Wordle Word?
-head_title: Is TENIA a Wordle Word? Yes – Valid Guess
+head_title: Is TENIA a Wordle Word? Yes – Valid Guess & Meaning
 word: tenia
 description: Yes, TENIA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,4 +32,12 @@ anagrams:
 - eatin
 - entia
 - tinea
+definitions:
+- pos: noun
+  defs:
+  - text: A ribbon worn in the hair in ancient Greece.
+  - text: "(Doric architecture) A band between the frieze and architrave in the Doric
+      order."
+  - text: Any of several ribbon-like bands of tissue.
+  - text: Any species of the genus Taenia of tapeworms.
 ---

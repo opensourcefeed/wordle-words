@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TASED a Wordle Word?
-head_title: Is TASED a Wordle Word? Yes – Valid Guess
+head_title: Is TASED a Wordle Word? Yes – Valid Guess & Meaning
 word: tased
 description: Yes, TASED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -45,4 +46,9 @@ anagrams:
 trap:
   pattern: _ASED
   count: 7
+phonetic: "/teɪzd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To operate a taser or electroshock stun gun, by using it against a subject
 ---

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TARTS a Wordle Word?
-head_title: Is TARTS a Wordle Word? Yes – Valid Guess
+head_title: Is TARTS a Wordle Word? Yes – Valid Guess & Meaning
 word: tarts
 description: Yes, TARTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,4 +42,18 @@ anagrams:
 trap:
   pattern: _ARTS
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A type of small open pie, or piece of pastry, containing jelly or conserve;
+      a sort of fruit pie.
+- pos: noun
+  defs:
+  - text: A prostitute.
+  - text: By extension, any woman with loose sexual morals.
+- pos: verb
+  defs:
+  - text: To practice prostitution
+  - text: To practice promiscuous sex
+  - text: To dress garishly, ostentatiously, whorishly, or sluttily
 ---

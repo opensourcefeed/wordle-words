@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SHTUP a Wordle Word?
-head_title: Is SHTUP a Wordle Word? Yes – Valid Guess
+head_title: Is SHTUP a Wordle Word? Yes – Valid Guess & Meaning
 word: shtup
 description: Yes, SHTUP is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 sensitive: true
 sitemap: false
 status: guess
@@ -27,4 +28,10 @@ neighbours:
 anagrams:
 - phuts
 - pshut
+phonetic: "/ʃtʊp/"
+definitions:
+- pos: verb
+  defs:
+  - text: To push.
+  - text: To have sex (with).
 ---

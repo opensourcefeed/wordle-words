@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is SOUPY a Wordle Word?
-head_title: 'Is SOUPY a Wordle Word? Yes – Past Answer #1904'
+head_title: 'Is SOUPY a Wordle Word? Yes – Past Answer #1904 & Meaning'
 word: soupy
 description: Yes, SOUPY is a valid Wordle word. It was the Wordle answer on September
-  5, 2026 (#1904). See its starter rating and similar words.
+  5, 2026 (#1904). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on September 5, 2026 (#1904).
 past_answers:
@@ -31,4 +31,10 @@ neighbours:
 - soups
 anagrams:
 - pousy
+phonetic: "/ˈsupi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling soup; creamy.
+  - text: Extravagant sentimental; slushy.
 ---

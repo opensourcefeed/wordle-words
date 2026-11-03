@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SQUAW a Wordle Word?
-head_title: Is SQUAW a Wordle Word? Yes – Valid Guess
+head_title: Is SQUAW a Wordle Word? Yes – Valid Guess & Meaning
 word: squaw
 description: Yes, SQUAW is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 sensitive: true
 sitemap: false
 status: guess
@@ -28,4 +29,9 @@ neighbours:
 - squab
 anagrams:
 - quaws
+phonetic: "/skwɔː/"
+definitions:
+- pos: noun
+  defs:
+  - text: A woman, wife; especially a Native American woman.
 ---

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SCUDO a Wordle Word?
-head_title: Is SCUDO a Wordle Word? Yes – Valid Guess
+head_title: Is SCUDO a Wordle Word? Yes – Valid Guess & Meaning
 word: scudo
 description: Yes, SCUDO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,4 +26,12 @@ neighbours:
 anagrams:
 - docus
 - doucs
+definitions:
+- pos: noun
+  defs:
+  - text: A silver coin and unit of currency of various Italian states from the 16th
+      to the 19th centuries.
+  - text: A former unit of currency in Malta, now the official currency of the Sovereign
+      Military Order of Malta.
+  - text: A unit of currency in 19th-century Bolivia, equal to 16 soles.
 ---

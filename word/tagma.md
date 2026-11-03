@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TAGMA a Wordle Word?
-head_title: Is TAGMA a Wordle Word? Yes – Valid Guess
+head_title: Is TAGMA a Wordle Word? Yes – Valid Guess & Meaning
 word: tagma
 description: Yes, TAGMA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,4 +25,12 @@ neighbours:
 - magma
 - tagua
 - talma
+phonetic: "/ˈtæɡ.mə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A specialized grouping of arthropodan segments, such as the head, the thorax,
+      and the abdomen with a common function.
+  - text: A military unit of battalion or regiment size, in the Byzantine empire of
+      the 8th - 11th centuries.
 ---

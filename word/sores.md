@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SORES a Wordle Word?
-head_title: Is SORES a Wordle Word? Yes – Valid Guess
+head_title: Is SORES a Wordle Word? Yes – Valid Guess & Meaning
 word: sores
 description: Yes, SORES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,4 +42,17 @@ anagrams:
 trap:
   pattern: _ORES
   count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: An injured, infected, inflamed or diseased patch of skin.
+    example: They put ointment and a bandage on the sore.
+  - text: Grief; affliction; trouble; difficulty.
+- pos: noun
+  defs:
+  - text: A group of ducks on land.
+- pos: noun
+  defs:
+  - text: A young hawk or falcon in its first year.
+  - text: A young buck in its fourth year.
 ---

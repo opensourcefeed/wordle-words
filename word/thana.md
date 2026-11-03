@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is THANA a Wordle Word?
-head_title: Is THANA a Wordle Word? Yes – Valid Guess
+head_title: Is THANA a Wordle Word? Yes – Valid Guess & Meaning
 word: thana
 description: Yes, THANA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,4 +32,10 @@ neighbours:
 trap:
   pattern: THAN_
   count: 6
+phonetic: "/ˈtɑːnə/"
+definitions:
+- pos: noun
+  defs:
+  - text: An Indian military outpost.
+  - text: A police station, or a police jurisdiction.
 ---

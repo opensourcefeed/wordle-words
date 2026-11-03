@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SKANK a Wordle Word?
-head_title: Is SKANK a Wordle Word? Yes – Valid Guess
+head_title: Is SKANK a Wordle Word? Yes – Valid Guess & Meaning
 word: skank
 description: Yes, SKANK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 sensitive: true
 sitemap: false
 status: guess
@@ -32,4 +33,14 @@ neighbours:
 trap:
   pattern: S_ANK
   count: 6
+phonetic: "/skæŋk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A lewd and disreputable person, often female, especially an unattractive
+      person with an air of tawdry promiscuity.
+  - text: Anything that is particularly foul, unhygienic or unpleasant.
+- pos: adjective
+  defs:
+  - text: Lewd, vulgar, skanky.
 ---

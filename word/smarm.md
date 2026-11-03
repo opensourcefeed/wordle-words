@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SMARM a Wordle Word?
-head_title: Is SMARM a Wordle Word? Yes – Valid Guess
+head_title: Is SMARM a Wordle Word? Yes – Valid Guess & Meaning
 word: smarm
 description: Yes, SMARM is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,4 +27,14 @@ neighbours:
 - smalm
 anagrams:
 - marms
+definitions:
+- pos: noun
+  defs:
+  - text: Smarmy language or behavior.
+  - text: A style of fan fiction in which characters are warm and caring toward each
+      other but without sexual overtones.
+- pos: verb
+  defs:
+  - text: To fawn, to be unctuous.
+  - text: To address in a fawning and unctuous manner.
 ---

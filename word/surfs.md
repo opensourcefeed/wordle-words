@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SURFS a Wordle Word?
-head_title: Is SURFS a Wordle Word? Yes – Valid Guess
+head_title: Is SURFS a Wordle Word? Yes – Valid Guess & Meaning
 word: surfs
 description: Yes, SURFS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,4 +30,15 @@ neighbours:
 - surfy
 - turfs
 - zurfs
+definitions:
+- pos: noun
+  defs:
+  - text: Waves that break on an ocean shoreline.
+  - text: An instance or session of riding a surfboard in the surf.
+    example: We went of a surf this morning.
+  - text: The bottom of a drain.
+- pos: verb
+  defs:
+  - text: To ride a wave, usually on a surfboard.
+  - text: To browse the Internet, television, etc.
 ---

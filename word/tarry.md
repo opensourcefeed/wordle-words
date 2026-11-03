@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TARRY a Wordle Word?
-head_title: Is TARRY a Wordle Word? Yes – Valid Guess
+head_title: Is TARRY a Wordle Word? Yes – Valid Guess & Meaning
 word: tarry
 description: Yes, TARRY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,4 +36,16 @@ neighbours:
 trap:
   pattern: _ARRY
   count: 6
+phonetic: "/ˈtæ.ɹi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A sojourn.
+- pos: verb
+  defs:
+  - text: To delay; to be late or tardy in beginning or doing anything.
+  - text: To linger in expectation of something or until something is done or happens.
+  - text: To abide, stay or wait somewhere, especially if longer than planned.
+  - text: To stay somewhere temporarily.
+  - text: To wait for; to stay or stop for; to allow to linger.
 ---

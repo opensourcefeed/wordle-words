@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TIMED a Wordle Word?
-head_title: Is TIMED a Wordle Word? Yes – Valid Guess
+head_title: Is TIMED a Wordle Word? Yes – Valid Guess & Meaning
 word: timed
 description: Yes, TIMED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,4 +41,19 @@ anagrams:
 trap:
   pattern: TI_ED
   count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: To measure or record the time, duration, or rate of.
+    example: I used a stopwatch to time myself running around the block.
+  - text: To choose when something begins or how long it lasts.
+    example: The President timed his speech badly, coinciding with the Super Bowl.
+  - text: To keep or beat time; to proceed or move in time.
+  - text: To pass time; to delay.
+  - text: To regulate as to time; to accompany, or agree with, in time of movement.
+  - text: To measure, as in music or harmony.
+- pos: adjective
+  defs:
+  - text: Happening at a certain time.
+  - text: Regulated by time.
 ---

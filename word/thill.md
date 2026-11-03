@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is THILL a Wordle Word?
-head_title: Is THILL a Wordle Word? Yes – Valid Guess
+head_title: Is THILL a Wordle Word? Yes – Valid Guess & Meaning
 word: thill
 description: Yes, THILL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,4 +32,12 @@ neighbours:
 - twill
 anagrams:
 - illth
+phonetic: "/θɪl/"
+definitions:
+- pos: noun
+  defs:
+  - text: One of the two long pieces of wood, extending before a vehicle, between
+      which a horse is hitched; a shaft.
+  - text: The shallow stratum of underclay that lies under a seam of coal; the bottom
+      of a coal-seam.
 ---

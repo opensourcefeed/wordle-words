@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SHITE a Wordle Word?
-head_title: Is SHITE a Wordle Word? Yes – Valid Guess
+head_title: Is SHITE a Wordle Word? Yes – Valid Guess & Meaning
 word: shite
 description: Yes, SHITE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 sensitive: true
 sitemap: false
 status: guess
@@ -38,4 +39,20 @@ anagrams:
 - heist
 - sieth
 - sithe
+phonetic: "/ʃaɪt/"
+definitions:
+- pos: noun
+  defs:
+  - text: Shit; trash; rubbish; nonsense
+    example: Look at all this shite.
+  - text: A foolish or deceitful person.
+    example: He's a useless shite.
+- pos: adjective
+  defs:
+  - text: Bad; awful; shit.
+    example: The film was shite.
+- pos: interjection
+  defs:
+  - text: An expression of annoyance or dismay.
+    example: Shite! I left my wallet at home.
 ---

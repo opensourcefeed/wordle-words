@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SAVIN a Wordle Word?
-head_title: Is SAVIN a Wordle Word? Yes – Valid Guess
+head_title: Is SAVIN a Wordle Word? Yes – Valid Guess & Meaning
 word: savin
 description: Yes, SAVIN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,4 +34,12 @@ anagrams:
 - nivas
 - vinas
 - visna
+definitions:
+- pos: noun
+  defs:
+  - text: The evergreen shrub Juniperus sabina, endemic to Europe, which yields a
+      medicinal oil.
+  - text: The poisonous dried tips of this plant, with anthelmintic properties, used
+      as a drug.
+  - text: The eastern red cedar, Juniperus virginiana, of eastern North America.
 ---

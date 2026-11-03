@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STOUP a Wordle Word?
-head_title: Is STOUP a Wordle Word? Yes – Valid Guess
+head_title: Is STOUP a Wordle Word? Yes – Valid Guess & Meaning
 word: stoup
 description: Yes, STOUP is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,4 +34,12 @@ anagrams:
 - spout
 - pouts
 - putos
+phonetic: "/stuːp/"
+definitions:
+- pos: noun
+  defs:
+  - text: A bucket.
+  - text: A mug or drinking vessel.
+  - text: A receptacle for holy water, especially a basin set at the entrance of a
+      church.
 ---

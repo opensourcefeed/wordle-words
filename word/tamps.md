@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TAMPS a Wordle Word?
-head_title: Is TAMPS a Wordle Word? Yes – Valid Guess
+head_title: Is TAMPS a Wordle Word? Yes – Valid Guess & Meaning
 word: tamps
 description: Yes, TAMPS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,4 +39,12 @@ anagrams:
 trap:
   pattern: _AMPS
   count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: "(blasting) To plug up with clay, earth, dry sand, sod, or other material,
+      as a hole bored in a rock."
+  - text: To drive in or pack down by frequent gentle strokes
+    example: Tamp earth so as to make a smooth place.
+  - text: To reduce the intensity of.
 ---

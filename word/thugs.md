@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is THUGS a Wordle Word?
-head_title: Is THUGS a Wordle Word? Yes – Valid Guess
+head_title: Is THUGS a Wordle Word? Yes – Valid Guess & Meaning
 word: thugs
 description: Yes, THUGS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,4 +25,13 @@ neighbours:
 - thigs
 - thuds
 - trugs
+definitions:
+- pos: noun
+  defs:
+  - text: Someone with an intimidating and unseemly appearance and mannerisms, who
+      treats others violently and roughly, often for hire.
+  - text: One of a band of assassins formerly active in northern India who worshipped
+      Kali and offered their victims to her.
+  - text: In gardening, an over-vigorous plant that spreads and dominates the flowerbed.
+  - text: A punk; a hoodlum; a hooligan.
 ---

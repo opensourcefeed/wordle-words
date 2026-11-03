@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is SCOOT a Wordle Word?
-head_title: 'Is SCOOT a Wordle Word? Yes – Past Answer #1962'
+head_title: 'Is SCOOT a Wordle Word? Yes – Past Answer #1962 & Meaning'
 word: scoot
 description: Yes, SCOOT is a valid Wordle word. It was the Wordle answer on November
-  2, 2026 (#1962). See its starter rating and similar words.
+  2, 2026 (#1962). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on November 2, 2026 (#1962).
 past_answers:
@@ -40,4 +40,22 @@ anagrams:
 trap:
   pattern: S_OOT
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A dollar.
+  - text: A scooter.
+  - text: A sideways shuffling or sliding motion.
+- pos: verb
+  defs:
+  - text: To walk fast; to go quickly; to run away hastily.
+    example: They scooted over to the window.
+  - text: To ride on a scooter.
+  - text: "(of an animal) To move with the forelegs while sitting, so that the floor
+      rubs against its rear end."
+    example: The dog was scooting all over our new carpet.
+  - text: To move sideways (especially along a seat for multiple people), usually
+      to make room for someone else (to sit, stand, etc.).
+    example: Do you mind scooting a bit to the left?
+  - text: To dispatch someone or something at speed.
 ---

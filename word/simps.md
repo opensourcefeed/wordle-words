@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SIMPS a Wordle Word?
-head_title: Is SIMPS a Wordle Word? Yes – Valid Guess
+head_title: Is SIMPS a Wordle Word? Yes – Valid Guess & Meaning
 word: simps
 description: Yes, SIMPS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,4 +38,13 @@ anagrams:
 trap:
   pattern: _IMPS
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A simple person lacking common sense; a fool or simpleton.
+- pos: noun
+  defs:
+  - text: A man who foolishly overvalues and defers to a woman, putting her on a pedestal.
+  - text: "(by extension) Someone who foolishly overvalues someone else and defers
+      to them, putting them on a pedestal."
 ---

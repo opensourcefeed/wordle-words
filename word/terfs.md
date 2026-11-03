@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TERFS a Wordle Word?
-head_title: Is TERFS a Wordle Word? Yes – Valid Guess
+head_title: Is TERFS a Wordle Word? Yes – Valid Guess & Meaning
 word: terfs
 description: Yes, TERFS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,4 +40,17 @@ anagrams:
 trap:
   pattern: _ERFS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: "(see usage notes) A trans-exclusionary radical feminist; a radical feminist
+      who does not consider trans women to be women, and/or thinks they should not
+      be included in female spaces or organisations."
+- pos: noun
+  defs:
+  - text: Abbreviation of telomeric repeat-binding factor.
+  - text: Abbreviation of terrain flight.
+- pos: noun
+  defs:
+  - text: A division of land in India, usually a (small) subdivision of a pargana.
 ---

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TECHS a Wordle Word?
-head_title: Is TECHS a Wordle Word? Yes – Valid Guess
+head_title: Is TECHS a Wordle Word? Yes – Valid Guess & Meaning
 word: techs
 description: Yes, TECHS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,4 +31,11 @@ neighbours:
 - yechs
 anagrams:
 - chest
+definitions:
+- pos: noun
+  defs:
+  - text: Technology
+  - text: Technician
+  - text: Technique
+  - text: "(used in titles) technical college"
 ---

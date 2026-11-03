@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TALAS a Wordle Word?
-head_title: Is TALAS a Wordle Word? Yes – Valid Guess
+head_title: Is TALAS a Wordle Word? Yes – Valid Guess & Meaning
 word: talas
 description: Yes, TALAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,4 +43,11 @@ anagrams:
 trap:
   pattern: TA_AS
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: The currency of Samoa, divided into 100 sene.
+- pos: noun
+  defs:
+  - text: A rhythmic pattern in Indian music.
 ---

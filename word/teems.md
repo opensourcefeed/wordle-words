@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TEEMS a Wordle Word?
-head_title: Is TEEMS a Wordle Word? Yes – Valid Guess
+head_title: Is TEEMS a Wordle Word? Yes – Valid Guess & Meaning
 word: teems
 description: Yes, TEEMS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -44,4 +45,21 @@ anagrams:
 trap:
   pattern: _EEMS
   count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: To be stocked to overflowing.
+  - text: To be prolific; to abound; to be rife.
+    example: Fish teem in this pond.
+  - text: To bring forth young, as an animal; to produce fruit, as a plant; to bear;
+      to be pregnant; to conceive; to multiply.
+- pos: verb
+  defs:
+  - text: To empty.
+  - text: To pour (especially with rain)
+  - text: To pour, as steel, from a melting pot; to fill, as a mould, with molten
+      metal.
+- pos: verb
+  defs:
+  - text: To think fit.
 ---

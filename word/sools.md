@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOOLS a Wordle Word?
-head_title: Is SOOLS a Wordle Word? Yes – Valid Guess
+head_title: Is SOOLS a Wordle Word? Yes – Valid Guess & Meaning
 word: sools
 description: Yes, SOOLS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,4 +41,10 @@ anagrams:
 trap:
   pattern: _OOLS
   count: 10
+definitions:
+- pos: verb
+  defs:
+  - text: To encourage (especially a dog) to attack.
+    example: My neighbour sooled her bull mastiff onto my chihuahua, because she was
+      sick of its yapping and wanted it to meet its demise.
 ---

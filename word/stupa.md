@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STUPA a Wordle Word?
-head_title: Is STUPA a Wordle Word? Yes – Valid Guess
+head_title: Is STUPA a Wordle Word? Yes – Valid Guess & Meaning
 word: stupa
 description: Yes, STUPA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,4 +29,9 @@ anagrams:
 - putas
 - sputa
 - tapus
+phonetic: "/ˈstuːpə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A dome-shaped Buddhist monument, used to house relics of the Lord Buddha.
 ---

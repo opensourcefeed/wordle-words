@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOUGH a Wordle Word?
-head_title: Is SOUGH a Wordle Word? Yes – Valid Guess
+head_title: Is SOUGH a Wordle Word? Yes – Valid Guess & Meaning
 word: sough
 description: Yes, SOUGH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,4 +33,16 @@ neighbours:
 trap:
   pattern: _OUGH
   count: 8
+phonetic: "/saʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A murmuring sound; rushing, rustling, or whistling sound.
+  - text: A gentle breeze; a waft; a breath.
+  - text: A (deep) sigh.
+  - text: A vague rumour.
+  - text: A cant or whining mode of speaking, especially in preaching or praying.
+- pos: verb
+  defs:
+  - text: To make a soft rustling or murmuring sound.
 ---

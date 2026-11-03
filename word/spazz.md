@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SPAZZ a Wordle Word?
-head_title: Is SPAZZ a Wordle Word? Yes – Valid Guess
+head_title: Is SPAZZ a Wordle Word? Yes – Valid Guess & Meaning
 word: spazz
 description: Yes, SPAZZ is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 sensitive: true
 sitemap: false
 status: guess
@@ -24,4 +25,14 @@ stats:
   starter_top_percent: 93
 neighbours:
 - spaza
+definitions:
+- pos: noun
+  defs:
+  - text: A stupid or incompetent person.
+  - text: A hyperactive person.
+  - text: A tantrum, a fit.
+- pos: verb
+  defs:
+  - text: To have a tantrum or fit.
+  - text: To malfunction, go on the fritz.
 ---

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SERFS a Wordle Word?
-head_title: Is SERFS a Wordle Word? Yes – Valid Guess
+head_title: Is SERFS a Wordle Word? Yes – Valid Guess & Meaning
 word: serfs
 description: Yes, SERFS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,4 +37,12 @@ neighbours:
 trap:
   pattern: _ERFS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A partially free peasant of a low hereditary class, attached like a slave
+      to the land owned by a feudal lord and required to perform labour, enjoying
+      minimal legal or customary rights
+  - text: A similar agricultural labourer in 18th and 19th century Europe
+  - text: "(strategy games) a worker unit"
 ---

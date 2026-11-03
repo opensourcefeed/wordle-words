@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SEPAL a Wordle Word?
-head_title: Is SEPAL a Wordle Word? Yes – Valid Guess
+head_title: Is SEPAL a Wordle Word? Yes – Valid Guess & Meaning
 word: sepal
 description: Yes, SEPAL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,4 +37,10 @@ anagrams:
 - salep
 - spale
 - speal
+phonetic: "/ˈsiːp(ə)l/"
+definitions:
+- pos: noun
+  defs:
+  - text: One of the component parts of the calyx, particularly when the sepals in
+      a plant's calyx are not fused into a single structure.
 ---

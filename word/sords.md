@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SORDS a Wordle Word?
-head_title: Is SORDS a Wordle Word? Yes – Valid Guess
+head_title: Is SORDS a Wordle Word? Yes – Valid Guess & Meaning
 word: sords
 description: Yes, SORDS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,4 +40,16 @@ anagrams:
 trap:
   pattern: SOR_S
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A flock of mallards
+- pos: noun
+  defs:
+  - text: A layer of earth into which grass has grown; turf; sod.
+  - text: An expanse of land covered in grass; a lawn or meadow.
+  - text: Skin; covering.
+- pos: noun
+  defs:
+  - text: A homosexual man.
 ---

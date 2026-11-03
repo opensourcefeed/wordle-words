@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RENDS a Wordle Word?
-head_title: Is RENDS a Wordle Word? Yes – Valid Guess
+head_title: Is RENDS a Wordle Word? Yes – Valid Guess & Meaning
 word: rends
 description: Yes, RENDS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,4 +40,12 @@ anagrams:
 trap:
   pattern: _ENDS
   count: 11
+definitions:
+- pos: verb
+  defs:
+  - text: To separate into parts with force or sudden violence; to split; to burst
+    example: Lightning rends an oak.
+  - text: To part or tear off forcibly; to take away by force; to amputate.
+  - text: To be rent or torn; to become parted; to separate; to split.
+    example: Relationships may rend if tempers flare.
 ---

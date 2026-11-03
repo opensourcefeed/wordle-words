@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SKIDS a Wordle Word?
-head_title: Is SKIDS a Wordle Word? Yes – Valid Guess
+head_title: Is SKIDS a Wordle Word? Yes – Valid Guess & Meaning
 word: skids
 description: Yes, SKIDS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,4 +36,27 @@ anagrams:
 trap:
   pattern: SKI_S
   count: 7
+phonetic: "/skɪdz/"
+definitions:
+- pos: noun
+  defs:
+  - text: An out-of-control sliding motion as would result from applying the brakes
+      too hard in a car.
+    example: Just before hitting the guardrail the driver was able to regain control
+      and pull out of the skid.
+  - text: A shoe or clog, as of iron, attached to a chain, and placed under the wheel
+      of a wagon to prevent its turning when descending a steep hill; a drag; a skidpan.
+  - text: "(by extension) A hook attached to a chain, used for the same purpose."
+  - text: A piece of timber or other material used as a support, or to receive pressure.
+- pos: verb
+  defs:
+  - text: To slide in an uncontrolled manner as in a car with the brakes applied too
+      hard.
+    example: They skidded around the corner and accelerated up the street.
+  - text: To protect or support with a skid or skids.
+  - text: To cause to move on skids.
+  - text: To check or halt (wagon wheels, etc.) with a skid.
+- pos: noun
+  defs:
+  - text: A stepchild.
 ---

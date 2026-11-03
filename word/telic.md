@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TELIC a Wordle Word?
-head_title: Is TELIC a Wordle Word? Yes – Valid Guess
+head_title: Is TELIC a Wordle Word? Yes – Valid Guess & Meaning
 word: telic
 description: Yes, TELIC is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,4 +29,11 @@ neighbours:
 - telia
 anagrams:
 - licet
+phonetic: "/ˈtiːlɪk/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Tending or directed towards a goal or specific end.
+  - text: "(grammar) That expresses an end or purpose."
+  - text: That expresses the perfective aspect.
 ---

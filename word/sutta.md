@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SUTTA a Wordle Word?
-head_title: Is SUTTA a Wordle Word? Yes – Valid Guess
+head_title: Is SUTTA a Wordle Word? Yes – Valid Guess & Meaning
 word: sutta
 description: Yes, SUTTA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,4 +30,9 @@ anagrams:
 - statu
 - tatus
 - tauts
+definitions:
+- pos: noun
+  defs:
+  - text: A rule or thesis in Sanskrit grammar or Hindu law or philosophy.
+  - text: A scriptural narrative, especially a discourse of the Buddha.
 ---

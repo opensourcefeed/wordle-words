@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SEIFS a Wordle Word?
-head_title: Is SEIFS a Wordle Word? Yes – Valid Guess
+head_title: Is SEIFS a Wordle Word? Yes – Valid Guess & Meaning
 word: seifs
 description: Yes, SEIFS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,4 +31,8 @@ neighbours:
 - selfs
 - serfs
 - spifs
+definitions:
+- pos: noun
+  defs:
+  - text: A sand dune that elongates parallel to the prevailing wind.
 ---

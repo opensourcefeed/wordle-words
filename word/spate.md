@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is SPATE a Wordle Word?
-head_title: 'Is SPATE a Wordle Word? Yes – Past Answer #1402'
+head_title: 'Is SPATE a Wordle Word? Yes – Past Answer #1402 & Meaning'
 word: spate
 description: Yes, SPATE is a valid Wordle word. It was the Wordle answer on April
-  21, 2025 (#1402). See its starter rating and similar words.
+  21, 2025 (#1402). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on April 21, 2025 (#1402).
 past_answers:
@@ -49,4 +49,10 @@ anagrams:
 trap:
   pattern: SPA_E
   count: 7
+phonetic: "/speɪt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A river flood; an overflow or inundation.
+  - text: "(by extension) A sudden rush or increase."
 ---

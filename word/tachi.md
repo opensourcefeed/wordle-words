@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TACHI a Wordle Word?
-head_title: Is TACHI a Wordle Word? Yes – Valid Guess
+head_title: Is TACHI a Wordle Word? Yes – Valid Guess & Meaning
 word: tachi
 description: Yes, TACHI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,4 +30,8 @@ neighbours:
 - takhi
 anagrams:
 - aitch
+definitions:
+- pos: noun
+  defs:
+  - text: A pre-katana style Japanese sword
 ---

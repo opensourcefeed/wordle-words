@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOLOS a Wordle Word?
-head_title: Is SOLOS a Wordle Word? Yes – Valid Guess
+head_title: Is SOLOS a Wordle Word? Yes – Valid Guess & Meaning
 word: solos
 description: Yes, SOLOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,4 +41,13 @@ anagrams:
 trap:
   pattern: _OLOS
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A piece of music for one performer.
+  - text: A job or performance done by one person alone.
+  - text: "(games) A card game similar to whist in which each player plays against
+      the others in turn without a partner"
+  - text: A single shot of espresso.
+  - text: An instance of soloing the football.
 ---

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SULKS a Wordle Word?
-head_title: Is SULKS a Wordle Word? Yes – Valid Guess
+head_title: Is SULKS a Wordle Word? Yes – Valid Guess & Meaning
 word: sulks
 description: Yes, SULKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,4 +34,15 @@ neighbours:
 - sunks
 anagrams:
 - lusks
+definitions:
+- pos: noun
+  defs:
+  - text: A state of sulking.
+    example: Leo has been in a sulk all morning.
+- pos: verb
+  defs:
+  - text: To express ill humor or offence by remaining sullenly silent or withdrawn.
+- pos: noun
+  defs:
+  - text: A furrow.
 ---

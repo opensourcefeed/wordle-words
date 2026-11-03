@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TATTS a Wordle Word?
-head_title: Is TATTS a Wordle Word? Yes – Valid Guess
+head_title: Is TATTS a Wordle Word? Yes – Valid Guess & Meaning
 word: tatts
 description: Yes, TATTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,4 +38,18 @@ neighbours:
 trap:
   pattern: TA_TS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: An image made in the skin with ink and a needle.
+  - text: A method of decorating the skin by inserting colored substances under the
+      surface with a sharp instrument (usually a solenoid-driven needle).
+- pos: noun
+  defs:
+  - text: A signal played five minutes before taps (lights out).
+  - text: A signal by drum or bugle ordering soldiers to return to their quarters.
+  - text: A military display or pageant.
+- pos: noun
+  defs:
+  - text: A breed of pony from India; a pony of that breed.
 ---

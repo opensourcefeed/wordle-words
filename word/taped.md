@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TAPED a Wordle Word?
-head_title: Is TAPED a Wordle Word? Yes – Valid Guess
+head_title: Is TAPED a Wordle Word? Yes – Valid Guess & Meaning
 word: taped
 description: Yes, TAPED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,4 +43,13 @@ anagrams:
 trap:
   pattern: _APED
   count: 7
+definitions:
+- pos: verb
+  defs:
+  - text: To bind with adhesive tape.
+    example: Be sure to tape your parcel securely before posting it.
+  - text: To record, particularly onto magnetic tape.
+    example: You shouldn’t have said that. The microphone was on and we were taping.
+  - text: "(passive) To understand, figure out."
+    example: I've finally got this thing taped.
 ---

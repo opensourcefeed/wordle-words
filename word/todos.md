@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TODOS a Wordle Word?
-head_title: Is TODOS a Wordle Word? Yes – Valid Guess
+head_title: Is TODOS a Wordle Word? Yes – Valid Guess & Meaning
 word: todos
 description: Yes, TODOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,4 +37,12 @@ anagrams:
 trap:
   pattern: TO_OS
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A fuss made over something.
+    example: I was embarrassed that they made such a big to-do out of my birthday.
+  - text: A task that has been noted as one that must be completed, especially on
+      a list.
+    example: I have so many to-dos, I don't know where to start.
 ---

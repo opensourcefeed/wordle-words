@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TACOS a Wordle Word?
-head_title: Is TACOS a Wordle Word? Yes – Valid Guess
+head_title: Is TACOS a Wordle Word? Yes – Valid Guess & Meaning
 word: tacos
 description: Yes, TACOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,4 +39,16 @@ anagrams:
 - coats
 - costa
 - octas
+definitions:
+- pos: noun
+  defs:
+  - text: A Mexican snack food; a small tortilla (soft or hard shelled), with typically
+      some type of meat, rice, beans, cheese, diced vegetables (usually tomatoes and
+      lettuce, as served in the United States, and cilantro, onion, and avocado, as
+      served in México) and salsa.
+  - text: The vulva.
+  - text: A yellow stain on a shirt armpit caused by sweat or deodorant.
+- pos: verb
+  defs:
+  - text: To fold or cause to buckle in half, similar to the way a taco is folded.
 ---

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SICKS a Wordle Word?
-head_title: Is SICKS a Wordle Word? Yes – Valid Guess
+head_title: Is SICKS a Wordle Word? Yes – Valid Guess & Meaning
 word: sicks
 description: Yes, SICKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,4 +37,15 @@ neighbours:
 trap:
   pattern: _ICKS
   count: 12
+definitions:
+- pos: verb
+  defs:
+  - text: To incite an attack by, especially a dog or dogs.
+    example: He sicced his dog on me!
+  - text: To set upon; to chase; to attack.
+- pos: verb
+  defs:
+  - text: To vomit.
+    example: I woke up at 4 am and sicked on the floor.
+  - text: To fall sick; to sicken.
 ---

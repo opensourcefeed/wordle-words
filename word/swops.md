@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SWOPS a Wordle Word?
-head_title: Is SWOPS a Wordle Word? Yes – Valid Guess
+head_title: Is SWOPS a Wordle Word? Yes – Valid Guess & Meaning
 word: swops
 description: Yes, SWOPS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,4 +36,21 @@ anagrams:
 trap:
   pattern: S_OPS
   count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: To exchange or give (something) in an exchange (for something else).
+  - text: To hit, to strike.
+  - text: To beat the air, or ply the wings, with a sweeping motion or noise; to flap.
+  - text: To descend or fall; to rush hastily or violently.
+- pos: noun
+  defs:
+  - text: An exchange of two comparable things.
+  - text: A financial derivative in which two parties agree to exchange one stream
+      of cashflow against another stream.
+  - text: Space available in a swap file for use as auxiliary memory.
+    example: How much swap do you need?
+- pos: noun
+  defs:
+  - text: A blow; a stroke.
 ---

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REEVE a Wordle Word?
-head_title: Is REEVE a Wordle Word? Yes – Valid Guess
+head_title: Is REEVE a Wordle Word? Yes – Valid Guess & Meaning
 word: reeve
 description: Yes, REEVE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,4 +32,12 @@ neighbours:
 - rieve
 anagrams:
 - eever
+phonetic: "/ɹiːv/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of several local officials, with varying responsibilities.
+  - text: The president of a township or municipal district council.
+  - text: The holder of a proposed but unadopted commissioned rank of the Royal Air
+      Force, equivalent to wing commander.
 ---

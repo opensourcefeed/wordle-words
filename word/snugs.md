@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SNUGS a Wordle Word?
-head_title: Is SNUGS a Wordle Word? Yes – Valid Guess
+head_title: Is SNUGS a Wordle Word? Yes – Valid Guess & Meaning
 word: snugs
 description: Yes, SNUGS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,4 +33,14 @@ neighbours:
 trap:
   pattern: S_UGS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A small, comfortable back room in a pub.
+  - text: A lug.
+- pos: verb
+  defs:
+  - text: To make secure or snug.
+  - text: To snuggle or nestle.
+  - text: To make smooth.
 ---

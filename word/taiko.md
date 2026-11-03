@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TAIKO a Wordle Word?
-head_title: Is TAIKO a Wordle Word? Yes – Valid Guess
+head_title: Is TAIKO a Wordle Word? Yes – Valid Guess & Meaning
 word: taiko
 description: Yes, TAIKO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,4 +27,11 @@ stats:
 neighbours:
 - daiko
 - maiko
+definitions:
+- pos: noun
+  defs:
+  - text: A traditional drum, beaten by yobidashi to announce the beginning of a tournament,
+      and at the end of each day
+  - text: A Japanese drum or a performance of several drummers in an ensemble (also
+      called kumi-daiko).
 ---

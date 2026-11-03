@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SEROW a Wordle Word?
-head_title: Is SEROW a Wordle Word? Yes – Valid Guess
+head_title: Is SEROW a Wordle Word? Yes – Valid Guess & Meaning
 word: serow
 description: Yes, SEROW is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,4 +35,9 @@ anagrams:
 - owres
 - resow
 - weros
+phonetic: "/ˈsɛɹəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of several species of Asian ungulates of the genus Capricornis.
 ---

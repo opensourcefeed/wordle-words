@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SECTS a Wordle Word?
-head_title: Is SECTS a Wordle Word? Yes – Valid Guess
+head_title: Is SECTS a Wordle Word? Yes – Valid Guess & Meaning
 word: sects
 description: Yes, SECTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,4 +34,12 @@ neighbours:
 trap:
   pattern: SE_TS
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: An offshoot of a larger religion; a group sharing particular (often unorthodox)
+      political and/or religious beliefs.
+    example: A religious sect.
+  - text: A group following a specific ideal or a leader.
+  - text: A cutting; a scion.
 ---

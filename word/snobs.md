@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SNOBS a Wordle Word?
-head_title: Is SNOBS a Wordle Word? Yes – Valid Guess
+head_title: Is SNOBS a Wordle Word? Yes – Valid Guess & Meaning
 word: snobs
 description: Yes, SNOBS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,4 +34,14 @@ neighbours:
 - snubs
 - stobs
 - swobs
+definitions:
+- pos: noun
+  defs:
+  - text: A person who wishes to be seen as a member of the upper classes and who
+      looks down on those perceived to have inferior or unrefined tastes.
+  - text: A cobbler or shoemaker.
+  - text: A member of the lower classes; a commoner.
+  - text: A workman who works for lower wages than his fellows, or who will not join
+      a strike.
+  - text: "(Cambridge University) A townsman, as opposed to a gownsman."
 ---

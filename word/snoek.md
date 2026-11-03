@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SNOEK a Wordle Word?
-head_title: Is SNOEK a Wordle Word? Yes – Valid Guess
+head_title: Is SNOEK a Wordle Word? Yes – Valid Guess & Meaning
 word: snoek
 description: Yes, SNOEK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,4 +30,11 @@ anagrams:
 - nokes
 - snoke
 - soken
+definitions:
+- pos: noun
+  defs:
+  - text: An edible fish, Thyrsites atun, native to South African (Cape), South American
+      and Australian waters, often smoked or salted.
+  - text: "(Natal) The queen mackerel, Scomberomorus lineolatus."
+  - text: "(Transkei) Any of several species of barracuda."
 ---

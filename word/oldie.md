@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OLDIE a Wordle Word?
-head_title: Is OLDIE a Wordle Word? Yes – Valid Guess
+head_title: Is OLDIE a Wordle Word? Yes – Valid Guess & Meaning
 word: oldie
 description: Yes, OLDIE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,4 +31,13 @@ anagrams:
 - dolie
 - eolid
 - oiled
+phonetic: "/ˈəʊldi/"
+definitions:
+- pos: noun
+  defs:
+  - text: Something or someone old.
+  - text: A song or record from a previous era.
+  - text: "(in the plural) The genre of music composed of popular music from previous
+      eras."
+    example: an oldies radio station
 ---

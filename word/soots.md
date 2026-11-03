@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOOTS a Wordle Word?
-head_title: Is SOOTS a Wordle Word? Yes – Valid Guess
+head_title: Is SOOTS a Wordle Word? Yes – Valid Guess & Meaning
 word: soots
 description: Yes, SOOTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,4 +39,13 @@ neighbours:
 trap:
   pattern: _OOTS
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: Fine black or dull brown particles of amorphous carbon and tar, produced
+      by the incomplete combustion of coal, oil etc.
+- pos: verb
+  defs:
+  - text: To cover or dress with soot.
+    example: to soot land
 ---

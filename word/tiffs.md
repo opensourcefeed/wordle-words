@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TIFFS a Wordle Word?
-head_title: Is TIFFS a Wordle Word? Yes – Valid Guess
+head_title: Is TIFFS a Wordle Word? Yes – Valid Guess & Meaning
 word: tiffs
 description: Yes, TIFFS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,4 +40,19 @@ anagrams:
 trap:
   pattern: _IFFS
   count: 9
+phonetic: "/tɪfs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small argument; a petty quarrel.
+  - text: Liquor; especially, a small draught of liquor.
+- pos: verb
+  defs:
+  - text: To quarrel.
+- pos: verb
+  defs:
+  - text: To deck out; to dress.
+- pos: verb
+  defs:
+  - text: "(British India) To have lunch."
 ---

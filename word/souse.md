@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOUSE a Wordle Word?
-head_title: Is SOUSE a Wordle Word? Yes – Valid Guess
+head_title: Is SOUSE a Wordle Word? Yes – Valid Guess & Meaning
 word: souse
 description: Yes, SOUSE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,4 +39,15 @@ neighbours:
 trap:
   pattern: _OUSE
   count: 9
+phonetic: "/saʊs/"
+definitions:
+- pos: noun
+  defs:
+  - text: Something kept or steeped in brine
+  - text: The act of sousing; a plunging into water.
+  - text: A person suffering from alcoholism.
+- pos: verb
+  defs:
+  - text: To immerse in liquid; to steep or drench.
+  - text: To steep in brine; to pickle.
 ---

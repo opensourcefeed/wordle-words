@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STUPE a Wordle Word?
-head_title: Is STUPE a Wordle Word? Yes – Valid Guess
+head_title: Is STUPE a Wordle Word? Yes – Valid Guess & Meaning
 word: stupe
 description: Yes, STUPE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,4 +30,9 @@ neighbours:
 anagrams:
 - setup
 - upset
+definitions:
+- pos: noun
+  defs:
+  - text: A stupid person or (rarely) thing.
+    example: He thinks Santa lives at the South Pole? What a stupe!
 ---

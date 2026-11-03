@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STOAS a Wordle Word?
-head_title: Is STOAS a Wordle Word? Yes – Valid Guess
+head_title: Is STOAS a Wordle Word? Yes – Valid Guess & Meaning
 word: stoas
 description: Yes, STOAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,4 +42,9 @@ anagrams:
 trap:
   pattern: STO_S
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: In Ancient Greece, a walkway with a roof supported by colonnades, often
+      with a wall on one side; specifically, the Great Hall in Athens.
 ---

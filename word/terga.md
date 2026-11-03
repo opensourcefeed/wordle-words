@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TERGA a Wordle Word?
-head_title: Is TERGA a Wordle Word? Yes – Valid Guess
+head_title: Is TERGA a Wordle Word? Yes – Valid Guess & Meaning
 word: terga
 description: Yes, TERGA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,4 +33,8 @@ anagrams:
 - gater
 - retag
 - targe
+definitions:
+- pos: noun
+  defs:
+  - text: The upper or dorsal surface of an articulated animal such as an arthropod.
 ---

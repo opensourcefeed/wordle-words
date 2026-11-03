@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OILED a Wordle Word?
-head_title: Is OILED a Wordle Word? Yes – Valid Guess
+head_title: Is OILED a Wordle Word? Yes – Valid Guess & Meaning
 word: oiled
 description: Yes, OILED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -44,4 +45,15 @@ anagrams:
 trap:
   pattern: _ILED
   count: 9
+definitions:
+- pos: verb
+  defs:
+  - text: To lubricate with oil.
+  - text: To grease with oil for cooking.
+- pos: adjective
+  defs:
+  - text: Covered in, or supplied with, oil.
+    example: an oiled machine; a person's oiled body
+  - text: Drunk. Usually in conjunction with well.
+    example: I got well oiled last night.
 ---

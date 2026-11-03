@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SWAIN a Wordle Word?
-head_title: Is SWAIN a Wordle Word? Yes – Valid Guess
+head_title: Is SWAIN a Wordle Word? Yes – Valid Guess & Meaning
 word: swain
 description: Yes, SWAIN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,4 +29,12 @@ neighbours:
 - twain
 anagrams:
 - wains
+phonetic: "/sweɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A young man or boy in service; a servant.
+  - text: A knight's servant; an attendant.
+  - text: A country labourer; a countryman, a rustic.
+  - text: A rural lover; a male sweetheart in a pastoral setting.
 ---

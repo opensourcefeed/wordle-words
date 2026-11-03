@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SENDS a Wordle Word?
-head_title: Is SENDS a Wordle Word? Yes – Valid Guess
+head_title: Is SENDS a Wordle Word? Yes – Valid Guess & Meaning
 word: sends
 description: Yes, SENDS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,4 +39,20 @@ anagrams:
 trap:
   pattern: _ENDS
   count: 11
+phonetic: "/sɛndz/"
+definitions:
+- pos: verb
+  defs:
+  - text: To make something (such as an object or message) go from one place to another.
+    example: Every day at two o'clock, he sends his secretary out to buy him a coffee.
+  - text: To excite, delight, or thrill (someone).
+  - text: To bring to a certain condition.
+  - text: To dispatch an agent or messenger to convey a message, or to do an errand.
+    example: Seeing how ill she was, we sent for a doctor at once.
+  - text: To cause to be or to happen; to bestow; to inflict; to grant; sometimes
+      followed by a dependent proposition.
+  - text: To pitch.
+  - text: To make a successful free ascent (i.e. not relying on gear) of a sport climbing
+      route.
+    example: She finally sent the 12a after hours of failed attempts.
 ---

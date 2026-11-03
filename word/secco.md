@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SECCO a Wordle Word?
-head_title: Is SECCO a Wordle Word? Yes – Valid Guess
+head_title: Is SECCO a Wordle Word? Yes – Valid Guess & Meaning
 word: secco
 description: Yes, SECCO is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,4 +26,14 @@ neighbours:
 - recco
 anagrams:
 - cosec
+definitions:
+- pos: noun
+  defs:
+  - text: A work painted on dry plaster, as distinguished from a fresco.
+- pos: adjective
+  defs:
+  - text: Dry
+    example: Secco painting, or painting in secco, is painting on dry plaster, as
+      distinguished from fresco painting, on wet or fresh plaster.
+  - text: Dry – sparse accompaniment, staccato, without resonance
 ---

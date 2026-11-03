@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TAROS a Wordle Word?
-head_title: Is TAROS a Wordle Word? Yes – Valid Guess
+head_title: Is TAROS a Wordle Word? Yes – Valid Guess & Meaning
 word: taros
 description: Yes, TAROS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -45,4 +46,12 @@ anagrams:
 trap:
   pattern: TAR_S
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: Colocasia esculenta, raised as a food primarily for its corm, which distantly
+      resembles potato.
+  - text: Any of several other species with similar corms and growth habit in Colocasia,
+      Alocasia etc.
+  - text: Food from a taro plant.
 ---

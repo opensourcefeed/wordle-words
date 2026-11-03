@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is RELET a Wordle Word?
-head_title: Is RELET a Wordle Word? Yes – Valid Guess
+head_title: Is RELET a Wordle Word? Yes – Valid Guess & Meaning
 word: relet
 description: Yes, RELET is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,4 +33,11 @@ neighbours:
 trap:
   pattern: RE_ET
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A property that has been let again
+- pos: verb
+  defs:
+  - text: To let a property again
 ---

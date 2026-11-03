@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOURS a Wordle Word?
-head_title: Is SOURS a Wordle Word? Yes – Valid Guess
+head_title: Is SOURS a Wordle Word? Yes – Valid Guess & Meaning
 word: sours
 description: Yes, SOURS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,4 +41,24 @@ anagrams:
 trap:
   pattern: _OURS
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: The sensation of a sour taste.
+  - text: A drink made with whiskey, lemon or lime juice and sugar.
+  - text: "(by extension) Any cocktail containing lemon or lime juice."
+  - text: A sour or acid substance; whatever produces a painful effect.
+  - text: The acidic solution used in souring fabric.
+- pos: verb
+  defs:
+  - text: To make sour.
+    example: Too much lemon juice will sour the recipe.
+  - text: To become sour.
+  - text: To spoil or mar; to make disenchanted.
+  - text: To become disenchanted.
+    example: We broke up after our relationship soured.
+  - text: To make (soil) cold and unproductive.
+  - text: To macerate (lime) and render it fit for plaster or mortar.
+  - text: To process (fabric) after bleaching, using hydrochloric acid or sulphuric
+      acid to wash out the lime.
 ---

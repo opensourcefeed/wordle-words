@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TAJES a Wordle Word?
-head_title: Is TAJES a Wordle Word? Yes – Valid Guess
+head_title: Is TAJES a Wordle Word? Yes – Valid Guess & Meaning
 word: tajes
 description: Yes, TAJES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,4 +42,10 @@ anagrams:
 trap:
   pattern: TA_ES
   count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A tall brimless hat, usually conical or curved on top, worn in Muslim countries
+      as a sign of distinction and prestige.
+  - text: A crown worn by Indian princes as a sign of high rank.
 ---

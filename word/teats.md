@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TEATS a Wordle Word?
-head_title: Is TEATS a Wordle Word? Yes – Valid Guess
+head_title: Is TEATS a Wordle Word? Yes – Valid Guess & Meaning
 word: teats
 description: Yes, TEATS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -45,4 +46,11 @@ anagrams:
 trap:
   pattern: _EATS
   count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: The projection of a mammary gland from which, on female mammals, milk is
+      secreted.
+  - text: Something resembling a teat, such as a small protuberance or nozzle.
+  - text: An artificial nipple used for bottle-feeding infants.
 ---

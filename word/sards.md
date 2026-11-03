@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SARDS a Wordle Word?
-head_title: Is SARDS a Wordle Word? Yes – Valid Guess
+head_title: Is SARDS a Wordle Word? Yes – Valid Guess & Meaning
 word: sards
 description: Yes, SARDS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,4 +38,14 @@ neighbours:
 trap:
   pattern: _ARDS
   count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: A variety of carnelian, of a rich reddish yellow or brownish red color.
+  - text: Any of various brownish red earth pigments formerly used in cosmetics and
+      painting; has more yellow, hardly any blue (see puce), is lighter than russet
+      and darker than traditional carnelian.
+- pos: verb
+  defs:
+  - text: To have sexual intercourse with (a woman).
 ---

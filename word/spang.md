@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SPANG a Wordle Word?
-head_title: Is SPANG a Wordle Word? Yes – Valid Guess
+head_title: Is SPANG a Wordle Word? Yes – Valid Guess & Meaning
 word: spang
 description: Yes, SPANG is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,4 +28,13 @@ neighbours:
 - swang
 anagrams:
 - pangs
+phonetic: "/spæŋ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A shiny ornament or object; a spangle
+- pos: verb
+  defs:
+  - text: 'To set with bright points: star or spangle.'
+  - text: To hitch; fasten.
 ---

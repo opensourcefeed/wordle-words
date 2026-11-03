@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is THEWS a Wordle Word?
-head_title: Is THEWS a Wordle Word? Yes – Valid Guess
+head_title: Is THEWS a Wordle Word? Yes – Valid Guess & Meaning
 word: thews
 description: Yes, THEWS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,4 +32,23 @@ neighbours:
 - whews
 anagrams:
 - whets
+phonetic: "/θjuːz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A bondman; a slave.
+- pos: verb
+  defs:
+  - text: To oppress; enslave.
+- pos: noun
+  defs:
+  - text: Muscle or sinew.
+  - text: A good quality or habit; virtue.
+  - text: "(usually plural) An attractive physical attribute, especially muscle; mental
+      or moral vigour."
+    example: '1998: B.A. Roberts, Battle Magic – As I pull two Mercian shafts from
+      my bloodied thews.'
+- pos: verb
+  defs:
+  - text: Instruct in morals or values; chastise.
 ---

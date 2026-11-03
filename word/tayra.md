@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TAYRA a Wordle Word?
-head_title: Is TAYRA a Wordle Word? Yes – Valid Guess
+head_title: Is TAYRA a Wordle Word? Yes – Valid Guess & Meaning
 word: tayra
 description: Yes, TAYRA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,4 +27,10 @@ neighbours:
 anagrams:
 - yarta
 - yatra
+phonetic: "/ˈtaɪ.ɹə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A South American omnivore, Eira barbara, allied to the grison, with a long
+      thick tail.
 ---

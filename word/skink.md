@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SKINK a Wordle Word?
-head_title: Is SKINK a Wordle Word? Yes – Valid Guess
+head_title: Is SKINK a Wordle Word? Yes – Valid Guess & Meaning
 word: skink
 description: Yes, SKINK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,4 +30,14 @@ neighbours:
 - swink
 anagrams:
 - kinks
+phonetic: "/skɪŋk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A shin of beef.
+    example: lean sirloin, skink and pot-roast
+  - text: A soup or pottage made from a boiled shin of beef.
+  - text: "(by extension) Usually preceded by a descriptive word: a soup or pottage
+      made using other ingredients."
+    example: Cullen skink
 ---

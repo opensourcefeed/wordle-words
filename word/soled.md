@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOLED a Wordle Word?
-head_title: Is SOLED a Wordle Word? Yes – Valid Guess
+head_title: Is SOLED a Wordle Word? Yes – Valid Guess & Meaning
 word: soled
 description: Yes, SOLED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -44,4 +45,15 @@ anagrams:
 trap:
   pattern: _OLED
   count: 10
+definitions:
+- pos: verb
+  defs:
+  - text: To pull by the ears; to pull about; haul; lug.
+- pos: verb
+  defs:
+  - text: To put a sole on (a shoe or boot)
+- pos: adjective
+  defs:
+  - text: "(in combination) Having a specified kind of sole."
+    example: a rubber-soled shoe
 ---

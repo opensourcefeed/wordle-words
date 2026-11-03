@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SLUMS a Wordle Word?
-head_title: Is SLUMS a Wordle Word? Yes – Valid Guess
+head_title: Is SLUMS a Wordle Word? Yes – Valid Guess & Meaning
 word: slums
 description: Yes, SLUMS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,4 +37,12 @@ neighbours:
 trap:
   pattern: SLU_S
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A dilapidated neighborhood where many people live in a state of poverty.
+  - text: Inexpensive trinkets awarded as prizes in a carnival game.
+- pos: verb
+  defs:
+  - text: To visit a neighborhood of a status below one's own.
 ---

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SPILE a Wordle Word?
-head_title: Is SPILE a Wordle Word? Yes – Valid Guess
+head_title: Is SPILE a Wordle Word? Yes – Valid Guess & Meaning
 word: spile
 description: Yes, SPILE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -44,4 +45,16 @@ anagrams:
 trap:
   pattern: SPI_E
   count: 7
+phonetic: "/spaɪl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A splinter.
+  - text: A spigot or plug used to stop the hole in a barrel or cask.
+  - text: A spout inserted in a maple (or other tree) to draw off sap.
+- pos: verb
+  defs:
+  - text: To plug (a hole) with a spile.
+  - text: To draw off (a liquid) using a spile.
+  - text: To provide (a barrel, tree etc.) with a spile.
 ---

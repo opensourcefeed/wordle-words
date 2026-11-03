@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SPICS a Wordle Word?
-head_title: Is SPICS a Wordle Word? Yes – Valid Guess
+head_title: Is SPICS a Wordle Word? Yes – Valid Guess & Meaning
 word: spics
 description: Yes, SPICS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 sensitive: true
 sitemap: false
 status: guess
@@ -38,4 +39,8 @@ neighbours:
 trap:
   pattern: SPI_S
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A Spanish-speaking person, someone with a Central American or Latino accent.
 ---

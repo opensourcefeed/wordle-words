@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOLUS a Wordle Word?
-head_title: Is SOLUS a Wordle Word? Yes – Valid Guess
+head_title: Is SOLUS a Wordle Word? Yes – Valid Guess & Meaning
 word: solus
 description: Yes, SOLUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,4 +36,8 @@ neighbours:
 - tolus
 anagrams:
 - souls
+definitions:
+- pos: adjective
+  defs:
+  - text: Alone, unaccompanied (as a stage direction)
 ---

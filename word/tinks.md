@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TINKS a Wordle Word?
-head_title: Is TINKS a Wordle Word? Yes – Valid Guess
+head_title: Is TINKS a Wordle Word? Yes – Valid Guess & Meaning
 word: tinks
 description: Yes, TINKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,4 +41,12 @@ anagrams:
 trap:
   pattern: _INKS
   count: 14
+definitions:
+- pos: verb
+  defs:
+  - text: To emit a high-pitched sharp or metallic noise.
+    example: Jimmy heard the bells tink.
+- pos: verb
+  defs:
+  - text: To unknit.
 ---

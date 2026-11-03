@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SILEX a Wordle Word?
-head_title: Is SILEX a Wordle Word? Yes – Valid Guess
+head_title: Is SILEX a Wordle Word? Yes – Valid Guess & Meaning
 word: silex
 description: Yes, SILEX is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,4 +30,10 @@ neighbours:
 - siles
 anagrams:
 - lexis
+phonetic: "/ˈsaɪlɛks/"
+definitions:
+- pos: noun
+  defs:
+  - text: Flint.
+  - text: A finely ground relatively pure form of silicas used as a paint filler etc.
 ---

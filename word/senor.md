@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SENOR a Wordle Word?
-head_title: Is SENOR a Wordle Word? Yes – Valid Guess
+head_title: Is SENOR a Wordle Word? Yes – Valid Guess & Meaning
 word: senor
 description: Yes, SENOR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,4 +32,9 @@ anagrams:
 - renos
 - rones
 - seron
+definitions:
+- pos: noun
+  defs:
+  - text: A Spanish term of address equivalent to sir or Mr., used alone or capitalized
+      and prefixed to the name of a married or an older man.
 ---

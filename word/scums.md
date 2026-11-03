@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SCUMS a Wordle Word?
-head_title: Is SCUMS a Wordle Word? Yes – Valid Guess
+head_title: Is SCUMS a Wordle Word? Yes – Valid Guess & Meaning
 word: scums
 description: Yes, SCUMS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,4 +34,18 @@ neighbours:
 trap:
   pattern: SCU_S
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A layer of impurities that accumulates at the surface of a liquid (especially
+      molten metal or water).
+    example: During smelting, scum rises to the surface and is then removed by the
+      smelter.
+  - text: A greenish water vegetation (such as algae), usually found floating on the
+      surface of ponds
+    example: These organisms form scum in large quantities.
+  - text: The topmost liquid layer of a cesspool or septic tank.
+  - text: "(chiefly US) semen"
+  - text: A reprehensible person or persons.
+    example: People who sell used-up pens are scum, just total low-lives.
 ---

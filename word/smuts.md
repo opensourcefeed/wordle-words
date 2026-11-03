@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SMUTS a Wordle Word?
-head_title: Is SMUTS a Wordle Word? Yes – Valid Guess
+head_title: Is SMUTS a Wordle Word? Yes – Valid Guess & Meaning
 word: smuts
 description: Yes, SMUTS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,4 +35,16 @@ anagrams:
 trap:
   pattern: S_UTS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: Soot.
+  - text: A flake of ash or soot.
+  - text: Sexually vulgar material; something that is sexual in a dirty way; pornographic
+      material.
+  - text: Obscene language; ribaldry; obscenity.
+  - text: Any of a range of fungi, mostly Ustilaginomycetes, that cause plant disease
+      in grasses, including cereal crops; the disease so caused.
+  - text: Bad, soft coal containing earthy matter, found in the immediate locality
+      of faults.
 ---

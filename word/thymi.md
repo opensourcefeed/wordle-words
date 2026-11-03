@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is THYMI a Wordle Word?
-head_title: Is THYMI a Wordle Word? Yes – Valid Guess
+head_title: Is THYMI a Wordle Word? Yes – Valid Guess & Meaning
 word: thymi
 description: Yes, THYMI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,4 +25,12 @@ neighbours:
 - thymy
 anagrams:
 - mythi
+phonetic: "/ˈθaɪmaɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A ductless gland, consisting mainly of lymphatic tissue, located behind
+      the top of the breastbone. It is most active during puberty, after which it
+      shrinks in size. It plays an important role in the development of the immune
+      system and produces lymphocytes.
 ---

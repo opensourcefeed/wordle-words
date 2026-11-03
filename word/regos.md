@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REGOS a Wordle Word?
-head_title: Is REGOS a Wordle Word? Yes – Valid Guess
+head_title: Is REGOS a Wordle Word? Yes – Valid Guess & Meaning
 word: regos
 description: Yes, REGOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,4 +41,13 @@ anagrams:
 - gorse
 - ogres
 - soger
+definitions:
+- pos: noun
+  defs:
+  - text: Registration for a motor vehicle.
+    example: The police pulled me over for driving with an expired rego.
+  - text: The fee required for such registration.
+    example: David couldn′t drive his car as he hadn′t paid his rego.
+  - text: The registration number of a motor vehicle, used by police to access registration
+      details such as the identity of the owner.
 ---

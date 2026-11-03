@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TINGS a Wordle Word?
-head_title: Is TINGS a Wordle Word? Yes – Valid Guess
+head_title: Is TINGS a Wordle Word? Yes – Valid Guess & Meaning
 word: tings
 description: Yes, TINGS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,4 +39,15 @@ anagrams:
 trap:
   pattern: _INGS
   count: 14
+definitions:
+- pos: noun
+  defs:
+  - text: The sound made when a small bell is struck.
+- pos: noun
+  defs:
+  - text: An ancient Chinese vessel with legs and a lid.
+  - text: The apartment in a Chinese temple where the idol is kept.
+- pos: noun
+  defs:
+  - text: "(Caribbean creoles) Thing, person."
 ---

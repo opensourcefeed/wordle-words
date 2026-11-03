@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SHAKA a Wordle Word?
-head_title: Is SHAKA a Wordle Word? Yes – Valid Guess
+head_title: Is SHAKA a Wordle Word? Yes – Valid Guess & Meaning
 word: shaka
 description: Yes, SHAKA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,4 +30,11 @@ neighbours:
 anagrams:
 - hakas
 - kasha
+phonetic: "/ˈʃɑːkə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A greeting gesture in which the thumb and little finger are extended while
+      curling the three middle fingers in a semi-fist. Used to express a variety of
+      positive meanings including "all right", "hello" and "goodbye".
 ---

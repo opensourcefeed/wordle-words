@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SCRAN a Wordle Word?
-head_title: Is SCRAN a Wordle Word? Yes – Valid Guess
+head_title: Is SCRAN a Wordle Word? Yes – Valid Guess & Meaning
 word: scran
 description: Yes, SCRAN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,4 +38,14 @@ anagrams:
 trap:
   pattern: SCRA_
   count: 9
+phonetic: "/skɹan/"
+definitions:
+- pos: noun
+  defs:
+  - text: Food, especially that of an inferior quality; grub.
+    example: Let wi gan and get some scran am starvin man!
+  - text: Refuse; rubbish
+- pos: verb
+  defs:
+  - text: To eat
 ---

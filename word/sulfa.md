@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SULFA a Wordle Word?
-head_title: Is SULFA a Wordle Word? Yes – Valid Guess
+head_title: Is SULFA a Wordle Word? Yes – Valid Guess & Meaning
 word: sulfa
 description: Yes, SULFA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,4 +25,11 @@ neighbours:
 - sulfo
 anagrams:
 - laufs
+definitions:
+- pos: noun
+  defs:
+  - text: A sulfonamide or sulfanilamide.
+- pos: adjective
+  defs:
+  - text: Of or containing sulfonamide or sulfanilamide.
 ---

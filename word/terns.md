@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TERNS a Wordle Word?
-head_title: Is TERNS a Wordle Word? Yes – Valid Guess
+head_title: Is TERNS a Wordle Word? Yes – Valid Guess & Meaning
 word: terns
 description: Yes, TERNS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,4 +42,15 @@ anagrams:
 trap:
   pattern: _ERNS
   count: 6
+phonetic: "/ˈtɜː(ɹ)nz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of various sea birds of the family Sternidae that are similar to gulls
+      but are smaller and have a forked tail.
+- pos: noun
+  defs:
+  - text: That which consists of, or pertains to, three things or numbers together.
+  - text: A lottery prize resulting from the favourable combination of three numbers
+      in the draw.
 ---

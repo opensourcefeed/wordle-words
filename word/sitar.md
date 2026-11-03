@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is SITAR a Wordle Word?
-head_title: 'Is SITAR a Wordle Word? Yes – Past Answer #1659'
+head_title: 'Is SITAR a Wordle Word? Yes – Past Answer #1659 & Meaning'
 word: sitar
 description: Yes, SITAR is a valid Wordle word. It was the Wordle answer on January
-  3, 2026 (#1659). See its starter rating and similar words.
+  3, 2026 (#1659). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on January 3, 2026 (#1659).
 past_answers:
@@ -40,4 +40,9 @@ anagrams:
 - stria
 - tarsi
 - tiars
+definitions:
+- pos: noun
+  defs:
+  - text: A Hindustani/Indian classical stringed instrument, typically having a gourd
+      as its resonating chamber.
 ---

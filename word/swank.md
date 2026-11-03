@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SWANK a Wordle Word?
-head_title: Is SWANK a Wordle Word? Yes – Valid Guess
+head_title: Is SWANK a Wordle Word? Yes – Valid Guess & Meaning
 word: swank
 description: Yes, SWANK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,4 +32,20 @@ neighbours:
 trap:
   pattern: S_ANK
   count: 6
+phonetic: "/swæŋk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A fashionably elegant person.
+    example: He's such a swank.
+  - text: Ostentation; bravado.
+    example: The parvenu was full of swank.
+- pos: verb
+  defs:
+  - text: To swagger, to show off.
+    example: Looks like she's going to swank in, flashing her diamonds, then swank
+      out to another party.
+- pos: adjective
+  defs:
+  - text: Fashionably elegant, posh.
 ---

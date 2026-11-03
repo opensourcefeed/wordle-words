@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOFTY a Wordle Word?
-head_title: Is SOFTY a Wordle Word? Yes – Valid Guess
+head_title: Is SOFTY a Wordle Word? Yes – Valid Guess & Meaning
 word: softy
 description: Yes, SOFTY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,4 +25,11 @@ neighbours:
 - sooty
 - softa
 - softs
+definitions:
+- pos: noun
+  defs:
+  - text: A weak or sentimental person.
+  - text: Somebody who finds it difficult to scold or punish.
+  - text: A software expert who is ignorant of the workings of hardware.
+  - text: A soft drink containing no alcohol.
 ---

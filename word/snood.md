@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SNOOD a Wordle Word?
-head_title: Is SNOOD a Wordle Word? Yes – Valid Guess
+head_title: Is SNOOD a Wordle Word? Yes – Valid Guess & Meaning
 word: snood
 description: Yes, SNOOD is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,4 +26,18 @@ neighbours:
 - snook
 - snool
 - snoot
+phonetic: "/snuːd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A band or ribbon for keeping the hair in place, including the hair-band
+      formerly worn in Scotland and northern England by young unmarried women.
+  - text: A small hairnet or cap worn by women to keep their hair in place.
+  - text: The flap of erectile red skin on the beak of a male turkey.
+  - text: A short line of horsehair, gut, monofilament, etc., by which a fishhook
+      is attached to a longer (and usually heavier) line; a snell.
+  - text: A piece of clothing to keep the neck warm; neckwarmer.
+- pos: verb
+  defs:
+  - text: To keep the hair in place with a snood.
 ---

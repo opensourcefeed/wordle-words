@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SICES a Wordle Word?
-head_title: Is SICES a Wordle Word? Yes – Valid Guess
+head_title: Is SICES a Wordle Word? Yes – Valid Guess & Meaning
 word: sices
 description: Yes, SICES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,4 +39,12 @@ neighbours:
 trap:
   pattern: SI_ES
   count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A groom, or servant with responsibility for the horses.
+  - text: "(Malaya) usually syce: chauffeur, driver."
+- pos: noun
+  defs:
+  - text: The number six in a game of dice.
 ---

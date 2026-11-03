@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TASER a Wordle Word?
-head_title: Is TASER a Wordle Word? Yes – Valid Guess
+head_title: Is TASER a Wordle Word? Yes – Valid Guess & Meaning
 word: taser
 description: Yes, TASER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -51,4 +52,19 @@ anagrams:
 trap:
   pattern: TA_ER
   count: 10
+phonetic: "/ˈteɪ.zə(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: A Taser, a handheld device made by Taser International intended to immobilize
+      another by delivering an electric shock.
+  - text: "(by extension) Any electroshock stun gun."
+- pos: verb
+  defs:
+  - text: To shock a person, thing, individual, or animal with a handheld device with
+      the electric shock that it delivers; to stun with a stun gun.
+  - text: To strike verbally or gesturally with ill intents.
+    example: As I spoke too loudly during the solemn church service, my husband shot
+      me a glance that emotionally tasered me to the point of silence until we returned
+      home 2 hours later.
 ---

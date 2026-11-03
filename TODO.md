@@ -99,13 +99,22 @@ Users judge a site's trust and quality in the first few seconds. A polished desi
 
 ## P5 – Maintenance and tooling
 
-- [ ] Rewrite `generate_word_pages.rb` so that it:
-  - Builds from local data (status, stats, neighbours).
-  - Stores definitions as structured YAML instead of escaped HTML.
-  - Never overwrites or deletes existing URLs.
-  - Uses rate-limit and retry for the API.
-  (M, M)
-- [ ] Consider a GitHub Actions build (custom plugins become possible, for example data-page generation instead of 15k `.md` files), plus a scheduled job that appends each day's answer. (M, M)
+- [x] Rewrote `generate_word_pages.rb`: stores structured definitions, retries API errors (429/5xx), records real "not found" results separately, and never deletes pages. `scripts/build_pages.rb` builds everything else from local data. (M, M)
+- [ ] **Build speed** (measured 2026-11-03). The full build takes **~142 s** on Jekyll 3.10. All of it is rendering 14,855 pages: word layout ~65 s, default layout ~50 s, read/write ~2.3 ms/page. Benchmarks on 3,000 pages (CPU time):
+
+  | Change | Build | Saving |
+  |---|---|---|
+  | Baseline (Jekyll 3.10, `github-pages` gem) | 40.3 s | – |
+  | Replace `{% seo %}` with a hand-written meta include | 35.1 s | −13% |
+  | + `{% include_cached %}` for header, footer, tracking, play buttons (`jekyll-include-cache`, allowed on GitHub Pages) | 32.1 s | −8% |
+  | + precompute `relative_url`/`absolute_url` once per page instead of per link | 29.8 s | −7% |
+  | + **Jekyll 4.3** (same templates, identical HTML) | **9.2 s** | **−69%** |
+  | Ruby GC tuning env vars | no change | – |
+  | YJIT | n/a: Debian's Ruby is built without it | – |
+
+  - [ ] Template optimisations (the first three rows): about −26% on Jekyll 3. They work with the current GitHub Pages builder. (H, S)
+  - [ ] `_config_dev.yml` for `jekyll serve`: `exclude: ["word/[b-z]*.md", …]`, so only the ~870 A-words are built. Jekyll 3.10 accepts the glob. Local rebuild drops to ~10 s, or ~3 s on Jekyll 4. Note that it replaces the main `exclude` list, so it must repeat those entries. (H, S)
+  - [ ] Move to a **GitHub Actions** Pages build with Jekyll 4.3 (`actions/jekyll-build-pages` is Jekyll 3; use `ruby/setup-ruby` + `bundle exec jekyll build` + `actions/deploy-pages`). This enables Jekyll 4, any plugin (e.g. data-page generation instead of 15k `.md` files), and a scheduled job that runs `update_past_answers.rb` + `build_pages.rb`. Requires switching the repo's Pages source to "GitHub Actions". (H, M)
 - [x] Word list verified against the current NYT accepted list on 2026-11-03: exactly 14,855 words, all with a page. Re-check periodically with `ruby scripts/validate_words.rb <reference-list.txt>`. (M, S)
 - [ ] Replace or complement Ahrefs analytics with an analytics tool that records in-page events (checker use and puzzle click-through). (M, S)
 

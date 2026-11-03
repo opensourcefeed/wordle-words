@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOOKS a Wordle Word?
-head_title: Is SOOKS a Wordle Word? Yes – Valid Guess
+head_title: Is SOOKS a Wordle Word? Yes – Valid Guess & Meaning
 word: sooks
 description: Yes, SOOKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,4 +38,24 @@ neighbours:
 trap:
   pattern: _OOKS
   count: 14
+definitions:
+- pos: noun
+  defs:
+  - text: Familiar name for a calf.
+  - text: Familiar name for a cow.
+  - text: A cow or sheep.
+  - text: A poddy calf.
+- pos: noun
+  defs:
+  - text: A crybaby, a complainer, a whinger; a shy or timid person, a wimp; a coward.
+    example: Don′t be such a sook.
+  - text: A sulk or complaint; an act of sulking.
+    example: I was so upset that I went home and had a sook about it.
+- pos: noun
+  defs:
+  - text: A mature female Chesapeake Bay blue crab, Callinectes sapidus.
+- pos: noun
+  defs:
+  - text: A street market, particularly in Arabic- and Somali-speaking countries;
+      a place where people buy and sell goods.
 ---

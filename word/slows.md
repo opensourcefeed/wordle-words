@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SLOWS a Wordle Word?
-head_title: Is SLOWS a Wordle Word? Yes – Valid Guess
+head_title: Is SLOWS a Wordle Word? Yes – Valid Guess & Meaning
 word: slows
 description: Yes, SLOWS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,4 +40,13 @@ anagrams:
 trap:
   pattern: _LOWS
   count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: To make (something) run, move, etc. less quickly; to reduce the speed of.
+  - text: To keep from going quickly; to hinder the progress of.
+  - text: To become slow; to slacken in speed; to decelerate.
+- pos: noun
+  defs:
+  - text: Milk sickness
 ---

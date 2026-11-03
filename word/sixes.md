@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SIXES a Wordle Word?
-head_title: Is SIXES a Wordle Word? Yes – Valid Guess
+head_title: Is SIXES a Wordle Word? Yes – Valid Guess & Meaning
 word: sixes
 description: Yes, SIXES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,4 +40,19 @@ neighbours:
 trap:
   pattern: SI_ES
   count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: The digit or figure 6.
+  - text: "(by ellipsis of six o'clock) Rear, behind (rear side of something)."
+    example: cover my six
+  - text: An event whereby a batsman hits a ball which does not bounce before passing
+      over a boundary in the air, resulting in an award of 6 runs for the batting
+      team.
+  - text: A touchdown.
+  - text: Small beer sold at six shillings per barrel.
+- pos: noun
+  defs:
+  - text: A pair of sixes.
+  - text: Short for six of one, half a dozen of the other.
 ---

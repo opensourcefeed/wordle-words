@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is OILER a Wordle Word?
-head_title: Is OILER a Wordle Word? Yes – Valid Guess
+head_title: Is OILER a Wordle Word? Yes – Valid Guess & Meaning
 word: oiler
 description: Yes, OILER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,4 +43,14 @@ anagrams:
 trap:
   pattern: _ILER
   count: 7
+phonetic: "/ˈɔɪlə/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who or that which oils.
+  - text: An oil tanker.
+  - text: An oil well.
+  - text: A small (typically thumb-sized) metal container of oil, often containing
+      an integral brush.
+  - text: An oilskin coat.
 ---

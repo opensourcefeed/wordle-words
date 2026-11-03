@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SPUDS a Wordle Word?
-head_title: Is SPUDS a Wordle Word? Yes – Valid Guess
+head_title: Is SPUDS a Wordle Word? Yes – Valid Guess & Meaning
 word: spuds
 description: Yes, SPUDS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -27,4 +28,17 @@ neighbours:
 - spugs
 - spurs
 - studs
+definitions:
+- pos: noun
+  defs:
+  - text: A potato.
+  - text: A hole in a sock.
+  - text: A type of short nut (fastener) threaded on both ends.
+  - text: Anything short and thick.
+  - text: A piece of dough boiled in fat.
+  - text: "(usually in the plural) A testicle."
+  - text: A dagger.
+  - text: A digging fork with three broad prongs.
+  - text: A tool, similar to a spade, used for digging out weeds etc.
+  - text: A barking spud; a long-handled tool for removing bark from logs.
 ---

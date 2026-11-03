@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TANKA a Wordle Word?
-head_title: Is TANKA a Wordle Word? Yes – Valid Guess
+head_title: Is TANKA a Wordle Word? Yes – Valid Guess & Meaning
 word: tanka
 description: Yes, TANKA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,4 +32,8 @@ neighbours:
 anagrams:
 - kanat
 - natak
+definitions:
+- pos: noun
+  defs:
+  - text: A form of Japanese verse in five lines of 5, 7, 5, 7, and 7 morae.
 ---

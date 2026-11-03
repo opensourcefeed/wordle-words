@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is TOADY a Wordle Word?
-head_title: 'Is TOADY a Wordle Word? Yes – Past Answer #1764'
+head_title: 'Is TOADY a Wordle Word? Yes – Past Answer #1764 & Meaning'
 word: toady
 description: Yes, TOADY is a valid Wordle word. It was the Wordle answer on April
-  18, 2026 (#1764). See its starter rating and similar words.
+  18, 2026 (#1764). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on April 18, 2026 (#1764).
 past_answers:
@@ -35,4 +35,13 @@ neighbours:
 - woady
 anagrams:
 - today
+definitions:
+- pos: noun
+  defs:
+  - text: A sycophant who flatters others to gain personal advantage or an obsequious
+      lackey or minion
+  - text: A coarse, rustic woman.
+- pos: verb
+  defs:
+  - text: "(construed with to) To behave like a toady (to someone)."
 ---

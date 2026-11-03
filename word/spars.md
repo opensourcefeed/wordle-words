@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SPARS a Wordle Word?
-head_title: Is SPARS a Wordle Word? Yes – Valid Guess
+head_title: Is SPARS a Wordle Word? Yes – Valid Guess & Meaning
 word: spars
 description: Yes, SPARS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,4 +40,30 @@ anagrams:
 trap:
   pattern: SPA_S
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A rafter of a roof.
+  - text: A thick pole or piece of wood.
+  - text: A bar of wood used to fasten a door.
+  - text: Any linear object used as a mast, sprit, yard, boom, pole or gaff.
+  - text: A beam-like structural member that supports ribs in an aircraft wing or
+      other airfoil.
+- pos: verb
+  defs:
+  - text: To bolt, bar.
+  - text: To supply or equip (a vessel) with spars.
+- pos: noun
+  defs:
+  - text: A sparring session; a preliminary fight, as in boxing or cock-fighting.
+- pos: verb
+  defs:
+  - text: To fight, especially as practice for martial arts or hand-to-hand combat.
+  - text: To strike with the feet or spurs, as cocks do.
+  - text: To contest in words; to wrangle.
+- pos: noun
+  defs:
+  - text: Any of various microcrystalline minerals, of light, translucent, or transparent
+      appearance, which are easily cleft.
+  - text: Any crystal with readily discernible faces.
 ---

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SPATS a Wordle Word?
-head_title: Is SPATS a Wordle Word? Yes – Valid Guess
+head_title: Is SPATS a Wordle Word? Yes – Valid Guess & Meaning
 word: spats
 description: Yes, SPATS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,4 +41,27 @@ anagrams:
 trap:
   pattern: SPA_S
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: "(often in the plural) A covering or decorative covering worn over a shoe."
+  - text: A piece of bodywork that covers the upper portions of the rear tyres of
+      a car.
+- pos: noun
+  defs:
+  - text: A brief argument, falling out, quarrel.
+    example: get into a trivial spat over punctuality
+- pos: noun
+  defs:
+  - text: A light blow with something flat.
+- pos: noun
+  defs:
+  - text: An obsolete unit of distance in astronomy (symbol S), equal to one billion
+      kilometres.
+- pos: noun
+  defs:
+  - text: A stiff legging worn over the instep and ankles of a shoe.
+  - text: A similar device for horses.
+  - text: Long hair on front of lower legs of heavier horses (over the hooves), especially
+      draft horses, notably the Clydesdale breed.
 ---

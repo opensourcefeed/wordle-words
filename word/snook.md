@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SNOOK a Wordle Word?
-head_title: Is SNOOK a Wordle Word? Yes – Valid Guess
+head_title: Is SNOOK a Wordle Word? Yes – Valid Guess & Meaning
 word: snook
 description: Yes, SNOOK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,4 +32,13 @@ neighbours:
 - stook
 anagrams:
 - nooks
+phonetic: "/snuːk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A freshwater and marine fish of the family Centropomidae in the order Perciformes.
+  - text: Any of various other ray-finned fishes in several families.
+- pos: verb
+  defs:
+  - text: To fish for snook.
 ---

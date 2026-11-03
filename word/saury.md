@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SAURY a Wordle Word?
-head_title: Is SAURY a Wordle Word? Yes – Valid Guess
+head_title: Is SAURY a Wordle Word? Yes – Valid Guess & Meaning
 word: saury
 description: Yes, SAURY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,4 +24,10 @@ stats:
 neighbours:
 - saucy
 - kaury
+phonetic: "/ˈsɔː.ɹi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A marine epipelagic fish of the family Scomberesocidae, with beaklike jaws
+      and a row of small finlets behind the dorsal and anal fins.
 ---

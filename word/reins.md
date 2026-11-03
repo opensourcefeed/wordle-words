@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REINS a Wordle Word?
-head_title: Is REINS a Wordle Word? Yes – Valid Guess
+head_title: Is REINS a Wordle Word? Yes – Valid Guess & Meaning
 word: reins
 description: Yes, REINS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -45,4 +46,21 @@ anagrams:
 trap:
   pattern: _EINS
   count: 7
+phonetic: "/ɹeɪnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A strap or rope attached to a bridle or bit, used to control a horse, animal
+      or young child.
+  - text: An instrument or means of curbing, restraining, or governing.
+- pos: verb
+  defs:
+  - text: To direct or stop a horse by using reins.
+  - text: To restrain; to control; to check.
+  - text: To obey directions given with the reins.
+- pos: noun
+  defs:
+  - text: "(chiefly in plural) A kidney."
+  - text: The inward impulses; the affections and passions, formerly supposed to be
+      located in the area of the kidneys.
 ---

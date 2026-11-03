@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SEGOS a Wordle Word?
-head_title: Is SEGOS a Wordle Word? Yes – Valid Guess
+head_title: Is SEGOS a Wordle Word? Yes – Valid Guess & Meaning
 word: segos
 description: Yes, SEGOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,4 +35,9 @@ neighbours:
 anagrams:
 - gesso
 - gosse
+definitions:
+- pos: noun
+  defs:
+  - text: A perennial bulb lily found in Western North America, the Calochortus nuttallii,
+      which has trumpet-shaped flowers.
 ---

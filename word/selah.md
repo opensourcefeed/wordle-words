@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SELAH a Wordle Word?
-head_title: Is SELAH a Wordle Word? Yes – Valid Guess
+head_title: Is SELAH a Wordle Word? Yes – Valid Guess & Meaning
 word: selah
 description: Yes, SELAH is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,4 +32,14 @@ anagrams:
 - halse
 - heals
 - sheal
+phonetic: "/ˈsiːlə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A pause or rest of a contemplative nature.
+- pos: interjection
+  defs:
+  - text: A word occurring between verses or paragraphs in parts of the Hebrew Bible,
+      namely in Habakkuk and the Psalms; perhaps indicating a pause, either for contemplation
+      or for the singer to clear his or her throat.
 ---

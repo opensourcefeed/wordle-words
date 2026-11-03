@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SIKAS a Wordle Word?
-head_title: Is SIKAS a Wordle Word? Yes – Valid Guess
+head_title: Is SIKAS a Wordle Word? Yes – Valid Guess & Meaning
 word: sikas
 description: Yes, SIKAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,4 +32,11 @@ neighbours:
 - tikas
 anagrams:
 - sakis
+definitions:
+- pos: noun
+  defs:
+  - text: Cervus nippon, a deer found in the forests of East Asia
+- pos: noun
+  defs:
+  - text: A traditional Bangladeshi hanging basket
 ---

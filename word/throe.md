@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is THROE a Wordle Word?
-head_title: Is THROE a Wordle Word? Yes – Valid Guess
+head_title: Is THROE a Wordle Word? Yes – Valid Guess & Meaning
 word: throe
 description: Yes, THROE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,4 +31,15 @@ neighbours:
 anagrams:
 - other
 - theor
+phonetic: "/θɹəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A pang, spasm.
+  - text: "(usually plural) A hard struggle."
+  - text: A tool for splitting wood into shingles; a frow.
+- pos: verb
+  defs:
+  - text: To put in agony.
+  - text: To struggle in extreme pain; to be in agony; to agonize.
 ---

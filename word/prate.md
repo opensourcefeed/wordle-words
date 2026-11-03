@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is PRATE a Wordle Word?
-head_title: Is PRATE a Wordle Word? Yes – Valid Guess
+head_title: Is PRATE a Wordle Word? Yes – Valid Guess & Meaning
 word: prate
 description: Yes, PRATE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -49,4 +50,12 @@ anagrams:
 trap:
   pattern: _RATE
   count: 8
+phonetic: "/pɹeɪt/"
+definitions:
+- pos: noun
+  defs:
+  - text: Talk to little purpose; trifling talk; unmeaningful loquacity.
+- pos: verb
+  defs:
+  - text: To talk much and to little purpose; to be loquacious; to speak foolishly.
 ---

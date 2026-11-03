@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SCARP a Wordle Word?
-head_title: Is SCARP a Wordle Word? Yes – Valid Guess
+head_title: Is SCARP a Wordle Word? Yes – Valid Guess & Meaning
 word: scarp
 description: Yes, SCARP is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,4 +39,16 @@ anagrams:
 trap:
   pattern: SCAR_
   count: 6
+phonetic: "/skɑːp/"
+definitions:
+- pos: noun
+  defs:
+  - text: The steep artificial slope below a fort's parapet
+  - text: A cliff at the edge of a plateau or ridge caused by erosion or faulting;
+      the steeper side of an escarpment
+- pos: verb
+  defs:
+  - text: "(earth science) to cut, scrape, erode, or otherwise make into a scarp or
+      escarpment"
+    example: to scarp the face of a ditch or a rock
 ---

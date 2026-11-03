@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is SNAFU a Wordle Word?
-head_title: 'Is SNAFU a Wordle Word? Yes – Past Answer #659'
+head_title: 'Is SNAFU a Wordle Word? Yes – Past Answer #659 & Meaning'
 word: snafu
 description: Yes, SNAFU is a valid Wordle word. It was the Wordle answer on April
-  9, 2023 (#659). See its starter rating and similar words.
+  9, 2023 (#659). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on April 9, 2023 (#659).
 past_answers:
@@ -26,4 +26,12 @@ stats:
 anagrams:
 - fauns
 - saunf
+definitions:
+- pos: noun
+  defs:
+  - text: A ridiculously chaotic situation.
+  - text: A major glitch or breakdown.
+- pos: verb
+  defs:
+  - text: To screw up or foul up.
 ---

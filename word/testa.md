@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TESTA a Wordle Word?
-head_title: Is TESTA a Wordle Word? Yes – Valid Guess
+head_title: Is TESTA a Wordle Word? Yes – Valid Guess & Meaning
 word: testa
 description: Yes, TESTA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,4 +40,9 @@ anagrams:
 - etats
 - tates
 - teats
+definitions:
+- pos: noun
+  defs:
+  - text: A seed coat.
+  - text: The external calciferous shell, or endoskeleton, of an echinoderm; the test.
 ---

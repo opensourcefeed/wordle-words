@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SERIN a Wordle Word?
-head_title: Is SERIN a Wordle Word? Yes – Valid Guess
+head_title: Is SERIN a Wordle Word? Yes – Valid Guess & Meaning
 word: serin
 description: Yes, SERIN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,4 +37,8 @@ anagrams:
 - siren
 - reins
 - rines
+definitions:
+- pos: noun
+  defs:
+  - text: Any of various small finches in the genus Serinus, with largely yellow plumage.
 ---

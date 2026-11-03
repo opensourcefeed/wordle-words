@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SEPOY a Wordle Word?
-head_title: Is SEPOY a Wordle Word? Yes – Valid Guess
+head_title: Is SEPOY a Wordle Word? Yes – Valid Guess & Meaning
 word: sepoy
 description: Yes, SEPOY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,4 +27,11 @@ anagrams:
 - poesy
 - posey
 - poyse
+phonetic: "/ˈsiːˌpɔɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A native soldier of the East Indies, employed in the service of a European
+      colonial power, notably the British India army (first under the British-chartered
+      East India Company, later in the crown colony), but also France and Portugal.
 ---

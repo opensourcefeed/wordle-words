@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is REKEY a Wordle Word?
-head_title: Is REKEY a Wordle Word? Yes – Valid Guess
+head_title: Is REKEY a Wordle Word? Yes – Valid Guess & Meaning
 word: rekey
 description: Yes, REKEY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,4 +29,12 @@ neighbours:
 anagrams:
 - keyer
 - reeky
+definitions:
+- pos: verb
+  defs:
+  - text: To enter information into a device, such as a keyboard or keypad, after
+      it has been done at least once before.
+    example: She had to rekey the security code.
+  - text: To modify (a lock or its cylinder) to change which keys will open it.
+  - text: To change the key or tenor of; to reframe.
 ---

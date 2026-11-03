@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SEEMS a Wordle Word?
-head_title: Is SEEMS a Wordle Word? Yes – Valid Guess
+head_title: Is SEEMS a Wordle Word? Yes – Valid Guess & Meaning
 word: seems
 description: Yes, SEEMS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,4 +42,12 @@ anagrams:
 trap:
   pattern: _EEMS
   count: 6
+phonetic: "/siːmz/"
+definitions:
+- pos: verb
+  defs:
+  - text: To appear; to look outwardly; to be perceived as.
+    example: He seems to be ill.   Her eyes seem blue.   It seems like it is going
+      to rain later.   How did she seem to you?
+  - text: To befit; to beseem.
 ---

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TIRED a Wordle Word?
-head_title: Is TIRED a Wordle Word? Yes – Valid Guess
+head_title: Is TIRED a Wordle Word? Yes – Valid Guess & Meaning
 word: tired
 description: Yes, TIRED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,4 +43,29 @@ anagrams:
 trap:
   pattern: _IRED
   count: 8
+phonetic: "/taɪəd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To become sleepy or weary.
+  - text: To make sleepy or weary.
+  - text: To become bored or impatient (with).
+    example: I tire of this book.
+  - text: To bore.
+- pos: verb
+  defs:
+  - text: To dress or adorn.
+- pos: verb
+  defs:
+  - text: To seize, pull, and tear prey, as a hawk does.
+  - text: To seize, rend, or tear something as prey; to be fixed upon, or engaged
+      with, anything.
+- pos: adjective
+  defs:
+  - text: In need of some rest or sleep.
+  - text: Fed up, annoyed, irritated, sick of.
+    example: I'm tired of this
+  - text: Overused, cliché.
+    example: a tired song
+  - text: Ineffectual; incompetent
 ---

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SLEYS a Wordle Word?
-head_title: Is SLEYS a Wordle Word? Yes – Valid Guess
+head_title: Is SLEYS a Wordle Word? Yes – Valid Guess & Meaning
 word: sleys
 description: Yes, SLEYS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,4 +34,14 @@ neighbours:
 - sweys
 anagrams:
 - lyses
+definitions:
+- pos: noun
+  defs:
+  - text: Reed (of a loom)
+  - text: A guideway in a knitting machine.
+  - text: The number of ends per inch in the cloth, provided each dent in the reed
+      in which it was made contained an equal number of ends.
+- pos: verb
+  defs:
+  - text: To separate or part the threads of, and arrange them in a reed.
 ---

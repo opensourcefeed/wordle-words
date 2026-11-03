@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TABUS a Wordle Word?
-head_title: Is TABUS a Wordle Word? Yes – Valid Guess
+head_title: Is TABUS a Wordle Word? Yes – Valid Guess & Meaning
 word: tabus
 description: Yes, TABUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,4 +39,10 @@ anagrams:
 - buats
 - tsuba
 - tubas
+definitions:
+- pos: noun
+  defs:
+  - text: An inhibition or ban that results from social custom or emotional aversion.
+  - text: "(in Polynesia) Something which may not be used, approached or mentioned
+      because it is sacred."
 ---

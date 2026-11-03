@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TAPAS a Wordle Word?
-head_title: Is TAPAS a Wordle Word? Yes – Valid Guess
+head_title: Is TAPAS a Wordle Word? Yes – Valid Guess & Meaning
 word: tapas
 description: Yes, TAPAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,4 +42,11 @@ anagrams:
 trap:
   pattern: TA_AS
   count: 9
+phonetic: "/ˈtæp.æs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A variety of Spanish small food items or snacks, originally served with
+      sherry.
+  - text: "(by extension) Small food items generally."
 ---

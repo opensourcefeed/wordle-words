@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STOWS a Wordle Word?
-head_title: Is STOWS a Wordle Word? Yes – Valid Guess
+head_title: Is STOWS a Wordle Word? Yes – Valid Guess & Meaning
 word: stows
 description: Yes, STOWS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,4 +40,12 @@ anagrams:
 trap:
   pattern: STO_S
   count: 7
+definitions:
+- pos: verb
+  defs:
+  - text: To put something away in a compact and tidy manner, in its proper place,
+      or in a suitable place.
+  - text: To store or pack something in a space-saving manner and over a long time.
+  - text: To arrange, pack, or fill something tightly or closely.
+  - text: To dispose, lodge, or hide somebody somewhere.
 ---

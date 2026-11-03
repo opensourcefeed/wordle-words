@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SNIPS a Wordle Word?
-head_title: Is SNIPS a Wordle Word? Yes – Valid Guess
+head_title: Is SNIPS a Wordle Word? Yes – Valid Guess & Meaning
 word: snips
 description: Yes, SNIPS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,4 +34,26 @@ neighbours:
 - snits
 anagrams:
 - spins
+phonetic: "/snɪps/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act of snipping; cutting a small amount off of something.
+  - text: A single cut with scissors, clippers, or similar tool.
+  - text: Something acquired for a low price; a bargain.
+    example: That wholesale lot on eBay was a snip at $10
+  - text: A small amount of something; a pinch.
+  - text: "(definite, the snip) A vasectomy."
+  - text: A small or weak person, especially a young one.
+  - text: An impertinent or mischievous person.
+  - text: A share or portion; a snack.
+  - text: A tailor.
+- pos: verb
+  defs:
+  - text: To cut with short sharp actions, as with scissors.
+    example: I don't want you to take much hair off; just snip my mullet off.
+  - text: To reduce the price of a product, to create a snip.
+  - text: To break off; to snatch away.
+  - text: To circumcise.
+  - text: To remove the irrelevant parts of quotations in the reply message.
 ---

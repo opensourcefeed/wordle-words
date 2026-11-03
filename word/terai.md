@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TERAI a Wordle Word?
-head_title: Is TERAI a Wordle Word? Yes – Valid Guess
+head_title: Is TERAI a Wordle Word? Yes – Valid Guess & Meaning
 word: terai
 description: Yes, TERAI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,4 +33,11 @@ anagrams:
 - irate
 - retia
 - tiare
+phonetic: "/təˈɹaɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A belt of marshy land, which lies between the foothills of the Himalayas
+      and the plains.
+  - text: A terai hat.
 ---

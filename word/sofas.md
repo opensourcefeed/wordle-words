@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOFAS a Wordle Word?
-head_title: Is SOFAS a Wordle Word? Yes – Valid Guess
+head_title: Is SOFAS a Wordle Word? Yes – Valid Guess & Meaning
 word: sofas
 description: Yes, SOFAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,4 +39,15 @@ anagrams:
 trap:
   pattern: SO_AS
   count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A raised area of a building's floor, usually covered with carpeting, used
+      for sitting.
+  - text: "(furniture) An upholstered seat with a raised back and one or two raised
+      ends, long enough to comfortably accommodate two or more people."
+- pos: verb
+  defs:
+  - text: To furnish with one or more sofas.
+  - text: To seat or lay down on a sofa.
 ---

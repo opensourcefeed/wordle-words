@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TELES a Wordle Word?
-head_title: Is TELES a Wordle Word? Yes – Valid Guess
+head_title: Is TELES a Wordle Word? Yes – Valid Guess & Meaning
 word: teles
 description: Yes, TELES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -44,4 +45,15 @@ anagrams:
 trap:
   pattern: _ELES
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: Television.
+    example: Not much on telly tonight, as usual!
+  - text: A television set.
+    example: We've got a new flat-screen telly.
+- pos: noun
+  defs:
+  - text: A hotel or motel.
+    example: I'm staying at the telly this weekend.
 ---

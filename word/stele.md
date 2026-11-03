@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is STELE a Wordle Word?
-head_title: Is STELE a Wordle Word? Yes – Valid Guess
+head_title: Is STELE a Wordle Word? Yes – Valid Guess & Meaning
 word: stele
 description: Yes, STELE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,4 +38,35 @@ anagrams:
 - leets
 - teels
 - teles
+phonetic: "/stiːl/"
+definitions:
+- pos: noun
+  defs:
+  - text: Something stale; a loaf of bread or the like that is no longer fresh.
+- pos: noun
+  defs:
+  - text: A long, thin handle (of rakes, axes, etc.)
+  - text: The posts and rungs composing a ladder.
+  - text: The stem of a plant.
+  - text: The shaft of an arrow, spear, etc.
+- pos: noun
+  defs:
+  - text: A fixed position, particularly a soldier's in a battle-line.
+  - text: A stalemate; a stalemated game.
+  - text: An ambush.
+  - text: A band of armed men or hunters.
+  - text: The main force of an army.
+- pos: noun
+  defs:
+  - text: "(livestock) Urine, especially used of horses and cattle."
+- pos: noun
+  defs:
+  - text: A live bird to lure birds of prey or others of its kind into a trap.
+  - text: Any lure, particularly in reference to people used as live bait.
+  - text: An accomplice of a thief or criminal acting as bait.
+  - text: A partner whose beloved abandons or torments him in favor of another.
+  - text: A patsy, a pawn, someone used under some false pretext to forward another's
+      (usu. sinister) designs; a stalking horse.
+  - text: A prostitute of the lowest sort; any wanton woman.
+  - text: Any decoy, either stuffed or manufactured.
 ---

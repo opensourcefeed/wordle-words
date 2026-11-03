@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SEERS a Wordle Word?
-head_title: Is SEERS a Wordle Word? Yes – Valid Guess
+head_title: Is SEERS a Wordle Word? Yes – Valid Guess & Meaning
 word: seers
 description: Yes, SEERS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,4 +43,12 @@ anagrams:
 trap:
   pattern: _EERS
   count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: One who sees something; an eyewitness.
+  - text: One who foretells the future; a clairvoyant, prophet, soothsayer or diviner.
+- pos: noun
+  defs:
+  - text: Unit of mass or volume in the Middle East and Indian subcontinent.
 ---

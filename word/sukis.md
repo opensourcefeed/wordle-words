@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SUKIS a Wordle Word?
-head_title: Is SUKIS a Wordle Word? Yes – Valid Guess
+head_title: Is SUKIS a Wordle Word? Yes – Valid Guess & Meaning
 word: sukis
 description: Yes, SUKIS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,4 +27,11 @@ neighbours:
 - sukhs
 - sumis
 - sunis
+definitions:
+- pos: noun
+  defs:
+  - text: In some Asian cultures, a favored customer, a regular who receives preferential
+      treatment.
+  - text: An opening to the enemy; a weak spot that provides an advantage for one's
+      opponent.
 ---

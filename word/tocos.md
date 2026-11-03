@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TOCOS a Wordle Word?
-head_title: Is TOCOS a Wordle Word? Yes – Valid Guess
+head_title: Is TOCOS a Wordle Word? Yes – Valid Guess & Meaning
 word: tocos
 description: Yes, TOCOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,4 +42,11 @@ anagrams:
 trap:
   pattern: TO_OS
   count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A toco toucan
+- pos: noun
+  defs:
+  - text: A pressure-sensitive contraction transducer used in cardiotocography.
 ---

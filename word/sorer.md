@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SORER a Wordle Word?
-head_title: Is SORER a Wordle Word? Yes – Valid Guess
+head_title: Is SORER a Wordle Word? Yes – Valid Guess & Meaning
 word: sorer
 description: Yes, SORER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,4 +42,17 @@ anagrams:
 trap:
   pattern: SORE_
   count: 6
+definitions:
+- pos: adjective
+  defs:
+  - text: Causing pain or discomfort; painfully sensitive.
+    example: Her feet were sore from walking so far.
+  - text: Sensitive; tender; easily pained, grieved, or vexed; very susceptible of
+      irritation.
+  - text: Dire; distressing.
+    example: The school was in sore need of textbooks, theirs having been ruined in
+      the flood.
+  - text: Feeling animosity towards someone; annoyed or angered.
+    example: Joe was sore at Bob for beating him at checkers.
+  - text: Criminal; wrong; evil.
 ---

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SINUS a Wordle Word?
-head_title: Is SINUS a Wordle Word? Yes – Valid Guess
+head_title: Is SINUS a Wordle Word? Yes – Valid Guess & Meaning
 word: sinus
 description: Yes, SINUS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,4 +36,14 @@ anagrams:
 trap:
   pattern: SIN_S
   count: 6
+phonetic: "/ˈsaɪnəs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A pouch or cavity in any organ or tissue, especially the paranasal sinus.
+  - text: A channel for transmitting venous blood.
+  - text: A notch or depression between two lobes or teeth in the margin of an organ.
+  - text: An abnormal cavity or passage such as a fistula, caused by the destruction
+      of tissue.
+  - text: A bay of the sea; a recess in the shore.
 ---

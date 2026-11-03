@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SAROS a Wordle Word?
-head_title: Is SAROS a Wordle Word? Yes – Valid Guess
+head_title: Is SAROS a Wordle Word? Yes – Valid Guess & Meaning
 word: saros
 description: Yes, SAROS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,4 +42,11 @@ anagrams:
 - rossa
 - soars
 - soras
+definitions:
+- pos: noun
+  defs:
+  - text: "(history, Babylon) A quantity of 3600, such as a period of 3600 years."
+  - text: A period of 223 synodic months (approximately 18 years 11 days 8 hours),
+      after which the relative positions of the earth, sun and moon recur, used to
+      predict eclipses.
 ---

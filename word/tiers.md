@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TIERS a Wordle Word?
-head_title: Is TIERS a Wordle Word? Yes – Valid Guess
+head_title: Is TIERS a Wordle Word? Yes – Valid Guess & Meaning
 word: tiers
 description: Yes, TIERS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -45,4 +46,19 @@ anagrams:
 trap:
   pattern: _IERS
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: One who ties (knots, etc).
+  - text: Something that ties.
+  - text: A child's apron.
+- pos: noun
+  defs:
+  - text: A layer or rank, especially of seats or a wedding cake.
+- pos: verb
+  defs:
+  - text: To arrange in layers.
+  - text: To cascade in an overlapping sequence.
+  - text: To move (data) from one storage medium to another as an optimization, based
+      on how frequently it is accessed.
 ---

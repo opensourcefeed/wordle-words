@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SEINE a Wordle Word?
-head_title: Is SEINE a Wordle Word? Yes – Valid Guess
+head_title: Is SEINE a Wordle Word? Yes – Valid Guess & Meaning
 word: seine
 description: Yes, SEINE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,4 +33,13 @@ neighbours:
 - seise
 anagrams:
 - insee
+phonetic: "/seɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A long net having floats attached at the top and sinkers (weights) at the
+      bottom, used in shallow water for catching fish.
+- pos: verb
+  defs:
+  - text: To use a seine, to fish with a seine.
 ---

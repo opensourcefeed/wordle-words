@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SCULL a Wordle Word?
-head_title: Is SCULL a Wordle Word? Yes – Valid Guess
+head_title: Is SCULL a Wordle Word? Yes – Valid Guess & Meaning
 word: scull
 description: Yes, SCULL is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,4 +29,18 @@ neighbours:
 - stull
 anagrams:
 - culls
+phonetic: "/skʌl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A single oar mounted at the stern of a boat and moved from side to side
+      to propel the boat forward.
+  - text: One of a pair of oars handled by a single rower.
+  - text: A small rowing boat, for one person.
+  - text: A light rowing boat used for racing by one, two, or four rowers, each operating
+      two oars (sculls), one in each hand.
+- pos: verb
+  defs:
+  - text: To row a boat using a scull or sculls.
+  - text: To skate while keeping both feet in contact with the ground or ice.
 ---

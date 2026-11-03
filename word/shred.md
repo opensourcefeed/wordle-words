@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is SHRED a Wordle Word?
-head_title: 'Is SHRED a Wordle Word? Yes – Past Answer #1712'
+head_title: 'Is SHRED a Wordle Word? Yes – Past Answer #1712 & Meaning'
 word: shred
 description: Yes, SHRED is a valid Wordle word. It was the Wordle answer on February
-  25, 2026 (#1712). See its starter rating and similar words.
+  25, 2026 (#1712). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on February 25, 2026 (#1712).
 past_answers:
@@ -39,4 +39,11 @@ anagrams:
 trap:
   pattern: S_RED
   count: 7
+phonetic: "/ʃɹɛd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A long, narrow piece cut or torn off; a strip.
+  - text: In general, a fragment; a piece; a particle; a very small amount.
+    example: There isn't a shred of evidence to support his claims.
 ---

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SOLES a Wordle Word?
-head_title: Is SOLES a Wordle Word? Yes – Valid Guess
+head_title: Is SOLES a Wordle Word? Yes – Valid Guess & Meaning
 word: soles
 description: Yes, SOLES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -44,4 +45,20 @@ anagrams:
 trap:
   pattern: _OLES
   count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: A wooden band or yoke put around the neck of an ox or cow in the stall.
+- pos: noun
+  defs:
+  - text: A pond or pool; a dirty pond of standing water.
+- pos: noun
+  defs:
+  - text: The bottom or plantar surface of the foot.
+  - text: "(footwear) The bottom of a shoe or boot."
+  - text: The foot itself.
+  - text: Solea solea, a flatfish of the family Soleidae.
+  - text: The bottom or lower part of anything, or that on which anything rests in
+      standing.
+  - text: The seat or bottom of a mine; applied to horizontal veins or lodes.
 ---

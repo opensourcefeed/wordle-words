@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TEMPS a Wordle Word?
-head_title: Is TEMPS a Wordle Word? Yes – Valid Guess
+head_title: Is TEMPS a Wordle Word? Yes – Valid Guess & Meaning
 word: temps
 description: Yes, TEMPS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -33,4 +34,12 @@ neighbours:
 - tymps
 anagrams:
 - empts
+definitions:
+- pos: noun
+  defs:
+  - text: A temporary employee, usually in an office.
+  - text: A temporary storage location.
+- pos: verb
+  defs:
+  - text: To work as a temporary employee.
 ---

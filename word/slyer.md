@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SLYER a Wordle Word?
-head_title: Is SLYER a Wordle Word? Yes – Valid Guess
+head_title: Is SLYER a Wordle Word? Yes – Valid Guess & Meaning
 word: slyer
 description: Yes, SLYER is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,4 +31,13 @@ neighbours:
 - slier
 anagrams:
 - lyres
+definitions:
+- pos: adjective
+  defs:
+  - text: Artfully cunning; secretly mischievous; wily.
+  - text: "(having a positive sense) Dexterous in performing an action, so as to escape
+      notice"
+  - text: Done with, and marked by, artful and dexterous secrecy; subtle
+    example: a sly trick
+  - text: Light or delicate; slight; thin.
 ---

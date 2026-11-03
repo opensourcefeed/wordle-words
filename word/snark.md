@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is SNARK a Wordle Word?
-head_title: Is SNARK a Wordle Word? Yes – Valid Guess
+head_title: Is SNARK a Wordle Word? Yes – Valid Guess & Meaning
 word: snark
 description: Yes, SNARK is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,4 +41,13 @@ anagrams:
 trap:
   pattern: SNAR_
   count: 6
+phonetic: "/snɑː(ɹ)k/"
+definitions:
+- pos: noun
+  defs:
+  - text: Snide remarks.
+- pos: verb
+  defs:
+  - text: To express oneself in a snarky fashion.
+  - text: To snort.
 ---

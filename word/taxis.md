@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TAXIS a Wordle Word?
-head_title: Is TAXIS a Wordle Word? Yes – Valid Guess
+head_title: Is TAXIS a Wordle Word? Yes – Valid Guess & Meaning
 word: taxis
 description: Yes, TAXIS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -31,4 +32,13 @@ neighbours:
 - tapis
 - taxes
 - taxus
+phonetic: "/ˈtæksɪs/"
+definitions:
+- pos: noun
+  defs:
+  - text: The directional movement of an organism in response to a stimulus.
+  - text: The manipulation of a body part into its normal position after injury.
+  - text: The arrangement of the parts of a topic.
+  - text: Arrangement or ordering generally, as in architecture or grammar
+  - text: A brigade in an Ancient Greek army.
 ---
