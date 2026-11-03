@@ -1,0 +1,43 @@
+# Words people search for ("is BURPY a wordle word") that Wordle does NOT accept.
+# Each gets a static "No" page at /word/<word>/ via scripts/build_invalid_pages.rb.
+#
+# Only add words with real search demand. Find them with:
+#   GSC_KEY_FILE=… ruby scripts/gsc.rb candidates 90 10
+# Seeded 2026-11-03 from 90 days of Search Console data (words with >= 10
+# impressions; all of those searches landed on /puzzles/wordle-solver/).
+#
+# word: lowercase, any length. note: optional extra explanation shown on the page.
+invalid-words:
+- word: burpy
+- word: wishy
+  note: WISHY usually appears in the phrase "wishy-washy", which Wordle can't accept because it is hyphenated and longer than five letters.
+- word: flexy
+- word: cason
+- word: cadon
+- word: crist
+- word: gurny
+  note: GURNY is a common misspelling of GURNEY, a wheeled stretcher, which has six letters.
+- word: rippy
+- word: wiffy
+- word: cosse
+- word: ginko
+  note: GINKO is a common misspelling of GINKGO, the tree, which has six letters.
+- word: plexy
+- word: bucky
+- word: pimpy
+- word: rizzy
+  note: RIZZY comes from the recent slang word "rizz" (charm). Wordle's word list doesn't include it.
+- word: coist
+- word: richy
+- word: hogey
+- word: slone
+- word: wizzy
+- word: boist
+- word: lurky
+- word: midly
+  note: MIDLY is a common misspelling of MILDLY, which has six letters.
+- word: rambo
+  note: Rambo is a name (the film character), and Wordle doesn't accept proper nouns.
+- word: poist
+- word: soley
+  note: SOLEY is a common misspelling of SOLELY, which has six letters.

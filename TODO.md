@@ -51,7 +51,8 @@ Competitors such as fiveletterwords.io already show all three. A bare "Yes, it's
 - [x] **Thin-content fix (2026-11-03)**: filled 4,922 of the 6,953 missing definitions from the kaikki.org Wiktionary extract (same source and license as the API, streamed with `scripts/extract_kaikki.rb`, about 2 minutes per pass, nothing stored). A second pass looks up the base word of "form of" entries, so 2,168 of them read like "Plural of tift: A fit of pettishness…" (`scripts/import_definitions.rb`). The 2,031 valid guesses still without a definition get `noindex, follow` and no sitemap entry (`scripts/build_pages.rb`); they stay on the site for the checker and the word lists. Pages with a definition: 7,891 → 12,824 of 14,855; sitemap 15,301 → 13,270 URLs. (H, M)
 - [x] **Structured data**: `BreadcrumbList` + `DefinedTerm` JSON-LD on word pages, alongside `jekyll-seo-tag`'s `WebPage`. Skipped `WebSite`/`SearchAction`, because Google retired the sitelinks search box in late 2024. (M, S)
 - [x] **"No" answers**: the 404 page checks the requested word (`/word/xyzzq`) against `assets/words.json`. It says why it isn't valid (not in the list, wrong length, non-letters), suggests valid words one letter away, and includes a check-another-word box. (M, M)
-- [ ] **Static pages for popular invalid words** (4- and 6-letter words, proper nouns): wait for Search Console data to show which ones people actually search. (M, M)
+- [x] **Static pages for popular invalid words** (2026-11-03): `scripts/gsc.rb candidates [days] [min]` finds "is X a wordle word" searches for words Wordle rejects, across the whole property. Seeded `_data/invalid-words.yml` with the 26 words that had >= 10 impressions in 90 days (BURPY 281, WISHY 99, FLEXY 74…). `scripts/build_invalid_pages.rb` builds a "No" page per word at `/word/<word>/` (reason, optional note such as a misspelling, valid words one letter away / anagrams, or one letter added/removed for 4- and 6-letter words) and the `/not-in-word-list/` list page, linked from Browse. **Monthly:** re-run `candidates`, add new words with real demand, rebuild. (M, M)
+- [ ] **Link the Wordle Solver to the checker**: all 13,590 impressions for "… a wordle word" searches in the last 90 days landed on `/puzzles/wordle-solver/` (puzzles repo). Add a visible "Is it a valid Wordle word? Check it here" link there to `/wordle-words/`. (H, S)
 - [ ] **Keep data fresh**: run `ruby scripts/update_past_answers.rb && bundle exec ruby scripts/build_pages.rb` weekly. Best automated with a scheduled GitHub Action (see P5). (M, S)
 
 **Page-data workflow:** `generate_word_pages.rb` (fetch missing definitions) → `scripts/update_past_answers.rb` → `scripts/build_pages.rb` → `scripts/build_hubs.rb` → `scripts/validate_words.rb`.
@@ -85,16 +86,16 @@ The home page's word list is built entirely by JavaScript from 120 KB of inline 
 
 Users judge a site's trust and quality in the first few seconds. A polished design raises dwell time, return visits and click-through to the puzzles. Do this alongside dropping Bootstrap, so the new design is built once.
 
-- [ ] **Design tokens**: define colours, spacing, radius and shadows as CSS variables, with light and dark sets. Use Wordle-like status colours (green/yellow/grey) as accents only, in your own shades, not NYT's exact palette. (M, S)
-- [ ] **Typography**: one distinctive display font for headings and word tiles, plus a clean system or Inter-style body font. Self-host the fonts or use `font-display: swap`. Use a consistent type scale. (M, S)
-- [ ] **Hero word tiles on word pages**: show TIGER as 5 letter tiles with a subtle flip-in animation, colour-coded by answer status. Respect `prefers-reduced-motion`. (H, S)
-- [ ] **Status badges and answer card**: pill badges for "Valid guess", "Possible answer" and "Past answer #NNN · date", in one prominent card at the top of the page. (H, S)
-- [ ] **Card-based layout**: separate cards for Definition, Wordle stats, Neighbours and Anagrams, and Play. Use generous whitespace, keep body text to a max width of about 720 px, and add small icons (inline SVG, no icon font). (M, M)
-- [ ] **Branded header and footer**: logo or wordmark, nav (Browse A–Z, Past answers, Solver, Play puzzles), and a footer with About, Privacy, Attribution and links to the other puzzles. Replace the plain Bootstrap dark navbar. (M, S)
-- [ ] **Micro-interactions**: hover and press states on word tiles, instant checker feedback (✅/❌ animation), skeleton or placeholder states, smooth scrolling for pagination. (M, S)
-- [ ] **Tidy ad integration**: ads in clearly labelled, consistently styled slots between content cards, never between the H1 and the answer. Cluttered ad placement is the fastest way to look cheap. (H, S)
-- [ ] **Per-word social share images** (Open Graph): a tile-style image of the word, so links shared on social and chat apps look polished. Start with one generic branded image, then generate per-word images in the CI build. (M, M)
-- [ ] **Consistency pass**: use the same components on the home, browse, word, 404 and About pages. Check at 360 px, 768 px and 1280 px widths, in both light and dark mode. (M, S)
+- [x] **Design tokens**: colours, type scale, spacing, radius and shadows are CSS variables in `_includes/site.scss`, with light and dark sets. Brand follows the Tahrik Studio puzzles hub (deep teal, bright tiles with dark letters), not NYT colours. Every text pair passes WCAG AA in both themes. (M, S)
+- [x] **Typography**: Outfit (display: headings, tiles, word chips) self-hosted as one 32 KB variable woff2, preloaded, `font-display: swap`; system font for body text. CLS stays 0. (M, S)
+- [x] **Hero word tiles on word pages**: letter tiles with a staggered flip-in, coloured by answer status (green past, yellow possible, grey guess); no animation with `prefers-reduced-motion`. (H, S)
+- [x] **Status badges and answer card**: the H1, tiles, verdict and pill badges (Valid guess / Possible answer / Past answer #NNN · date) sit in one prominent card at the top. (H, S)
+- [x] **Card-based layout**: separate cards for Definition, Wordle stats (stat tiles), Related words, Browse and Play, max 760 px wide, each with an inline SVG icon (`_includes/icon.html`). (M, M)
+- [x] **Branded header and footer**: logo + wordmark on a teal gradient; nav Browse A–Z, Past answers, Possible answers, Solver, Play puzzles (scrolls sideways on phones); footer with site links, About, Attribution, puzzle links, privacy and NYT disclaimer. (M, S)
+- [x] **Micro-interactions**: lift and press states on word tiles, chips, links and buttons; checker shows a ✓/✕ pop and a shimmer placeholder while the word list loads; smooth scrolling (off with reduced motion). (M, S)
+- [x] **Tidy ad integration**: every slot is labelled "Advertisement", sits between cards (after the answer card, never between the H1 and the answer) and has its space reserved. (H, S)
+- [~] **Per-word social share images** (Open Graph): one branded 1200×630 image (`assets/og-image.jpg`) is now the default for every page. Per-word images still need a CI build step. (M, M)
+- [x] **Consistency pass**: home, word, hub, 404 and About pages use the same cards, buttons and chips; checked at 360, 768 and 1280 px in light and dark. (M, S)
 
 ## P4 – Engagement and funnel into the puzzles
 

@@ -1,0 +1,80 @@
+---
+layout: default
+---
+{%- comment -%} "No" page for a searched-for word Wordle rejects (scripts/build_invalid_pages.rb). {%- endcomment -%}
+{% assign up = page.word | upcase %}
+{% assign home = '/' | relative_url %}
+{% assign word_base = '/word/' | relative_url %}
+<nav class="crumbs" aria-label="Breadcrumb">
+    <a href="{{ home }}">All Wordle Words</a><span aria-hidden="true">›</span>
+    <a href="{{ '/not-in-word-list/' | relative_url }}">Not accepted</a><span aria-hidden="true">›</span>
+    <span aria-current="page">{{ up }}</span>
+</nav>
+
+<section class="answer-card status-invalid" aria-labelledby="word-title">
+    <h1 id="word-title">{{ page.title }}</h1>
+    <div class="tiles" aria-hidden="true">
+        {%- assign letters = page.word | split: '' %}
+        {% for l in letters %}<span class="tile">{{ l | upcase }}</span>{% endfor %}
+    </div>
+    <p class="verdict"><strong>No.</strong> {{ up }} is not a valid Wordle word.</p>
+    <ul class="badges">
+        <li class="badge-invalid">Not accepted</li>
+        <li class="badge-no">{{ page.word.size }} letters</li>
+    </ul>
+    <p class="answer-text">{{ page.reason }}</p>
+    {% if page.note %}<p class="rule-note">{{ page.note }}</p>{% endif %}
+</section>
+
+<div class="ad-slot">{% include ad.html %}</div>
+
+{% if page.suggestions.size > 0 %}
+<section class="card related">
+    <h2 class="card-title">{% include icon.html name='shuffle' %}Try these valid words instead</h2>
+    {% for s in page.suggestions %}
+    <h3>{{ s.label }}</h3>
+    <ul class="word-chips">
+        {% for w in s.words %}<li><a href="{{ word_base }}{{ w }}">{{ w | upcase }}</a></li>{% endfor %}
+    </ul>
+    {% endfor %}
+</section>
+{% endif %}
+
+<section class="card text-center">
+    <h2 class="card-title">{% include icon.html name='search' %}Check another word</h2>
+    <form class="checker" role="search" data-checker
+        data-words="{{ '/assets/words.json' | relative_url }}" data-base="{{ word_base }}">
+        <label for="checker-input" class="visually-hidden">Word to check</label>
+        <input id="checker-input" class="form-control" type="text" maxlength="15" autocomplete="off"
+            placeholder="Type a word" autocapitalize="none" spellcheck="false" enterkeyhint="search">
+        <button class="btn btn-primary" type="submit">Check</button>
+    </form>
+    <p id="checker-result" class="result" aria-live="polite"></p>
+    <div id="checker-suggest"></div>
+</section>
+
+<section class="card browse-more">
+    <h2 class="card-title">{% include icon.html name='grid' %}Browse valid Wordle words</h2>
+    <ul class="hub-links">
+        {% for h in page.hubs %}<li><a href="{{ h.url | relative_url }}">{{ h.label }}</a></li>{% endfor %}
+        <li><a href="{{ '/not-in-word-list/' | relative_url }}">Other words Wordle doesn't accept</a></li>
+    </ul>
+</section>
+
+<section class="card play text-center">
+    <h2 class="card-title">{% include icon.html name='play' %}Play word puzzles</h2>
+    {% include playButtons.html %}
+</section>
+
+<script src="{{ '/assets/checker.js' | relative_url }}" defer></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "All Wordle Words", "item": {{ '/' | absolute_url | jsonify }}},
+    {"@type": "ListItem", "position": 2, "name": "Not accepted", "item": {{ '/not-in-word-list/' | absolute_url | jsonify }}},
+    {"@type": "ListItem", "position": 3, "name": {{ up | jsonify }}, "item": {{ page.url | absolute_url | jsonify }}}
+  ]
+}
+</script>

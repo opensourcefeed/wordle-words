@@ -12,6 +12,7 @@
 #   ruby scripts/gsc.rb performance [days] [out.json]  # queries/pages for /wordle-words/
 #   ruby scripts/gsc.rb sitemaps                       # submitted sitemaps and their status
 #   ruby scripts/gsc.rb inspect URL [URL...]           # index status of specific URLs
+#   ruby scripts/gsc.rb candidates [days] [min_impr]    # searched-for words Wordle rejects
 #
 # Optional: GSC_SITE overrides the property (e.g. "sc-domain:opensourcefeed.org").
 
@@ -21,6 +22,7 @@ require 'openssl'
 require 'base64'
 require 'date'
 require 'uri'
+require 'set'
 
 SCOPE = 'https://www.googleapis.com/auth/webmasters.readonly'
 PATH_FILTER = '/wordle-words/'
@@ -73,14 +75,27 @@ def site
   end
 end
 
-def search_analytics(dimensions, days, row_limit: 25_000)
+def search_analytics(dimensions, days, row_limit: 25_000,
+                     filters: [{ dimension: 'page', operator: 'contains', expression: PATH_FILTER }])
   url = "https://www.googleapis.com/webmasters/v3/sites/#{URI.encode_www_form_component(site)}/searchAnalytics/query"
   end_date = Date.today - 2 # Search Console data lags about two days
   api(:post, url, {
         startDate: (end_date - days).iso8601, endDate: end_date.iso8601,
         dimensions: dimensions, rowLimit: row_limit,
-        dimensionFilterGroups: [{ filters: [{ dimension: 'page', operator: 'contains', expression: PATH_FILTER }] }],
+        dimensionFilterGroups: [{ filters: filters }],
       })['rows'] || []
+end
+
+# The word a query asks about, only for genuine "is it a valid word" questions:
+# "is pizza a wordle word", "is zebras a valid word in wordle",
+# "paris a wordle word", "is tiger in wordle" → pizza, zebras, paris, tiger.
+# Game names ("unlimited wordle") and "is today's wordle X" don't match.
+ASK_FILLER = '(?:(?:a|an|valid|real|allowed|accepted|word|in|the) )+'
+def asked_word(query)
+  q = query.downcase.gsub(/[^a-z ]/, ' ').squeeze(' ').strip
+  q[/\Ais (?:the word )?([a-z]{2,12}) #{ASK_FILLER}wordle(?: word| game)?\z/, 1] ||
+    q[/\A([a-z]{2,12}) (?:a |an )?(?:valid )?wordle word\z/, 1] ||
+    q[/\Ais ([a-z]{2,12}) (?:a )?(?:valid |real )?word in wordle\z/, 1]
 end
 
 def pct(x) = format('%.1f%%', x.to_f * 100)
@@ -108,6 +123,27 @@ when 'performance'
     File.write(ARGV[2], JSON.pretty_generate(site: site, days: days, queries: by_query, pages: by_page, dates: by_date))
     puts "\nFull data written to #{ARGV[2]}"
   end
+when 'candidates'
+  # Words people search for ("is X a wordle word") that Wordle does NOT accept:
+  # candidates for scripts/build_invalid_pages.rb. Looks at the whole property,
+  # since these searches may land on the 404 page or other sections.
+  require 'yaml'
+  days = (ARGV[1] || 90).to_i
+  min = (ARGV[2] || 10).to_i
+  valid = YAML.load_file(File.join(__dir__, '../_data/wordle-words.yml'))['wordle-words'].map(&:to_s).to_set
+  rows = search_analytics(['query'], days, filters: [{ dimension: 'query', operator: 'contains', expression: 'wordle' }])
+  found = Hash.new { |h, k| h[k] = { impressions: 0, clicks: 0, queries: [] } }
+  rows.each do |r|
+    w = asked_word(r['keys'][0])
+    next if w.nil? || valid.include?(w) || %w[it this that a the].include?(w)
+    found[w][:impressions] += r['impressions']
+    found[w][:clicks] += r['clicks']
+    found[w][:queries] << r['keys'][0]
+  end
+  list = found.select { |_, v| v[:impressions] >= min }.sort_by { |_, v| -v[:impressions] }
+  puts "Property: #{site} | last #{days} days | #{rows.size} Wordle queries | invalid words with >= #{min} impressions: #{list.size}"
+  list.each { |w, v| puts format('  %-12s impr %6d  clicks %4d  e.g. "%s"', w, v[:impressions], v[:clicks], v[:queries].first) }
+  puts "\nAdd the ones worth a page to _data/invalid-words.yml, then run scripts/build_invalid_pages.rb." if list.any?
 when 'sitemaps'
   list = api(:get, "https://www.googleapis.com/webmasters/v3/sites/#{URI.encode_www_form_component(site)}/sitemaps")['sitemap'] || []
   puts "Property: #{site}"

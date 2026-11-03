@@ -216,7 +216,7 @@ write_page('possible-answers.html', permalink: '/possible-answers/', title: 'Pos
 # ---------------------------------------------------------------- browse index
 letter_links = ->(fmt) { LETTERS.map { |l| [fmt.call(l), l.upcase] } }
 body = +%(<p class="lead">Browse all #{n(all_words.size)} five-letter words that Wordle accepts, by letter, ) +
-       %(or see the #{hub_link('/past-answers/', 'past answers')} and #{hub_link('/possible-answers/', 'possible future answers')}.</p>)
+       %(or see the #{hub_link('/past-answers/', 'past answers')}, #{hub_link('/possible-answers/', 'possible future answers')} and #{hub_link('/not-in-word-list/', 'common words Wordle does not accept')}.</p>)
 body << %(<section><h2>Words starting with</h2>#{links(letter_links.call(->(l) { HubRules.start_url(l) })).sub('hub-links', 'hub-links letters')}</section>)
 body << %(<section><h2>Words ending in</h2>#{links(LETTERS.select { |l| WORDS.any? { |w| w.end_with?(l) } }.map { |l| [HubRules.end_url(l), l.upcase] }).sub('hub-links', 'hub-links letters')}</section>)
 body << %(<section><h2>Words containing</h2>#{links(letter_links.call(->(l) { HubRules.contain_url(l) })).sub('hub-links', 'hub-links letters')}</section>)

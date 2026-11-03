@@ -69,8 +69,15 @@ Dir.glob(File.join(PAGES_DIR, '*')).sort.each do |path|
   errors << "#{path}: missing answer status; run bundle exec ruby scripts/build_pages.rb" unless %w[past possible guess].include?(fm['status'])
 end
 
+# 4. "No" pages (invalid/) must be for words Wordle rejects, match the data
+#    file, and never share a URL with a real word page.
+invalid_data = (YAML.load_file('_data/invalid-words.yml')['invalid-words'] || []).map { |e| e['word'].to_s }.to_set
+invalid_pages = Dir.glob('invalid/*.md').map { |p| File.basename(p, '.md') }.to_set
+(invalid_pages & word_set).sort.each { |w| errors << "invalid/#{w}.md: #{w} IS a valid Wordle word" }
+(invalid_data ^ invalid_pages).sort.each { |w| errors << "invalid/#{w}.md out of sync with _data/invalid-words.yml; run ruby scripts/build_invalid_pages.rb" }
+
 pages = Dir.glob(File.join(PAGES_DIR, '*.md')).size
-puts "Words in list: #{words.size}, word pages: #{pages}, words without a page: #{words.size - pages}"
+puts "Words in list: #{words.size}, word pages: #{pages}, words without a page: #{words.size - pages}, 'not accepted' pages: #{invalid_pages.size}"
 
 if errors.empty?
   puts 'OK: word list and word pages contain valid Wordle words only.'
