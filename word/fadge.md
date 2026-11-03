@@ -42,4 +42,15 @@ definitions:
   - text: To get on well; to cope, to thrive.
   - text: To eat together.
   - text: "(of a horse) To move with a gait between a jog and a trot."
+prev_word: fades
+next_word: fados
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

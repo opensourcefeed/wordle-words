@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A tissue surrounding the seed in certain fruits such as pomegranates.
+prev_word: ariki
+next_word: ariot
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

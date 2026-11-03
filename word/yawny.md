@@ -32,4 +32,15 @@ definitions:
   - text: Prone to yawning.
   - text: Sounding like a yawn.
   - text: Boring, uninteresting, causing yawns.
+prev_word: yawns
+next_word: yawps
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

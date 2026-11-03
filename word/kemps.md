@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: A champion; a knight.
+prev_word: kembs
+next_word: kempt
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

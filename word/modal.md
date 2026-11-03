@@ -58,4 +58,15 @@ definitions:
       be closed or interacted behind until a decision is made.
     example: a modal dialog; a modal window
   - text: Relating to the form of a thing rather to any of its attributes
+prev_word: mocus
+next_word: model
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

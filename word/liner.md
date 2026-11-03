@@ -59,4 +59,15 @@ definitions:
       a steam jacket.
   - text: A slab on which small pieces of marble, tile, etc., are fastened for grinding.
   - text: Formal no show sock
+prev_word: linen
+next_word: lines
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

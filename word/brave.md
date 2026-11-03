@@ -61,4 +61,15 @@ definitions:
   - text: Strong in the face of fear; courageous.
   - text: Having any sort of superiority or excellence.
   - text: Making a fine show or display.
+prev_word: brava
+next_word: bravi
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

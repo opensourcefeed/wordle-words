@@ -45,4 +45,15 @@ definitions:
   - text: An otherworldly dimension or domain — magical, ethereal, or otherwise —
       usually ruled or created by a mystical character.
   - text: A taxonomic rank in the phylogeny of viruses, higher than kingdoms.
+prev_word: reaks
+next_word: realo
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/lm/"
+  label: Ending in LM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -31,4 +31,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of, relating to, or (supposedly) characteristic of a ponce.
+prev_word: ponce
+next_word: ponds
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

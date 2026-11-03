@@ -29,4 +29,15 @@ neighbours:
 - whist
 anagrams:
 - hists
+prev_word: shiso
+next_word: shiur
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

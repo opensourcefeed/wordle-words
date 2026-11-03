@@ -38,4 +38,15 @@ definitions:
   - text: "(chiefly plural) The thick, dangling upper lip of certain breeds of dog,
       or the canine equivalent of the upper lip."
     example: The raging hound's flews were twisted upwards in an angry snarl.
+prev_word: fleur
+next_word: flexi
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

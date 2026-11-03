@@ -26,4 +26,15 @@ definitions:
 - pos: noun
   defs:
   - text: A ravine; a steep cleft in a hillside.
+prev_word: khoum
+next_word: khula
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

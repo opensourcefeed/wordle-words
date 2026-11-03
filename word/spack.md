@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: S_ACK
   count: 7
+prev_word: space
+next_word: spacy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

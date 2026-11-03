@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A large, open boat made of skins stretched over a wooden frame that is propelled
       by paddles; used by the Eskimos for transportation.
+prev_word: umiac
+next_word: umiaq
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/um/"
+  label: Starting with UM
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

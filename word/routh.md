@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _OUTH
   count: 6
+prev_word: route
+next_word: routs
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -66,4 +66,15 @@ definitions:
 - pos: noun
   defs:
   - text: The act of one who lies, or keeps low to the ground.
+prev_word: lycra
+next_word: lymes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

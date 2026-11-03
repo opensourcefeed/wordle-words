@@ -49,4 +49,15 @@ definitions:
 - pos: verb
   defs:
   - text: To tell a story or stories.
+prev_word: yarks
+next_word: yarra
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

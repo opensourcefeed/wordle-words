@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - nason
 - nonas
+prev_word: nanny
+next_word: nante
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

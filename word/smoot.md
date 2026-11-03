@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: S_OOT
   count: 6
+prev_word: smoor
+next_word: smore
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A person who dupes another
+prev_word: duped
+next_word: dupes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

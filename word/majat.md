@@ -24,4 +24,15 @@ stats:
 neighbours:
 - majas
 - manat
+prev_word: majas
+next_word: majoe
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

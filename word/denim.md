@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A textile often made of cotton with a distinct diagonal pattern.
+prev_word: denet
+next_word: denis
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

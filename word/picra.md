@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - capri
 - carpi
+prev_word: picot
+next_word: picul
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

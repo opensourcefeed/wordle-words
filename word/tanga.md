@@ -44,4 +44,15 @@ definitions:
       equal to 1/10th of a Rupee, a gold coin of India issued by various Muslim rulers,
       a silver coin of India, also issued by Muslim rulers, a former silver coin of
       Tibet.'
+prev_word: tanas
+next_word: tangi
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

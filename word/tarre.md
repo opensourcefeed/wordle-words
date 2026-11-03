@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ARRE
   count: 6
+prev_word: tarps
+next_word: tarry
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

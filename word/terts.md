@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: TE_TS
   count: 6
+prev_word: terse
+next_word: terza
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,13 @@ neighbours:
 - clote
 - flote
 - zloty
+prev_word: zizit
+next_word: zloty
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -65,4 +65,13 @@ definitions:
     example: He fucked the dirty cloth out the window.
   - text: To scold
     example: The sergeant fucked me upside down.
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

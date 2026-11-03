@@ -36,4 +36,15 @@ definitions:
   - text: The pointed, curved nose of a bullet, missile, or rocket.
   - text: A three-dimensional wave-bulge, characteristic of glaciers that have experienced
       extreme underlying topographic change.
+prev_word: ogham
+next_word: ogled
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/og/"
+  label: Starting with OG
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

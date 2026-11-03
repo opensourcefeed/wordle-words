@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Mountain
+prev_word: beret
+next_word: berko
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

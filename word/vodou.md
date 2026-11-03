@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 98
+prev_word: vodka
+next_word: vodun
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ou/"
+  label: Ending in OU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

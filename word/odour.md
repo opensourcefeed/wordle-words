@@ -30,4 +30,15 @@ definitions:
   - text: A strong, pervasive quality.
   - text: Esteem.
   - text: Something which produces a scent; incense, a perfume.
+prev_word: odors
+next_word: odums
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/od/"
+  label: Starting with OD
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

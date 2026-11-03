@@ -37,4 +37,15 @@ definitions:
   - text: To avoid, go around, or dodge an object, person, or conversation topic;
       often by using trickery.
   - text: To execute a deke in ice hockey or other sports.
+prev_word: deity
+next_word: dekes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

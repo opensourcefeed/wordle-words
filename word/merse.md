@@ -37,4 +37,15 @@ anagrams:
 - meers
 - meres
 - reems
+prev_word: merry
+next_word: mersk
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

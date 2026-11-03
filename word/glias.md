@@ -32,4 +32,15 @@ anagrams:
 - galis
 - gilas
 - sigla
+prev_word: glial
+next_word: glibs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

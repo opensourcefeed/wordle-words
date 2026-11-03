@@ -52,4 +52,15 @@ definitions:
       possible future action.
     example: Let us examine that, shall we?
   - text: To owe.
+prev_word: shale
+next_word: shalm
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

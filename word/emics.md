@@ -30,4 +30,15 @@ neighbours:
 - etics
 anagrams:
 - mesic
+prev_word: emeus
+next_word: emirs
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

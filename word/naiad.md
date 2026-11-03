@@ -34,4 +34,15 @@ definitions:
       or other fresh water.
   - text: The aquatic larva (nymph) of a dragonfly or damselfly.
   - text: Any of various aquatic plants of the genus Najas.
+prev_word: nahal
+next_word: naibs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

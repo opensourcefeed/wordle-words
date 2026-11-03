@@ -41,4 +41,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Very small, tiny
+prev_word: dicty
+next_word: didie
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: An irrational number, especially one expressed using the √ symbol.
   - text: A voiceless consonant.
+prev_word: surat
+next_word: sured
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

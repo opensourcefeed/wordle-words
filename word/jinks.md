@@ -50,4 +50,15 @@ definitions:
       five tricks; also, to attempt to win all five tricks, losing what has been already
       won if unsuccessful.
   - text: To elude; to cheat.
+prev_word: jings
+next_word: jinne
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -43,4 +43,15 @@ definitions:
       most abundant gas in the Earth's atmosphere, it is a colourless, odourless,
       inert noble gas.
   - text: A single atom of this element.
+prev_word: argol
+next_word: argot
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

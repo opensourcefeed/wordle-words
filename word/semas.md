@@ -38,4 +38,15 @@ anagrams:
 - mesas
 - sames
 - seams
+prev_word: selva
+next_word: semee
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

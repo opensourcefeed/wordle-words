@@ -48,4 +48,15 @@ definitions:
   - text: To show or contain an error or fault.
     example: The block transmission errored near the start and could not be received.
   - text: To err.
+prev_word: erred
+next_word: erses
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

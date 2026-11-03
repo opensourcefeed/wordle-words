@@ -36,4 +36,15 @@ definitions:
   - text: Massive, usually dull-colored and opaque, quartzite, hornstone, impure chalcedony,
       or other flint-like mineral.
   - text: A flint-like tool made from chert.
+prev_word: chere
+next_word: chess
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

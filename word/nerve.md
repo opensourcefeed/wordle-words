@@ -63,4 +63,15 @@ definitions:
     example: May their example nerve us to face the enemy.
   - text: To give strength; to supply energy or vigour.
     example: The liquor nerved up several of the men after their icy march.
+prev_word: nertz
+next_word: nervy
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

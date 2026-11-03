@@ -27,4 +27,13 @@ anagrams:
 - abrim
 - imbar
 - mbira
+prev_word: mazut
+next_word: mbars
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

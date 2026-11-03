@@ -33,4 +33,15 @@ neighbours:
 - momme
 - pomme
 - tomme
+prev_word: comma
+next_word: commo
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: HA_ED
   count: 8
+prev_word: hamba
+next_word: hamel
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: The hook that develops in the lower jaw of an adult male salmon when it
       is ready to spawn.
+prev_word: kynds
+next_word: kyrie
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

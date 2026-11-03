@@ -57,4 +57,15 @@ definitions:
     example: a sane person
   - text: Rational; reasonable; sensible.
     example: Try to go to bed at a sane time before your exams.
+prev_word: saned
+next_word: sanes
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 66
 neighbours:
 - topic
+prev_word: typey
+next_word: typos
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

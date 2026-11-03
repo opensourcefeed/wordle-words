@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: The stomach of an animal.
   - text: The crop of a bird.
+prev_word: crawl
+next_word: crays
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

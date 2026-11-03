@@ -43,4 +43,15 @@ definitions:
   - text: Rough or unhusked rice, either before it is milled or as a crop to be harvested.
   - text: A paddy field, a rice paddy; an irrigated or flooded field where rice is
       grown.
+prev_word: paddo
+next_word: padis
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

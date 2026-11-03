@@ -92,4 +92,15 @@ definitions:
   - text: "(heading) To take in with one's senses or intellect."
   - text: "(heading) To seize attention, interest."
   - text: "(heading) To obtain or experience"
+prev_word: casus
+next_word: cater
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

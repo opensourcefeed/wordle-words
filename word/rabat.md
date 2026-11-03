@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 55
 neighbours:
 - rybat
+prev_word: raake
+next_word: rabbi
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

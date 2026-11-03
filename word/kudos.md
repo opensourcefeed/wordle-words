@@ -34,4 +34,15 @@ definitions:
   - text: Praise; accolades.
     example: The talented, young playwright received much kudos for his new drama.
   - text: Credit for one's achievements.
+prev_word: kubie
+next_word: kudus
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

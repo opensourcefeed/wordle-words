@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _UMPS
   count: 13
+prev_word: gummy
+next_word: gunas
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: Tending to display masculine characteristics, such as domineering, fierceness,
       bravado, etc., in ways that are showily and histrionically tough
+prev_word: machi
+next_word: machs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ho/"
+  label: Ending in HO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

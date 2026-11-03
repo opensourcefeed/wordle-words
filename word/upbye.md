@@ -19,4 +19,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 64
+prev_word: upbow
+next_word: updos
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/up/"
+  label: Starting with UP
+- url: "/ending-with/ye/"
+  label: Ending in YE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

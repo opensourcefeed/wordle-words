@@ -88,4 +88,15 @@ definitions:
       street e.g. "Briggate" (a common street name in the north of England meaning
       "Bridge Street") or Kirkgate meaning "Church Street".
   - text: Manner; gait.
+prev_word: gater
+next_word: gaths
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

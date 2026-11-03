@@ -70,4 +70,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Sloping
+prev_word: rajes
+next_word: rakee
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

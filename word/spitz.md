@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of several Nordic breeds of dog such as the Pomeranian or Samoyed
+prev_word: spits
+next_word: spivs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/tz/"
+  label: Ending in TZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

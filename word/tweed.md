@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A coarse woolen fabric used for clothing.
+prev_word: tweak
+next_word: tweel
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

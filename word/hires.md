@@ -70,4 +70,15 @@ definitions:
       to hire it done.
   - text: To accept employment.
     example: They hired out as day laborers.
+prev_word: hirer
+next_word: hissy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

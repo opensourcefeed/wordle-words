@@ -24,4 +24,15 @@ stats:
 neighbours:
 - rabid
 - tabis
+prev_word: tabes
+next_word: tabis
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

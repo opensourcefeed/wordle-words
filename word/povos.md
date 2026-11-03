@@ -30,4 +30,15 @@ neighbours:
 trap:
   pattern: PO_OS
   count: 6
+prev_word: pouty
+next_word: powan
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

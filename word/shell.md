@@ -112,4 +112,15 @@ definitions:
   - text: To switch to a shell or command line.
   - text: To form shallow, irregular cracks (in a coating).
   - text: To form a shelling.
+prev_word: shelf
+next_word: shend
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

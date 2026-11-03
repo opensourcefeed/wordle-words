@@ -34,4 +34,15 @@ anagrams:
 - sware
 - wares
 - wears
+prev_word: sewan
+next_word: sewed
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

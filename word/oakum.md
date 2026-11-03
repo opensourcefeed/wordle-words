@@ -29,4 +29,15 @@ definitions:
   - text: A material, consisting of tarred fibres, used to caulk or pack joints in
       plumbing, masonry, and wooden shipbuilding.
   - text: The coarse portion separated from flax or hemp in hackling.
+prev_word: oaker
+next_word: oared
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oa/"
+  label: Starting with OA
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -43,4 +43,15 @@ definitions:
   - text: Covered in muck.
   - text: Obscene, pornographic.
     example: a mucky magazine
+prev_word: mucks
+next_word: mucor
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

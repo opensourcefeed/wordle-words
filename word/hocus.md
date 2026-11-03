@@ -45,4 +45,15 @@ definitions:
       them).
   - text: To drug (liquor).
   - text: To adulterate (food).
+prev_word: hocks
+next_word: hodad
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Coregonus clupeoides, a species of freshwater whitefish endemic to Loch
       Lomond in Scotland.
+prev_word: povos
+next_word: power
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

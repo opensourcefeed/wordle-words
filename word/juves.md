@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: JU_ES
   count: 6
+prev_word: jutty
+next_word: juvie
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

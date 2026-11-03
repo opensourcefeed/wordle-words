@@ -28,4 +28,15 @@ neighbours:
 - cures
 - cutes
 - fuzes
+prev_word: cuvee
+next_word: cwtch
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

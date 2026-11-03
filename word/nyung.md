@@ -23,4 +23,15 @@ neighbours:
 - nyong
 anagrams:
 - gunny
+prev_word: nyssa
+next_word: nyuse
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ny/"
+  label: Starting with NY
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

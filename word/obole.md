@@ -26,4 +26,15 @@ neighbours:
 - oboli
 - obols
 - okole
+prev_word: oboes
+next_word: oboli
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ob/"
+  label: Starting with OB
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

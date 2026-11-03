@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A vegetable, the Indian white yam.
+prev_word: yampa
+next_word: yamun
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

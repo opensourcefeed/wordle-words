@@ -30,4 +30,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Like a debutante.
+prev_word: debar
+next_word: debel
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

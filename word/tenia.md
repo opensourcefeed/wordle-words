@@ -40,4 +40,15 @@ definitions:
       order."
   - text: Any of several ribbon-like bands of tissue.
   - text: Any species of the genus Taenia of tapeworms.
+prev_word: tenge
+next_word: tenne
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

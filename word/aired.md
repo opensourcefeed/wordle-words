@@ -62,4 +62,15 @@ definitions:
   - text: "(of a complaint or problem) Having been uttered or spoken of, such that
       certain persons are aware."
   - text: "(of a show) Having been broadcast, such as on television or radio."
+prev_word: aioli
+next_word: airer
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

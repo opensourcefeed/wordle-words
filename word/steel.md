@@ -78,4 +78,15 @@ definitions:
   - text: Of or belonging to the manufacture or trade in steel.
   - text: Containing steel.
   - text: Engraved on steel.
+prev_word: steek
+next_word: steem
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

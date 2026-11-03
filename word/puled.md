@@ -42,4 +42,15 @@ definitions:
     example: Although the elderly man felt mounting pain from his illness, he never
       complained or puled.
   - text: To pipe or chirp.
+prev_word: pulas
+next_word: puler
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

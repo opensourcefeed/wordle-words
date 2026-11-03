@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: TO_ED
   count: 10
+prev_word: tosas
+next_word: toses
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

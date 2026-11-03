@@ -51,4 +51,15 @@ definitions:
       meadow or level vegetated ridgetop.
   - text: A shallow trough dug into the land on contour (horizontally with no slope),
       whose purpose is to allow water time to percolate into the soil.
+prev_word: swain
+next_word: swaly
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

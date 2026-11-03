@@ -31,4 +31,15 @@ anagrams:
 - holes
 - hosel
 - olehs
+prev_word: shent
+next_word: sherd
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

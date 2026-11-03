@@ -26,4 +26,15 @@ definitions:
 - pos: noun
   defs:
   - text: A pagan female oracle or prophetess, especially the Cumaean sibyl.
+prev_word: sibia
+next_word: sices
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

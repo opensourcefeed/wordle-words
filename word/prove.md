@@ -72,4 +72,15 @@ definitions:
   - text: To experience.
   - text: To take a trial impression of; to take a proof of.
     example: to prove a page
+prev_word: proul
+next_word: prowk
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

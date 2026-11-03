@@ -48,4 +48,15 @@ definitions:
   - text: To part or tear off forcibly; to take away by force; to amputate.
   - text: To be rent or torn; to become parted; to separate; to split.
     example: Relationships may rend if tempers flare.
+prev_word: renay
+next_word: rendu
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -25,4 +25,15 @@ neighbours:
 - yagna
 anagrams:
 - manga
+prev_word: magma
+next_word: magot
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

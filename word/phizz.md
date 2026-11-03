@@ -23,4 +23,15 @@ stats:
 neighbours:
 - chizz
 - whizz
+prev_word: phish
+next_word: phlox
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/zz/"
+  label: Ending in ZZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

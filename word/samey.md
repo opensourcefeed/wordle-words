@@ -38,4 +38,15 @@ definitions:
 - pos: adjective
   defs:
   - text: The same as something else, without variety, monotonous.
+prev_word: sames
+next_word: samfi
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

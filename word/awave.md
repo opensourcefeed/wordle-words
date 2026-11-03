@@ -25,4 +25,15 @@ neighbours:
 - awake
 - aware
 - agave
+prev_word: awato
+next_word: aways
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

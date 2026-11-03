@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: To roam around the country like a gypsy.
   - text: To perform the gypsy step in contra dancing.
+prev_word: gippy
+next_word: girds
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

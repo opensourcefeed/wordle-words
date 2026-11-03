@@ -33,4 +33,15 @@ neighbours:
 - soree
 anagrams:
 - erode
+prev_word: dorbs
+next_word: dores
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

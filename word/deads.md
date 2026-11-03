@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _EADS
   count: 8
+prev_word: dbags
+next_word: deair
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

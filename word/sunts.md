@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _UNTS
   count: 11
+prev_word: sunny
+next_word: sunup
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

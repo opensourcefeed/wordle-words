@@ -73,4 +73,15 @@ definitions:
   - text: To lack and be without, to not have (something).
     example: She wanted anything she needed.
   - text: "(by extension) To lack and (be able to) do without."
+prev_word: wanta
+next_word: wanty
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

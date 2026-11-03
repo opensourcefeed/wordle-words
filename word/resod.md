@@ -35,4 +35,15 @@ anagrams:
 - rodes
 - rosed
 - sored
+prev_word: resit
+next_word: resol
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/od/"
+  label: Ending in OD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

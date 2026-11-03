@@ -29,4 +29,15 @@ neighbours:
 - cella
 - cells
 - celly
+prev_word: cella
+next_word: cello
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

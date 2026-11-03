@@ -41,4 +41,15 @@ definitions:
   - text: To produce a low-pitched beeping sound.
   - text: To cover up splices in a soundtrack tape to eliminate the unwanted noise
       they may produce.
+prev_word: bloom
+next_word: blore
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

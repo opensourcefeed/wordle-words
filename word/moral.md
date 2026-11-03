@@ -72,4 +72,15 @@ definitions:
     example: a moral certainty
   - text: Positively affecting the mind, confidence, or will.
     example: a moral victory;  moral support
+prev_word: morah
+next_word: moran
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

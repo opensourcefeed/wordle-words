@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: Beaver pelt
+prev_word: plets
+next_word: plexi
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

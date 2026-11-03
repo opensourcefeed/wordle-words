@@ -26,4 +26,15 @@ neighbours:
 - annat
 anagrams:
 - nanna
+prev_word: annal
+next_word: annas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

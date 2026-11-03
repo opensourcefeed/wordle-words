@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ORIS
   count: 7
+prev_word: gorge
+next_word: gorms
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

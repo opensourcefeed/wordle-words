@@ -36,4 +36,15 @@ anagrams:
 - altar
 - artal
 - ratal
+prev_word: talaq
+next_word: talas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

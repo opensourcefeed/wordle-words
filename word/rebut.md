@@ -44,4 +44,15 @@ definitions:
   - text: To drive back or beat back; to repulse.
   - text: To deny the truth of something, especially by presenting arguments that
       disprove it.
+prev_word: rebus
+next_word: rebuy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -79,4 +79,15 @@ definitions:
   - text: A sailing vessel or boat of any kind.
   - text: A vessel, typically with three (or more) masts, with the foremasts (or fore-
       and mainmasts) square-rigged, and mizzenmast schooner-rigged.
+prev_word: baric
+next_word: barky
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -52,4 +52,15 @@ definitions:
   - text: To stir up, as liquor.
   - text: To pour; pour leisurely out of any vessel held high.
   - text: To sprinkle.
+prev_word: stoop
+next_word: stope
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

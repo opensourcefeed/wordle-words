@@ -33,4 +33,15 @@ anagrams:
 - pures
 - reups
 - sprue
+prev_word: spued
+next_word: spues
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

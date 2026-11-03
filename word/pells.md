@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ELLS
   count: 14
+prev_word: pelfs
+next_word: pelma
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

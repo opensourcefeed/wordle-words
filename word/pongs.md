@@ -51,4 +51,15 @@ definitions:
 - pos: noun
   defs:
   - text: A set of three identical tiles.
+prev_word: pongo
+next_word: pongy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

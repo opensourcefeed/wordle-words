@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: Of a cow or bull, to make its characteristic lowing sound.
+prev_word: moody
+next_word: mooey
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

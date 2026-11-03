@@ -61,4 +61,15 @@ definitions:
   - text: To macerate (lime) and render it fit for plaster or mortar.
   - text: To process (fabric) after bleaching, using hydrochloric acid or sulphuric
       acid to wash out the lime.
+prev_word: soupy
+next_word: souse
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

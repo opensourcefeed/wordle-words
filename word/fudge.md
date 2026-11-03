@@ -57,4 +57,15 @@ definitions:
   defs:
   - text: "(minced oath) Used in place of fuck."
   - text: Nonsense; tommyrot.
+prev_word: fuddy
+next_word: fudgy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

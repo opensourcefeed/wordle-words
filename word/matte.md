@@ -55,4 +55,15 @@ definitions:
   - text: Dull; not reflective of light.
     example: Flat or matte paint allows a deep color expression on the walls while
       also hiding flaws that may be inherent on the painted surface.
+prev_word: matsu
+next_word: matts
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

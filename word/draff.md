@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Dregs; the wash given to swine or cows; hogwash or waste matter.
+prev_word: draco
+next_word: draft
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

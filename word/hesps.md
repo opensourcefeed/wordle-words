@@ -29,4 +29,15 @@ neighbours:
 - hests
 anagrams:
 - spesh
+prev_word: herye
+next_word: hests
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 66
 anagrams:
 - zinos
+prev_word: soyuz
+next_word: space
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

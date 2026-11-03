@@ -26,4 +26,15 @@ neighbours:
 - preed
 - prees
 - proem
+prev_word: preed
+next_word: preen
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

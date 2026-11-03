@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: The small piece of thick cartilage of the external ear that is immediately
       in front of the ear canal.
+prev_word: traga
+next_word: trags
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

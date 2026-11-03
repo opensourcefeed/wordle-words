@@ -24,4 +24,13 @@ stats:
 neighbours:
 - grids
 - imids
+prev_word: irate
+next_word: iring
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

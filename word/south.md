@@ -66,4 +66,15 @@ definitions:
   - text: Downward.
   - text: In an adverse direction or trend (go south).
   - text: Of wind, from the south.
+prev_word: souse
+next_word: souts
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

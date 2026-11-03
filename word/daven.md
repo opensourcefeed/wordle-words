@@ -35,4 +35,15 @@ definitions:
 - pos: verb
   defs:
   - text: To recite the Jewish liturgy; to pray
+prev_word: dauts
+next_word: davit
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

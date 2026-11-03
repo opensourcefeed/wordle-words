@@ -23,4 +23,15 @@ stats:
 neighbours:
 - melee
 - belee
+prev_word: gelds
+next_word: gelid
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

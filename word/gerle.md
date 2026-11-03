@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - leger
 - regle
+prev_word: geres
+next_word: germs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

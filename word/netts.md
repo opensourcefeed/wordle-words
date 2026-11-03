@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: The amount remaining after expenses are deducted; profit.
+prev_word: netta
+next_word: netty
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

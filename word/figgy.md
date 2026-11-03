@@ -40,4 +40,15 @@ definitions:
   - text: Containing figs.
     example: We all want some figgy pudding — line from the Christmas song "We Wish
       You a Merry Christmas"
+prev_word: fifty
+next_word: fight
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

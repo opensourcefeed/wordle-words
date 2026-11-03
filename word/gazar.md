@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A silk organza, a lightweight fabric with a plain weave.
+prev_word: gazal
+next_word: gazed
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

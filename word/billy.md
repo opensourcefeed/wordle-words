@@ -47,4 +47,15 @@ definitions:
     example: Let's get the billy and cook some beans.
   - text: A condom (from the E-Rotic song "Willy, Use a Billy... Boy")
   - text: A slubbing or roving machine.
+prev_word: bills
+next_word: bimah
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

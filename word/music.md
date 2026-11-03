@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To seduce or entice with music.
+prev_word: mushy
+next_word: musit
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

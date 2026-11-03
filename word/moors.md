@@ -56,4 +56,15 @@ definitions:
       or by fastening with ropes, cables or chains or the like
     example: the vessel was moored in the stream
   - text: To secure or fix firmly.
+prev_word: moops
+next_word: moory
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

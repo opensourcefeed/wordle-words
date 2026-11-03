@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: To latch, to lock.
   - text: To cut.
+prev_word: snebs
+next_word: sneds
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

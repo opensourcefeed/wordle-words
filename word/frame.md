@@ -106,4 +106,15 @@ definitions:
   - text: To profit; avail.
   - text: To fit; accord.
   - text: To succeed in doing or trying to do something; manage.
+prev_word: frais
+next_word: franc
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

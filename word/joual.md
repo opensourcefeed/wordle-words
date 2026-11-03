@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: The dialect of working-class Quebecers.
+prev_word: jotun
+next_word: jougs
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

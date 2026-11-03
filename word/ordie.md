@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 5
 neighbours:
 - oldie
+prev_word: order
+next_word: ordos
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -51,4 +51,15 @@ definitions:
       fanaticism.
   - text: The state of abnormally elevated or irritable mood, arousal, and/or energy
       levels.
+prev_word: mangy
+next_word: manic
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

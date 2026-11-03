@@ -25,4 +25,15 @@ neighbours:
 - vined
 - viner
 - vines
+prev_word: vines
+next_word: vinho
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ew/"
+  label: Ending in EW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

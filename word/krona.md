@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: The official currency of Sweden.
+prev_word: kriol
+next_word: krone
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

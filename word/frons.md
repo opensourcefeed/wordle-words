@@ -39,4 +39,15 @@ definitions:
       speaking the frons is the area below or between the antennae and above the clypeus.
       Generally it lies between the genal or "cheek" areas on either side of the head.
   - text: "(of Diptera) the postfrons"
+prev_word: frond
+next_word: front
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

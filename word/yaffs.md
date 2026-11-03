@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _AFFS
   count: 10
+prev_word: yadda
+next_word: yager
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

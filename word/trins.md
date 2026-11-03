@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: TRI_S
   count: 6
+prev_word: trine
+next_word: triol
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

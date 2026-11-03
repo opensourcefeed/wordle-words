@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A fermented drink made from mare's milk, common among peoples of the Central
       Asian steppes.
+prev_word: kulfi
+next_word: kumys
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

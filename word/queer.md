@@ -63,4 +63,15 @@ definitions:
 - pos: adverb
   defs:
   - text: Queerly.
+prev_word: queen
+next_word: quell
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

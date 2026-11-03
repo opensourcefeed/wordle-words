@@ -53,4 +53,15 @@ definitions:
   - text: To coil (a rope, line, or hawser), by winding alternately in opposite directions,
       in layers usually of zigzag or figure of eight form, to prevent twisting when
       running out.
+prev_word: faith
+next_word: faker
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

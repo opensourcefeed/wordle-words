@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: TI_ES
   count: 9
+prev_word: tiger
+next_word: tight
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

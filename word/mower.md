@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: A lawnmower, a machine used to cut grass.
   - text: A person who cuts grass.
+prev_word: mowed
+next_word: mowie
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -33,4 +33,15 @@ definitions:
   - text: Musa textilis, a species of banana tree native to the Philippines grown
       for its textile, rope- and papermaking fibre.
   - text: The fiber of this plant, used in rope.
+prev_word: aarti
+next_word: abaci
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

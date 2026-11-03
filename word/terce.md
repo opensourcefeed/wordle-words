@@ -38,4 +38,15 @@ definitions:
   - text: The service appointed for this hour.
   - text: A widow's right, where she has no conventional provision, to a liferent
       of a third of the husband's heritable property.
+prev_word: teras
+next_word: terek
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

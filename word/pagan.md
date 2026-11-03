@@ -40,4 +40,15 @@ definitions:
   - text: Relating to, characteristic of religions that differ from main world religions.
     example: Many converted societies transformed their pagan deities into saints.
   - text: "(by extension) Savage, immoral, uncivilized, wild."
+prev_word: paeon
+next_word: paged
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

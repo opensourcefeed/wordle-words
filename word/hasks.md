@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: HA_KS
   count: 6
+prev_word: hashy
+next_word: hasps
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

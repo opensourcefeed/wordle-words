@@ -27,4 +27,15 @@ anagrams:
 - abrim
 - mbari
 - mbira
+prev_word: imaum
+next_word: imbed
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

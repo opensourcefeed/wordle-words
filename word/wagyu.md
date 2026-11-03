@@ -26,4 +26,13 @@ definitions:
   defs:
   - text: Any of several Japanese breeds of cattle genetically predisposed to intense
       marbling and to producing a high percentage of oleaginous unsaturated fat.
+prev_word: wagon
+next_word: wahay
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

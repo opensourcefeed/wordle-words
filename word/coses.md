@@ -48,4 +48,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make oneself cosy; to be snug.
+prev_word: cosed
+next_word: coset
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

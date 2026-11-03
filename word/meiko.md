@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 41
 neighbours:
 - maiko
+prev_word: meids
+next_word: meils
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

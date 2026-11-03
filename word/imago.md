@@ -35,4 +35,15 @@ definitions:
   - text: The final developmental stage of an insect after undergoing metamorphosis.
   - text: An idealised concept of a loved one, formed in childhood and retained unconsciously
       into adult life, the basis for the psychological formation of personality archetypes.
+prev_word: image
+next_word: imagy
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

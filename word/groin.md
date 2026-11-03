@@ -53,4 +53,15 @@ definitions:
   - text: "(literary) To hollow out, to excavate."
     example: "'Down some profound dull tunnel, long since scooped / Through granites
       which titanic wars had groined.' (From Strange Meeting by Wilfred Owen)."
+prev_word: grogs
+next_word: groks
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

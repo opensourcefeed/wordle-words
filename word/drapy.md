@@ -26,4 +26,15 @@ neighbours:
 - grapy
 anagrams:
 - pardy
+prev_word: draps
+next_word: drats
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

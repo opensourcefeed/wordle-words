@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - moner
 - morne
+prev_word: enols
+next_word: enows
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/rm/"
+  label: Ending in RM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

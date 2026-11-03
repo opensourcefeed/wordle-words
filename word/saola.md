@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: Pseudoryx nghetinhensis, a rare ruminant of Vietnam and Laos.
+prev_word: sants
+next_word: sapan
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

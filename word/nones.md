@@ -77,4 +77,15 @@ definitions:
 - pos: noun
   defs:
   - text: The letter ن in the Arabic script.
+prev_word: nondo
+next_word: nonet
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

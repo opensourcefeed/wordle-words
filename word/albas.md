@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: A white-flowered shrub rose of the hybrid Rosa × alba.
   - text: A flower of the hybrid Rosa × alba.
+prev_word: alays
+next_word: albee
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

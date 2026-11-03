@@ -92,4 +92,15 @@ definitions:
 - pos: noun
   defs:
   - text: Short for carabiner.
+prev_word: craal
+next_word: crack
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

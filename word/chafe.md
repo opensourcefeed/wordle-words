@@ -53,4 +53,15 @@ definitions:
   - text: To be worn by rubbing.
     example: A cable chafes.
   - text: To have a feeling of vexation; to be vexed; to fret; to be irritated.
+prev_word: chads
+next_word: chaff
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/fe/"
+  label: Ending in FE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

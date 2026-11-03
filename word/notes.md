@@ -75,4 +75,15 @@ definitions:
   - text: The giving of milk by a cow or sow; the period following calving or farrowing
       during which a cow or sow is at her most useful (i.e. gives milk); the milk
       given by a cow or sow during such a period.
+prev_word: noter
+next_word: notum
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

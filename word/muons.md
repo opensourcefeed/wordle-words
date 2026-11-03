@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: An unstable elementary particle in the lepton family, having similar properties
       to the electron but with a mass 207 times greater.
+prev_word: muntu
+next_word: mural
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

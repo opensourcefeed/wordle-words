@@ -28,4 +28,15 @@ neighbours:
 - saice
 anagrams:
 - eniac
+prev_word: naibs
+next_word: naids
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

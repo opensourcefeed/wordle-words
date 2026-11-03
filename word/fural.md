@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _URAL
   count: 7
+prev_word: funts
+next_word: furan
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

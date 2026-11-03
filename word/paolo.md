@@ -26,4 +26,15 @@ neighbours:
 - paoli
 anagrams:
 - poalo
+prev_word: paoli
+next_word: papad
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

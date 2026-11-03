@@ -62,4 +62,15 @@ definitions:
       of the snowboard take the same path.
   - text: To take or make, as by cutting; to provide.
   - text: To lay out; to contrive; to design; to plan.
+prev_word: carts
+next_word: carvy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

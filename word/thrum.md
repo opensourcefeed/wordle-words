@@ -37,4 +37,15 @@ definitions:
     example: She watched as he thrummed the guitar strings absently.
   - text: To make a monotonous drumming noise.
     example: to thrum on a table
+prev_word: throw
+next_word: thuds
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -50,4 +50,15 @@ definitions:
       past as an anaesthetic.
   - text: Any of a class of organic compounds containing an oxygen atom bonded to
       two hydrocarbon groups.
+prev_word: ethal
+next_word: ethic
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/et/"
+  label: Starting with ET
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

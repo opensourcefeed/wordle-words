@@ -21,4 +21,15 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 76
+prev_word: nugae
+next_word: nuked
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

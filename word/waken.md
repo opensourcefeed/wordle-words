@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: To wake or rouse from sleep.
   - text: To awaken; to cease to sleep; to be awakened; to stir.
+prev_word: waked
+next_word: waker
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

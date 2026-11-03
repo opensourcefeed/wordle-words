@@ -49,4 +49,15 @@ definitions:
 - pos: noun
   defs:
   - text: A rood screen.
+prev_word: jubas
+next_word: jucos
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

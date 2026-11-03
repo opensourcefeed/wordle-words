@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 38
 neighbours:
 - began
+prev_word: betty
+next_word: bevel
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

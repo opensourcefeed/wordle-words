@@ -56,4 +56,15 @@ definitions:
   - text: Mentally fragile.
   - text: Liable to fall from virtue or be led into sin; not strong against temptation;
       weak in resolution; unchaste.
+prev_word: frags
+next_word: fraim
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

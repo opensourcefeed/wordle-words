@@ -27,4 +27,15 @@ neighbours:
 - padri
 - pagri
 - pappi
+prev_word: pappy
+next_word: parae
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

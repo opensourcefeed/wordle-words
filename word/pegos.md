@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: The penis.
+prev_word: pegma
+next_word: peine
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -30,4 +30,15 @@ neighbours:
 - sture
 anagrams:
 - duets
+prev_word: stucs
+next_word: studs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

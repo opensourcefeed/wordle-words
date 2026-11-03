@@ -24,4 +24,15 @@ stats:
 neighbours:
 - ligan
 - wigan
+prev_word: ziffs
+next_word: zikrs
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

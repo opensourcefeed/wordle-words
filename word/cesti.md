@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: A girdle, especially that of Aphrodite (or Venus) which gave the wearer
       the power to excite love.
+prev_word: cesta
+next_word: cetes
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

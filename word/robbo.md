@@ -24,4 +24,15 @@ stats:
 neighbours:
 - gobbo
 - yobbo
+prev_word: roate
+next_word: robed
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

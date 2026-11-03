@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 78
 anagrams:
 - umami
+prev_word: imari
+next_word: imbar
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

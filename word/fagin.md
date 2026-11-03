@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 60
+prev_word: faffy
+next_word: faiks
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

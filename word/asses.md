@@ -54,4 +54,15 @@ definitions:
     example: That was one big-ass fish!
   - text: "(metonymy) One's self or person, chiefly their body."
     example: Get your lazy ass out of bed!
+prev_word: assed
+next_word: asset
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

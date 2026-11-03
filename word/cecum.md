@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A blind pouch connected to the large intestine between the ileum and the
       colon.
+prev_word: cecal
+next_word: cedar
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: To dance the tango.
   - text: To mingle or interact (with each other).
+prev_word: tangi
+next_word: tangs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

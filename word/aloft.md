@@ -39,4 +39,15 @@ definitions:
     example: high winds aloft
   - text: Above, overhead, in a high place; up.
   - text: In the top, at the masthead, or on the higher yards or rigging.
+prev_word: aloes
+next_word: aloha
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

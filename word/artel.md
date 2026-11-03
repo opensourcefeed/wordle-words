@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Russian or Soviet craftsmen's collective.
+prev_word: artal
+next_word: arter
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

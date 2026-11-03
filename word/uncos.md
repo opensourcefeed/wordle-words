@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - conus
 - oncus
+prev_word: uncle
+next_word: uncoy
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

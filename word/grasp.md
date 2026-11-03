@@ -44,4 +44,13 @@ definitions:
   - text: To understand.
     example: I have never been able to grasp the concept of infinity.
   - text: To take advantage of something, to seize, to jump at a chance.
+prev_word: grapy
+next_word: grass
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

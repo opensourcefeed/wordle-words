@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: Electricity.
     example: The lecky’s gone off again.
+prev_word: leben
+next_word: leche
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

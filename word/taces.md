@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: TA_ES
   count: 11
+prev_word: tacan
+next_word: tacet
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

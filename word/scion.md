@@ -36,4 +36,15 @@ definitions:
   - text: A guardian.
   - text: A detached shoot or twig containing buds from a woody plant, used in grafting;
       a shoot or twig in a general sense.
+prev_word: scind
+next_word: scire
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

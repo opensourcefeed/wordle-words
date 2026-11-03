@@ -28,4 +28,15 @@ neighbours:
 - carle
 anagrams:
 - place
+prev_word: capiz
+next_word: capon
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

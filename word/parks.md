@@ -73,4 +73,15 @@ definitions:
   - text: "(oyster culture) To enclose in a park, or partially enclosed basin."
   - text: To promenade or drive in a park.
   - text: "(of horses) To display style or gait on a park drive."
+prev_word: parki
+next_word: parky
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

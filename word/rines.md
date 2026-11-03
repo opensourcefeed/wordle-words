@@ -45,4 +45,15 @@ anagrams:
 trap:
   pattern: _INES
   count: 15
+prev_word: rindy
+next_word: ringe
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

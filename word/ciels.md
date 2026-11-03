@@ -32,4 +32,15 @@ anagrams:
 - slice
 - ceils
 - clies
+prev_word: cides
+next_word: cigar
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -25,4 +25,15 @@ stats:
 neighbours:
 - forma
 - forze
+prev_word: forum
+next_word: forze
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

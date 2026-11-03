@@ -51,4 +51,15 @@ definitions:
     example: Relations cooled between the USA and the USSR after 1980.
   - text: To make less intense, e.g. less amicable or passionate.
   - text: To kill.
+prev_word: cooky
+next_word: cooly
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

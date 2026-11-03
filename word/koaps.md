@@ -26,4 +26,15 @@ neighbours:
 - knaps
 - koans
 - soaps
+prev_word: koans
+next_word: koban
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

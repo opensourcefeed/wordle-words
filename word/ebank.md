@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 34
 anagrams:
 - baken
+prev_word: eaves
+next_word: ebbed
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

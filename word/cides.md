@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _IDES
   count: 10
+prev_word: cider
+next_word: ciels
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

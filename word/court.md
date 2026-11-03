@@ -64,4 +64,15 @@ definitions:
   - text: To engage in courtship behavior.
     example: In this season, you can see many animals courting.
   - text: To invite by attractions; to allure; to attract.
+prev_word: cours
+next_word: couta
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

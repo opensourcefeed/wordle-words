@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 98
 anagrams:
 - jawan
+prev_word: ajupa
+next_word: akara
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -35,4 +35,15 @@ definitions:
 - pos: verb
   defs:
   - text: To dance the rumba
+prev_word: rumal
+next_word: rumbo
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

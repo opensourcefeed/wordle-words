@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - grama
 - marga
+prev_word: gappy
+next_word: garba
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

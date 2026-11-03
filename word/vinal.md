@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - anvil
 - nival
+prev_word: vimen
+next_word: vinas
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

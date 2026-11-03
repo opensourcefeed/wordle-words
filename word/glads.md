@@ -36,4 +36,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make glad
+prev_word: glade
+next_word: glady
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -29,4 +29,13 @@ anagrams:
 - kinas
 - kisan
 - naiks
+prev_word: iiwis
+next_word: ikats
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

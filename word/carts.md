@@ -62,4 +62,15 @@ definitions:
   - text: A tape cartridge used for pre-recorded material such as jingles and advertisements.
   - text: A cartridge for a video game system.
     example: My Final Fantasy cart on the NES is still alive and kicking.
+prev_word: carte
+next_word: carve
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

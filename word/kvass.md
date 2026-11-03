@@ -26,4 +26,13 @@ definitions:
   defs:
   - text: A type of traditional fermented Russian beverage with little or no alcohol,
       made from bread, often flavored with fruit.
+prev_word: kuzus
+next_word: kvell
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

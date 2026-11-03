@@ -67,4 +67,15 @@ definitions:
   - text: To eat greedily, and to satiety; to stuff oneself.
   - text: "(British slang) To lie; to intentionally not tell the truth."
   - text: "(British slang) To make (a person) believe false or exaggerated tales."
+prev_word: cramp
+next_word: crane
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

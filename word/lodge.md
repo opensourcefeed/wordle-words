@@ -75,4 +75,15 @@ definitions:
       the wind.
     example: The heavy rain caused the wheat to lodge.
   - text: To cause to flatten, as grass or grain.
+prev_word: lodes
+next_word: loess
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

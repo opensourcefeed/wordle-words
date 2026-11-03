@@ -56,4 +56,15 @@ definitions:
     example: I’ll be out all day, so page me if you need me.
   - text: To call (somebody) using a public address system so as to find them.
     example: An SUV parked me in. Could you please page its owner?
+prev_word: pagan
+next_word: pager
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

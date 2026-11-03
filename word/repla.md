@@ -30,4 +30,15 @@ anagrams:
 - pearl
 - lepra
 - parle
+prev_word: repin
+next_word: reply
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

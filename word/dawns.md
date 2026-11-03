@@ -54,4 +54,15 @@ definitions:
   - text: To start to appear or be realized.
     example: I don’t want to be there when the truth dawns on him.
   - text: To begin to give promise; to begin to appear or to expand.
+prev_word: dawks
+next_word: dawts
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

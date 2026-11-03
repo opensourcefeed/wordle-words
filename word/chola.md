@@ -29,4 +29,15 @@ neighbours:
 - shola
 anagrams:
 - loach
+prev_word: choky
+next_word: choli
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

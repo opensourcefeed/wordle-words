@@ -50,4 +50,15 @@ definitions:
       this situation, e.g. "the boy" in the sentences "The boy kicked the ball" and
       "The ball was kicked by the boy".
   - text: A cheat who is assisted by dishonest casino staff.
+prev_word: agene
+next_word: agers
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

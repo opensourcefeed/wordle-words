@@ -26,4 +26,15 @@ stats:
 neighbours:
 - biota
 - dicta
+prev_word: diols
+next_word: dippy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

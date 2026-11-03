@@ -26,4 +26,15 @@ neighbours:
 - bamma
 anagrams:
 - amman
+prev_word: names
+next_word: namus
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

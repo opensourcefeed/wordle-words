@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - doter
 - roted
+prev_word: trock
+next_word: trods
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

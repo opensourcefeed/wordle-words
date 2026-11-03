@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: BUR_S
   count: 9
+prev_word: burbs
+next_word: buret
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

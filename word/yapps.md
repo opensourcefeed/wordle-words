@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - sappy
 - paspy
+prev_word: yapon
+next_word: yappy
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

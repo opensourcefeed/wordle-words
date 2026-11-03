@@ -80,4 +80,15 @@ definitions:
   defs:
   - text: Of, relating to, or writing for printed publications.
     example: a print edition of a book
+prev_word: prink
+next_word: prion
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

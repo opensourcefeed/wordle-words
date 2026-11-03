@@ -35,4 +35,15 @@ definitions:
   - text: A downhill trail.
   - text: The field of play of a fencing match.
   - text: The track left by somebody riding a horse.
+prev_word: pissy
+next_word: pitas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

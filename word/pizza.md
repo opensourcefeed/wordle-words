@@ -36,4 +36,15 @@ definitions:
     example: Want to go out for pizza tonight?
   - text: A single instance of this dish
     example: He ate a whole pizza!
+prev_word: pizes
+next_word: plaas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

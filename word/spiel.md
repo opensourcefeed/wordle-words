@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: To talk at length.
   - text: To give a sales pitch; to promote by speaking.
+prev_word: spied
+next_word: spier
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

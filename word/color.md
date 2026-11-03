@@ -84,4 +84,15 @@ definitions:
   - text: Conveying color, as opposed to shades of gray.
     example: Color television and movies were considered a great improvement over
       black and white.
+prev_word: colon
+next_word: colts
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

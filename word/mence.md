@@ -26,4 +26,15 @@ neighbours:
 - pence
 - menge
 - mense
+prev_word: menad
+next_word: mends
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: Quagmire; marsh; bog.
+prev_word: quaff
+next_word: quail
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

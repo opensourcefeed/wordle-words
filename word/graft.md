@@ -53,4 +53,15 @@ definitions:
   - text: To cover, as a ring bolt, block strap, splicing, etc., with a weaving of
       small cord or rope-yarns.
   - text: To form a graft polymer
+prev_word: graff
+next_word: grail
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

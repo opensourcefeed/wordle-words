@@ -49,4 +49,15 @@ definitions:
   - text: One who tries judicially.
   - text: A person appointed by law to try challenges of jurors; a trior.
   - text: That which tries or approves; a test.
+prev_word: tried
+next_word: tries
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

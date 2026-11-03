@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: To bear the brunt of; to weather or withstand.
     example: We brunted the storm.
+prev_word: brung
+next_word: brush
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

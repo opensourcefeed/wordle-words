@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 55
 neighbours:
 - beige
+prev_word: beige
+next_word: being
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

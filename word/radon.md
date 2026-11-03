@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: The chemical element (symbol Rn, formerly Ro) with atomic number 86. It
       is an odorless, colorless, chemically inert but radioactive noble gas.
+prev_word: radix
+next_word: rafee
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

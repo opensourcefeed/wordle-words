@@ -69,4 +69,15 @@ definitions:
       to devour.
   - text: To form or cleanse with the mouth; to lick, as a bear licks her cub.
   - text: To make mouths at.
+prev_word: mousy
+next_word: moved
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

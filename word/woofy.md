@@ -28,4 +28,15 @@ neighbours:
 - roofy
 - woofs
 - woopy
+prev_word: woofs
+next_word: woold
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

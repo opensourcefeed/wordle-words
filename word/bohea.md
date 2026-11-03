@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A black tea from China.
+prev_word: bogus
+next_word: bohos
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

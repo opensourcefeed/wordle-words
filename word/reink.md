@@ -28,4 +28,15 @@ neighbours:
 - reins
 anagrams:
 - inker
+prev_word: reing
+next_word: reins
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -47,4 +47,15 @@ definitions:
   - text: Covered or ornamented with, or as if with, beads.
   - text: Characterized by beads.
     example: beady liquor
+prev_word: beads
+next_word: beaks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -71,4 +71,15 @@ definitions:
       artists.
   - text: To direct a conversation.
   - text: To conduct oneself; to take or pursue a course of action.
+prev_word: steep
+next_word: steez
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

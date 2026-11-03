@@ -68,4 +68,15 @@ definitions:
 - pos: noun
   defs:
   - text: A beaded necklace.
+prev_word: beach
+next_word: beady
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -48,4 +48,15 @@ definitions:
 - pos: noun
   defs:
   - text: A fern; bracken.
+prev_word: brain
+next_word: braks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

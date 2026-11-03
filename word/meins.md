@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _EINS
   count: 7
+prev_word: meils
+next_word: meint
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

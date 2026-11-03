@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Resembling the sound of a flute.
     example: a high, fluty voice
+prev_word: flute
+next_word: fluyt
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

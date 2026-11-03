@@ -33,4 +33,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having a tattoo or tattoos.
+prev_word: inion
+next_word: inker
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

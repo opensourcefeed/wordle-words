@@ -97,4 +97,15 @@ definitions:
     example: We wired the suspect's house.
   - text: To snare by means of a wire or wires.
   - text: To place (a ball) so that the wire of a wicket prevents a successful shot.
+prev_word: wirer
+next_word: wirra
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

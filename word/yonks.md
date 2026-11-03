@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: A long time (especially a longer time than expected); ages
     example: Haven’t seen him in yonks!
+prev_word: yonis
+next_word: yonny
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

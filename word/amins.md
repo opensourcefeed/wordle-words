@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: AMI_S
   count: 6
+prev_word: amino
+next_word: amirs
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ definitions:
       too hot or dry)."
   - text: "(by extension) Hot and dry; thirsty or parched."
   - text: Burnt or having a scorched color.
+prev_word: adunc
+next_word: advew
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

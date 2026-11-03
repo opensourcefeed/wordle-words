@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: To expel (one or more people) from their property; to force (one or more
       people) to move out.
+prev_word: evhoe
+next_word: evils
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ev/"
+  label: Starting with EV
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

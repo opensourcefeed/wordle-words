@@ -29,4 +29,15 @@ anagrams:
 - proot
 - proto
 - tropo
+prev_word: poori
+next_word: poots
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

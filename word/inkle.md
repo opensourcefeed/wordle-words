@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: To hint at; disclose.
   - text: To have a hint or inkling of; divine.
+prev_word: inker
+next_word: inlay
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

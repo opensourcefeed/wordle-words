@@ -44,4 +44,15 @@ definitions:
   - text: A large stringed instrument of the violin family with four strings, tuned
       from lowest to highest C-G-D-A, and played with a bow, also possessing an endpin
       to support the instrument's weight.
+prev_word: celli
+next_word: cells
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

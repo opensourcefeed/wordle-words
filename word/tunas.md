@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: The prickly pear, a type of cactus native to Mexico in the genus Opuntia.
   - text: The fruit of the cactus.
+prev_word: tumpy
+next_word: tunds
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

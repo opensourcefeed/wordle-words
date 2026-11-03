@@ -32,4 +32,15 @@ definitions:
 - pos: verb
   defs:
   - text: To exclaim ooh.
+prev_word: oobit
+next_word: ooids
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oo/"
+  label: Starting with OO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

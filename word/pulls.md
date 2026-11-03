@@ -104,4 +104,15 @@ definitions:
   - text: "(rail transportation, of a railroad car) To pull out from a yard or station;
       to leave."
   - text: To pluck or pick (flowers, fruit etc.).
+prev_word: pulli
+next_word: pully
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

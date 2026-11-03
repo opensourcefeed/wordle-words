@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ANAS
   count: 6
+prev_word: lanai
+next_word: lance
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

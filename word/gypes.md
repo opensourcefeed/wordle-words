@@ -36,4 +36,15 @@ definitions:
   - text: Fool; clumsy, awkward person
   - text: Long-legged person
   - text: Silly boy
+prev_word: gyoza
+next_word: gyppy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

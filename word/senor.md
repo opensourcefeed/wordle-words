@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: A Spanish term of address equivalent to sir or Mr., used alone or capitalized
       and prefixed to the name of a married or an older man.
+prev_word: senna
+next_word: sensa
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

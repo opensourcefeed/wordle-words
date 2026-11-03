@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ELLS
   count: 14
+prev_word: kelim
+next_word: kelly
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

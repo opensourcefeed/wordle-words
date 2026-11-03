@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - godly
 - dogly
+prev_word: golds
+next_word: golem
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

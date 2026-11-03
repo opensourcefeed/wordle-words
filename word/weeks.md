@@ -50,4 +50,15 @@ definitions:
     example: A 4-day week consists of Monday, Tuesday, Wednesday, and Thursday.
   - text: Seven days after (sometimes before) a specified date.
     example: I'll see you Thursday week.
+prev_word: weeke
+next_word: weels
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

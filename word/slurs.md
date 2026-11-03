@@ -59,4 +59,15 @@ definitions:
       notice.
   - text: To cheat, as by sliding a die; to trick.
   - text: To blur or double, as an impression from type; to mackle.
+prev_word: slurp
+next_word: sluse
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

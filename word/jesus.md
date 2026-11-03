@@ -26,4 +26,15 @@ neighbours:
 - jehus
 - jests
 - resus
+prev_word: jests
+next_word: jetee
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -41,4 +41,13 @@ definitions:
   - text: Made of ebony wood.
   - text: A deep, dark black colour.
   - text: Dark-skinned; black; especially in reference to African-Americans.
+prev_word: ebons
+next_word: ebook
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

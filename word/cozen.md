@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: To become cozy; (by extension) to become acquainted, comfortable, or familiar
       with.
+prev_word: cozed
+next_word: cozes
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

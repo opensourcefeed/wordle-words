@@ -26,4 +26,15 @@ neighbours:
 - sohur
 anagrams:
 - humor
+prev_word: mohua
+next_word: moile
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

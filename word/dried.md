@@ -56,4 +56,15 @@ definitions:
   - text: To be thirsty.
   - text: To exhaust; to cause to run dry.
   - text: For an actor to forget his or her lines while performing.
+prev_word: drice
+next_word: drier
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

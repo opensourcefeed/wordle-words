@@ -39,4 +39,15 @@ definitions:
     example: He wouldn't shush so I kicked him.
   - text: To ask someone to be quiet, especially by saying shh.
     example: The boy in front of us was making too much noise, so we shushed him.
+prev_word: shura
+next_word: shute
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

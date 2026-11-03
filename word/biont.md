@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 46
 neighbours:
 - bions
+prev_word: bions
+next_word: biose
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

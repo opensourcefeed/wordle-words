@@ -37,4 +37,15 @@ definitions:
   - text: A West African storyteller who passes on oral traditions; a wandering musician
       and poet.
   - text: A Haitian dish of fried pork.
+prev_word: grins
+next_word: gripe
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

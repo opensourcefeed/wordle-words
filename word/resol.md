@@ -34,4 +34,15 @@ anagrams:
 - roles
 - soler
 - sorel
+prev_word: resod
+next_word: resow
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

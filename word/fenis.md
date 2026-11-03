@@ -36,4 +36,15 @@ anagrams:
 - neifs
 - niefs
 - nifes
+prev_word: fendy
+next_word: fenks
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

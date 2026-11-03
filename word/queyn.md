@@ -26,4 +26,13 @@ neighbours:
 - quern
 - queys
 - queyu
+prev_word: queue
+next_word: queys
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

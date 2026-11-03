@@ -36,4 +36,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Related to the method of lithography.
+prev_word: lithe
+next_word: liths
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ho/"
+  label: Ending in HO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

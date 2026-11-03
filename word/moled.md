@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _OLED
   count: 10
+prev_word: moldy
+next_word: moler
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

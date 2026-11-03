@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A species of great ape in the genus Pan, native to Africa, and believed
       by biologists to be the closest extant relative to humans.
+prev_word: chimo
+next_word: china
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: A doctor, usually practicing traditional medicine.
   - text: A judge or governor in Islamic India.
+prev_word: hakes
+next_word: hakus
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

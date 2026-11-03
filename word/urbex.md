@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: The exploration of man-made environments, especially urban structures; urban
       exploration.
+prev_word: urban
+next_word: urbia
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

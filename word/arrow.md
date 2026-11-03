@@ -46,4 +46,15 @@ definitions:
   - text: "(of a sugar cane plant) To develop an inflorescence."
   - text: To navigate using the arrow keys.
     example: Arrow left until you reach the start of the text you want to delete.
+prev_word: arris
+next_word: arroz
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

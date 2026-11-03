@@ -44,4 +44,15 @@ definitions:
   - text: Having loops.
     example: A loopy rollercoaster.
   - text: Idiotic, crazy or drunk.
+prev_word: loops
+next_word: loord
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

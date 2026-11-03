@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: To twinkle; sparkle
   - text: To wink
+prev_word: twine
+next_word: twins
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

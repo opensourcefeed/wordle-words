@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 100
 neighbours:
 - xylol
+prev_word: xylol
+next_word: xysti
+hubs:
+- url: "/starting-with/x/"
+  label: Starting with X
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -36,4 +36,13 @@ definitions:
   - text: To approve.
     example: I don't want to OK this amount of money.
   - text: To confirm by activating a button marked OK.
+prev_word: okapi
+next_word: okehs
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

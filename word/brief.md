@@ -71,4 +71,13 @@ definitions:
   defs:
   - text: Briefly.
   - text: Soon; quickly.
+prev_word: bride
+next_word: brier
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -69,4 +69,15 @@ definitions:
 - pos: noun
   defs:
   - text: Lameness; a limp.
+prev_word: halsh
+next_word: halva
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

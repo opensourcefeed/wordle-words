@@ -29,4 +29,15 @@ definitions:
   - text: The system of writing Japanese using Chinese characters.
   - text: Any individual Chinese character as used in the Japanese language.
     example: I know about a thousand kanji.
+prev_word: kangs
+next_word: kants
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ji/"
+  label: Ending in JI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

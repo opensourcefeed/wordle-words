@@ -28,4 +28,15 @@ anagrams:
 - sever
 - verse
 - veers
+prev_word: erect
+next_word: ergon
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/vs/"
+  label: Ending in VS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

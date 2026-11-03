@@ -30,4 +30,15 @@ anagrams:
 - dawen
 - dewan
 - waned
+prev_word: awmry
+next_word: awner
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

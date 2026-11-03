@@ -35,4 +35,15 @@ anagrams:
 - swile
 - weils
 - wiles
+prev_word: wield
+next_word: wifed
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

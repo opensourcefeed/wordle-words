@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: The field of economics that deals with small-scale economic activities such
       as those of an individual or company.
+prev_word: micra
+next_word: middy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

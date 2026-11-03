@@ -60,4 +60,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make a path in, or on (something), or for (someone).
+prev_word: pates
+next_word: patia
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

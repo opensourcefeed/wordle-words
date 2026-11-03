@@ -25,4 +25,15 @@ definitions:
 - pos: noun
   defs:
   - text: A stupid or obnoxious person.
+prev_word: schif
+next_word: schul
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

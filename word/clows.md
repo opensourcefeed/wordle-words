@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: CLO_S
   count: 8
+prev_word: clown
+next_word: cloye
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

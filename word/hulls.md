@@ -60,4 +60,15 @@ definitions:
   - text: To drift; to be carried by the impetus of wind or water on the ship's hull
       alone, with sails furled.
   - text: To hit (a ship) in the hull with cannon fire etc.
+prev_word: hullo
+next_word: hully
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

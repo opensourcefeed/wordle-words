@@ -51,4 +51,15 @@ definitions:
     example: And govern'd him in strength, though not in lust. — Shakespeare, "Venus
       and Adonis".
   - text: A bicycle.
+prev_word: steds
+next_word: steek
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

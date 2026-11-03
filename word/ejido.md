@@ -29,4 +29,13 @@ definitions:
 - pos: noun
   defs:
   - text: A Mexican cooperative farm.
+prev_word: eject
+next_word: ekdam
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

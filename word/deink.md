@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: To remove ink from.
     example: Paper may need to be deinked as part of the recycling process.
+prev_word: deils
+next_word: deism
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

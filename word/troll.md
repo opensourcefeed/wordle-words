@@ -40,4 +40,15 @@ definitions:
   - text: Optical ejections from the top of the electrically active core regions of
       thunderstorms that are red in color that seem to occur after tendrils of vigorous
       sprites extend downward toward the cloud tops.
+prev_word: troke
+next_word: tromp
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

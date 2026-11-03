@@ -24,4 +24,13 @@ definitions:
 - pos: noun
   defs:
   - text: A dark form of soy sauce
+prev_word: showy
+next_word: shred
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

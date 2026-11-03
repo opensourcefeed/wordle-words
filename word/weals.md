@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: A raised, longitudinal wound, usually purple, on the surface of flesh caused
       by a stroke of a rod or whip; a welt.
+prev_word: weald
+next_word: weamb
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

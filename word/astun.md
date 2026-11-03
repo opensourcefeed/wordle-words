@@ -27,4 +27,15 @@ anagrams:
 - tansu
 - tuans
 - tunas
+prev_word: astir
+next_word: asura
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

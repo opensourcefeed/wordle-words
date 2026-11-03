@@ -60,4 +60,15 @@ definitions:
   - text: To improve one’s hand to beat another player on the final card in a poker
       game.
     example: Johnny rivered me by drawing that ace of spades.
+prev_word: riven
+next_word: rives
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

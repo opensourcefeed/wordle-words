@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: The currency of Peru between 1985 and 1991, replacing the sol.
+prev_word: intil
+next_word: intra
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

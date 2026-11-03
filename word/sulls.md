@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: 'Of an animal: to stop; to refuse to go on.'
+prev_word: sulky
+next_word: sully
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

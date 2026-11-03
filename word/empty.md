@@ -60,4 +60,15 @@ definitions:
     example: Empty cow rates have increased in recent years.
   - text: Producing nothing; unfruitful; said of a plant or tree.
     example: an empty vine
+prev_word: empts
+next_word: emule
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

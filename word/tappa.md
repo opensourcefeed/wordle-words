@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: Seasoned slices of dried or cured meat in Filipino cuisine.
+prev_word: tapis
+next_word: tapus
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

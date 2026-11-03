@@ -22,4 +22,15 @@ neighbours:
 - dully
 - duple
 - duppy
+prev_word: duple
+next_word: duppy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

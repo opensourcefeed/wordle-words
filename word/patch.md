@@ -105,4 +105,15 @@ definitions:
       question. Hence:'
   - text: To connect two pieces of electrical equipment using a cable.
     example: I'll need to patch the preamp output to the mixer.
+prev_word: patas
+next_word: pated
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

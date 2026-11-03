@@ -46,4 +46,15 @@ definitions:
   - text: To cause harm or pain to.
     example: I thought I could park in front of the hotel, but they stung me for five
       pounds!
+prev_word: stums
+next_word: stunk
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

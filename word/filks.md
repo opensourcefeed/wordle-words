@@ -34,4 +34,15 @@ neighbours:
 - silks
 anagrams:
 - flisk
+prev_word: filii
+next_word: fille
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

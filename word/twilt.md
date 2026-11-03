@@ -25,4 +25,15 @@ neighbours:
 - twist
 - twixt
 - twill
+prev_word: twill
+next_word: twine
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

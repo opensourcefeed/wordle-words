@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: A ritual bath in which various Jewish purifications are performed.
+prev_word: mikra
+next_word: milch
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/va/"
+  label: Ending in VA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

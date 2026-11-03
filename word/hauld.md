@@ -28,4 +28,15 @@ neighbours:
 - hault
 - tauld
 - yauld
+prev_word: haugo
+next_word: haulm
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

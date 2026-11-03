@@ -46,4 +46,15 @@ definitions:
   - text: The essential ground for action in a suit, without which there is no cause
       of action.
   - text: Resting place (especially of animals), lodging.
+prev_word: gisms
+next_word: gitch
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

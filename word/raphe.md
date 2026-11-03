@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A ridge or seam on an organ, bodily tissue, or other structure, especially
       at the join between two halves or sections.
+prev_word: rapes
+next_word: rapid
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

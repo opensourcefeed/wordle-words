@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: The official currency of Nigeria, which replaced the pound in 1973; the
       principal denomination of the currency, equal to 100 kobo.
+prev_word: naios
+next_word: nairu
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

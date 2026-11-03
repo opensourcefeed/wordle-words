@@ -59,4 +59,15 @@ definitions:
   defs:
   - text: A subgenre of punk rock, derived from hardcore punk with extreme metal elements,
       often with pessimistic lyrics about political and social ills.
+prev_word: crush
+next_word: crusy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

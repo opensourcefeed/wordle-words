@@ -40,4 +40,15 @@ definitions:
   - text: A vile or disgusting person.
   - text: Weeds growing on pasture land.
     example: Grampa remembers when he had to cut filth with a scythe.
+prev_word: filos
+next_word: filum
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

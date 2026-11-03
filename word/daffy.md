@@ -31,4 +31,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Somewhat mad or eccentric.
+prev_word: daffs
+next_word: dagga
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

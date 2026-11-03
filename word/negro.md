@@ -40,4 +40,13 @@ definitions:
   defs:
   - text: Relating to the black ethnicity.
   - text: Black or dark brown in color.
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

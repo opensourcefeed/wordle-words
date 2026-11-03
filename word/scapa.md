@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - capas
 - pacas
+prev_word: scant
+next_word: scape
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

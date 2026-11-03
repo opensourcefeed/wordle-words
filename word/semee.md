@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: 'Sprinkled, sown, strewn: said of a field or charge when strewn with small
       (identical) charges.'
+prev_word: semas
+next_word: semen
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

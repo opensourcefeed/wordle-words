@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: _ICHT
   count: 6
+prev_word: dicey
+next_word: dicky
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

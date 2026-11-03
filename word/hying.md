@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: Haste
+prev_word: hygge
+next_word: hykes
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

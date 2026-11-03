@@ -33,4 +33,15 @@ definitions:
   - text: People of a church who are not ordained clergy or clerics.
   - text: The common man or woman.
   - text: The unlearned, untrained or ignorant.
+prev_word: laith
+next_word: laked
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

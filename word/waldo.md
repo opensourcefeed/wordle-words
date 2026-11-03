@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A remote manipulation system in which a slave device mimics the motions
       of a master device manipulated directly by the operator.
+prev_word: wakfs
+next_word: walds
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

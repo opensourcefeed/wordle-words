@@ -49,4 +49,15 @@ definitions:
 - pos: noun
   defs:
   - text: A piece of mountain pasture to which a farm animal has become hefted.
+prev_word: hafta
+next_word: haggs
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

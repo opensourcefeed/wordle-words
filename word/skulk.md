@@ -40,4 +40,15 @@ definitions:
   - text: To move in a stealthy or furtive way; to come or go while trying to avoid
       detection.
   - text: To avoid an obligation or responsibility.
+prev_word: skugs
+next_word: skull
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/lk/"
+  label: Ending in LK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

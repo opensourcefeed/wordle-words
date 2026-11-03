@@ -24,4 +24,15 @@ stats:
 neighbours:
 - cutty
 - putto
+prev_word: cutis
+next_word: cutty
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

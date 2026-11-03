@@ -27,4 +27,15 @@ anagrams:
 - whist
 - whits
 - withs
+prev_word: wisha
+next_word: wisps
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

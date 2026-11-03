@@ -22,4 +22,15 @@ stats:
   - J
   starter_tier: Average
   starter_top_percent: 37
+prev_word: jeons
+next_word: jerks
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

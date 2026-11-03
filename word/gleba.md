@@ -28,4 +28,15 @@ anagrams:
 - bagel
 - belga
 - gable
+prev_word: glean
+next_word: glebe
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

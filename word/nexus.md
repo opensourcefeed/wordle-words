@@ -42,4 +42,15 @@ definitions:
   - text: The relationship between a vendor and a jurisdiction for the purpose of
       taxation, established for example by the vendor operating a physical store in
       that jurisdiction.
+prev_word: nexum
+next_word: ngaio
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,15 @@ neighbours:
 - kraal
 anagrams:
 - acral
+prev_word: cozie
+next_word: crabs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A person in the business of devising, writing, illustrating or selling advertisements.
+prev_word: adman
+next_word: admin
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

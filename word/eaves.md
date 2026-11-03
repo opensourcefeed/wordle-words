@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: The underside of a roof that extends beyond the external walls of a building.
+prev_word: eaver
+next_word: ebank
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

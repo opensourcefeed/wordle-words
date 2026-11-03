@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Baggy or loose-fitting.
   - text: That sinks or droops from wear or its own weight.
+prev_word: sages
+next_word: sagos
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

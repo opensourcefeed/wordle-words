@@ -30,4 +30,15 @@ neighbours:
 - tomme
 anagrams:
 - mompe
+prev_word: pomes
+next_word: pommy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

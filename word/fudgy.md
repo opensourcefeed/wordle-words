@@ -24,4 +24,15 @@ neighbours:
 - fuggy
 - judgy
 - nudgy
+prev_word: fudge
+next_word: fuels
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

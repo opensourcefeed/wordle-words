@@ -56,4 +56,15 @@ definitions:
   - text: Wild, untamed, especially of domesticated animals having returned to the
       wild.
   - text: "(of a person) Contemptible, unruly, misbehaved."
+prev_word: feoff
+next_word: ferer
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

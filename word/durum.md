@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: Triticum turgidum subsp. durum, syn. Triticum durum (hard wheat), the flour
       of which is used to make pasta and bread.
+prev_word: durst
+next_word: durzi
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

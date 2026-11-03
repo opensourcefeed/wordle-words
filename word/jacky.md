@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A sailor.
   - text: English gin.
+prev_word: jacks
+next_word: jaded
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

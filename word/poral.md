@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ORAL
   count: 9
+prev_word: porae
+next_word: porch
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

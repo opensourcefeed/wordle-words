@@ -25,4 +25,15 @@ neighbours:
 - hoggs
 - hogos
 - yoghs
+prev_word: hoggs
+next_word: hogoh
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

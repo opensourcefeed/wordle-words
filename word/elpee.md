@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 89
+prev_word: elops
+next_word: elsin
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

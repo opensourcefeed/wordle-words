@@ -30,4 +30,13 @@ neighbours:
 trap:
   pattern: SKEE_
   count: 8
+prev_word: skeet
+next_word: skeez
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/v/"
+  label: Ending in V
 ---

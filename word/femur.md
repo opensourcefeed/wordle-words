@@ -34,4 +34,15 @@ definitions:
   - text: The middle segment of the leg of an insect, between the trochanter and the
       tibia.
   - text: A segment of the leg of an arachnid.
+prev_word: femmy
+next_word: fence
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

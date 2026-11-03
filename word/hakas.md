@@ -50,4 +50,15 @@ definitions:
 - pos: verb
   defs:
   - text: To perform the haka.
+prev_word: hakam
+next_word: hakea
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

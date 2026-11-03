@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(chiefly in the plural) A suburb."
+prev_word: buras
+next_word: burds
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

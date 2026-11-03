@@ -53,4 +53,15 @@ definitions:
   - text: To stop doing (something).
     example: And with that, he ceased twitching.
   - text: To be wanting; to fail; to pass away.
+prev_word: caxon
+next_word: ceaze
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

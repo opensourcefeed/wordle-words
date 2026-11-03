@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: Silent and withdrawn after being upset
     example: the sulky child
+prev_word: sulks
+next_word: sulls
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

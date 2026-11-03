@@ -25,4 +25,15 @@ neighbours:
 - vichy
 anagrams:
 - itchy
+prev_word: tices
+next_word: ticks
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

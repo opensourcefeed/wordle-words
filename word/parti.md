@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - tapir
 - atrip
+prev_word: parte
+next_word: parts
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

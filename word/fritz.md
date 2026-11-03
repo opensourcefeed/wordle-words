@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To go wrong or become defective.
+prev_word: fritt
+next_word: frize
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/tz/"
+  label: Ending in TZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

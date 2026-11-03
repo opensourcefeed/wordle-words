@@ -26,4 +26,15 @@ stats:
 anagrams:
 - laree
 - leare
+prev_word: ledum
+next_word: leech
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

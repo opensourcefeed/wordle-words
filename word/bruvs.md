@@ -23,4 +23,15 @@ neighbours:
 - bruhs
 - bruts
 - eruvs
+prev_word: bruts
+next_word: buats
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/vs/"
+  label: Ending in VS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

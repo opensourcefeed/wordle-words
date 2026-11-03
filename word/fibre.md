@@ -49,4 +49,15 @@ definitions:
       morphism along the said global element.'
   - text: A kind of lightweight thread of execution.
   - text: A long tubular cell found in muscle tissue; myocyte.
+prev_word: fiber
+next_word: fibro
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

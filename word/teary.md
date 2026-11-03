@@ -40,4 +40,15 @@ definitions:
     example: No wonder Ryan was teary; he missed his parents.
   - text: Of eyes, filled with tears.
     example: Wade looked into his girlfriend's teary eyes.
+prev_word: tears
+next_word: tease
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

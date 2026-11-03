@@ -39,4 +39,15 @@ anagrams:
 - rapes
 - reaps
 - repas
+prev_word: preps
+next_word: prese
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

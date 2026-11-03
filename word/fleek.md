@@ -36,4 +36,15 @@ definitions:
   - text: "(of an article of clothing or outfit) Stylish and perfectly chosen or put
       together."
   - text: Perfect; spot on; flawless.
+prev_word: fleck
+next_word: fleer
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

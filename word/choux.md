@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 91
 neighbours:
 - chout
+prev_word: chout
+next_word: chowk
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: Native sodium carbonate; natron.
   - text: A mineral form of potassium nitrate (saltpetre) used in making gunpowder.
+prev_word: nital
+next_word: nites
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

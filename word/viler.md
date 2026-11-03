@@ -47,4 +47,15 @@ definitions:
   - text: Morally low; base; despicable.
   - text: Causing physical or mental repulsion; horrid.
     example: I glimpsed a vile squid-like creature in the depths.
+prev_word: vilde
+next_word: villa
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

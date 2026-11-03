@@ -43,4 +43,13 @@ definitions:
   - text: To observe carefully or appraisingly.
     example: After eyeing the document for half an hour, she decided not to sign it.
   - text: To appear; to look.
+prev_word: eyers
+next_word: eyots
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

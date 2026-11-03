@@ -22,4 +22,15 @@ stats:
 neighbours:
 - lycee
 - syces
+prev_word: sybow
+next_word: syces
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

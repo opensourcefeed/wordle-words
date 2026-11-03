@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To work as a temporary employee.
+prev_word: tempo
+next_word: tempt
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _UMPY
   count: 8
+prev_word: rumps
+next_word: runce
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

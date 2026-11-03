@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: SKI_S
   count: 7
+prev_word: skint
+next_word: skips
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

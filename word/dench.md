@@ -29,4 +29,15 @@ neighbours:
 trap:
   pattern: _ENCH
   count: 6
+prev_word: denay
+next_word: denes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

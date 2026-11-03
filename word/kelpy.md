@@ -24,4 +24,15 @@ neighbours:
 - kelps
 - kelty
 - kempy
+prev_word: kelps
+next_word: kelts
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

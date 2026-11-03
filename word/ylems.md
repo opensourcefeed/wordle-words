@@ -26,4 +26,13 @@ anagrams:
 - lymes
 - mesyl
 - yelms
+prev_word: yitie
+next_word: ylide
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

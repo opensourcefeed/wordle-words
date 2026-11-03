@@ -29,4 +29,15 @@ anagrams:
 - reing
 - renig
 - ringe
+prev_word: nefie
+next_word: negus
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: PU_AS
   count: 9
+prev_word: pugil
+next_word: pujah
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

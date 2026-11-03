@@ -26,4 +26,15 @@ stats:
 neighbours:
 - togas
 - togue
+prev_word: tofus
+next_word: togas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

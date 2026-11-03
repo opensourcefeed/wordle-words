@@ -42,4 +42,15 @@ definitions:
     example: The man was exalted from a humble carpenter to a minister.
   - text: To elate, or fill with the joy of success.
   - text: To refine or subtilize.
+prev_word: exact
+next_word: exams
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

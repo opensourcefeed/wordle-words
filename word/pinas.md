@@ -50,4 +50,15 @@ definitions:
   - text: Cloth woven from pineapple fiber
   - text: A cone of silver amalgam prepared for retorting.
   - text: The residual cone of spongy silver left after the retorting.
+prev_word: pimps
+next_word: pinax
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

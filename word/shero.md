@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A female hero.
+prev_word: shere
+next_word: shets
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

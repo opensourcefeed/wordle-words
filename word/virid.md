@@ -24,4 +24,15 @@ neighbours:
 - vivid
 - mirid
 - vired
+prev_word: virgo
+next_word: virls
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

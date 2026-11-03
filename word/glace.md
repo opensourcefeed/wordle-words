@@ -27,4 +27,15 @@ neighbours:
 - glaze
 - grace
 - place
+prev_word: gizmo
+next_word: glade
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

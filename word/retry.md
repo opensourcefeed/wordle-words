@@ -43,4 +43,15 @@ definitions:
     example: to retry connecting to the Internet after an error
   - text: To try judicially a second time.
     example: to retry a case
+prev_word: retro
+next_word: reune
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

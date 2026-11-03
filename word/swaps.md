@@ -57,4 +57,15 @@ definitions:
 - pos: noun
   defs:
   - text: A blow; a stroke.
+prev_word: swans
+next_word: swapt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -32,4 +32,15 @@ anagrams:
 - pitas
 - stipa
 - tapis
+prev_word: spain
+next_word: spake
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

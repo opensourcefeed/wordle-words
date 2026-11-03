@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A squirrel’s nest, built of twigs in a tree.
   - text: A possum’s nest, built of twigs and leaves in a tree.
+prev_word: drest
+next_word: dribs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

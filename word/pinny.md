@@ -43,4 +43,15 @@ definitions:
   - text: A sleeveless dress, often similar to an apron, generally worn over other
       clothes.
   - text: A simple jersey worn to denote teams or groups.
+prev_word: pinna
+next_word: pinol
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -53,4 +53,15 @@ definitions:
   - text: Having a color charge of blue.
   - text: "(entertainment) Risque or obscene"
     example: His material is too blue for prime-time
+prev_word: blued
+next_word: blues
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

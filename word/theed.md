@@ -26,4 +26,15 @@ neighbours:
 - theek
 - thees
 - treed
+prev_word: theca
+next_word: theek
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ETES
   count: 9
+prev_word: betel
+next_word: beths
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

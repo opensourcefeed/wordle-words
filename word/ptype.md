@@ -20,4 +20,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 68
+prev_word: ptish
+next_word: pubby
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

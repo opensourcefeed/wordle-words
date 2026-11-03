@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: A hypothetical particle that is the superpartner of the W boson.
+prev_word: winns
+next_word: winze
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: To assault a blockade of a city or fortress with the intent of conquering
       by force or attrition; to besiege.
+prev_word: sidle
+next_word: sield
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

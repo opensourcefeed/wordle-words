@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: S_AGS
   count: 9
+prev_word: spaes
+next_word: spahi
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

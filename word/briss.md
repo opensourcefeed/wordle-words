@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: BRI_S
   count: 8
+prev_word: brisk
+next_word: brith
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

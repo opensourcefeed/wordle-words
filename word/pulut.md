@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 87
 neighbours:
 - pulus
+prev_word: pulus
+next_word: pumas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

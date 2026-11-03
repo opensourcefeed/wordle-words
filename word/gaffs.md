@@ -63,4 +63,15 @@ definitions:
   defs:
   - text: A sturdy adhesive tape, made of plastic reinforced with cross-linked fibre,
       often used by lighting electricians.
+prev_word: gaffe
+next_word: gaged
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

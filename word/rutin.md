@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A flavonoid, found in many plants, that is a glycoside of quercetin and
       rutinose.
+prev_word: ruths
+next_word: rutty
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

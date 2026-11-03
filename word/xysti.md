@@ -29,4 +29,13 @@ definitions:
 - pos: noun
   defs:
   - text: "(in Ancient Greece) A long and open portico within the gymnasium."
+prev_word: xylyl
+next_word: xysts
+hubs:
+- url: "/starting-with/x/"
+  label: Starting with X
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

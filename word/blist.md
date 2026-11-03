@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - blits
 - stilb
+prev_word: bliss
+next_word: blite
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

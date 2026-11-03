@@ -51,4 +51,15 @@ definitions:
 - pos: noun
   defs:
   - text: A source, wellspring, fount.
+prev_word: fonly
+next_word: foods
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

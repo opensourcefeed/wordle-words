@@ -23,4 +23,15 @@ neighbours:
 - chaya
 - khana
 - shaya
+prev_word: khats
+next_word: khazi
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/ya/"
+  label: Ending in YA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

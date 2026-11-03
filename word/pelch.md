@@ -30,4 +30,15 @@ neighbours:
 - pilch
 anagrams:
 - chelp
+prev_word: pelau
+next_word: peles
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

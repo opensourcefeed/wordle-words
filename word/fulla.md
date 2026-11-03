@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: Man, especially one of indigenous decent.
+prev_word: fujis
+next_word: fulls
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

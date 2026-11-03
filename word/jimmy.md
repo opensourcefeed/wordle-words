@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To pry (something, especially a lock) open with or as if with a crowbar.
+prev_word: jilts
+next_word: jimpy
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -33,4 +33,15 @@ definitions:
 - pos: adverb
   defs:
   - text: Incognito.
+prev_word: incle
+next_word: incur
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/og/"
+  label: Ending in OG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

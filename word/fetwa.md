@@ -24,4 +24,13 @@ stats:
 neighbours:
 - fatwa
 - fetta
+prev_word: fetus
+next_word: feuar
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

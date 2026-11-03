@@ -30,4 +30,15 @@ anagrams:
 - acton
 - canto
 - cotan
+prev_word: octal
+next_word: octas
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

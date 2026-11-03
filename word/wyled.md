@@ -25,4 +25,13 @@ neighbours:
 - wiled
 - wyles
 - wyted
+prev_word: wuxia
+next_word: wyles
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

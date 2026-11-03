@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - brats
 - trabs
+prev_word: brass
+next_word: brats
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

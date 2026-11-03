@@ -48,4 +48,13 @@ definitions:
   - text: To gather and bind into a sheaf; to make into sheaves
     example: to sheaf wheat
   - text: To collect and bind cut grain, or the like; to make sheaves.
+prev_word: shchi
+next_word: sheal
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

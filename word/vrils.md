@@ -27,4 +27,13 @@ neighbours:
 - veils
 anagrams:
 - virls
+prev_word: vraic
+next_word: vroom
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

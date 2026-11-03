@@ -26,4 +26,15 @@ neighbours:
 - pavin
 - ravin
 - savin
+prev_word: baurs
+next_word: bawds
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

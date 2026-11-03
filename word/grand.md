@@ -55,4 +55,15 @@ definitions:
   - text: Fine; lovely.
     example: A cup of tea? That'd be grand.
   - text: Containing all the parts proper to a given form of composition.
+prev_word: grana
+next_word: grano
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

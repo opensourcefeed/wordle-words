@@ -50,4 +50,15 @@ definitions:
     example: '1942: As we came to this promenade [...] we heard the throbbing of a
       drum that announces a kolo, a communal dance. — Rebecca West, Black Lamb and
       Grey Falcon (Canongate 2006, p. 660)'
+prev_word: kolas
+next_word: kombi
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -102,4 +102,15 @@ definitions:
   defs:
   - text: Imprisonment, captivity
   - text: The condition of goods in a bonded warehouse until duty is paid
+prev_word: bonce
+next_word: boned
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

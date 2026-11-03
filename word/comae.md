@@ -42,4 +42,15 @@ definitions:
   - text: A tuft or bunch, such as the assemblage of branches forming the head of
       a tree, a cluster of bracts when empty and terminating the inflorescence of
       a plant, or a tuft of long hairs on certain seeds.
+prev_word: colza
+next_word: comal
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _OONS
   count: 12
+prev_word: roomy
+next_word: roops
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

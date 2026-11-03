@@ -30,4 +30,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Relating to or near a hilum.
+prev_word: hikoi
+next_word: hilch
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

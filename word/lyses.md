@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: To burst or cut a cell or cell structure; to induce lysis.
   - text: To break down molecularly into smaller molecules; to induce lysis.
+prev_word: lysed
+next_word: lysin
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

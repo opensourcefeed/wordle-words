@@ -27,4 +27,15 @@ anagrams:
 - putas
 - stupa
 - tapus
+prev_word: spurt
+next_word: spyal
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

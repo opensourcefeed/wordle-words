@@ -26,4 +26,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Silent; speechless; dumb.
+prev_word: shtik
+next_word: shuba
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

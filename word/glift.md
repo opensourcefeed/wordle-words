@@ -25,4 +25,15 @@ neighbours:
 - clift
 - gliff
 - grift
+prev_word: gliff
+next_word: glike
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

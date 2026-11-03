@@ -40,4 +40,15 @@ definitions:
       forehead is wrinkled, usually indicating displeasure, sadness or worry, or less
       often confusion or concentration.
   - text: A facial expression in which the corners of the mouth are pointed down.
+prev_word: froth
+next_word: frows
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

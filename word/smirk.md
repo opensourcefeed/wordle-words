@@ -44,4 +44,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Smart; spruce; affected; simpering
+prev_word: smily
+next_word: smirr
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/rk/"
+  label: Ending in RK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

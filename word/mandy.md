@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _ANDY
   count: 11
+prev_word: mands
+next_word: maneb
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

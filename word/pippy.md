@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _IPPY
   count: 11
+prev_word: pipit
+next_word: pipul
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

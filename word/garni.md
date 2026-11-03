@@ -27,4 +27,15 @@ anagrams:
 - grain
 - agrin
 - rangi
+prev_word: garms
+next_word: garre
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ni/"
+  label: Ending in NI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

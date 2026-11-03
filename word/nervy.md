@@ -36,4 +36,15 @@ definitions:
   - text: Feeling nervous, anxious or agitated.
   - text: Strong; sinewy.
   - text: Jittery; having unwanted signal characteristics.
+prev_word: nerve
+next_word: neski
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -28,4 +28,15 @@ neighbours:
 - towai
 anagrams:
 - await
+prev_word: tawaf
+next_word: tawas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

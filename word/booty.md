@@ -48,4 +48,15 @@ definitions:
       at once.
   - text: Plunder taken from an enemy in time of war, or seized by piracy.
   - text: Something that has been stolen or illegally obtained from elsewhere.
+prev_word: boots
+next_word: booze
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

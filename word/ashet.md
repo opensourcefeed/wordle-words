@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A large, shallow, oval dish used for serving food.
+prev_word: ashes
+next_word: aside
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -25,4 +25,15 @@ neighbours:
 - flung
 - klong
 - plong
+prev_word: flogs
+next_word: flood
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

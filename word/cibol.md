@@ -21,4 +21,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 55
+prev_word: chynd
+next_word: cided
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

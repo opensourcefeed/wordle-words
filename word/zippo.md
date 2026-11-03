@@ -31,4 +31,15 @@ definitions:
 - pos: adjective
   defs:
   - text: None whatsoever
+prev_word: zinos
+next_word: zippy
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/po/"
+  label: Ending in PO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

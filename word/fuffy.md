@@ -29,4 +29,15 @@ neighbours:
 trap:
   pattern: _UFFY
   count: 6
+prev_word: fuffs
+next_word: fugal
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

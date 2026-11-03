@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 70
 neighbours:
 - gazoo
+prev_word: gazes
+next_word: gazoo
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

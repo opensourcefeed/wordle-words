@@ -38,4 +38,15 @@ definitions:
   - text: A quiet demonstration in support of a cause.
     example: The protesters kept vigil outside the conference centre in which the
       party congress was being held.
+prev_word: vigia
+next_word: vigor
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

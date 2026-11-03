@@ -33,4 +33,15 @@ neighbours:
 - paves
 - pavin
 - pavon
+prev_word: paved
+next_word: paver
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

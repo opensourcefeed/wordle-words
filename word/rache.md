@@ -35,4 +35,15 @@ anagrams:
 - reach
 - acher
 - chare
+prev_word: races
+next_word: racks
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

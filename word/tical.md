@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - cital
 - ictal
+prev_word: tibia
+next_word: ticca
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - goras
 - sargo
+prev_word: agrin
+next_word: agrum
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

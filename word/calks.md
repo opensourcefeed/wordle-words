@@ -58,4 +58,15 @@ definitions:
       watertight.
   - text: To apply caulking to joints, cracks, or a juncture of different materials.
   - text: Fuck
+prev_word: calix
+next_word: calla
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

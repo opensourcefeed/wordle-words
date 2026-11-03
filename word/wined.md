@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: To entertain with wine.
   - text: To drink wine.
+prev_word: windy
+next_word: wines
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

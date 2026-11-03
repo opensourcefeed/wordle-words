@@ -61,4 +61,15 @@ definitions:
   - text: A young plant germinated in a pot to be transplanted later.
   - text: An initial advantage over somebody else; a head start.
     example: to get, or have, the start
+prev_word: stars
+next_word: stary
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

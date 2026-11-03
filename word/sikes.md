@@ -51,4 +51,15 @@ definitions:
 - pos: verb
   defs:
   - text: To sigh or sob.
+prev_word: siker
+next_word: silds
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

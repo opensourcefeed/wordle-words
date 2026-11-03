@@ -53,4 +53,15 @@ definitions:
   - text: A throw in which a wrestler turns his left side to his opponent, twines
       his left leg about his opponent's right leg from the inside, and throws him
       backward.
+prev_word: hangs
+next_word: hanky
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

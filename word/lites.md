@@ -46,4 +46,15 @@ anagrams:
 trap:
   pattern: _ITES
   count: 12
+prev_word: liter
+next_word: lithe
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

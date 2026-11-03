@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ITER
   count: 7
+prev_word: citee
+next_word: cites
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

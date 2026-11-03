@@ -24,4 +24,15 @@ neighbours:
 - retem
 anagrams:
 - rheme
+prev_word: rehab
+next_word: reifs
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

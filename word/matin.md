@@ -36,4 +36,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of or relating to matins
+prev_word: maths
+next_word: matlo
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

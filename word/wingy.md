@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _INGY
   count: 8
+prev_word: wings
+next_word: winks
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

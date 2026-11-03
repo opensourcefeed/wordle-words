@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: DO_TS
   count: 6
+prev_word: doing
+next_word: dojos
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

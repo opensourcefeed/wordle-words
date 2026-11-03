@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: DOR_S
   count: 8
+prev_word: dorba
+next_word: doree
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

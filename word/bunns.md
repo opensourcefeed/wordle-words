@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: BUN_S
   count: 6
+prev_word: bunks
+next_word: bunny
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

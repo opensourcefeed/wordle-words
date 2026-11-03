@@ -28,4 +28,13 @@ definitions:
 - pos: noun
   defs:
   - text: Girlfriend
+prev_word: girds
+next_word: girls
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

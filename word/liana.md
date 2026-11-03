@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A climbing woody vine, usually tropical.
+prev_word: lezzo
+next_word: liane
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

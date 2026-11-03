@@ -60,4 +60,15 @@ definitions:
   - text: A gap or hole in a hedge, fence, etc. through which a wild animal is accustomed
       to pass; a muset.
     example: Find a hare without a muse. (old proverb)
+prev_word: muser
+next_word: muset
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

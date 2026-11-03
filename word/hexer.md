@@ -28,4 +28,15 @@ neighbours:
 - hexes
 - sexer
 - vexer
+prev_word: hexed
+next_word: hexes
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

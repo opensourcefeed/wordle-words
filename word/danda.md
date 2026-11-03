@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A punctuation character (।) used in the Devanāgarī script to mark the end
       of a sentence.
+prev_word: dancy
+next_word: dandy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

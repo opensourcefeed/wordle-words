@@ -23,4 +23,15 @@ stats:
 neighbours:
 - folky
 - yolks
+prev_word: yolks
+next_word: yolps
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

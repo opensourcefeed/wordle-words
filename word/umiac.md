@@ -24,4 +24,15 @@ stats:
 neighbours:
 - umiak
 - umiaq
+prev_word: umbre
+next_word: umiak
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/um/"
+  label: Starting with UM
+- url: "/ending-with/ac/"
+  label: Ending in AC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

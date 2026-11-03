@@ -48,4 +48,15 @@ definitions:
   - text: To create a remix.
   - text: To rearrange or radically alter (a particular piece of music).
   - text: To modify (a work in any medium).
+prev_word: remit
+next_word: remou
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

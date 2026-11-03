@@ -56,4 +56,15 @@ definitions:
     example: My blender flits because the power cord is damaged.
   - text: To move house (sometimes a sudden move to avoid debts).
   - text: To be unstable; to be easily or often moved.
+prev_word: flite
+next_word: flitt
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

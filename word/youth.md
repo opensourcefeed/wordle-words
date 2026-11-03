@@ -48,4 +48,15 @@ definitions:
       magazines and listening to music.
   - text: A young man; a male adolescent or young adult.
   - text: "(used with a plural or singular verb) Young persons, collectively."
+prev_word: youse
+next_word: yowed
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

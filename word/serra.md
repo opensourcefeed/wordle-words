@@ -36,4 +36,15 @@ anagrams:
 - rares
 - raser
 - rears
+prev_word: serow
+next_word: serre
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

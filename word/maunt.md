@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _AUNT
   count: 9
+prev_word: maund
+next_word: mauri
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: 'Krumping: an energetic style of hip-hop dance'
+prev_word: krubi
+next_word: krunk
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

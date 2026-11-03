@@ -52,4 +52,15 @@ definitions:
   - text: To give an impression of dishonesty or untruth.
     example: Something stinks about the politician's excuses.
   - text: To cause to stink; to affect by a stink.
+prev_word: stang
+next_word: stans
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

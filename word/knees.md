@@ -54,4 +54,15 @@ definitions:
       pension beg / To keep base life afoot. — William Shakespeare, King Lear II.ii'
   - text: To poke or strike with the knee.
   - text: To move on the knees; to use the knees to move.
+prev_word: kneel
+next_word: knell
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

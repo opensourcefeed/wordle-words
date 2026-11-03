@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A pair of tuned hand drums, used in various musical genres of the Indian
       subcontinent, that are similar to bongos.
+prev_word: tabis
+next_word: table
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

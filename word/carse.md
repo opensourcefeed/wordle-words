@@ -53,4 +53,15 @@ definitions:
 - pos: noun
   defs:
   - text: Low, fertile land; a river valley.
+prev_word: carry
+next_word: carta
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

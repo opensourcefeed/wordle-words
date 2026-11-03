@@ -32,4 +32,15 @@ definitions:
   - text: A nymph in the form of a beautiful virgin supposed to dwell in Paradise
       for the enjoyment of the faithful.
   - text: "(by extension) Any voluptuous, beautiful woman."
+prev_word: hound
+next_word: hours
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

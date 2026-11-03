@@ -26,4 +26,15 @@ anagrams:
 - tunic
 - cutin
 - incut
+prev_word: cunei
+next_word: cunny
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

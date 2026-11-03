@@ -46,4 +46,15 @@ definitions:
     example: The shop was filled with tinny tourist geegaws.
   - text: Pertaining to a thin, unpleasant sound recalling that of tin being rapped.
     example: The piano was not simply out of tune, but had become downright tinny.
+prev_word: tinks
+next_word: tinto
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

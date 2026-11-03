@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: Corn; a type of grain of the species Zea mays.
+prev_word: maist
+next_word: majas
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

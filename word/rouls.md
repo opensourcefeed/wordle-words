@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: ROU_S
   count: 7
+prev_word: roule
+next_word: roums
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

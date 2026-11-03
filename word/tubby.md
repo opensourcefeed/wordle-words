@@ -44,4 +44,15 @@ definitions:
   - text: Stout, rotund
   - text: Resembling a tub; sounding dull and without resonance or freedom of sound.
     example: a tubby violin
+prev_word: tubas
+next_word: tubed
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

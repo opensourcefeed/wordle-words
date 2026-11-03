@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To lower, roll up and secure (something, such as a sail or flag)
+prev_word: furca
+next_word: furol
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

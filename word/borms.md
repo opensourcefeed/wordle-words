@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ORMS
   count: 7
+prev_word: borks
+next_word: borna
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

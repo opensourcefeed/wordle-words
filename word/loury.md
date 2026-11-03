@@ -27,4 +27,15 @@ neighbours:
 - loure
 - lours
 - lowry
+prev_word: lours
+next_word: louse
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

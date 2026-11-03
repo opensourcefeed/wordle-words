@@ -55,4 +55,15 @@ definitions:
   - text: To say in a moan, or with a moaning voice.
     example: "‘Please don't leave me,’ he moaned."
   - text: To complain; to grumble.
+prev_word: moana
+next_word: moany
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

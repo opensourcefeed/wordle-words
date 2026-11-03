@@ -38,4 +38,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Characteristic of bop or bebop.
+prev_word: boozy
+next_word: borak
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -46,4 +46,15 @@ definitions:
   - text: To ferment.
   - text: To renew (wine etc.) by mixing must with it and raising a new fermentation.
   - text: To fume, as a cask of liquor, with burning sulphur.
+prev_word: stump
+next_word: stung
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

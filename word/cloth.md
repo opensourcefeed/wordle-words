@@ -42,4 +42,15 @@ definitions:
   - text: A form of attire that represents a particular profession or status.
   - text: "(in idioms) Priesthood, clergy."
     example: He is a respected man of the cloth.
+prev_word: clote
+next_word: clots
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

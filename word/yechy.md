@@ -22,4 +22,15 @@ stats:
 neighbours:
 - techy
 - yechs
+prev_word: yechs
+next_word: yedes
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

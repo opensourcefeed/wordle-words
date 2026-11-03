@@ -34,4 +34,15 @@ definitions:
   - text: "(of a quality or interest) Of, pertaining to, in the style of, or appealing
       to nerds."
     example: I got a pair of nerdy glasses and clothes for Halloween.
+prev_word: nurds
+next_word: nurls
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: An area of low, wet land, often with tall grass.
+prev_word: marse
+next_word: marts
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

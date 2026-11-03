@@ -37,4 +37,15 @@ definitions:
       allow others to pass.
   - text: A method of retail purchase in which the selected goods are set aside and
       the customer pays for them in instalments, receiving them when fully paid; layaway.
+prev_word: laxly
+next_word: layed
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

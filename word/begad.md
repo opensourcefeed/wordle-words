@@ -34,4 +34,15 @@ definitions:
 - pos: interjection
   defs:
   - text: An expression of surprise, shock etc.
+prev_word: befog
+next_word: began
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

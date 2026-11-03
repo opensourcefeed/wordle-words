@@ -48,4 +48,15 @@ anagrams:
 trap:
   pattern: _ARES
   count: 14
+prev_word: laree
+next_word: larfs
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

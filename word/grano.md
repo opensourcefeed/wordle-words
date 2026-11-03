@@ -34,4 +34,15 @@ anagrams:
 - nagor
 - orang
 - rogan
+prev_word: grand
+next_word: grans
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A move in which the leg and foot stretch to point in a particular direction,
       but the foot does not leave the floor
+prev_word: tends
+next_word: tenes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/du/"
+  label: Ending in DU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

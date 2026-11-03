@@ -27,4 +27,15 @@ neighbours:
 - kelts
 - kilty
 - melty
+prev_word: kelts
+next_word: kembo
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

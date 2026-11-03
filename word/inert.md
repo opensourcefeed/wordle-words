@@ -48,4 +48,15 @@ definitions:
   - text: Unable to move or act; inanimate.
   - text: In chemistry, not readily reacting with other elements or compounds.
   - text: Having no therapeutic action.
+prev_word: inerm
+next_word: infer
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

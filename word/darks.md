@@ -52,4 +52,15 @@ definitions:
   - text: To grow or become dark, darken.
   - text: To remain in the dark, lurk, lie hidden or concealed.
   - text: To make dark, darken; to obscure.
+prev_word: daris
+next_word: darls
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

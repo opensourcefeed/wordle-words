@@ -41,4 +41,15 @@ definitions:
   - text: Christmas
   - text: A kind of hymn, or canticle, of mediaeval origin, sung in honor of the birth
       of Christ; a Christmas carol.
+prev_word: nodus
+next_word: noema
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

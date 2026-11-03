@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A member of the South Asian diaspora.
+prev_word: deshi
+next_word: desks
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

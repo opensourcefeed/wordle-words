@@ -76,4 +76,15 @@ definitions:
   defs:
   - text: "(often followed by for) Well done!"
     example: Bully, she's finally asked for that promotion!
+prev_word: bulls
+next_word: bulse
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

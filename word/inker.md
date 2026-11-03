@@ -31,4 +31,15 @@ neighbours:
 - inver
 anagrams:
 - reink
+prev_word: inked
+next_word: inkle
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

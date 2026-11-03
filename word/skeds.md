@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A schedule.
+prev_word: skear
+next_word: skeed
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

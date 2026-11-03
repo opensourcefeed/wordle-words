@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: A film, TV program, publication etc. which presents a social, political,
       scientific or historical subject in a factual or informative manner.
+prev_word: docos
+next_word: doddy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

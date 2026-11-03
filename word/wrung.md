@@ -50,4 +50,15 @@ definitions:
       compliance.
   - text: To bend or strain out of its position.
     example: to wring a mast
+prev_word: wroth
+next_word: wryer
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

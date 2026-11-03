@@ -31,4 +31,15 @@ neighbours:
 - stott
 anagrams:
 - thots
+prev_word: shots
+next_word: shoud
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/tt/"
+  label: Ending in TT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

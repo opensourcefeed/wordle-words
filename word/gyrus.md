@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A ridge or fold on the cerebral cortex.
+prev_word: gyros
+next_word: gytes
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: QUIN_
   count: 6
+prev_word: quine
+next_word: quino
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

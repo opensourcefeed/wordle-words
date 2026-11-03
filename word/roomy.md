@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: Spacious, expansive, comfortable.
     example: Our new apartment is roomy enough to accommodate all our furniture.
+prev_word: rooms
+next_word: roons
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

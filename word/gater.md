@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _ATER
   count: 13
+prev_word: gated
+next_word: gates
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

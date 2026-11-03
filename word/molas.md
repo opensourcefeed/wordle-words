@@ -50,4 +50,15 @@ definitions:
       consisting of cloth panels to be worn on clothing, featuring complex designs
       made with multiple layers of cloth in a reverse appliqué technique.
   - text: A sunfish, Mola mola.
+prev_word: molar
+next_word: molds
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

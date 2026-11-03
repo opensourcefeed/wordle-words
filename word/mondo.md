@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A dialogue between master and student designed to obtain an intuitive truth.
+prev_word: monde
+next_word: moner
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -30,4 +30,15 @@ definitions:
   - text: Any sort of magical or irrational approach to a problem.
     example: I want a real explanation, not this statistical voodoo.
   - text: One who practices voodoo; a native sorcerer.
+prev_word: vodou
+next_word: voema
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

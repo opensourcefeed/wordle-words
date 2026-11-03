@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _UDES
   count: 6
+prev_word: ruder
+next_word: rudie
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

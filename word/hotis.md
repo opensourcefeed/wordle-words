@@ -29,4 +29,15 @@ neighbours:
 - rotis
 anagrams:
 - hoist
+prev_word: hoten
+next_word: hotly
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: MOTE_
   count: 6
+prev_word: motel
+next_word: motes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

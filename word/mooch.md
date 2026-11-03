@@ -47,4 +47,15 @@ definitions:
   - text: To beg, cadge, or sponge; to exploit or take advantage of others for personal
       gain.
   - text: To steal or filch.
+prev_word: moobs
+next_word: moods
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

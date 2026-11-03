@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: A monetary unit in Saudi Arabia equivalent to a twentieth of a rial.
+prev_word: quran
+next_word: quyte
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

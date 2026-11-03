@@ -44,4 +44,15 @@ definitions:
   - text: 'Awake: conscious and not asleep.'
   - text: Alert and aware of what is going on, especially in social justice contexts.
       Well-informed.
+prev_word: woken
+next_word: wokka
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

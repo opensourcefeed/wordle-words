@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: Containing the nitro group; such compounds tend to be unstable and often
       explosive
+prev_word: nitre
+next_word: nitry
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

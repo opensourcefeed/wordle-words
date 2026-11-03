@@ -22,4 +22,15 @@ stats:
 neighbours:
 - becks
 - pecke
+prev_word: becap
+next_word: becks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: A tiny amount; a little bit; tad; smidgen; jot.
     example: He added just a skosh of vinegar, to give the recipe some zip.
+prev_word: skort
+next_word: skran
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -40,4 +40,13 @@ definitions:
   - text: The flying feathery or hairy crown of seeds or achenes, such as the down
       of the thistle.
   - text: The crab-eating macaque (Macaca fascicularis)
+prev_word: egmas
+next_word: ehing
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

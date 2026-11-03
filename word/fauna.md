@@ -33,4 +33,15 @@ definitions:
       region, time.
     example: the fauna of China
   - text: A book, cataloguing the animals of a country.
+prev_word: fault
+next_word: fauns
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

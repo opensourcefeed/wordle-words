@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: HOO_S
   count: 7
+prev_word: hoord
+next_word: hoosh
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

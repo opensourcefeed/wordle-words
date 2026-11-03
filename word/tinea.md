@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A fungal infection of the skin, known generally as ringworm.
+prev_word: tinds
+next_word: tined
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: A small drum, of Arabic origin, and the forebear of the European kettledrum.
+prev_word: naked
+next_word: nakfa
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -39,4 +39,15 @@ neighbours:
 trap:
   pattern: _OGIE
   count: 6
+prev_word: logic
+next_word: login
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

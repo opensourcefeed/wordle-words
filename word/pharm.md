@@ -24,4 +24,15 @@ neighbours:
 - phare
 - phasm
 - tharm
+prev_word: phare
+next_word: phase
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/rm/"
+  label: Ending in RM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -25,4 +25,15 @@ neighbours:
 - meins
 - meint
 - veiny
+prev_word: meint
+next_word: meism
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -68,4 +68,15 @@ definitions:
   - text: The end of the peduncle or flower stalk to which the floral parts (or in
       the Asteraceae, the florets of a flower head) are attached; receptacle, thalamus.
   - text: A rounded ridge, especially one on the occipital bone.
+prev_word: torcs
+next_word: toric
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _IEVE
   count: 6
+prev_word: riems
+next_word: rifer
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

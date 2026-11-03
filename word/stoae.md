@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: STO_E
   count: 7
+prev_word: stivy
+next_word: stoai
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

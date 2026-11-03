@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A fava bean; a bean (seed or seed pod) of the plant Vicia faba or the plant
       itself.
+prev_word: fauve
+next_word: favel
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

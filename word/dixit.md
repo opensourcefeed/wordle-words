@@ -25,4 +25,15 @@ neighbours:
 - digit
 - dixie
 - fixit
+prev_word: dixie
+next_word: diyas
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

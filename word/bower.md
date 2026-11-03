@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To embower; to enclose.
   - text: To lodge.
+prev_word: bowel
+next_word: bowes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

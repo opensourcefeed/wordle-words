@@ -26,4 +26,15 @@ neighbours:
 - queyn
 - queyu
 - quoys
+prev_word: queyn
+next_word: queyu
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

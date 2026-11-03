@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - lathe
 - thale
+prev_word: etens
+next_word: ether
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/et/"
+  label: Starting with ET
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

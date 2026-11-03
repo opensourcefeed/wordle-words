@@ -53,4 +53,15 @@ definitions:
     example: The streets were flooded, but they still managed to slosh their way to
       school.
   - text: To punch (someone).
+prev_word: slorm
+next_word: sloth
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

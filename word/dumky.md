@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: A genre of instrumental folk music from Ukraine.
   - text: An individual composition in this genre.
+prev_word: dumka
+next_word: dummy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

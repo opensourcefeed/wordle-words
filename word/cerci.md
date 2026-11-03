@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: Structures on the end of on the end of the abdomen of most insects, sometimes
       long, hairlike sensory organs and sometimes smaller and rigid.
+prev_word: cepes
+next_word: cered
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ci/"
+  label: Ending in CI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

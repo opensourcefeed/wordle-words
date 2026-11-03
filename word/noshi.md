@@ -23,4 +23,15 @@ stats:
 neighbours:
 - nashi
 - roshi
+prev_word: nosey
+next_word: nosir
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

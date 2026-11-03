@@ -34,4 +34,13 @@ definitions:
   - text: One eighth of the total area of the celestial dome; used as a measure of
       cloudiness (one okta means that one eighth of the sky is obscured, two oktas
       that one quarter is obscured, and so on).
+prev_word: okrug
+next_word: olate
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

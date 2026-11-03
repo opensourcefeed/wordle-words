@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 94
 neighbours:
 - wahey
+prev_word: wagyu
+next_word: wahey
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

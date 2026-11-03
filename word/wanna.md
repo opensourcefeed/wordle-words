@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _ANNA
   count: 6
+prev_word: wanly
+next_word: wanta
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

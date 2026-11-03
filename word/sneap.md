@@ -31,4 +31,15 @@ anagrams:
 - peans
 - spane
 - spean
+prev_word: sneak
+next_word: snebs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ap/"
+  label: Ending in AP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

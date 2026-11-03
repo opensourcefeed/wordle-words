@@ -57,4 +57,15 @@ definitions:
   - text: To lay out in an orderly arrangement; to deploy or marshal.
   - text: To set in order, as a jury, for the trial of a cause; that is, to call them
       one at a time.
+prev_word: arras
+next_word: arret
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

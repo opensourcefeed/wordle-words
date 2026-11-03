@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 92
 neighbours:
 - silos
+prev_word: sigri
+next_word: sikas
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

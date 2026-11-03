@@ -23,4 +23,15 @@ neighbours:
 - qursh
 anagrams:
 - shrug
+prev_word: gurry
+next_word: gurus
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

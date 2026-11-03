@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 57
+prev_word: rythe
+next_word: saags
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ry/"
+  label: Starting with RY
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(often of guitars) To cause (an object) to appear old or worn, to distress."
+prev_word: relet
+next_word: relie
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

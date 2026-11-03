@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: A_ING
   count: 7
+prev_word: ahind
+next_word: ahint
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ah/"
+  label: Starting with AH
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

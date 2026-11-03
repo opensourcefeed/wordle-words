@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: A device used to control sound volume.
   - text: A program or algorithm for fading out colors.
+prev_word: faded
+next_word: fades
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -32,4 +32,15 @@ anagrams:
 - liens
 - lines
 - silen
+prev_word: nelia
+next_word: nelly
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

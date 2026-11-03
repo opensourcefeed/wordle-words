@@ -28,4 +28,15 @@ neighbours:
 - blats
 - glatt
 - platt
+prev_word: blats
+next_word: blaud
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/tt/"
+  label: Ending in TT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

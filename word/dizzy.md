@@ -44,4 +44,15 @@ definitions:
     example: We climbed to a dizzy height.
   - text: Empty-headed, scatterbrained or frivolous; ditzy.
     example: My new secretary is a dizzy blonde.
+prev_word: dizen
+next_word: djinn
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

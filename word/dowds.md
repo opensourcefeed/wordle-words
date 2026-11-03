@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A dowdy person, especially a woman; a frump.
+prev_word: dowar
+next_word: dowdy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

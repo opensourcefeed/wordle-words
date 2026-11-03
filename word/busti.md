@@ -28,4 +28,15 @@ neighbours:
 - kusti
 anagrams:
 - buist
+prev_word: bussu
+next_word: busts
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

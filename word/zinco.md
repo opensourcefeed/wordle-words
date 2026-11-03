@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A line or half-tone block etched on zinc plate, used in zincography.
+prev_word: zimbs
+next_word: zincs
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

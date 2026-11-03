@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _AUCH
   count: 6
+prev_word: lauan
+next_word: laude
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

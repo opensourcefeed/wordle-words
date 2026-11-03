@@ -48,4 +48,15 @@ definitions:
   - text: To set in; infix or implant.
   - text: To insert something.
   - text: To add an inset to something.
+prev_word: insee
+next_word: inspo
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

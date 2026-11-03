@@ -45,4 +45,15 @@ definitions:
   - text: To take great pleasure or satisfaction; to feel warmth or happiness. (This
       verb is usually followed by "in").
     example: I basked in her love.
+prev_word: basis
+next_word: bason
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

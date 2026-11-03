@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To apply a dressing of gauze
   - text: To mist; to become gauze-like.
+prev_word: gauss
+next_word: gauzy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

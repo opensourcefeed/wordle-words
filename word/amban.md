@@ -24,4 +24,15 @@ neighbours:
 anagrams:
 - maban
 - nabam
+prev_word: amaze
+next_word: amber
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

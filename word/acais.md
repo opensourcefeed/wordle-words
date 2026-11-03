@@ -22,4 +22,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 59
+prev_word: abyss
+next_word: acara
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

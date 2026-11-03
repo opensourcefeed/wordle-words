@@ -23,4 +23,15 @@ stats:
 neighbours:
 - hilum
 - pilum
+prev_word: filth
+next_word: final
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

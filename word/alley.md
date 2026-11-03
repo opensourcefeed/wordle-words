@@ -52,4 +52,15 @@ definitions:
   - text: "(perspective drawing) Any passage having the entrance represented as wider
       than the exit, so as to give the appearance of length."
   - text: The space between two rows of compositors' stands in a printing office.
+prev_word: aller
+next_word: allin
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

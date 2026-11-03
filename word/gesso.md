@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A mixture of plaster of Paris and glue used to prepare a surface for painting.
   - text: A work of art done in gesso.
+prev_word: gesse
+next_word: geste
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

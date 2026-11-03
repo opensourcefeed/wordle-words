@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - flame
 - fleam
+prev_word: felty
+next_word: femes
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

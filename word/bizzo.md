@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: Business; a matter or matters of personal concern; a course of action.
   - text: An item whose name has been forgotten; a thingumajig.
+prev_word: bizes
+next_word: bizzy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/zo/"
+  label: Ending in ZO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

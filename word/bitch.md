@@ -71,4 +71,13 @@ definitions:
       order to have the problem corrected.
     example: All you ever do is bitch about the food I cook for you!
   - text: To spoil, to ruin.
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -26,4 +26,15 @@ neighbours:
 - balsa
 - beisa
 - paisa
+prev_word: bairn
+next_word: baith
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

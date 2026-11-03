@@ -45,4 +45,15 @@ anagrams:
 trap:
   pattern: REA_S
   count: 8
+prev_word: reais
+next_word: realm
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

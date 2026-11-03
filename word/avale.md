@@ -22,4 +22,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 49
+prev_word: avail
+next_word: avant
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/av/"
+  label: Starting with AV
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -53,4 +53,15 @@ definitions:
       indefinite constructions.)
     example: Have some chicken soup. It's good for what ails you.
   - text: To be ill; to suffer; to be troubled.
+prev_word: aight
+next_word: aimag
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

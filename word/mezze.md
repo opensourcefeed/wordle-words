@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: Small portions of starters typical of Turkish and Greek cuisine (equivalent
       to Spanish tapas or Hawaiian pu pu) often served as a light meal with pita.
+prev_word: mezza
+next_word: mezzo
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

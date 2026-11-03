@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A chaise.
+prev_word: shaya
+next_word: shchi
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

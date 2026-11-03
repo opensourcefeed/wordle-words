@@ -28,4 +28,15 @@ neighbours:
 - spaws
 anagrams:
 - pawls
+prev_word: spaul
+next_word: spawn
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/wl/"
+  label: Ending in WL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

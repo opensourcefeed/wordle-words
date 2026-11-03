@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 90
 neighbours:
 - mapou
+prev_word: manzo
+next_word: mapes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/au/"
+  label: Ending in AU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

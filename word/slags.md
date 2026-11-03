@@ -61,4 +61,15 @@ definitions:
   - text: To reduce to slag
   - text: (sometimes with "off") to talk badly about; to malign or denigrate (someone)
   - text: To spit
+prev_word: slaes
+next_word: slaid
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

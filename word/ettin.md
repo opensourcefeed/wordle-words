@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 38
 neighbours:
 - eatin
+prev_word: etrog
+next_word: ettle
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/et/"
+  label: Starting with ET
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

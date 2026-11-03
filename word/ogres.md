@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: A type of brutish giant from folk tales that eats human flesh.
   - text: A brutish man reminiscent of the mythical ogre.
+prev_word: ogmic
+next_word: ohelo
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/og/"
+  label: Starting with OG
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

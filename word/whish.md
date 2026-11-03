@@ -26,4 +26,15 @@ neighbours:
 - shish
 - whiss
 - whist
+prev_word: whirs
+next_word: whisk
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

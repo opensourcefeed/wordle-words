@@ -58,4 +58,15 @@ definitions:
     example: I punched him with brute force.
   - text: Brutal; cruel; fierce; ferocious; savage; pitiless.
     example: brute violence
+prev_word: brust
+next_word: bruts
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

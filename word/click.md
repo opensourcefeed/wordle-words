@@ -81,4 +81,15 @@ definitions:
   defs:
   - text: The sound of a click.
     example: Click! The door opened.
+prev_word: clews
+next_word: clied
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

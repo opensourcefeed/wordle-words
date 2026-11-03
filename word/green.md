@@ -66,4 +66,15 @@ definitions:
   - text: Having a color charge of green.
   - text: Being or relating to the green currencies of the European Union.
     example: the green pound; the green lira
+prev_word: greek
+next_word: grees
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

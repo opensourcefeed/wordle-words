@@ -24,4 +24,15 @@ stats:
 neighbours:
 - mahua
 - mohur
+prev_word: mohrs
+next_word: mohur
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ua/"
+  label: Ending in UA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

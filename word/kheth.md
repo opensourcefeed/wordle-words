@@ -23,4 +23,15 @@ stats:
 neighbours:
 - cheth
 - khets
+prev_word: kheer
+next_word: khets
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

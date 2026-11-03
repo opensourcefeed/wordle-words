@@ -41,4 +41,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Well skilled; completely versed; thoroughly proficient
+prev_word: adeem
+next_word: adhan
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

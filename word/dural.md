@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _URAL
   count: 7
+prev_word: duppy
+next_word: duras
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

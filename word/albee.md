@@ -26,4 +26,15 @@ neighbours:
 - allee
 anagrams:
 - abele
+prev_word: albas
+next_word: albid
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

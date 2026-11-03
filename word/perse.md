@@ -53,4 +53,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Dark greyish blue or purple.
+prev_word: perry
+next_word: persp
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

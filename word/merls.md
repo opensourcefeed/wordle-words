@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of mottled colouration on dogs.
+prev_word: merle
+next_word: merry
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -24,4 +24,15 @@ neighbours:
 - copal
 - coppy
 - copsy
+prev_word: copal
+next_word: coped
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

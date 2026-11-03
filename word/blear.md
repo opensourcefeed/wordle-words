@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: "(of eyes or vision) Dim, unclear from water or rheum."
   - text: Causing or caused by dimness of sight.
+prev_word: bleak
+next_word: bleat
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -39,4 +39,15 @@ anagrams:
 - statu
 - sutta
 - tauts
+prev_word: tatty
+next_word: taube
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

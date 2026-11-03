@@ -43,4 +43,15 @@ definitions:
   - text: To measure.
   - text: "(usually with “out”) To dispense, measure (out), allot (especially punishment,
       reward etc.)."
+prev_word: metas
+next_word: meteg
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

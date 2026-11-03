@@ -29,4 +29,15 @@ anagrams:
 - barye
 - bayer
 - yerba
+prev_word: bepat
+next_word: beres
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -31,4 +31,15 @@ neighbours:
 - mavin
 - mavis
 - pavie
+prev_word: maven
+next_word: mavin
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: A single step in a staircase.
   - text: A series of steps; a staircase.
+prev_word: stain
+next_word: stake
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

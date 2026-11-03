@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: Intelligence (secret information)
     example: Intel is important in espionage.
+prev_word: inspo
+next_word: inter
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

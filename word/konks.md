@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ONKS
   count: 11
+prev_word: kondo
+next_word: kooks
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

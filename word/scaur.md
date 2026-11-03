@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A steep cliff or bank.
+prev_word: scaup
+next_word: scaws
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

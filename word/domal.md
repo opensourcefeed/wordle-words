@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Of or relating to a dome.
   - text: In the shape of a dome.
+prev_word: dolts
+next_word: domed
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

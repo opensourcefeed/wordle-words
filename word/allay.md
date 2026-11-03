@@ -42,4 +42,15 @@ definitions:
   - text: To subside, abate, become peaceful.
   - text: To mix (metals); to mix with a baser metal; to alloy; to deteriorate.
   - text: "(by extension) To make worse by the introduction of inferior elements."
+prev_word: allan
+next_word: allee
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

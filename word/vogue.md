@@ -55,4 +55,15 @@ definitions:
   - text: To dance in the vogue dance style.
   - text: To light a cigarette.
     example: Vogue me up.
+prev_word: vogie
+next_word: voice
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

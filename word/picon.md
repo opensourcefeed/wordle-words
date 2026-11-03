@@ -25,4 +25,15 @@ neighbours:
 - pilon
 - pinon
 - piton
+prev_word: picky
+next_word: picot
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

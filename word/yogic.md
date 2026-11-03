@@ -25,4 +25,15 @@ neighbours:
 - yogin
 - yogis
 - yonic
+prev_word: yoghs
+next_word: yogin
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

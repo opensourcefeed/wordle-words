@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 52
 anagrams:
 - korun
+prev_word: ronts
+next_word: roods
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

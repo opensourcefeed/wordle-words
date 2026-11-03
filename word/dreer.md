@@ -33,4 +33,15 @@ anagrams:
 - drere
 - erred
 - reerd
+prev_word: dreed
+next_word: drees
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

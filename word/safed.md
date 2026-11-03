@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: SA_ED
   count: 8
+prev_word: saeta
+next_word: safer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

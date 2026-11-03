@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: PEL_S
   count: 6
+prev_word: pelts
+next_word: penal
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -22,4 +22,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 50
+prev_word: ogres
+next_word: ohias
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

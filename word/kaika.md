@@ -28,4 +28,15 @@ neighbours:
 - laika
 anagrams:
 - kaiak
+prev_word: kaifs
+next_word: kaiks
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

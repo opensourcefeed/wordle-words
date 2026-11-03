@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: Abbreviation of notice to airmen (to inform pilots of hazards).
+prev_word: notal
+next_word: notch
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

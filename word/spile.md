@@ -57,4 +57,15 @@ definitions:
   - text: To plug (a hole) with a spile.
   - text: To draw off (a liquid) using a spile.
   - text: To provide (a barrel, tree etc.) with a spile.
+prev_word: spiky
+next_word: spill
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

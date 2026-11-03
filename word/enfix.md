@@ -24,4 +24,15 @@ stats:
 neighbours:
 - infix
 - unfix
+prev_word: enews
+next_word: eniac
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

@@ -108,4 +108,15 @@ definitions:
   defs:
   - text: "(piles of) A large amount of."
     example: He must earn piles of money.
+prev_word: piler
+next_word: piley
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

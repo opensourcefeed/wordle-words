@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A schooner.
+prev_word: gules
+next_word: gulfs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

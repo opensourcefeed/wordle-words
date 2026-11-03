@@ -53,4 +53,15 @@ definitions:
   - text: To hit something with the front of the board, especially in midair.
   - text: To experience sudden and severe fatigue in an endurance sports event due
       to glycogen depletion.
+prev_word: bonie
+next_word: bonne
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

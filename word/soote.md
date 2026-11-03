@@ -30,4 +30,15 @@ neighbours:
 - shote
 - soole
 - soots
+prev_word: soops
+next_word: sooth
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

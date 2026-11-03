@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: A hypothetical object extending across a number of (often specified) spatial
       dimensions, with strings in string theory seen as one-dimensional examples.
+prev_word: brand
+next_word: brank
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

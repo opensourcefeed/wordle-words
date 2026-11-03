@@ -96,4 +96,15 @@ definitions:
   - text: Diarrhoea/diarrhea.
     example: I've had the trots all morning and haven't been able to go out.
   - text: (with "the") A trotting race meet; harness racing.
+prev_word: troth
+next_word: trout
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

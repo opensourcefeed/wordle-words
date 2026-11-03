@@ -24,4 +24,15 @@ stats:
 neighbours:
 - ganja
 - zanza
+prev_word: zamis
+next_word: zante
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/ja/"
+  label: Ending in JA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Something that should not work, but does.
   - text: A device assembled from components intended for disparate purposes.
+prev_word: kloof
+next_word: klutz
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kl/"
+  label: Starting with KL
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

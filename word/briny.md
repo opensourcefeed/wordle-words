@@ -37,4 +37,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of, pertaining to, resembling or containing brine; salty.
+prev_word: brins
+next_word: brios
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

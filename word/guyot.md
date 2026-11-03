@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A flat-topped seamount.
+prev_word: guyle
+next_word: guyse
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

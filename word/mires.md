@@ -60,4 +60,15 @@ definitions:
 - pos: noun
   defs:
   - text: An ant.
+prev_word: mired
+next_word: mirex
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

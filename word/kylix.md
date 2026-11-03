@@ -32,4 +32,15 @@ definitions:
   - text: An Ancient Greek drinking cup with a stem, two handles, and a broad, shallow
       body
     example: The dig team unearthed a kylix at the site in Bergama.
+prev_word: kylin
+next_word: kyloe
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

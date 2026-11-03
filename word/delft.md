@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A style of blue and white earthenware.
+prev_word: delfs
+next_word: delis
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

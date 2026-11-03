@@ -19,4 +19,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 95
+prev_word: khans
+next_word: khats
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/ph/"
+  label: Ending in PH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -47,4 +47,15 @@ definitions:
       per second.
   - text: Bps (bits per second), regardless of how many bits are represented by each
       symbol.
+prev_word: batty
+next_word: bauks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -32,4 +32,15 @@ anagrams:
 - bleat
 - table
 - blate
+prev_word: ables
+next_word: ablow
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

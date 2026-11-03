@@ -28,4 +28,15 @@ neighbours:
 - tyned
 - typed
 - tyres
+prev_word: tyran
+next_word: tyres
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

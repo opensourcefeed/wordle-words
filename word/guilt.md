@@ -34,4 +34,15 @@ definitions:
   - text: Responsibility for wrongdoing.
   - text: The state of having been found guilty or admitted guilt in legal proceedings.
   - text: The regret of having done wrong.
+prev_word: guile
+next_word: guimp
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

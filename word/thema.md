@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - mathe
 - meath
+prev_word: thelf
+next_word: theme
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

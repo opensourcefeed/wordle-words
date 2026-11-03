@@ -25,4 +25,15 @@ neighbours:
 - nimbi
 - zimbs
 - zombi
+prev_word: zills
+next_word: zimbs
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/bi/"
+  label: Ending in BI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

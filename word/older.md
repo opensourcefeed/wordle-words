@@ -57,4 +57,15 @@ definitions:
     example: We're having a good old time. My next car will be a big old SUV.  My
       wife makes the best little old apple pie in Texas.
   - text: Excessive, abundant.
+prev_word: olden
+next_word: oldie
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

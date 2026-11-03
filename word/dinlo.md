@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(Southern England, especially Portsmouth) A stupid person."
+prev_word: dinky
+next_word: dinna
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

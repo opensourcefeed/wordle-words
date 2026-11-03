@@ -29,4 +29,15 @@ neighbours:
 - miyas
 anagrams:
 - mahis
+prev_word: migod
+next_word: mihis
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

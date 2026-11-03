@@ -50,4 +50,15 @@ definitions:
   - text: To avoid, go around, or dodge an object, person, or conversation topic;
       often by using trickery.
   - text: To execute a deke in ice hockey or other sports.
+prev_word: deked
+next_word: dekko
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

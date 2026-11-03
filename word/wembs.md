@@ -22,4 +22,15 @@ stats:
 neighbours:
 - kembs
 - wombs
+prev_word: welts
+next_word: wench
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

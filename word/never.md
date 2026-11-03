@@ -50,4 +50,15 @@ definitions:
   - text: Negative particle (used to negate verbs in the simple past tense; also used
       absolutely).
     example: I never saw him today.
+prev_word: nevel
+next_word: neves
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

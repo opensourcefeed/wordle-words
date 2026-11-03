@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of the genus Murex of marine gastropods.
+prev_word: mures
+next_word: murgh
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

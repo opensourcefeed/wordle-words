@@ -151,4 +151,15 @@ definitions:
     example: He was very taken with the girl, I hear.
   - text: In a serious romantic relationship.
     example: I can't ask her out, she's taken.
+prev_word: takas
+next_word: taker
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

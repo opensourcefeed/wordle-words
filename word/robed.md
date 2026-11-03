@@ -51,4 +51,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Wearing a robe.
+prev_word: robbo
+next_word: rober
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

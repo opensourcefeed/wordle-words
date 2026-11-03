@@ -27,4 +27,15 @@ anagrams:
 - bagel
 - gable
 - gleba
+prev_word: belee
+next_word: belie
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -49,4 +49,15 @@ definitions:
     example: The jet whined into the air.
   - text: To utter with the sound of a whine.
     example: Kelly Queen was whining that the boss made him put on his tie.
+prev_word: whims
+next_word: whins
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

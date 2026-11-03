@@ -40,4 +40,15 @@ definitions:
   - text: Any of several units of weight, varying from 189 to 212 mg, the weight of
       a carob seed.
   - text: A measure of the purity of gold, pure gold being 24 carats.
+prev_word: carap
+next_word: carbo
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

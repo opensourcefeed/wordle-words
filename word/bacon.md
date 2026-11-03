@@ -43,4 +43,15 @@ definitions:
     example: Run! It's the bacon!
   - text: Road rash.
   - text: A saucisse.
+prev_word: bacne
+next_word: badam
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ORES
   count: 13
+prev_word: yoppo
+next_word: yorga
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

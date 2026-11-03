@@ -100,4 +100,15 @@ definitions:
       all available toppings on food.
     example: I'll have a Behemoth Burger with the works.
   - text: (with "the") Drastic treatment; abuse; the axe (dismissal).
+prev_word: wordy
+next_word: worky
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

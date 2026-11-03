@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: An abrupt call, such as that made by the California quail.
+prev_word: twire
+next_word: twirl
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/rk/"
+  label: Ending in RK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

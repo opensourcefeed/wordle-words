@@ -41,4 +41,15 @@ definitions:
   - text: An enclosure just big enough to accommodate one standing person.
   - text: An enclosed table with seats, as in a diner or café.
   - text: An enclosure for keeping animals.
+prev_word: boost
+next_word: boots
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

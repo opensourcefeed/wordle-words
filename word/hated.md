@@ -52,4 +52,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Disliked; odious; reviled.
+prev_word: hatch
+next_word: hater
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: CLA_S
   count: 10
+prev_word: clads
+next_word: clags
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

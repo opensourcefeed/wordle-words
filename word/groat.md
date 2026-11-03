@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(chiefly in the plural) Hulled grain."
+prev_word: groan
+next_word: grody
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - lorel
 - rello
+prev_word: ollav
+next_word: ollie
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

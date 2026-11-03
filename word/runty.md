@@ -28,4 +28,15 @@ neighbours:
 - runny
 - runts
 - rutty
+prev_word: runts
+next_word: runup
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

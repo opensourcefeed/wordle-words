@@ -60,4 +60,15 @@ definitions:
   - text: Participation in Holy Communion.
   - text: A trope by which a speaker assumes that his hearer is a partner in his sentiments,
       and says "we" instead of "I" or "you".
+prev_word: commo
+next_word: commy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

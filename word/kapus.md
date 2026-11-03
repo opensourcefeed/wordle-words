@@ -31,4 +31,15 @@ neighbours:
 - tapus
 anagrams:
 - pukas
+prev_word: kapur
+next_word: kaput
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

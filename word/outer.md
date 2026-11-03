@@ -61,4 +61,15 @@ definitions:
   defs:
   - text: Outside; external.
   - text: Farther from the centre of the inside.
+prev_word: outen
+next_word: outgo
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

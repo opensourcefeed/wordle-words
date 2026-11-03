@@ -29,4 +29,15 @@ neighbours:
 - alans
 - alant
 - eland
+prev_word: alamo
+next_word: alane
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -25,4 +25,15 @@ stats:
 neighbours:
 - jaunt
 - jeune
+prev_word: jauks
+next_word: jaunt
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

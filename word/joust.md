@@ -42,4 +42,15 @@ definitions:
   - text: To engage in verbal sparring over an important issue. (used of two people,
       both of whom participate more or less equally)
   - text: To touch penises while engaging in a sex act, especially oral sex.
+prev_word: jours
+next_word: jowar
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

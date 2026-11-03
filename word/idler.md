@@ -40,4 +40,15 @@ definitions:
   - text: Any member of a ship's crew who is not required to keep the night-watch
   - text: A mechanical device such as a pulley or wheel that does not transmit power,
       but supports a moving belt etc.
+prev_word: idled
+next_word: idles
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/id/"
+  label: Starting with ID
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

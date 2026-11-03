@@ -46,4 +46,15 @@ anagrams:
 trap:
   pattern: _AINS
   count: 12
+prev_word: tails
+next_word: taint
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

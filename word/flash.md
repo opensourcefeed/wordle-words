@@ -110,4 +110,15 @@ definitions:
   - text: Occurring very rapidly, almost instantaneously.
   - text: Relating to thieves and vagabonds.
     example: 'flash notes: counterfeit banknotes'
+prev_word: flary
+next_word: flask
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

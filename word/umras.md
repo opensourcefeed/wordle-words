@@ -31,4 +31,15 @@ anagrams:
 - musar
 - ramus
 - rusma
+prev_word: umrah
+next_word: unagi
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/um/"
+  label: Starting with UM
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -62,4 +62,15 @@ definitions:
   - text: Really good.
   - text: Funny or entertaining.
     example: Man, that video is bare jokes!
+prev_word: joker
+next_word: jokey
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

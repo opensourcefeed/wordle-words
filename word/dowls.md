@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _OWLS
   count: 10
+prev_word: dowle
+next_word: dowly
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

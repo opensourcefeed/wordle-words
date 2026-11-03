@@ -48,4 +48,15 @@ definitions:
   - text: Target sighted.
     example: "(Air Traffic Control): Speedbird 123, New York, traffic at two o’clock,
       seven miles, a Boeing 737, west-bound, at 4000 feet.”"
+prev_word: talls
+next_word: talma
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

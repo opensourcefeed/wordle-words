@@ -36,4 +36,15 @@ neighbours:
 anagrams:
 - snyes
 - syens
+prev_word: syned
+next_word: synod
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - hosts
 - shots
+prev_word: sorus
+next_word: sotol
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

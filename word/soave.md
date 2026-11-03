@@ -33,4 +33,15 @@ neighbours:
 - soare
 anagrams:
 - oaves
+prev_word: soars
+next_word: sobas
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

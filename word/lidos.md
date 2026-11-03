@@ -46,4 +46,15 @@ definitions:
   - text: Part of the sea by a beach sectioned off for swimming and other aquatic
       activities.
   - text: An outdoor swimming pool.
+prev_word: lidar
+next_word: liefs
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

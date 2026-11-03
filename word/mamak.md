@@ -33,4 +33,15 @@ definitions:
       restaurant that sells similar foods.
   - text: A person who owns or works in such an establishment
   - text: A Tamil Muslim
+prev_word: malwa
+next_word: mamas
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -55,4 +55,15 @@ definitions:
 - pos: noun
   defs:
   - text: A frit fly.
+prev_word: frith
+next_word: fritt
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

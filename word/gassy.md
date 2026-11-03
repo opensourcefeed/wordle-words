@@ -36,4 +36,15 @@ definitions:
   - text: 'Of food or drink: tending to cause flatulence.'
     example: Beans are a gassy food.
   - text: Tending to be long-winded or wordy, especially in a boastful and vain manner.
+prev_word: gaspy
+next_word: gasts
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

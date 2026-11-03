@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: A type of coarse cotton fabric covered in many small raised loops that is
       used to make towels, bathrobes and some types of nappy/diaper.
+prev_word: terre
+next_word: terse
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -111,4 +111,15 @@ definitions:
   - text: The area where two tides meet and cause an irregular (choppy) sea.
   - text: A pattern that involves carrying the object with the hand over the next
       object before throwing it.
+prev_word: choon
+next_word: chord
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

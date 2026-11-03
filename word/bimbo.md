@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: A physically attractive woman who lacks intelligence.
   - text: A stupid or foolish person.
+prev_word: bimas
+next_word: binal
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

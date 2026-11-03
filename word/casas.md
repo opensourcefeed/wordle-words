@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: House
     example: Get out of my casa!
+prev_word: carvy
+next_word: casco
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

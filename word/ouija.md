@@ -24,4 +24,15 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 53
+prev_word: ought
+next_word: oulks
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/ja/"
+  label: Ending in JA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

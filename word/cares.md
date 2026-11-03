@@ -74,4 +74,15 @@ definitions:
   - text: "(with for) To look after or look out for."
     example: He cared for his mother while she was sick.
   - text: To mind; to object.
+prev_word: carer
+next_word: caret
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

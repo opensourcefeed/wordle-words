@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _EZES
   count: 7
+prev_word: bezel
+next_word: bezil
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

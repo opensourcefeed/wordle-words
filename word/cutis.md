@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: The true skin or dermis, underlying the epidermis.
+prev_word: cutin
+next_word: cutto
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

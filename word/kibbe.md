@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 84
 neighbours:
 - kibbi
+prev_word: kiasu
+next_word: kibbi
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -74,4 +74,15 @@ definitions:
 - pos: noun
   defs:
   - text: A small heifer.
+prev_word: ruchy
+next_word: rudas
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

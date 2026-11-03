@@ -60,4 +60,15 @@ definitions:
   - text: The end of the peduncle or flower stalk to which the floral parts (or in
       the Asteraceae, the florets of a flower head) are attached; receptacle, thalamus.
   - text: A rounded ridge, especially one on the occipital bone.
+prev_word: torts
+next_word: tosas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

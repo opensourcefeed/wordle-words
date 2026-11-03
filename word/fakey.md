@@ -27,4 +27,15 @@ neighbours:
 - faker
 - fakes
 - jakey
+prev_word: fakes
+next_word: fakie
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

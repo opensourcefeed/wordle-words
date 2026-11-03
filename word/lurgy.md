@@ -34,4 +34,15 @@ definitions:
       lurgi", sometimes as a reference to flu-like symptoms
   - text: Any uncategorised disease with symptoms similar to a cold or flu that renders
       one unable to work.
+prev_word: lurgi
+next_word: lurid
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

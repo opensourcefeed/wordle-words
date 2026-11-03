@@ -28,4 +28,15 @@ neighbours:
 - smuts
 - sours
 - spurs
+prev_word: smugs
+next_word: smush
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

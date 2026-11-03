@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _UBBY
   count: 10
+prev_word: ptype
+next_word: pubco
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

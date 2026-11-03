@@ -49,4 +49,15 @@ definitions:
   - text: To talk inconsiderately.
   - text: To produce an overrich or overblown sound on a brass instrument such as
       a trumpet, trombone, or tuba.
+prev_word: blate
+next_word: blatt
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

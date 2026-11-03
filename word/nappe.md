@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: To coat (a food) with liquid.
     example: to nappe a leg of lamb with glaze
+prev_word: nappa
+next_word: nappy
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

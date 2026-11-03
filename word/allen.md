@@ -30,4 +30,15 @@ neighbours:
 - allel
 - aller
 - allin
+prev_word: allel
+next_word: aller
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

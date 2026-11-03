@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: S_EDS
   count: 7
+prev_word: stede
+next_word: steed
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

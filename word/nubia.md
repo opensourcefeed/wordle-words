@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 45
 anagrams:
 - bunia
+prev_word: nubby
+next_word: nucha
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -31,4 +31,15 @@ anagrams:
 - angel
 - angle
 - glean
+prev_word: genae
+next_word: genas
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

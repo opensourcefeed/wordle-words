@@ -56,4 +56,15 @@ definitions:
     example: Filling in the voting form, I hovered between Labour and Liberal Democrat.
   - text: To place the cursor over a hyperlink or icon without clicking.
     example: A tooltip appears when you hover over this link.
+prev_word: hoven
+next_word: hoves
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

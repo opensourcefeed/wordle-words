@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A woman, now especially an impudent or disreputable woman; a prostitute.
   - text: A young woman, a girl; a daughter.
+prev_word: qubit
+next_word: queck
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A bottom-feeding freshwater fish in the superfamily or suborder Cobitoidea.
+prev_word: llano
+next_word: loads
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

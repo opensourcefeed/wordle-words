@@ -111,4 +111,15 @@ definitions:
 - pos: noun
   defs:
   - text: The trapezius muscle.
+prev_word: trapo
+next_word: trapt
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OLLY
   count: 12
+prev_word: tolls
+next_word: tolts
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

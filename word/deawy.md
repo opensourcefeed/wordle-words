@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - wayed
 - yawed
+prev_word: deaws
+next_word: debag
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/wy/"
+  label: Ending in WY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -33,4 +33,15 @@ definitions:
   - text: A soprano and melody wind instrument in the modern orchestra and wind ensemble.
       It is a smaller instrument and generally made of grenadilla wood. It is a member
       of the double reed family.
+prev_word: objet
+next_word: obole
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ob/"
+  label: Starting with OB
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

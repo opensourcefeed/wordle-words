@@ -26,4 +26,15 @@ neighbours:
 - leggy
 - leggo
 - ligge
+prev_word: leges
+next_word: leggo
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

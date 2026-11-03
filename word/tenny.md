@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A rarely-used tincture of orange or bright brown.
+prev_word: tenno
+next_word: tenon
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

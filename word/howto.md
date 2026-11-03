@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A brief informal description of how to accomplish a specific task.
+prev_word: howso
+next_word: hoxed
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

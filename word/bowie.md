@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Bowie knife
+prev_word: bowet
+next_word: bowls
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -44,4 +44,15 @@ definitions:
     example: The coffee was bland.
   - text: Lacking interest; boring; dull.
   - text: Mild; soft, gentle, balmy; smooth in manner; suave.
+prev_word: blanc
+next_word: blank
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

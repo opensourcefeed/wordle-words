@@ -23,4 +23,15 @@ neighbours:
 - pasar
 anagrams:
 - agasp
+prev_word: parvo
+next_word: pasar
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ag/"
+  label: Ending in AG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

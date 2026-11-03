@@ -33,4 +33,15 @@ anagrams:
 - entia
 - tenia
 - tinea
+prev_word: eathe
+next_word: eaved
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

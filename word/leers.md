@@ -69,4 +69,15 @@ definitions:
 - pos: noun
   defs:
   - text: A long oven or kiln, often having a moving belt, used for annealing glass.
+prev_word: leeps
+next_word: leery
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

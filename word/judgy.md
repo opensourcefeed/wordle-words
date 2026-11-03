@@ -28,4 +28,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Inclined to make judgments; judgmental.
+prev_word: judge
+next_word: judos
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

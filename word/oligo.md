@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: An oligonucleotide.
+prev_word: oleyl
+next_word: olios
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

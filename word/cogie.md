@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _OGIE
   count: 6
+prev_word: coffs
+next_word: cogon
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

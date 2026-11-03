@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: A currency unit of Uzbekistan, one hundredth of a som.
   - text: A former currency unit of Kazakhstan, one hundredth of a tenge.
+prev_word: titup
+next_word: tiyns
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

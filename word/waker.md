@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _AKER
   count: 12
+prev_word: waken
+next_word: wakes
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

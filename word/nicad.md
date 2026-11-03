@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: Rechargeable nickel-cadmium battery
+prev_word: nibby
+next_word: niced
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

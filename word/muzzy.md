@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: Hazy, indistinct, blurred, unfocussed.
   - text: Dazed; bewildered; tipsy.
+prev_word: muzak
+next_word: mvula
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

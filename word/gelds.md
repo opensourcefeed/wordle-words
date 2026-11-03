@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: To castrate a male (usually an animal).
   - text: To deprive of anything essential; to weaken.
+prev_word: geits
+next_word: gelee
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

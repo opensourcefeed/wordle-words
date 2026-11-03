@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: PATE_
   count: 6
+prev_word: patee
+next_word: paten
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

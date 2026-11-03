@@ -69,4 +69,15 @@ definitions:
   defs:
   - text: Quickly, in a quick manner.
     example: Come here, quick!
+prev_word: quich
+next_word: quids
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

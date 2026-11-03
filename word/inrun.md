@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 68
 anagrams:
 - inurn
+prev_word: inros
+next_word: insee
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

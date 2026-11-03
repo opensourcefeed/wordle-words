@@ -68,4 +68,13 @@ definitions:
   - text: To destroy the political influence of.
   - text: "(milling) To brush the hairs or fuzz from (wheat grains, etc.) in the process
       of high milling."
+prev_word: scall
+next_word: scaly
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

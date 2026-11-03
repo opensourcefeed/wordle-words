@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To itch.
+prev_word: yucko
+next_word: yucky
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

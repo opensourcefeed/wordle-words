@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A veil which covers the face, worn by some Muslim women as a part of sartorial
       hijab.
+prev_word: nippy
+next_word: nirls
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ab/"
+  label: Ending in AB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: An instance of subjective, conscious experience.
+prev_word: quaky
+next_word: qualm
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

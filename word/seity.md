@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - yetis
 - yites
+prev_word: seism
+next_word: seiza
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

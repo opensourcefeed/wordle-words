@@ -47,4 +47,15 @@ definitions:
     example: It is obvious to everyone that Gerry adores Heather.
   - text: To be very fond of.
   - text: To adorn.
+prev_word: adorb
+next_word: adorn
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -21,4 +21,13 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 73
+prev_word: naive
+next_word: nakas
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

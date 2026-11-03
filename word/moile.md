@@ -35,4 +35,15 @@ neighbours:
 - voile
 anagrams:
 - molie
+prev_word: mohur
+next_word: moils
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

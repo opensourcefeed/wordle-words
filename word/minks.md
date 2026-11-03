@@ -46,4 +46,15 @@ definitions:
   - text: "(plural mink) The fur or pelt of a mink, used to make apparel."
   - text: "(plural minks) An article of clothing made of mink."
   - text: "(plural minks) An individual with poor personal hygiene; a smelly person."
+prev_word: minke
+next_word: minny
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -45,4 +45,15 @@ definitions:
   - text: To modify (an advertisement) so as to target a particular group or demographic.
   - text: To attune to; to set at; to pitch.
   - text: To fasten or secure firmly; to fasten or tighten with keys or wedges.
+prev_word: kexes
+next_word: keyer
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

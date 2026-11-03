@@ -26,4 +26,15 @@ neighbours:
 - purge
 - surge
 - gunge
+prev_word: gurdy
+next_word: gurks
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

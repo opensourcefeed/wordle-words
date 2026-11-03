@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ASTS
   count: 11
+prev_word: waste
+next_word: watap
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

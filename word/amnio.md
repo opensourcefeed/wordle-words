@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: Amniocentesis
+prev_word: amnic
+next_word: amoks
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/io/"
+  label: Ending in IO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

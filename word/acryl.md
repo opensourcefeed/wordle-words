@@ -25,4 +25,15 @@ neighbours:
 anagrams:
 - clary
 - lycra
+prev_word: acros
+next_word: actas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

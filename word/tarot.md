@@ -41,4 +41,15 @@ definitions:
   - text: "(singular or plural) A card game played in various different variations."
   - text: Any of the set of 78 playing cards (divided into five suits, including one
       of permanent trumps), often used for mystical divination.
+prev_word: taros
+next_word: tarps
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _ABBY
   count: 7
+prev_word: fabbo
+next_word: fable
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

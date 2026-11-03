@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Of, pertaining to, or having many pines
     example: a piny fragrance
+prev_word: pines
+next_word: pinga
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

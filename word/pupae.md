@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: An insect in the development stage between larva and adult.
+prev_word: punty
+next_word: pupal
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

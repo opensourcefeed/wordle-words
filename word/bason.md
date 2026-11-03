@@ -34,4 +34,15 @@ neighbours:
 - nason
 anagrams:
 - baons
+prev_word: basks
+next_word: basse
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -76,4 +76,15 @@ definitions:
   - text: To suffer griping pains.
   - text: To make a grab (to, towards, at or upon something).
   - text: To seize or grasp.
+prev_word: griot
+next_word: grips
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

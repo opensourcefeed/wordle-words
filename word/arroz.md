@@ -27,4 +27,13 @@ neighbours:
 - arrow
 anagrams:
 - razor
+prev_word: arrow
+next_word: arsed
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

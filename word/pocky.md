@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Covered in pock marks; specifically, pox-ridden, syphilitic.
+prev_word: pocks
+next_word: podal
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

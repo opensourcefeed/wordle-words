@@ -48,4 +48,15 @@ definitions:
   - text: To choose or grant by means of a vote, or by general consent
     example: The depository may vote shares on behalf of investors who have not submitted
       instruction to the bank.
+prev_word: vomit
+next_word: voter
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

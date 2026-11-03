@@ -27,4 +27,15 @@ neighbours:
 - urdee
 anagrams:
 - endue
+prev_word: undam
+next_word: under
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

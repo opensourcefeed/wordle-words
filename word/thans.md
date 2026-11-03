@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: THAN_
   count: 6
+prev_word: thank
+next_word: thanx
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To wail, to cry plaintively.
+prev_word: waulk
+next_word: waurs
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A young, newly-weaned pig.
+prev_word: shoal
+next_word: shock
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

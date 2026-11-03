@@ -64,4 +64,15 @@ definitions:
   - text: To engage in flings, to have one-night stands, to sow one's wild oats.
   - text: To form a party (with).
     example: If you want to beat that monster, you should party with a healer.
+prev_word: parts
+next_word: parve
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

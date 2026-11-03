@@ -44,4 +44,15 @@ definitions:
   - text: The cry of an animal, now chiefly that of animals related to the ass or
       donkey, or the camel.
   - text: "(by extension) Any discordant, grating, or harsh sound."
+prev_word: braxy
+next_word: braza
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

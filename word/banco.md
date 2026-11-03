@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Being or relating to a type of court involving a bench of judges. Quite
       often, the Banco Court is an appeals court.
+prev_word: banal
+next_word: bancs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

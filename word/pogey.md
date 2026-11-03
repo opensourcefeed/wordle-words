@@ -42,4 +42,15 @@ definitions:
   - text: A poorhouse, workhouse, welfare office, charity hostel, etc.
   - text: "(often with the) Government financial assistance, particularly employment
       insurance."
+prev_word: poets
+next_word: pogge
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

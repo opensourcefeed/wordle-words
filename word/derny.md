@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A motorized bicycle for paced cycling events such as keirin.
+prev_word: derns
+next_word: deros
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

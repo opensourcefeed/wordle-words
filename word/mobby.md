@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _OBBY
   count: 10
+prev_word: moats
+next_word: mobed
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

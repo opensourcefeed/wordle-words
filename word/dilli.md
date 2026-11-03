@@ -25,4 +25,15 @@ neighbours:
 - dilly
 - dills
 - villi
+prev_word: dikey
+next_word: dills
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

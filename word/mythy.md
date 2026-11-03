@@ -25,4 +25,15 @@ neighbours:
 - myths
 anagrams:
 - thymy
+prev_word: myths
+next_word: myxos
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/my/"
+  label: Starting with MY
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

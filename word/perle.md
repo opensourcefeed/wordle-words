@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: PER_E
   count: 6
+prev_word: perky
+next_word: perls
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

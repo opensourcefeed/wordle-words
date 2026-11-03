@@ -33,4 +33,15 @@ anagrams:
 - ameer
 - meare
 - ramee
+prev_word: reals
+next_word: reams
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

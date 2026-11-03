@@ -31,4 +31,15 @@ definitions:
   - text: A eunuch in South Asia, especially one who dresses as a woman.
   - text: A (typically biologically male or intersex, but sometimes biologically female)
       member of a somewhat feminine third gender found in India and Pakistan.
+prev_word: hijab
+next_word: hiked
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

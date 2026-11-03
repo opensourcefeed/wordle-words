@@ -56,4 +56,15 @@ definitions:
   - text: To deceive; to be deceptive.
     example: Don’t try to jive me! I know where you were last night!
   - text: To dance.
+prev_word: jitty
+next_word: jiver
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

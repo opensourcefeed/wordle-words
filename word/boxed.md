@@ -67,4 +67,15 @@ definitions:
     example: The books are boxed, ready for shipping.
   - text: In bridge and other card games if the cards in a pack are reversed face-up
       and face-down then the pack is said to be boxed.
+prev_word: bowse
+next_word: boxen
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

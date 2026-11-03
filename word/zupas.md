@@ -25,4 +25,13 @@ neighbours:
 - oupas
 - pupas
 - zupan
+prev_word: zupan
+next_word: zuppa
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

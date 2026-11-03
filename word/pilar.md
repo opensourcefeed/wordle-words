@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: PILA_
   count: 6
+prev_word: pilao
+next_word: pilau
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

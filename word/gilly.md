@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ILLY
   count: 10
+prev_word: gills
+next_word: gilpy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -49,4 +49,15 @@ definitions:
 - pos: noun
   defs:
   - text: Milk sickness
+prev_word: slove
+next_word: sloyd
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

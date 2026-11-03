@@ -26,4 +26,15 @@ neighbours:
 - thrae
 anagrams:
 - wrath
+prev_word: thrae
+next_word: three
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/aw/"
+  label: Ending in AW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

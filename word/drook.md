@@ -30,4 +30,15 @@ neighbours:
 - droog
 - drouk
 - prook
+prev_word: droog
+next_word: drool
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ok/"
+  label: Ending in OK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

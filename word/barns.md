@@ -53,4 +53,15 @@ definitions:
 - pos: noun
   defs:
   - text: A child.
+prev_word: barmy
+next_word: barny
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

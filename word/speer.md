@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: S_EER
   count: 7
+prev_word: speel
+next_word: speil
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Characterized by physical jerking.
   - text: Having the behavior of a jerk (unpleasant person).
+prev_word: jerks
+next_word: jerry
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

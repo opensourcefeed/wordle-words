@@ -33,4 +33,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Flowing; able to flow.
+prev_word: flows
+next_word: flubs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/wy/"
+  label: Ending in WY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

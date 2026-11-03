@@ -47,4 +47,15 @@ definitions:
     example: They built tall fences, yet the nosy neighbors always seemed to know
       everything about them.
   - text: Having a large or elongated nose.
+prev_word: noses
+next_word: noshi
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

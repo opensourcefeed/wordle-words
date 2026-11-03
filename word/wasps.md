@@ -47,4 +47,15 @@ definitions:
   - text: Any of the members of suborder Apocrita, excepting the ants (family Formicidae)
       and bees (clade Anthophila).
   - text: A person who behaves in an angry or insolent way, hence waspish.
+prev_word: wasms
+next_word: waspy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

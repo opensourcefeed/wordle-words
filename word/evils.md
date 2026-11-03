@@ -41,4 +41,15 @@ definitions:
       any good; something which causes suffering of any kind to sentient beings; harm;
       injury; mischief.
   - text: A malady or disease; especially in the phrase king's evil (scrofula).
+prev_word: evict
+next_word: evite
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ev/"
+  label: Starting with EV
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

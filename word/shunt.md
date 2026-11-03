@@ -56,4 +56,15 @@ definitions:
   - text: To have a minor collision, especially in a motor car.
   - text: To divert the flow of a body fluid.
   - text: To turn aside or away; to divert.
+prev_word: shuns
+next_word: shura
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

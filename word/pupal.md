@@ -28,4 +28,15 @@ neighbours:
 - pipal
 - pupae
 - pupas
+prev_word: pupae
+next_word: pupas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

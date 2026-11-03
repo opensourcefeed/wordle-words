@@ -32,4 +32,15 @@ definitions:
   - text: A lupin bean, a yellow legume seed of a Lupinus plant (usually Lupinus luteus),
       used as feed for sheep and cattle and commonly eaten in the Mediterranean area
       and in Latin America although toxic if prepared improperly.
+prev_word: lunts
+next_word: lupus
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

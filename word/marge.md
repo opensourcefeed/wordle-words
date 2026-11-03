@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: Margin; edge; verge.
+prev_word: marga
+next_word: margo
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

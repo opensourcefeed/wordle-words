@@ -44,4 +44,13 @@ definitions:
   - text: Any of various butterflies of the nymphalid subfamily Satyrinae, having
       brown wings marked with eyelike spots; a meadow brown.
   - text: The orangutan.
+prev_word: satis
+next_word: sauba
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

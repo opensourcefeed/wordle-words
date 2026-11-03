@@ -33,4 +33,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(of a friend) best"
+prev_word: bezil
+next_word: bhais
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

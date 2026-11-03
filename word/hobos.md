@@ -43,4 +43,15 @@ definitions:
       or a penniless, unemployed bum.
   - text: Any migratory laborer, whether homeless or not.
   - text: A kind of large handbag.
+prev_word: hobby
+next_word: hocks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

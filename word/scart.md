@@ -50,4 +50,15 @@ definitions:
 - pos: verb
   defs:
   - text: To scratch or scrape.
+prev_word: scars
+next_word: scary
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

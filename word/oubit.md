@@ -29,4 +29,15 @@ neighbours:
 - qubit
 anagrams:
 - bitou
+prev_word: ottos
+next_word: ouche
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

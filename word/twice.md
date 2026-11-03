@@ -37,4 +37,15 @@ definitions:
   - text: Two times.
   - text: (usually with "as", of a specified quality) Doubled in quantity, intensity,
       or degree.
+prev_word: twerp
+next_word: twier
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

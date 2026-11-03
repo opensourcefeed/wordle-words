@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _OGUE
   count: 7
+prev_word: cogon
+next_word: cohab
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

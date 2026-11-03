@@ -32,4 +32,15 @@ neighbours:
 - tousy
 anagrams:
 - soupy
+prev_word: pours
+next_word: pouts
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

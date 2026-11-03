@@ -43,4 +43,15 @@ definitions:
   - text: Any of a group of some twenty thousand species of vascular plants classified
       in the division Pteridophyta that lack seeds and reproduce by shedding spores
       to initiate an alternation of generations.
+prev_word: ferms
+next_word: ferny
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

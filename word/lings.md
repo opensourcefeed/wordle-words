@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of various varieties of heather or broom.
+prev_word: lingo
+next_word: lingy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

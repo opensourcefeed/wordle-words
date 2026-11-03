@@ -32,4 +32,15 @@ definitions:
 - pos: interjection
   defs:
   - text: An exclamation designed to call attention, give encouragement, etc.
+prev_word: heids
+next_word: heils
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

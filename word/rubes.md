@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: A person of rural heritage; a yokel.
   - text: An uninformed, unsophisticated, or unintelligent person.
+prev_word: rubel
+next_word: rubin
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

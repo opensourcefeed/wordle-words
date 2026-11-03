@@ -33,4 +33,15 @@ anagrams:
 - salut
 - sault
 - talus
+prev_word: latte
+next_word: lauan
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

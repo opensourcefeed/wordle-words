@@ -27,4 +27,15 @@ neighbours:
 - iched
 - ishes
 - oches
+prev_word: iched
+next_word: ichor
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/ic/"
+  label: Starting with IC
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

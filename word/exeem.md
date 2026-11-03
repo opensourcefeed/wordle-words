@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 100
 anagrams:
 - exeme
+prev_word: execs
+next_word: exeme
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

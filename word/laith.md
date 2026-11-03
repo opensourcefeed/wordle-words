@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _AITH
   count: 6
+prev_word: lairy
+next_word: laity
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

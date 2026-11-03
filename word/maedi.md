@@ -28,4 +28,15 @@ anagrams:
 - media
 - aimed
 - amide
+prev_word: madre
+next_word: maerl
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/di/"
+  label: Ending in DI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

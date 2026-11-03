@@ -31,4 +31,15 @@ neighbours:
 - prost
 anagrams:
 - torcs
+prev_word: cross
+next_word: croup
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -25,4 +25,15 @@ neighbours:
 - donny
 - nonny
 - sonny
+prev_word: yonks
+next_word: yoofs
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

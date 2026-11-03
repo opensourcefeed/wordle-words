@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - biogs
 - gobis
+prev_word: bigly
+next_word: bigot
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

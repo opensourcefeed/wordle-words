@@ -26,4 +26,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of something highly offensive; causing aversion or disgust.
+prev_word: yukes
+next_word: yukos
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

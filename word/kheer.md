@@ -24,4 +24,15 @@ neighbours:
 - cheer
 - sheer
 - pheer
+prev_word: kheda
+next_word: kheth
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

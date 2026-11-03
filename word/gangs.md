@@ -85,4 +85,15 @@ definitions:
 - pos: noun
   defs:
   - text: The earthy waste substances occurring in metallic ore.
+prev_word: ganev
+next_word: ganja
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

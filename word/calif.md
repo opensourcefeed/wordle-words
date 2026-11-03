@@ -34,4 +34,15 @@ definitions:
     example: The Abbasid caliphs patronized art and science beside religious developments
       ushering in the Islamic Golden Age when their capital Baghdad began to flourish
       as a center of knowledge, culture and trade.
+prev_word: calid
+next_word: calix
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/if/"
+  label: Ending in IF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

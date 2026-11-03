@@ -37,4 +37,15 @@ definitions:
       and Australian waters, often smoked or salted.
   - text: "(Natal) The queen mackerel, Scomberomorus lineolatus."
   - text: "(Transkei) Any of several species of barracuda."
+prev_word: snods
+next_word: snoep
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

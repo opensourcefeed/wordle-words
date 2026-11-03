@@ -64,4 +64,15 @@ definitions:
   - text: A similar device for horses.
   - text: Long hair on front of lower legs of heavier horses (over the hooves), especially
       draft horses, notably the Clydesdale breed.
+prev_word: spate
+next_word: spaul
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

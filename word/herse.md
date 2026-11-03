@@ -31,4 +31,15 @@ anagrams:
 - sheer
 - heres
 - shere
+prev_word: herry
+next_word: hertz
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

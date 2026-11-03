@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - apsis
 - psias
+prev_word: aspie
+next_word: aspro
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

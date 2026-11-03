@@ -32,4 +32,15 @@ neighbours:
 - vatos
 anagrams:
 - vauts
+prev_word: vatos
+next_word: vauch
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

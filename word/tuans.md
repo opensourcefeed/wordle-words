@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: The brush-tailed phascogale, Phascogale tapoatafa.
+prev_word: tsubo
+next_word: tuart
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

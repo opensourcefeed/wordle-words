@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: Any tree of the species in genus Ceiba
   - text: The silk-cotton tree (Bombax ceiba).
+prev_word: cedis
+next_word: ceili
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

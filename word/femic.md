@@ -25,4 +25,15 @@ neighbours:
 - hemic
 - memic
 - nemic
+prev_word: femes
+next_word: femme
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

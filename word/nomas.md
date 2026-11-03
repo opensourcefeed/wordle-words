@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _OMAS
   count: 8
+prev_word: nomad
+next_word: nomen
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

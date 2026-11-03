@@ -34,4 +34,15 @@ neighbours:
 - sewan
 anagrams:
 - awner
+prev_word: revue
+next_word: rewax
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -53,4 +53,15 @@ definitions:
 - pos: noun
   defs:
   - text: A terete muscle.
+prev_word: terek
+next_word: terfe
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

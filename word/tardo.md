@@ -28,4 +28,15 @@ neighbours:
 - vardo
 anagrams:
 - troad
+prev_word: taras
+next_word: tardy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

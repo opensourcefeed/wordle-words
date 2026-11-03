@@ -39,4 +39,15 @@ definitions:
       cream, and the juice of herbs (including tansy), baked with butter in a shallow
       dish. "Originally flavoured with tansy, but by Pepys's time generally having
       spinach as its predominant flavouring."
+prev_word: tansu
+next_word: tante
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

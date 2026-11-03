@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _AVES
   count: 11
+prev_word: oaths
+next_word: obang
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oa/"
+  label: Starting with OA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

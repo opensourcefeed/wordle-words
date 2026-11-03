@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: To produce children.
   - text: To ejaculate, to come.
+prev_word: sprod
+next_word: sprue
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/og/"
+  label: Ending in OG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

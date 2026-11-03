@@ -42,4 +42,15 @@ definitions:
   - text: Not employing lazy evaluation; calculating results immediately, rather than
       deferring calculation until they are required.
     example: an eager algorithm
+prev_word: eagly
+next_word: ealed
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

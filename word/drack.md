@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _RACK
   count: 6
+prev_word: drabs
+next_word: draco
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

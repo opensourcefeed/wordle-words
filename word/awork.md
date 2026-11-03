@@ -21,4 +21,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 46
+prev_word: awols
+next_word: axels
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/rk/"
+  label: Ending in RK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

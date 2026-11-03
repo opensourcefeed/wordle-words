@@ -34,4 +34,15 @@ definitions:
   - text: "(British India) A subdivision of currency equivalent to 1/64 of a rupee
       or three pies."
   - text: A subdivision of currency, equal to one hundredth of a Bangladeshi taka.
+prev_word: pairs
+next_word: paise
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

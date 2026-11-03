@@ -19,4 +19,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 95
+prev_word: abaka
+next_word: aband
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ENTS
   count: 14
+prev_word: fenny
+next_word: feods
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

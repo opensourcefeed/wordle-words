@@ -31,4 +31,13 @@ definitions:
 - pos: noun
   defs:
   - text: A kind of timber truck, or carriage.
+prev_word: wynds
+next_word: wyted
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

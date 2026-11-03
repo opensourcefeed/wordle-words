@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _OPER
   count: 7
+prev_word: doped
+next_word: dopes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

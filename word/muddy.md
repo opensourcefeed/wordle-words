@@ -50,4 +50,15 @@ definitions:
   - text: Not clear; mixed up or blurry.
   - text: Confused; stupid; incoherent; vague.
   - text: Soiled with feces.
+prev_word: mudar
+next_word: mudge
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

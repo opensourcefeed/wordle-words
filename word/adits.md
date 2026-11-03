@@ -40,4 +40,15 @@ definitions:
   - text: A horizontal or nearly horizontal passage from the surface into a mine,
       as contrasted with a shaft or vertical entry passage. An adit may be used for
       ventilation, haulage, drainage, or other purposes.
+prev_word: adios
+next_word: adlib
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

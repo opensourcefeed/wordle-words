@@ -59,4 +59,15 @@ definitions:
   - text: To open wide; to display a gap.
   - text: 'Of a cat: to open the passage to the vomeronasal organ, analogous to the
       flehming in other animals.'
+prev_word: gaper
+next_word: gapos
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

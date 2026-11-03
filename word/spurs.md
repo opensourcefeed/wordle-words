@@ -87,4 +87,15 @@ definitions:
 - pos: noun
   defs:
   - text: The track of an animal, such as an otter; a spoor.
+prev_word: spurn
+next_word: spurt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

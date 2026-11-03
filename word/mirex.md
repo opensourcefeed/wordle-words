@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: The pesticide and fire retardant perchloropentacyclodecane, which is a persistent
       organic pollutant.
+prev_word: mires
+next_word: mirid
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

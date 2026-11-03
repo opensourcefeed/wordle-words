@@ -22,4 +22,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 73
+prev_word: nyuze
+next_word: oaked
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oa/"
+  label: Starting with OA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

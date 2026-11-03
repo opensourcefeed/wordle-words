@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _OUKS
   count: 10
+prev_word: dough
+next_word: doula
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

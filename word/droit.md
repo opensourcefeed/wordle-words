@@ -27,4 +27,15 @@ neighbours:
 - droid
 - droil
 - dropt
+prev_word: droil
+next_word: droke
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

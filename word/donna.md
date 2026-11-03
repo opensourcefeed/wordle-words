@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A lady, especially a noblewoman; the title given to a lady in Italy.
+prev_word: donko
+next_word: donne
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -25,4 +25,13 @@ stats:
 anagrams:
 - basis
 - bassi
+prev_word: irony
+next_word: ishes
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

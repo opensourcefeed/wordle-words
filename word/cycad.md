@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: Any plant of the division Cycadophyta, having a stout and woody trunk with
       a crown of large, hard and stiff, evergreen leaves.
+prev_word: cyber
+next_word: cycas
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cy/"
+  label: Starting with CY
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

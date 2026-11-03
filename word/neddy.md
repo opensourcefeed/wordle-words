@@ -36,4 +36,15 @@ definitions:
   - text: (in the plural, with "the") The horse races.
   - text: "(usually in the plural) Horsepower."
   - text: An idiot; a stupid or contemptible person.
+prev_word: necks
+next_word: neebs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

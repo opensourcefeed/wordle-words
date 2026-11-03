@@ -25,4 +25,15 @@ neighbours:
 - padas
 anagrams:
 - padma
+prev_word: pacts
+next_word: padas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

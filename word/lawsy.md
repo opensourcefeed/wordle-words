@@ -27,4 +27,15 @@ anagrams:
 - swaly
 - swayl
 - yawls
+prev_word: lawny
+next_word: laxed
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

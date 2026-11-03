@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A type of bowed spike fiddle having two strings, originating in China as
       part of the huqin family of string instruments.
+prev_word: ergot
+next_word: erica
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

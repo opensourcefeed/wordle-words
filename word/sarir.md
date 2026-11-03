@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - arris
 - sirra
+prev_word: sarin
+next_word: saris
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

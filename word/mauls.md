@@ -57,4 +57,15 @@ definitions:
     example: The bear mauled him in a terrible way.
   - text: To criticise harshly.
   - text: To beat with the heavy hammer called a maul.
+prev_word: maula
+next_word: maums
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -56,4 +56,15 @@ definitions:
   - text: "(writing) Spelling and punctuation."
   - text: Operation in general; workings.
     example: the mechanics of a board game
+prev_word: mecha
+next_word: mecks
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

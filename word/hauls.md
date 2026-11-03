@@ -57,4 +57,15 @@ definitions:
   - text: To haul ass.
     example: "“How fast was he goin’?” / “I don’t know exactly, but he must’ve been
       haulin’, given where he landed.”"
+prev_word: haulm
+next_word: hault
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

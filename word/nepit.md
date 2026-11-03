@@ -24,4 +24,15 @@ stats:
 anagrams:
 - inept
 - nipet
+prev_word: neper
+next_word: neral
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

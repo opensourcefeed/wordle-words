@@ -75,4 +75,15 @@ definitions:
 - pos: noun
   defs:
   - text: Propellant
+prev_word: proot
+next_word: prora
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

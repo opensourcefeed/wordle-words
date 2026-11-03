@@ -30,4 +30,15 @@ anagrams:
 - acros
 - orcas
 - oscar
+prev_word: archi
+next_word: arcus
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

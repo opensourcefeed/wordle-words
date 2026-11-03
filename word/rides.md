@@ -87,4 +87,15 @@ definitions:
   - text: To monitor (some component of an audiovisual signal) in order to keep it
       within acceptable bounds.
   - text: In jazz, a steady rhythmical style.
+prev_word: rider
+next_word: ridge
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

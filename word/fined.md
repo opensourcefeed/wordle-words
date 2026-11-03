@@ -62,4 +62,15 @@ definitions:
   defs:
   - text: To finish; to cease.
   - text: To cause to cease; to stop.
+prev_word: finds
+next_word: finer
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

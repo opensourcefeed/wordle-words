@@ -55,4 +55,15 @@ definitions:
   - text: To make a successful free ascent (i.e. not relying on gear) of a sport climbing
       route.
     example: She finally sent the 12a after hours of failed attempts.
+prev_word: senas
+next_word: senes
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

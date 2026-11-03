@@ -26,4 +26,15 @@ neighbours:
 - early
 anagrams:
 - agley
+prev_word: eagle
+next_word: eagre
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

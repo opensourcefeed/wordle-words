@@ -45,4 +45,15 @@ definitions:
   - text: Having a sex; being male or female.
   - text: "(in combination) Having a quantifiable libido or particular sex drive."
     example: highly-sexed
+prev_word: sewin
+next_word: sexer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

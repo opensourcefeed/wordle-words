@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _IPED
   count: 6
+prev_word: rioty
+next_word: ripen
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

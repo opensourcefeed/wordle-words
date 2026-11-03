@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: An open fireplace.
     example: Fast by an ingle, bleezing finely, / Wi' reaming swats, that drank divinely
+prev_word: ingan
+next_word: ingot
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

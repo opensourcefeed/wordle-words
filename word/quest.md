@@ -46,4 +46,15 @@ definitions:
   - text: To seek or pursue a goal; to undertake a mission or job.
   - text: To search for; to examine.
   - text: "(of a tick) To locate and attach to a host animal."
+prev_word: queso
+next_word: quete
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

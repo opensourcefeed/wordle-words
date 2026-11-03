@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: "(chiefly Northern California) For sure; totally; hell yeah; used as a strong
       affirmation of something that was just said, accomplished, or revealed."
+prev_word: helix
+next_word: hello
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

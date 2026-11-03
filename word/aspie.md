@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(often capitalized) An Aspergerian: a person with Asperger’s syndrome."
+prev_word: aspic
+next_word: aspis
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

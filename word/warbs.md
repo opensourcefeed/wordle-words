@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: WAR_S
   count: 8
+prev_word: waqfs
+next_word: warby
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

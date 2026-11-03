@@ -35,4 +35,15 @@ anagrams:
 - nides
 - sdein
 - sined
+prev_word: snide
+next_word: snies
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -42,4 +42,15 @@ definitions:
 - pos: interjection
   defs:
   - text: Diminutive form of oops.
+prev_word: ooped
+next_word: oorie
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oo/"
+  label: Starting with OO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

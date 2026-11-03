@@ -49,4 +49,15 @@ definitions:
     example: Amalgamated Software Systems debuted release 3.2 in Spring of 2004.
   - text: To make one's initial formal appearance
     example: Release 3.2 debuted to mixed reviews in Spring of 2004.
+prev_word: debus
+next_word: debye
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

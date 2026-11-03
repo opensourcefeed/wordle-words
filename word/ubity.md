@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 70
 neighbours:
 - unity
+prev_word: ubacs
+next_word: udals
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

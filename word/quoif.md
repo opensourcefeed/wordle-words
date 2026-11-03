@@ -26,4 +26,15 @@ neighbours:
 - quoin
 - quois
 - quoit
+prev_word: quods
+next_word: quoin
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/if/"
+  label: Ending in IF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

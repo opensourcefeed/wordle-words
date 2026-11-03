@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _EELS
   count: 9
+prev_word: teddy
+next_word: teems
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

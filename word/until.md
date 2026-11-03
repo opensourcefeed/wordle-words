@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: Up to the time that (a condition becomes true).
   - text: Before (a condition becoming true).
+prev_word: untie
+next_word: untin
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

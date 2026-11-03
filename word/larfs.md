@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: LAR_S
   count: 6
+prev_word: lares
+next_word: larga
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

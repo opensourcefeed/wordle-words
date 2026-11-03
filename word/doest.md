@@ -86,4 +86,15 @@ definitions:
     example: I do cocaine.
   - text: "(in the form be doing [somewhere]) To exist with a purpose or for a reason."
     example: What's that car doing in our swimming pool?
+prev_word: doers
+next_word: doeth
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

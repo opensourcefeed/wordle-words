@@ -63,4 +63,15 @@ definitions:
 - pos: verb
   defs:
   - text: To furnish with a nozzle or point.
+prev_word: snots
+next_word: snowk
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

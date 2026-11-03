@@ -32,4 +32,15 @@ anagrams:
 - grist
 - grits
 - trigs
+prev_word: stria
+next_word: strim
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ig/"
+  label: Ending in IG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -27,4 +27,15 @@ neighbours:
 - pinga
 - pinna
 - pinta
+prev_word: pinch
+next_word: pinds
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

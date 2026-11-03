@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: To shout or utter in a loud and intense manner.
   - text: To wail; to give out a blaring cry.
+prev_word: bawks
+next_word: bawns
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

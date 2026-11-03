@@ -51,4 +51,15 @@ definitions:
   - text: Of a cave passage, to end in a sump, or to fill completely with water on
       occasion.
     example: This low passage sumps quickly after moderate rainfall.
+prev_word: sumph
+next_word: sunis
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

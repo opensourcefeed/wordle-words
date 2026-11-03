@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: To jeer; to laugh with contempt and derision.
   - text: To mock; to treat with scorn.
+prev_word: scody
+next_word: scogs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -49,4 +49,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cheat or defraud.
+prev_word: rorie
+next_word: rorty
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

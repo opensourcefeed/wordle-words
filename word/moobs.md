@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(usually in plural) A plump or untoned breast on a man."
+prev_word: monty
+next_word: mooch
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

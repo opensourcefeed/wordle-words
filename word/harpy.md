@@ -36,4 +36,15 @@ definitions:
   - text: The European moor buzzard or marsh harrier (Circus aeruginosus).
   - text: A large and powerful double-crested, short-winged American eagle (Harpia
       harpyja).
+prev_word: harps
+next_word: harry
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

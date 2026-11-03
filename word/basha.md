@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A tarpaulin or plastic waterproof sheet.
   - text: A makeshift shelter made from the above.
+prev_word: bases
+next_word: basho
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

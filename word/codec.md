@@ -39,4 +39,13 @@ definitions:
       or signal.
     example: Audio and video codecs are important in making multimedia files small
       enough to distribute and simple to play back.
+prev_word: codas
+next_word: coded
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

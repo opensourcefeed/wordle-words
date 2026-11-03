@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _ETAS
   count: 8
+prev_word: gests
+next_word: getup
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

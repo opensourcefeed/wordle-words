@@ -41,4 +41,15 @@ anagrams:
 - tales
 - teals
 - tesla
+prev_word: sales
+next_word: salic
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

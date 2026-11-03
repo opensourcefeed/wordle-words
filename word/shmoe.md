@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 31
 anagrams:
 - homes
+prev_word: shmek
+next_word: shoal
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/oe/"
+  label: Ending in OE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

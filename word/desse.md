@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - sedes
 - seeds
+prev_word: desks
+next_word: detag
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

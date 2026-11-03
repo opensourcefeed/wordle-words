@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 52
 neighbours:
 - vizir
+prev_word: vexil
+next_word: vials
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -51,4 +51,15 @@ definitions:
   - text: An annoying person, a nuisance.
   - text: An animal regarded as a nuisance, destructive, or a parasite, vermin.
   - text: An invasive weed.
+prev_word: pesto
+next_word: pesty
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

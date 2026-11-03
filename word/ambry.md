@@ -31,4 +31,15 @@ definitions:
   - text: A pantry, or place to store food.
   - text: A cupboard or storage area in a church to hold books, communion vessels,
       vestments, etc.; an armarium.
+prev_word: ambos
+next_word: ameba
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

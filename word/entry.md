@@ -54,4 +54,15 @@ definitions:
       licence to land goods; or the giving an account of a ship's cargo to the officer
       of the customs, and obtaining his permission to land the goods.
   - text: The point when a musician starts to play or sing; entrance.
+prev_word: entre
+next_word: enure
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

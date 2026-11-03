@@ -36,4 +36,15 @@ definitions:
   - text: Friend
   - text: "(chiefly California) Mexican"
   - text: A native of the Philippines who was friendly toward the Spanish.
+prev_word: amiga
+next_word: amine
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

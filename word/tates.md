@@ -45,4 +45,15 @@ anagrams:
 trap:
   pattern: _ATES
   count: 13
+prev_word: tater
+next_word: taths
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

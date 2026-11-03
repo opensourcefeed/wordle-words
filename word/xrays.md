@@ -33,4 +33,13 @@ neighbours:
 trap:
   pattern: _RAYS
   count: 9
+prev_word: xolos
+next_word: xviii
+hubs:
+- url: "/starting-with/x/"
+  label: Starting with X
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

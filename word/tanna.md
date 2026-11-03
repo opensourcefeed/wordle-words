@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _ANNA
   count: 6
+prev_word: tanky
+next_word: tansu
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

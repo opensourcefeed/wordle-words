@@ -25,4 +25,15 @@ neighbours:
 - annus
 anagrams:
 - unman
+prev_word: annul
+next_word: annus
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

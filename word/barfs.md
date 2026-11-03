@@ -46,4 +46,15 @@ definitions:
   - text: To vomit.
   - text: 'Of a system: to fail.'
     example: The program barfed as a result of the invalid input.
+prev_word: barfi
+next_word: barfy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

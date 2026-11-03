@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A porridge made from boiled buckwheat groats, or sometimes from other cereal
       groats.
+prev_word: karzy
+next_word: kasme
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -24,4 +24,13 @@ neighbours:
 - kophs
 - sophs
 - tophs
+prev_word: qipao
+next_word: qorma
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

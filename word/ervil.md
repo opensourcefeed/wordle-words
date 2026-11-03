@@ -27,4 +27,15 @@ anagrams:
 - livre
 - rivel
 - viler
+prev_word: erven
+next_word: escar
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

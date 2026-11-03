@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - denim
 - mined
+prev_word: medii
+next_word: medle
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

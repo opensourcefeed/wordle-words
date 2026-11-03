@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: A minute.
     example: We'll be there in one zero mikes [i.e. ten minutes].
+prev_word: miked
+next_word: mikos
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

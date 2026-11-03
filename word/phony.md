@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: Fraudulent; fake; having a misleading appearance.
     example: A good jeweler should be able to tell a real stone from a phony one.
+prev_word: phons
+next_word: phooh
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

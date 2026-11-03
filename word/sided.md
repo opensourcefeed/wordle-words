@@ -56,4 +56,15 @@ definitions:
 - pos: verb
   defs:
   - text: To clear, tidy or sort.
+prev_word: sidas
+next_word: sider
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

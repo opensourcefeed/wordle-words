@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: To thrust.
   - text: To trample.
+prev_word: potai
+next_word: poted
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 20
 neighbours:
 - opsit
+prev_word: oppos
+next_word: opsin
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/op/"
+  label: Starting with OP
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

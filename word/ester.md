@@ -45,4 +45,15 @@ definitions:
   - text: A compound most often formed by the condensation of an alcohol and an acid,
       with elimination of water, which contains the functional group carbon-oxygen
       double bond joined via carbon to another oxygen atom.
+prev_word: esses
+next_word: estoc
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/es/"
+  label: Starting with ES
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -25,4 +25,15 @@ neighbours:
 - amino
 - imido
 - imine
+prev_word: imine
+next_word: imlis
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -27,4 +27,15 @@ neighbours:
 - guyse
 anagrams:
 - gluey
+prev_word: guyed
+next_word: guyot
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

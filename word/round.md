@@ -164,4 +164,15 @@ definitions:
   - text: "(authorship, of a fictional character) Well-written and well-characterized;
       complex and reminiscent of a real person."
   - text: Vaulted.
+prev_word: roums
+next_word: roups
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -45,4 +45,15 @@ definitions:
     example: Did you see those two skells lying in the doorway?
   - text: "(police jargon) A male suspicious person or crime suspect, especially a
       street person such as a drug dealer, pimp or panhandler."
+prev_word: skelf
+next_word: skelm
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

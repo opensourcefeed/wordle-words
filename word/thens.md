@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - hents
 - shent
+prev_word: theme
+next_word: theor
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

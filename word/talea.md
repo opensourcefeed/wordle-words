@@ -32,4 +32,15 @@ neighbours:
 - talpa
 anagrams:
 - alate
+prev_word: talcy
+next_word: taler
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

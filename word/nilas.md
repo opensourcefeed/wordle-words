@@ -35,4 +35,15 @@ anagrams:
 - snail
 - anils
 - nails
+prev_word: nikau
+next_word: nills
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

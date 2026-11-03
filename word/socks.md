@@ -70,4 +70,15 @@ definitions:
   - text: A hollow tool for grasping and lifting tools dropped in a well-boring.
   - text: The hollow of a candlestick.
   - text: A steel apparatus attached to a saddle to protect the thighs and legs.
+prev_word: socko
+next_word: socle
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: CHAR_
   count: 9
+prev_word: chard
+next_word: chark
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

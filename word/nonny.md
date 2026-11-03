@@ -31,4 +31,15 @@ neighbours:
 - nunny
 - sonny
 - yonny
+prev_word: nonno
+next_word: nonyl
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

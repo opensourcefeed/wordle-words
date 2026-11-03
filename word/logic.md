@@ -58,4 +58,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Logical
+prev_word: logia
+next_word: logie
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

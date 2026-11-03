@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: FAR_S
   count: 6
+prev_word: farms
+next_word: farro
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

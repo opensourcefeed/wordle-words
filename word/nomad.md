@@ -45,4 +45,15 @@ definitions:
   - text: One who wanders, who travels aimlessly.
   - text: Any of various far-migrating nymphalid butterflies of the genus Danaus.
   - text: The wandering albatross, Diomedea exulans.
+prev_word: nolos
+next_word: nomas
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

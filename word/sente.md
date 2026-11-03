@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A subdivision of currency, equal to one hundredth of a Lesotho loti.
+prev_word: sensu
+next_word: senti
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

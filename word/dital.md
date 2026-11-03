@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - tidal
 - datil
+prev_word: disme
+next_word: ditas
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

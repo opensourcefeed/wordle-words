@@ -64,4 +64,15 @@ definitions:
   - text: To be acquainted (with another person).
   - text: To be able to play or perform (a song or other piece of music).
     example: Do you know "Blueberry Hill"?
+prev_word: known
+next_word: knubs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

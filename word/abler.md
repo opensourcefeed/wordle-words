@@ -55,4 +55,15 @@ definitions:
   - text: Legally qualified or competent.
     example: He is able to practice law in six states.
   - text: Capable of performing all the requisite duties; as an able seaman.
+prev_word: abled
+next_word: ables
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

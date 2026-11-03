@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: An exception; a reservation; an excuse.
+prev_word: salve
+next_word: saman
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/vo/"
+  label: Ending in VO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

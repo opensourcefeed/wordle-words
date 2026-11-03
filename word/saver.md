@@ -52,4 +52,15 @@ definitions:
     example: He's a saver and she's a spender; you think the marriage would be doomed
       but he keeps them from going into bankruptcy and she makes sure they have a
       lot of fun.
+prev_word: saved
+next_word: saves
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

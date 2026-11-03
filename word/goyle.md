@@ -29,4 +29,15 @@ neighbours:
 - soyle
 anagrams:
 - elogy
+prev_word: goyim
+next_word: graal
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -35,4 +35,15 @@ anagrams:
 - leeps
 - peels
 - peles
+prev_word: speed
+next_word: speer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

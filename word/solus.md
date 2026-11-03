@@ -40,4 +40,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Alone, unaccompanied (as a stage direction)
+prev_word: solum
+next_word: solve
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

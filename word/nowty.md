@@ -24,4 +24,15 @@ neighbours:
 - nowts
 anagrams:
 - towny
+prev_word: nowts
+next_word: noxal
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

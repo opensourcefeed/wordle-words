@@ -34,4 +34,15 @@ anagrams:
 trap:
   pattern: _AITH
   count: 6
+prev_word: baisa
+next_word: baits
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

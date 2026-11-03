@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: A flowering plant of the genus Paeonia with large fragrant flowers.
   - text: A dark red colour.
+prev_word: peons
+next_word: pepla
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

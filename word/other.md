@@ -61,4 +61,13 @@ definitions:
     example: Other than that, I'm fine.
   - text: Otherwise.
     example: If you think other. — Shakespeare.
+prev_word: otary
+next_word: othyl
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

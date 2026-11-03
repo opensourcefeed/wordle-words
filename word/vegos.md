@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A vegetarian.
+prev_word: vegie
+next_word: vehme
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

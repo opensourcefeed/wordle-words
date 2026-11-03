@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: To improvise, in singing, by introducing vocal ornamentation to fill gaps
       etc.
+prev_word: fugly
+next_word: fugus
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

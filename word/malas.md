@@ -48,4 +48,15 @@ definitions:
   - text: A bead or a set of beads commonly used by Hindus and Buddhists for keeping
       count while reciting, chanting, or mentally repeating a mantra or the name or
       names of a deity.
+prev_word: malar
+next_word: malax
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,15 @@ neighbours:
 - ology
 anagrams:
 - goyle
+prev_word: eloge
+next_word: eloin
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

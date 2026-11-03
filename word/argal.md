@@ -33,4 +33,15 @@ anagrams:
 - graal
 - lagar
 - larga
+prev_word: arett
+next_word: argan
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

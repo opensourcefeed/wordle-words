@@ -24,4 +24,15 @@ neighbours:
 - clype
 - flyte
 - slype
+prev_word: flyin
+next_word: flyte
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

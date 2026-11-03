@@ -25,4 +25,15 @@ neighbours:
 anagrams:
 - lassy
 - slays
+prev_word: lysol
+next_word: lyted
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

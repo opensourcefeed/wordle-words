@@ -27,4 +27,15 @@ neighbours:
 - ratio
 - ratos
 - razoo
+prev_word: ratio
+next_word: ratos
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

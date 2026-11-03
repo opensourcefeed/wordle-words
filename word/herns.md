@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: HER_S
   count: 8
+prev_word: herms
+next_word: heron
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

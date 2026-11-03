@@ -23,4 +23,15 @@ neighbours:
 - surfs
 - surgy
 - turfy
+prev_word: surfs
+next_word: surge
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

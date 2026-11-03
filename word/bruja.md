@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 68
 neighbours:
 - brujo
+prev_word: bruit
+next_word: brujo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ja/"
+  label: Ending in JA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

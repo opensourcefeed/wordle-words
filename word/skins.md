@@ -90,4 +90,15 @@ definitions:
   - text: Member of the skinhead subculture arising in late 1960s England or its diaspora,
       often incorrectly associated with violence and white-supremacist or anti-immigrant
       principles.
+prev_word: skink
+next_word: skint
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

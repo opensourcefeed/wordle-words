@@ -28,4 +28,15 @@ neighbours:
 - blart
 - blent
 - blest
+prev_word: blent
+next_word: bless
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

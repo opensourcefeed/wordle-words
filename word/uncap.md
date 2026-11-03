@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: To remove a cap or cover from.
   - text: To take off one's cap.
+prev_word: unbox
+next_word: unces
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ap/"
+  label: Ending in AP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -55,4 +55,15 @@ definitions:
   - text: "(the death) The collapse or end of something."
     example: England scored a goal at the death to even the score at one all.
   - text: Spiritual lifelessness.
+prev_word: deash
+next_word: deave
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: BO_KS
   count: 8
+prev_word: bosie
+next_word: bosky
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

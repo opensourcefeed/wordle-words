@@ -33,4 +33,15 @@ anagrams:
 - potro
 - proto
 - tropo
+prev_word: prook
+next_word: props
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

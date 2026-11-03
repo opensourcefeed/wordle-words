@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _ALIS
   count: 8
+prev_word: palet
+next_word: palki
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

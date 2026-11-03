@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _UMPY
   count: 8
+prev_word: pumps
+next_word: punas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

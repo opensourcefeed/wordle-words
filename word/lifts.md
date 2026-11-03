@@ -88,4 +88,15 @@ definitions:
   defs:
   - text: Air.
   - text: The sky; the heavens; firmament; atmosphere.
+prev_word: lifey
+next_word: ligan
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

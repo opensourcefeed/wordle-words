@@ -33,4 +33,15 @@ definitions:
   - text: A quantum bit; the basic unit of quantum information described by a superposition
       of two states; a quantum bit in a quantum computer capable of being in a state
       of superposition.
+prev_word: quays
+next_word: quean
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

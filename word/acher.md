@@ -32,4 +32,15 @@ anagrams:
 - reach
 - chare
 - rache
+prev_word: ached
+next_word: aches
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

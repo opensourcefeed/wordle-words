@@ -44,4 +44,15 @@ definitions:
   - text: To speak boastfully.
   - text: To speak boastfully about.
   - text: To boast of; to make a vain display of; to display with ostentation.
+prev_word: vault
+next_word: vaute
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

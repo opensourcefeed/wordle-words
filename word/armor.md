@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: To equip something with armor or a protective coating or hardening.
   - text: To provide something with an analogous form of protection.
+prev_word: armil
+next_word: arnas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

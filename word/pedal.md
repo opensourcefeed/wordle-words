@@ -56,4 +56,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of or relating to the foot.
+prev_word: pects
+next_word: pedes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

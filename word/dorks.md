@@ -43,4 +43,15 @@ definitions:
   - text: A long Scottish dagger with a straight blade.
   - text: "(Midwest US) A penis; dork."
   - text: "(Midwest US) A socially unacceptable person; an oddball."
+prev_word: dorje
+next_word: dorky
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

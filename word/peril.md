@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cause to be in danger; to imperil; to risk.
+prev_word: perfs
+next_word: peris
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

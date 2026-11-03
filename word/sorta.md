@@ -44,4 +44,15 @@ definitions:
   - text: Approximately; in a way; partially; not quite; somewhat.
     example: It sort of makes sense the way he explains it, but I still don't really
       understand.
+prev_word: sorry
+next_word: sorts
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

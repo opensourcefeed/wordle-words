@@ -36,4 +36,15 @@ definitions:
 - pos: interjection
   defs:
   - text: A toast when drinking, roughly equivalent to cheers.
+prev_word: sklim
+next_word: skobe
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

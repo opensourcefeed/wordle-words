@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A Southeast Asian cake made from rice and lentils, whose ground mixture
       is fermented and steamed in a mold.
+prev_word: idles
+next_word: idola
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/id/"
+  label: Starting with ID
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

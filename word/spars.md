@@ -66,4 +66,15 @@ definitions:
   - text: Any of various microcrystalline minerals, of light, translucent, or transparent
       appearance, which are easily cleft.
   - text: Any crystal with readily discernible faces.
+prev_word: spark
+next_word: spart
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

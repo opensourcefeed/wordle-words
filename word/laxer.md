@@ -52,4 +52,15 @@ definitions:
   - text: Lacking care; neglectful, negligent.
   - text: Having a looseness of the bowels; diarrheal.
   - text: Describing an associative monoidal functor.
+prev_word: laxed
+next_word: laxes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

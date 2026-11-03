@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: A game of gambling, or chance, where the players throw dice to make scores
       and avoid crap.
+prev_word: crape
+next_word: crapy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

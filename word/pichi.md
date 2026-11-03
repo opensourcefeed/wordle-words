@@ -22,4 +22,15 @@ stats:
 neighbours:
 - lichi
 - michi
+prev_word: picey
+next_word: picks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

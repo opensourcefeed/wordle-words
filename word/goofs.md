@@ -47,4 +47,15 @@ definitions:
     example: It's my fault. I goofed.
   - text: To engage in mischief.
     example: We were just goofing by painting the neighbor's cat green.
+prev_word: gooey
+next_word: goofy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

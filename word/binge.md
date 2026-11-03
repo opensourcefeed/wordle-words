@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: To engage in a short period of excessive consumption, especially of excessive
       alcohol consumption.
+prev_word: bines
+next_word: bingo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: A baked case of dough with a sweet or savoury filling, popular in Eastern
       Europe.
+prev_word: pirns
+next_word: pirre
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/og/"
+  label: Ending in OG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

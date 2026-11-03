@@ -27,4 +27,13 @@ definitions:
   - text: An Asian vine (several species in the genus Pueraria, but mostly Pueraria
       montans var. lobata, syn. Pueraria lobata in the US), grown as a root starch,
       and which is a notorious invasive weed in the United States.
+prev_word: kudus
+next_word: kufis
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

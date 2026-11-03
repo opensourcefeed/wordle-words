@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: The edible larva of an insect.
+prev_word: bards
+next_word: bared
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

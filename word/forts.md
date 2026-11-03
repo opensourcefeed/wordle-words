@@ -49,4 +49,15 @@ definitions:
 - pos: verb
   defs:
   - text: To create a fort, fortifications, a strong point, or a redoubt.
+prev_word: forth
+next_word: forty
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

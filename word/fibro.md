@@ -30,4 +30,15 @@ definitions:
   - text: Fibro-cement; a building material consisting of asbestos fibres and cement
       pressed into sheets.
   - text: Fibromyalgia.
+prev_word: fibre
+next_word: fices
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

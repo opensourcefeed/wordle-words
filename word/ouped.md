@@ -28,4 +28,15 @@ neighbours:
 - orped
 - outed
 - suped
+prev_word: oupas
+next_word: ouphe
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

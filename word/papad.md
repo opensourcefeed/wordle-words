@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A lentil variety of papadam.
+prev_word: paolo
+next_word: papal
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

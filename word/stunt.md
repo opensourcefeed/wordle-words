@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: "(cheerleading) To perform a stunt."
   - text: To show off; to posture.
+prev_word: stuns
+next_word: stupa
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

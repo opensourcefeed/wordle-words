@@ -44,4 +44,15 @@ definitions:
   - text: To play dice.
   - text: To cut into small cubes.
   - text: To ornament with squares, diamonds, or cubes.
+prev_word: dibbs
+next_word: dicer
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

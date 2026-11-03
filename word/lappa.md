@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: An African waist scarf.
+prev_word: lapje
+next_word: lappy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

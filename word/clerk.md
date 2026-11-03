@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: To act as a clerk, to perform the duties or functions of a clerk
     example: The law school graduate clerked for the supreme court judge for the summer.
+prev_word: clept
+next_word: cleve
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/rk/"
+  label: Ending in RK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

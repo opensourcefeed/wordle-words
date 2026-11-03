@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: To fail to repay a small debt.
   - text: To fail to fulfill an obligation.
+prev_word: wekas
+next_word: welds
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

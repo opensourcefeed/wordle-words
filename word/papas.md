@@ -46,4 +46,15 @@ definitions:
   - text: A pet name for one's grandfather.
   - text: A parish priest in the Greek Orthodox Church.
   - text: The letter P in the ICAO spelling alphabet.
+prev_word: papal
+next_word: papaw
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

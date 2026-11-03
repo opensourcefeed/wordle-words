@@ -74,4 +74,15 @@ definitions:
   - text: To call out audibly.
   - text: To penalize.
     example: Gary Ablett was pinged for holding the ball and gave away a free kick.
+prev_word: pingo
+next_word: pinko
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

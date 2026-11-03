@@ -58,4 +58,15 @@ definitions:
   - text: Furnished with a pike; ending in a point
   - text: Describing a dive in which the knees are kept straight, but the body is
       bent at a right-angle at the hips
+prev_word: pikau
+next_word: pikel
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

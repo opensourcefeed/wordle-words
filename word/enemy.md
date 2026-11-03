@@ -38,4 +38,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of, relating to, or belonging to an enemy
+prev_word: enema
+next_word: enews
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

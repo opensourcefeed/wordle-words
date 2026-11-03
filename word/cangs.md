@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ANGS
   count: 15
+prev_word: canes
+next_word: canid
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

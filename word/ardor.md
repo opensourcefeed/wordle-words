@@ -35,4 +35,15 @@ definitions:
   - text: Great warmth of feeling; fervor; passion.
   - text: Spirit; enthusiasm; passion.
   - text: Intense heat.
+prev_word: ardeb
+next_word: ardri
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -38,4 +38,15 @@ definitions:
     example: Her comment gnawed at me all day and I couldn't think about anything
       else.
   - text: To corrode; to fret away; to waste.
+prev_word: gnawn
+next_word: gnome
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gn/"
+  label: Starting with GN
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

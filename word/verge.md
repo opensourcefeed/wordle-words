@@ -52,4 +52,15 @@ definitions:
   - text: The edge of the tiling projecting over the gable of a roof.
   - text: The spindle of a watch balance, especially one with pallets, as in the old
       vertical escapement.
+prev_word: verde
+next_word: verra
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

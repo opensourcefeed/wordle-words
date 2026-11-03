@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ESTS
   count: 15
+prev_word: kesar
+next_word: ketas
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

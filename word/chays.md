@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: CHA_S
   count: 11
+prev_word: chaya
+next_word: cheap
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _UNKS
   count: 10
+prev_word: sunis
+next_word: sunna
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

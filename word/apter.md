@@ -56,4 +56,15 @@ definitions:
       likely; disposed towards."
   - text: Ready; especially fitted or qualified (to do something); quick to learn.
     example: a pupil apt to learn
+prev_word: apted
+next_word: aptly
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

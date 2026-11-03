@@ -66,4 +66,15 @@ definitions:
 - pos: noun
   defs:
   - text: A mill for grinding corn, especially a hand-mill made of two circular stones.
+prev_word: kerne
+next_word: keros
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

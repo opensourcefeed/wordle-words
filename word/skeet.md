@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To shoot or spray (used of fluids).
   - text: To ejaculate.
+prev_word: skees
+next_word: skeev
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

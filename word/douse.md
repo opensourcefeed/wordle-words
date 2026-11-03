@@ -50,4 +50,15 @@ definitions:
   - text: To plunge suddenly into water; to duck; to immerse.
   - text: To fall suddenly into water.
   - text: To put out; to extinguish.
+prev_word: doura
+next_word: douts
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

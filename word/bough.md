@@ -43,4 +43,15 @@ definitions:
   - text: A firm branch of a tree.
     example: When the bough breaks, the cradle will fall.
   - text: The gallows.
+prev_word: bouge
+next_word: bouks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

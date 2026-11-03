@@ -37,4 +37,15 @@ definitions:
       a lagoon and supports, in most cases, one to many islets on the reef platform.
       Atolls have a unique geology, so not all islands with a reef and a lagoon are
       atolls
+prev_word: atoks
+next_word: atoms
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

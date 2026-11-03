@@ -39,4 +39,15 @@ definitions:
   - text: One who owns something.
     example: The police recovered the stolen car and returned it to its owner.
   - text: The captain of a ship.
+prev_word: owned
+next_word: ownio
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ow/"
+  label: Starting with OW
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -24,4 +24,15 @@ neighbours:
 - subas
 anagrams:
 - bauks
+prev_word: subah
+next_word: subas
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

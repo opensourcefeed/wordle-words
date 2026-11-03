@@ -25,4 +25,15 @@ neighbours:
 - sewen
 anagrams:
 - eensy
+prev_word: sexts
+next_word: sezes
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

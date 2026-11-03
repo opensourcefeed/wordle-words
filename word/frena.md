@@ -28,4 +28,15 @@ neighbours:
 - urena
 anagrams:
 - refan
+prev_word: fremd
+next_word: freon
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

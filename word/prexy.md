@@ -32,4 +32,13 @@ definitions:
 - pos: noun
   defs:
   - text: A president, especially of a college or university.
+prev_word: preve
+next_word: preys
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

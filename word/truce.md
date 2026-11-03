@@ -40,4 +40,15 @@ definitions:
       the opposed parties
   - text: An agreement between opposed parties in which they pledge to cease fighting
       for a limited time
+prev_word: troys
+next_word: truck
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

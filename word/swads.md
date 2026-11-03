@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: SWA_S
   count: 7
+prev_word: swack
+next_word: swage
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -51,4 +51,15 @@ definitions:
   - text: Physically violent; tending to use one's fists.
   - text: 'Of a freight ship: having a small cargo capacity (less than 40,000 DWT);
       belonging to the handysize class.'
+prev_word: hands
+next_word: hangi
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -75,4 +75,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having the bluish-grey/gray colour of slate.
+prev_word: slash
+next_word: slats
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

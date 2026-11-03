@@ -28,4 +28,15 @@ neighbours:
 - wanty
 - wavey
 - winey
+prev_word: wanes
+next_word: wangs
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

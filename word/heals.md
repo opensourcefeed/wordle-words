@@ -66,4 +66,15 @@ definitions:
       as the masons).
   - text: (now especially in the phrase "hele in") To cover or conceal (a seedling,
       plant, roots, etc).
+prev_word: heald
+next_word: heame
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -50,4 +50,15 @@ definitions:
       the effects of the wind on the sails.
   - text: To pull up or tug upwards sharply.
     example: She hiked her skirt up.
+prev_word: hijra
+next_word: hiker
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

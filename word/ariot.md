@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - ratio
 - riato
+prev_word: arils
+next_word: arise
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -50,4 +50,15 @@ definitions:
 - pos: noun
   defs:
   - text: Vertebrate
+prev_word: verte
+next_word: vertu
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

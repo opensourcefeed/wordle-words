@@ -27,4 +27,15 @@ neighbours:
 - rally
 - rauli
 - valli
+prev_word: rales
+next_word: rally
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

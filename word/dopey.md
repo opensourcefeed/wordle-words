@@ -37,4 +37,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Stupid, silly.
+prev_word: dopes
+next_word: doppe
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

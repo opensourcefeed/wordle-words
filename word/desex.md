@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: To remove another's sexual characteristics or functions, often physical
       sterilization.
+prev_word: dervs
+next_word: deshi
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

@@ -28,4 +28,15 @@ neighbours:
 - filos
 - finos
 - fogos
+prev_word: fight
+next_word: fiked
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

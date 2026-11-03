@@ -25,4 +25,15 @@ neighbours:
 - color
 - cohog
 - lolog
+prev_word: colly
+next_word: colon
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/og/"
+  label: Ending in OG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

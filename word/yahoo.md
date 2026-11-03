@@ -37,4 +37,15 @@ definitions:
   - text: A humanoid cryptid said to exist in parts of eastern Australia, and also
       reported in the Bahamas.
     example: '1985, Michael Raynal, Yahoos in the Bahamas, Cryptozoology, volume 4:'
+prev_word: yagna
+next_word: yaird
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

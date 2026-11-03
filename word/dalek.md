@@ -35,4 +35,15 @@ definitions:
       having monotone, mechanically distorted voices, repeating a limited number of
       phrases, and being bent on exterminating other beings mercilessly.
   - text: One who is dogmatic, unfeeling and determined.
+prev_word: daled
+next_word: dales
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

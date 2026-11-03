@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: "(of birds or bats) To settle on a perch in order to sleep or rest"
   - text: To spend the night
+prev_word: roose
+next_word: roots
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

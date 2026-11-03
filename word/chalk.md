@@ -51,4 +51,15 @@ definitions:
   - text: To record a score or event, as if on a chalkboard.
   - text: To manure (land) with chalk.
   - text: To make white, as if with chalk; to make pale; to bleach.
+prev_word: chais
+next_word: chals
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/lk/"
+  label: Ending in LK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

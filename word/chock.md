@@ -52,4 +52,15 @@ definitions:
 - pos: adverb
   defs:
   - text: Entirely; quite.
+prev_word: chizz
+next_word: choco
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

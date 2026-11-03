@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 50
 neighbours:
 - yojan
+prev_word: yojan
+next_word: yoked
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

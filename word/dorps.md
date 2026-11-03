@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A village or small town; a town considered provincial.
+prev_word: dormy
+next_word: dorrs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

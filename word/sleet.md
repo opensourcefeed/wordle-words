@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: "(of the weather) To be in a state in which sleet is falling."
     example: I won't bother going out until it's stopped sleeting.
+prev_word: sleer
+next_word: slept
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -30,4 +30,15 @@ neighbours:
 - pling
 - prang
 - prink
+prev_word: primy
+next_word: prink
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -59,4 +59,15 @@ definitions:
   - text: A structure supporting the junction between two spans of a bridge.
   - text: A rectangular pillar, or similar structure, that supports an arch, wall
       or roof, or the hinges of a gate.
+prev_word: piend
+next_word: piert
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

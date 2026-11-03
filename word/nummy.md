@@ -34,4 +34,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Delicious
+prev_word: numen
+next_word: numps
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

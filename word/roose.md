@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _OOSE
   count: 7
+prev_word: roosa
+next_word: roost
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

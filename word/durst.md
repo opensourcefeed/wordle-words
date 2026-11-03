@@ -41,4 +41,15 @@ definitions:
   - text: To terrify; to daunt.
   - text: To catch (larks) by producing terror through the use of mirrors, scarlet
       cloth, a hawk, etc., so that they lie still till a net is thrown over them.
+prev_word: durry
+next_word: durum
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

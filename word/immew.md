@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 83
 neighbours:
 - emmew
+prev_word: imlis
+next_word: immit
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/ew/"
+  label: Ending in EW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

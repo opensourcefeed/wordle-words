@@ -47,4 +47,15 @@ definitions:
     example: She's running for veep.
   - text: Any vice president (in a corporation, organization, etc.)
     example: I have a meeting this afternoon at Citibank with some veeps.
+prev_word: veena
+next_word: veers
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

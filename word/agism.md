@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: The treating of a person or people, especially youth or seniors, differently
       from others based on assumptions or stereotypes relating to their age.
+prev_word: agios
+next_word: agist
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/sm/"
+  label: Ending in SM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

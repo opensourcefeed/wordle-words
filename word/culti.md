@@ -24,4 +24,15 @@ stats:
 neighbours:
 - cults
 - culty
+prev_word: culpa
+next_word: cults
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

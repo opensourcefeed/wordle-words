@@ -25,4 +25,15 @@ neighbours:
 - wanle
 - winze
 - zanze
+prev_word: wanty
+next_word: waqfs
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

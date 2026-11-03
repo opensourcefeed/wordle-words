@@ -30,4 +30,15 @@ neighbours:
 - ourie
 - owrie
 - rorie
+prev_word: oopsy
+next_word: ooses
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oo/"
+  label: Starting with OO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

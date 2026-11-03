@@ -32,4 +32,15 @@ definitions:
   - text: Comfortable.
     example: The robe and slippers were so warm and comfy she just fell asleep in
       her chair.
+prev_word: comet
+next_word: comic
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

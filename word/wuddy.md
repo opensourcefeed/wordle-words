@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _UDDY
   count: 9
+prev_word: wryly
+next_word: wudus
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wu/"
+  label: Starting with WU
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

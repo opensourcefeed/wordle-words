@@ -46,4 +46,15 @@ definitions:
       exertion.
   - text: To let (the tongue) hang from the mouth in this way.
     example: The ox stood lolling in the furrow.
+prev_word: lollo
+next_word: lolly
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

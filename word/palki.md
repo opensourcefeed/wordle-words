@@ -25,4 +25,15 @@ neighbours:
 - pakki
 - palpi
 - parki
+prev_word: palis
+next_word: palla
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ki/"
+  label: Ending in KI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

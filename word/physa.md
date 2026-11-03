@@ -21,4 +21,15 @@ stats:
 neighbours:
 - phyla
 - phyma
+prev_word: phynx
+next_word: piais
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -28,4 +28,15 @@ neighbours:
 - remex
 - repen
 - rumen
+prev_word: remap
+next_word: remet
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

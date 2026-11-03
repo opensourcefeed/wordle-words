@@ -39,4 +39,15 @@ definitions:
       arise in the case, and are not involved in it.
   - text: The report of a judgment made by one of the judges who has given it.
   - text: An arbitrament or award.
+prev_word: dicot
+next_word: dicto
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

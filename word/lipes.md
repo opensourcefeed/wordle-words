@@ -45,4 +45,15 @@ anagrams:
 trap:
   pattern: _IPES
   count: 8
+prev_word: lipas
+next_word: lipid
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

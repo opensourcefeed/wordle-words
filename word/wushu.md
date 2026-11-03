@@ -27,4 +27,13 @@ definitions:
   - text: A modern exhibition and full-contact sport based on traditional Chinese
       martial arts, created in the People's Republic of China. Also known as modern
       wushu or contemporary wushu.
+prev_word: wuses
+next_word: wussy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wu/"
+  label: Starting with WU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

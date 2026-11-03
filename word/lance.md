@@ -63,4 +63,15 @@ definitions:
   - text: To open with a lancet; to pierce
     example: to lance a vein or an abscess
   - text: To throw in the manner of a lance; to lanch.
+prev_word: lanas
+next_word: lanch
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - trait
 - ratti
+prev_word: titan
+next_word: titas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

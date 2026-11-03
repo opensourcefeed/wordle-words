@@ -27,4 +27,15 @@ neighbours:
 - honda
 - nonda
 - zonda
+prev_word: fomes
+next_word: fonds
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

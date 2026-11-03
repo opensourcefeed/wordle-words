@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A person's life.
+prev_word: nelis
+next_word: nemas
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -39,4 +39,15 @@ anagrams:
 - ortet
 - torte
 - toter
+prev_word: rotta
+next_word: rotto
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

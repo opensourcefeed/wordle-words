@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Carved talisman in humanoid form, common to the cultures of the Pacific
       Ocean.
+prev_word: tikia
+next_word: tikka
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

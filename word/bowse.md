@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _OWSE
   count: 6
+prev_word: bowrs
+next_word: boxed
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

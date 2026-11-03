@@ -78,4 +78,15 @@ definitions:
 - pos: verb
   defs:
   - text: To ventilate; to use a ventilator; to use ventilation.
+prev_word: venti
+next_word: venue
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,15 @@ neighbours:
 - mitis
 - titis
 - zitis
+prev_word: jisms
+next_word: jitty
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

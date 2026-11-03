@@ -38,4 +38,15 @@ definitions:
   - text: To leave out or exclude.
   - text: To fail to perform.
   - text: To neglect or take no notice of.
+prev_word: omiai
+next_word: omlah
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/om/"
+  label: Starting with OM
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

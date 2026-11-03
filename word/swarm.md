@@ -46,4 +46,15 @@ definitions:
   - text: To overwhelm as by an opposing army.
   - text: To climb by gripping with arms and legs alternately.
   - text: To breed multitudes.
+prev_word: swarf
+next_word: swart
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/rm/"
+  label: Ending in RM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

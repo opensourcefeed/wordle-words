@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To beat with a ruler (as a traditional school punishment).
+prev_word: ruled
+next_word: rules
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 44
 neighbours:
 - zoris
+prev_word: zoppo
+next_word: zoris
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

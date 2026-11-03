@@ -53,4 +53,15 @@ definitions:
     example: Rinse the dishes after you wash them.
   - text: To thoroughly defeat in an argument, fight or other competition.
     example: Checkmate!
+prev_word: rinks
+next_word: rioja
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

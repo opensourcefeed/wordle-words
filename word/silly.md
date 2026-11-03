@@ -62,4 +62,15 @@ definitions:
 - pos: adverb
   defs:
   - text: 'Sillily: in a silly manner.'
+prev_word: sills
+next_word: silos
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

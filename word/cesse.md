@@ -27,4 +27,15 @@ neighbours:
 - fesse
 - gesse
 - jesse
+prev_word: certy
+next_word: cesta
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -59,4 +59,15 @@ definitions:
   - text: To display fine qualities; to stand out as excellent.
     example: The sauce really makes this lamb sing.
   - text: To be capable of being sung; to produce a certain effect by being sung.
+prev_word: singe
+next_word: sinhs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

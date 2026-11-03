@@ -23,4 +23,15 @@ neighbours:
 - roany
 anagrams:
 - drony
+prev_word: rodes
+next_word: roers
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

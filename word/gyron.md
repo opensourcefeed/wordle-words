@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: A triangular form having an angle at the fess point and the opposite side
       at the edge of the escutcheon.
+prev_word: gyres
+next_word: gyros
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

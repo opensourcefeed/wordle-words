@@ -38,4 +38,15 @@ definitions:
   - text: Anxious or particular about petty details.
   - text: Having a tendency to fuss, cry, or be bad-tempered/ill-tempered (especially
       of babies).
+prev_word: fusks
+next_word: fusts
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

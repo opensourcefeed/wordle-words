@@ -49,4 +49,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(in South Africa) An encircling or overhanging wall of rock."
+prev_word: krang
+next_word: kranz
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

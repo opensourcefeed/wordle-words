@@ -43,4 +43,15 @@ definitions:
   - text: Shaped like a hunk, or piece; chunky.
   - text: All right; in good condition.
   - text: Even; square; on equal footing with
+prev_word: hunks
+next_word: hunts
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

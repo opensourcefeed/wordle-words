@@ -42,4 +42,15 @@ definitions:
   - text: The creation of sound effects, and their addition to film and TV images
   - text: A foley artist
   - text: A Foley catheter.
+prev_word: folds
+next_word: folia
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

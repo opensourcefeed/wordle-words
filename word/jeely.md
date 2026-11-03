@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _EELY
   count: 6
+prev_word: jeels
+next_word: jeeps
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

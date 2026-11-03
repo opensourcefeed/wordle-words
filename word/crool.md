@@ -29,4 +29,15 @@ neighbours:
 - crowl
 anagrams:
 - color
+prev_word: crook
+next_word: croon
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

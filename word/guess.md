@@ -40,4 +40,15 @@ definitions:
       in first person: "I guess".'
     example: '"I guess I''ll go to bed."'
   - text: To hit upon or reproduce by memory.
+prev_word: gudes
+next_word: guest
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

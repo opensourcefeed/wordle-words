@@ -57,4 +57,15 @@ definitions:
 - pos: verb
   defs:
   - text: To contest a bout.
+prev_word: bousy
+next_word: boutu
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

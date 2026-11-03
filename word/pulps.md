@@ -50,4 +50,15 @@ definitions:
   - text: To make or be made into pulp.
   - text: To beat to a pulp.
   - text: To deprive of pulp; to separate the pulp from.
+prev_word: pulmo
+next_word: pulpy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

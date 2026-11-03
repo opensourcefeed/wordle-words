@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: ROU_S
   count: 7
+prev_word: rouls
+next_word: round
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

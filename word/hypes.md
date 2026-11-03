@@ -53,4 +53,15 @@ definitions:
 - pos: noun
   defs:
   - text: A drug addict.
+prev_word: hyper
+next_word: hypha
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

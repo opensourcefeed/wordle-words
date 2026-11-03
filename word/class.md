@@ -90,4 +90,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Great; fabulous
+prev_word: clasp
+next_word: clast
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

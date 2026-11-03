@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: Unpoetic (of speech or writing); dull and unimaginative.
   - text: Behaving in a dull way (of a person); boring, tedious.
+prev_word: prost
+next_word: proto
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -61,4 +61,15 @@ definitions:
   - text: Tainted with something, especially a drug.
     example: I don't know what it was laced with, but he passed out a minute after
       drinking that first beer.
+prev_word: laccy
+next_word: lacer
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

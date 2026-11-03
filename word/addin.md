@@ -24,4 +24,15 @@ stats:
 neighbours:
 - admin
 - addio
+prev_word: adder
+next_word: addio
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

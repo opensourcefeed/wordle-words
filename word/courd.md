@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - crudo
 - duroc
+prev_word: courb
+next_word: coure
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

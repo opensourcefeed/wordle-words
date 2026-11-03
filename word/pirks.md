@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of fishing lure consisting of a metal bar with a treble hook attached.
+prev_word: pirai
+next_word: pirls
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

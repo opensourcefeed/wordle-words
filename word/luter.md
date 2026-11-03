@@ -35,4 +35,15 @@ neighbours:
 - lutes
 - luxer
 - muter
+prev_word: luted
+next_word: lutes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

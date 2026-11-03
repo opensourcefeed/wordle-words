@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: Penniless, poor, impecunious, broke.
   - text: Skinned
+prev_word: skins
+next_word: skios
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

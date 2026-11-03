@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _OVED
   count: 7
+prev_word: gouty
+next_word: goves
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

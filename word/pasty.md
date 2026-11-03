@@ -52,4 +52,15 @@ definitions:
   - text: Pale, lacking colour, having a pallor
     example: Are you feeling OK? You look a bit pasty.
   - text: White-skinned
+prev_word: pasts
+next_word: patas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

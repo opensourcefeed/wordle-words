@@ -24,4 +24,15 @@ stats:
 neighbours:
 - flour
 - fleer
+prev_word: flesh
+next_word: flews
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

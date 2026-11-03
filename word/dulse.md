@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A seaweed of a reddish-brown color (Palmaria palmata) which is sometimes
       eaten, as in Scotland.
+prev_word: dully
+next_word: dumas
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

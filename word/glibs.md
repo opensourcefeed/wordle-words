@@ -25,4 +25,15 @@ neighbours:
 - glims
 - glits
 - globs
+prev_word: glias
+next_word: glide
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: One to whom money is paid.
+prev_word: payed
+next_word: payer
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

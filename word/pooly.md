@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: POO_Y
   count: 8
+prev_word: pools
+next_word: poons
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

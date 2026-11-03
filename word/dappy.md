@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _APPY
   count: 10
+prev_word: dants
+next_word: daraf
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

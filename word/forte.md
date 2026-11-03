@@ -46,4 +46,15 @@ definitions:
   - text: A strength or talent.
     example: He writes respectably, but poetry is not his forte.
   - text: The strong part of a sword blade, close to the hilt.
+prev_word: forms
+next_word: forth
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: In match play, leading the match by the same number of holes as remain to
       be played.
+prev_word: dorms
+next_word: dorps
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

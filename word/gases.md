@@ -89,4 +89,15 @@ definitions:
   - text: To give a vehicle more fuel in order to accelerate it.
     example: The cops are coming. Gas it!
   - text: To fill (a vehicle's fuel tank) with fuel.
+prev_word: garum
+next_word: gashy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

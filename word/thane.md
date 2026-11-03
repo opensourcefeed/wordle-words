@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A rank of nobility in pre-Norman England, roughly equivalent to baron.
+prev_word: thana
+next_word: thang
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

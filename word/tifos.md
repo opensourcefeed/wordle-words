@@ -28,4 +28,15 @@ neighbours:
 - tiros
 anagrams:
 - foist
+prev_word: tiffs
+next_word: tifts
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

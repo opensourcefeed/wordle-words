@@ -32,4 +32,13 @@ neighbours:
 trap:
   pattern: PARE_
   count: 7
+prev_word: pares
+next_word: parev
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

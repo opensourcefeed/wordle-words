@@ -27,4 +27,15 @@ definitions:
   - text: A container from which fluids are intended to be drunk, having one handle
       and usually a base in the form of a head.
   - text: A Thracian drinking horn.
+prev_word: rhyne
+next_word: riads
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/rh/"
+  label: Starting with RH
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

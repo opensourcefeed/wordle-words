@@ -24,4 +24,13 @@ stats:
 neighbours:
 - quonk
 - quork
+prev_word: quoth
+next_word: quoys
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

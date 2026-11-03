@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: "(often in the plural) A subdivision of currency, equal to one hundredth
       of a Croatian kuna"
+prev_word: lions
+next_word: lipes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

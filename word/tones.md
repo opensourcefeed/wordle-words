@@ -79,4 +79,15 @@ definitions:
   - text: To make (something) firmer
   - text: To harmonize, especially in colour
   - text: To utter with an affected tone.
+prev_word: toner
+next_word: toney
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _INER
   count: 8
+prev_word: binds
+next_word: bines
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

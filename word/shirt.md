@@ -43,4 +43,15 @@ definitions:
     example: It can take a while to learn how to iron a shirt properly.
   - text: An interior lining in a blast furnace.
   - text: A member of the shirt-wearing team in a shirts and skins game.
+prev_word: shirs
+next_word: shish
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _URRS
   count: 8
+prev_word: turps
+next_word: tushy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

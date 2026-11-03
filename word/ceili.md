@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A social event with traditional Irish or Scottish music and dancing.
+prev_word: ceiba
+next_word: ceils
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

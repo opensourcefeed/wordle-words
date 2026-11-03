@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: The papal crown.
   - text: An ornamental coronet.
+prev_word: tians
+next_word: tiare
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

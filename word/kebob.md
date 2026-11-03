@@ -24,4 +24,15 @@ stats:
 neighbours:
 - kebab
 - kabob
+prev_word: kebar
+next_word: kecks
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ob/"
+  label: Ending in OB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

@@ -21,4 +21,13 @@ stats:
   starter_top_percent: 47
 neighbours:
 - hyles
+prev_word: hylas
+next_word: hyles
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

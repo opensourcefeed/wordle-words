@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: SI_ED
   count: 7
+prev_word: sinus
+next_word: sipes
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

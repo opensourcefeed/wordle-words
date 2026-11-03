@@ -40,4 +40,15 @@ definitions:
       Empire or the modern lower house of the Federal Assembly (the Russian national
       parliament).
   - text: A drink mixing wine and vodka.
+prev_word: dulse
+next_word: dumbo
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

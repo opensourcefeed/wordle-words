@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 46
 anagrams:
 - umpie
+prev_word: pumas
+next_word: pumps
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

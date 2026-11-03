@@ -39,4 +39,15 @@ definitions:
     example: Turn the disc over, after it has finished.
   - text: The flat surface of an organ, as a leaf, any flat, round growth.
   - text: "(ultimate frisbee) A Frisbee."
+prev_word: disco
+next_word: dishy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

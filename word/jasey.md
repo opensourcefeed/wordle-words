@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 31
 neighbours:
 - jakey
+prev_word: jarul
+next_word: jaspe
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

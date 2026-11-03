@@ -59,4 +59,15 @@ definitions:
       votes cast is 3,270.
   - text: "(used as an intensifier) Complete; absolute."
     example: He is a total failure.
+prev_word: tosyl
+next_word: toted
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

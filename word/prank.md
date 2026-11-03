@@ -54,4 +54,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Full of gambols or tricks.
+prev_word: prang
+next_word: praos
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

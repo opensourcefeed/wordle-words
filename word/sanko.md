@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - kaons
 - koans
+prev_word: sangs
+next_word: sansa
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

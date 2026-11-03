@@ -49,4 +49,15 @@ definitions:
       or should be, paid.
   - text: A swaption which gives its holder the option to enter into a swap in which
       they pay the fixed leg and receive the floating leg.
+prev_word: payee
+next_word: payor
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

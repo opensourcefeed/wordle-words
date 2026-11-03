@@ -45,4 +45,15 @@ definitions:
     example: I like to collect stamps from different countries as a hobby.
   - text: An extinct breed of horse native to the British Isles, also known as the
       Irish Hobby
+prev_word: hoast
+next_word: hobos
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

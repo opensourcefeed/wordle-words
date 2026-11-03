@@ -21,4 +21,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 41
+prev_word: nudzh
+next_word: nuffs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/vo/"
+  label: Ending in VO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

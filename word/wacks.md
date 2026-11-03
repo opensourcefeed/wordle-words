@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: An eccentric; an oddball; a weirdo.
+prev_word: wacko
+next_word: wacky
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

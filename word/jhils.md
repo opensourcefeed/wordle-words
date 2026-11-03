@@ -30,4 +30,13 @@ definitions:
   - text: A pond, marsh, lake or similar wetland area, usually with significant vegetation
       providing shelter and/or food to a variety of aquatic and semi-aquatic animal
       species.
+prev_word: jheel
+next_word: jiaos
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

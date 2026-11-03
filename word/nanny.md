@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: To serve as a nanny.
   - text: To treat like a nanny's charges; to coddle.
+prev_word: nanna
+next_word: nanos
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

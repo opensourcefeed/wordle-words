@@ -67,4 +67,15 @@ definitions:
   defs:
   - text: Containing grapes or having a grape flavor.
   - text: Of a dark purplish red colour.
+prev_word: grant
+next_word: graph
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -91,4 +91,15 @@ definitions:
 - pos: verb
   defs:
   - text: To plunder; to pillage, rob.
+prev_word: peeky
+next_word: peely
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

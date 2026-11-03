@@ -88,4 +88,15 @@ definitions:
   - text: To threaten to overthrow.
     example: The experience shook my religious belief.
   - text: To be agitated; to lose firmness.
+prev_word: shaka
+next_word: shako
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

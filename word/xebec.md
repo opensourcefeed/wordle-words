@@ -30,4 +30,11 @@ definitions:
   defs:
   - text: A small two-masted, and later three-masted, Mediterranean transport ship
       with an overhanging bow and stern.
+prev_word: wythe
+next_word: xenia
+hubs:
+- url: "/starting-with/x/"
+  label: Starting with X
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

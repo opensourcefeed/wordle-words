@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _UNGS
   count: 8
+prev_word: fungo
+next_word: funic
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

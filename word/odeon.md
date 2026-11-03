@@ -27,4 +27,15 @@ definitions:
   defs:
   - text: An ancient Greek or Roman building used for performances of music and poetry.
   - text: A theatre or concert hall.
+prev_word: oddly
+next_word: odeum
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/od/"
+  label: Starting with OD
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

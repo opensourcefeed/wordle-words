@@ -26,4 +26,15 @@ neighbours:
 - kheth
 - shets
 - whets
+prev_word: kheth
+next_word: khirs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

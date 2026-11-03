@@ -85,4 +85,15 @@ definitions:
     example: You better get your words memorised before rehearsal next Saturday.
   - text: Lyrics.
     example: The composer set the words to music.
+prev_word: woozy
+next_word: wordy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

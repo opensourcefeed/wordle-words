@@ -65,4 +65,15 @@ definitions:
     example: The clouds loomed over the mountains.
   - text: To appear in an exaggerated or threatening form; to be imminent.
   - text: To rise and to be eminent; to be elevated or ennobled, in a moral sense.
+prev_word: looky
+next_word: loons
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

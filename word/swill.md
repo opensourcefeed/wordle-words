@@ -58,4 +58,15 @@ definitions:
   - text: "(of a liquid) To move around or over a surface."
   - text: To inebriate; to fill with drink.
   - text: To feed swill to (pigs).
+prev_word: swile
+next_word: swims
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

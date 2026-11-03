@@ -20,4 +20,13 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 31
+prev_word: plyer
+next_word: poach
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

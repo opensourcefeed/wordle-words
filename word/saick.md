@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: S_ICK
   count: 6
+prev_word: saice
+next_word: saics
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

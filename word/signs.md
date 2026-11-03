@@ -59,4 +59,15 @@ definitions:
   - text: To make a mark
   - text: To make the sign of the cross
   - text: To indicate
+prev_word: signa
+next_word: sigri
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

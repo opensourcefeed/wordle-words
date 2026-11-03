@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Picture
+prev_word: picas
+next_word: picey
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

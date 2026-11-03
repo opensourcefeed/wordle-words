@@ -26,4 +26,15 @@ neighbours:
 - regar
 anagrams:
 - urger
+prev_word: regot
+next_word: rehab
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

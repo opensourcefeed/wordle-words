@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _AMMY
   count: 9
+prev_word: lamia
+next_word: lamps
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

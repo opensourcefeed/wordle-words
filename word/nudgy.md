@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - dungy
 - gundy
+prev_word: nudge
+next_word: nudie
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

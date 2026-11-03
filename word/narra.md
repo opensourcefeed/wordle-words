@@ -28,4 +28,15 @@ neighbours:
 - narre
 - parra
 - yarra
+prev_word: narod
+next_word: narre
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

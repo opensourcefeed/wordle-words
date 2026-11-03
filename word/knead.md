@@ -42,4 +42,15 @@ definitions:
   - text: To treat or form as if by kneading; to beat.
   - text: "(of cats) To make an alternating pressing motion with the two front paws."
   - text: To mix thoroughly; form into a homogeneous compound.
+prev_word: knawe
+next_word: kneed
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

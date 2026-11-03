@@ -28,4 +28,15 @@ neighbours:
 - woold
 anagrams:
 - waldo
+prev_word: woady
+next_word: wocks
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

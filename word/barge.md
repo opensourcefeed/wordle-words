@@ -61,4 +61,15 @@ definitions:
   defs:
   - text: To intrude or break through, particularly in an unwelcome or clumsy manner.
   - text: To push someone.
+prev_word: barfy
+next_word: baric
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 87
 neighbours:
 - comic
+prev_word: comic
+next_word: comma
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

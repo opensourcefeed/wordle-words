@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _INGE
   count: 10
+prev_word: winey
+next_word: wings
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

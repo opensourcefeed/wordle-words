@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: A repeated action; a doing again, refurbishment, etc.
+prev_word: redon
+next_word: redox
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -22,4 +22,15 @@ neighbours:
 - bundu
 - munds
 - muntu
+prev_word: munds
+next_word: munga
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/du/"
+  label: Ending in DU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

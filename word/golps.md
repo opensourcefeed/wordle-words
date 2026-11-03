@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - glops
 - splog
+prev_word: golpe
+next_word: gombo
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

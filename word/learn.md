@@ -50,4 +50,15 @@ definitions:
     example: I learn medicine.
   - text: To come to know; to become informed of; to find out.
     example: He just learned that he will be sacked.
+prev_word: leare
+next_word: lears
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

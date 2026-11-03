@@ -61,4 +61,15 @@ definitions:
   defs:
   - text: To grumble.
   - text: To pine, lament, or long.
+prev_word: honer
+next_word: honey
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

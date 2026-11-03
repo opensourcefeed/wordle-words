@@ -69,4 +69,15 @@ definitions:
   - text: "(of a stomach or gastrointestinal tract, referred to as stomach) Feeling
       unwell, nauseated, or ready to vomit."
     example: His stomach was upset, so he didn't want to move.
+prev_word: upsee
+next_word: upsey
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/up/"
+  label: Starting with UP
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

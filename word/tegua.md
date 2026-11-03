@@ -25,4 +25,15 @@ stats:
 neighbours:
 - tagua
 - tegus
+prev_word: teggs
+next_word: tegus
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ua/"
+  label: Ending in UA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

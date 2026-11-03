@@ -37,4 +37,15 @@ definitions:
       at sea, or to arrest attention, as in surveying, or in leaving traces of an
       exploring party, etc.
   - text: A cairn terrier.
+prev_word: caird
+next_word: cajon
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

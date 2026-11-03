@@ -36,4 +36,13 @@ definitions:
   defs:
   - text: The nest of a bird of prey.
   - text: Any high and remote but commanding place.
+prev_word: aeons
+next_word: aeros
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

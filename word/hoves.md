@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: HO_ES
   count: 9
+prev_word: hover
+next_word: howay
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

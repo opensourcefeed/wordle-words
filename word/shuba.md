@@ -28,4 +28,15 @@ anagrams:
 - habus
 - subah
 - subha
+prev_word: shtum
+next_word: shuck
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

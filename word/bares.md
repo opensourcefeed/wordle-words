@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To uncover; to reveal.
     example: She bared her teeth at him.
+prev_word: barer
+next_word: barfi
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

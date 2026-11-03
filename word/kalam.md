@@ -23,4 +23,15 @@ stats:
 neighbours:
 - kalas
 - malam
+prev_word: kakis
+next_word: kalas
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

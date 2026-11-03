@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: PI_ES
   count: 7
+prev_word: pixel
+next_word: pixie
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

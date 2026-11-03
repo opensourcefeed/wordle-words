@@ -49,4 +49,15 @@ definitions:
   - text: The resin of the trees or Aquilaria malaccensis (syn. Aquilaria agallocha),
       known for their fragrant odour.
   - text: The wood of the agalloch.
+prev_word: aloed
+next_word: aloft
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

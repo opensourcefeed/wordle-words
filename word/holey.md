@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _OLEY
   count: 6
+prev_word: holes
+next_word: holks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

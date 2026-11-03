@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(slightly obsolete) A nightclub where dancing takes place."
+prev_word: disci
+next_word: discs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

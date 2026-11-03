@@ -32,4 +32,15 @@ definitions:
   - text: Expressing mild emotion, such as exasperation or frustration.
     example: Lordy! Where's he off to now?
   - text: Expressing strong emotion, such as amazement.
+prev_word: lords
+next_word: lorel
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

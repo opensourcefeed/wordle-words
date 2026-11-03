@@ -27,4 +27,15 @@ definitions:
 - pos: verb
   defs:
   - text: To loiter about casually; to hang out.
+prev_word: leone
+next_word: leper
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

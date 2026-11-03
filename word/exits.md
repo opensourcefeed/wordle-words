@@ -50,4 +50,15 @@ definitions:
 - pos: noun
   defs:
   - text: Income, returns, revenue.
+prev_word: exite
+next_word: exode
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

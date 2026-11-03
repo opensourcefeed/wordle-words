@@ -60,4 +60,15 @@ definitions:
   - text: To drag or draw, as a snake from a hole; often with out.
   - text: To wind round spirally, as a large rope with a smaller, or with cord, the
       small rope lying in the spaces between the strands of the large one; to worm.
+prev_word: snail
+next_word: snaky
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

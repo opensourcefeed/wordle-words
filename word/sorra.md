@@ -33,4 +33,15 @@ neighbours:
 - surra
 anagrams:
 - roars
+prev_word: sorns
+next_word: sorry
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

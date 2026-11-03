@@ -50,4 +50,15 @@ definitions:
   - text: A narrow drain or channel used in the irrigation of land.
   - text: A broad chisel used to bring stone to a nearly smooth surface.
   - text: The grooved surface of stone finished by the drove chisel.
+prev_word: drouk
+next_word: drown
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

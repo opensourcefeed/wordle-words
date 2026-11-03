@@ -30,4 +30,15 @@ neighbours:
 - zoeas
 anagrams:
 - azole
+prev_word: zoeae
+next_word: zoeas
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -49,4 +49,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(Derry) A collective word usually for children."
+prev_word: wails
+next_word: wairs
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

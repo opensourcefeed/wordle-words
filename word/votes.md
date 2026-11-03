@@ -59,4 +59,15 @@ definitions:
   - text: To choose or grant by means of a vote, or by general consent
     example: The depository may vote shares on behalf of investors who have not submitted
       instruction to the bank.
+prev_word: voter
+next_word: vouch
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

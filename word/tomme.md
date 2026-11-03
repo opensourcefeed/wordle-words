@@ -28,4 +28,15 @@ neighbours:
 - momme
 - pomme
 - tommy
+prev_word: tomin
+next_word: tommy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

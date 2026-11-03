@@ -28,4 +28,15 @@ neighbours:
 - smalm
 anagrams:
 - halms
+prev_word: shall
+next_word: shalt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/lm/"
+  label: Ending in LM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

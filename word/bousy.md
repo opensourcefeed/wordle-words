@@ -29,4 +29,15 @@ neighbours:
 - tousy
 anagrams:
 - buoys
+prev_word: bouse
+next_word: bouts
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

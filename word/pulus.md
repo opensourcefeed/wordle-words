@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: PUL_S
   count: 7
+prev_word: pulse
+next_word: pulut
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

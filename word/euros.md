@@ -43,4 +43,13 @@ definitions:
 - pos: noun
   defs:
   - text: Macropus robustus, a wallaroo (macropod species).
+prev_word: eupad
+next_word: eusol
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

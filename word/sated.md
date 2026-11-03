@@ -56,4 +56,15 @@ definitions:
   - text: In a state of complete and thorough satisfaction; having ones appetite fully
       satisfied, by having enough of something.
   - text: Quelled of thirst or hunger.
+prev_word: satay
+next_word: satem
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

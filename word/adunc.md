@@ -19,4 +19,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 51
+prev_word: adult
+next_word: adust
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

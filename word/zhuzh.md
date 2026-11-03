@@ -33,4 +33,11 @@ definitions:
   defs:
   - text: To blend ingredients together using an electric food mixer.
     example: Throw it all in a blender and zhoosh it until it's creamy smooth.
+prev_word: zhush
+next_word: zibet
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

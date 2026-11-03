@@ -30,4 +30,15 @@ neighbours:
 - whang
 anagrams:
 - ganch
+prev_word: chana
+next_word: chank
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

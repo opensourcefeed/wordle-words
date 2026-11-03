@@ -28,4 +28,11 @@ definitions:
   defs:
   - text: A member of the first generation of Japanese immigrants to North America,
       South America or Australia.
+prev_word: isnae
+next_word: issue
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

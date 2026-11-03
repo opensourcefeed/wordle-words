@@ -29,4 +29,15 @@ neighbours:
 - choco
 anagrams:
 - coach
+prev_word: chack
+next_word: chado
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

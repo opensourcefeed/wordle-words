@@ -25,4 +25,13 @@ neighbours:
 - lulus
 - pulus
 - sulus
+prev_word: zowie
+next_word: zupan
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

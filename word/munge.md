@@ -44,4 +44,15 @@ definitions:
       in information about another individual."
     example: It looks like this record is munged—it has this person's birth date,
       but his father's death date
+prev_word: munga
+next_word: mungi
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

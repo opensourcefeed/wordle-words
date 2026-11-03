@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Any of several irises that have a fragrant root, especially Iris × germanica.
   - text: The fragrant root of such an iris.
+prev_word: orpin
+next_word: ortet
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

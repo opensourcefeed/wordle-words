@@ -26,4 +26,13 @@ neighbours:
 - durzi
 anagrams:
 - izard
+prev_word: darts
+next_word: dashi
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

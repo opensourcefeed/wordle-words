@@ -39,4 +39,15 @@ definitions:
   - text: To express sadness or sorrow for; to grieve over (especially a death).
   - text: To utter in a sorrowful manner.
   - text: To wear mourning.
+prev_word: moups
+next_word: mouse
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

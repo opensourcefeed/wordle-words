@@ -38,4 +38,15 @@ definitions:
     example: The hunters flushed the tiger from the canebrake.
   - text: To take suddenly to flight, especially from cover.
     example: A covey of quail flushed from the undergrowth.
+prev_word: flurr
+next_word: flute
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

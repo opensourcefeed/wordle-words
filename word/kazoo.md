@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To play the kazoo.
+prev_word: kazis
+next_word: kbars
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

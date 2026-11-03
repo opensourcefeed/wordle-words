@@ -47,4 +47,15 @@ definitions:
   - text: The corporeal body, as distinguished from the psyche or soul and the pneuma
       or spirit.
   - text: The bulbous part of a neuron, containing the cell nucleus.
+prev_word: soman
+next_word: sonar
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

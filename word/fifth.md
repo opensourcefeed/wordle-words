@@ -47,4 +47,15 @@ definitions:
 - pos: adjective
   defs:
   - text: The ordinal form of the number five.
+prev_word: fifis
+next_word: fifty
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

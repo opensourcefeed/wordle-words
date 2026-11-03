@@ -39,4 +39,15 @@ definitions:
 - pos: verb
   defs:
   - text: To scan with radar, or as if with radar.
+prev_word: racon
+next_word: raddi
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - lunar
 - urnal
+prev_word: ulnae
+next_word: ulnas
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ul/"
+  label: Starting with UL
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

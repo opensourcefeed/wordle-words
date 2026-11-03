@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: Oilseed rape (Brassica napus), cultivated for its seeds, which yield an
       oil, valued for illuminating and lubricating purposes.
+prev_word: colts
+next_word: comae
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

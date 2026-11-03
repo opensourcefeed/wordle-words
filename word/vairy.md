@@ -33,4 +33,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(of a field or charge) Divided into vair-bells of two or more tinctures."
+prev_word: vairs
+next_word: vajra
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

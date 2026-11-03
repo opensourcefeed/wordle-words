@@ -39,4 +39,15 @@ definitions:
   - text: Mist, fog, vapour.
     example: 1972, All around their bubble of stupidity I could feel the brume of
       the dragon. — John Gardner, Grendel (André Deutsch 1972, p. 77)
+prev_word: brule
+next_word: brung
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

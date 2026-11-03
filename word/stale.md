@@ -85,4 +85,15 @@ definitions:
       reference to checks.
   - text: 'Of data: out of date; not synchronized with the newest copy.'
     example: The bug was found to be caused by stale data in the cache.
+prev_word: stake
+next_word: stalk
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

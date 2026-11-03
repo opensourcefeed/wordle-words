@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - baron
 - borna
+prev_word: abore
+next_word: abort
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

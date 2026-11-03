@@ -33,4 +33,15 @@ definitions:
   - text: In the Roman Catholic and some other churches, a cleric acting as local
       representative of a higher ranking member of the clergy.
   - text: A person acting on behalf of, or representing, another person.
+prev_word: vibey
+next_word: viced
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -62,4 +62,15 @@ definitions:
   defs:
   - text: That has been cooked by baking.
   - text: High on cannabis.
+prev_word: bajus
+next_word: baken
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

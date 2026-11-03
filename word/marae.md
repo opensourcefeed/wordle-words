@@ -48,4 +48,15 @@ definitions:
   - text: A Polynesian sacred altar or enclosure
   - text: The courtyard of a Maori wharenui or meeting-house and the buildings around
       it.
+prev_word: maqui
+next_word: marah
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

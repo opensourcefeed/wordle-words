@@ -38,4 +38,15 @@ definitions:
   - text: A train that runs on such an underground railway.
   - text: An urban rapid transit light railway
   - text: A train that runs on such a railway.
+prev_word: metre
+next_word: metta
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

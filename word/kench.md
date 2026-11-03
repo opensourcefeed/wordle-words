@@ -29,4 +29,15 @@ neighbours:
 trap:
   pattern: _ENCH
   count: 6
+prev_word: kenaf
+next_word: kendo
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

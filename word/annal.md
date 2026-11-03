@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: The record of a single event or item.
+prev_word: anlas
+next_word: annan
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

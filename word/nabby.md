@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _ABBY
   count: 7
+prev_word: nabam
+next_word: nabes
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -73,4 +73,15 @@ definitions:
   - text: To exceed a score of 21.
   - text: To break in (an animal).
   - text: To ejaculate; to eject semen.
+prev_word: busti
+next_word: busty
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

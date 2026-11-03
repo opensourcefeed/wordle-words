@@ -29,4 +29,15 @@ neighbours:
 - judos
 - kudos
 - ludos
+prev_word: budis
+next_word: buena
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

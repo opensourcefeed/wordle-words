@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A wilderness region, away from cities.
+prev_word: bundt
+next_word: bundy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/du/"
+  label: Ending in DU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: A covering for the head and body worn by Arabs.
+prev_word: haika
+next_word: haiku
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

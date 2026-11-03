@@ -45,4 +45,15 @@ definitions:
   - text: A task that has been noted as one that must be completed, especially on
       a list.
     example: I have so many to-dos, I don't know where to start.
+prev_word: todea
+next_word: toeas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: An animal which has a genetic recessive variation that causes the guard
       hairs to be very short or fully lacking.
+prev_word: rewth
+next_word: rezes
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

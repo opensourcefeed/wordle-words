@@ -30,4 +30,15 @@ neighbours:
 - spode
 anagrams:
 - paedo
+prev_word: apnea
+next_word: apods
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

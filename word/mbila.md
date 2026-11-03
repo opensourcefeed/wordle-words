@@ -25,4 +25,13 @@ neighbours:
 - mbira
 anagrams:
 - limba
+prev_word: mbars
+next_word: mbira
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

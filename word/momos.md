@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: A type of Tibetan, Ladakhi and Nepali dumpling made with a simple flour
       and water dough.
+prev_word: mommy
+next_word: mompe
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _INED
   count: 9
+prev_word: vinca
+next_word: viner
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

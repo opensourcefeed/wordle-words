@@ -64,4 +64,15 @@ definitions:
   - text: To oppress or harass by forcing to do hard and unnecessary work.
   - text: In a rodeo, to assist the bulldogger by keeping (the steer) running in a
       straight line.
+prev_word: hazer
+next_word: hazle
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

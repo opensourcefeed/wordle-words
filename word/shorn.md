@@ -48,4 +48,15 @@ definitions:
   - text: To make a vertical cut in the coal.
   - text: To reap, as grain.
   - text: To deprive of property; to fleece.
+prev_word: shorl
+next_word: short
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

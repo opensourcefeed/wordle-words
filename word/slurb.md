@@ -27,4 +27,13 @@ neighbours:
 anagrams:
 - blurs
 - burls
+prev_word: slunk
+next_word: slurp
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

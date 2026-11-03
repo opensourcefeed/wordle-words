@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _AMMY
   count: 9
+prev_word: samfu
+next_word: sampi
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

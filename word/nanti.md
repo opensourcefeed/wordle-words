@@ -31,4 +31,15 @@ neighbours:
 - tanti
 anagrams:
 - ninta
+prev_word: nante
+next_word: nanto
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

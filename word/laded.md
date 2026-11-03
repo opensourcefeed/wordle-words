@@ -54,4 +54,15 @@ definitions:
   - text: To transfer (molten glass) from the pot to the forming table, in making
       plate glass.
   - text: To admit water by leakage.
+prev_word: laddy
+next_word: ladee
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -56,4 +56,13 @@ definitions:
 - pos: verb
   defs:
   - text: To make a fagot of; to bind together in a fagot or bundle.
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

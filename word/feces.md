@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Digested waste material (typically solid or semi-solid) discharged from
       the bowels; excrement.
+prev_word: fecal
+next_word: fecht
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

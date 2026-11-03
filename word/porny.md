@@ -37,4 +37,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Reminiscent of pornography; somewhat pornographic.
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

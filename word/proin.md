@@ -28,4 +28,15 @@ anagrams:
 - orpin
 - porin
 - prion
+prev_word: progs
+next_word: proke
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

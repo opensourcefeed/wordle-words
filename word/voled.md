@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _OLED
   count: 10
+prev_word: volar
+next_word: voles
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

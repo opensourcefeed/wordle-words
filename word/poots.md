@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(babytalk) A fart, perhaps a relatively quiet one."
+prev_word: poort
+next_word: pooty
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

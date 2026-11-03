@@ -57,4 +57,15 @@ definitions:
   - text: To march on; to go forward in haste.
   - text: To move or march as if in a crowd.
     example: The children trooped into the room.
+prev_word: trons
+next_word: trooz
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

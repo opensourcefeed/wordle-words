@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 52
 neighbours:
 - undee
+prev_word: urbia
+next_word: ureal
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

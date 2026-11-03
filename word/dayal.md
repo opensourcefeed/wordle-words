@@ -24,4 +24,15 @@ neighbours:
 - datal
 - dayan
 - gayal
+prev_word: dawts
+next_word: dayan
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

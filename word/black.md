@@ -99,4 +99,15 @@ definitions:
       is dark (or black); in taxonomy, especially: dark in comparison to another species
       with the same base name.'
   - text: Foul; dirty.
+prev_word: blabs
+next_word: blade
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

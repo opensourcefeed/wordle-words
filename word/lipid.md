@@ -33,4 +33,15 @@ definitions:
   - text: Any of a group of organic compounds including the fats, oils, waxes, sterols,
       and triglycerides. Lipids are characterized by being insoluble in water, and
       account for most of the fat present in the human body.
+prev_word: lipes
+next_word: lipin
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

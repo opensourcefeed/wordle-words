@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: MAR_A
   count: 6
+prev_word: marly
+next_word: marms
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

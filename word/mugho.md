@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 87
 neighbours:
 - mucho
+prev_word: muggy
+next_word: mugil
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ho/"
+  label: Ending in HO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

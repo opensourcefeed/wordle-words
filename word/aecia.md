@@ -25,4 +25,13 @@ stats:
   starter_top_percent: 29
 neighbours:
 - pecia
+prev_word: adzes
+next_word: aedes
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -31,4 +31,15 @@ neighbours:
 - roary
 - toady
 - woady
+prev_word: roads
+next_word: roake
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

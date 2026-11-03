@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: DRA_S
   count: 7
+prev_word: drape
+next_word: drapy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

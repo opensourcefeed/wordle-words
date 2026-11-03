@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: The African tropical hardwood of the tree Nauclea diderrichii.
+prev_word: opens
+next_word: opera
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/op/"
+  label: Starting with OP
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

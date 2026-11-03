@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: A small mountain lake, especially in Northern England.
   - text: "(chiefly Montana) One of many small mountain lakes or ponds."
+prev_word: tarka
+next_word: taroc
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

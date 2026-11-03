@@ -50,4 +50,15 @@ definitions:
   - text: A quiet, peaceful place or situation separated from surrounding noise or
       bustle.
     example: The park was an oasis in the middle of the busy city.
+prev_word: oasal
+next_word: oasis
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oa/"
+  label: Starting with OA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

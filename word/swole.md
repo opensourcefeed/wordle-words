@@ -59,4 +59,15 @@ definitions:
       aroused, hard.'
     example: a swole dick  her titties got me swole
   - text: 'Followed by up: upset; experiencing strong negative emotion.'
+prev_word: swobs
+next_word: swoll
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -28,4 +28,13 @@ neighbours:
 - plows
 anagrams:
 - powlt
+prev_word: plows
+next_word: ploye
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

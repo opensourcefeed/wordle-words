@@ -44,4 +44,15 @@ definitions:
       origin.
   - text: "(sometimes derogatory) A person of diverse ancestry."
   - text: An idiot, a stupid person.
+prev_word: mutti
+next_word: mutum
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,13 @@ neighbours:
 - stary
 anagrams:
 - yarto
+prev_word: otaku
+next_word: other
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

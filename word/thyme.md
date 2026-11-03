@@ -38,4 +38,15 @@ definitions:
   - text: Any plant of the labiate genus Thymus, such as the garden thyme, Thymus
       vulgaris, a warm, pungent aromatic, that is much used to give a relish to seasoning
       and soups.
+prev_word: thuya
+next_word: thymi
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

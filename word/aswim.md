@@ -30,4 +30,15 @@ definitions:
   - text: Swimming or immersed (in or with something).
   - text: Brimming with liquid.
     example: eyes aswim with tears
+prev_word: asway
+next_word: asyla
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

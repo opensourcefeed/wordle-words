@@ -54,4 +54,15 @@ definitions:
   - text: To draw through an eye or aperture.
   - text: To plough into ridges by turning the earth of two furrows together.
   - text: To practice robbery on the seas; to voyage about on the seas as a pirate.
+prev_word: routs
+next_word: roven
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

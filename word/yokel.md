@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: An unsophisticated person.
   - text: A person of rural background.
+prev_word: yokeg
+next_word: yoker
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

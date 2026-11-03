@@ -21,4 +21,15 @@ stats:
 neighbours:
 - sophs
 - sypes
+prev_word: sypes
+next_word: syrah
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

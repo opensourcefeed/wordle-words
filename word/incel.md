@@ -41,4 +41,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(pickup community) Not having sexual relations despite wishing to."
+prev_word: incas
+next_word: incle
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

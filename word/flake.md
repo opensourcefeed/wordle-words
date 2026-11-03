@@ -58,4 +58,15 @@ definitions:
   - text: To store an item such as rope or sail in layers
     example: The line is flaked into the container for easy attachment and deployment.
   - text: To hit (another person).
+prev_word: flair
+next_word: flaks
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

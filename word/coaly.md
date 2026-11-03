@@ -28,4 +28,15 @@ neighbours:
 - coals
 - colly
 - cooly
+prev_word: coals
+next_word: coapt
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

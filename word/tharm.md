@@ -26,4 +26,15 @@ neighbours:
 - thaim
 - thars
 - therm
+prev_word: thanx
+next_word: thars
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/rm/"
+  label: Ending in RM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

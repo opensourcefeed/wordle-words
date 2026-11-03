@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: SCRA_
   count: 9
+prev_word: scrat
+next_word: scray
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/aw/"
+  label: Ending in AW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

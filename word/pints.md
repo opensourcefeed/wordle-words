@@ -44,4 +44,15 @@ definitions:
   - text: "(metonym) A pint of milk."
     example: Please leave three pints tomorrow, milkman.
   - text: "(metonymy) A glass of beer or cider, served by the pint."
+prev_word: pinto
+next_word: pinup
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A family of musical styles from parts of South America.
   - text: Any of the dances associated with the cueca musical style.
+prev_word: cuddy
+next_word: cuffo
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

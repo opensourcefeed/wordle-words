@@ -57,4 +57,15 @@ definitions:
 - pos: adverb
   defs:
   - text: Sunny side up
+prev_word: sunns
+next_word: sunts
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

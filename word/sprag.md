@@ -37,4 +37,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Lively, full of energy
+prev_word: sprad
+next_word: sprat
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ag/"
+  label: Ending in AG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

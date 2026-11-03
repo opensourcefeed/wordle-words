@@ -33,4 +33,15 @@ definitions:
     example: I do not keep up with all the latest juicy rumors.
   - text: "(of a blow, strike, etc.) Strong, painful."
   - text: Voluptuous, curvy, thick.
+prev_word: juice
+next_word: jujus
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

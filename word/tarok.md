@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - korat
 - troak
+prev_word: taroc
+next_word: taros
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ok/"
+  label: Ending in OK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

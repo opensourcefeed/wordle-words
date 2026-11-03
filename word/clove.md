@@ -48,4 +48,15 @@ definitions:
       native to the Moluccas (Indonesian islands), which produces the spice.
   - text: An old English measure of weight, containing 7 pounds (3.2 kg), i.e. half
       a stone.
+prev_word: clout
+next_word: clown
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

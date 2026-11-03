@@ -25,4 +25,15 @@ stats:
 neighbours:
 - khaki
 - keaki
+prev_word: kiack
+next_word: kiang
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ki/"
+  label: Ending in KI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: Italian-American male; an American male of Italian extraction as a member
       of the working-class.
+prev_word: guide
+next_word: guids
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

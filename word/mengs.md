@@ -30,4 +30,15 @@ neighbours:
 - mings
 - mungs
 - rengs
+prev_word: menge
+next_word: menil
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

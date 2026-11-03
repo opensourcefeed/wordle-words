@@ -57,4 +57,15 @@ definitions:
   defs:
   - text: To become apple-like.
   - text: To form buds.
+prev_word: appel
+next_word: apply
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

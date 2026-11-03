@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Any of several grape varieties grown in Europe and North America.
   - text: "(by extension) Any of several wines made from these grapes."
+prev_word: pinon
+next_word: pinta
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

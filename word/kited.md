@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _ITED
   count: 6
+prev_word: kitab
+next_word: kiter
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

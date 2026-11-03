@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: "(particularly meats) Cooked very lightly, so the meat is still red (in
       the case of steak or beef in the general sense)."
+prev_word: raree
+next_word: rares
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

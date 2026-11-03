@@ -24,4 +24,13 @@ stats:
   starter_top_percent: 11
 neighbours:
 - naira
+prev_word: naira
+next_word: naive
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

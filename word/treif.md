@@ -30,4 +30,15 @@ anagrams:
 - freit
 - frite
 - rifte
+prev_word: trefa
+next_word: treks
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/if/"
+  label: Ending in IF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

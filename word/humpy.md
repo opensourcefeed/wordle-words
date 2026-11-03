@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: A hut or temporary shelter made from bark and tree branches, especially
       for Aborigines.
+prev_word: humps
+next_word: humus
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

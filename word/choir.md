@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To sing in concert.
+prev_word: choil
+next_word: choke
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

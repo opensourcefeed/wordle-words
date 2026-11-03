@@ -25,4 +25,15 @@ neighbours:
 - mochs
 - mocky
 - mothy
+prev_word: mochs
+next_word: mocks
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

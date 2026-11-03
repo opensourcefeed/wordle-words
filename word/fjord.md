@@ -30,4 +30,13 @@ definitions:
 - pos: noun
   defs:
   - text: A long, narrow, deep inlet between cliffs.
+prev_word: fjeld
+next_word: flabs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

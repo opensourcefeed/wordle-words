@@ -30,4 +30,15 @@ neighbours:
 - dotty
 - porty
 - rorty
+prev_word: dorts
+next_word: dosai
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

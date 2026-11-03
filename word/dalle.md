@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - ladle
 - della
+prev_word: dalis
+next_word: dally
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -47,4 +47,15 @@ definitions:
   - text: The hoof of a quadruped
   - text: Clubfoot or talipes
   - text: A neume representing two notes ascending
+prev_word: pedal
+next_word: pedis
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

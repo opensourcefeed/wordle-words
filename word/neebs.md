@@ -29,4 +29,15 @@ neighbours:
 - newbs
 anagrams:
 - benes
+prev_word: neddy
+next_word: needs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

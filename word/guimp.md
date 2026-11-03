@@ -19,4 +19,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 89
+prev_word: guilt
+next_word: guiro
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

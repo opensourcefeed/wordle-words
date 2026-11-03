@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: Shiny jewelry that displays wealth, such as a diamond ring or a stylish
       gold necklace or bracelet.
+prev_word: blind
+next_word: blini
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

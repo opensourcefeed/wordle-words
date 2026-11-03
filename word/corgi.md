@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A dog of a breed having a small body, short legs and fox-like features.
+prev_word: corey
+next_word: coria
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

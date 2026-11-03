@@ -25,4 +25,15 @@ neighbours:
 - civic
 - civil
 - cavie
+prev_word: civic
+next_word: civil
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

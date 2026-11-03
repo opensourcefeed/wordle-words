@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: GOO_S
   count: 8
+prev_word: goopy
+next_word: goory
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

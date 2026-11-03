@@ -46,4 +46,15 @@ definitions:
   - text: The function used to abort a process.
   - text: An event involving the abort of a process.
     example: We've had three aborts over the last two days.
+prev_word: aborn
+next_word: about
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

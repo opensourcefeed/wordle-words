@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: To put under the influence of a spell; to affect by a spell; to bewitch;
       to fascinate; to charm.
+prev_word: spelk
+next_word: spelt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

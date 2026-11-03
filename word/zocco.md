@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 100
 neighbours:
 - cocco
+prev_word: zobus
+next_word: zoeae
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

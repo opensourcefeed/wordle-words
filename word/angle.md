@@ -80,4 +80,15 @@ definitions:
   - text: (cue sports) To hamper (oneself or one's opponent) by leaving the cue ball
       in the jaws of a pocket such that the surround of the pocket (the "angle") blocks
       the path from cue ball to object ball.
+prev_word: anger
+next_word: anglo
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

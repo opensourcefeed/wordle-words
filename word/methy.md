@@ -28,4 +28,15 @@ neighbours:
 - mythy
 anagrams:
 - thyme
+prev_word: meths
+next_word: metic
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

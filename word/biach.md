@@ -26,4 +26,15 @@ neighbours:
 - brach
 anagrams:
 - chiba
+prev_word: bhuts
+next_word: biali
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

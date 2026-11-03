@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _OKES
   count: 13
+prev_word: loirs
+next_word: lokey
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

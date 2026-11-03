@@ -58,4 +58,15 @@ definitions:
   defs:
   - text: To distribute flyers (leaflets).
   - text: To distribute flyers in (a location) or to (recipients).
+prev_word: flyby
+next_word: flyin
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

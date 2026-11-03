@@ -27,4 +27,15 @@ neighbours:
 - dregs
 - dreys
 - treks
+prev_word: dregs
+next_word: drent
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

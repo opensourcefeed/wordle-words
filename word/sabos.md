@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(Singlish) To get someone in trouble, to prank, to sabotage another's efforts."
+prev_word: sable
+next_word: sabot
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: A carnivorous mammal, Mellivora capensis, found in Africa and some parts
       of Asia; the honey badger.
+prev_word: rated
+next_word: rater
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

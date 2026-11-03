@@ -21,4 +21,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 73
+prev_word: tuart
+next_word: tubae
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

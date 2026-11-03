@@ -63,4 +63,15 @@ definitions:
   - text: Any very small distance, or degree; a hairbreadth.
     example: Just a little louder please—turn that knob a hair to the right.
   - text: Complexity; difficulty; quality of being hairy
+prev_word: haint
+next_word: hairy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

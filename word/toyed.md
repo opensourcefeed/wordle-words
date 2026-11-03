@@ -47,4 +47,15 @@ definitions:
   - text: To ponder or consider.
     example: I have been toying with the idea of starting my own business.
   - text: To stimulate with a sex toy.
+prev_word: toxin
+next_word: toyer
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

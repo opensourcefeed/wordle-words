@@ -31,4 +31,15 @@ neighbours:
 - royet
 - rozes
 - rozit
+prev_word: rozes
+next_word: rozit
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

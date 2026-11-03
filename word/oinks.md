@@ -54,4 +54,13 @@ definitions:
   - text: Of a pig or in imitation thereof, to make its characteristic sound.
     example: The hogs oinked happily in their pen as the farmer poured slop in their
       feeding trough.
+prev_word: oilet
+next_word: oints
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

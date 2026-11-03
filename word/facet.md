@@ -57,4 +57,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cut a facet into a gemstone.
+prev_word: faces
+next_word: facey
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

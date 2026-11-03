@@ -24,4 +24,15 @@ neighbours:
 - blawn
 - flaws
 - flawy
+prev_word: flava
+next_word: flaws
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

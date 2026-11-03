@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: S_EAR
   count: 6
+prev_word: skean
+next_word: skeds
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

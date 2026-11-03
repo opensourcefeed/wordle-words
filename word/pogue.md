@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _OGUE
   count: 7
+prev_word: pogos
+next_word: pohed
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

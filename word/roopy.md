@@ -32,4 +32,15 @@ neighbours:
 - rooty
 - roupy
 - woopy
+prev_word: roops
+next_word: roosa
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

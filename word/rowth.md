@@ -32,4 +32,15 @@ anagrams:
 - worth
 - whort
 - wroth
+prev_word: rowns
+next_word: rowts
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

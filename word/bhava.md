@@ -28,4 +28,13 @@ definitions:
   defs:
   - text: A feeling or mood, especially one of maturation that arises from understanding
       of the continuity of life and death (reincarnation).
+prev_word: bhats
+next_word: bhels
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/ending-with/va/"
+  label: Ending in VA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 97
+prev_word: omnes
+next_word: omrah
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/om/"
+  label: Starting with OM
+- url: "/ending-with/vs/"
+  label: Ending in VS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - derpy
 - predy
+prev_word: perdu
+next_word: perea
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

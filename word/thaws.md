@@ -50,4 +50,15 @@ definitions:
     example: Her anger has thawed.
   - text: To gradually cause frozen things (such as earth, snow, ice) to melt, soften,
       or dissolve.
+prev_word: thars
+next_word: thawt
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

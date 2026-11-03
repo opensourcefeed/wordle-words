@@ -48,4 +48,15 @@ definitions:
   - text: One who faces; one who puts on a false show; a bold-faced person.
   - text: A blow in the face, as in boxing; hence, any severe or stunning check or
       defeat, as in controversy.
+prev_word: faced
+next_word: faces
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

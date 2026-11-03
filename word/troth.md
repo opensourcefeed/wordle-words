@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To pledge to marry somebody.
+prev_word: tropo
+next_word: trots
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

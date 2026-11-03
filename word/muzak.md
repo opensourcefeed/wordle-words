@@ -31,4 +31,15 @@ definitions:
       and other places of business and characterized by soft, soothing instrumental
       sounds.
   - text: Easy listening music in general.
+prev_word: muxes
+next_word: muzzy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

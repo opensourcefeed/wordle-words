@@ -47,4 +47,15 @@ definitions:
   - text: Furious; raging; extremely violent.
   - text: Very extreme, unreasonable, or fanatical in opinion; excessively zealous.
     example: a rabid socialist
+prev_word: rabic
+next_word: rabis
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

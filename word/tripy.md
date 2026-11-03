@@ -24,4 +24,15 @@ neighbours:
 - tripe
 - gripy
 - trips
+prev_word: trips
+next_word: trist
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

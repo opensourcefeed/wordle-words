@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 50
 neighbours:
 - emyde
+prev_word: emyde
+next_word: enact
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

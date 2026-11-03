@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - naeve
 - veena
+prev_word: velum
+next_word: venal
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

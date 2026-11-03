@@ -47,4 +47,15 @@ definitions:
   - text: To perform a twirl.
   - text: To rotate rapidly.
   - text: To twist round.
+prev_word: twirk
+next_word: twirp
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

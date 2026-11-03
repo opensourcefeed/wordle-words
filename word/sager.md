@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _AGER
   count: 10
+prev_word: sagas
+next_word: sages
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

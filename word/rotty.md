@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _OTTY
   count: 8
+prev_word: rotto
+next_word: rouen
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

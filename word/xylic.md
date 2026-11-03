@@ -24,4 +24,13 @@ neighbours:
 - hylic
 anagrams:
 - cylix
+prev_word: xylem
+next_word: xylol
+hubs:
+- url: "/starting-with/x/"
+  label: Starting with X
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

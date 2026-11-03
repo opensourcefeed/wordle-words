@@ -42,4 +42,15 @@ definitions:
   - text: To sneak up on or rapidly approach.
   - text: To pursue as in a hunt.
     example: to chivvy the fox
+prev_word: cheth
+next_word: chews
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

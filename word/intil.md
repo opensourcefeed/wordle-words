@@ -25,4 +25,15 @@ neighbours:
 - until
 - intel
 - intis
+prev_word: inter
+next_word: intis
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

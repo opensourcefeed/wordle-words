@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of or pertaining to a duke, a duchess, or the duchy or dukedom they hold.
+prev_word: dubby
+next_word: ducat
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

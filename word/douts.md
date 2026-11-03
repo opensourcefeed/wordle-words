@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To put out; quench; extinguish; douse.
+prev_word: douse
+next_word: doved
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

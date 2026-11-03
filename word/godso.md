@@ -23,4 +23,15 @@ neighbours:
 - gadso
 anagrams:
 - goods
+prev_word: godly
+next_word: goels
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

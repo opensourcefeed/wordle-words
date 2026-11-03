@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 18
 neighbours:
 - abore
+prev_word: yayas
+next_word: yclad
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

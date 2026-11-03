@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A small projection of three or four feathers on the first digit of the wing
       on some birds.
+prev_word: altos
+next_word: alums
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

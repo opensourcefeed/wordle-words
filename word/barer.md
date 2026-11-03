@@ -68,4 +68,15 @@ definitions:
 - pos: noun
   defs:
   - text: One who bares or exposes something.
+prev_word: bared
+next_word: bares
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

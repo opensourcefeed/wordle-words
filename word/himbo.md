@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A physically attractive man who lacks intelligence; the male equivalent
       of a bimbo.
+prev_word: hilus
+next_word: hinau
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

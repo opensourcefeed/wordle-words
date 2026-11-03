@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: O_TER
   count: 6
+prev_word: opted
+next_word: optic
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/op/"
+  label: Starting with OP
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

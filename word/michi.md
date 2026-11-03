@@ -26,4 +26,15 @@ neighbours:
 - micht
 - mochi
 - pichi
+prev_word: miche
+next_word: micht
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

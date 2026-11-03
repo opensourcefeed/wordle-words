@@ -25,4 +25,15 @@ neighbours:
 - nikab
 - nikah
 - pikau
+prev_word: nikah
+next_word: nilas
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/au/"
+  label: Ending in AU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

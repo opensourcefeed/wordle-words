@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: An excessive accumulation of serum in tissue spaces or a body cavity.
   - text: A similar swelling in plants caused by excessive accumulation of water.
+prev_word: ecrus
+next_word: edged
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ed/"
+  label: Starting with ED
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

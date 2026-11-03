@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To engage in the activities of a cabal.
+prev_word: caaed
+next_word: cabas
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

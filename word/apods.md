@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - dopas
 - spado
+prev_word: apode
+next_word: apols
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

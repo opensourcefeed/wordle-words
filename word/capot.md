@@ -36,4 +36,15 @@ definitions:
 - pos: verb
   defs:
   - text: To win all the tricks (from), when playing at piquet.
+prev_word: capos
+next_word: capri
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

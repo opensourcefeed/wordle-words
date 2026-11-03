@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: Any of a set of signs used in early musical notation.
   - text: A sequence of notes to be sung to one syllable.
+prev_word: neume
+next_word: nevel
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

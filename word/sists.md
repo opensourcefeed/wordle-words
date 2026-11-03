@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _ISTS
   count: 10
+prev_word: sista
+next_word: sitar
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

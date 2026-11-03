@@ -30,4 +30,15 @@ neighbours:
 - tapes
 anagrams:
 - patte
+prev_word: tapes
+next_word: tapir
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

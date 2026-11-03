@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A plant belonging to the genus Ficus, including the rubber plant.
+prev_word: ficta
+next_word: fides
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

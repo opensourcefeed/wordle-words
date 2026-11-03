@@ -26,4 +26,13 @@ neighbours:
 - easel
 anagrams:
 - esile
+prev_word: eiron
+next_word: eject
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

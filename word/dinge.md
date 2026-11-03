@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _INGE
   count: 10
+prev_word: dines
+next_word: dingo
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

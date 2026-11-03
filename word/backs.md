@@ -91,4 +91,15 @@ definitions:
       dyers, picklers, gluemakers, and others, for mixing or cooling wort, holding
       water, hot glue, etc.
   - text: A ferryboat.
+prev_word: bachs
+next_word: backy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

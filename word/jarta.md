@@ -25,4 +25,15 @@ stats:
 neighbours:
 - carta
 - yarta
+prev_word: jarps
+next_word: jarul
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

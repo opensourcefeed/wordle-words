@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _URLS
   count: 8
+prev_word: nurdy
+next_word: nurrs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

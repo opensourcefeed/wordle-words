@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: PRO_E
   count: 7
+prev_word: prora
+next_word: prose
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -42,4 +42,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Zany; eccentric
+prev_word: wacks
+next_word: wadas
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

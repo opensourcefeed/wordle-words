@@ -30,4 +30,15 @@ neighbours:
 - trank
 anagrams:
 - krait
+prev_word: tragu
+next_word: trail
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

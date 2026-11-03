@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OOMS
   count: 8
+prev_word: sools
+next_word: soops
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

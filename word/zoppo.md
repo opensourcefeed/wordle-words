@@ -25,4 +25,15 @@ neighbours:
 - yoppo
 - zippo
 - zoppa
+prev_word: zoppa
+next_word: zoril
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/po/"
+  label: Ending in PO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A public path or avenue designed for walking, sometimes for dining or recreation.
+prev_word: pasch
+next_word: pases
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/eo/"
+  label: Ending in EO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

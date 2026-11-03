@@ -32,4 +32,15 @@ anagrams:
 - arcos
 - orcas
 - oscar
+prev_word: acron
+next_word: acryl
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: To act as part of, or on behalf of, a squad.
     example: We squad on the fifth of the month.
+prev_word: squab
+next_word: squat
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sq/"
+  label: Starting with SQ
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

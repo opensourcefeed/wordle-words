@@ -27,4 +27,15 @@ neighbours:
 - virge
 anagrams:
 - vigor
+prev_word: virge
+next_word: virid
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

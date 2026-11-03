@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A large flightless bird of the genus Rhea, native to South America.
+prev_word: rhabd
+next_word: rheid
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/rh/"
+  label: Starting with RH
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

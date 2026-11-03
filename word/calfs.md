@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: CAL_S
   count: 6
+prev_word: cakey
+next_word: calid
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

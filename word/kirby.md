@@ -19,4 +19,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 75
+prev_word: kipsy
+next_word: kirks
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

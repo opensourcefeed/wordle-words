@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Having a rough, surly, and harsh demeanor and nature.
   - text: Hoarse-voiced.
+prev_word: grufe
+next_word: grume
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

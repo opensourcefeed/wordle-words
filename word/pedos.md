@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: A paedophile.
   - text: Paedophilia.
+prev_word: pedon
+next_word: pedro
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

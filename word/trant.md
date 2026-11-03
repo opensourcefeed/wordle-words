@@ -35,4 +35,15 @@ neighbours:
 - tratt
 anagrams:
 - nrtta
+prev_word: trans
+next_word: trape
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

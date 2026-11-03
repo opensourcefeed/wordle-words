@@ -43,4 +43,15 @@ definitions:
       logically, complete.
   - text: A clause or group of clauses written as a line, or taken as a standard of
       measure in ancient manuscripts or texts.
+prev_word: colog
+next_word: color
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

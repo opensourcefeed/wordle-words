@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 60
 neighbours:
 - befog
+prev_word: defis
+next_word: degas
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/og/"
+  label: Ending in OG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Behind; toward the stern relative to some other object or position; aft
       of.
+prev_word: abacs
+next_word: abaht
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

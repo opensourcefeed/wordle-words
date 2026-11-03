@@ -27,4 +27,15 @@ definitions:
   - text: A southern African antelope, Tragelaphus angasii (syn. Nyala angasii), with
       thin white stripes in the grey or brown coat, a ridge of tufted hair running
       all along the spine, and long horns with a spiral twist.
+prev_word: nyaff
+next_word: nyams
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ny/"
+  label: Starting with NY
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

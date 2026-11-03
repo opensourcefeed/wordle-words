@@ -34,4 +34,15 @@ definitions:
       or one-eighth amphora (about 118 fluid ounces).
   - text: An ancient Roman unit of weight under Vespasian equal to the weight of a
       congius of water.
+prev_word: conga
+next_word: congo
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

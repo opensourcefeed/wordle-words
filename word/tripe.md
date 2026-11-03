@@ -59,4 +59,15 @@ definitions:
 - pos: interjection
   defs:
   - text: That (what has just been said) is untrue.
+prev_word: trios
+next_word: trips
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

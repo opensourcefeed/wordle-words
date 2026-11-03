@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: TRI_E
   count: 7
+prev_word: trick
+next_word: tried
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

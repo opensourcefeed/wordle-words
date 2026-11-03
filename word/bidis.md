@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A thin, often flavored, Indian cigarette made of tobacco wrapped in a tendu
       leaf.
+prev_word: bidet
+next_word: bidon
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

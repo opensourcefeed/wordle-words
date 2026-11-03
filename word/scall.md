@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: SCAL_
   count: 6
+prev_word: scale
+next_word: scalp
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

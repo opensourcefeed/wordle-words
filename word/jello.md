@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A dessert made by boiling flavoured gelatin in water
+prev_word: jelab
+next_word: jells
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

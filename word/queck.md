@@ -24,4 +24,15 @@ neighbours:
 - quack
 - quick
 - queek
+prev_word: quean
+next_word: queek
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

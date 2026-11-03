@@ -37,4 +37,15 @@ definitions:
   - text: Of a person or people, involved in breeding or riding horses.
   - text: Of a graphic design or typographical treatment which is clumsy, clunky,
       or unrefined.
+prev_word: horst
+next_word: hosed
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

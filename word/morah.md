@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: MORA_
   count: 7
+prev_word: morae
+next_word: moral
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

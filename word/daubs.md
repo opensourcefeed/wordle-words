@@ -47,4 +47,15 @@ definitions:
   - text: To cover with a specious or deceitful exterior; to disguise; to conceal.
   - text: To flatter excessively or grossly.
   - text: To put on without taste; to deck gaudily.
+prev_word: daube
+next_word: dauby
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

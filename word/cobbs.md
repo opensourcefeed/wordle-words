@@ -23,4 +23,15 @@ stats:
 neighbours:
 - cobby
 - combs
+prev_word: coats
+next_word: cobby
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

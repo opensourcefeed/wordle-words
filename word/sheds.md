@@ -73,4 +73,15 @@ definitions:
   defs:
   - text: To place or allocate a vehicle, such as a locomotive, in or to a depot or
       shed.
+prev_word: sheas
+next_word: sheel
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

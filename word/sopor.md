@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: An unnaturally deep sleep.
+prev_word: sophy
+next_word: soppy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

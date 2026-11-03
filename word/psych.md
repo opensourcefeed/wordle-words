@@ -44,4 +44,15 @@ definitions:
       fooled one's interlocutor. Also sike.
   - text: An interjection of surprised happiness.
     example: Psych! I just found my missing bracelet!
+prev_word: psora
+next_word: psyop
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ps/"
+  label: Starting with PS
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

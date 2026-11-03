@@ -72,4 +72,15 @@ definitions:
   defs:
   - text: To unravel part of (a knitted garment) while knitting it in order to correct
       a mistake.
+prev_word: froes
+next_word: fromm
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

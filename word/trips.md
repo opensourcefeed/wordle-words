@@ -101,4 +101,15 @@ definitions:
   defs:
   - text: Three of a kind, especially if one of the three cards is in one's hand and
       the other two are on the board. Compare set.
+prev_word: tripe
+next_word: tripy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

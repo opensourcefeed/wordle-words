@@ -38,4 +38,15 @@ definitions:
   - text: To unfasten.
     example: Could you undo my buckle for me?
   - text: To impoverish or ruin, as in reputation; to cause the downfall of.
+prev_word: under
+next_word: undos
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -48,4 +48,15 @@ definitions:
   - text: To introduce or insert surreptitiously or without warrant.
   - text: To force another to accept especially by stealth or deceit.
   - text: To pass off as genuine or worthy.
+prev_word: foins
+next_word: folds
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

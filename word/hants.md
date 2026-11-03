@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A ghost; a supernatural being.
+prev_word: hanse
+next_word: haole
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

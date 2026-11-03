@@ -30,4 +30,15 @@ neighbours:
 - dotal
 - katal
 - ratal
+prev_word: dashy
+next_word: dated
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

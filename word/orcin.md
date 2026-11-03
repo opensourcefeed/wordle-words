@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: The organic compound 3,5-dihydroxytoluene, found in many lichens and synthesizable
       from toluene.
+prev_word: orcas
+next_word: order
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

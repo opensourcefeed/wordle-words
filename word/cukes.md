@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: A cucoloris.
+prev_word: cuits
+next_word: culch
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

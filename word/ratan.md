@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - antar
 - antra
+prev_word: ratal
+next_word: ratas
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

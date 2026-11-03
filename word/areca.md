@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: Any member of the genus Areca of about fifty species of single-stemmed palms
       in the family Arecaceae, found in humid tropical forests.
+prev_word: areas
+next_word: aredd
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

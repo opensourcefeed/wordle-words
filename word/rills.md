@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: A long, narrow depression that resembles a channel, found on the surface
       of various lunar and planetary bodies.
+prev_word: rille
+next_word: rilly
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

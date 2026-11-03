@@ -30,4 +30,15 @@ neighbours:
 - susus
 anagrams:
 - sulus
+prev_word: lusty
+next_word: lutea
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

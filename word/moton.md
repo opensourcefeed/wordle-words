@@ -26,4 +26,15 @@ neighbours:
 - moten
 - muton
 - roton
+prev_word: motis
+next_word: motor
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

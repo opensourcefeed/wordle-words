@@ -37,4 +37,15 @@ definitions:
       Soricidae (order Soricomorpha).
   - text: Certain other small mammals that resemble true shrews (order Soricomorpha).
   - text: 'An ill-tempered, nagging woman: a scold.'
+prev_word: shred
+next_word: shris
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ew/"
+  label: Ending in EW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

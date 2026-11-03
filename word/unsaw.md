@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: To undo the act of seeing something; to erase the memory of having seen
       something, or otherwise reverse the effect of having seen something.
+prev_word: unrip
+next_word: unsay
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/aw/"
+  label: Ending in AW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

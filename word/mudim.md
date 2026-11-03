@@ -24,4 +24,15 @@ neighbours:
 - mudif
 - mudir
 - mukim
+prev_word: mudif
+next_word: mudir
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

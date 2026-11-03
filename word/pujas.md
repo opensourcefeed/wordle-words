@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A religious ritual performed in South Asia as an act of worship.
+prev_word: pujah
+next_word: pukas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

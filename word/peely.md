@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _EELY
   count: 6
+prev_word: peels
+next_word: peens
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

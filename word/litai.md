@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 42
 neighbours:
 - litas
+prev_word: lists
+next_word: litas
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -53,4 +53,15 @@ definitions:
 - pos: preposition
   defs:
   - text: Forth from; out of.
+prev_word: forte
+next_word: forts
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

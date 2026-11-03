@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: To sew with long or loose stitches, as for temporary use, or in preparation
       for gathering the fabric.
+prev_word: basta
+next_word: basti
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

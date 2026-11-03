@@ -28,4 +28,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Silly or scatterbrained, usually of a young woman.
+prev_word: dites
+next_word: ditto
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

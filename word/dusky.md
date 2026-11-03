@@ -51,4 +51,15 @@ definitions:
   - text: Dark-skinned.
   - text: Ashen; having a greyish skin coloration.
     example: The patient was in shock and had a dusky skin tone.
+prev_word: dusks
+next_word: dusts
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -24,4 +24,15 @@ stats:
 neighbours:
 - mayor
 - payer
+prev_word: payer
+next_word: paysd
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

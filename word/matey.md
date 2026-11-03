@@ -78,4 +78,15 @@ definitions:
       for its leaves.
   - text: A beverage, resembling tea, made from the dried leaves of this plant.
   - text: A cup of this drink.
+prev_word: mates
+next_word: mathe
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

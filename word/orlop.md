@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: The platform over the hold of a ship that makes up the fourth or lowest
       deck, hence in full called orlop deck, especially of a warship.
+prev_word: orlon
+next_word: ormer
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -28,4 +28,15 @@ neighbours:
 - civie
 - mavie
 - pavie
+prev_word: caves
+next_word: cavil
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

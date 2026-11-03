@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: QUI_S
   count: 7
+prev_word: queyu
+next_word: quich
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

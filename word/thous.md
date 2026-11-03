@@ -27,4 +27,15 @@ anagrams:
 - shout
 - south
 - houts
+prev_word: thots
+next_word: thowl
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -29,4 +29,15 @@ neighbours:
 - hexed
 - heyed
 - holed
+prev_word: hejra
+next_word: heles
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

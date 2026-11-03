@@ -25,4 +25,15 @@ neighbours:
 - culex
 - curet
 - gulet
+prev_word: culch
+next_word: culex
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

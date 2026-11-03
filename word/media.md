@@ -45,4 +45,15 @@ definitions:
   - text: A voiced stop consonant.
   - text: One of the major veins of the insect wing, between the radius and the cubitus
   - text: An ant specialized as a forager in a leaf-cutter ant colony.
+prev_word: medal
+next_word: medic
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

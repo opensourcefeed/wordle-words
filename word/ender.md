@@ -29,4 +29,15 @@ neighbours:
 - endew
 anagrams:
 - erned
+prev_word: ended
+next_word: endew
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

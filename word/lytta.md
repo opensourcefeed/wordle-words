@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 58
 neighbours:
 - lotta
+prev_word: lytic
+next_word: maaed
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

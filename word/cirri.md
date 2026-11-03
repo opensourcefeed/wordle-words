@@ -34,4 +34,15 @@ definitions:
   - text: A principal high-level cloud type characterised by white, delicate filaments
       or wisps, of white (or mostly white) patches, or of narrow bands, found at an
       altitude of above 7000 metres.
+prev_word: cirls
+next_word: cisco
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

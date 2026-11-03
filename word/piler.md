@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _ILER
   count: 7
+prev_word: pilei
+next_word: piles
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

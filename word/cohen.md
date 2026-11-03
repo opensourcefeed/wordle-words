@@ -33,4 +33,15 @@ definitions:
   - text: 'A Jewish priest: direct male descendant of the Biblical high priest Aaron,
       brother of Moses.'
     example: Is anyone here a cohen or a levi?
+prev_word: cohab
+next_word: cohoe
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

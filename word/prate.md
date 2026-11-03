@@ -58,4 +58,15 @@ definitions:
 - pos: verb
   defs:
   - text: To talk much and to little purpose; to be loquacious; to speak foolishly.
+prev_word: prase
+next_word: prats
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

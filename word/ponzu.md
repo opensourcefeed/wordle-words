@@ -26,4 +26,13 @@ definitions:
   defs:
   - text: A sour citrus-based sauce usually made from the juice of the 橙, an Asian
       variety of bitter orange.
+prev_word: ponty
+next_word: pooay
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

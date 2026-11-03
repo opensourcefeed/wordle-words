@@ -41,4 +41,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Like pap; soft; mushy.
+prev_word: pappi
+next_word: papri
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

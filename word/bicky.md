@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: A biscuit.
+prev_word: bices
+next_word: biddy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

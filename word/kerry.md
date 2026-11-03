@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ERRY
   count: 11
+prev_word: keros
+next_word: kerve
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

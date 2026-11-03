@@ -29,4 +29,15 @@ anagrams:
 - flour
 - fluor
 - orful
+prev_word: furls
+next_word: furor
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

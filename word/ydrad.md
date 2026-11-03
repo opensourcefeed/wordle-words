@@ -26,4 +26,13 @@ neighbours:
 anagrams:
 - dryad
 - raddy
+prev_word: ycond
+next_word: ydred
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

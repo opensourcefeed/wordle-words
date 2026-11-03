@@ -57,4 +57,15 @@ definitions:
   - text: To use, or embellish something with, a trope.
   - text: Senses relating chiefly to art or literature.
   - text: To think or write in terms of tropes.
+prev_word: trooz
+next_word: tropo
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

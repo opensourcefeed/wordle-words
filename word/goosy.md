@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: Characteristic of a goose; anserine
   - text: Foolish; silly
+prev_word: goose
+next_word: gopak
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

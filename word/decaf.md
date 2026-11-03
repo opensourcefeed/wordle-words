@@ -33,4 +33,13 @@ definitions:
 - pos: noun
   defs:
   - text: A decaffeinated coffee, tea, or soft drink.
+prev_word: decad
+next_word: decal
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

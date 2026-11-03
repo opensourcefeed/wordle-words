@@ -42,4 +42,15 @@ definitions:
       and heat; the work required to exert a force of one newton for a distance of
       one metre. Also equal to the energy of one watt of power for a duration of one
       second. Symbol: J'
+prev_word: jouks
+next_word: jours
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

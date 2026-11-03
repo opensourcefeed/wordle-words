@@ -29,4 +29,15 @@ neighbours:
 trap:
   pattern: _UFFY
   count: 6
+prev_word: muffs
+next_word: mufti
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

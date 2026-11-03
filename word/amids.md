@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: AMI_S
   count: 6
+prev_word: amido
+next_word: amies
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

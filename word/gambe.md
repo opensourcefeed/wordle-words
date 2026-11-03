@@ -27,4 +27,15 @@ neighbours:
 - gamme
 - garbe
 - jambe
+prev_word: gamba
+next_word: gambo
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

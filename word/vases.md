@@ -47,4 +47,15 @@ definitions:
   - text: An upright open container used mainly for displaying fresh, dried, or artificial
       flowers.
   - text: The body of the Corinthian capital.
+prev_word: vasal
+next_word: vasts
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

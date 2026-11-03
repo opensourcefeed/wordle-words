@@ -38,4 +38,15 @@ definitions:
       region.
   - text: The fruit of that tree.
   - text: A sweet chocolate-like confection made with the pulp of the fruit.
+prev_word: carny
+next_word: carol
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ob/"
+  label: Ending in OB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

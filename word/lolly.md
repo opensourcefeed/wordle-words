@@ -45,4 +45,15 @@ definitions:
   - text: Any confection made from sugar, or high in sugar content; a sweet, a piece
       of candy.
   - text: A lump.
+prev_word: lolls
+next_word: lolog
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

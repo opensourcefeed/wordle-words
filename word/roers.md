@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _OERS
   count: 6
+prev_word: rodny
+next_word: rogan
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

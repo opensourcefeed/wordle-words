@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: Pervert
+prev_word: perve
+next_word: pervs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/vo/"
+  label: Ending in VO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

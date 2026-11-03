@@ -27,4 +27,15 @@ neighbours:
 - judas
 - kudos
 - ludos
+prev_word: judgy
+next_word: jugal
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

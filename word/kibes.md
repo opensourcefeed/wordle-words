@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A chilblain or ulcer, especially on the heel of the foot.
+prev_word: kibei
+next_word: kibla
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

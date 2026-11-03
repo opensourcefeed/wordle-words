@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: A stroke; a dull-sounding blow.
+prev_word: dunsh
+next_word: duomi
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

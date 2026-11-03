@@ -34,4 +34,15 @@ definitions:
       alternation, and iteration (repetition) of subexpressions.
   - text: "(more generally) Any pattern for text matching or searching, frequently
       offering more or less functionality than a theoretical regular expression."
+prev_word: reget
+next_word: reggo
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

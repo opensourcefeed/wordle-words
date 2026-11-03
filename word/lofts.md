@@ -50,4 +50,15 @@ definitions:
   - text: To throw the ball erroneously through the air instead of releasing it on
       the lane's surface.
   - text: To furnish with a loft space.
+prev_word: loess
+next_word: lofty
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

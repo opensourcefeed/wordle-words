@@ -42,4 +42,15 @@ definitions:
       representing a specific meaning, before the creation of a specific phonological
       form as the sounds of a lexeme, which may find representation in a specific
       written form as a dictionary or lexicographic word."
+prev_word: lemes
+next_word: lemme
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

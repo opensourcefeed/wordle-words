@@ -43,4 +43,15 @@ definitions:
     example: The disaster shocked the world.
   - text: To give an electric shock to.
   - text: To meet with a shock; to collide in a violent encounter.
+prev_word: shoat
+next_word: shoed
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

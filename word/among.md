@@ -42,4 +42,15 @@ definitions:
     example: He is among the few who completely understand the subject.
   - text: Denotes a sharing of a common feature in a group.
     example: Lactose intolerance is common among people of Asian heritage.
+prev_word: amole
+next_word: amore
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

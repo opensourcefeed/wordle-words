@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A large social dancing event in parts of Africa.
+prev_word: ngege
+next_word: ngoni
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ng/"
+  label: Starting with NG
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

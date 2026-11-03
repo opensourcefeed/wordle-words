@@ -26,4 +26,15 @@ neighbours:
 - etage
 anagrams:
 - patee
+prev_word: etage
+next_word: etats
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/et/"
+  label: Starting with ET
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

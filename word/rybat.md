@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 27
 neighbours:
 - rabat
+prev_word: ryals
+next_word: ryiji
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ry/"
+  label: Starting with RY
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -29,4 +29,15 @@ neighbours:
 - drool
 - broos
 - crool
+prev_word: brook
+next_word: broom
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

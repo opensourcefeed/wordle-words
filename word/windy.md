@@ -47,4 +47,15 @@ definitions:
   - text: Long-winded; orally verbose.
   - text: Flatulent.
   - text: Nervous, frightened.
+prev_word: winds
+next_word: wined
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

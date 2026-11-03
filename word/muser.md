@@ -34,4 +34,15 @@ anagrams:
 - serum
 - mures
 - rumes
+prev_word: musee
+next_word: muses
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

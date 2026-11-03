@@ -27,4 +27,15 @@ neighbours:
 - epode
 - exome
 - exude
+prev_word: exits
+next_word: exome
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

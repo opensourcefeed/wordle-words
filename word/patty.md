@@ -48,4 +48,15 @@ definitions:
       equivalent, usually round but sometimes square in shape."
   - text: A pastry with various fillings and spices baked inside a flaky shell, often
       tinted golden yellow with an egg yolk mixture or turmeric.
+prev_word: pattu
+next_word: patus
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

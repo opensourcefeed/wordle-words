@@ -97,4 +97,15 @@ definitions:
     example: I have both Irish and German roots.
   - text: Beginnings; origin.
     example: Jazz has its roots in blues.
+prev_word: roost
+next_word: rooty
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

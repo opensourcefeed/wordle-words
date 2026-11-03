@@ -30,4 +30,13 @@ definitions:
   defs:
   - text: Any organic compound in which two adjacent atoms are connected by both a
       covalent and an ionic bond; normally written X+–Y−
+prev_word: ylide
+next_word: ylike
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 100
 neighbours:
 - immit
+prev_word: immit
+next_word: imped
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

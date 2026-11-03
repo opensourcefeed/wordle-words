@@ -63,4 +63,15 @@ definitions:
   defs:
   - text: Pertaining to a trial or test.
   - text: Attempted on a provisional or experimental basis.
+prev_word: triad
+next_word: tribe
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 69
 neighbours:
 - indie
+prev_word: index
+next_word: indie
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

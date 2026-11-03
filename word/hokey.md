@@ -48,4 +48,15 @@ definitions:
   - text: Corny; overly or unbelievably sentimental
     example: Terry hated going to the cinema with Pat, she always chose hokey romantic
       comedies that made him want to gag.
+prev_word: hokes
+next_word: hokis
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

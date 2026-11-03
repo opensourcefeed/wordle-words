@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: To separate (grain or pieces of mineral) by shaking in a special shallow
       dish
+prev_word: yamun
+next_word: yangs
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

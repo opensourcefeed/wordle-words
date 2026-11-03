@@ -43,4 +43,15 @@ definitions:
   - text: To hinder or prevent.
   - text: To prohibit (a person or company that has been convicted of criminal acts
       in connection with a government program) from future participation in that program.
+prev_word: debag
+next_word: debby
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To transport by, or as if by, lorry.
+prev_word: loris
+next_word: losed
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

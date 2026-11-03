@@ -31,4 +31,15 @@ neighbours:
 - gawds
 anagrams:
 - wadds
+prev_word: dawah
+next_word: dawed
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

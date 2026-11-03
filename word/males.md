@@ -52,4 +52,15 @@ definitions:
 - pos: noun
   defs:
   - text: One of the male (masculine) sex or gender.
+prev_word: maleo
+next_word: malic
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

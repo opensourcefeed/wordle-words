@@ -24,4 +24,15 @@ stats:
 neighbours:
 - glaur
 - plaud
+prev_word: plaud
+next_word: plavs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

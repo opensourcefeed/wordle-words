@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: A bad smell.
     example: Whew, there's a bit of a niff in here. Is that your socks?
+prev_word: nifes
+next_word: niffy
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

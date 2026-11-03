@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _EARE
   count: 9
+prev_word: peans
+next_word: pearl
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

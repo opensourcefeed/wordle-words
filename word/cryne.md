@@ -23,4 +23,15 @@ neighbours:
 - crane
 - crone
 - crine
+prev_word: cryer
+next_word: crypt
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

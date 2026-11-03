@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A member of a rank of aristocracy (second only to princes) in Russia, Ukraine,
       Belarus, Bulgaria, Macedonia, Serbia and Romania.
+prev_word: boxty
+next_word: boyau
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: To light or kindle anew.
   - text: To render again with different simulated lighting conditions.
+prev_word: relie
+next_word: rello
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

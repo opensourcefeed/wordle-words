@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: Obsolete form of kite.
   - text: Alternative spelling of kite
+prev_word: kyrie
+next_word: kythe
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

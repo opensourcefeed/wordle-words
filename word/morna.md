@@ -35,4 +35,15 @@ anagrams:
 - norma
 - ramon
 - roman
+prev_word: mormo
+next_word: morne
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

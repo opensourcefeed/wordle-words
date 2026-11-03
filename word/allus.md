@@ -36,4 +36,15 @@ definitions:
     example: In this street, the shops always close during lunchtime.
   - text: In any event.
     example: I thought I could always go back to work.
+prev_word: alloy
+next_word: allyl
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

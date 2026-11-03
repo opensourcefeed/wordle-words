@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: To pay (employees) according to the truck system, with goods instead of
       money.
+prev_word: tomme
+next_word: tomos
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

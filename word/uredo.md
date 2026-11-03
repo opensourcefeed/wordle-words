@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 11
 neighbours:
 - credo
+prev_word: ureas
+next_word: ureic
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -101,4 +101,15 @@ definitions:
   - text: Absolutely, completely (used with following adjectives).
     example: I said the medication made my vision temporarily blurry, it did not make
       me stone blind.
+prev_word: stond
+next_word: stong
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

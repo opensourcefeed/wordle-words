@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _OKES
   count: 13
+prev_word: noisy
+next_word: noles
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

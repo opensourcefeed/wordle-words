@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: A coarse cotton fabric commonly used to make trousers and uniforms.
+prev_word: ching
+next_word: chins
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

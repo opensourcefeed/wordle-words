@@ -38,4 +38,15 @@ definitions:
       from a higher to a lower level, or through which water passes to a wheel.
   - text: A waterfall or rapid.
   - text: The pen in which an animal is confined before being released in a rodeo.
+prev_word: chuse
+next_word: chuts
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -57,4 +57,15 @@ definitions:
   defs:
   - text: A raid; an incursion.
   - text: A roadstead.
+prev_word: rodeo
+next_word: rodny
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -26,4 +26,15 @@ neighbours:
 - colic
 - folia
 - folie
+prev_word: folia
+next_word: folie
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

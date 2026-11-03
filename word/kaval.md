@@ -28,4 +28,15 @@ neighbours:
 - katal
 - kavas
 - laval
+prev_word: kaury
+next_word: kavas
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -39,4 +39,15 @@ definitions:
   - text: Either of two species of pheasant of Southeast Asia having large ocellated
       tails.
   - text: Any of various nymphalid butterflies of the genus Junonia. Also called pansies.
+prev_word: argue
+next_word: arhat
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

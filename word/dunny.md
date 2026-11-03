@@ -40,4 +40,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Somewhat dun, dusky brownish.
+prev_word: dunno
+next_word: dunsh
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

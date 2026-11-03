@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A plush toy in the shape of a bear.
   - text: A lovable, endearing, large, strong, hairy, or sweet man
+prev_word: tecum
+next_word: teels
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

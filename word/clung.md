@@ -46,4 +46,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Wasted away; shrunken
+prev_word: clump
+next_word: clunk
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

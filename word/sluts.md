@@ -65,4 +65,13 @@ definitions:
   - text: To wear slutty clothing or makeup, or otherwise behave in a slutty manner.
   - text: "(usually with around) To visit places frequented by men, with the intention
       of engaging in sexual intercourse by means of flirting."
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -24,4 +24,15 @@ neighbours:
 anagrams:
 - glops
 - golps
+prev_word: split
+next_word: spode
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/og/"
+  label: Ending in OG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

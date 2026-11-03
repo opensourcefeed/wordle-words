@@ -43,4 +43,15 @@ definitions:
     example: Plant room floors are generally bunded and/or waterproofed to contain
       any leaks or spillages of liquids and fluids from faulty tanks, plant or pipe
       work. RIW Ltd. Waterproofing Products
+prev_word: bundh
+next_word: bundt
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: An animal-drawn sleigh (sledge) of a particular sort.
+prev_word: pulis
+next_word: pulks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

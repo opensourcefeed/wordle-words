@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 65
+prev_word: pixie
+next_word: pized
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

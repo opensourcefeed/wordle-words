@@ -53,4 +53,15 @@ definitions:
   - text: "(usually with on) To be weakly or foolishly fond of somebody."
     example: Little Bill's parents just keep doting on him.
   - text: To act in a foolish manner; to be senile.
+prev_word: doter
+next_word: dotty
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

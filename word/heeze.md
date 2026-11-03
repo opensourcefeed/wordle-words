@@ -29,4 +29,15 @@ neighbours:
 trap:
   pattern: _EEZE
   count: 6
+prev_word: heels
+next_word: hefte
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

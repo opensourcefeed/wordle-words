@@ -43,4 +43,15 @@ definitions:
   - text: Infested with lice.
   - text: "(usually with with) Filled or packed (with something, usually bad)."
     example: The place was lousy with students.
+prev_word: louse
+next_word: louts
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

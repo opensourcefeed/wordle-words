@@ -25,4 +25,15 @@ neighbours:
 - kurta
 - yarta
 - yurts
+prev_word: yuppy
+next_word: yurts
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

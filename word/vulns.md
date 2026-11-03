@@ -28,4 +28,13 @@ definitions:
 - pos: noun
   defs:
   - text: Vulnerability (weakness in software etc. that can be maliciously exploited).
+prev_word: vulgo
+next_word: vulva
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

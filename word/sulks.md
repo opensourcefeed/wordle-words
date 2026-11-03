@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A furrow.
+prev_word: sulfo
+next_word: sulky
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

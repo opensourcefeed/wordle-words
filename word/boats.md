@@ -67,4 +67,15 @@ definitions:
     example: to boat goods
   - text: To place in a boat.
     example: to boat oars
+prev_word: boast
+next_word: boaty
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

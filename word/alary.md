@@ -26,4 +26,15 @@ neighbours:
 - clary
 - flary
 - glary
+prev_word: alarm
+next_word: alata
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

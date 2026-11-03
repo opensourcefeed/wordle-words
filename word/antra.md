@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: A bodily cavity, especially one having bony walls, especially one in the
       sinuses.
+prev_word: antis
+next_word: antre
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

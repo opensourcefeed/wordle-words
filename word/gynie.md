@@ -25,4 +25,15 @@ neighbours:
 - gynae
 anagrams:
 - eying
+prev_word: gynae
+next_word: gynny
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

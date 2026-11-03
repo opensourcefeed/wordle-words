@@ -27,4 +27,15 @@ neighbours:
 - wanty
 anagrams:
 - lawny
+prev_word: wanle
+next_word: wanna
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

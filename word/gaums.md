@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - magus
 - sagum
+prev_word: gault
+next_word: gaumy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

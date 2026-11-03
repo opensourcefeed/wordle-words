@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 66
 anagrams:
 - abmho
+prev_word: abode
+next_word: aboil
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

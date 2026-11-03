@@ -44,4 +44,13 @@ definitions:
   defs:
   - text: Of or pertaining to something that is puffy, filled with air, inflated.
   - text: Capable of making a poofing sound.
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

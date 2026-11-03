@@ -27,4 +27,13 @@ definitions:
 - pos: noun
   defs:
   - text: "(originally college slang) A boring, studious, or socially inept person."
+prev_word: dwaum
+next_word: dwell
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dw/"
+  label: Starting with DW
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

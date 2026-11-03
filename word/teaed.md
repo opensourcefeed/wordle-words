@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: To drink tea.
   - text: To take afternoon tea (the light meal).
+prev_word: teads
+next_word: teaks
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -25,4 +25,15 @@ neighbours:
 - raddi
 anagrams:
 - gadid
+prev_word: gable
+next_word: gades
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/di/"
+  label: Ending in DI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

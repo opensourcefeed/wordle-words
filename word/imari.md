@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: Japanese porcelain wares (made in the town of Arita and exported from the
       port of Imari, particularly around the 17th century).
+prev_word: imams
+next_word: imaum
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -25,4 +25,15 @@ neighbours:
 - roady
 - toady
 - woady
+prev_word: coact
+next_word: coala
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

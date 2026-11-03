@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: A restaurant.
+prev_word: resow
+next_word: rests
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

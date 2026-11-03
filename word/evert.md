@@ -39,4 +39,15 @@ definitions:
   - text: To move (someone or something) out of the way.
   - text: To turn upside down; to overturn.
   - text: To disrupt; to overthrow.
+prev_word: event
+next_word: every
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ev/"
+  label: Starting with EV
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

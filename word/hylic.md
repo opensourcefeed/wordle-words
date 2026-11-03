@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having to do with, or of the nature of, matter.
+prev_word: hyles
+next_word: hymen
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

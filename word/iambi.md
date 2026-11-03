@@ -29,4 +29,13 @@ definitions:
 - pos: noun
   defs:
   - text: An iamb
+prev_word: hythe
+next_word: iambs
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/bi/"
+  label: Ending in BI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

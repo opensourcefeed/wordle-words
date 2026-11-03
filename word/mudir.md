@@ -26,4 +26,15 @@ neighbours:
 - mudim
 anagrams:
 - murid
+prev_word: mudim
+next_word: mudra
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

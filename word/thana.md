@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: An Indian military outpost.
   - text: A police station, or a police jurisdiction.
+prev_word: thali
+next_word: thane
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

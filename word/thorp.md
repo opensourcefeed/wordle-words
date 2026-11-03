@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: "(now chiefly in placenames) A group of houses standing together in the
       country; a hamlet; a village."
+prev_word: thoro
+next_word: those
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/rp/"
+  label: Ending in RP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

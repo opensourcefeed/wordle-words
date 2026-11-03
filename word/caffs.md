@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: Café, cafeteria.
+prev_word: caffe
+next_word: caged
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

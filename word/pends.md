@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _ENDS
   count: 11
+prev_word: pence
+next_word: pendu
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

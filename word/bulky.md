@@ -37,4 +37,15 @@ definitions:
   - text: Being large in size, mass, or volume.
   - text: Unwieldy.
   - text: Having excess body mass, especially muscle.
+prev_word: bulks
+next_word: bulla
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

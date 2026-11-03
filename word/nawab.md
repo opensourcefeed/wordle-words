@@ -31,4 +31,15 @@ definitions:
   - text: A Muslim official in South Asia acting as a provincial deputy ruler under
       the Mughal empire; a local governor.
   - text: Any of various nymphalid butterflies of the genus Polyura.
+prev_word: navvy
+next_word: nawal
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ab/"
+  label: Ending in AB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

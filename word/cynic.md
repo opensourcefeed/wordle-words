@@ -36,4 +36,15 @@ definitions:
   - text: Cynical (in all senses)
   - text: Relating to the Dog Star.
     example: the cynic, or Sothic, year; cynic cycle
+prev_word: cymol
+next_word: cysts
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cy/"
+  label: Starting with CY
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

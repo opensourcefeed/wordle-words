@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: The ordinal form of the cardinal number three; Coming after the second.
     example: The third tree from the left is my favorite.
+prev_word: thiol
+next_word: thirl
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

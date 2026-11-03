@@ -53,4 +53,15 @@ definitions:
   - text: A sleeveless garment or part of a garment, hanging from the neck over the
       back, arms, and shoulders.
   - text: A superhero.
+prev_word: caper
+next_word: capex
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

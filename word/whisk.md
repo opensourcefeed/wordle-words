@@ -56,4 +56,15 @@ definitions:
   - text: To move lightly and nimbly.
     example: The children whisked down the road to the fair, laughing and chattering
       as they went.
+prev_word: whish
+next_word: whiss
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/sk/"
+  label: Ending in SK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

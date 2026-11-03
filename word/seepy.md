@@ -27,4 +27,15 @@ neighbours:
 - weepy
 anagrams:
 - peyse
+prev_word: seeps
+next_word: seers
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

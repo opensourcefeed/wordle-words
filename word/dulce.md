@@ -26,4 +26,15 @@ neighbours:
 - dulse
 anagrams:
 - clued
+prev_word: dukun
+next_word: dules
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

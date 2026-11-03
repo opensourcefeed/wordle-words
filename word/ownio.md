@@ -21,4 +21,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 89
+prev_word: owner
+next_word: owres
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ow/"
+  label: Starting with OW
+- url: "/ending-with/io/"
+  label: Ending in IO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

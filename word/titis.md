@@ -45,4 +45,15 @@ definitions:
   - text: A tree of the southern United States (Cliftonia monophylla) having glossy
       leaves and racemes of fragrant white flowers succeeded by one-seeded drupes.
   - text: Any related tree of the genus Cyrilla.
+prev_word: titir
+next_word: title
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

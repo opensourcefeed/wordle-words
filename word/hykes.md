@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _YKES
   count: 7
+prev_word: hying
+next_word: hylas
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

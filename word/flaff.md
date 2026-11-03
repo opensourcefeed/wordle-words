@@ -23,4 +23,15 @@ stats:
 neighbours:
 - fluff
 - blaff
+prev_word: flack
+next_word: flags
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _EARE
   count: 9
+prev_word: meany
+next_word: mease
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

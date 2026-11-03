@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A form of Japanese verse in which short poems are connected together. Encompasses
       haikai, the origination point for haiku.
+prev_word: reney
+next_word: rengs
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

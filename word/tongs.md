@@ -50,4 +50,15 @@ definitions:
       implement with oval-loop handles and with pointed tips turned inward (in the
       same plane as and perpendicular to the handles) to facilitate lifting and carrying
       a block of ice. Often called ice tongs."
+prev_word: tonga
+next_word: tonic
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

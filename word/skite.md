@@ -50,4 +50,15 @@ definitions:
   - text: To slip, such as on ice.
   - text: To drink a large amount of alcohol.
   - text: To defecate, to shit.
+prev_word: skirt
+next_word: skits
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

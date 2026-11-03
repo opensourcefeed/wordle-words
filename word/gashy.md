@@ -26,4 +26,15 @@ neighbours:
 - hashy
 - mashy
 - washy
+prev_word: gases
+next_word: gasps
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -43,4 +43,15 @@ definitions:
   - text: To move slowly and heavily; move in a dull, slow, lazy manner.
   - text: To speak with a slow, spiritless utterance, from affectation, laziness,
       or lack of interest.
+prev_word: drave
+next_word: drawn
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/wl/"
+  label: Ending in WL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

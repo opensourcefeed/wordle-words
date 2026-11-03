@@ -32,4 +32,15 @@ neighbours:
 - urate
 anagrams:
 - uteri
+prev_word: urine
+next_word: urman
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A nanny.
+prev_word: yawps
+next_word: ybore
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

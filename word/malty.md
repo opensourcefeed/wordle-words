@@ -36,4 +36,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of, pertaining to, containing, or characteristic of malt
+prev_word: malts
+next_word: malus
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

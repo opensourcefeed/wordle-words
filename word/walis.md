@@ -50,4 +50,15 @@ definitions:
 - pos: noun
   defs:
   - text: A saint or prophet.
+prev_word: walie
+next_word: walks
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

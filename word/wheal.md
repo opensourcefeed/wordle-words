@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: A small raised swelling on the skin, often itchy, caused by a blow from
       a whip or an insect bite etc.
+prev_word: whaur
+next_word: whear
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

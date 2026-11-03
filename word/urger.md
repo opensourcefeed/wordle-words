@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: One who urges.
+prev_word: urged
+next_word: urges
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -34,4 +34,15 @@ definitions:
   - text: In the style of jazz.
   - text: Flashy or showy.
   - text: Lacking focus; jittery or jangly.
+prev_word: jaxie
+next_word: jeans
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

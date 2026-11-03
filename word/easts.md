@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _ASTS
   count: 11
+prev_word: easle
+next_word: eaten
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

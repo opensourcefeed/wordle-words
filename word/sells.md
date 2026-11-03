@@ -72,4 +72,15 @@ definitions:
     example: He picked up the sell from the straw-strewn barn-floor, snelly sneaked
       up behind her and sleekly slung it around her swire while scryingː "dee, dee
       ye fooking quhoreǃ".
+prev_word: selle
+next_word: selva
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

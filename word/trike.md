@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: To tricycle; to travel by tricycle.
+prev_word: trigs
+next_word: trild
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

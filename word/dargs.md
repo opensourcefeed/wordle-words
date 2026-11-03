@@ -85,4 +85,15 @@ definitions:
   - text: An insult intended to assert hyperbolically that another person has value
       only as a corpse to be fed to a dog.
     example: Did you just step on my blue suede shoes? You're dog meat now!
+prev_word: darga
+next_word: daric
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

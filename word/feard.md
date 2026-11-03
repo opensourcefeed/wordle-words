@@ -50,4 +50,15 @@ definitions:
   - text: To cause fear to; to frighten.
   - text: To be anxious or solicitous for.
   - text: To suspect; to doubt.
+prev_word: feals
+next_word: feare
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

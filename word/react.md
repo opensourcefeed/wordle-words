@@ -52,4 +52,15 @@ definitions:
       two or more chemical agents; to act in opposition.
   - text: To cause chemical agents to react; to cause one chemical agent to react
       with another.
+prev_word: reach
+next_word: readd
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

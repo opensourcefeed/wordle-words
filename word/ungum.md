@@ -18,4 +18,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 98
+prev_word: ungot
+next_word: unhat
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

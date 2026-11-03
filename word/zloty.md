@@ -30,4 +30,13 @@ definitions:
 - pos: noun
   defs:
   - text: Złoty, the currency unit of Poland, divided into 100 groszy.
+prev_word: zlote
+next_word: zoaea
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

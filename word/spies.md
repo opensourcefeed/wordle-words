@@ -57,4 +57,15 @@ definitions:
     example: I think I can spy that hot guy coming over here.
   - text: To search narrowly; to scrutinize.
   - text: To explore; to see; to view; inspect and examine secretly, as a country.
+prev_word: spier
+next_word: spiff
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

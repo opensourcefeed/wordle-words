@@ -55,4 +55,15 @@ definitions:
   - text: The footprint of a wild animal.
   - text: Track; trace.
   - text: Treatment; exposition.
+prev_word: track
+next_word: trade
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

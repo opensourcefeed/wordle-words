@@ -45,4 +45,15 @@ definitions:
       eyelid), which aid with sympathetic control.
   - text: In insects and other arthropods, any of a series of articulations in the
       true foot; the last joint forming the foot in spiders.
+prev_word: tarse
+next_word: tarte
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/si/"
+  label: Ending in SI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

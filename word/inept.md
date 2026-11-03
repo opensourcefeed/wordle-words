@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: Not able to do something; not proficient; displaying incompetence.
   - text: Unfit; unsuitable.
+prev_word: indue
+next_word: inerm
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

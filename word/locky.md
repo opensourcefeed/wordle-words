@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _OCKY
   count: 7
+prev_word: locks
+next_word: locos
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

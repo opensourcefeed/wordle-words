@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _OGIE
   count: 6
+prev_word: voema
+next_word: vogue
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

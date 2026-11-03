@@ -21,4 +21,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 89
+prev_word: opgaf
+next_word: opine
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/op/"
+  label: Starting with OP
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

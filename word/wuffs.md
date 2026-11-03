@@ -55,4 +55,15 @@ definitions:
 - pos: noun
   defs:
   - text: A wolf.
+prev_word: wudus
+next_word: wulls
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wu/"
+  label: Starting with WU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

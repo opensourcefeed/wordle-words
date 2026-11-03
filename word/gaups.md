@@ -31,4 +31,15 @@ neighbours:
 - gawps
 - jaups
 - yaups
+prev_word: gaunt
+next_word: gaurs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

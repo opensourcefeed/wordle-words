@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: The state of existence between death and subsequent reincarnation.
+prev_word: barde
+next_word: bards
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -54,4 +54,15 @@ definitions:
   - text: Mistakenly.
   - text: Astray.
   - text: Imperfectly.
+prev_word: amirs
+next_word: amity
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

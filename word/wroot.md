@@ -24,4 +24,15 @@ stats:
 neighbours:
 - proot
 - whoot
+prev_word: wrong
+next_word: wrote
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

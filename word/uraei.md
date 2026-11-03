@@ -35,4 +35,13 @@ definitions:
   defs:
   - text: A representation of the sacred asp, symbolising supreme power in ancient
       Egypt.
+prev_word: uptie
+next_word: urali
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -56,4 +56,15 @@ definitions:
   - text: To move along; proceed; progress; advance
     example: We will continue to monitor how the hurricane fares against projected
       models.
+prev_word: fards
+next_word: farer
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

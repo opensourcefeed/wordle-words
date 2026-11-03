@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - snoot
 - toons
+prev_word: oomph
+next_word: oopak
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oo/"
+  label: Starting with OO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

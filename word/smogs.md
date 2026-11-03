@@ -42,4 +42,15 @@ definitions:
   - text: To get a smog check; to check a vehicle or have it checked for emissions.
     example: If the car is more than five years old, you'll have to have it smogged
       before you can register it.
+prev_word: smock
+next_word: smoke
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

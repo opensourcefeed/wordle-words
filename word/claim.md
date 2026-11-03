@@ -53,4 +53,15 @@ definitions:
     example: A fire claimed two homes.
   - text: To proclaim.
   - text: To call or name.
+prev_word: clags
+next_word: clair
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

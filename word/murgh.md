@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(Indian cookery) chicken"
+prev_word: murex
+next_word: murgi
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

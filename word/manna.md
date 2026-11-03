@@ -45,4 +45,15 @@ definitions:
   - text: "(by extension) Any boon which comes into one's hands by good luck."
   - text: The sugary sap of the manna gum tree which oozes out from holes drilled
       by insects and falls to the ground around the tree.http//www.museum.vic.gov.au/forest/plants/gum.html
+prev_word: manly
+next_word: manny
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

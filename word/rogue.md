@@ -67,4 +67,15 @@ definitions:
   - text: "(by extension) Large, destructive and unpredictable."
   - text: "(by extension) Deceitful, unprincipled."
   - text: Mischievous, unpredictable.
+prev_word: roger
+next_word: roguy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - gnaws
 - wangs
+prev_word: swamy
+next_word: swank
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

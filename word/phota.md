@@ -27,4 +27,15 @@ neighbours:
 - phoca
 - phots
 - photy
+prev_word: phooo
+next_word: photo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

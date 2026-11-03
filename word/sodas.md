@@ -52,4 +52,15 @@ definitions:
   - text: "(especially in the northeast) A glass, bottle or can of this drink."
   - text: The first card in the dealing box in the game of faro, which is discarded
       to leave 51 cards in play.
+prev_word: socle
+next_word: soddy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

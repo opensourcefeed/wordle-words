@@ -30,4 +30,15 @@ definitions:
   - text: A gold coin minted by various European nations.
   - text: A coin of the major denomination (dollar, euro, etc.); money in general.
   - text: A ticket.
+prev_word: ducal
+next_word: duces
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _AUTS
   count: 6
+prev_word: daurs
+next_word: daven
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 95
 neighbours:
 - yummy
+prev_word: yules
+next_word: yummy
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

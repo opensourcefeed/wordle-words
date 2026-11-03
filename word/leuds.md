@@ -32,4 +32,15 @@ anagrams:
 - dulse
 - ludes
 - slued
+prev_word: leuco
+next_word: leugh
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

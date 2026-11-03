@@ -37,4 +37,13 @@ definitions:
   defs:
   - text: A person of Italian, Spanish, Portuguese, or other Mediterranean descent.
   - text: A person of Italian descent.
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

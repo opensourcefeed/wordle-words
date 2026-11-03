@@ -53,4 +53,15 @@ definitions:
   - text: To apply a thin, transparent layer of coating.
   - text: To become glazed or glassy.
   - text: For eyes to take on an uninterested appearance.
+prev_word: glaur
+next_word: glazy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

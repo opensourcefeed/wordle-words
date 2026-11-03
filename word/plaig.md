@@ -25,4 +25,15 @@ neighbours:
 - plaid
 - plain
 - plait
+prev_word: plaid
+next_word: plain
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ig/"
+  label: Ending in IG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

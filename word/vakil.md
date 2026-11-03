@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: A lawyer or advocate mainly a representative in the court of law and a vakil
       can be a representative, especially of a political figure; an official or ambassador.
+prev_word: vakas
+next_word: vales
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

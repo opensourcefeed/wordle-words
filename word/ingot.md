@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To form (scraps of metal) into ingots.
+prev_word: ingle
+next_word: inion
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

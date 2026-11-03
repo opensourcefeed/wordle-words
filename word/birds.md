@@ -59,4 +59,15 @@ definitions:
   - text: A prison sentence.
     example: He’s doing bird.
   - text: A yardbird
+prev_word: birdo
+next_word: biris
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

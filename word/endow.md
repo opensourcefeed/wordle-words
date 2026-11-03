@@ -42,4 +42,15 @@ definitions:
       or quality.'
   - text: 'Usually in the passive: to naturally furnish (with something).'
     example: She was endowed with a beautiful voice.
+prev_word: endew
+next_word: endue
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

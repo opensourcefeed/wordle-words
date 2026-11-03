@@ -25,4 +25,15 @@ neighbours:
 - steys
 - sways
 - swees
+prev_word: swerf
+next_word: swies
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

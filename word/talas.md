@@ -50,4 +50,15 @@ definitions:
 - pos: noun
   defs:
   - text: A rhythmic pattern in Indian music.
+prev_word: talar
+next_word: talcs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

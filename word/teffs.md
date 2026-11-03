@@ -28,4 +28,15 @@ neighbours:
 - tiffs
 - toffs
 - tuffs
+prev_word: teets
+next_word: teggs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

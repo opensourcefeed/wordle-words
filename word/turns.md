@@ -96,4 +96,15 @@ definitions:
   - text: A type turned upside down to serve for another character that is not available.
   - text: The profit made by a stockjobber, being the difference between the buying
       and selling prices.
+prev_word: turms
+next_word: turnt
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -26,4 +26,15 @@ neighbours:
 - powan
 - powie
 - powis
+prev_word: powie
+next_word: powis
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

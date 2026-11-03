@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A unit of currency in Georgia, one hundredth of a lari
+prev_word: tetra
+next_word: teuch
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

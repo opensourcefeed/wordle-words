@@ -41,4 +41,15 @@ definitions:
       instrument or univoce ensemble).
   - text: A song composed for and/or performed by a duo.
   - text: A pair or couple, especially one that is harmonious or elegant.
+prev_word: duels
+next_word: duett
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - blume
 - umbel
+prev_word: umber
+next_word: umbos
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/um/"
+  label: Starting with UM
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

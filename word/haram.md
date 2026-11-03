@@ -36,4 +36,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(fiqh) Forbidden by Islam: unlawful, sinful."
+prev_word: hapus
+next_word: hards
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

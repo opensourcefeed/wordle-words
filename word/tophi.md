@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A deposit of monosodium urate crystals in the body, caused by high levels
       of uric acid in the blood.
+prev_word: tophe
+next_word: tophs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

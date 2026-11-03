@@ -64,4 +64,15 @@ definitions:
   - text: To raise; to make erect.
   - text: (when followed by "on") To tell off; to criticise.
     example: He roused on her for being late yet again.
+prev_word: roupy
+next_word: roust
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

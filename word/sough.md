@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make a soft rustling or murmuring sound.
+prev_word: souct
+next_word: souks
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

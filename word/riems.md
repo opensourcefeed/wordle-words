@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A strip of oxhide, deprived of hair and made pliable, used for twisting
       into ropes, etc.
+prev_word: riels
+next_word: rieve
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

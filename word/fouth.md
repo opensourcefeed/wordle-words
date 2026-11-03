@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _OUTH
   count: 6
+prev_word: fours
+next_word: fovea
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

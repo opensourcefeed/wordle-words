@@ -24,4 +24,15 @@ neighbours:
 - sedum
 anagrams:
 - muled
+prev_word: ledgy
+next_word: leear
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

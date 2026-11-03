@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: MUNG_
   count: 6
+prev_word: mungs
+next_word: munia
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

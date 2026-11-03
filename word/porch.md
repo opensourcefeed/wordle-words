@@ -41,4 +41,15 @@ definitions:
       and with a separate roof.
   - text: A portico; a covered walk.
   - text: The platform outside the external hatch of a spacecraft.
+prev_word: poral
+next_word: pored
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

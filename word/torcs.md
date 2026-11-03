@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: A tightly braided necklace or collar, often made of metal, worn by various
       early European peoples.
+prev_word: torch
+next_word: tores
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -49,4 +49,15 @@ definitions:
   - text: A period of 223 synodic months (approximately 18 years 11 days 8 hours),
       after which the relative positions of the earth, sun and moon recur, used to
       predict eclipses.
+prev_word: sarod
+next_word: sarus
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

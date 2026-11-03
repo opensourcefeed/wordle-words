@@ -24,4 +24,15 @@ stats:
 neighbours:
 - fauna
 - frena
+prev_word: fados
+next_word: faery
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -42,4 +42,15 @@ definitions:
   - text: "(often of a man) To try to persuade (someone) to be in an amorous relationship
       with"
   - text: To court solicitously; to invite with importunity.
+prev_word: woody
+next_word: wooer
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

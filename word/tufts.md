@@ -43,4 +43,15 @@ definitions:
   - text: To form into tufts.
   - text: To secure and strengthen (a mattress, quilt, etc.) with tufts.
   - text: To be formed into tufts.
+prev_word: tuffs
+next_word: tufty
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

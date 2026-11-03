@@ -26,4 +26,15 @@ neighbours:
 - bialy
 anagrams:
 - alibi
+prev_word: biach
+next_word: bialy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

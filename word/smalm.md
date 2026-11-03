@@ -27,4 +27,15 @@ neighbours:
 - smarm
 anagrams:
 - malms
+prev_word: small
+next_word: smalt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/lm/"
+  label: Ending in LM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

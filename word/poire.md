@@ -29,4 +29,15 @@ neighbours:
 - noire
 - paire
 - powre
+prev_word: point
+next_word: poise
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

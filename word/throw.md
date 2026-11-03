@@ -101,4 +101,15 @@ definitions:
   - text: To install (a bridge).
   - text: To twist or turn.
     example: a thrown nail
+prev_word: throe
+next_word: thrum
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

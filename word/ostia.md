@@ -35,4 +35,15 @@ definitions:
   - text: A small opening or orifice, as in a body organ or passage.
   - text: Any of the small openings or pores in a sponge.
   - text: The mouth of a river.
+prev_word: ossia
+next_word: otaku
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/os/"
+  label: Starting with OS
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

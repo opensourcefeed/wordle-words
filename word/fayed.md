@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _AYED
   count: 9
+prev_word: faxes
+next_word: fayer
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

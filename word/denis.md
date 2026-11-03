@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A subdivision of currency, equal to 0.01 Macedonian denar.
+prev_word: denim
+next_word: dense
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -26,4 +26,15 @@ neighbours:
 - jaggs
 - maggs
 - raggs
+prev_word: hafts
+next_word: haham
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

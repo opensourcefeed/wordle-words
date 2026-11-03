@@ -99,4 +99,15 @@ definitions:
   - text: 'A type of scuba harness with an attached buoyancy compensation device:
       see wikipedia:Backplate and wing'
   - text: A flip (hairstyle)
+prev_word: winge
+next_word: wingy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

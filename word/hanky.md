@@ -40,4 +40,15 @@ definitions:
       wiping the face, eyes, nose or hands.
   - text: A piece of cloth shaped like a handkerchief to be worn about the neck; a
       neckerchief or neckcloth.
+prev_word: hanks
+next_word: hansa
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

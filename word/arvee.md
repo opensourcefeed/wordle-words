@@ -25,4 +25,15 @@ stats:
 anagrams:
 - eaver
 - reave
+prev_word: arval
+next_word: arvos
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

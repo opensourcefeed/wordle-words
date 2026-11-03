@@ -41,4 +41,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Hellish, infernal.
+prev_word: hells
+next_word: helms
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

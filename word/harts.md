@@ -74,4 +74,15 @@ definitions:
   - text: The twenty-fourth Lenormand card.
   - text: The centre, essence, or core.
     example: Buddhists believe that suffering is right at the heart of all life.
+prev_word: harsh
+next_word: hashy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

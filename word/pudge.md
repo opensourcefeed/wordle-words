@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Something short and fat.
   - text: Excess body fat.
+prev_word: puddy
+next_word: pudgy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

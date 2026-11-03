@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 80
 anagrams:
 - oxims
+prev_word: sixes
+next_word: sixte
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

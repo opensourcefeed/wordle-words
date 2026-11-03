@@ -31,4 +31,15 @@ neighbours:
 - tyred
 anagrams:
 - tynde
+prev_word: tynde
+next_word: tynes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

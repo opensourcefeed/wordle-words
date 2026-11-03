@@ -28,4 +28,13 @@ neighbours:
 - basis
 anagrams:
 - sabji
+prev_word: basic
+next_word: basil
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/j/"
+  label: Ending in J
 ---

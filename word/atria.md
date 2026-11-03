@@ -47,4 +47,15 @@ definitions:
   - text: A cavity, entrance, or passage.
   - text: Any enclosed sexine and nexine layers, widening toward the interior of the
       grain.
+prev_word: atopy
+next_word: atrip
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

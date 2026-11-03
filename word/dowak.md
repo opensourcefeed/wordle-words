@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 76
 neighbours:
 - dowar
+prev_word: dovie
+next_word: dowar
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

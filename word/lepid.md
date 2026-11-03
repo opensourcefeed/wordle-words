@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - plied
 - piled
+prev_word: leper
+next_word: lepra
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

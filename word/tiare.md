@@ -32,4 +32,15 @@ anagrams:
 - irate
 - retia
 - terai
+prev_word: tiara
+next_word: tiars
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

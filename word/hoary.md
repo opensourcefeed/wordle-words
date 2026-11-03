@@ -40,4 +40,15 @@ definitions:
   - text: Remote in time past.
   - text: Moldy; mossy; musty.
   - text: Old or old-fashioned.
+prev_word: hoars
+next_word: hoast
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

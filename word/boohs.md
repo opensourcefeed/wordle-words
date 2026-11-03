@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: BOO_S
   count: 8
+prev_word: boogy
+next_word: books
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

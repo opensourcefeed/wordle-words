@@ -35,4 +35,13 @@ definitions:
   defs:
   - text: An emperor of Russia (1547 to 1917) and of some South Slavic states.
   - text: A person with great power; an autocrat.
+prev_word: cyton
+next_word: daals
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

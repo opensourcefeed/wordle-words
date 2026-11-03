@@ -20,4 +20,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 80
+prev_word: tying
+next_word: tykes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

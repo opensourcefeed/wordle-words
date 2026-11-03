@@ -35,4 +35,13 @@ definitions:
   defs:
   - text: A metrical foot in verse consisting of an unstressed syllable followed by
       a stressed syllable.
+prev_word: iambi
+next_word: ibrik
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

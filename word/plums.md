@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: The fruit and its tree.
   - text: Extended senses.
+prev_word: plump
+next_word: plumy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

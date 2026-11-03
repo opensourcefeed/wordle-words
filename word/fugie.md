@@ -27,4 +27,15 @@ neighbours:
 - fugio
 - fugis
 - fugle
+prev_word: fuggy
+next_word: fugio
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

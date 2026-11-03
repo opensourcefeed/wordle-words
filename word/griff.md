@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Griffin, (white) newcomer
+prev_word: grief
+next_word: grift
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

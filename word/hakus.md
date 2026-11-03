@@ -26,4 +26,15 @@ neighbours:
 - hakes
 - hapus
 - rakus
+prev_word: hakim
+next_word: halal
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

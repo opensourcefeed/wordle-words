@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: The swede (rutabaga), called "turnip" in Scotland.
+prev_word: neems
+next_word: neese
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

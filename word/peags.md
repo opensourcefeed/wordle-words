@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: PEA_S
   count: 6
+prev_word: peage
+next_word: peake
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -34,4 +34,15 @@ definitions:
   - text: To address someone as dude.
   - text: To take a vacation in a dude ranch.
   - text: 'Usually followed by up: to dress up, to wear smart or special clothes.'
+prev_word: duddy
+next_word: dudes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

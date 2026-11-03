@@ -35,4 +35,15 @@ definitions:
       of the beginning.
   - text: The closing sequence at the end of a film, television program, video game
       etc.
+prev_word: outre
+next_word: outta
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -34,4 +34,15 @@ anagrams:
 - swale
 - wales
 - weals
+prev_word: sways
+next_word: swear
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

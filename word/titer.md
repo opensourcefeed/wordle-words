@@ -52,4 +52,15 @@ definitions:
 - pos: verb
   defs:
   - text: To measure a concentration, especially by means of titration
+prev_word: titch
+next_word: tithe
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

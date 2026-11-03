@@ -36,4 +36,15 @@ definitions:
 - pos: interjection
   defs:
   - text: Used to express doubt or disapproval
+prev_word: humor
+next_word: humps
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ph/"
+  label: Ending in PH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -68,4 +68,15 @@ definitions:
   - text: To avoid; to prevent; to refrain from; to restrain (oneself). Usually used
       in nonassertive contexts with can.
     example: Are they going to beat us? Not if I can help it!
+prev_word: helot
+next_word: helve
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

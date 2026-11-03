@@ -53,4 +53,15 @@ definitions:
   - text: A wrongful or criminal deed.
     example: He had become an accessory after the fact.
   - text: A feat or meritorious deed.
+prev_word: facto
+next_word: facty
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -38,4 +38,15 @@ definitions:
   - text: Nonsense; amusing stories.
     example: '2007, Keith Skipper, Keith Skipper''s Bumper Book of Norfolk Squit:
       High jinks, hilarity & hot air from Norfolk''s favourite raconteur.'
+prev_word: squid
+next_word: squiz
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sq/"
+  label: Starting with SQ
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

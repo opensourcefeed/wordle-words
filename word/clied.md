@@ -28,4 +28,15 @@ neighbours:
 - plied
 - clies
 - flied
+prev_word: click
+next_word: clies
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

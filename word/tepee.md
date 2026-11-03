@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: Alternative form of teepee
+prev_word: tepas
+next_word: tepid
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

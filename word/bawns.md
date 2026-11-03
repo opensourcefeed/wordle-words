@@ -42,4 +42,15 @@ definitions:
   - text: A cattle-fort; a building used to shelter cattle.
   - text: A defensive wall built around a tower house. It was once used to protect
       livestock during an attack.
+prev_word: bawls
+next_word: bawrs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

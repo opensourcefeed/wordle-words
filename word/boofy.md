@@ -43,4 +43,15 @@ definitions:
       such hair; see bouffant.
     example: My hair was so boofy this morning it took 10 minutes of brushing to get
       it looking decent.
+prev_word: booed
+next_word: boogy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

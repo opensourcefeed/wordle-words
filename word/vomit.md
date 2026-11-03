@@ -34,4 +34,15 @@ definitions:
   - text: To regurgitate or eject the contents of the stomach through the mouth; puke.
   - text: To regurgitate and discharge (something swallowed); to spew.
   - text: To eject from any hollow place; to belch forth; to emit.
+prev_word: vomer
+next_word: voted
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: Any of several fish, of the family Carangidae, from the western Atlantic.
   - text: "(in the plural) A large number or quantity."
+prev_word: scabs
+next_word: scaff
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

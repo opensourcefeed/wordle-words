@@ -35,4 +35,15 @@ anagrams:
 - mensa
 - names
 - samen
+prev_word: nelly
+next_word: nemic
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

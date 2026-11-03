@@ -24,4 +24,13 @@ neighbours:
 - group
 - grout
 - groof
+prev_word: grots
+next_word: group
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

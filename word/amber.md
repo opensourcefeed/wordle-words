@@ -58,4 +58,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of a brownish yellow colour, like that of most amber.
+prev_word: amban
+next_word: ambit
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

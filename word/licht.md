@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _ICHT
   count: 6
+prev_word: lichi
+next_word: licit
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

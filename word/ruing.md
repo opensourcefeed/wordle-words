@@ -39,4 +39,15 @@ definitions:
     example: I rued the day I crossed paths with her.
   - text: To feel compassion or pity.
   - text: To feel sorrow or regret.
+prev_word: ruice
+next_word: ruins
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

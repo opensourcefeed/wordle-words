@@ -27,4 +27,15 @@ neighbours:
 - rouky
 - roups
 - soupy
+prev_word: roups
+next_word: rouse
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: A local tax, paid originally to the lord or ruler and later to a sheriff.
+prev_word: scote
+next_word: scoug
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

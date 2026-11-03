@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - bacco
 - caboc
+prev_word: bobos
+next_word: bocce
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -24,4 +24,15 @@ stats:
 neighbours:
 - usurp
 - usury
+prev_word: usual
+next_word: usurp
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/us/"
+  label: Starting with US
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

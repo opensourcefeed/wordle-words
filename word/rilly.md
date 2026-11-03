@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _ILLY
   count: 10
+prev_word: rills
+next_word: rimae
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -25,4 +25,13 @@ neighbours:
 - iodic
 - iodid
 - modin
+prev_word: iodid
+next_word: ionic
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

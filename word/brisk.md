@@ -50,4 +50,15 @@ definitions:
     example: This morning was a brisk fall day. It wasn't cold enough for frost, but
       you wanted to keep moving.
   - text: Abrupt, curt in one's manner or in relation to others.
+prev_word: brise
+next_word: briss
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/sk/"
+  label: Ending in SK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

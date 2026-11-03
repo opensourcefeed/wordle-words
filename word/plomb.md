@@ -22,4 +22,15 @@ stats:
 neighbours:
 - plumb
 - clomb
+prev_word: ploit
+next_word: plong
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/mb/"
+  label: Ending in MB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

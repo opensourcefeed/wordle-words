@@ -22,4 +22,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 45
+prev_word: eclat
+next_word: ecrus
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ec/"
+  label: Starting with EC
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

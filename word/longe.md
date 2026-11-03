@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To work (a horse) in a circle at the end of a long line or rope.
+prev_word: longa
+next_word: longs
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

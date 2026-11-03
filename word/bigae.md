@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 22
 anagrams:
 - bagie
+prev_word: bifid
+next_word: biggs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: A region; country
   - text: A bright region in the chromosphere of the Sun
+prev_word: plaga
+next_word: plaid
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

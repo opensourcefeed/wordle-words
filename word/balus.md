@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: BAL_S
   count: 7
+prev_word: balun
+next_word: balut
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

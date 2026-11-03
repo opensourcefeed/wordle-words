@@ -28,4 +28,15 @@ neighbours:
 - sownd
 anagrams:
 - drown
+prev_word: rowme
+next_word: rowns
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: The plebeian class of Ancient Rome.
   - text: The common people, especially the mob.
+prev_word: plebe
+next_word: pleck
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

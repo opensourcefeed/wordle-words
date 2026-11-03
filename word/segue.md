@@ -37,4 +37,15 @@ definitions:
   - text: To make a smooth transition from one theme to another.
     example: Beethoven’s symphonies effortlessly segue from one theme to the next.
   - text: "(of a disk jockey) To play a sequence of records with no talk between them."
+prev_word: segos
+next_word: sehri
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

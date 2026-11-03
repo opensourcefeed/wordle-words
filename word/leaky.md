@@ -46,4 +46,15 @@ definitions:
   - text: Having leaks; not fully sealed.
     example: The leaky bucket only dripped one drop at a time, but by the time I got
       back to the house it was half empty.
+prev_word: leaks
+next_word: leams
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

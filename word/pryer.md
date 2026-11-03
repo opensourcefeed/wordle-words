@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _RYER
   count: 6
+prev_word: pryan
+next_word: pryse
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

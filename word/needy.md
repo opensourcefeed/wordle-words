@@ -44,4 +44,15 @@ definitions:
   - text: Desiring constant affirmation; lacking self-confidence.
     example: It's emotionally exhausting to be around her because she's so needy.
   - text: Needful; necessary.
+prev_word: needs
+next_word: neefs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

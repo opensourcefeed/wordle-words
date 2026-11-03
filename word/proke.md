@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: PRO_E
   count: 7
+prev_word: proin
+next_word: prole
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 62
 neighbours:
 - azuki
+prev_word: adsum
+next_word: adult
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ki/"
+  label: Ending in KI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

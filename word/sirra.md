@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - arris
 - sarir
+prev_word: siroc
+next_word: sirup
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

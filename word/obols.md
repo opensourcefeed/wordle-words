@@ -36,4 +36,15 @@ definitions:
   - text: A silver coin of Ancient Greece.
     example: In Classical Athens, there were six obols to one drachma.
   - text: A weight, equivalent to one sixth of a drachma.
+prev_word: oboli
+next_word: occam
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ob/"
+  label: Starting with OB
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

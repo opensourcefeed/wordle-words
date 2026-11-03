@@ -1,9 +1,12 @@
 <header>
-    <nav class="navbar">
-        <div class="container">
-            <a class="navbar-brand" href="{{ '/' | relative_url }}">
-                Wordle Words
-            </a>
+    <nav class="navbar" aria-label="Main">
+        <div class="container nav-inner">
+            <a class="navbar-brand" href="{{ '/' | relative_url }}">Wordle Words</a>
+            <ul class="nav-links">
+                <li><a href="{{ '/browse/' | relative_url }}">Browse</a></li>
+                <li><a href="{{ '/past-answers/' | relative_url }}">Past answers</a></li>
+                <li><a href="{{ '/possible-answers/' | relative_url }}">Possible answers</a></li>
+            </ul>
         </div>
     </nav>
 </header>

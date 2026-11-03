@@ -28,4 +28,15 @@ definitions:
   - text: "The first letter of the Proto-Canaanite alphabet, and its descendants in
       descended Semitic scripts, such as Phoenician \U00010900, Aramaic \U00010840,
       Syriac ܐ, Hebrew א and Arabic ا."
+prev_word: aleft
+next_word: alert
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ph/"
+  label: Ending in PH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: One who is naive.
+prev_word: naieo
+next_word: naiks
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

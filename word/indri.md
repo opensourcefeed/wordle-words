@@ -26,4 +26,15 @@ definitions:
 - pos: noun
   defs:
   - text: One of the largest living lemurs (Indri indri), native to Madagascar.
+prev_word: indow
+next_word: indue
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

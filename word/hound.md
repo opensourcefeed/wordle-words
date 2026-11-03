@@ -48,4 +48,15 @@ definitions:
   - text: "(by extension) A male who constantly seeks the company of desirable women."
   - text: A despicable person.
   - text: A houndfish.
+prev_word: hough
+next_word: houri
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

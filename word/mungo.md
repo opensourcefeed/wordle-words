@@ -40,4 +40,15 @@ definitions:
       rags or the remnants of woollen goods, specifically those of felted, milled,
       or hard-spun woollen cloth, as distinguished from shoddy, or the deviled product
       of loose-textured woollen goods or worsted.
+prev_word: mungi
+next_word: mungs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

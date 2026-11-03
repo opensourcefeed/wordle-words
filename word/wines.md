@@ -58,4 +58,15 @@ definitions:
   defs:
   - text: To entertain with wine.
   - text: To drink wine.
+prev_word: wined
+next_word: winey
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

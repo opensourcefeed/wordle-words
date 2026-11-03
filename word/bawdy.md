@@ -39,4 +39,15 @@ definitions:
   - text: Obscene; filthy; unchaste.
   - text: "(of language) Sexual in nature and usually meant to be humorous but considered
       rude."
+prev_word: bawds
+next_word: bawks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 85
 neighbours:
 - aroma
+prev_word: aboil
+next_word: aboon
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -67,4 +67,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(chiefly Midwestern and northeastern US) great; excellent; powerful"
+prev_word: bears
+next_word: beath
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

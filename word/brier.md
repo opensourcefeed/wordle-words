@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: The white heath, Erica arborea, a thorny Mediterranean shrub.
   - text: A pipe for smoking, made from the roots of that shrub.
+prev_word: brief
+next_word: bries
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

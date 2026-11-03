@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A genre of Kenyan popular music in an urban style associated with stringed
       instrumentation.
+prev_word: benet
+next_word: benis
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

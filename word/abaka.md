@@ -22,4 +22,15 @@ stats:
 neighbours:
 - abaca
 - abaya
+prev_word: abaht
+next_word: abamp
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

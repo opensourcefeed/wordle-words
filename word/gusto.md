@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Enthusiasm; enjoyment, vigor.
     example: He sang with more gusto than talent.
+prev_word: gussy
+next_word: gusts
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

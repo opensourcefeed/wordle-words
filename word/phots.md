@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To photograph
+prev_word: photo
+next_word: photy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

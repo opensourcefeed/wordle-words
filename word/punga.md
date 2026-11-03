@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: Alsophila dealbata (=Cyathea dealbata), a medium-sized tree fern endemic
       to New Zealand.
+prev_word: punch
+next_word: pungi
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

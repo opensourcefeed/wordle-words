@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 74
 neighbours:
 - emmas
+prev_word: emmew
+next_word: emoji
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -38,4 +38,15 @@ definitions:
   - text: A test, experiment; an assay.
   - text: An attempt.
   - text: A proposed design for a postage stamp or a banknote.
+prev_word: esrog
+next_word: esses
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/es/"
+  label: Starting with ES
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -54,4 +54,15 @@ definitions:
   - text: To light; to kindle.
   - text: To give off a spark or sparks.
   - text: Appalachian To court.
+prev_word: spare
+next_word: spars
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/rk/"
+  label: Ending in RK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

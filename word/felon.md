@@ -37,4 +37,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Wicked; cruel
+prev_word: felly
+next_word: felts
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

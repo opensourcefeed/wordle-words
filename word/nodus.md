@@ -38,4 +38,15 @@ definitions:
   - text: A difficulty.
   - text: In the Odonata, a prominent crossvein near the centre of the leading edge
       of a wing.
+prev_word: nodum
+next_word: noels
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

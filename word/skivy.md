@@ -22,4 +22,15 @@ neighbours:
 - skiey
 - skive
 - stivy
+prev_word: skive
+next_word: sklim
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

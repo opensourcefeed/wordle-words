@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: AN_LE
   count: 6
+prev_word: ancho
+next_word: ancon
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

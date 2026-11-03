@@ -79,4 +79,15 @@ definitions:
       input.
     example: The text box won't receive the user's keystrokes unless you explicitly
       focus it.
+prev_word: focal
+next_word: foehn
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

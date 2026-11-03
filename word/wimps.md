@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: Someone who lacks confidence or courage, is weak, ineffectual, irresolute
       and wishy-washy
+prev_word: wilts
+next_word: wimpy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

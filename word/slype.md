@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A covered passageway, especially one connecting the transept of a cathedral
       or monastery to the chapter house.
+prev_word: slyly
+next_word: smaak
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

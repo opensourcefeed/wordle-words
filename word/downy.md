@@ -36,4 +36,15 @@ definitions:
     example: The chick's downy coat of feathers formed almost immediately to keep
       it warm.
   - text: Sharp-witted, perceptive.
+prev_word: downs
+next_word: dowps
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -29,4 +29,15 @@ neighbours:
 - saver
 - saves
 - wavey
+prev_word: saves
+next_word: savin
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

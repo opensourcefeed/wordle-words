@@ -24,4 +24,13 @@ stats:
   starter_top_percent: 77
 anagrams:
 - umiaq
+prev_word: maqam
+next_word: marae
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: S_IMS
   count: 7
+prev_word: stime
+next_word: stimy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -41,4 +41,15 @@ definitions:
   - text: An upper-atmospheric optical phenomenon associated with thunderstorms, a
       short-lasting pinpoint of light on the surface of convective domes that produces
       a gnome.
+prev_word: pixes
+next_word: piyut
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

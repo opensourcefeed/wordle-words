@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _EALS
   count: 14
+prev_word: gazoo
+next_word: geans
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -25,4 +25,15 @@ stats:
 neighbours:
 - gaita
 - gaits
+prev_word: gaits
+next_word: gajos
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/tt/"
+  label: Ending in TT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

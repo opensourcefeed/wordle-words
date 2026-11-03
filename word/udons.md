@@ -25,4 +25,13 @@ anagrams:
 - nodus
 - undos
 - unsod
+prev_word: udder
+next_word: udyog
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

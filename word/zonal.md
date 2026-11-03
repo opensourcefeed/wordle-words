@@ -38,4 +38,15 @@ definitions:
   - text: Related to, associated with, or similar to zones.
   - text: "(of air or ocean currents) roughly longitudinal (east to west, or west
       to east)"
+prev_word: zonae
+next_word: zonda
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

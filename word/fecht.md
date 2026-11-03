@@ -25,4 +25,15 @@ neighbours:
 - wecht
 anagrams:
 - fetch
+prev_word: feces
+next_word: fecit
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

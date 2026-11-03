@@ -30,4 +30,15 @@ neighbours:
 - girns
 - kirns
 - pirns
+prev_word: firni
+next_word: firry
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

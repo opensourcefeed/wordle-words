@@ -61,4 +61,15 @@ definitions:
   - text: The bottom or lower part of anything, or that on which anything rests in
       standing.
   - text: The seat or bottom of a mine; applied to horizontal veins or lodes.
+prev_word: soler
+next_word: solid
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

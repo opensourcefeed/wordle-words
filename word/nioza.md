@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 46
 neighbours:
 - neoza
+prev_word: niopo
+next_word: nipas
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

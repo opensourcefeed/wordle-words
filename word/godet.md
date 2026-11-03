@@ -31,4 +31,15 @@ definitions:
   - text: A piece of fabric inserted into a garment along a seam or cut to lengthen
       the free edge, and to make a garment roomier and to add a wavy edge cf. gusset.
   - text: A roller for guiding synthetic filaments during drawing.
+prev_word: gobos
+next_word: godly
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

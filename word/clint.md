@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: The relatively flat part of a limestone pavement between the grikes
+prev_word: clink
+next_word: clipe
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

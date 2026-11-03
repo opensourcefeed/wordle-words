@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - antra
 - ratan
+prev_word: antae
+next_word: antas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

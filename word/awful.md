@@ -44,4 +44,15 @@ definitions:
   - text: Awfully; dreadfully; terribly.
   - text: Very, extremely.
     example: He was blubbering away something awful.
+prev_word: aweto
+next_word: awing
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -59,4 +59,15 @@ definitions:
   - text: On the left.
     example: He served from the odd court.
   - text: Singular in excellence; matchless; peerless; outstanding.
+prev_word: odals
+next_word: oddly
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/od/"
+  label: Starting with OD
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

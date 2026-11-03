@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: Alsophila dealbata (=Cyathea dealbata), a medium-sized tree fern endemic
       to New Zealand.
+prev_word: poney
+next_word: pongo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

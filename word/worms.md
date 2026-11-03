@@ -79,4 +79,15 @@ definitions:
       purpose of checking a disposition to gnaw, and formerly supposed to guard against
       canine madness.
   - text: To clean by means of a worm; to draw a wad or cartridge from, as a firearm.
+prev_word: world
+next_word: wormy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

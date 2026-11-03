@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 23
 neighbours:
 - aiyee
+prev_word: aimer
+next_word: ainga
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

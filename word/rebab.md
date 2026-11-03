@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A stringed musical instrument, related to the lute, used especially in Islamic
       countries
+prev_word: reave
+next_word: rebar
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ab/"
+  label: Ending in AB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

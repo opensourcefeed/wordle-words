@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A god in Vedic mythology, Hinduism and Buddhism.
+prev_word: deuce
+next_word: devel
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

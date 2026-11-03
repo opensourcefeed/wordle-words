@@ -40,4 +40,13 @@ definitions:
   defs:
   - text: A journey in circuit of certain itinerant judges called justices in eyre
       (or in itinere).
+prev_word: eyras
+next_word: eyrie
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

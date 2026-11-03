@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ILLY
   count: 10
+prev_word: mills
+next_word: milor
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

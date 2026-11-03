@@ -26,4 +26,15 @@ neighbours:
 - dacha
 - kacha
 - pacha
+prev_word: baccy
+next_word: bachs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

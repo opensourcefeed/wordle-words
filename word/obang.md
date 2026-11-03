@@ -25,4 +25,15 @@ neighbours:
 anagrams:
 - bogan
 - goban
+prev_word: oaves
+next_word: obbos
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ob/"
+  label: Starting with OB
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _OBBY
   count: 10
+prev_word: noahs
+next_word: noble
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

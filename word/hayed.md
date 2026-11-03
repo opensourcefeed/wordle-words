@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _AYED
   count: 9
+prev_word: hawse
+next_word: hayer
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

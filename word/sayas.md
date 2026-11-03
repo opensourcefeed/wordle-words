@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - assay
 - yaass
+prev_word: saxes
+next_word: sayed
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

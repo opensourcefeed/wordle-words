@@ -40,4 +40,15 @@ definitions:
   - text: To hit a fly ball; to hit a fly ball that is caught for an out. Compare
       ground (verb) and line (verb).
     example: Jones flied to right in his last at-bat.
+prev_word: flics
+next_word: flier
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -69,4 +69,15 @@ definitions:
   - text: To determine or judge.
     example: The jury finds for the defendant.
   - text: To discover game.
+prev_word: finch
+next_word: fined
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

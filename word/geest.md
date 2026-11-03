@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - egest
 - geste
+prev_word: geese
+next_word: geist
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

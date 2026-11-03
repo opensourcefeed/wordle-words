@@ -38,4 +38,13 @@ definitions:
   defs:
   - text: A sister that is older than oneself; also used as a term of familiarity
       or respect toward a woman that is older.
+prev_word: aalii
+next_word: aargh
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

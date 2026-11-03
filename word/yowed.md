@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _OWED
   count: 13
+prev_word: youth
+next_word: yowes
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

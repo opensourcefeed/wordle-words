@@ -27,4 +27,13 @@ neighbours:
 - myals
 anagrams:
 - glams
+prev_word: mezzo
+next_word: mhorr
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

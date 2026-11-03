@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To flatten the tongue against the roof of the mouth for supposed health
       benefits.
+prev_word: meves
+next_word: mewls
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

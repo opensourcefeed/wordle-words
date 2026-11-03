@@ -64,4 +64,15 @@ definitions:
   - text: To keep (something) in equilibrium; to hold suspended or balanced.
     example: The rock was poised precariously on the edge of the cliff.
   - text: To ascertain, as if by balancing; to weigh.
+prev_word: poire
+next_word: pokal
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -38,4 +38,15 @@ definitions:
       leaves that yield fibers used for rope.
   - text: The fibre of the plant.
   - text: A sisal mat.
+prev_word: sirup
+next_word: sises
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A subspecies of onager (Equus hemionus), Equus hemionus kulan.
+prev_word: kulak
+next_word: kulas
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

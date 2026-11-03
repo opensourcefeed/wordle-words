@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ANNY
   count: 8
+prev_word: janns
+next_word: janty
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

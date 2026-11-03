@@ -34,4 +34,15 @@ anagrams:
 - teems
 - temes
 - temse
+prev_word: stell
+next_word: stems
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

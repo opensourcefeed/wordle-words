@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: NO_ES
   count: 9
+prev_word: noyed
+next_word: nrtta
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

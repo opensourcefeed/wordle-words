@@ -44,4 +44,15 @@ definitions:
   - text: A female who is extremely fond of or devoted to a specified type of thing.
       (Used as the last element of a compound.)
   - text: A female attendant or servant.
+prev_word: womby
+next_word: womyn
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

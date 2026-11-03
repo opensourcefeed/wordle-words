@@ -27,4 +27,15 @@ neighbours:
 - poaka
 - pouke
 - roake
+prev_word: poaka
+next_word: poalo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -60,4 +60,15 @@ definitions:
   - text: To produce as an effect of bursting.
     example: to burst a hole through the wall
   - text: To interrupt suddenly in a violent or explosive manner; to shatter.
+prev_word: burse
+next_word: busby
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

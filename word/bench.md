@@ -76,4 +76,15 @@ definitions:
       hands and knees, causing them to fall over.
   - text: To furnish with benches.
   - text: To place on a bench or seat of honour.
+prev_word: bemud
+next_word: bends
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

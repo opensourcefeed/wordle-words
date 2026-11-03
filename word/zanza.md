@@ -24,4 +24,15 @@ stats:
 neighbours:
 - zanja
 - zanze
+prev_word: zante
+next_word: zanze
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

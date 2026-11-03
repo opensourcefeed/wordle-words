@@ -38,4 +38,15 @@ definitions:
   - text: To keep in expectation; to beguile; to delude.
   - text: To occupy or engage the attention of; to lose in deep thought; to absorb;
       also, to distract; to bewilder.
+prev_word: amuck
+next_word: amyls
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

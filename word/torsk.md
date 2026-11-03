@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: An edible fish, Brosme brosme.
+prev_word: torsi
+next_word: torso
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/sk/"
+  label: Ending in SK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

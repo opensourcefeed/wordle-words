@@ -27,4 +27,13 @@ neighbours:
 anagrams:
 - hosed
 - shoed
+prev_word: dosed
+next_word: doser
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

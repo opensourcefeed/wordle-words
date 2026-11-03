@@ -26,4 +26,15 @@ neighbours:
 - wefte
 anagrams:
 - etwee
+prev_word: weest
+next_word: weets
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

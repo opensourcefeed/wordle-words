@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _ESTY
   count: 7
+prev_word: fests
+next_word: fetal
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

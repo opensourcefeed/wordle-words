@@ -66,4 +66,15 @@ definitions:
   - text: To extend (one's neck).
   - text: To raise or lower with, or as if with, a crane.
   - text: To pull up before a jump.
+prev_word: crams
+next_word: crank
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

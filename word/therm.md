@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: 'A former unit of heat equal to 100,000 British thermal units. Symbol: thm.'
+prev_word: there
+next_word: these
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/rm/"
+  label: Ending in RM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -28,4 +28,15 @@ definitions:
   - text: A colourless, watery bodily fluid, carried by the lymphatic system, that
       consists mainly of white blood cells.
   - text: Discharge from a sore, inflammation etc.
+prev_word: lymes
+next_word: lynch
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/ph/"
+  label: Ending in PH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

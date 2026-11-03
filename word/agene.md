@@ -30,4 +30,15 @@ neighbours:
 - arene
 anagrams:
 - genae
+prev_word: agbas
+next_word: agent
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

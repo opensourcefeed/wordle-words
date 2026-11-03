@@ -26,4 +26,15 @@ neighbours:
 - coach
 - coast
 - coapt
+prev_word: coach
+next_word: coady
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

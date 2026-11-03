@@ -31,4 +31,15 @@ anagrams:
 - hater
 - heart
 - rathe
+prev_word: thowl
+next_word: thraw
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -28,4 +28,15 @@ neighbours:
 - penni
 anagrams:
 - pinna
+prev_word: panne
+next_word: panny
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ni/"
+  label: Ending in NI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

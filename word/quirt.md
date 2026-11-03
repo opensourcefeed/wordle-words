@@ -40,4 +40,15 @@ definitions:
 - pos: verb
   defs:
   - text: To strike with a quirt.
+prev_word: quirl
+next_word: quist
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

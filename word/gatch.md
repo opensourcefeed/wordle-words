@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ATCH
   count: 10
+prev_word: gasts
+next_word: gated
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

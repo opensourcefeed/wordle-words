@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _EAST
   count: 6
+prev_word: heart
+next_word: heath
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

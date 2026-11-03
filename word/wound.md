@@ -51,4 +51,15 @@ definitions:
     example: The police officer wounded the suspect during the fight that ensued.
   - text: To hurt (a person's feelings).
     example: The actor's pride was wounded when the leading role went to his rival.
+prev_word: would
+next_word: woven
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

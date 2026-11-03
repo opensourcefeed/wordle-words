@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - feral
 - flare
+prev_word: fares
+next_word: farls
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

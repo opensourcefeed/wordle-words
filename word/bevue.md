@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 93
 neighbours:
 - revue
+prev_word: bevor
+next_word: bevvy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

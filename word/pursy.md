@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Out of breath; short of breath, especially due to fatness.
   - text: Fat and short.
+prev_word: purse
+next_word: purty
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

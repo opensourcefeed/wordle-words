@@ -52,4 +52,15 @@ definitions:
   - text: To be alert; to keep watch
     example: Command unto the guards that they diligently wake.
   - text: To sit up late for festive purposes; to hold a night revel.
+prev_word: wojus
+next_word: woker
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

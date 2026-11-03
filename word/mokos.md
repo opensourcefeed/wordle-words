@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: A tattoo (image made in the skin) in Maori culture, traditionally done with
       chisels.
+prev_word: mokky
+next_word: mokus
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -26,4 +26,15 @@ neighbours:
 - baths
 - machs
 - tachs
+prev_word: bacha
+next_word: backs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

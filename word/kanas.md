@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: KA_AS
   count: 9
+prev_word: kanal
+next_word: kanat
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -55,4 +55,15 @@ definitions:
   - text: Dull; not bright or colorful
   - text: Subdued; solemn; grave
   - text: Poor; feeble
+prev_word: sobas
+next_word: socas
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

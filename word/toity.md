@@ -27,4 +27,15 @@ neighbours:
 - toidy
 - toits
 - totty
+prev_word: toits
+next_word: tokay
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

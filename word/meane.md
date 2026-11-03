@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - enema
 - amene
+prev_word: mealy
+next_word: means
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

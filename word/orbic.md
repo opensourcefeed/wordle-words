@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - boric
 - cribo
+prev_word: orbed
+next_word: orbit
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

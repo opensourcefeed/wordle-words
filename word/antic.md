@@ -59,4 +59,15 @@ definitions:
   - text: Belonging to former times, not modern, out of date, old-fashioned.
   - text: Designating a style of type.
   - text: Embossed without gilt.
+prev_word: antes
+next_word: antis
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

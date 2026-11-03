@@ -27,4 +27,13 @@ definitions:
 - pos: noun
   defs:
   - text: A card, die, or domino with five spots or pips.
+prev_word: cines
+next_word: cions
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

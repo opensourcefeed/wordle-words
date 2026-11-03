@@ -26,4 +26,15 @@ neighbours:
 - yeans
 - years
 - yechs
+prev_word: yeads
+next_word: yealm
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

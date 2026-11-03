@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _AGGY
   count: 9
+prev_word: nages
+next_word: nagor
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

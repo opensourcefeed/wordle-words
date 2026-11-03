@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 97
 neighbours:
 - pobby
+prev_word: pobby
+next_word: pocan
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/oy/"
+  label: Ending in OY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

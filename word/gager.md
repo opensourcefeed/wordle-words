@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _AGER
   count: 10
+prev_word: gaged
+next_word: gages
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

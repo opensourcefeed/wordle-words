@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To ride or paddle a canoe.
+prev_word: canny
+next_word: canon
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/oe/"
+  label: Ending in OE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

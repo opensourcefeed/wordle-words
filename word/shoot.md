@@ -71,4 +71,15 @@ definitions:
   - text: To variegate as if by sprinkling or intermingling; to color in spots or
       patches.W
   - text: To shoot the moon.
+prev_word: shoos
+next_word: shope
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

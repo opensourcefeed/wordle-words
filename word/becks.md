@@ -52,4 +52,15 @@ definitions:
 - pos: noun
   defs:
   - text: A vat.
+prev_word: becke
+next_word: bedad
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -24,4 +24,15 @@ neighbours:
 - cundy
 - fundy
 - gundy
+prev_word: ounce
+next_word: oupas
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

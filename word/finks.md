@@ -69,4 +69,15 @@ definitions:
 - pos: verb
   defs:
   - text: To seem, to appear.
+prev_word: finis
+next_word: finny
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - puris
 - sirup
+prev_word: priss
+next_word: privy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

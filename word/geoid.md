@@ -35,4 +35,15 @@ definitions:
       under the influence of the Earth's gravity and rotation alone, extending also
       through the continents, disregarding other factors such as winds and tides;
       that is, a surface of constant gravitational potential at zero elevation."
+prev_word: geode
+next_word: gerah
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

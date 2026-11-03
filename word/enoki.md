@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: An enoki mushroom, Flammulina velutipes.
+prev_word: ennui
+next_word: enols
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/ki/"
+  label: Ending in KI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

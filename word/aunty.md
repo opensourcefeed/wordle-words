@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: Term of familiarity or respect for a middle-aged or elderly woman.
+prev_word: aunts
+next_word: aurae
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

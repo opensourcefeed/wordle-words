@@ -54,4 +54,15 @@ definitions:
   - text: To tailor clothes to make them fit.
   - text: To castrate, neuter or spay (a dog or other animal).
   - text: To affect mentally, as by psychotropic drugs or illness.
+prev_word: altar
+next_word: altho
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

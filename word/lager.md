@@ -54,4 +54,15 @@ definitions:
 - pos: verb
   defs:
   - text: To store (lager beer) at a low temperature for maturing and clarification.
+prev_word: lagar
+next_word: laggy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -25,4 +25,15 @@ neighbours:
 - lyart
 anagrams:
 - lardy
+prev_word: lyams
+next_word: lyart
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

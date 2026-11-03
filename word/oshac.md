@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 31
 anagrams:
 - chaos
+prev_word: oseys
+next_word: osier
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/os/"
+  label: Starting with OS
+- url: "/ending-with/ac/"
+  label: Ending in AC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

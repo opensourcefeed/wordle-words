@@ -35,4 +35,15 @@ neighbours:
 anagrams:
 - afire
 - feria
+prev_word: faint
+next_word: fairs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

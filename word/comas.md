@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: A state of unconsciousness from which one may not wake up, usually induced
       by some form of trauma.
+prev_word: comal
+next_word: combe
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

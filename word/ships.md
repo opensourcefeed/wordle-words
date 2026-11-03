@@ -77,4 +77,15 @@ definitions:
   - text: To support or approve of a fictional romantic relationship between two characters,
       either real or themselves fictional, typically in fan fiction.
     example: I ship Kirk and Spock in “Star Trek”.
+prev_word: shiok
+next_word: shire
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To row a boat using a scull or sculls.
   - text: To skate while keeping both feet in contact with the ground or ice.
+prev_word: sculk
+next_word: sculp
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

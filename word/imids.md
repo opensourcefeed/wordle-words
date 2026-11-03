@@ -27,4 +27,15 @@ neighbours:
 - irids
 anagrams:
 - midis
+prev_word: imido
+next_word: imine
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

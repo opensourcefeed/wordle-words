@@ -32,4 +32,15 @@ neighbours:
 - juris
 - kuris
 - puris
+prev_word: auric
+next_word: aurum
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

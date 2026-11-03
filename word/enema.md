@@ -39,4 +39,15 @@ definitions:
       for medical purposes.
   - text: The fluid so injected.
   - text: A device for administering such an injection.
+prev_word: endue
+next_word: enemy
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

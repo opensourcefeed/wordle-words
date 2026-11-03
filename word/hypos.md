@@ -41,4 +41,15 @@ definitions:
   - text: Hypothecation.
   - text: "(in the study of law) A hypothetical case."
   - text: A hypomelanistic snake.
+prev_word: hyphy
+next_word: hyrax
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

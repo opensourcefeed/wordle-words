@@ -40,4 +40,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Made of suede
+prev_word: sudsy
+next_word: suent
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

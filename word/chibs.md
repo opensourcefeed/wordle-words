@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To shiv (stab).
+prev_word: chiba
+next_word: chica
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

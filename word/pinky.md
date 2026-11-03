@@ -49,4 +49,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Pinkish.
+prev_word: pinks
+next_word: pinna
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

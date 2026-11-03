@@ -29,4 +29,13 @@ definitions:
 - pos: noun
   defs:
   - text: African cornmeal porridge
+prev_word: udyog
+next_word: ugged
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -27,4 +27,15 @@ neighbours:
 - douce
 anagrams:
 - cooed
+prev_word: doobs
+next_word: doody
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

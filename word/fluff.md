@@ -50,4 +50,15 @@ definitions:
   - text: To do incorrectly, for example mishit, miskick, miscue etc.
   - text: To fart.
   - text: To arouse (a male pornographic actor) before filming.
+prev_word: fluey
+next_word: fluid
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

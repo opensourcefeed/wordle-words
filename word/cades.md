@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: CA_ES
   count: 11
+prev_word: cadee
+next_word: cadet
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -41,4 +41,15 @@ definitions:
   - text: Funny; amusing; comical.
   - text: Relating to comedy.
     example: a comic stereotype
+prev_word: comfy
+next_word: comix
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

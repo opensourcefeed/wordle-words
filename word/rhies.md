@@ -32,4 +32,15 @@ anagrams:
 - hires
 - sehri
 - shier
+prev_word: rheum
+next_word: rhime
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/rh/"
+  label: Starting with RH
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

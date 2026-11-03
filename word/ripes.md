@@ -47,4 +47,15 @@ anagrams:
 trap:
   pattern: RI_ES
   count: 10
+prev_word: riper
+next_word: ripps
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

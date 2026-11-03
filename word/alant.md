@@ -31,4 +31,15 @@ neighbours:
 - avant
 anagrams:
 - natal
+prev_word: alans
+next_word: alapa
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

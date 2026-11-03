@@ -56,4 +56,15 @@ definitions:
     example: That fight last night was radge
   - text: "(Gosforth) amazing or stupendous."
     example: Them burgers in the Brandling Villa are pure radge
+prev_word: raddy
+next_word: radgy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

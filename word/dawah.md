@@ -22,4 +22,15 @@ stats:
 neighbours:
 - dadah
 - sawah
+prev_word: davit
+next_word: dawds
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

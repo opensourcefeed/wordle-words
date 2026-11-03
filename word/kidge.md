@@ -25,4 +25,15 @@ neighbours:
 - ridge
 - fidge
 - kedge
+prev_word: kideo
+next_word: kiefs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -43,4 +43,15 @@ definitions:
   - text: To obtain illegally, as by con game.
   - text: To obtain money illegally.
   - text: To obtain money immorally or through deceitful means.
+prev_word: griff
+next_word: grigs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

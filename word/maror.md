@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - armor
 - morra
+prev_word: maron
+next_word: marra
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -58,4 +58,15 @@ definitions:
   - text: To change the focal length of a zoom lens
   - text: "(used with in or out) to manipulate a display so as to magnify or shrink
       it"
+prev_word: zooks
+next_word: zoomy
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

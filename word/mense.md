@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ENSE
   count: 7
+prev_word: mensa
+next_word: mensh
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

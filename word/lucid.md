@@ -39,4 +39,15 @@ definitions:
   - text: Clear; easily understood
   - text: Mentally rational; sane
   - text: Bright, luminous, translucent or transparent
+prev_word: luces
+next_word: lucks
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

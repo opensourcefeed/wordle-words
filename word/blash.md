@@ -30,4 +30,15 @@ neighbours:
 - plash
 anagrams:
 - blahs
+prev_word: blase
+next_word: blast
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

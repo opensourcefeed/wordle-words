@@ -27,4 +27,15 @@ definitions:
   defs:
   - text: Fitted with or attached to a guy.
   - text: Fitted to serve as a guy.
+prev_word: gutty
+next_word: guyle
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

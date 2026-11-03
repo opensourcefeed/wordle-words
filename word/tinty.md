@@ -31,4 +31,15 @@ neighbours:
 - titty
 anagrams:
 - nitty
+prev_word: tints
+next_word: tipis
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 94
 neighbours:
 - havan
+prev_word: hayle
+next_word: hazed
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 86
 neighbours:
 - emyds
+prev_word: emure
+next_word: emyds
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

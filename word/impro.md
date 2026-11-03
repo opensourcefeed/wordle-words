@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: Improv (short for improvisation).
+prev_word: impot
+next_word: imshi
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

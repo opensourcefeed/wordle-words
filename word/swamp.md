@@ -47,4 +47,15 @@ definitions:
     example: I have been swamped with paperwork ever since they started using the
       new system.
   - text: To plunge into difficulties and perils; to overwhelm; to ruin; to wreck.
+prev_word: swami
+next_word: swamy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _ALES
   count: 15
+prev_word: falaj
+next_word: falls
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

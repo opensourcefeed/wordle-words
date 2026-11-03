@@ -36,4 +36,15 @@ definitions:
       in the family Viverridae, most of which have a spotted coat and a long, ringed
       tail.
   - text: The fur of this mammal, or any skin dressed in imitation of it.
+prev_word: genes
+next_word: genic
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

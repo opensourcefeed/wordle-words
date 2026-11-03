@@ -24,4 +24,15 @@ neighbours:
 - girly
 - mirly
 - nirls
+prev_word: nirls
+next_word: nisei
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

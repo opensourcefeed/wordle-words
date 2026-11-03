@@ -48,4 +48,15 @@ definitions:
   - text: A device that generates a code, often as a series of pulses.
   - text: A person who assigns codes or classifications.
   - text: A programmer.
+prev_word: coden
+next_word: codes
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

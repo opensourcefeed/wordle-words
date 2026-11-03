@@ -66,4 +66,15 @@ definitions:
   defs:
   - text: To decay.
   - text: To become stringy.
+prev_word: welsh
+next_word: wembs
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

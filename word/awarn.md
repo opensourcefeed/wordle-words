@@ -24,4 +24,15 @@ neighbours:
 - award
 - aware
 - awari
+prev_word: awari
+next_word: awash
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

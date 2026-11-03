@@ -28,4 +28,15 @@ neighbours:
 - ousia
 anagrams:
 - oasis
+prev_word: osone
+next_word: ostia
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/os/"
+  label: Starting with OS
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

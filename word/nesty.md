@@ -34,4 +34,15 @@ anagrams:
 trap:
   pattern: _ESTY
   count: 7
+prev_word: nests
+next_word: netas
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

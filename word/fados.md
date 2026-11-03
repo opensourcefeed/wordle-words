@@ -36,4 +36,15 @@ definitions:
   - text: A Portuguese folk song, usually featuring a single vocalist, Portuguese
       guitar and sometimes classical guitar. Lyrical themes are often melancholic
       in nature; the structure of the song is of greater importance.
+prev_word: fadge
+next_word: faena
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

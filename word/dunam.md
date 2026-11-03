@@ -37,4 +37,15 @@ definitions:
       to the modern Greek stremma.
   - text: Various other units in other areas of the former Ottoman Empire, usually
       equated to the decare but sometimes varying (as in Iraq, where it is 2500 m2).
+prev_word: dumpy
+next_word: dunce
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

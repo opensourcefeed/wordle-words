@@ -32,4 +32,15 @@ neighbours:
 - finos
 - manos
 - nanos
+prev_word: fanon
+next_word: fanum
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

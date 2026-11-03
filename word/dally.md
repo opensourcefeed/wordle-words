@@ -49,4 +49,15 @@ definitions:
   - text: To waste time in trivial activities, or in idleness; to trifle.
   - text: To caress, especially of a sexual nature; to fondle or pet
   - text: To delay unnecessarily; to while away.
+prev_word: dalle
+next_word: dalts
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -26,4 +26,15 @@ neighbours:
 - forma
 anagrams:
 - fraim
+prev_word: firks
+next_word: firms
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -22,4 +22,13 @@ neighbours:
 - pasha
 anagrams:
 - phasm
+prev_word: pasha
+next_word: paska
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

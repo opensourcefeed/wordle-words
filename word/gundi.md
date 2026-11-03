@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of the several rodents of the family Ctenodactylidae.
+prev_word: gunas
+next_word: gundy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/di/"
+  label: Ending in DI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

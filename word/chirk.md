@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: CHIR_
   count: 8
+prev_word: chips
+next_word: chirl
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/rk/"
+  label: Ending in RK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

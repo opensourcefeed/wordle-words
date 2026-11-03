@@ -72,4 +72,15 @@ definitions:
       can talk.
   - text: Term of greeting, equivalent to how are you or hello.
     example: All right, mate, how are things with you and the missus?
+prev_word: aigas
+next_word: ailed
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

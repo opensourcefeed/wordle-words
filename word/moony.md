@@ -44,4 +44,15 @@ definitions:
   - text: Absent-minded.
   - text: Silly.
   - text: Sickly or tipsy.
+prev_word: moons
+next_word: moops
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

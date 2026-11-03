@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _ONIC
   count: 7
+prev_word: yomps
+next_word: yonis
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

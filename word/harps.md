@@ -55,4 +55,15 @@ definitions:
   - text: To play (a tune) on the harp.
   - text: To develop or give expression to by skill and art; to sound forth as from
       a harp; to hit upon.
+prev_word: haros
+next_word: harpy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

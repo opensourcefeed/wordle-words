@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To divide or distribute according to the gavel system.
+prev_word: gauzy
+next_word: gavot
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

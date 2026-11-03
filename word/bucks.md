@@ -134,4 +134,15 @@ definitions:
   defs:
   - text: A shoe that has no fitting or strap around the heel, but which covers the
       foot.
+prev_word: bucko
+next_word: bucku
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

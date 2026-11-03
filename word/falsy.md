@@ -29,4 +29,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Evaluating to false in a Boolean context.
+prev_word: 'false'
+next_word: famed
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

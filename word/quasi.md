@@ -33,4 +33,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Resembling or having a likeness to something
+prev_word: quash
+next_word: quass
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/si/"
+  label: Ending in SI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

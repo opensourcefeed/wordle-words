@@ -29,4 +29,15 @@ neighbours:
 - forks
 - porky
 - worky
+prev_word: forks
+next_word: forma
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -55,4 +55,15 @@ definitions:
   - text: To make a separation or distinction; to distinguish.
   - text: To disunite; to disconnect; to terminate.
     example: to sever an estate in joint tenancy
+prev_word: seven
+next_word: sevir
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

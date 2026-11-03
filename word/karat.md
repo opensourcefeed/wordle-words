@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: A unit of fineness or concentration of gold equalling 1/24 part of gold
       in an alloy.
+prev_word: karas
+next_word: karee
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

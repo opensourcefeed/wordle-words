@@ -26,4 +26,15 @@ neighbours:
 - melee
 - melon
 - melos
+prev_word: mells
+next_word: melon
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/oe/"
+  label: Ending in OE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

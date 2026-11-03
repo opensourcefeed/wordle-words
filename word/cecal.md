@@ -26,4 +26,15 @@ neighbours:
 - decal
 - fecal
 - recal
+prev_word: cebid
+next_word: cecum
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

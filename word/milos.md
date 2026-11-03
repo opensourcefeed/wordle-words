@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: MIL_S
   count: 7
+prev_word: milor
+next_word: milpa
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

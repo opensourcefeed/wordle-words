@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A hilum.
+prev_word: hilum
+next_word: himbo
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

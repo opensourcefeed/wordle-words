@@ -26,4 +26,15 @@ neighbours:
 - flush
 - slosh
 - frosh
+prev_word: flory
+next_word: floss
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

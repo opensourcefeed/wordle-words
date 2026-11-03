@@ -24,4 +24,15 @@ neighbours:
 - neeld
 - neese
 - neeze
+prev_word: neeld
+next_word: neemb
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

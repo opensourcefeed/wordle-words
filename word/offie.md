@@ -30,4 +30,13 @@ definitions:
   - text: An off-licence.
   - text: An off break.
   - text: An off spinner.
+prev_word: offer
+next_word: oflag
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

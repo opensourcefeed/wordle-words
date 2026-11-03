@@ -38,4 +38,15 @@ definitions:
   - text: To make something become nothing; to reject or cancel.
     example: Nix the last order – the customer walked out.
   - text: To destroy or eradicate.
+prev_word: nivel
+next_word: nixer
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -58,4 +58,15 @@ definitions:
   - text: To fall apart into shards, usually as the result of impact or explosion.
   - text: To break (something) into shards.
   - text: To divide (an MMORPG) into several shards, or to establish a shard of one.
+prev_word: shaps
+next_word: share
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

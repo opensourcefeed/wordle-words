@@ -26,4 +26,15 @@ neighbours:
 - misto
 anagrams:
 - ovist
+prev_word: vista
+next_word: vitae
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

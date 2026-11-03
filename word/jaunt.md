@@ -51,4 +51,15 @@ definitions:
   - text: To ramble here and there; to stroll; to make an excursion.
   - text: To ride on a jaunting car.
   - text: To jolt; to jounce.
+prev_word: jaune
+next_word: jaups
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 64
 neighbours:
 - duets
+prev_word: duets
+next_word: duffs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/tt/"
+  label: Ending in TT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

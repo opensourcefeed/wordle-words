@@ -34,4 +34,15 @@ definitions:
 - pos: preposition
   defs:
   - text: Among, in the middle of; amid.
+prev_word: midis
+next_word: miens
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

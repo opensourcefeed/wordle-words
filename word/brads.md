@@ -51,4 +51,15 @@ definitions:
       thin, soft metal, such as shim brass, with a round head and a flat, split shank,
       which is spread after insertion in a hole in a stack of pages, in much the same
       way as a cotter pin or a split rivet."
+prev_word: bract
+next_word: braes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

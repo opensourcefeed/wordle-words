@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: DI_ER
   count: 6
+prev_word: diced
+next_word: dices
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

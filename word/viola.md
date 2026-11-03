@@ -43,4 +43,15 @@ definitions:
   - text: An organ stop having a similar tone.
   - text: A 10-string steel-string acoustic guitar, used in Brazilian folk music.
   - text: A berimbau viola, the smallest member of the berimbau used in capoeira music.
+prev_word: vinyl
+next_word: viold
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

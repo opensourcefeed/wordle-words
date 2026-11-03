@@ -26,4 +26,15 @@ neighbours:
 - lowly
 - cowry
 - loury
+prev_word: lowps
+next_word: lowse
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

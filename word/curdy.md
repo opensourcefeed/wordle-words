@@ -32,4 +32,15 @@ neighbours:
 - purdy
 anagrams:
 - crudy
+prev_word: curds
+next_word: cured
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

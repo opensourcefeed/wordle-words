@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: Ghost, apparition.
   - text: Spirit (of a group, age, era etc).
+prev_word: geest
+next_word: geits
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

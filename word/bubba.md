@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Brother; used as term of familiar address.
   - text: A working-class white male from the southern US, stereotyped as loutish.
+prev_word: bubas
+next_word: bubbe
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: BRI_S
   count: 8
+prev_word: briki
+next_word: brill
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

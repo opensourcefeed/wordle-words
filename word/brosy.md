@@ -22,4 +22,15 @@ stats:
 neighbours:
 - brose
 - prosy
+prev_word: brose
+next_word: broth
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -49,4 +49,15 @@ definitions:
   - text: To repair by stitching with thread or yarn, particularly by using a needle
       to construct a weave across a damaged area of fabric.
     example: I need to darn these socks again.
+prev_word: darls
+next_word: darre
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

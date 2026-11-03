@@ -50,4 +50,15 @@ definitions:
       to laugh at them.
   - text: "(post-1980s) A member of a subculture revolving around video games, fantasy
       and science fiction, comic books and assorted media."
+prev_word: nuque
+next_word: nurdy
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

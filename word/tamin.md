@@ -29,4 +29,15 @@ neighbours:
 - tomin
 anagrams:
 - matin
+prev_word: tames
+next_word: tamis
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

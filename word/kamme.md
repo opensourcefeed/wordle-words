@@ -25,4 +25,15 @@ neighbours:
 - damme
 - gamme
 - kasme
+prev_word: kamis
+next_word: kanae
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

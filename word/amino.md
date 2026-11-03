@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Relating to an amine.
+prev_word: amine
+next_word: amins
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

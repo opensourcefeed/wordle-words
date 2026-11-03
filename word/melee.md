@@ -43,4 +43,15 @@ definitions:
   - text: To physically hit in close quarters, as opposed to shooting, blowing up,
       or other ranged means of damage. Often refers to the usage of a hand-to-hand
       weapon.
+prev_word: melds
+next_word: meles
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

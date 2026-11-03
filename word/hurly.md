@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _URLY
   count: 6
+prev_word: hurls
+next_word: hurra
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

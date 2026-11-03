@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: 'Chiefly as laird it over: to behave like a laird, particularly to act haughtily
       or to domineer; to lord (it over).'
+prev_word: laiks
+next_word: lairs
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: PRA_S
   count: 8
+prev_word: praos
+next_word: prase
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

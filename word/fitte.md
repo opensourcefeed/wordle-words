@@ -26,4 +26,15 @@ neighbours:
 - bitte
 - fitts
 - fytte
+prev_word: fitna
+next_word: fitts
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -42,4 +42,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Pertaining to the palm of the hand or the sole of the foot.
+prev_word: volae
+next_word: voled
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

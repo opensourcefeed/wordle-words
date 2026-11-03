@@ -23,4 +23,15 @@ stats:
 neighbours:
 - typed
 - types
+prev_word: types
+next_word: typic
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

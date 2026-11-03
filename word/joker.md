@@ -53,4 +53,15 @@ definitions:
     example: Some joker keeps throwing eggs at my windows.
   - text: A man.
   - text: A clause in a contract that undermines its apparent provisions.
+prev_word: joked
+next_word: jokes
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

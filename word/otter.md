@@ -53,4 +53,13 @@ definitions:
       family Mustelidae, which also includes weasels, polecats, badgers, and others.
   - text: A hairy man with a slender physique, in contrast with a bear, who is more
       thickset.
+prev_word: ottar
+next_word: ottos
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -61,4 +61,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of heavy cue, with the broad end of which one strikes the ball.
+prev_word: massy
+next_word: masty
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

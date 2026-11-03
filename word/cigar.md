@@ -39,4 +39,15 @@ definitions:
   - text: Tobacco rolled and wrapped with an outer covering of tobacco leaves, intended
       to be smoked.
   - text: Penis
+prev_word: ciels
+next_word: ciggy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

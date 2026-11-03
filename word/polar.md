@@ -58,4 +58,15 @@ definitions:
   - text: Of a coordinate system, specifying the location of a point in a plane by
       using a radius and an angle.
   - text: "(of a question) Having but two possible answers, yes and no."
+prev_word: pokit
+next_word: poled
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

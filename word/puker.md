@@ -30,4 +30,15 @@ neighbours:
 - pukey
 - puler
 - puter
+prev_word: puked
+next_word: pukes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

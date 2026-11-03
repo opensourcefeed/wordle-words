@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ERNS
   count: 6
+prev_word: derms
+next_word: derny
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

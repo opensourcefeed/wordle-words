@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - ihram
 - mirah
+prev_word: hares
+next_word: harks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

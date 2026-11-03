@@ -53,4 +53,15 @@ definitions:
   - text: "(with the) A success; something excellent."
     example: Man that song's the coot.
   - text: Body louse (Pediculus humanus).
+prev_word: coost
+next_word: cooty
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

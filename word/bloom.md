@@ -56,4 +56,15 @@ definitions:
       warmed and cooled.
   - text: An undesirable halo effect that may occur when a very bright region is displayed
       next to a very dark region of the screen.
+prev_word: blook
+next_word: bloop
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -31,4 +31,15 @@ neighbours:
 - wards
 anagrams:
 - dawds
+prev_word: wadas
+next_word: waddy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

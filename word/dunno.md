@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: An utterance of the word dunno.
+prev_word: dunks
+next_word: dunny
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -27,4 +27,15 @@ neighbours:
 - durra
 - murra
 - surra
+prev_word: hurly
+next_word: hurry
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

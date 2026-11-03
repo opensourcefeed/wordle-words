@@ -33,4 +33,15 @@ anagrams:
 - sonic
 - coins
 - icons
+prev_word: cinqs
+next_word: cippi
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

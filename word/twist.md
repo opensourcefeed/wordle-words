@@ -77,4 +77,15 @@ definitions:
   - text: To dance the twist (a type of dance characterised by twisting one's hips).
   - text: To coax.
   - text: In the game of blackjack (pontoon or twenty-one), to be dealt another card.
+prev_word: twirp
+next_word: twite
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

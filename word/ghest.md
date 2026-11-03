@@ -26,4 +26,15 @@ neighbours:
 - geest
 - ghast
 - goest
+prev_word: ghees
+next_word: ghost
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gh/"
+  label: Starting with GH
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

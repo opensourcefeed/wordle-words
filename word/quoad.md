@@ -22,4 +22,15 @@ stats:
   - Q
   starter_tier: Weak
   starter_top_percent: 71
+prev_word: quits
+next_word: quods
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

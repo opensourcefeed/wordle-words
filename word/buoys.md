@@ -39,4 +39,15 @@ definitions:
     example: to buoy an anchor; to buoy or buoy off a channel
   - text: To maintain or enhance enthusiasm or confidence; to lift the spirits of.
     example: Buoyed by the huge success, they announced two other projects.
+prev_word: bunya
+next_word: buppy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

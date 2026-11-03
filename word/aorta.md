@@ -41,4 +41,13 @@ definitions:
     example: Tracing their battles, I had many occasions to walk along Second Avenue,
       the aorta of the Lower East Side, exploring places that were once as vibrant
       and tumultuous as Midtown Manhattan. http//travel.nytimes.com/2007/01/26/travel/escapes/26yiddish.html?8dpc
+prev_word: anyon
+next_word: apace
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

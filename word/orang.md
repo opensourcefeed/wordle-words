@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: An orangutan.
+prev_word: orals
+next_word: orans
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

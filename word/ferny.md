@@ -25,4 +25,15 @@ neighbours:
 - fenny
 - ferly
 - ferns
+prev_word: ferns
+next_word: ferox
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: A prince, commander or other leader or ruler in an Islamic nation.
   - text: A descendant of the prophet Muhammad.
+prev_word: amins
+next_word: amiss
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

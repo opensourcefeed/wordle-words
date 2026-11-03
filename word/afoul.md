@@ -31,4 +31,15 @@ definitions:
     example: The ships’ lines and sails were all afoul.
   - text: "(with of) In a state of entanglement or conflict (with)."
     example: He had a knack for running afoul of the law.
+prev_word: afore
+next_word: afret
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

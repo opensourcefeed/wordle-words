@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: CHI_O
   count: 6
+prev_word: chime
+next_word: chimp
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

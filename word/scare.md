@@ -61,4 +61,15 @@ definitions:
   - text: A cause of slight terror; something that inspires fear or dread.
     example: a food-poisoning scare
   - text: A device or object used to frighten.
+prev_word: scapi
+next_word: scarf
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -27,4 +27,15 @@ neighbours:
 - jiver
 - jives
 - mivey
+prev_word: jives
+next_word: jnana
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -46,4 +46,15 @@ definitions:
       an arrow.
   - text: Short for plume moth.
   - text: Things resembling a feather.
+prev_word: plumb
+next_word: plump
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

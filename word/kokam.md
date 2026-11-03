@@ -24,4 +24,15 @@ stats:
 neighbours:
 - kokas
 - kokum
+prev_word: kojis
+next_word: kokas
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

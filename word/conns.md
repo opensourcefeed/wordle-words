@@ -37,4 +37,15 @@ definitions:
       course of (a vessel) and direct the helmsman how to steer (especially through
       a channel, etc, rather than steer a compass direction).
     example: The pilot conned the ship safely into the harbor.
+prev_word: conne
+next_word: conte
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

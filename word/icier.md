@@ -33,4 +33,15 @@ definitions:
   - text: Characterized by coldness of manner; frigid; cold.
   - text: To be wearing an excessive amount of jewelry, especially of the high-quality
       and expensive kind.
+prev_word: ichor
+next_word: icily
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/ic/"
+  label: Starting with IC
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

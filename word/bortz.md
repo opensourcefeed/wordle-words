@@ -24,4 +24,15 @@ stats:
 neighbours:
 - borts
 - borty
+prev_word: borty
+next_word: bosey
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/tz/"
+  label: Ending in TZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

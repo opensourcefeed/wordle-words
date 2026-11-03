@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: To do chores.
+prev_word: chord
+next_word: chose
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

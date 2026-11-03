@@ -63,4 +63,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cackle like a goose.
+prev_word: caked
+next_word: cakey
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

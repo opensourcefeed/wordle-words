@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: A thicket; a small wood or grove.
   - text: The leaves and tops of vegetables, especially potatoes and turnips.
+prev_word: shawn
+next_word: shaya
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

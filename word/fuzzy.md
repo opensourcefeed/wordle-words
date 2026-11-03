@@ -48,4 +48,15 @@ definitions:
     example: My recollection of that event is fuzzy.
   - text: Not clear; unfocused.
     example: I finally threw out a large stack of fuzzy photos.
+prev_word: fuzil
+next_word: fyces
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

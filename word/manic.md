@@ -42,4 +42,15 @@ definitions:
   - text: Of or pertaining to someone who exhibits mania or craziness; wicked.
   - text: Suffering from mania, the state of an abnormally elevated or irritable mood,
       arousal, and/or energy levels.
+prev_word: mania
+next_word: manie
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

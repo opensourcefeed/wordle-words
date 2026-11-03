@@ -66,4 +66,15 @@ definitions:
       governor which has a large movement of the balls for small change of load, an
       arc-lamp clutch mechanism which moves rapidly up and down with variations of
       current, etc.; also, to seesaw, as a pair of alternators working in parallel.
+prev_word: hunky
+next_word: hurds
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

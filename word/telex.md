@@ -35,4 +35,15 @@ definitions:
 - pos: verb
   defs:
   - text: To send (a message) by telex.
+prev_word: teles
+next_word: telia
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

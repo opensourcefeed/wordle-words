@@ -30,4 +30,15 @@ anagrams:
 - kolos
 - looks
 - sokol
+prev_word: skols
+next_word: skort
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

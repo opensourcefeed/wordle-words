@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A kind of millet, a variety of sorghum; Indian millet (Sorghum bicolor).
+prev_word: duroy
+next_word: durrs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

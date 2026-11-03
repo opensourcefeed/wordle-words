@@ -52,4 +52,15 @@ definitions:
   - text: A person who drives such an automobile.
   - text: A person who modifies such an automobile using after-market parts to give
       it the appearance of being more powerful or sporty.
+prev_word: riced
+next_word: rices
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

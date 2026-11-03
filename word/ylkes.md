@@ -28,4 +28,13 @@ anagrams:
 - kyles
 - selky
 - yelks
+prev_word: ylike
+next_word: ymolt
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

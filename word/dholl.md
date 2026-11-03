@@ -24,4 +24,15 @@ neighbours:
 - droll
 - dhole
 - dhols
+prev_word: dhole
+next_word: dhols
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dh/"
+  label: Starting with DH
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

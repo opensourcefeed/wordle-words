@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Shaped like an oval.
   - text: Egg-shaped; shaped like an oval, but more tapered at one end; ovate.
+prev_word: ovist
+next_word: ovoli
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ov/"
+  label: Starting with OV
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -49,4 +49,15 @@ definitions:
   - text: "(of trees) To cultivate with periodic harvesting that also serves to create
       order (gaps and lines of trees) to facilitate further harvesting."
   - text: To plough or gouge with lines.
+prev_word: grout
+next_word: grovy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

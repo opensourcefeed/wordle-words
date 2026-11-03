@@ -52,4 +52,15 @@ definitions:
 - pos: noun
   defs:
   - text: Penis.
+prev_word: peely
+next_word: peent
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

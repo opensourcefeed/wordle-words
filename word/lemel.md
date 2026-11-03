@@ -26,4 +26,15 @@ neighbours:
 - gemel
 - lemed
 - lemes
+prev_word: lemed
+next_word: lemes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

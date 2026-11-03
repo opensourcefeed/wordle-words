@@ -32,4 +32,15 @@ definitions:
   - text: Peumus boldus, a monimiaceous tree.
   - text: The leaves of this tree, used in traditional medicine for hepatic troubles
       and genitourinary inflammation.
+prev_word: bolas
+next_word: bolds
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

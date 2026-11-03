@@ -31,4 +31,15 @@ definitions:
   - text: A crane, often working in pairs and usually made of steel, used to lower
       things over an edge of a long drop off, such as lowering a maintenance trapeze
       down a building or launching a lifeboat over the side of a ship.
+prev_word: daven
+next_word: dawah
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

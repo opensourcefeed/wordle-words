@@ -34,4 +34,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Very small; tiny.
+prev_word: teens
+next_word: teers
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Palp (invertebrate appendage)
+prev_word: palmy
+next_word: palps
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/pi/"
+  label: Ending in PI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

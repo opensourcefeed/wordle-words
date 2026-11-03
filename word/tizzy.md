@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A state of nervous excitement, confusion, or distress; a dither.
   - text: A sixpence; a tester.
+prev_word: tizes
+next_word: toads
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

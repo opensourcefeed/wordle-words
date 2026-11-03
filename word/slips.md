@@ -133,4 +133,15 @@ definitions:
   defs:
   - text: The area of the field covered by fielders in the slip positions; the slip
       fielders collectively
+prev_word: slipe
+next_word: slipt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: Darling (as a term of address)
+prev_word: darks
+next_word: darns
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

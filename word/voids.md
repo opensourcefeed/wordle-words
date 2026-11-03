@@ -57,4 +57,15 @@ definitions:
 - pos: noun
   defs:
   - text: A voidee.
+prev_word: voici
+next_word: voila
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

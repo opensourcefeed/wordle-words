@@ -35,4 +35,15 @@ definitions:
       to peel by hand.'
   - text: "(by extension) Any small mandarin orange variety such as a tangerine or
       a satsuma."
+prev_word: cutes
+next_word: cutie
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

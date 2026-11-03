@@ -22,4 +22,15 @@ stats:
 anagrams:
 - dumas
 - mauds
+prev_word: adrip
+next_word: aduki
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

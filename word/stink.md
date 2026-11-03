@@ -62,4 +62,15 @@ definitions:
   - text: Bad; inferior; worthless.
     example: The concert was stink. / That was a stink concert.
   - text: Bad-smelling, stinky.
+prev_word: sting
+next_word: stint
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

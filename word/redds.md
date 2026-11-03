@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: A spawning nest made by a fish.
+prev_word: redan
+next_word: reddy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

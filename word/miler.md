@@ -49,4 +49,15 @@ definitions:
       races of one mile, or a specified number of miles."
   - text: "(in combination) A race whose length is the specified number of miles."
     example: I ran an eight-miler on Sunday and I'm still feeling sore.
+prev_word: milds
+next_word: miles
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

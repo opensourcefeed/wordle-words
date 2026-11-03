@@ -37,4 +37,15 @@ anagrams:
 - pinas
 - spain
 - spina
+prev_word: piano
+next_word: pibal
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

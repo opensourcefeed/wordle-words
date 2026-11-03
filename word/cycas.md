@@ -25,4 +25,15 @@ neighbours:
 - cocas
 - cycad
 - cymas
+prev_word: cycad
+next_word: cycle
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cy/"
+  label: Starting with CY
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

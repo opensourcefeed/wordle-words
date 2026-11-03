@@ -43,4 +43,15 @@ definitions:
 - pos: adjective
   defs:
   - text: The ordinal form of the number nine.
+prev_word: ninta
+next_word: niopo
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

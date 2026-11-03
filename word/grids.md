@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: To mark with a grid.
   - text: To assign a reference grid to.
+prev_word: gride
+next_word: grief
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

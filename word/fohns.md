@@ -29,4 +29,15 @@ definitions:
   - text: A warm dry wind blowing down the north sides of the Alps, especially in
       Switzerland.
   - text: A similar katabatic wind developing on the lee side of a mountain.
+prev_word: fogou
+next_word: foids
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

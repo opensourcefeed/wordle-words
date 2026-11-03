@@ -26,4 +26,15 @@ neighbours:
 - elate
 anagrams:
 - eaten
+prev_word: enarm
+next_word: ended
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

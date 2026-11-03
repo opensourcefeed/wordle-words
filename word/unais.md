@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 21
 neighbours:
 - unaus
+prev_word: unagi
+next_word: unapt
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -39,4 +39,15 @@ anagrams:
 - perse
 - prees
 - speer
+prev_word: presa
+next_word: press
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

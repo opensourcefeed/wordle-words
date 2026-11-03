@@ -30,4 +30,15 @@ neighbours:
 trap:
   pattern: _YTHE
   count: 7
+prev_word: sysop
+next_word: syver
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

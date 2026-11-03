@@ -26,4 +26,15 @@ neighbours:
 - karos
 - kayos
 - sagos
+prev_word: kadis
+next_word: kagus
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

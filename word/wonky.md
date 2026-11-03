@@ -35,4 +35,15 @@ definitions:
   - text: Feeble, shaky or rickety.
   - text: "(especially Usenet) Suffering from intermittent bugs."
   - text: Generally incorrect.
+prev_word: wonks
+next_word: wonts
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -71,4 +71,15 @@ definitions:
   - text: A sequence (of events), especially when presumed related and likely to continue.
   - text: A decretal epistle.
   - text: A location or compartment.
+prev_word: chape
+next_word: chapt
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

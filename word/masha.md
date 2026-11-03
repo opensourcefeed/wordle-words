@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - amahs
 - shama
+prev_word: mases
+next_word: mashy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

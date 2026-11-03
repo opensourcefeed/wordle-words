@@ -27,4 +27,15 @@ neighbours:
 - abear
 anagrams:
 - abate
+prev_word: abear
+next_word: abeer
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

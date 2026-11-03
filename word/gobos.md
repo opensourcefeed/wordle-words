@@ -41,4 +41,15 @@ definitions:
   - text: A template inserted over a light source in order to control the shape of
       the thrown light.
   - text: A device used to shield a microphone from extraneous sounds.
+prev_word: gobis
+next_word: godet
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(of a female) To masturbate."
+prev_word: jihad
+next_word: jilts
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

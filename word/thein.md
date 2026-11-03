@@ -27,4 +27,15 @@ neighbours:
 - theic
 anagrams:
 - thine
+prev_word: theic
+next_word: their
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -41,4 +41,15 @@ definitions:
   - text: A venomous snake in the family Viperidae.
   - text: A dangerous, treacherous, or malignant person.
   - text: A person who smokes marijuana.
+prev_word: viols
+next_word: viral
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

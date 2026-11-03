@@ -23,4 +23,13 @@ stats:
 neighbours:
 - krang
 - krans
+prev_word: krans
+next_word: krays
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

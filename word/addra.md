@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 87
 anagrams:
 - adrad
+prev_word: addle
+next_word: adead
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

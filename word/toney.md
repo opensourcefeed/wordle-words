@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _ONEY
   count: 6
+prev_word: tones
+next_word: tonga
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

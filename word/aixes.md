@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _IXES
   count: 6
+prev_word: aiver
+next_word: aiyah
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

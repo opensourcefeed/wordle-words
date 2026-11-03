@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _OODY
   count: 7
+prev_word: dooce
+next_word: doofs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

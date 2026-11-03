@@ -47,4 +47,15 @@ definitions:
   - text: To place in a cabin or other small space.
   - text: "(by extension) To limit the scope of."
   - text: To live in, or as if in, a cabin; to lodge.
+prev_word: caber
+next_word: cable
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -26,4 +26,15 @@ neighbours:
 - track
 - whack
 - chack
+prev_word: texts
+next_word: thagi
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

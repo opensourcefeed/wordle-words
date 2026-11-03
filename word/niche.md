@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: Pertaining to or intended for a market niche; having specific appeal.
     example: niche audience
+prev_word: nicey
+next_word: nicht
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

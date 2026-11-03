@@ -33,4 +33,15 @@ anagrams:
 - ogres
 - regos
 - soger
+prev_word: ergon
+next_word: ergot
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

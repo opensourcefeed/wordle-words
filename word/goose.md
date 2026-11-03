@@ -63,4 +63,15 @@ definitions:
   - text: "(UK slang) Of private-hire taxi drivers, to pick up a passenger who has
       not pre-booked a cab. This is unauthorised under UK licensing conditions."
   - text: To hiss (a performer) off the stage.
+prev_word: goory
+next_word: goosy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

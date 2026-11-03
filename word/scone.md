@@ -48,4 +48,15 @@ definitions:
   - text: To hit on the head.
     example: 2004 December 3, "Sconed by a space rock - and then the headaches started",
       The Sydney Morning Herald
+prev_word: scold
+next_word: scoog
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

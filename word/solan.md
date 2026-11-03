@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: Solan goose
+prev_word: solah
+next_word: solar
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -48,4 +48,15 @@ anagrams:
 trap:
   pattern: _ASER
   count: 8
+prev_word: cased
+next_word: cases
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

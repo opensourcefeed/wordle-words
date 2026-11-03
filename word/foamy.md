@@ -39,4 +39,15 @@ definitions:
   - text: Full of foam.
     example: 1715–1720:Tlepolemus, the sun of Hercules, / Led nine swift vessels through
       the foamy seas — Alexander Pope, The Iliad
+prev_word: foams
+next_word: focal
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

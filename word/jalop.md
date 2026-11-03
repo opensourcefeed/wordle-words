@@ -26,4 +26,15 @@ neighbours:
 - galop
 - jalap
 - salop
+prev_word: jaleo
+next_word: jambe
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

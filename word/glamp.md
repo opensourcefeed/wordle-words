@@ -23,4 +23,15 @@ neighbours:
 - clamp
 - glams
 - gramp
+prev_word: glair
+next_word: glams
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -48,4 +48,15 @@ definitions:
   - text: "(chiefly US) semen"
   - text: A reprehensible person or persons.
     example: People who sell used-up pens are scum, just total low-lives.
+prev_word: sculs
+next_word: scups
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -46,4 +46,15 @@ definitions:
   - text: A short comic performance.
   - text: A jeer or sally; a brief satire.
   - text: A wanton girl; a wench.
+prev_word: skite
+next_word: skive
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

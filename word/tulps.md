@@ -27,4 +27,15 @@ neighbours:
 - tulpa
 - tumps
 - turps
+prev_word: tulpa
+next_word: tulsi
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

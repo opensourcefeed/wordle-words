@@ -43,4 +43,15 @@ definitions:
     example: He is known for his spicy political commentary.
   - text: Risqué, sexy, racy; mildly pornographic.
     example: I don't want my children to see the spicy images on this web site.
+prev_word: spice
+next_word: spide
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

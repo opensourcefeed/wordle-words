@@ -53,4 +53,15 @@ definitions:
   - text: To assign a certain task to (a person), upon the performance of which he/she
       is excused from further labour for that day or period; to stent.
   - text: "(of mares) To impregnate successfully; to get with foal."
+prev_word: stink
+next_word: stipa
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -30,4 +30,15 @@ neighbours:
 - pelon
 anagrams:
 - noble
+prev_word: belly
+next_word: below
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: Any of three semistable mesons, having positive, negative or neutral charge,
       composed of up and down quarks/antiquarks.
+prev_word: pinup
+next_word: piony
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

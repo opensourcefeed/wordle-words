@@ -27,4 +27,15 @@ anagrams:
 - anker
 - naker
 - ranke
+prev_word: nerfs
+next_word: nerks
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

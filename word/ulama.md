@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A (modern) ball game, descended from tlachtli.
+prev_word: ukase
+next_word: ulans
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ul/"
+  label: Starting with UL
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

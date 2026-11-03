@@ -51,4 +51,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Foreordained, predetermined, established in advance by fate.
+prev_word: fatal
+next_word: fates
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -23,4 +23,15 @@ stats:
 neighbours:
 - rally
 - rawdy
+prev_word: rawks
+next_word: rawns
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

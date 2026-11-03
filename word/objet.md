@@ -22,4 +22,15 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 55
+prev_word: obits
+next_word: oboes
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ob/"
+  label: Starting with OB
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

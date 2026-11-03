@@ -48,4 +48,15 @@ definitions:
     example: He hasn't the lungs to play long rallies like he use to.
   - text: That which supplies oxygen or fresh air, such as trees, parklands, forest,
       etc., to a place.
+prev_word: lungi
+next_word: lunks
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

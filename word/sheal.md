@@ -40,4 +40,15 @@ anagrams:
 - halse
 - heals
 - selah
+prev_word: sheaf
+next_word: shear
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -25,4 +25,15 @@ neighbours:
 - scrow
 - serow
 - strow
+prev_word: shris
+next_word: shrub
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

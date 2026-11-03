@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: A non-Roma, a non-Romani person
+prev_word: gades
+next_word: gadgy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

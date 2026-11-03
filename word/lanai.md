@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(Florida) A Hawaiian-style roofed patio."
+prev_word: lamps
+next_word: lanas
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

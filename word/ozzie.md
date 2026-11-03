@@ -26,4 +26,13 @@ stats:
   starter_top_percent: 73
 neighbours:
 - oozie
+prev_word: ozone
+next_word: paaho
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

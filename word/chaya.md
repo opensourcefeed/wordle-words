@@ -26,4 +26,15 @@ neighbours:
 - chays
 - khaya
 - shaya
+prev_word: chaws
+next_word: chays
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ya/"
+  label: Ending in YA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

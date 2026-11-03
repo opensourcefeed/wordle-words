@@ -48,4 +48,15 @@ definitions:
     example: To help pay her tuition, the college student began to tutor high school
       students in calculus and physics.
   - text: To treat with authority or sternness.
+prev_word: tutes
+next_word: tutti
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

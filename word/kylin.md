@@ -24,4 +24,15 @@ neighbours:
 - kylix
 anagrams:
 - linky
+prev_word: kylie
+next_word: kylix
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

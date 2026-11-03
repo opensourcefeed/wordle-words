@@ -42,4 +42,15 @@ definitions:
   - text: Of or relating to agile software development, a technique for iterative
       and incremental development of software involving collaboration between teams.
     example: agile methods
+prev_word: agila
+next_word: aging
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

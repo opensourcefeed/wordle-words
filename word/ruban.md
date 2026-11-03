@@ -28,4 +28,15 @@ anagrams:
 - aburn
 - buran
 - unbar
+prev_word: rubai
+next_word: rubby
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

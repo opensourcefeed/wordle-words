@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Covered with mold.
   - text: Stale or musty.
+prev_word: molds
+next_word: moled
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

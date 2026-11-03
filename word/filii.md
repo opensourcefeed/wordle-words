@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 99
 neighbours:
 - filmi
+prev_word: filet
+next_word: filks
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: The inner layer of the skin; the dermis
+prev_word: derig
+next_word: derms
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

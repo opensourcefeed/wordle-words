@@ -45,4 +45,15 @@ definitions:
     example: My CD earns me six percent!
   - text: To achieve by being worthy of.
     example: to earn a spot in the top 20
+prev_word: earns
+next_word: earst
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

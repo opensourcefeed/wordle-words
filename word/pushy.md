@@ -38,4 +38,15 @@ definitions:
   - text: Aggressively ambitious; overly assertive, bold or determined.
     example: Parents are ruining school sports days by being pushy and overbearing,
       a survey suggests. BBC
+prev_word: puses
+next_word: pusle
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

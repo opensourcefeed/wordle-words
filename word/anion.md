@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A negatively charged ion.
+prev_word: animi
+next_word: anise
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

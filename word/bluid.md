@@ -25,4 +25,15 @@ neighbours:
 - blued
 anagrams:
 - build
+prev_word: bluff
+next_word: blume
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

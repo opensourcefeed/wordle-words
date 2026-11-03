@@ -59,4 +59,15 @@ definitions:
     example: Are you traveling on the company's dime?
   - text: A beautiful woman (10 on a 10-point scale)
   - text: A defensive formation with six defensive backs, one of whom is a dimeback.
+prev_word: dimer
+next_word: dimly
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

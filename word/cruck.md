@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make lame.
+prev_word: croze
+next_word: crude
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

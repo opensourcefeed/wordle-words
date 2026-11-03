@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _EASE
   count: 7
+prev_word: meare
+next_word: meath
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

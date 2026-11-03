@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: One who hews.
+prev_word: hewed
+next_word: hewgh
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

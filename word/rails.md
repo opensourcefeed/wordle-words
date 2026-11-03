@@ -81,4 +81,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(of a liquid) To gush, flow."
+prev_word: raile
+next_word: raine
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

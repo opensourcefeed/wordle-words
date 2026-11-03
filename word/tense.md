@@ -59,4 +59,15 @@ definitions:
   defs:
   - text: "(grammar) To apply a tense to."
     example: tensing a verb
+prev_word: tenor
+next_word: tenth
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

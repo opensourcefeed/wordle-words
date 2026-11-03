@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Covered or adorned with plumes, or as with plumes; feathery.
+prev_word: plums
+next_word: plung
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

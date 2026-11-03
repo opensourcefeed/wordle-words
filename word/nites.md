@@ -69,4 +69,15 @@ definitions:
     example: The cat disappeared into the night.
   - text: A dark blue colour, midnight blue.
   - text: A night's worth of competitions, generally one game.
+prev_word: niter
+next_word: nitid
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

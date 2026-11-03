@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: SAI_S
   count: 6
+prev_word: saick
+next_word: saids
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

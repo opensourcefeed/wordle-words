@@ -49,4 +49,15 @@ definitions:
     example: He who angers you conquers you.
   - text: To become angry.
     example: You anger too easily.
+prev_word: angel
+next_word: angle
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

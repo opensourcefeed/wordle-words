@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: A leap from one foot to the other in which one leg appears to be "thrown"
       in the direction of the movement.
+prev_word: jetee
+next_word: jeton
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

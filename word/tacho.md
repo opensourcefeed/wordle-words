@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: Tachograph
+prev_word: tachi
+next_word: tachs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ho/"
+  label: Ending in HO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

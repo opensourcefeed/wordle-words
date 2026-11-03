@@ -40,4 +40,15 @@ definitions:
       oil, or vinegar, for use at a dining table.
   - text: A stand for these containers.
   - text: A small vessel used to hold wine or water for the Eucharist.
+prev_word: crues
+next_word: cruft
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

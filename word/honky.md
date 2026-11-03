@@ -35,4 +35,13 @@ definitions:
   defs:
   - text: "(racial slur) A Caucasian person."
   - text: A factory hand or general unskilled worker.
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

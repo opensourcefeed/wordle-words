@@ -26,4 +26,15 @@ neighbours:
 - leuch
 - lough
 - teugh
+prev_word: leuds
+next_word: levas
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

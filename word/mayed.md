@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _AYED
   count: 9
+prev_word: maybe
+next_word: mayor
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

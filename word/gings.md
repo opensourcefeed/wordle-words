@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A redhead, a ginger-haired person
+prev_word: ginge
+next_word: ginks
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

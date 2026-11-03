@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having to do with the pope or the papacy.
+prev_word: papad
+next_word: papas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

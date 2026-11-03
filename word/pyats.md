@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - pasty
 - patsy
+prev_word: pwned
+next_word: pyets
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

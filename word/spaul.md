@@ -29,4 +29,15 @@ anagrams:
 - palus
 - pauls
 - pulas
+prev_word: spats
+next_word: spawl
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

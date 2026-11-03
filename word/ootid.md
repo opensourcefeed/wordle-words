@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: The haploid cell, produced by meiotic division of a secondary oocyte, that
       is a nearly mature ovum.
+prev_word: ooses
+next_word: ooyah
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oo/"
+  label: Starting with OO
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

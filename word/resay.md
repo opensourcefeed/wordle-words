@@ -35,4 +35,15 @@ anagrams:
 - eyras
 - sayer
 - years
+prev_word: resaw
+next_word: resee
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

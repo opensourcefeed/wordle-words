@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: TI_ES
   count: 9
+prev_word: ticed
+next_word: tichy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

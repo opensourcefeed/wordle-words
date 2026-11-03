@@ -41,4 +41,15 @@ definitions:
       reservations or concerns.
     example: Since he was bitten by a dog when he was young, he has always been leery
       of animals.
+prev_word: leers
+next_word: leese
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

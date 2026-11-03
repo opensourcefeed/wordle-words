@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - bleah
 - hable
+prev_word: bekah
+next_word: belar
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

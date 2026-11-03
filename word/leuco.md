@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 16
 neighbours:
 - leuch
+prev_word: leuch
+next_word: leuds
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

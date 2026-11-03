@@ -39,4 +39,15 @@ definitions:
       the takeoff of an aircraft
   - text: A takeoff assisted by such a unit
   - text: A RATO unit or RATO takeoff - a rocket assisted take-off
+prev_word: jatis
+next_word: jauks
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

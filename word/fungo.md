@@ -35,4 +35,15 @@ definitions:
     example: The fielding coach played fungo with the outfielders to warm them up.
   - text: A fungo bat.
     example: He is so strong he could hit it out of the park with a fungo.
+prev_word: fungi
+next_word: fungs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

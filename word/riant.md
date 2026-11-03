@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - train
 - intra
+prev_word: rials
+next_word: riata
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

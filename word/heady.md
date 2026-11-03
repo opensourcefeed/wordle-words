@@ -50,4 +50,15 @@ definitions:
   - text: Rash or impetuous.
     example: He made too heady promises, and when it came time, he was never able
       to fulfill them.
+prev_word: heads
+next_word: heald
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

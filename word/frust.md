@@ -29,4 +29,15 @@ neighbours:
 - frush
 anagrams:
 - turfs
+prev_word: frush
+next_word: fryer
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

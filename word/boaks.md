@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To burp.
   - text: To retch or vomit.
+prev_word: boabs
+next_word: board
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

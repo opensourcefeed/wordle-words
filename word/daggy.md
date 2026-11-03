@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Uncool, unfashionable, but comfortably so.
+prev_word: dagga
+next_word: dahis
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

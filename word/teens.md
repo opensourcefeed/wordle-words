@@ -65,4 +65,15 @@ definitions:
   - text: "(temperature, rates) The range between 10 and 19."
     example: Although it was a scorching desert by day, temperatures could drop as
       low as the teens at night.
+prev_word: teene
+next_word: teeny
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

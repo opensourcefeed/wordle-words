@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 48
 neighbours:
 - dolce
+prev_word: dolce
+next_word: doled
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ci/"
+  label: Ending in CI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -25,4 +25,15 @@ neighbours:
 - rakhi
 - tachi
 - takht
+prev_word: takes
+next_word: takht
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

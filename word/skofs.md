@@ -25,4 +25,15 @@ neighbours:
 - skogs
 - skols
 - skyfs
+prev_word: skoff
+next_word: skogs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

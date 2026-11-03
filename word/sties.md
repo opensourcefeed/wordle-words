@@ -57,4 +57,15 @@ definitions:
 - pos: noun
   defs:
   - text: An inflammation of the eyelid.
+prev_word: stied
+next_word: stiff
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

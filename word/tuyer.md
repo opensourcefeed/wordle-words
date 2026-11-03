@@ -28,4 +28,15 @@ neighbours:
 - tryer
 - tuner
 - twyer
+prev_word: tuxes
+next_word: twaes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

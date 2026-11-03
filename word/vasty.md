@@ -29,4 +29,15 @@ neighbours:
 trap:
   pattern: _ASTY
   count: 6
+prev_word: vasts
+next_word: vatas
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

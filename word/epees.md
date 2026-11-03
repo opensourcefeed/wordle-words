@@ -27,4 +27,15 @@ definitions:
   defs:
   - text: A sharp-pointed dueling sword with a bell-shaped guard, used (with the end
       blunted) in sport fencing.
+prev_word: epact
+next_word: epena
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ep/"
+  label: Starting with EP
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

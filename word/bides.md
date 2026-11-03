@@ -48,4 +48,15 @@ definitions:
   - text: To dwell or reside in a location; to abide.
   - text: To wait; to be in expectation; to stay; to remain.
   - text: To wait for; to await.
+prev_word: bider
+next_word: bidet
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

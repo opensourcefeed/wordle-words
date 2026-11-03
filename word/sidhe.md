@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: A supernatural creature of Irish and Scottish folklore, living in Sidhe;
       a fairy.
+prev_word: sidha
+next_word: sidle
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

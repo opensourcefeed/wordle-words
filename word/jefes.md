@@ -31,4 +31,15 @@ definitions:
   - text: An officer with political influence; a head or chief in government, such
       as a sheriff, particularly where that person is Hispanic or of Mexican descent.
   - text: A boss in a business, company or other organization.
+prev_word: jeeze
+next_word: jeffs
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

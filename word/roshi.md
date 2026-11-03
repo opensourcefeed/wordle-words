@@ -28,4 +28,15 @@ neighbours:
 - rosti
 anagrams:
 - horis
+prev_word: rosha
+next_word: rosin
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

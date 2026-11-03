@@ -24,4 +24,15 @@ neighbours:
 - wimpy
 - gimpy
 - jimmy
+prev_word: jimmy
+next_word: jingo
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

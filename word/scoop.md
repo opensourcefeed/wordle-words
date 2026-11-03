@@ -72,4 +72,15 @@ definitions:
       and then to slide up to the target pitch, especially in country music.
   - text: To pick (someone) up
     example: You have a car. Can you come and scoop me?
+prev_word: scoog
+next_word: scoot
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

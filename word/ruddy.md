@@ -54,4 +54,15 @@ definitions:
 - pos: adverb
   defs:
   - text: A mild intensifier, expressing irritation.
+prev_word: rudds
+next_word: ruder
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

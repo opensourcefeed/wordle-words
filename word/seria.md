@@ -39,4 +39,15 @@ anagrams:
 - aesir
 - reais
 - serai
+prev_word: serge
+next_word: seric
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

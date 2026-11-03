@@ -31,4 +31,15 @@ neighbours:
 - farro
 anagrams:
 - arbor
+prev_word: barre
+next_word: barry
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

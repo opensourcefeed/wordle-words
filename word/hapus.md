@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A subtribe of an iwi; the basic political unit within Māori society.
+prev_word: happy
+next_word: haram
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -28,4 +28,15 @@ definitions:
   - text: The colouring matter of the blood.
   - text: The clotted portion of coagulated blood, containing the colouring matter;
       gore.
+prev_word: crunk
+next_word: crura
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

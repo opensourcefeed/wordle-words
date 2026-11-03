@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To dance the hula.
+prev_word: hukou
+next_word: hules
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

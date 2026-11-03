@@ -27,4 +27,13 @@ neighbours:
 - nrtya
 anagrams:
 - trant
+prev_word: noyes
+next_word: nrtya
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

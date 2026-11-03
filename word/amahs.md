@@ -34,4 +34,15 @@ definitions:
   - text: In South Asia, a woman employed to look after children; (formerly) a wet
       nurse.
   - text: In China and Southeast Asia, a female domestic helper.
+prev_word: alway
+next_word: amain
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

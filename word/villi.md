@@ -34,4 +34,15 @@ definitions:
   - text: A small projection from a membrane, particularly those found in the mucous
       membranes of the intestines.
   - text: One of the fine soft hairs on fruits, flowers, and other parts of plants.
+prev_word: ville
+next_word: vills
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

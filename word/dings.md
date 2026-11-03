@@ -65,4 +65,15 @@ definitions:
 - pos: noun
   defs:
   - text: An ancient Chinese vessel with legs and a lid.
+prev_word: dingo
+next_word: dingy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

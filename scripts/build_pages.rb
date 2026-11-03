@@ -13,6 +13,7 @@ require 'yaml'
 require 'date'
 require 'set'
 require 'nokogiri'
+require_relative 'hub_rules'
 
 def load_list(file, key) = YAML.load_file(file)[key].map(&:to_s)
 
@@ -24,6 +25,10 @@ past       = (YAML.load_file('_data/past-answers.yml')['past-answers'] || [])
              .select { |a| a['date'] < today } # never spoil today's puzzle
              .group_by { |a| a['word'] }
 word_set   = words.to_set
+prefixes   = HubRules.prefixes(words)
+suffixes   = HubRules.suffixes(words)
+linkable   = words.reject { |w| sensitive.include?(w) }.sort # for previous/next links
+position   = linkable.each_with_index.to_h
 
 # ---------------------------------------------------------------- word stats
 # Share of original answers that contain each letter.
@@ -146,6 +151,15 @@ words.each do |word|
   fm['trap'] = { 'pattern' => trap_pattern.upcase, 'count' => trap_words.size } if trap_words.size >= 6
   fm['phonetic'] = phonetic if phonetic
   fm['definitions'] = definitions if definitions&.any?
+  if (i = position[word])
+    fm['prev_word'] = linkable[i - 1] if i.positive?
+    fm['next_word'] = linkable[i + 1] if linkable[i + 1]
+  end
+  hubs = [[HubRules.start_url(word[0]), "Starting with #{word[0].upcase}"]]
+  hubs << [HubRules.start_url(word[0, 2]), "Starting with #{word[0, 2].upcase}"] if prefixes.include?(word[0, 2])
+  hubs << [HubRules.end_url(word[3, 2]), "Ending in #{word[3, 2].upcase}"] if suffixes.include?(word[3, 2])
+  hubs << [HubRules.end_url(word[-1]), "Ending in #{word[-1].upcase}"]
+  fm['hubs'] = hubs.map { |url, label| { 'url' => url, 'label' => label } }
   fm.delete('neighbours') if fm['neighbours'].empty?
   fm.delete('anagrams') if fm['anagrams'].empty?
 

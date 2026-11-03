@@ -56,4 +56,15 @@ definitions:
   - text: To tire, weary or fatigue
   - text: To treat like a jade; to spurn.
   - text: To make ridiculous and contemptible.
+prev_word: jaded
+next_word: jafas
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

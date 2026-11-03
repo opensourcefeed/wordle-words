@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _RIES
   count: 7
+prev_word: wrier
+next_word: wring
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

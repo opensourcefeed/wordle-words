@@ -71,4 +71,15 @@ definitions:
 - pos: noun
   defs:
   - text: A directory that contains a user's files.
+prev_word: hamel
+next_word: hammy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

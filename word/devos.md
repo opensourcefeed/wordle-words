@@ -33,4 +33,15 @@ neighbours:
 - divos
 anagrams:
 - doves
+prev_word: devon
+next_word: devot
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

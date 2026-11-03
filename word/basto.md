@@ -36,4 +36,15 @@ anagrams:
 - botas
 - sabot
 - tabos
+prev_word: basti
+next_word: basts
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

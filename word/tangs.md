@@ -73,4 +73,15 @@ definitions:
   defs:
   - text: The vagina.
   - text: Intercourse with a woman
+prev_word: tango
+next_word: tangy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

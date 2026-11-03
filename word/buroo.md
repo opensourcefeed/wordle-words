@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: The Labour Bureau; hence, unemployment benefits; the dole.
+prev_word: burnt
+next_word: burps
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

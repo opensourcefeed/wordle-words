@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _LOPS
   count: 6
+prev_word: elope
+next_word: elpee
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

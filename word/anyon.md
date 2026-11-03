@@ -26,4 +26,15 @@ neighbours:
 - anion
 anagrams:
 - annoy
+prev_word: anvil
+next_word: aorta
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

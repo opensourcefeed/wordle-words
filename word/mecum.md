@@ -23,4 +23,15 @@ stats:
 neighbours:
 - cecum
 - tecum
+prev_word: mecks
+next_word: medal
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -61,4 +61,15 @@ definitions:
     example: You just tried to start your car with your cell phone. Hello?
   - text: An expression of puzzlement or discovery.
     example: Hello! What’s going on here?
+prev_word: halid
+next_word: halls
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

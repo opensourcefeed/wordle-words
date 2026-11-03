@@ -24,4 +24,15 @@ neighbours:
 - sniff
 - swift
 - snirt
+prev_word: sniff
+next_word: snigs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

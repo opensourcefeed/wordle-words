@@ -76,4 +76,15 @@ definitions:
   - text: To suddenly happen or intensify.
   - text: To suddenly erupt in anger.
   - text: To be exposed to too much light.
+prev_word: flaps
+next_word: flary
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

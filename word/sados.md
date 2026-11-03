@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - dosas
 - sodas
+prev_word: sadly
+next_word: sadza
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

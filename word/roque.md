@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A form of croquet using short-handled mallets, and played on a hard surface
+prev_word: ropey
+next_word: roral
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - umbel
 - umble
+prev_word: bluid
+next_word: blunk
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -26,4 +26,15 @@ definitions:
 - pos: noun
   defs:
   - text: A West African stringed instrument, shaped like a guitar.
+prev_word: ngoma
+next_word: ngram
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ng/"
+  label: Starting with NG
+- url: "/ending-with/ni/"
+  label: Ending in NI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

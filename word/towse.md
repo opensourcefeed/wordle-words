@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _OWSE
   count: 6
+prev_word: towny
+next_word: towsy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

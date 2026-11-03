@@ -24,4 +24,15 @@ neighbours:
 - plaza
 - plage
 - playa
+prev_word: plack
+next_word: plage
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -23,4 +23,15 @@ stats:
 neighbours:
 - rayon
 - salon
+prev_word: sayne
+next_word: sayst
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

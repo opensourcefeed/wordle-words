@@ -62,4 +62,15 @@ definitions:
       speed.
   - text: A third-order measure of derivative price sensitivity, expressed as the
       rate of change of gamma with respect to changes in the underlying asset price.
+prev_word: spect
+next_word: speel
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

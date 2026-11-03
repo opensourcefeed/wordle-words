@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: TWEE_
   count: 6
+prev_word: tween
+next_word: tweer
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/ep/"
+  label: Ending in EP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

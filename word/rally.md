@@ -63,4 +63,15 @@ definitions:
       to recuperate.
   - text: To recover strength after a decline in prices; -- said of the market, stocks,
       etc.
+prev_word: ralli
+next_word: ralph
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

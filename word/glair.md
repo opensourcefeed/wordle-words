@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To smear with egg-white.
+prev_word: glaik
+next_word: glamp
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

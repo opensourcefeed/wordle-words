@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A knockout (in boxing).
+prev_word: kayle
+next_word: kazis
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

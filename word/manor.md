@@ -52,4 +52,15 @@ definitions:
   - text: One's neighbourhood.
     example: 2012, July 30, Shekhar Bhatia, "My East End manor is now as smart as
       Notting Hill", The Evening Standard
+prev_word: manoa
+next_word: manos
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

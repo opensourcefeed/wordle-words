@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 65
 neighbours:
 - carat
+prev_word: caput
+next_word: carat
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ap/"
+  label: Ending in AP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

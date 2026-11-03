@@ -44,4 +44,15 @@ definitions:
   - text: To make (someone) sleepy or delirious, to put into a stupor .
   - text: "(usually followed by “out”) To become exhausted, sleepy or delirious."
     example: After two hours of studying, I zonked out.
+prev_word: zones
+next_word: zooea
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

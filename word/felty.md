@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - lefty
 - flyte
+prev_word: felts
+next_word: femal
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

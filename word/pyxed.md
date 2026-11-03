@@ -24,4 +24,15 @@ neighbours:
 - poxed
 - pyned
 - pyxes
+prev_word: pyuff
+next_word: pyxes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

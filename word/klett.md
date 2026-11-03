@@ -21,4 +21,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 63
+prev_word: klaps
+next_word: klick
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kl/"
+  label: Starting with KL
+- url: "/ending-with/tt/"
+  label: Ending in TT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

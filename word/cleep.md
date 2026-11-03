@@ -29,4 +29,15 @@ neighbours:
 - pleep
 anagrams:
 - clepe
+prev_word: cleek
+next_word: clefs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ep/"
+  label: Ending in EP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

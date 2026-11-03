@@ -32,4 +32,15 @@ definitions:
 - pos: verb
   defs:
   - text: To erect, or to stay in, such a tent or shelter.
+prev_word: bivia
+next_word: bizes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

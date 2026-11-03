@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(especially in combination) toluenesulfonyl, phenylmethylsulfonyl"
+prev_word: tossy
+next_word: total
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

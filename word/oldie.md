@@ -40,4 +40,15 @@ definitions:
   - text: "(in the plural) The genre of music composed of popular music from previous
       eras."
     example: an oldies radio station
+prev_word: older
+next_word: oldly
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

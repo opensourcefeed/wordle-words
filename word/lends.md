@@ -53,4 +53,15 @@ definitions:
 - pos: noun
   defs:
   - text: Loins
+prev_word: lemur
+next_word: lenes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -26,4 +26,15 @@ neighbours:
 - tibia
 - tikis
 - tikka
+prev_word: tikes
+next_word: tikis
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

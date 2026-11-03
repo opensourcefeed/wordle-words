@@ -52,4 +52,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(Montreal) A boo-boo (minor injury)"
+prev_word: bobol
+next_word: bocca
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

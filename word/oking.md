@@ -26,4 +26,13 @@ neighbours:
 - aking
 - ohing
 - oping
+prev_word: okies
+next_word: okole
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

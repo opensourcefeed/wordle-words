@@ -23,4 +23,15 @@ stats:
 neighbours:
 - bahus
 - balut
+prev_word: bahus
+next_word: baiks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

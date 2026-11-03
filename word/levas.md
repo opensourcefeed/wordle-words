@@ -36,4 +36,15 @@ anagrams:
 - vales
 - valse
 - veals
+prev_word: leugh
+next_word: levee
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

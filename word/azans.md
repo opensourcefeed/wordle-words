@@ -31,4 +31,15 @@ definitions:
   - text: The call to prayer, which originally consisted of simply four takbirs followed
       by the statement لَا إِلٰهَ إِلَّا ٱلله (أَشْهَدُ أَنْ).
     example: If one pray alone, then no adhan is needed.
+prev_word: ayrie
+next_word: azide
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/az/"
+  label: Starting with AZ
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

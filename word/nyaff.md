@@ -19,4 +19,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 88
+prev_word: nutty
+next_word: nyala
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ny/"
+  label: Starting with NY
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

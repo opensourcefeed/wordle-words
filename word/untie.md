@@ -43,4 +43,15 @@ definitions:
   - text: To become untied or loosed.
   - text: In the Perl programming language, to undo the process of tying, so that
       a variable uses default instead of custom functionality.
+prev_word: untax
+next_word: until
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

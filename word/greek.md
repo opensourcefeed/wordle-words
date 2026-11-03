@@ -50,4 +50,15 @@ definitions:
       in displaying text that would be too small to read.
   - text: To fill a template with nonsense text (particularly the Lorem ipsum), so
       that form can be focused on instead of content.
+prev_word: greed
+next_word: green
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

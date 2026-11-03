@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - haats
 - tahas
+prev_word: hasps
+next_word: haste
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

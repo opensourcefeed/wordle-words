@@ -22,4 +22,15 @@ stats:
 neighbours:
 - folly
 - sonly
+prev_word: fonio
+next_word: fonts
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

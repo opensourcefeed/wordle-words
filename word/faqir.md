@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A religious mendicant who owns no personal property.
+prev_word: fanum
+next_word: farad
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

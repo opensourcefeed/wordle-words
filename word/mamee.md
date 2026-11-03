@@ -27,4 +27,15 @@ neighbours:
 - mamey
 - mamie
 - ramee
+prev_word: mambu
+next_word: mamey
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

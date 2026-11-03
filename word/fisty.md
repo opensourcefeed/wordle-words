@@ -26,4 +26,15 @@ neighbours:
 - fists
 - fusty
 - misty
+prev_word: fists
+next_word: fitch
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

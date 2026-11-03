@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: 'The monetary unit of Cambodia, equivalent to 100 sen or 10 kak. Symbol:
       ៛'
+prev_word: ridic
+next_word: riems
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

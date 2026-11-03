@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A form of seated meditation in Zen Buddhism.
+prev_word: zayin
+next_word: zeals
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

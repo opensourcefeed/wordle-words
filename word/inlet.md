@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: To let in; admit.
   - text: To insert; inlay.
+prev_word: inlay
+next_word: inned
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

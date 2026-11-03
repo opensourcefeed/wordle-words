@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: The monetary unit of Hungary from January, 1927 to July, 1946, divided into
       100 fillér.
+prev_word: penes
+next_word: penie
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

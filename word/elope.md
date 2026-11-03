@@ -39,4 +39,15 @@ definitions:
       married with one's intended spouse; to marry in a quick or private fashion,
       especially without a public period of engagement."
   - text: To run away from home (for any reason).
+prev_word: eloin
+next_word: elops
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

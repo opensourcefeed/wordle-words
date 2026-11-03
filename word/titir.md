@@ -27,4 +27,15 @@ neighbours:
 - titer
 - titin
 - titis
+prev_word: titin
+next_word: titis
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: SKEE_
   count: 8
+prev_word: skeef
+next_word: skeer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

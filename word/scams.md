@@ -44,4 +44,15 @@ definitions:
     example: That marketing scheme looks like a scam to me.
   - text: Something that is promoted using scams.
     example: That car was a scam.
+prev_word: scamp
+next_word: scand
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

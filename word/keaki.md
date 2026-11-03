@@ -26,4 +26,15 @@ stats:
 neighbours:
 - khaki
 - kiaki
+prev_word: kcals
+next_word: kebab
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ki/"
+  label: Ending in KI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

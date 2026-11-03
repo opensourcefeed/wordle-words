@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Chinese sailing vessel.
+prev_word: junco
+next_word: junky
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

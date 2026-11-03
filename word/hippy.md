@@ -50,4 +50,15 @@ definitions:
       unusually long hair (for males), and because of it, often stereotyped as a deadbeat."
   - text: Someone who dresses in a hippie style.
   - text: One who is hip.
+prev_word: hippo
+next_word: hired
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

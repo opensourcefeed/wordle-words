@@ -51,4 +51,15 @@ definitions:
   - text: Covered with fur, or with something resembling fur.
     example: His treatment of our furry friends was nothing short of appalling.
   - text: Of or related to the furry subculture.
+prev_word: furrs
+next_word: furth
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

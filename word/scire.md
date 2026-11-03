@@ -36,4 +36,15 @@ anagrams:
 - icers
 - rices
 - seric
+prev_word: scion
+next_word: sclim
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

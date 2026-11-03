@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Something that would happen, or would be the case, under different circumstances;
       a potentiality.
+prev_word: worts
+next_word: wound
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -48,4 +48,15 @@ definitions:
 - pos: verb
   defs:
   - text: To eat
+prev_word: scram
+next_word: scrap
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

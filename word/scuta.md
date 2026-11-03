@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A scutum.
+prev_word: scuse
+next_word: scute
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

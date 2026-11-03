@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: The sweet sap from any of several tropical trees fermented to make an alcoholic
       drink.
+prev_word: todde
+next_word: todea
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

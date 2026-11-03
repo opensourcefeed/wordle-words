@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Somebody's own act and deed.
   - text: The product, in multiplication.
+prev_word: facie
+next_word: facto
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

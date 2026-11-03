@@ -55,4 +55,15 @@ definitions:
     example: Subshrubs, shrubs, trees and lianas are all woody plants.
   - text: Lignified.
     example: the woody parts of a plant
+prev_word: woods
+next_word: wooed
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

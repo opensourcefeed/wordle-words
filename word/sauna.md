@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To use a sauna.
+prev_word: sault
+next_word: saunf
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -32,4 +32,15 @@ neighbours:
 - zayde
 anagrams:
 - azide
+prev_word: zaida
+next_word: zaidy
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

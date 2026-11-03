@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A clan, tribe, or community in India
   - text: A rhythm pattern in Indian music
+prev_word: jatha
+next_word: jatos
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

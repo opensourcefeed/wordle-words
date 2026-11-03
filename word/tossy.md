@@ -27,4 +27,15 @@ neighbours:
 - toshy
 - tousy
 - towsy
+prev_word: toshy
+next_word: tosyl
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -60,4 +60,15 @@ definitions:
       to major, but with the sixth and seventh not always lowered
     example: a minor scale
   - text: Being the smaller of the two intervals denoted by the same ordinal number
+prev_word: minny
+next_word: minos
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

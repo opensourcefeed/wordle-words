@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A rocking or balanced stone.
+prev_word: lofty
+next_word: loges
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

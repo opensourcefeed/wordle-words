@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - doats
 - toads
+prev_word: datil
+next_word: datto
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: PAR_E
   count: 6
+prev_word: parky
+next_word: parly
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

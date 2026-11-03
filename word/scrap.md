@@ -67,4 +67,15 @@ definitions:
   - text: To scrapbook; to create scrapbooks.
   - text: To dispose of at a scrapyard.
   - text: To make into scrap.
+prev_word: scran
+next_word: scrat
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ap/"
+  label: Ending in AP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -33,4 +33,15 @@ definitions:
   - text: A device for punishment. See bilboes.
   - text: A kind of sword with well-tempered and flexible blade, originally produced
       in Bilbao.
+prev_word: bilat
+next_word: bilby
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

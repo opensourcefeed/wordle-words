@@ -42,4 +42,15 @@ definitions:
   - text: To control, to guide or manage.
   - text: To handle with skill and ease, especially a weapon or tool.
   - text: To exercise (authority or influence) effectively.
+prev_word: width
+next_word: wiels
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Using an excessive number of words.
     example: The story was long and very wordy.
+prev_word: words
+next_word: works
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

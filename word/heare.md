@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _EARE
   count: 9
+prev_word: heard
+next_word: hears
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

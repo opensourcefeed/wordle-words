@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A type of clarified butter used in South Asian cooking; usli ghee.
   - text: Vegetable oil for cooking.
+prev_word: ghazi
+next_word: ghest
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gh/"
+  label: Starting with GH
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

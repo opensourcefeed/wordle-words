@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: To drink or imbibe with vigour or relish; to drink copiously; to swallow
       in large draughts.
+prev_word: quads
+next_word: quags
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

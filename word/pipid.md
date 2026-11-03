@@ -25,4 +25,15 @@ neighbours:
 - piped
 - pipis
 - pipit
+prev_word: pipet
+next_word: pipis
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

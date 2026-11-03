@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 48
 neighbours:
 - whaup
+prev_word: whaup
+next_word: wheal
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

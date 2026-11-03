@@ -22,4 +22,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 66
+prev_word: alala
+next_word: aland
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

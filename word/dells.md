@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: A young woman; a wench.
+prev_word: della
+next_word: delly
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

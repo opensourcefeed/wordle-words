@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Whining; tending to whine or complain.
     example: Emily is very whiny; she keeps complaining about trivial things.
+prev_word: whins
+next_word: whios
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

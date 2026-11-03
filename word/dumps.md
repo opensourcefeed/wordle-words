@@ -84,4 +84,15 @@ definitions:
 - pos: noun
   defs:
   - text: A deep hole in a river bed; a pool.
+prev_word: dummy
+next_word: dumpy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

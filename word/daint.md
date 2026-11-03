@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _AINT
   count: 6
+prev_word: daine
+next_word: dairy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

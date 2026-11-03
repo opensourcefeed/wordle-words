@@ -26,4 +26,15 @@ neighbours:
 - unlit
 anagrams:
 - tulip
+prev_word: upled
+next_word: upped
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/up/"
+  label: Starting with UP
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

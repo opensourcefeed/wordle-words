@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: "(of water) muddy, cloudy (having lots of sediment)"
   - text: Turbulent
+prev_word: roils
+next_word: roins
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

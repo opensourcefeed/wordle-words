@@ -32,4 +32,15 @@ definitions:
       the polka, combining a glissade with a chassé on alternate feet, usually in
       a fast 2/4 time.
   - text: The music for a dance of this kind.
+prev_word: gally
+next_word: galut
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: A funeral pile; a combustible heap on which corpses are burned.
   - text: Any heap or pile of combustibles.
+prev_word: pyran
+next_word: pyrex
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

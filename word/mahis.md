@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: MA_IS
   count: 6
+prev_word: mahem
+next_word: mahoe
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

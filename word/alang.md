@@ -31,4 +31,15 @@ neighbours:
 - klang
 anagrams:
 - lagan
+prev_word: alane
+next_word: alans
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

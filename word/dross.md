@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To remove dross from.
+prev_word: dropt
+next_word: drouk
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

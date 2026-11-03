@@ -49,4 +49,15 @@ definitions:
   - text: "(parachuting) To cause squidding (an improper, partial, parachute inflation,
       that results in the sides of the parachute folding in on the center, and pulsating
       back and forth)."
+prev_word: squib
+next_word: squit
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sq/"
+  label: Starting with SQ
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

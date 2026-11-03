@@ -59,4 +59,15 @@ definitions:
   - text: To defer (to something).
     example: I bow to your better judgement in the matter.
   - text: To give a direction, indication, or command to by bowing.
+prev_word: bowat
+next_word: bowel
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

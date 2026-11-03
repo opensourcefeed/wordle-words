@@ -26,4 +26,15 @@ neighbours:
 - cloop
 - ploot
 - sloot
+prev_word: cloop
+next_word: clops
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

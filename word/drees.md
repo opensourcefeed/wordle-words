@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: "(North England and Scotland) To suffer; bear; endure; put up with; undergo."
   - text: "(North England and Scotland) To endure; brook; be able to do or continue."
+prev_word: dreer
+next_word: dregs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

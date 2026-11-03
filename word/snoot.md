@@ -52,4 +52,15 @@ definitions:
 - pos: verb
   defs:
   - text: To behave disdainfully toward.
+prev_word: snoop
+next_word: snore
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _YKES
   count: 7
+prev_word: ryked
+next_word: rymer
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ry/"
+  label: Starting with RY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -38,4 +38,15 @@ definitions:
   - text: 'Beak-like: resembling a beak.'
   - text: Having a nose which resembles a beak.
   - text: "(of a gesture) Made using a beak; (of a sound) produced through a beak."
+prev_word: beaks
+next_word: beals
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

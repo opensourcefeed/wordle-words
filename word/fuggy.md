@@ -37,4 +37,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Muggy, stuffy, with bad ventilation
+prev_word: fugal
+next_word: fugie
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

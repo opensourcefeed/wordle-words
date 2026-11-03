@@ -27,4 +27,15 @@ neighbours:
 - yawps
 anagrams:
 - swamp
+prev_word: mawns
+next_word: mawrs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -26,4 +26,15 @@ neighbours:
 - abuna
 anagrams:
 - buena
+prev_word: abuna
+next_word: abura
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -23,4 +23,13 @@ neighbours:
 - apaid
 - apays
 - spayd
+prev_word: apart
+next_word: apays
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

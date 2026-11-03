@@ -41,4 +41,15 @@ definitions:
       foods.
   - text: A person who purchases items consumed or used as components in the manufacture
       of products.
+prev_word: buxom
+next_word: buyin
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

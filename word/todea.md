@@ -23,4 +23,15 @@ stats:
   rare: []
   starter_tier: Good
   starter_top_percent: 4
+prev_word: toddy
+next_word: todos
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

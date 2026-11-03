@@ -44,4 +44,15 @@ definitions:
   - text: To set off, get going; to start a journey.
   - text: 'To go off quickly: to hurry up.'
   - text: To amble; to walk or proceed in a leisurely manner.
+prev_word: moses
+next_word: mosks
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

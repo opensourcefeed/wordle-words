@@ -38,4 +38,15 @@ definitions:
   - text: To escape (a threatening evil, an unwelcome task etc).
   - text: To screen, hide.
   - text: To shove, push.
+prev_word: shuls
+next_word: shunt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

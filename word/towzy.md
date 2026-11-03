@@ -25,4 +25,15 @@ neighbours:
 - towny
 - towsy
 - towze
+prev_word: towze
+next_word: toxic
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

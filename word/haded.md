@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To slope or incline from the vertical.
+prev_word: hadal
+next_word: hades
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -30,4 +30,15 @@ neighbours:
 - gungy
 - mungy
 - pungy
+prev_word: bungs
+next_word: bunia
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

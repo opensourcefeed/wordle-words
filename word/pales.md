@@ -60,4 +60,15 @@ definitions:
   defs:
   - text: To enclose with pales, or as if with pales; to encircle or encompass; to
       fence off.
+prev_word: paler
+next_word: palet
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

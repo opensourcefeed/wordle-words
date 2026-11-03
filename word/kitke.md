@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 63
 neighbours:
 - kithe
+prev_word: kiths
+next_word: kitty
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

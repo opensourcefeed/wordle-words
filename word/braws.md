@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: BRA_S
   count: 10
+prev_word: brawn
+next_word: braxy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -67,4 +67,15 @@ definitions:
   - text: To cause to dance, or move nimbly or merrily about.
   - text: To make love or have sex.
     example: You make me feel like dancing.
+prev_word: dampy
+next_word: dancy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

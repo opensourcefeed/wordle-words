@@ -48,4 +48,15 @@ definitions:
     example: It'd be folly.
   - text: Thoughtless action resulting in tragic consequence.
   - text: A fanciful building built for purely ornamental reasons.
+prev_word: folky
+next_word: fomes
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

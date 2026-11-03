@@ -56,4 +56,15 @@ definitions:
 - pos: noun
   defs:
   - text: The sound a dog makes.
+prev_word: boric
+next_word: borms
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

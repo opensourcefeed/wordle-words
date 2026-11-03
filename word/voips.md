@@ -25,4 +25,15 @@ neighbours:
 - voids
 anagrams:
 - pivos
+prev_word: voile
+next_word: volae
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

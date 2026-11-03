@@ -44,4 +44,15 @@ definitions:
   - text: In Agile software development, a daily meeting in which each developer describes
       what they have been doing, what they plan to do next, and any impediments to
       progress.
+prev_word: scrub
+next_word: scuba
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

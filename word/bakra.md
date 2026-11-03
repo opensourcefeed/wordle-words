@@ -25,4 +25,15 @@ neighbours:
 - barra
 anagrams:
 - kabar
+prev_word: bakes
+next_word: balas
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

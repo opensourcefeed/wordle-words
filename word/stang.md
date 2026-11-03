@@ -36,4 +36,15 @@ anagrams:
 - gants
 - gnats
 - tangs
+prev_word: stane
+next_word: stank
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -136,4 +136,15 @@ definitions:
       to reconstruct an entire sheet.
   - text: "(particularly with early British stamps) to identify the printing plate
       used."
+prev_word: plast
+next_word: plats
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

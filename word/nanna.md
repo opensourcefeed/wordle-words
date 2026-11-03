@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: Grandmother
+prev_word: nandu
+next_word: nanny
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -42,4 +42,15 @@ definitions:
   - text: Stale-smelling or stuffy.
   - text: "(by extension) Old-fashioned, refusing to change or update."
   - text: "(of wine) Tasting of the cask."
+prev_word: fusts
+next_word: futon
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

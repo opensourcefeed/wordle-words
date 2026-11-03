@@ -24,4 +24,15 @@ stats:
 neighbours:
 - micra
 - mikva
+prev_word: mikos
+next_word: mikva
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

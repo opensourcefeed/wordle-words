@@ -59,4 +59,15 @@ definitions:
   defs:
   - text: A headland; a strip of land at the side of a field upon which a plough may
       be turned.
+prev_word: haded
+next_word: hadji
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

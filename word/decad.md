@@ -38,4 +38,15 @@ definitions:
   - text: The interval between any two quantities having a ratio of 10 to 1.
     example: There are decades between 1.8 and 18, between 25 and 250 and between
       0.03 and 0.003.
+prev_word: debye
+next_word: decaf
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

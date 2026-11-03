@@ -72,4 +72,15 @@ definitions:
   - text: To show a badge to.
     example: He calmed down a lot when the policeman badged him.
   - text: To enter a restricted area by showing one's badge.
+prev_word: baddy
+next_word: badly
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

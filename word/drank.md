@@ -52,4 +52,15 @@ definitions:
   - text: To take in; to receive within one, through the senses; to inhale; to hear;
       to see.
   - text: To smoke, as tobacco.
+prev_word: drams
+next_word: drant
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

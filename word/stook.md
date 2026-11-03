@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make stooks.
+prev_word: stood
+next_word: stool
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ok/"
+  label: Ending in OK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

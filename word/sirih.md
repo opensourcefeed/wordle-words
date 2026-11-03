@@ -24,4 +24,13 @@ neighbours:
 - siris
 anagrams:
 - rishi
+prev_word: sires
+next_word: siris
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

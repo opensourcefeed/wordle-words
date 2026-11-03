@@ -49,4 +49,15 @@ definitions:
 - pos: verb
   defs:
   - text: To apply decals to.
+prev_word: decaf
+next_word: decan
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

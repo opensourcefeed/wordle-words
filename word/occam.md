@@ -21,4 +21,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 77
+prev_word: obols
+next_word: occur
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

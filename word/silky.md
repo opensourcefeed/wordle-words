@@ -46,4 +46,15 @@ definitions:
     example: a silky voice
   - text: Covered in long, slender, glistening hairs pressed close to the surface;
       sericeous.
+prev_word: silks
+next_word: sills
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -46,4 +46,15 @@ definitions:
   - text: To wound seriously; to cause permanent loss of function of a limb or part
       of the body.
     example: He was maimed by a bear.
+prev_word: mails
+next_word: mains
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

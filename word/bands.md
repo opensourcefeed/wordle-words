@@ -79,4 +79,15 @@ definitions:
   defs:
   - text: To group together for a common purpose; to confederate.
   - text: To group (students) together by perceived ability; to stream.
+prev_word: bandh
+next_word: bandy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -48,4 +48,15 @@ definitions:
   - text: A wise person or spiritual teacher; someone of gravity and wisdom, especially,
       a teacher venerable for years, and of sound judgment and prudence; a grave or
       stoic philosopher.
+prev_word: sager
+next_word: saggy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

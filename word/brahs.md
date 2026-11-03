@@ -44,4 +44,15 @@ definitions:
   - text: Friend
     example: Take it easy, bra!
   - text: Female version of bro
+prev_word: brags
+next_word: braid
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

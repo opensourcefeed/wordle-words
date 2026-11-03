@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any member of the genus Carex of sedges.
+prev_word: caret
+next_word: cargo
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

@@ -33,4 +33,15 @@ anagrams:
 - enarm
 - neram
 - reman
+prev_word: named
+next_word: names
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

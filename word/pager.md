@@ -55,4 +55,15 @@ definitions:
       time.
   - text: "(in combination) Something (a document, book etc.) that has a specified
       number of pages."
+prev_word: paged
+next_word: pages
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

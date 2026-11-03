@@ -36,4 +36,15 @@ definitions:
   - text: Any of many plants with thorny stems growing in dense clusters, such as
       many in the Rosa, Rubus, and Smilax genera.
   - text: Anything sharp or unpleasant to the feelings.
+prev_word: breys
+next_word: bribe
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

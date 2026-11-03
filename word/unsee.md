@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: To undo the act of seeing something; to erase the memory of having seen
       something, or otherwise reverse the effect of having seen something.
+prev_word: unsay
+next_word: unset
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

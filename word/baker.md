@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: A person who bakes and sells bread, cakes and similar items.
   - text: A portable oven for baking.
+prev_word: baken
+next_word: bakes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

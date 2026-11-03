@@ -25,4 +25,15 @@ neighbours:
 - dioch
 anagrams:
 - chode
+prev_word: dents
+next_word: deoxy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A respectful term of address to any familiar older woman.
+prev_word: didie
+next_word: didos
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

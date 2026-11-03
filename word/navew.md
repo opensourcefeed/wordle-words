@@ -24,4 +24,15 @@ neighbours:
 - navel
 - naved
 - naves
+prev_word: naves
+next_word: navvy
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ew/"
+  label: Ending in EW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

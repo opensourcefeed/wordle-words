@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 97
 neighbours:
 - audax
+prev_word: aucht
+next_word: audax
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

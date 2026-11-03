@@ -33,4 +33,15 @@ neighbours:
 - wawas
 anagrams:
 - adaws
+prev_word: wacky
+next_word: wadds
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

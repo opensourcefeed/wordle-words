@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Knee
   - text: A knee-like bend.
+prev_word: genty
+next_word: genus
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ua/"
+  label: Ending in UA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

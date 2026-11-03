@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A keratin-filled cyst that can appear just under the epidermis or on the
       roof of the mouth.
+prev_word: milfs
+next_word: milko
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

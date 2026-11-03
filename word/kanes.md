@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _ANES
   count: 12
+prev_word: kaneh
+next_word: kanga
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

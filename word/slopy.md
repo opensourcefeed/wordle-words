@@ -26,4 +26,15 @@ anagrams:
 - ploys
 - polys
 - yolps
+prev_word: slops
+next_word: slorm
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

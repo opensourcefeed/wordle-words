@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: The belly.
+prev_word: pukka
+next_word: pulao
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

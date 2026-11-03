@@ -36,4 +36,15 @@ definitions:
   - text: A deep yellow powder, the oxide of some metal (especially iron), calcined
       to a red or deep yellow colour.
   - text: A fraudulent doctor; a quack.
+prev_word: croak
+next_word: crock
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ci/"
+  label: Ending in CI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

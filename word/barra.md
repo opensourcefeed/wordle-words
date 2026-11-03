@@ -33,4 +33,15 @@ neighbours:
 - narra
 - parra
 - yarra
+prev_word: barps
+next_word: barre
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - dente
 - teend
+prev_word: denes
+next_word: denim
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

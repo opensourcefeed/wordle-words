@@ -32,4 +32,13 @@ anagrams:
 - stade
 - tased
 - teads
+prev_word: tryst
+next_word: tsadi
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

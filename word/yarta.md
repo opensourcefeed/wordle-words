@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - tayra
 - yatra
+prev_word: yarrs
+next_word: yarto
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

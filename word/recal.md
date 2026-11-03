@@ -33,4 +33,15 @@ anagrams:
 - clear
 - carle
 - lacer
+prev_word: rebuy
+next_word: recap
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

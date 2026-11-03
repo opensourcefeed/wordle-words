@@ -52,4 +52,15 @@ definitions:
     example: It is vital that you don't forget to do your homework.
   - text: Containing life; living.
   - text: Capable of living; in a state to live; viable.
+prev_word: vitae
+next_word: vitas
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

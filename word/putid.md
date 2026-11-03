@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 68
 neighbours:
 - putin
+prev_word: puter
+next_word: putin
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

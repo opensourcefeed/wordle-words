@@ -54,4 +54,15 @@ definitions:
   - text: To create for, or give to, someone a style, fashion, or image, particularly
       one which is regarded as attractive, tasteful, or trendy.
   - text: To act in a way which seeks to show that one possesses style.
+prev_word: styes
+next_word: styli
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

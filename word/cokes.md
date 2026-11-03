@@ -49,4 +49,15 @@ definitions:
   - text: To produce coke from coal.
   - text: To turn into coke.
   - text: To add deleterious carbon deposits as a byproduct of combustion.
+prev_word: coked
+next_word: cokey
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

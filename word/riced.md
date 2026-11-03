@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: Made into or consisting of finely minced pieces resembling rice
     example: riced cauliflower
+prev_word: ribes
+next_word: ricer
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

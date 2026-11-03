@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _OKEY
   count: 7
+prev_word: lokes
+next_word: lokum
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

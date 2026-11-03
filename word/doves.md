@@ -49,4 +49,15 @@ definitions:
   - text: A person favouring conciliation and negotiation rather than conflict.
   - text: Term of endearment for one regarded as pure and gentle.
   - text: A greyish, bluish, pinkish colour like that of the bird.
+prev_word: dover
+next_word: dovie
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

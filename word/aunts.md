@@ -53,4 +53,15 @@ definitions:
       parents, by means of fictive kin.
   - text: Any elderly woman.
   - text: A procuress or bawd.
+prev_word: aunes
+next_word: aunty
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

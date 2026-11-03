@@ -25,4 +25,15 @@ neighbours:
 - milia
 anagrams:
 - limpa
+prev_word: milos
+next_word: milts
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

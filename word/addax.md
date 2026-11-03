@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A large African antelope (Addax nasomaculatus), with long horns, that lives
       in the desert.
+prev_word: addas
+next_word: added
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ax/"
+  label: Ending in AX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

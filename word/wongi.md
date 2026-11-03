@@ -25,4 +25,15 @@ neighbours:
 - wonga
 anagrams:
 - owing
+prev_word: wonga
+next_word: wonks
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -25,4 +25,15 @@ neighbours:
 - novum
 anagrams:
 - mound
+prev_word: nodes
+next_word: nodus
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -40,4 +40,15 @@ definitions:
 - pos: verb
   defs:
   - text: To sing a paean; to praise.
+prev_word: padri
+next_word: paedo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

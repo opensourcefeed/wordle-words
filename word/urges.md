@@ -45,4 +45,15 @@ definitions:
     example: to urge an ore with intense heat
   - text: To press onward or forward.
   - text: To be pressing in argument; to insist; to persist.
+prev_word: urger
+next_word: urial
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

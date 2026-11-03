@@ -39,4 +39,15 @@ definitions:
   - text: The track cut out by a scythe in mowing.
   - text: A broad sweep or expanse, such as of land or of people.
     example: A large swath of the population is opposed to this government policy.
+prev_word: swash
+next_word: swats
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

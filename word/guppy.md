@@ -47,4 +47,15 @@ definitions:
   - text: A tube holding paintballs before they are loaded into the gun.
     example: 2001, John R. Little, Curtis Wong, Ultimate Paintball Field Guide (page
       177)
+prev_word: gunny
+next_word: guqin
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

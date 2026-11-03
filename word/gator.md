@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Alligator.
+prev_word: gaths
+next_word: gauch
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ROWS
   count: 8
+prev_word: drown
+next_word: drubs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

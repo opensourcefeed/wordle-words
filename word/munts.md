@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _UNTS
   count: 11
+prev_word: munjs
+next_word: muntu
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

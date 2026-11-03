@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Any of several large brown seaweeds (order Laminariales).
   - text: The calcined ashes of seaweed, formerly used in glass and iodine manufacture.
+prev_word: kelly
+next_word: kelpy
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

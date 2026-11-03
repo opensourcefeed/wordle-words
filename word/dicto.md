@@ -29,4 +29,15 @@ neighbours:
 - dicty
 anagrams:
 - dicot
+prev_word: dicta
+next_word: dicts
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

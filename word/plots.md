@@ -61,4 +61,15 @@ definitions:
     example: Every five minutes they plotted their position.
   - text: To conceive a crime, misdeed, etc.
     example: They were plotting against the king.
+prev_word: plore
+next_word: plotz
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

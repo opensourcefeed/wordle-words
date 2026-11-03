@@ -26,4 +26,15 @@ neighbours:
 - bobas
 anagrams:
 - cabob
+prev_word: boaty
+next_word: bobak
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ac/"
+  label: Ending in AC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

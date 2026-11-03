@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: One who, or that which, fuses or is fused; an individual component of a
       fusion.
+prev_word: fuzed
+next_word: fuzes
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

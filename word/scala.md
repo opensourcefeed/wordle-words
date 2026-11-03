@@ -30,4 +30,15 @@ neighbours:
 trap:
   pattern: SCAL_
   count: 6
+prev_word: scail
+next_word: scald
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

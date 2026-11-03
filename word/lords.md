@@ -56,4 +56,15 @@ definitions:
   - text: Domineer or act like a lord.
   - text: To invest with the dignity, power, and privileges of a lord; to grant the
       title of lord.
+prev_word: loran
+next_word: lordy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

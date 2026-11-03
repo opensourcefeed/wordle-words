@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - dahis
 - sidha
+prev_word: darzi
+next_word: dashy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

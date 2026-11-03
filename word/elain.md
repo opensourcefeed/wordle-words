@@ -37,4 +37,15 @@ anagrams:
 - anile
 - liane
 - nelia
+prev_word: ekkas
+next_word: eland
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

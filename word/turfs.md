@@ -61,4 +61,15 @@ definitions:
   - text: To expel, eject, or throw out; to turf out.
   - text: To transfer or attempt to transfer (a patient or case); to eschew or avoid
       responsibility for.
+prev_word: turds
+next_word: turfy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

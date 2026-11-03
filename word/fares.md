@@ -52,4 +52,15 @@ definitions:
   - text: Food and drink.
   - text: Supplies for consumption or pleasure.
   - text: A prostitute's client.
+prev_word: farer
+next_word: farle
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

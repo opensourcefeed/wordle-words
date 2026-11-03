@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 96
 neighbours:
 - dinic
+prev_word: vinho
+next_word: vinny
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

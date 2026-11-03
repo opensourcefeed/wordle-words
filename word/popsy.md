@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: Grandfather.
   - text: Father.
+prev_word: poppy
+next_word: popup
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OUPS
   count: 7
+prev_word: doums
+next_word: doura
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

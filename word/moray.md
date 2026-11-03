@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of the large cosmopolitan carnivorous eels of the family Muraenidae.
+prev_word: morat
+next_word: moree
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

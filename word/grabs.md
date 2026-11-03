@@ -66,4 +66,15 @@ definitions:
 - pos: noun
   defs:
   - text: A two- or three-masted vessel used on the Malabar coast.
+prev_word: graal
+next_word: grace
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

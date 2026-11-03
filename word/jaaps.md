@@ -26,4 +26,15 @@ neighbours:
 - jarps
 - jasps
 - jaups
+prev_word: izzat
+next_word: jabot
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

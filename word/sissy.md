@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: Effeminate.
   - text: Cowardly.
+prev_word: sises
+next_word: sista
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

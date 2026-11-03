@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - gruel
 - luger
+prev_word: glued
+next_word: glues
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

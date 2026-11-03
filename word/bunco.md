@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To swindle (someone).
+prev_word: bunch
+next_word: bunde
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

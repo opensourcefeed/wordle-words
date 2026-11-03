@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of short, diagonally cut pasta.
+prev_word: penna
+next_word: penni
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

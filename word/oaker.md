@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _AKER
   count: 12
+prev_word: oaken
+next_word: oakum
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oa/"
+  label: Starting with OA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

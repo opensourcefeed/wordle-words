@@ -34,4 +34,15 @@ neighbours:
 - amies
 anagrams:
 - saice
+prev_word: acidy
+next_word: acing
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

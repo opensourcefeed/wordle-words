@@ -54,4 +54,15 @@ definitions:
   - text: To exult with joy; to rejoice.
   - text: To boast; to be proud.
   - text: To shine radiantly.
+prev_word: glops
+next_word: gloss
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

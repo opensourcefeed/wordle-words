@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 55
 neighbours:
 - herse
+prev_word: hertz
+next_word: hesps
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ye/"
+  label: Ending in YE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

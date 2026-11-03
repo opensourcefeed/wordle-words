@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: To commit random acts of assault, robbery, and rape in an urban setting,
       especially as a gang.
+prev_word: wilco
+next_word: wiled
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

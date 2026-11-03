@@ -65,4 +65,15 @@ definitions:
   - text: To imprint a postage mark with a postage meter.
   - text: To regulate the flow of or to deliver in regulated amounts (usually of fluids
       but sometimes of other things such as anticipation or breath).
+prev_word: metel
+next_word: metes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

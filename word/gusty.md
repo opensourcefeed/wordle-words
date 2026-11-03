@@ -47,4 +47,15 @@ definitions:
   - text: "(by extension, metaphoric) Characterized by or occurring in instances of
       sudden strong expression"
   - text: "(metaphoric) Bombastic, verbose."
+prev_word: gusts
+next_word: gutsy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

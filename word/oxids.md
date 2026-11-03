@@ -27,4 +27,15 @@ neighbours:
 - ooids
 - oxies
 - oxims
+prev_word: oxide
+next_word: oxies
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ox/"
+  label: Starting with OX
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

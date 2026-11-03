@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _AWKS
   count: 9
+prev_word: dawgs
+next_word: dawns
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

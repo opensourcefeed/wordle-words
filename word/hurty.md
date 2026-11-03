@@ -29,4 +29,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Hurting; painful.
+prev_word: hurts
+next_word: hushy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

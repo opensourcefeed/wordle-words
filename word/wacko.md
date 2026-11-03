@@ -36,4 +36,15 @@ definitions:
 - pos: interjection
   defs:
   - text: Hurrah!
+prev_word: wacke
+next_word: wacks
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

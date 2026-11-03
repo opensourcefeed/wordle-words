@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A long-legged, long-necked wading bird of the family Ardeidae.
+prev_word: herns
+next_word: heros
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

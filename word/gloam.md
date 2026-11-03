@@ -26,4 +26,15 @@ neighbours:
 - gloat
 - gloom
 - cloam
+prev_word: glitz
+next_word: gloat
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

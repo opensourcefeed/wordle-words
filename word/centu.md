@@ -23,4 +23,15 @@ stats:
 neighbours:
 - cento
 - cents
+prev_word: cents
+next_word: ceorl
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/tu/"
+  label: Ending in TU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

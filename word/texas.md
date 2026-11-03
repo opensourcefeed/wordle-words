@@ -30,4 +30,15 @@ neighbours:
 - texts
 anagrams:
 - taxes
+prev_word: tewit
+next_word: texes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

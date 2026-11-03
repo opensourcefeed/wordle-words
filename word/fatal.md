@@ -43,4 +43,15 @@ definitions:
     example: a fatal wound; a fatal disease; that fatal day; a fatal mistake
   - text: Causing a sudden end to the running of a program.
     example: a fatal error; a fatal exception
+prev_word: fasts
+next_word: fated
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

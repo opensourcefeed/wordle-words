@@ -43,4 +43,15 @@ definitions:
   - text: To cook (food) using a small amount of fat in an open pan over a relatively
       high heat, allowing the food to brown and form a crust stopping it from sticking
       to the pan as it cooks.
+prev_word: saury
+next_word: sauts
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

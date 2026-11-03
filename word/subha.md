@@ -26,4 +26,15 @@ anagrams:
 - habus
 - shuba
 - subah
+prev_word: suber
+next_word: succi
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

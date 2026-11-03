@@ -30,4 +30,15 @@ definitions:
   - text: 'A thin membrane, resembling a veil, such as:'
   - text: An accessory cloud resembling a veil extending over a large distance. Normally
       associated with cumulus and cumulonimbus.
+prev_word: vells
+next_word: venae
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

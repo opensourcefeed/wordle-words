@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - caneh
 - hance
+prev_word: nabob
+next_word: nacho
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

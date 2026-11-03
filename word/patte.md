@@ -33,4 +33,15 @@ neighbours:
 - pattu
 anagrams:
 - tapet
+prev_word: patta
+next_word: pattu
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

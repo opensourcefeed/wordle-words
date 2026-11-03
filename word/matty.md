@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ATTY
   count: 9
+prev_word: matts
+next_word: matza
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

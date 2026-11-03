@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _EENS
   count: 7
+prev_word: reems
+next_word: reerd
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

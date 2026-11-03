@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 94
+prev_word: poynt
+next_word: poyse
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ou/"
+  label: Ending in OU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

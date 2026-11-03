@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - boors
 - broos
+prev_word: sorbi
+next_word: sorbs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

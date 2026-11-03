@@ -34,4 +34,15 @@ anagrams:
 - geist
 - gites
 - tiges
+prev_word: geist
+next_word: gelds
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

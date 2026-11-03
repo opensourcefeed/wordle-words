@@ -52,4 +52,15 @@ definitions:
   - text: To dilute.
   - text: To remove some plants or parts of plants in order to improve the growth
       of what remains.
+prev_word: think
+next_word: thiol
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

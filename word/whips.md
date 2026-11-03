@@ -94,4 +94,15 @@ definitions:
   - text: To lash with sarcasm, abuse, etc.
   - text: To thrash; to beat out, as grain, by striking.
     example: to whip wheat
+prev_word: whios
+next_word: whipt
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

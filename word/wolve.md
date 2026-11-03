@@ -26,4 +26,15 @@ neighbours:
 - volve
 anagrams:
 - vowel
+prev_word: wolly
+next_word: woman
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

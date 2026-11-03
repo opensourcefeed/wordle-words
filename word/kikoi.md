@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A piece of colored cloth used as clothing in Africa, wrapped around the
       waist and legs or shoulders.
+prev_word: kikay
+next_word: kiley
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/oi/"
+  label: Ending in OI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

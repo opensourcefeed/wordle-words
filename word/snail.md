@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To move or travel very slowly.
     example: The cars were snailing along the motorway during the rush hour.
+prev_word: snags
+next_word: snake
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

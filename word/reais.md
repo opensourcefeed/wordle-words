@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: 'A unit of currency used in Brazil since 1994. Symbol: R$.'
   - text: A coin worth one real.
+prev_word: ready
+next_word: reaks
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

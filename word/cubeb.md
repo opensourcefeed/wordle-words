@@ -31,4 +31,13 @@ definitions:
   defs:
   - text: The tailed pepper, Piper cubeba; an Indonesian plant cultivated for its
       berries and essential oil.
+prev_word: cubby
+next_word: cubed
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

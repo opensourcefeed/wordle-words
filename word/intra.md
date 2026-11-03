@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - train
 - riant
+prev_word: intis
+next_word: intro
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

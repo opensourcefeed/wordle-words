@@ -80,4 +80,15 @@ definitions:
 - pos: noun
   defs:
   - text: One of the thills or shafts of a carriage.
+prev_word: fillo
+next_word: filly
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

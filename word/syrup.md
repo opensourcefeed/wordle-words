@@ -37,4 +37,15 @@ definitions:
   - text: "(by extension) Any viscous liquid."
     example: cough syrup
   - text: (shortened from "syrup of figs") A wig.
+prev_word: syren
+next_word: sysop
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/up/"
+  label: Ending in UP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

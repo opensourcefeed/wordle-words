@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 48
 anagrams:
 - chado
+prev_word: adhan
+next_word: adieu
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

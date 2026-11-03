@@ -43,4 +43,15 @@ definitions:
   - text: Sexually attractive women considered collectively; usually connoting a connection
       with the upper class.
   - text: An individual sexually attractive woman
+prev_word: totes
+next_word: touch
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

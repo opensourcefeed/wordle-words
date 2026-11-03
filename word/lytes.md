@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _YTES
   count: 6
+prev_word: lyted
+next_word: lythe
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

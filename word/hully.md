@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ULLY
   count: 10
+prev_word: hulls
+next_word: human
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

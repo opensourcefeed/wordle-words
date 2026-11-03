@@ -56,4 +56,15 @@ definitions:
     example: I think she’ll pass the examination.
   - text: To plan; to be considering; to be of a mind (to do something).
   - text: To presume; to venture.
+prev_word: thing
+next_word: thins
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

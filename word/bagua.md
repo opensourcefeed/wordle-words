@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: The eight trigrams used in Daoist cosmology.
+prev_word: bagsy
+next_word: bahts
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ua/"
+  label: Ending in UA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

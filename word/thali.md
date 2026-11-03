@@ -36,4 +36,15 @@ definitions:
   - text: A round metal platter used to serve food in India.
   - text: A meal served on such a platter, typically comprising a selection of different
       dishes presented in small bowls.
+prev_word: thale
+next_word: thana
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

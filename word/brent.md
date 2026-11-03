@@ -29,4 +29,15 @@ neighbours:
 - prent
 - urent
 - yrent
+prev_word: brens
+next_word: brere
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

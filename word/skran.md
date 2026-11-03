@@ -31,4 +31,15 @@ anagrams:
 - ranks
 - skarn
 - snark
+prev_word: skosh
+next_word: skrik
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

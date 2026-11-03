@@ -61,4 +61,13 @@ definitions:
   - text: To throw squibs; to utter sarcastic or severe reflections; to contend in
       petty dispute.
     example: to squib a little debate
+prev_word: squeg
+next_word: squid
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sq/"
+  label: Starting with SQ
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

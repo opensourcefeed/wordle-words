@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _OOMY
   count: 6
+prev_word: cooms
+next_word: coops
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

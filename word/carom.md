@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: To make a carom (shot in billiards).
   - text: To strike and bounce back; to strike (something) and rebound.
+prev_word: carol
+next_word: caron
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -33,4 +33,15 @@ neighbours:
 - louis
 anagrams:
 - coils
+prev_word: locie
+next_word: locks
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

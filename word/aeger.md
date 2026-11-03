@@ -33,4 +33,13 @@ anagrams:
 - eagre
 - geare
 - ragee
+prev_word: aedes
+next_word: aegis
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

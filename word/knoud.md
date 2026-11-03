@@ -22,4 +22,15 @@ stats:
 neighbours:
 - knout
 - knowd
+prev_word: knots
+next_word: knout
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ud/"
+  label: Ending in UD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

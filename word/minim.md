@@ -37,4 +37,15 @@ definitions:
   - text: A little man or being; a dwarf.
   - text: A small fish; a minnow.
   - text: A short poetical encomium.
+prev_word: mingy
+next_word: minis
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

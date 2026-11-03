@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 79
+prev_word: taata
+next_word: tabby
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ac/"
+  label: Ending in AC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: 'The monetary unit of Russia, Belarus and Transnistria equal to 100 kopeks
       (Russian: копе́йка, Belarusian: капе́йка). The Russian ruble''s symbol is ₽.'
+prev_word: rubio
+next_word: rubli
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

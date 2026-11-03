@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _USTS
   count: 9
+prev_word: fussy
+next_word: fusty
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

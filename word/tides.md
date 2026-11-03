@@ -74,4 +74,15 @@ definitions:
 - pos: verb
   defs:
   - text: To happen, occur.
+prev_word: tided
+next_word: tiefs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

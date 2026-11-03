@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _OKES
   count: 13
+prev_word: gojis
+next_word: golds
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

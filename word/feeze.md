@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _EEZE
   count: 6
+prev_word: feese
+next_word: fehme
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -43,4 +43,15 @@ definitions:
 - pos: adjective
   defs:
   - text: The ordinal form of the number six.
+prev_word: sixte
+next_word: sixty
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

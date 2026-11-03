@@ -31,4 +31,15 @@ anagrams:
 trap:
   pattern: _INCE
   count: 6
+prev_word: yills
+next_word: yipes
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yi/"
+  label: Starting with YI
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

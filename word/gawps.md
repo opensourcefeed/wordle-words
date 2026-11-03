@@ -32,4 +32,15 @@ definitions:
 - pos: verb
   defs:
   - text: To stare stupidly or rudely; to gawk.
+prev_word: gawky
+next_word: gawsy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

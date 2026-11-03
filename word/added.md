@@ -48,4 +48,15 @@ definitions:
   - text: To summon minions or reinforcements.
     example: Typically, a hostile mob will add whenever it's within the aggro radius
       of a player.
+prev_word: addax
+next_word: adder
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: Having a yellow-orange colour.
   - text: Referring to cultures that covered their dead with ochre.
+prev_word: oches
+next_word: ochry
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -22,4 +22,15 @@ stats:
   - J
   starter_tier: Average
   starter_top_percent: 39
+prev_word: jehus
+next_word: jello
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ab/"
+  label: Ending in AB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

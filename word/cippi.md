@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 100
+prev_word: cions
+next_word: circa
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/pi/"
+  label: Ending in PI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

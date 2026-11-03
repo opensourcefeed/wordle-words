@@ -48,4 +48,15 @@ definitions:
   - text: Having (a particularly large amount of) sap.
   - text: Juicy.
   - text: "(of wood) Spongy; Having spaces in which large quantities of sap can flow."
+prev_word: sapor
+next_word: saran
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -37,4 +37,15 @@ neighbours:
 - milos
 anagrams:
 - foils
+prev_word: filon
+next_word: filth
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

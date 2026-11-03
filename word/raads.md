@@ -27,4 +27,15 @@ neighbours:
 - reads
 - riads
 - roads
+prev_word: quyte
+next_word: raake
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

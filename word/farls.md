@@ -46,4 +46,15 @@ definitions:
   - text: A quarter of a thin oatmeal or flour cake.
   - text: Any such cake or bread, now particularly used for Irish specialities as
       soda farls and potato farls.
+prev_word: farle
+next_word: farms
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

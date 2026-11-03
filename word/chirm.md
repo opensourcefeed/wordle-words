@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To chirp or to make a mournful cry, as a bird does.
+prev_word: chirl
+next_word: chiro
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/rm/"
+  label: Ending in RM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

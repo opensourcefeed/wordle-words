@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ULLS
   count: 12
+prev_word: wuffs
+next_word: wunga
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wu/"
+  label: Starting with WU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

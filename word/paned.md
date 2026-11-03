@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ANED
   count: 10
+prev_word: pandy
+next_word: panel
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

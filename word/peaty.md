@@ -33,4 +33,15 @@ neighbours:
 - pesty
 - platy
 - praty
+prev_word: peats
+next_word: peavy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

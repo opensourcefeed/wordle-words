@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: An Indian oil lamp, usually made from clay, with a cotton wick dipped in
       ghee or vegetable oil.
+prev_word: dixit
+next_word: dizen
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

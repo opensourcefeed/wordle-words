@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _OUKS
   count: 10
+prev_word: yorps
+next_word: young
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

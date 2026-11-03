@@ -63,4 +63,15 @@ definitions:
   - text: Consumed, used up, exhausted, depleted.
     example: a spent cartridge
   - text: 'Of fish: exhausted as a result of having spawned.'
+prev_word: spend
+next_word: speos
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

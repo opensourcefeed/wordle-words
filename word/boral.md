@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ORAL
   count: 9
+prev_word: borak
+next_word: boras
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

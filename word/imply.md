@@ -35,4 +35,15 @@ definitions:
   - text: "(of a person or proposition) to hint; to insinuate; to suggest tacitly
       and avoid a direct statement"
   - text: To enfold, entangle.
+prev_word: impis
+next_word: impot
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

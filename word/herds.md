@@ -64,4 +64,15 @@ definitions:
   - text: To act as a herdsman or a shepherd.
   - text: To form or put into a herd.
     example: I heard the herd of cattle being herded home from a long way away.
+prev_word: herby
+next_word: heres
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

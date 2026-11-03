@@ -31,4 +31,15 @@ anagrams:
 - steme
 - teems
 - temes
+prev_word: tempt
+next_word: tench
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

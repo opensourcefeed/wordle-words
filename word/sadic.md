@@ -29,4 +29,15 @@ anagrams:
 - asdic
 - cadis
 - caids
+prev_word: sadhu
+next_word: sadis
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

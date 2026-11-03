@@ -57,4 +57,15 @@ definitions:
   - text: To become entangled.
   - text: To become untwisted or unwoven.
   - text: In the APL programming language, to reshape (a variable) into a vector.
+prev_word: raved
+next_word: raven
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

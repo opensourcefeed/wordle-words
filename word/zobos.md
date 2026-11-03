@@ -34,4 +34,15 @@ anagrams:
 trap:
   pattern: _OBOS
   count: 7
+prev_word: zoaea
+next_word: zobus
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

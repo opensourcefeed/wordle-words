@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: SA_ER
   count: 10
+prev_word: sawed
+next_word: saxes
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

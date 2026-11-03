@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _IVER
   count: 11
+prev_word: jived
+next_word: jives
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

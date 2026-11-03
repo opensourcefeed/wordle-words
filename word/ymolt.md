@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 54
 neighbours:
 - smolt
+prev_word: ylkes
+next_word: ympes
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

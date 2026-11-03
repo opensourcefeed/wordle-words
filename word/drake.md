@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A male duck.
+prev_word: drain
+next_word: drama
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -30,4 +30,15 @@ neighbours:
 - rutin
 anagrams:
 - input
+prev_word: putid
+next_word: puton
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

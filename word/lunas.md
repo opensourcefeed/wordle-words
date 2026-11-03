@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _UNAS
   count: 6
+prev_word: lunar
+next_word: lunch
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

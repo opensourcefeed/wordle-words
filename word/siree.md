@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: "(used as an intensifier, emphatically, after yes or no) Sir."
     example: '"Are you coming?"'
+prev_word: sired
+next_word: siren
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

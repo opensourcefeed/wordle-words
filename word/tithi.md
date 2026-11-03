@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 97
 neighbours:
 - tithe
+prev_word: tithe
+next_word: titin
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

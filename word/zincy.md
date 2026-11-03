@@ -25,4 +25,15 @@ neighbours:
 - zincs
 - zingy
 - zinky
+prev_word: zincs
+next_word: zineb
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

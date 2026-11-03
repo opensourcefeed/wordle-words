@@ -32,4 +32,13 @@ definitions:
 - pos: noun
   defs:
   - text: A mediaeval double-reed wind instrument with a conical wooden body.
+prev_word: shawl
+next_word: shawn
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

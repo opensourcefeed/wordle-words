@@ -19,4 +19,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 50
+prev_word: cytes
+next_word: czars
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cy/"
+  label: Starting with CY
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

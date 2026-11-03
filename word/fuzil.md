@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 91
 neighbours:
 - fusil
+prev_word: fuzes
+next_word: fuzzy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

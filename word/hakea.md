@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 64
 neighbours:
 - hakes
+prev_word: hakas
+next_word: hakes
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

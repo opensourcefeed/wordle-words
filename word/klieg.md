@@ -28,4 +28,13 @@ definitions:
 - pos: noun
   defs:
   - text: Any of several intense arc lamps used in cinematography
+prev_word: klick
+next_word: kliks
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kl/"
+  label: Starting with KL
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -25,4 +25,15 @@ neighbours:
 - hyles
 anagrams:
 - shaly
+prev_word: hykes
+next_word: hyleg
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

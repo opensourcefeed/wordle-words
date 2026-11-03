@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(chiefly in combination) Any of various fish of the genera Danio and Devario."
+prev_word: dangs
+next_word: danks
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/io/"
+  label: Ending in IO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -36,4 +36,15 @@ anagrams:
 - muist
 - musit
 - tuism
+prev_word: mutic
+next_word: muton
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

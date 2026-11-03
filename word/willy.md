@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: Willing; favourable; ready; eager.
   - text: Self-willed; willful.
+prev_word: wills
+next_word: wilts
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

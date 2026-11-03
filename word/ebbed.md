@@ -37,4 +37,13 @@ definitions:
   - text: To fish with stakes and nets that serve to prevent the fish from getting
       back into the sea with the ebb
   - text: To cause to flow back.
+prev_word: ebank
+next_word: ebbet
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

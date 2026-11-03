@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - dunes
 - nudes
+prev_word: nurtz
+next_word: nuses
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

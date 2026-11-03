@@ -37,4 +37,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Full of anger; wrathful.
+prev_word: wrote
+next_word: wrung
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

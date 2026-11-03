@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ERRY
   count: 11
+prev_word: serrs
+next_word: serum
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

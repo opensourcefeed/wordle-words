@@ -25,4 +25,15 @@ neighbours:
 - cisco
 anagrams:
 - cocas
+prev_word: casas
+next_word: cased
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

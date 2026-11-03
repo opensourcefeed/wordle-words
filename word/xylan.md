@@ -20,4 +20,13 @@ stats:
   - X
   starter_tier: Weak
   starter_top_percent: 63
+prev_word: xviii
+next_word: xylem
+hubs:
+- url: "/starting-with/x/"
+  label: Starting with X
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

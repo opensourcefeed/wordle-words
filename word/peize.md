@@ -29,4 +29,15 @@ neighbours:
 - peine
 - peise
 - weize
+prev_word: peisy
+next_word: pekan
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

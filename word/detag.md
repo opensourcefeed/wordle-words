@@ -31,4 +31,15 @@ definitions:
 - pos: verb
   defs:
   - text: To strip of a tag or tags; to remove the tags from.
+prev_word: desse
+next_word: deter
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ag/"
+  label: Ending in AG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

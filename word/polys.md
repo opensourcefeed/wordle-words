@@ -48,4 +48,15 @@ definitions:
     example: a cotton-poly blend
   - text: Polyamory.
   - text: A polyamorous person.
+prev_word: polyp
+next_word: pomas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

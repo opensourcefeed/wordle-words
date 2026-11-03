@@ -27,4 +27,15 @@ neighbours:
 - botes
 anagrams:
 - bowet
+prev_word: botes
+next_word: bothy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ew/"
+  label: Ending in EW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _ANDS
   count: 9
+prev_word: mandi
+next_word: mandy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

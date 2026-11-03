@@ -26,4 +26,15 @@ stats:
 neighbours:
 - rosit
 - rozet
+prev_word: rozet
+next_word: ruach
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

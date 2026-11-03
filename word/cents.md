@@ -112,4 +112,15 @@ definitions:
     example: That was his tenth professional century.
   - text: A race a hundred units (as meters, kilometres, miles) in length.
   - text: A banknote in the denomination of one hundred dollars.
+prev_word: cento
+next_word: centu
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

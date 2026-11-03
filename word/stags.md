@@ -60,4 +60,15 @@ definitions:
     example: The stag will be held in the hotel's ballroom.
   - text: A stag beetle (family Lucanidae).
   - text: Guard duty.
+prev_word: stage
+next_word: stagy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

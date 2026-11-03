@@ -30,4 +30,15 @@ neighbours:
 - rithe
 - roche
 - ruche
+prev_word: ricey
+next_word: richt
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

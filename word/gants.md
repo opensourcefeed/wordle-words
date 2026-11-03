@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _ANTS
   count: 14
+prev_word: ganof
+next_word: gaols
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

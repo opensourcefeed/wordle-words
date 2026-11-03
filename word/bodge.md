@@ -49,4 +49,15 @@ definitions:
       1865)
   - text: To work green wood using traditional country methods; to perform the craft
       of a bodger.
+prev_word: bodes
+next_word: bodgy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

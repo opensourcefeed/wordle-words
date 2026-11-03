@@ -52,4 +52,15 @@ definitions:
   - text: Pornography.
   - text: The drink Irn-Bru.
     example: a bottle of scud
+prev_word: scudo
+next_word: scuff
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

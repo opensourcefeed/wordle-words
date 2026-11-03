@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 72
 neighbours:
 - moloi
+prev_word: molue
+next_word: molys
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

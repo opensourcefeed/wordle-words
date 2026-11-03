@@ -27,4 +27,13 @@ definitions:
 - pos: noun
   defs:
   - text: The open pasture land or grassland of South Africa and neighboring countries.
+prev_word: velds
+next_word: veles
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

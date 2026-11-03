@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: FLA_S
   count: 9
+prev_word: fjord
+next_word: flack
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

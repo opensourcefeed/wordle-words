@@ -49,4 +49,15 @@ definitions:
   - text: Bothered; willing to make an effort.
     example: '2008, Lynn Broadbent, Infinite Ideas Staff, Be Arsed: 365 Brilliant
       Ideas for Getting Off Your Backside and Living Life to the Full.'
+prev_word: arroz
+next_word: arses
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

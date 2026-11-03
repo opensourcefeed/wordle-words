@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A pitot head/pitot tube.
+prev_word: piton
+next_word: pitso
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

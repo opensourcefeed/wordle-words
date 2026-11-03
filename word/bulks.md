@@ -59,4 +59,15 @@ definitions:
   - text: To gain body mass by means of diet, exercise, etc.
   - text: To put or hold in bulk.
   - text: To add bulk to, to bulk out.
+prev_word: bulgy
+next_word: bulky
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: An infantryman; a soldier.
+prev_word: javel
+next_word: jawed
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

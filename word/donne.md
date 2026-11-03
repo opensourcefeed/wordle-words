@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _ONNE
   count: 6
+prev_word: donna
+next_word: donny
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

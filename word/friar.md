@@ -34,4 +34,15 @@ definitions:
       (white friars), Franciscans (grey friars) or the Dominicans (black friars).
   - text: A white or pale patch on a printed page.
   - text: An American fish, the silverside.
+prev_word: frets
+next_word: fribs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

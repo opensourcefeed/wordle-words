@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 53
 anagrams:
 - outta
+prev_word: tatie
+next_word: tatts
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ou/"
+  label: Ending in OU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

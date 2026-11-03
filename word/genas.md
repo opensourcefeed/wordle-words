@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - geans
 - nages
+prev_word: genal
+next_word: genes
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

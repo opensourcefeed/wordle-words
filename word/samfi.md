@@ -23,4 +23,13 @@ stats:
 neighbours:
 - samfu
 - sampi
+prev_word: samey
+next_word: samfu
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

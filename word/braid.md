@@ -52,4 +52,15 @@ definitions:
   - text: To mix, or make uniformly soft, by beating, rubbing, or straining, as in
       preparing food.
   - text: To reproach; to upbraid.
+prev_word: brahs
+next_word: brail
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A New Caledonian endemic bird species, Rhynochetos jubatus, the only surviving
       member of the family Rhynochetidae.
+prev_word: kagos
+next_word: kahal
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

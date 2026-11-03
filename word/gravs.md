@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: GRA_S
   count: 8
+prev_word: grave
+next_word: gravy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/vs/"
+  label: Ending in VS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

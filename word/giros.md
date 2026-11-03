@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: To transfer funds between different account holders, carried out by the
       bank according to payer's written instructions.
+prev_word: giron
+next_word: girrs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

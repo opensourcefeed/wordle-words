@@ -28,4 +28,13 @@ neighbours:
 - chowk
 anagrams:
 - whack
+prev_word: chavs
+next_word: chawl
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

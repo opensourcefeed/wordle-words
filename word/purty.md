@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: Somewhat, fairly, quite; sometimes also (by meiosis) very.
   - text: Prettily, in a pretty manner.
+prev_word: pursy
+next_word: puses
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

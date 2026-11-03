@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A virus that is parasitic on bacteria.
+prev_word: pfftt
+next_word: phang
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

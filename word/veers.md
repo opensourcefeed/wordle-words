@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: A turn or swerve; an instance of veering.
+prev_word: veeps
+next_word: veery
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

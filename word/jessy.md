@@ -23,4 +23,15 @@ stats:
 neighbours:
 - jesse
 - messy
+prev_word: jesse
+next_word: jests
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

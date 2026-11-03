@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _AXES
   count: 10
+prev_word: laxer
+next_word: laxly
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

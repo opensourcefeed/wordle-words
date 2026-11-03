@@ -25,4 +25,15 @@ stats:
 neighbours:
 - glias
 - ilial
+prev_word: gleys
+next_word: glias
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

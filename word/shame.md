@@ -60,4 +60,15 @@ definitions:
       often used reduplicated, especially in political debates.
   - text: Expressing sympathy.
     example: Shame, you poor thing, you must be cold!
+prev_word: shama
+next_word: shams
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - denet
 - teend
+prev_word: dense
+next_word: dents
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

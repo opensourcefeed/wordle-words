@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A shallow saucer-like dish, mounted either on a stem and foot or on a foot
       alone.
+prev_word: tayra
+next_word: tazze
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

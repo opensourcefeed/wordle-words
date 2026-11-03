@@ -26,4 +26,15 @@ neighbours:
 - kabob
 anagrams:
 - babka
+prev_word: kaama
+next_word: kabar
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ab/"
+  label: Ending in AB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

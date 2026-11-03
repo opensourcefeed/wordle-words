@@ -31,4 +31,15 @@ neighbours:
 - strow
 anagrams:
 - crows
+prev_word: scroo
+next_word: scrub
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

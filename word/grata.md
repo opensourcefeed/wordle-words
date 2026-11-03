@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - targa
 - traga
+prev_word: grass
+next_word: grate
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

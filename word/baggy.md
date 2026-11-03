@@ -44,4 +44,15 @@ definitions:
       by Madchester and psychedelia and associated with baggy clothing.
   - text: 'Of writing, etc.: overwrought; flabby; having too much padding.'
     example: a baggy book
+prev_word: bagel
+next_word: baghs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

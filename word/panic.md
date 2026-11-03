@@ -47,4 +47,15 @@ definitions:
   - text: Pertaining to the god Pan.
   - text: 'Of fear, fright etc: sudden or overwhelming (attributed by the ancient
       Greeks to the influence of Pan).'
+prev_word: pangs
+next_word: panim
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

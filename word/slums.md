@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To visit a neighborhood of a status below one's own.
+prev_word: slump
+next_word: slung
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

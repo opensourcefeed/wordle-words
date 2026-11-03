@@ -40,4 +40,15 @@ definitions:
 - pos: verb
   defs:
   - text: To let a property again
+prev_word: relay
+next_word: relic
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

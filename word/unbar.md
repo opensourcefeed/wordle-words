@@ -35,4 +35,15 @@ definitions:
   - text: To remove an impediment that obstructs the passage of (someone or something).
   - text: To remove a prohibition.
   - text: To unlock or unbolt a door that had been locked or bolted with a bar.
+prev_word: unban
+next_word: unbed
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

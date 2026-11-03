@@ -24,4 +24,15 @@ anagrams:
 - aping
 - ngapi
 - pinga
+prev_word: glyph
+next_word: gnarl
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gn/"
+  label: Starting with GN
+- url: "/ending-with/pi/"
+  label: Ending in PI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

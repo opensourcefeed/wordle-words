@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To call (someone) using a telephone.
+prev_word: phoca
+next_word: phono
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

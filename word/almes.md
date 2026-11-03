@@ -36,4 +36,15 @@ anagrams:
 - melas
 - mesal
 - samel
+prev_word: almeh
+next_word: almud
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

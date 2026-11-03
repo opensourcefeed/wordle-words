@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - myops
 - yomps
+prev_word: moppy
+next_word: mopus
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

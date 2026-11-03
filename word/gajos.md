@@ -25,4 +25,15 @@ stats:
 neighbours:
 - gapos
 - majos
+prev_word: gaitt
+next_word: galah
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

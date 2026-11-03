@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A form of theatrical entertainment in which recent events, popular fads,
       etc., are parodied. Any entertainment featuring skits, dances, and songs.
+prev_word: revow
+next_word: rewan
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

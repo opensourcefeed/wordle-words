@@ -57,4 +57,15 @@ definitions:
   - text: To move in a flat ballistic trajectory (as a rifle bullet).
   - text: To dispose of in a raffle.
   - text: To engage in a raffle.
+prev_word: riffy
+next_word: rifte
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

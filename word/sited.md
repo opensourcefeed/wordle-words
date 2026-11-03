@@ -50,4 +50,15 @@ definitions:
 - pos: verb
   defs:
   - text: To situate or place a building.
+prev_word: sitch
+next_word: sites
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

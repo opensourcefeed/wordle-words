@@ -57,4 +57,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Directed towards a target.
+prev_word: aimak
+next_word: aimer
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

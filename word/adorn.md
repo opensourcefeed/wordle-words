@@ -49,4 +49,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Adorned; ornate
+prev_word: adore
+next_word: adown
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

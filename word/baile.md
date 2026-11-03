@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: (usually "baile funk") A specific genre of dance music originating in Rio
       de Janeiro, also known as Funk Carioca
+prev_word: baiks
+next_word: bails
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

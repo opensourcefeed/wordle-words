@@ -60,4 +60,15 @@ definitions:
   - text: A circular brace used to keep the head and neck in position.
   - text: A rollbar placed in front of the driver, used to protect the cockpit of
       a open cockpit racecar.
+prev_word: halon
+next_word: halse
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

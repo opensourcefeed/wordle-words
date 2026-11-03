@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: Any of three genera of large Asian ungulates belonging to the subfamily
       Caprinae (goat-antelopes).
+prev_word: tharm
+next_word: thaws
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

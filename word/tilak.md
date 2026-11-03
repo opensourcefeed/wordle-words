@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A mark or symbol worn on the forehead by Hindus, ornamentally or as an indication
       of status.
+prev_word: tikka
+next_word: tilde
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -26,4 +26,15 @@ stats:
 neighbours:
 - audio
 - addin
+prev_word: addin
+next_word: addle
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/io/"
+  label: Ending in IO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

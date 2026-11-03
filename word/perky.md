@@ -44,4 +44,15 @@ definitions:
     example: She answered with a perky smile and bounced off.
   - text: Standing upright; firm.
     example: The plant looks much perkier since I watered it.
+prev_word: perks
+next_word: perle
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

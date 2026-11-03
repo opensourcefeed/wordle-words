@@ -25,4 +25,15 @@ neighbours:
 - turms
 anagrams:
 - muter
+prev_word: turks
+next_word: turms
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

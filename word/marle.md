@@ -39,4 +39,15 @@ anagrams:
 - realm
 - lamer
 - maerl
+prev_word: marks
+next_word: marls
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

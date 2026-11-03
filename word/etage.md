@@ -25,4 +25,15 @@ stats:
 neighbours:
 - stage
 - etape
+prev_word: estro
+next_word: etape
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/et/"
+  label: Starting with ET
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

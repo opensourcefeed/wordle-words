@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - reefy
 - yfere
+prev_word: feyed
+next_word: feyly
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

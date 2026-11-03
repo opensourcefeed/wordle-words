@@ -26,4 +26,15 @@ neighbours:
 - poral
 anagrams:
 - polka
+prev_word: poise
+next_word: poked
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

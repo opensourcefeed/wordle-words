@@ -50,4 +50,15 @@ definitions:
   - text: A territorial division of ancient Egypt.
   - text: A type of musical composition in Ancient Greece.
   - text: A term in an algebraic expression.
+prev_word: nomen
+next_word: nomic
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

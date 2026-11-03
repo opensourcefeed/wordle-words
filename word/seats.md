@@ -77,4 +77,15 @@ definitions:
     example: to seat a country
   - text: To put a seat or bottom in.
     example: to seat a chair
+prev_word: sease
+next_word: seaze
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

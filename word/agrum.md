@@ -24,4 +24,15 @@ neighbours:
 - aurum
 anagrams:
 - garum
+prev_word: agros
+next_word: agued
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

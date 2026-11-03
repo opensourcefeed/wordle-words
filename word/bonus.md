@@ -49,4 +49,15 @@ definitions:
 - pos: verb
   defs:
   - text: To pay a bonus, premium
+prev_word: bonum
+next_word: bonza
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

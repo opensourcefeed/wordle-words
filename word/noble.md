@@ -54,4 +54,15 @@ definitions:
       masses by birth, station, or title; highborn.
     example: noble blood; a noble personage
   - text: "(of a polyhedron) Both isohedral and isogonal."
+prev_word: nobby
+next_word: nobly
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -48,4 +48,15 @@ definitions:
   - text: To destroy the data on a disk, either by corrupting the filesystem or by
       causing media damage.
     example: '"That last power hit scagged the system disk."'
+prev_word: scaff
+next_word: scail
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

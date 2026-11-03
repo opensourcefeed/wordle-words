@@ -27,4 +27,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make dim; to obscure or darken.
+prev_word: bedew
+next_word: bedye
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -25,4 +25,15 @@ neighbours:
 - miffs
 - muffs
 - teffs
+prev_word: meets
+next_word: meids
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

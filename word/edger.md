@@ -27,4 +27,15 @@ neighbours:
 - egger
 anagrams:
 - greed
+prev_word: edged
+next_word: edges
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ed/"
+  label: Starting with ED
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

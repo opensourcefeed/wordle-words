@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: TOR_S
   count: 7
+prev_word: torot
+next_word: torse
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

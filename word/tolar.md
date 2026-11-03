@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: A state currency formerly used by the Republic of Slovenia between 1991
       and 2006, divided into 100 stotins.
+prev_word: tolan
+next_word: tolas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

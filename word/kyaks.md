@@ -23,4 +23,15 @@ stats:
 neighbours:
 - kyars
 - kyats
+prev_word: kyack
+next_word: kyang
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -44,4 +44,15 @@ definitions:
   - text: A Mexican sage grown for its edible seeds, Salvia hispanica.
   - text: Salvia columbariae, a sage with similar seeds, native to the southwestern
       US and northwestern Mexico.
+prev_word: chiao
+next_word: chiba
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

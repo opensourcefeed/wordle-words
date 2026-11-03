@@ -34,4 +34,15 @@ anagrams:
 - files
 - flies
 - lifes
+prev_word: lidos
+next_word: liege
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

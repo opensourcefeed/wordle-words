@@ -27,4 +27,15 @@ neighbours:
 - point
 anagrams:
 - niton
+prev_word: noily
+next_word: noire
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

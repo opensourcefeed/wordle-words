@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: "(law enforcement) Perpetrator."
     example: '"We have the perp in custody," the policeman said.'
+prev_word: perog
+next_word: perry
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

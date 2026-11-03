@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: A strong dark beer brewed in the fall and aged through the winter for spring
       consumption.
+prev_word: boche
+next_word: boded
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

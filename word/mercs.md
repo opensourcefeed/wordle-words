@@ -42,4 +42,15 @@ definitions:
   - text: A mercenary.
     example: Riddick, on the run from the law and evading mercs eager to claim the
       price on his head...
+prev_word: merch
+next_word: mercy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

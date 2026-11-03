@@ -29,4 +29,15 @@ anagrams:
 - hades
 - heads
 - sadhe
+prev_word: deary
+next_word: death
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

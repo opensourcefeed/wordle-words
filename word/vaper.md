@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _APER
   count: 7
+prev_word: vaped
+next_word: vapes
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

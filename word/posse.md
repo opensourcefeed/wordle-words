@@ -47,4 +47,15 @@ definitions:
   - text: A criminal gang.
   - text: A group of (especially young) people seen as constituting a peer group or
       band of associates; a gang, a group of friends.
+prev_word: posol
+next_word: poste
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

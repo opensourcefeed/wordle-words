@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A tree-lined avenue, often particularly one that is part of a landscaped
       garden.
+prev_word: allay
+next_word: allel
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

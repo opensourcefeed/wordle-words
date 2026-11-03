@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _AUTS
   count: 6
+prev_word: taupe
+next_word: tauty
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

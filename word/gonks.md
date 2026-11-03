@@ -51,4 +51,15 @@ definitions:
     example: He gonked out on the bed.
   - text: To lie; to tell an untruth
     example: You're gonking me!
+prev_word: gonif
+next_word: gonna
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

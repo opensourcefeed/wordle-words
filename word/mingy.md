@@ -40,4 +40,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Mean, miserly, stingy.
+prev_word: mings
+next_word: minim
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

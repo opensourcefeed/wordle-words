@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 84
 neighbours:
 - umped
+prev_word: ummas
+next_word: umped
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/um/"
+  label: Starting with UM
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -26,4 +26,15 @@ neighbours:
 - noema
 anagrams:
 - amove
+prev_word: vodun
+next_word: vogie
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

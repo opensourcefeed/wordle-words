@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: 'To set with bright points: star or spangle.'
   - text: To hitch; fasten.
+prev_word: spane
+next_word: spank
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

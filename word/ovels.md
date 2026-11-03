@@ -32,4 +32,15 @@ anagrams:
 - loves
 - slove
 - voles
+prev_word: ovate
+next_word: ovens
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ov/"
+  label: Starting with OV
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Consisting of or resembling a wisp; like a slender, flexible strand or bundle.
     example: The wispy smoke rose from chimneys all around town.
+prev_word: wisps
+next_word: wists
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

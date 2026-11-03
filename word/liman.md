@@ -27,4 +27,15 @@ neighbours:
 - limas
 - limax
 - limen
+prev_word: lilty
+next_word: limas
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

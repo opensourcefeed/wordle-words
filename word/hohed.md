@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: HO_ED
   count: 12
+prev_word: hogos
+next_word: hoick
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -26,4 +26,15 @@ neighbours:
 - hopak
 anagrams:
 - pooka
+prev_word: oonts
+next_word: ooped
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oo/"
+  label: Starting with OO
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

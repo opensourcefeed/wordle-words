@@ -48,4 +48,15 @@ definitions:
   - text: A coward; a weakling; an ineffectual, timid, or pathetic person.
     example: You're such a pussy!
   - text: A game of tip-cat.
+prev_word: pusle
+next_word: putas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

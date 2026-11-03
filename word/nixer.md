@@ -38,4 +38,15 @@ definitions:
   - text: A job or income which is taken in addition to one's normal employment, generally
       at evenings or weekends. Originally implied that payment was not declared for
       taxation, but now refers to any work that is not part of one's regular job.
+prev_word: nixed
+next_word: nixes
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -33,4 +33,13 @@ definitions:
 - pos: noun
   defs:
   - text: Any moth of the family Lasiocampidae.
+prev_word: egest
+next_word: egged
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

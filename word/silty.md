@@ -31,4 +31,15 @@ neighbours:
 - silts
 anagrams:
 - styli
+prev_word: silts
+next_word: silva
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

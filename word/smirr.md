@@ -27,4 +27,15 @@ neighbours:
 - smirs
 anagrams:
 - mirrs
+prev_word: smirk
+next_word: smirs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/rr/"
+  label: Ending in RR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - drool
 - dolor
+prev_word: loopy
+next_word: loose
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

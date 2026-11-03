@@ -68,4 +68,15 @@ definitions:
   - text: Overused, cliché.
     example: a tired song
   - text: Ineffectual; incompetent
+prev_word: tipup
+next_word: tires
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

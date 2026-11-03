@@ -25,4 +25,15 @@ neighbours:
 - ragis
 - yages
 - yogis
+prev_word: yages
+next_word: yagna
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -59,4 +59,15 @@ definitions:
   - text: To coat with slime.
   - text: To besmirch or disparage.
   - text: To carve (fish), removing the offal.
+prev_word: slily
+next_word: slims
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -27,4 +27,15 @@ neighbours:
 - namma
 anagrams:
 - mamba
+prev_word: bambi
+next_word: bammy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -56,4 +56,15 @@ definitions:
   defs:
   - text: To come closer to; to approach.
     example: The ship nears the land.
+prev_word: neaps
+next_word: neath
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

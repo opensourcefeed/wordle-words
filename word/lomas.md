@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _OMAS
   count: 8
+prev_word: lolos
+next_word: lomed
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

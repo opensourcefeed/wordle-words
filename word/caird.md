@@ -30,4 +30,15 @@ anagrams:
 - acrid
 - cardi
 - daric
+prev_word: cains
+next_word: cairn
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

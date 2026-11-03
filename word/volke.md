@@ -26,4 +26,15 @@ neighbours:
 - volks
 - volte
 - volve
+prev_word: volet
+next_word: volks
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

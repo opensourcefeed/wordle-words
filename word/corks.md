@@ -70,4 +70,15 @@ definitions:
 - pos: verb
   defs:
   - text: To perform such a maneuver.
+prev_word: coria
+next_word: corky
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

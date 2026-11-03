@@ -25,4 +25,15 @@ neighbours:
 - zaman
 anagrams:
 - mazac
+prev_word: zakat
+next_word: zamak
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/ac/"
+  label: Ending in AC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

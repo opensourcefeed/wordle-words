@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _AIRS
   count: 9
+prev_word: wains
+next_word: waist
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

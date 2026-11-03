@@ -40,4 +40,15 @@ definitions:
   - text: To say softly or gently
   - text: To soothe by singing softly.
   - text: To make a continuous hollow moan, as cattle do when in pain.
+prev_word: crool
+next_word: crops
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

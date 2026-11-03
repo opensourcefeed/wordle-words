@@ -44,4 +44,15 @@ definitions:
   - text: An edible leafy vegetable, Beta vulgaris subsp. cicla, with a slightly bitter
       taste.
   - text: Artichoke leaves and shoots, blanched to eat.
+prev_word: chara
+next_word: chare
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A tapestry or wall hanging.
+prev_word: arrah
+next_word: array
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

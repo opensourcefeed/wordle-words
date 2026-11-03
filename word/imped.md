@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A creature without feet
+prev_word: immix
+next_word: impel
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

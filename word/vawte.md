@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 35
 neighbours:
 - vaute
+prev_word: vauts
+next_word: vaxes
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -48,4 +48,15 @@ definitions:
   - text: To decide to act in a certain way.
     example: I chose to walk to work today.
   - text: To wish; to desire; to prefer.
+prev_word: chore
+next_word: choss
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

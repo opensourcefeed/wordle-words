@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: SHI_S
   count: 7
+prev_word: shirr
+next_word: shirt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

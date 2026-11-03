@@ -47,4 +47,15 @@ definitions:
   - text: Wearing a cape or capes.
   - text: "(in compounds) Wearing a cape of a specified kind."
   - text: Cancelled
+prev_word: capax
+next_word: caper
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

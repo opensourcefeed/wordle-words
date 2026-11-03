@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 67
 neighbours:
 - nyuse
+prev_word: nyuse
+next_word: oafos
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ny/"
+  label: Starting with NY
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

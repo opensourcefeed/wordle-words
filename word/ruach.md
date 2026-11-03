@@ -25,4 +25,15 @@ neighbours:
 - roach
 - luach
 - runch
+prev_word: rozit
+next_word: ruana
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

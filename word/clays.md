@@ -64,4 +64,15 @@ definitions:
   - text: "(of sugar) To purify using clay."
     example: 1809, Jonathan Williams, On the Process of Claying Sugar, in Transactions
       of the American Philosophical Society, Volume 6.
+prev_word: claws
+next_word: clean
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

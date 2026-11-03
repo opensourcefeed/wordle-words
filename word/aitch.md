@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: The name of the Latin-script letter H.
+prev_word: aisle
+next_word: aitus
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -24,4 +24,15 @@ neighbours:
 - ached
 - acher
 - aches
+prev_word: aches
+next_word: achoo
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

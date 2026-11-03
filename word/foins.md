@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - finos
 - infos
+prev_word: foils
+next_word: foist
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

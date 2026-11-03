@@ -26,4 +26,15 @@ neighbours:
 - lithe
 - leche
 - lythe
+prev_word: letch
+next_word: letty
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

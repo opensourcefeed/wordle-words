@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 98
 neighbours:
 - immix
+prev_word: immew
+next_word: immix
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

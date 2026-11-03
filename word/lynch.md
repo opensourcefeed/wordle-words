@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: To execute (somebody) without a proper legal trial or procedure, especially
       by hanging and backed by a mob.
+prev_word: lymph
+next_word: lynes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

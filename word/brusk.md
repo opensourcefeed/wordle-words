@@ -25,4 +25,15 @@ neighbours:
 - brust
 anagrams:
 - burks
+prev_word: brush
+next_word: brust
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/sk/"
+  label: Ending in SK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

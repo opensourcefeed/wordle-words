@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - loose
 - soole
+prev_word: olent
+next_word: oleum
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

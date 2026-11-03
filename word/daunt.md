@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: To discourage, intimidate.
   - text: To overwhelm.
+prev_word: dault
+next_word: daurs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _REED
   count: 7
+prev_word: predy
+next_word: preem
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -24,4 +24,13 @@ stats:
   starter_top_percent: 75
 neighbours:
 - ollas
+prev_word: ollas
+next_word: oller
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/v/"
+  label: Ending in V
 ---

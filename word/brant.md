@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Any of several wild geese, of the genus Branta, that breed in the Arctic,
       but especially the brent goose, Branta bernicla.
+prev_word: brans
+next_word: brash
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

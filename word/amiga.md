@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - agami
 - aimag
+prev_word: amies
+next_word: amigo
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

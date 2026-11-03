@@ -49,4 +49,15 @@ definitions:
   - text: To load into a wagon in preparation for transportation; to transport by
       means of a wagon.
   - text: To travel in a wagon.
+prev_word: wagga
+next_word: wagyu
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

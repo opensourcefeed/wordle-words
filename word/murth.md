@@ -27,4 +27,15 @@ neighbours:
 - musth
 anagrams:
 - thrum
+prev_word: murry
+next_word: murti
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

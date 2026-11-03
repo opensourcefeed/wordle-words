@@ -30,4 +30,15 @@ definitions:
   - text: Swollen, enlarged, bulging
   - text: Cancerous, unhealthy
   - text: Pompous, bombastic
+prev_word: tulsi
+next_word: tummy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

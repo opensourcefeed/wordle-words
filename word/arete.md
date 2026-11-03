@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: "(Classical philosophy) Virtue, excellence."
   - text: "(Classical philosophy) The proper state or condition for a human."
+prev_word: arere
+next_word: arets
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

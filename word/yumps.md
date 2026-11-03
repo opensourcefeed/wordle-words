@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _UMPS
   count: 13
+prev_word: yummy
+next_word: yupon
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

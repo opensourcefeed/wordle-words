@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _ITHE
   count: 7
+prev_word: rites
+next_word: ritts
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

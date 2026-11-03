@@ -63,4 +63,15 @@ definitions:
     example: Laura was pining for Bill all the time he was gone.
   - text: To grieve or mourn for.
   - text: To inflict pain upon; to torment.
+prev_word: piner
+next_word: piney
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

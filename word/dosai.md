@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - adios
 - aidos
+prev_word: dorty
+next_word: dosas
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

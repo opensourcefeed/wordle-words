@@ -102,4 +102,15 @@ definitions:
   - text: To dig (something) using a spade; also, to turn (the soil) using a plough.
   - text: To plant (something) using a spade.
   - text: To dig, to spade.
+prev_word: spite
+next_word: spitz
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

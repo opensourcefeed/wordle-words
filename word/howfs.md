@@ -29,4 +29,15 @@ neighbours:
 - howks
 - howls
 - sowfs
+prev_word: howff
+next_word: howks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

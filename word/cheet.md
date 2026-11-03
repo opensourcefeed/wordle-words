@@ -29,4 +29,15 @@ neighbours:
 - cheeb
 - cheep
 - chert
+prev_word: cheer
+next_word: chefs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

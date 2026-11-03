@@ -23,4 +23,15 @@ stats:
   rare: []
   starter_tier: Good
   starter_top_percent: 3
+prev_word: acock
+next_word: acold
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

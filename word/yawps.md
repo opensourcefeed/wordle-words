@@ -40,4 +40,15 @@ definitions:
   - text: To yelp, or utter a sharp cry, as in intense pain, or another raucous noise
   - text: To talk loudly and coarsely
   - text: Clamor, utter loud complaints
+prev_word: yawny
+next_word: yayas
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

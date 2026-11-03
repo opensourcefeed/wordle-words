@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: RO_ED
   count: 8
+prev_word: rocky
+next_word: rodeo
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

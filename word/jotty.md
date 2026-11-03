@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _OTTY
   count: 8
+prev_word: jotas
+next_word: jotun
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

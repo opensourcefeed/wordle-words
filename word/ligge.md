@@ -26,4 +26,15 @@ neighbours:
 - liege
 - legge
 - ligne
+prev_word: liger
+next_word: light
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -45,4 +45,15 @@ definitions:
       into my eager nostrils.
   - text: To be moved, or to pass, on a buoyant medium; to float.
   - text: To give notice to by waving something; to wave the hand to; to beckon.
+prev_word: waffs
+next_word: waged
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

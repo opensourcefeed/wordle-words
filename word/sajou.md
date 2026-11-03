@@ -22,4 +22,15 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 55
+prev_word: saith
+next_word: sakai
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ou/"
+  label: Ending in OU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

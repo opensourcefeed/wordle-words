@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A cajun-seasoned, cured pork.
+prev_word: tasse
+next_word: taste
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

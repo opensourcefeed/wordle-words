@@ -32,4 +32,15 @@ neighbours:
 - mulla
 anagrams:
 - molal
+prev_word: molie
+next_word: molle
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

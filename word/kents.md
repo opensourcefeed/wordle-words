@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ENTS
   count: 14
+prev_word: kente
+next_word: kepis
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

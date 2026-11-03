@@ -31,4 +31,15 @@ definitions:
 - pos: interjection
   defs:
   - text: By God
+prev_word: begin
+next_word: begot
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ob/"
+  label: Ending in OB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

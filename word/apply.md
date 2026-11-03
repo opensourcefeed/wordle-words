@@ -52,4 +52,15 @@ definitions:
     example: That rule only applies to foreigners.
   - text: To busy; to keep at work; to ply.
   - text: To visit.
+prev_word: apple
+next_word: appro
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

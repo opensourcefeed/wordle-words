@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _REES
   count: 7
+prev_word: breer
+next_word: breid
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

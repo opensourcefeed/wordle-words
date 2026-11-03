@@ -64,4 +64,15 @@ definitions:
   defs:
   - text: A silk thread formed of two or more threads twisted together, used especially
       for the weft, or cross threads, of the best quality of velvets and silk goods.
+prev_word: tramp
+next_word: trank
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

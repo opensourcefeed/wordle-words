@@ -55,4 +55,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cause injury to another; to hurt; to cause damage to something.
+prev_word: harls
+next_word: harns
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

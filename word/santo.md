@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _ANTO
   count: 6
+prev_word: sansa
+next_word: sants
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

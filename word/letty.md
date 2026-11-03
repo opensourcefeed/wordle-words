@@ -27,4 +27,15 @@ neighbours:
 - petty
 - betty
 - netty
+prev_word: lethe
+next_word: letup
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

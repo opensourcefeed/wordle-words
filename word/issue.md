@@ -59,4 +59,13 @@ definitions:
     example: The prison issued new uniforms for the inmates.
   - text: To deliver by authority.
     example: The court issued a writ of mandamus.
+prev_word: issei
+next_word: istle
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

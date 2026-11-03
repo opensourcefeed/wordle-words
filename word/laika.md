@@ -27,4 +27,15 @@ neighbours:
 - kaika
 - lacka
 - laiks
+prev_word: laigh
+next_word: laiks
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

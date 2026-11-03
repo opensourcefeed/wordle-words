@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: One who hikes, especially frequently.
+prev_word: hiked
+next_word: hikes
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

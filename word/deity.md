@@ -39,4 +39,15 @@ definitions:
   - text: A celestial being inferior to a supreme God but superior to man.
   - text: The study of religion or religions.
   - text: A type of confectionery made with egg whites, corn syrup, and white sugar.
+prev_word: deist
+next_word: deked
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

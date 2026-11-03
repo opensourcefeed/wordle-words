@@ -27,4 +27,15 @@ neighbours:
 - jaggy
 - maggs
 - raggs
+prev_word: jager
+next_word: jaggy
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

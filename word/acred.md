@@ -37,4 +37,15 @@ anagrams:
 - cared
 - ecard
 - raced
+prev_word: acral
+next_word: acres
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

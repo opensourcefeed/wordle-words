@@ -36,4 +36,15 @@ definitions:
       the genre.
   - text: "(usually with a directional preposition) To walk in an easygoing, carefree
       manner."
+prev_word: beaux
+next_word: becap
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

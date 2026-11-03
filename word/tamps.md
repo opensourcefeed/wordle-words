@@ -47,4 +47,15 @@ definitions:
   - text: To drive in or pack down by frequent gentle strokes
     example: Tamp earth so as to make a smooth place.
   - text: To reduce the intensity of.
+prev_word: tammy
+next_word: tanas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -23,4 +23,15 @@ stats:
 anagrams:
 - chide
 - iched
+prev_word: check
+next_word: cheeb
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/di/"
+  label: Ending in DI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -26,4 +26,15 @@ stats:
 neighbours:
 - adobe
 - adore
+prev_word: adown
+next_word: adrad
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

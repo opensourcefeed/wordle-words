@@ -40,4 +40,15 @@ definitions:
       new to a game, concept, or idea; implying a lack of experience. Also, in some
       areas the word noob can mean someone is obsessed with things."
     example: Noobs are annoying, they never know the forum rules.
+prev_word: nonyl
+next_word: noois
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

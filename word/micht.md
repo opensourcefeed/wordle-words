@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: _ICHT
   count: 6
+prev_word: michi
+next_word: micks
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

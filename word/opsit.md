@@ -29,4 +29,15 @@ anagrams:
 - posit
 - pitso
 - topis
+prev_word: opsin
+next_word: opted
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/op/"
+  label: Starting with OP
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

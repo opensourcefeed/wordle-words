@@ -31,4 +31,15 @@ neighbours:
 - topos
 anagrams:
 - phots
+prev_word: tophi
+next_word: topic
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

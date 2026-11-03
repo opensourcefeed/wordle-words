@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: The vomer bone; the small thin bone that forms part of the septum between
       the nostrils.
+prev_word: volve
+next_word: vomit
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

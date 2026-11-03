@@ -25,4 +25,15 @@ neighbours:
 - kempt
 - nempt
 - tempt
+prev_word: demot
+next_word: demur
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -23,4 +23,15 @@ stats:
 neighbours:
 - bluff
 - flaff
+prev_word: blaes
+next_word: blags
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

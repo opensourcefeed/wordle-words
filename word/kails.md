@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _AILS
   count: 13
+prev_word: kaiks
+next_word: kaims
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

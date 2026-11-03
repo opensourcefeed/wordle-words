@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: Sickly; peaked.
   - text: Characterised by peaks.
+prev_word: peaks
+next_word: peals
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

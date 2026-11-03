@@ -32,4 +32,15 @@ definitions:
     example: This car is very spacy.
   - text: Of, related to or connected with the extraterrestrial
     example: His latest CD sounds very spacy.
+prev_word: spack
+next_word: spade
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A blind pouch connected to the large intestine between the ileum and the
       colon.
+prev_word: cadre
+next_word: caese
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

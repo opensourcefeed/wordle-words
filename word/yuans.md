@@ -27,4 +27,15 @@ neighbours:
 - yeans
 anagrams:
 - unsay
+prev_word: ytost
+next_word: yucas
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

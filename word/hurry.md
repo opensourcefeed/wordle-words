@@ -61,4 +61,15 @@ definitions:
   - text: To impel to precipitate or thoughtless action; to urge to confused or irregular
       activity.
   - text: 'To put: to convey coal in the mine, e.g. from the working to the tramway.'
+prev_word: hurra
+next_word: hurst
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

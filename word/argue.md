@@ -45,4 +45,15 @@ definitions:
     example: He argued his point.
   - text: To prove.
   - text: To accuse.
+prev_word: argot
+next_word: argus
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

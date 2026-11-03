@@ -175,4 +175,15 @@ definitions:
   - text: "(obsolete outside dialectal and slang) To give or deliver (a blow, to someone);
       to strike or hit."
     example: He took me a blow on the head.
+prev_word: taker
+next_word: takhi
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

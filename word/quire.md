@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To prepare quires by stitching together leaves of paper.
+prev_word: quipu
+next_word: quirk
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

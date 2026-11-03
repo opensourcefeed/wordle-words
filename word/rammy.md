@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: 'Of a food, taste, odour etc.: like a ram; pungent, rank.'
   - text: Frisky, lecherous.
+prev_word: ramis
+next_word: ramon
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

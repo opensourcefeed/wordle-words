@@ -25,4 +25,15 @@ neighbours:
 - korus
 anagrams:
 - ronuk
+prev_word: koros
+next_word: korus
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

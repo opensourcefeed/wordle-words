@@ -27,4 +27,15 @@ neighbours:
 - shays
 anagrams:
 - ayahs
+prev_word: shaws
+next_word: shays
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ya/"
+  label: Ending in YA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

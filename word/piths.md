@@ -36,4 +36,15 @@ definitions:
   - text: To extract the pith from (a plant stem or tree).
   - text: To kill (especially cattle or laboratory animals) by cutting or piercing
       the spinal cord.
+prev_word: pitch
+next_word: pithy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

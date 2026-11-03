@@ -24,4 +24,15 @@ stats:
 neighbours:
 - capot
 - magot
+prev_word: cagey
+next_word: cahow
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

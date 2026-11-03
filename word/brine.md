@@ -53,4 +53,15 @@ definitions:
   - text: To preserve food in a salt solution.
   - text: To prepare and flavor food (especially meat) for cooking by soaking in a
       salt solution.
+prev_word: brims
+next_word: bring
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

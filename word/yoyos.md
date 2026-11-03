@@ -40,4 +40,15 @@ definitions:
   - text: A foolish, annoying or incompetent person.
     example: It is hard to watch the management for very long and not conclude that
       the place is run by a bunch of yo-yos.
+prev_word: yowza
+next_word: yrapt
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

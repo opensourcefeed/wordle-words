@@ -40,4 +40,15 @@ definitions:
     example: A bleak and bare rock.
   - text: Unhappy; cheerless; miserable; emotionally desolate.
     example: A bleak future is in store for you.
+prev_word: bleah
+next_word: blear
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

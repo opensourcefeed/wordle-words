@@ -31,4 +31,15 @@ definitions:
 - pos: verb
   defs:
   - text: To strike something with a whump.
+prev_word: whows
+next_word: whups
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

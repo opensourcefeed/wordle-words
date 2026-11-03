@@ -27,4 +27,15 @@ neighbours:
 - gutta
 - lotta
 - rotta
+prev_word: gothy
+next_word: gouch
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

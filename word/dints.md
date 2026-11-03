@@ -46,4 +46,15 @@ definitions:
   - text: Force, power; especially in by dint of.
   - text: The mark left by a blow; an indentation or impression made by violence;
       a dent.
+prev_word: dinos
+next_word: dioch
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

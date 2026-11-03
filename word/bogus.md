@@ -39,4 +39,15 @@ definitions:
       is an illegitimate copy of a genuine stamp).
   - text: Based on false or misleading information or unjustified assumptions.
     example: bogus laws
+prev_word: bogue
+next_word: bohea
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

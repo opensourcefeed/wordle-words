@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: BA_KS
   count: 8
+prev_word: bauds
+next_word: baulk
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

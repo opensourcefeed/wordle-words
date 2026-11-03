@@ -28,4 +28,15 @@ definitions:
 - pos: verb
   defs:
   - text: To play on a musical synthesizer.
+prev_word: synod
+next_word: syped
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

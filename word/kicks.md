@@ -121,4 +121,15 @@ definitions:
   - text: A region of data at the beginning of a compact disc, holding the table of
       contents.
   - text: A short phrase that begins the caption of a photograph.
+prev_word: kibla
+next_word: kicky
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

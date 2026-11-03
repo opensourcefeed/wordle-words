@@ -51,4 +51,15 @@ definitions:
   - text: To seize.
   - text: To distort, to pervert, to twist.
   - text: To tune with a wrest, or key.
+prev_word: wrens
+next_word: wrick
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

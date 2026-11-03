@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: 'Certain members of the fish family Cyprinidae, including:'
+prev_word: rizas
+next_word: roads
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

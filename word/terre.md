@@ -32,4 +32,15 @@ neighbours:
 - terne
 - terry
 - verre
+prev_word: terra
+next_word: terry
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

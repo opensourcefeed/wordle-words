@@ -48,4 +48,15 @@ definitions:
 - pos: noun
   defs:
   - text: A critical hit.
+prev_word: crith
+next_word: croak
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

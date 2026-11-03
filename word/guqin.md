@@ -20,4 +20,15 @@ stats:
   - Q
   starter_tier: Weak
   starter_top_percent: 91
+prev_word: guppy
+next_word: gurdy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

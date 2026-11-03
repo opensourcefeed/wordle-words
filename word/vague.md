@@ -52,4 +52,15 @@ definitions:
   - text: Lacking expression; vacant.
   - text: Not sharply outlined; hazy.
   - text: Wandering; vagrant; vagabond.
+prev_word: vagal
+next_word: vagus
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

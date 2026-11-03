@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A cavity, in the form of a bag or tube, lined with choanocytes, that forms
       the structure of sponges
+prev_word: asana
+next_word: ascot
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -47,4 +47,15 @@ definitions:
     example: a child's jammy fingers
   - text: "(of a person) Lucky, especially undeservedly so."
     example: jammy bastard  jammy sod
+prev_word: james
+next_word: jamon
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -26,4 +26,15 @@ neighbours:
 - jimpy
 anagrams:
 - pigmy
+prev_word: gimps
+next_word: ginch
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

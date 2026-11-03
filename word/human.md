@@ -39,4 +39,15 @@ definitions:
   - text: "(notcomp) Of or belonging to the species Homo sapiens or its closest relatives."
   - text: Having the nature or attributes of a human being.
     example: To err is human; to forgive, divine.
+prev_word: hully
+next_word: humas
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

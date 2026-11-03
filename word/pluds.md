@@ -26,4 +26,15 @@ neighbours:
 - plugs
 - plums
 - plups
+prev_word: pluck
+next_word: plues
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

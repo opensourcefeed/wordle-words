@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of flatfish, Scophthalmus rhombus.
+prev_word: briks
+next_word: brims
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

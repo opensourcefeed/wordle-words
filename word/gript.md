@@ -29,4 +29,15 @@ neighbours:
 - gripy
 - grist
 - grypt
+prev_word: grips
+next_word: gripy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

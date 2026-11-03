@@ -57,4 +57,15 @@ definitions:
   - text: To draw (one's finger) rapidly across a touch screen.
   - text: To steal or snatch.
     example: Hey! Who swiped my lunch?
+prev_word: swink
+next_word: swire
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

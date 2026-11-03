@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: Still-usable things salvaged (by sanmen) from garbage.
+prev_word: money
+next_word: monic
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

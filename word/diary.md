@@ -44,4 +44,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Lasting for one day.
+prev_word: diane
+next_word: diazo
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

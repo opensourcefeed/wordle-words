@@ -25,4 +25,15 @@ neighbours:
 - gobbe
 - gobbo
 - gobby
+prev_word: gobbe
+next_word: gobbo
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/bi/"
+  label: Ending in BI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -33,4 +33,15 @@ definitions:
     example: He turned to alcohol to numb his pain.
   - text: To cause (the mind, faculties, etc.) to be less acute.
   - text: To become numb (especially physically).
+prev_word: nully
+next_word: numen
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

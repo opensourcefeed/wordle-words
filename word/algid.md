@@ -25,4 +25,15 @@ neighbours:
 - albid
 - alcid
 - algin
+prev_word: algas
+next_word: algin
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

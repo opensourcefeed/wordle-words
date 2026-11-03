@@ -36,4 +36,15 @@ definitions:
   - text: To steal, to grab.
   - text: To stare.
   - text: To attach.
+prev_word: glogg
+next_word: gloom
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

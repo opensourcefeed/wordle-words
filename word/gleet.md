@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: To flow in a thin, limpid humour; to ooze, as gleet.
   - text: To flow slowly, as water.
+prev_word: glees
+next_word: gleis
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

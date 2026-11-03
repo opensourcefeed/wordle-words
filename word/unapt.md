@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: Not apt, inappropriate, unsuited.
   - text: Unaccustomed.
+prev_word: unais
+next_word: unarm
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

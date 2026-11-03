@@ -31,4 +31,15 @@ anagrams:
 - adept
 - pated
 - taped
+prev_word: apsos
+next_word: apter
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

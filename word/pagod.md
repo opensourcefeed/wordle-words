@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 61
 neighbours:
 - paged
+prev_word: pagne
+next_word: pagri
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/od/"
+  label: Ending in OD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

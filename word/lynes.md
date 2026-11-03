@@ -33,4 +33,15 @@ neighbours:
 - pynes
 - synes
 - tynes
+prev_word: lynch
+next_word: lyres
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

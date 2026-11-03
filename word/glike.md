@@ -29,4 +29,15 @@ neighbours:
 - ylike
 anagrams:
 - klieg
+prev_word: glift
+next_word: glime
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

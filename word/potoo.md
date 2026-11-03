@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: "(birds) Any species of the genus Nyctibius related to the nightjars (same
       order Caprimulgiformes), and found from southern Mexico to southern Brazil."
+prev_word: potin
+next_word: potro
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

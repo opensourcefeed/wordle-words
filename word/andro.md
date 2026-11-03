@@ -34,4 +34,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Androgynous.
+prev_word: andic
+next_word: anear
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

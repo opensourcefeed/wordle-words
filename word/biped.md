@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: An animal, being or construction that goes about on two feet (or two legs).
+prev_word: biota
+next_word: bipod
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

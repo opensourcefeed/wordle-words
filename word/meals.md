@@ -64,4 +64,15 @@ definitions:
   defs:
   - text: A speck or spot.
   - text: A part; a fragment; a portion.
+prev_word: meaks
+next_word: mealy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

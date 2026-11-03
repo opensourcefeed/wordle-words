@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - blues
 - lubes
+prev_word: bully
+next_word: bumbo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

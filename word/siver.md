@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _IVER
   count: 11
+prev_word: situs
+next_word: sixer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

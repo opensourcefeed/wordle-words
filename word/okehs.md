@@ -25,4 +25,13 @@ neighbours:
 - olehs
 anagrams:
 - hokes
+prev_word: okays
+next_word: okies
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

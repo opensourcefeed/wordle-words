@@ -23,4 +23,13 @@ stats:
 neighbours:
 - proud
 - prods
+prev_word: proby
+next_word: prods
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

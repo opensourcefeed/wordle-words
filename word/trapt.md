@@ -33,4 +33,15 @@ neighbours:
 - yrapt
 anagrams:
 - pratt
+prev_word: traps
+next_word: trash
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

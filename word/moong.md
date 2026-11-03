@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A type of small bean.
   - text: The mung bean, cultivated for its sprouts, Vigna radiata or Phaseolus aureus.
+prev_word: mooly
+next_word: mooni
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

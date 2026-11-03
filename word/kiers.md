@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: A bleaching vat.
+prev_word: kiefs
+next_word: kieve
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

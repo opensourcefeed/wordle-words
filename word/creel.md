@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To place (fish) in a creel.
+prev_word: creek
+next_word: creep
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

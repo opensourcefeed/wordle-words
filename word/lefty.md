@@ -47,4 +47,15 @@ definitions:
   - text: Intended for left-handed use.
     example: The lefty scissors are the ones with the red plastic handles.
   - text: Left-wing.
+prev_word: lefts
+next_word: legal
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

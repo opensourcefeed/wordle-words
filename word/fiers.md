@@ -45,4 +45,15 @@ anagrams:
 trap:
   pattern: _IERS
   count: 7
+prev_word: fieri
+next_word: fiery
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

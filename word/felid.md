@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any member of the cat family (Felidae).
+prev_word: feist
+next_word: felix
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

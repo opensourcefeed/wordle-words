@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: QUA_S
   count: 8
+prev_word: quawk
+next_word: quayd
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

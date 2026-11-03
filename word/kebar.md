@@ -31,4 +31,15 @@ anagrams:
 - baker
 - brake
 - break
+prev_word: kebab
+next_word: kebob
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

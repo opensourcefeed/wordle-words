@@ -106,4 +106,15 @@ definitions:
   - text: To be disproportionately responsible for a team's success.
     example: He absolutely carried the game, to the point of killing the entire enemy
       team by himself.
+prev_word: carrs
+next_word: carse
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

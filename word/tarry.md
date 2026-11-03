@@ -48,4 +48,15 @@ definitions:
   - text: To abide, stay or wait somewhere, especially if longer than planned.
   - text: To stay somewhere temporarily.
   - text: To wait for; to stay or stop for; to allow to linger.
+prev_word: tarre
+next_word: tarse
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

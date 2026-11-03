@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: BUND_
   count: 6
+prev_word: bundu
+next_word: bungs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

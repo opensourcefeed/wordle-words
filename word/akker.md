@@ -26,4 +26,15 @@ neighbours:
 - acker
 - anker
 - asker
+prev_word: akkas
+next_word: akoia
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ak/"
+  label: Starting with AK
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

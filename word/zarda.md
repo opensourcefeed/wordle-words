@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: The flavoured tobacco used in paan.
   - text: A sweet South Asian dish of boiled rice with milk, sugar and spices.
+prev_word: zappy
+next_word: zarfs
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

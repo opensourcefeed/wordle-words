@@ -68,4 +68,15 @@ definitions:
   - text: To form together into a team.
     example: to team oxen
   - text: To give work to a gang under a subcontractor.
+prev_word: teals
+next_word: tears
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

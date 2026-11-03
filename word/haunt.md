@@ -61,4 +61,15 @@ definitions:
   - text: To accustom; habituate; make accustomed to.
   - text: To practise; to devote oneself to.
   - text: To persist in staying or visiting.
+prev_word: hauns
+next_word: hause
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

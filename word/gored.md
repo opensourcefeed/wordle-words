@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: Having a gore or gores.
     example: a four-gored skirt
+prev_word: gordo
+next_word: gores
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

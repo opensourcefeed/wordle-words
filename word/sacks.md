@@ -106,4 +106,15 @@ definitions:
   defs:
   - text: A variety of light-colored dry wine from Spain or the Canary Islands; also,
       any strong white wine from southern Europe; sherry.
+prev_word: sabzi
+next_word: sacra
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

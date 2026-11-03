@@ -56,4 +56,15 @@ definitions:
       pulled the trigger.
   - text: To touch a delivery with one's glove while the gloved hand is on the bat.
       Under the rules of cricket, the batsman is deemed to have hit the ball.
+prev_word: glout
+next_word: glows
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

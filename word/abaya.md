@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: The electric fish Gymnarchus niloticus (frankfish, freshwater rat-tail,
       African knifefish), found in swamps, lakes and rivers in Africa.
+prev_word: abate
+next_word: abbas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ya/"
+  label: Ending in YA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

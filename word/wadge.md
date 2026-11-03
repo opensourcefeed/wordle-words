@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _ADGE
   count: 8
+prev_word: wades
+next_word: wadis
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

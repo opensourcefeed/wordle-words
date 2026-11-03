@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Nipa; a palm tree of the species Nypa fruticans.
   - text: "(Southeast Asia) Thatch made from leaves of the nipa palm."
+prev_word: atrip
+next_word: attar
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/ap/"
+  label: Ending in AP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

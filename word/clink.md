@@ -47,4 +47,15 @@ definitions:
       glass; to strike materials such as metal or glass against one another.
     example: The hammers clinked on the stone all night.
   - text: To rhyme.
+prev_word: cling
+next_word: clint
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

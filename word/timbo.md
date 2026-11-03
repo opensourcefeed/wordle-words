@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _IMBO
   count: 6
+prev_word: tilts
+next_word: timed
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

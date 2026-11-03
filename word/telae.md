@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 16
 anagrams:
 - elate
+prev_word: tekke
+next_word: telco
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

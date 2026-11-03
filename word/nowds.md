@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - downs
 - sownd
+prev_word: noway
+next_word: nowed
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

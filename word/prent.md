@@ -29,4 +29,15 @@ neighbours:
 - prunt
 - urent
 - yrent
+prev_word: premy
+next_word: preon
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

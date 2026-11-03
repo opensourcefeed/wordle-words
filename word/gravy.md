@@ -41,4 +41,15 @@ definitions:
   - text: Extra benefit.
     example: The first thousand tickets and the concessions cover the venue and the
       band. The rest is gravy.
+prev_word: gravs
+next_word: grays
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

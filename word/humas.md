@@ -34,4 +34,15 @@ neighbours:
 - pumas
 anagrams:
 - musha
+prev_word: human
+next_word: humfs
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

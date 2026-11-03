@@ -48,4 +48,15 @@ definitions:
   - text: To agree with, affirm, approve.
     example: Did he yes the veto?
   - text: To attempt to flatter someone by habitually agreeing
+prev_word: yerks
+next_word: yesks
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

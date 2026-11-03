@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - cento
 - conte
+prev_word: onces
+next_word: oncus
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

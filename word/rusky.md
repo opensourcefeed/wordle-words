@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _USKY
   count: 6
+prev_word: rusks
+next_word: rusma
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

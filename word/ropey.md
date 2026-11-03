@@ -41,4 +41,15 @@ definitions:
   - text: Of poor quality; in poor health.
   - text: "(of milk or another liquid) Slimy, as after the action of Enterobacter
       aerogenes in syrup."
+prev_word: ropes
+next_word: roque
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

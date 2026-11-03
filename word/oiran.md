@@ -25,4 +25,13 @@ stats:
   starter_top_percent: 5
 anagrams:
 - noria
+prev_word: oints
+next_word: ojime
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

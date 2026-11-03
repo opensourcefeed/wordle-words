@@ -25,4 +25,13 @@ neighbours:
 - jambo
 - jambs
 - mambu
+prev_word: jambs
+next_word: james
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

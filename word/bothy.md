@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A small cottage, especially one for communal use in remote areas by labourers
       or farmhands.
+prev_word: botew
+next_word: botos
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

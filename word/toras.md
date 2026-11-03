@@ -45,4 +45,15 @@ anagrams:
 trap:
   pattern: _ORAS
   count: 8
+prev_word: toran
+next_word: torch
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

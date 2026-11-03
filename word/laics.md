@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A layperson, as opposed to a member of the clergy.
+prev_word: laich
+next_word: laide
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

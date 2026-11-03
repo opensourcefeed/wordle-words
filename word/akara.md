@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: Bean cake, fried black-eyed pea flour
+prev_word: ajwan
+next_word: akees
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ak/"
+  label: Starting with AK
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

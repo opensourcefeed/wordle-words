@@ -41,4 +41,15 @@ definitions:
   - text: To reproduce, especially in large numbers.
   - text: "(of a character or object) (To cause) to appear spontaneously in a game
       at a certain point and time."
+prev_word: spawl
+next_word: spaws
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

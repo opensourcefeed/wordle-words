@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: CHO_S
   count: 6
+prev_word: chose
+next_word: chota
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

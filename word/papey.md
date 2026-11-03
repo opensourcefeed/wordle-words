@@ -26,4 +26,15 @@ neighbours:
 - pacey
 - papes
 - pappy
+prev_word: papes
+next_word: pappi
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

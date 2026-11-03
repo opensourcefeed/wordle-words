@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Of high quality; remarkable; excellent.
   - text: Sporty, ostentatious, flashy.
+prev_word: doors
+next_word: dopas
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

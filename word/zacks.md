@@ -44,4 +44,15 @@ definitions:
   - text: Sixpence.
   - text: Five cents.
   - text: A six-month or six-year prison sentence.
+prev_word: zabra
+next_word: zaida
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

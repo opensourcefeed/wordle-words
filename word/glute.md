@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(exercise) A gluteal muscle."
+prev_word: gluon
+next_word: gluts
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

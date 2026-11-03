@@ -53,4 +53,15 @@ definitions:
   - text: To draw (stitches etc.) tight.
   - text: To hit, strike, especially with a cane or whip.
   - text: To crack (a whip).
+prev_word: yarfa
+next_word: yarns
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

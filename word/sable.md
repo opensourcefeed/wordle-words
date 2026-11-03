@@ -61,4 +61,15 @@ definitions:
   - text: Made of sable fur.
   - text: Dark, somber.
   - text: Dark-skinned; black.
+prev_word: sabji
+next_word: sabos
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

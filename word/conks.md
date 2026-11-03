@@ -70,4 +70,15 @@ definitions:
   defs:
   - text: "(often with out) To fail or show signs of failing, cease operating, break
       down, become unconscious."
+prev_word: conin
+next_word: conky
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

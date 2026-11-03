@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: An expert in a given field.
+prev_word: mauzy
+next_word: mavie
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

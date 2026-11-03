@@ -52,4 +52,15 @@ definitions:
   - text: A cubic measure of stonework equal to 16.6 × 1.5 × 1 feet
   - text: A frame used to examine cloth
   - text: A bar used to support a candle (especially in a church)
+prev_word: perce
+next_word: percs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _OSEY
   count: 6
+prev_word: hoses
+next_word: hosta
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

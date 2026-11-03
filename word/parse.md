@@ -71,4 +71,15 @@ definitions:
   - text: 'Of a string of code or text, sentence, etc.: to conform to rules of grammar,
       to be syntactically valid.'
     example: This sentence doesn't parse.
+prev_word: parry
+next_word: parte
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

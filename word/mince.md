@@ -65,4 +65,15 @@ definitions:
   - text: To walk with short steps; to walk in a prim, affected manner.
   - text: To act or talk with affected nicety; to affect delicacy in manner.
     example: I love going to gay bars and seeing drag queens mince around on stage.
+prev_word: minas
+next_word: mincy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

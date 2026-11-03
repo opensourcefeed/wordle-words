@@ -36,4 +36,15 @@ definitions:
   - text: To make attempt.
   - text: To direct one's course.
   - text: To aspire; be ambitious.
+prev_word: ettin
+next_word: etude
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/et/"
+  label: Starting with ET
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

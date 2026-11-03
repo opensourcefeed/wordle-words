@@ -26,4 +26,15 @@ neighbours:
 - gojis
 - koris
 - rojis
+prev_word: koiwi
+next_word: kokam
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

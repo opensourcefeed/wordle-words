@@ -33,4 +33,15 @@ definitions:
   - text: A council, convention, tribunal or assembly; especially, the grand council
       of state in Spain.
   - text: The ruling council of a military dictatorship.
+prev_word: junky
+next_word: junto
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

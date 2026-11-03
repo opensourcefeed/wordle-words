@@ -24,4 +24,15 @@ anagrams:
 - capos
 - pacos
 - scopa
+prev_word: porus
+next_word: posed
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

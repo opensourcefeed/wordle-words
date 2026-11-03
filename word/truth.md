@@ -51,4 +51,15 @@ definitions:
   - text: To assert as true; to declare; to speak truthfully.
   - text: To make exact; to correct for inaccuracy.
   - text: To tell the truth.
+prev_word: trust
+next_word: tryer
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

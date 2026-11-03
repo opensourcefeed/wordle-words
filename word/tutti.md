@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: All together. Indicates that the remainder of a group should join in playing
       after a solo or other passage with a reduced number of voices.
+prev_word: tutor
+next_word: tutty
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

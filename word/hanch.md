@@ -28,4 +28,15 @@ neighbours:
 - hench
 - lanch
 - panch
+prev_word: hance
+next_word: handi
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

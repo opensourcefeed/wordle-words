@@ -62,4 +62,15 @@ definitions:
       to be wiped out.
     example: If you try to fight that boss underprepared, you're definitely gonna
       wipe.
+prev_word: winze
+next_word: wiper
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

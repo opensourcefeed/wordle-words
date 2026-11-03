@@ -46,4 +46,15 @@ definitions:
   - text: To bestow a dowry upon.
     example: 1999, Judith Everard, Michael C. E. Jones, Charters Duchess Constance
       Br, Page xvi
+prev_word: dowps
+next_word: dowse
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

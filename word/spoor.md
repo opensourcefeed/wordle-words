@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To track an animal by following its spoor
+prev_word: spoon
+next_word: spoot
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

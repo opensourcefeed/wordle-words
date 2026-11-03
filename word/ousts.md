@@ -44,4 +44,15 @@ definitions:
   - text: To expel; to remove.
     example: The protesters became so noisy that they were finally ousted from the
       meeting.
+prev_word: ousia
+next_word: outby
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: A tree, Canarium luzonicum, native to the Philippines.
   - text: A resin harvested from the elemi tree.
+prev_word: elegy
+next_word: elfed
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/mi/"
+  label: Ending in MI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

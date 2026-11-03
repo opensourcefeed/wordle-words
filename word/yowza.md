@@ -28,4 +28,15 @@ definitions:
 - pos: interjection
   defs:
   - text: 'Wow: an indication of surprise, excitement, or amazement.'
+prev_word: yowsa
+next_word: yoyos
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

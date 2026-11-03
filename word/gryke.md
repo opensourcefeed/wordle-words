@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A deep cleft formed in limestone surfaces due to water erosion; providing
       a unique habitat for plants.
+prev_word: gryde
+next_word: grype
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

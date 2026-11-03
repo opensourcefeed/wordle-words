@@ -26,4 +26,15 @@ anagrams:
 - aping
 - gnapi
 - pinga
+prev_word: ngana
+next_word: ngati
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ng/"
+  label: Starting with NG
+- url: "/ending-with/pi/"
+  label: Ending in PI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

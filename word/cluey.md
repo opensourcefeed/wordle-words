@@ -31,4 +31,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Savvy; street-smart; in the know.
+prev_word: clues
+next_word: clump
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

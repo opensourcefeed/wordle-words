@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of various venomous snakes of the family Elapidae.
+prev_word: cobot
+next_word: cobza
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

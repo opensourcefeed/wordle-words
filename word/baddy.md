@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A person of bad character in a work of fiction.
+prev_word: badam
+next_word: badge
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -38,4 +38,13 @@ definitions:
   - text: A variety of Agave angustifolia var. angustifolia (syn. Agave rigida), furnishing
       a strong coarse fiber.
   - text: The fiber itself; pita, or Tampico fiber.
+prev_word: issue
+next_word: itchy
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

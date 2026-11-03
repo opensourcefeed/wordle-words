@@ -38,4 +38,15 @@ definitions:
   - text: A person who keeps a house of prostitution, or procures women for prostitution;
       a procurer, a madame.
   - text: A lewd person.
+prev_word: bavin
+next_word: bawdy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

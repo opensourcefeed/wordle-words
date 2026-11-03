@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: To express contempt for (laws, rules, etc.) by word or action.
   - text: To scorn.
+prev_word: flour
+next_word: flown
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

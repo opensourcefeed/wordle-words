@@ -29,4 +29,15 @@ definitions:
 - pos: verb
   defs:
   - text: To swindle someone by not paying a debt, especially a gambling debt.
+prev_word: welly
+next_word: welts
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

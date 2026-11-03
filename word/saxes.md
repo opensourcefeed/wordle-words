@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: A single-reed instrument musical instrument of the woodwind family, usually
       made of brass and with a distinctive loop bringing the bell upwards.
+prev_word: sawer
+next_word: sayas
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

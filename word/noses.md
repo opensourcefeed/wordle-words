@@ -80,4 +80,15 @@ definitions:
   - text: To furnish with a nose.
     example: to nose a stair tread
   - text: To confront; be closely face to face or opposite to.
+prev_word: noser
+next_word: nosey
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

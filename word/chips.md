@@ -86,4 +86,15 @@ definitions:
 - pos: noun
   defs:
   - text: A carpenter.
+prev_word: chins
+next_word: chirk
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

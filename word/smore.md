@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To smother.
+prev_word: smoot
+next_word: smorg
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

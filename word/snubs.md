@@ -49,4 +49,15 @@ definitions:
 - pos: verb
   defs:
   - text: To sob with convulsions.
+prev_word: snowy
+next_word: snuck
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

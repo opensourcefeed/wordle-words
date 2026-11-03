@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: CRI_S
   count: 9
+prev_word: crink
+next_word: crios
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

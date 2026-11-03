@@ -25,4 +25,15 @@ neighbours:
 - chads
 anagrams:
 - adhoc
+prev_word: chaco
+next_word: chads
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

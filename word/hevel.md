@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _EVEL
   count: 7
+prev_word: hevea
+next_word: hewed
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

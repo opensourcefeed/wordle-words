@@ -31,4 +31,15 @@ definitions:
   - text: An occult or magical sign, image or symbol.
   - text: A nonalphanumeric character affixed to a symbol (e.g. variable) to indicate
       a property such as type or scope.
+prev_word: sight
+next_word: sigla
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -70,4 +70,15 @@ definitions:
   - text: A basket.
   - text: A trap or snare for fish, made from twigs; a weely.
   - text: Half a bushel.
+prev_word: leany
+next_word: leapt
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

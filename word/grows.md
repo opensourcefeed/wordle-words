@@ -53,4 +53,15 @@ definitions:
   - text: To assume a condition or quality over time.
     example: The boy grew wise as he matured.
   - text: To become attached or fixed; to adhere.
+prev_word: grown
+next_word: grrls
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

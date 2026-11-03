@@ -87,4 +87,15 @@ definitions:
   - text: To give someone a plant and receive a different one in return.
   - text: To do business; offer for sale as for one's livelihood.
   - text: To have dealings; to be concerned or associated (with).
+prev_word: tract
+next_word: trads
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

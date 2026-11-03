@@ -35,4 +35,15 @@ definitions:
   - text: Demeanor; facial expression or attitude, especially one which is intended
       by its bearer.
   - text: A specific facial expression.
+prev_word: midst
+next_word: mieux
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -63,4 +63,15 @@ definitions:
   defs:
   - text: To adorn with a mitre.
   - text: To unite at an angle of 45°.
+prev_word: mitch
+next_word: mites
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -54,4 +54,15 @@ definitions:
     example: the Rhode Island pound; the New Hampshire pound
   - text: Abbreviation for pound-force, a unit of force/weight. Using this abbreviation
       to describe pound-force is inaccurate and unscientific.
+prev_word: poult
+next_word: poupe
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

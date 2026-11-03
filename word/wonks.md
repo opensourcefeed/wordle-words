@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: An overly studious person, particularly student.
   - text: "(by extension) A policy wonk or other intellectual expert."
+prev_word: wongi
+next_word: wonky
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

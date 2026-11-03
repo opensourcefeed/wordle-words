@@ -32,4 +32,15 @@ anagrams:
 - posse
 - pesos
 - poses
+prev_word: spent
+next_word: sperm
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

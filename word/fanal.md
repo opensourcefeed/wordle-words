@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A lighthouse, or the apparatus placed in it for giving light.
+prev_word: fames
+next_word: fancy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

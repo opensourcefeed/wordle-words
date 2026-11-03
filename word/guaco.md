@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 48
 neighbours:
 - guano
+prev_word: grypt
+next_word: guana
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

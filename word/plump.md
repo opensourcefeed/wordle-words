@@ -50,4 +50,15 @@ definitions:
     example: a plump baby;  plump cheeks
   - text: Fat.
   - text: Sudden and without reservation; blunt; direct; downright.
+prev_word: plume
+next_word: plums
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

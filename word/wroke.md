@@ -29,4 +29,15 @@ neighbours:
 - troke
 anagrams:
 - woker
+prev_word: writs
+next_word: wrong
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

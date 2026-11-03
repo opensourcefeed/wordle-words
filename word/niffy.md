@@ -26,4 +26,15 @@ neighbours:
 - niffs
 - nifty
 - riffy
+prev_word: niffs
+next_word: nifle
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

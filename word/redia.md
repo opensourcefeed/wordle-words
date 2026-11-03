@@ -36,4 +36,15 @@ anagrams:
 - aired
 - deair
 - irade
+prev_word: redes
+next_word: redid
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

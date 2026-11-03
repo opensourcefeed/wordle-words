@@ -25,4 +25,15 @@ definitions:
   defs:
   - text: One of the ridges commonly found on the fruit of umbelliferous plants.
   - text: A pair of opposite leaflets of a pinnate plant.
+prev_word: jugal
+next_word: juice
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

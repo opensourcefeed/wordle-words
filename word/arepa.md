@@ -27,4 +27,15 @@ neighbours:
 - areca
 anagrams:
 - parae
+prev_word: arene
+next_word: arere
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

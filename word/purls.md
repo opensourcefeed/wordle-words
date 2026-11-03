@@ -74,4 +74,15 @@ definitions:
 - pos: noun
   defs:
   - text: A tern.
+prev_word: puris
+next_word: puros
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

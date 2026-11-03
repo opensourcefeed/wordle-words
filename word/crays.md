@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: A crayfish or lobster.
+prev_word: craws
+next_word: craze
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

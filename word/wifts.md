@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _IFTS
   count: 6
+prev_word: wifie
+next_word: wifty
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

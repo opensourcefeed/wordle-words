@@ -26,4 +26,15 @@ definitions:
   defs:
   - text: A dreamy, dazed, absent-minded, or befuddled state
     example: sitting here in a dwaal
+prev_word: duxes
+next_word: dwale
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dw/"
+  label: Starting with DW
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

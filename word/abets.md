@@ -50,4 +50,15 @@ definitions:
       or action); to maintain.
   - text: To back up one's forecast of a doubtful issue, by staking money, etc., to
       bet.
+prev_word: abers
+next_word: abeys
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

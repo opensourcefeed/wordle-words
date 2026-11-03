@@ -28,4 +28,15 @@ neighbours:
 - nitta
 - pitta
 - vitta
+prev_word: mitry
+next_word: mitts
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

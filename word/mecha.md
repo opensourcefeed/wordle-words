@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A large armoured robot on legs, typically controlled by a pilot seated inside.
+prev_word: mecca
+next_word: mechs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

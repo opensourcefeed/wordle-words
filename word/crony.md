@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: "(originally Cambridge University) Close friend."
   - text: Trusted companion or partner in a criminal organization.
+prev_word: crons
+next_word: crook
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

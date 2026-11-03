@@ -36,4 +36,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Relating to, or resembling, an animal.
+prev_word: zooey
+next_word: zooks
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

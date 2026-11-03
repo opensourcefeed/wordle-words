@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: BAR_Y
   count: 7
+prev_word: barns
+next_word: baron
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

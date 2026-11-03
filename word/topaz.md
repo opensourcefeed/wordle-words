@@ -37,4 +37,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Of a yellowish-brown color, like that of the gemstone.
+prev_word: toots
+next_word: toped
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

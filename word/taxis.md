@@ -41,4 +41,15 @@ definitions:
   - text: The arrangement of the parts of a topic.
   - text: Arrangement or ordering generally, as in architecture or grammar
   - text: A brigade in an Ancient Greek army.
+prev_word: taxes
+next_word: taxol
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

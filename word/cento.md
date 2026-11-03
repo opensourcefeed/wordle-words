@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A hotchpotch, a mixture; especially a piece made up of quotations from other
       authors, or a poem containing individual lines from other poems.
+prev_word: cense
+next_word: cents
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

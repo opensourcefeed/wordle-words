@@ -38,4 +38,15 @@ anagrams:
 - stoep
 - stope
 - topes
+prev_word: petit
+next_word: petre
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

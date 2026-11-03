@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A body position, typically associated with the practice of yoga.
+prev_word: asada
+next_word: ascon
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

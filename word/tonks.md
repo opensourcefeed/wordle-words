@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: An item of value, or of perceived value, especially for sale.
     example: How much tonk have we got to shift?
+prev_word: tonka
+next_word: tonne
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

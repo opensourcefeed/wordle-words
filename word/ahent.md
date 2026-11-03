@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - neath
 - thane
+prev_word: aheap
+next_word: ahigh
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ah/"
+  label: Starting with AH
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

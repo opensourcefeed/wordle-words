@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 95
 neighbours:
 - jibbs
+prev_word: jiaos
+next_word: jibbs
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

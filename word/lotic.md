@@ -35,4 +35,15 @@ definitions:
   - text: Characterised by flowing water; swiftly flowing; concerned with flowing
       rivers, streams, etc.
   - text: Living in flowing water; adapted to life in flowing water.
+prev_word: lotes
+next_word: lotos
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

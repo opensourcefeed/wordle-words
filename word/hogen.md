@@ -25,4 +25,15 @@ neighbours:
 - hosen
 - hoten
 - hoven
+prev_word: hogan
+next_word: hoggs
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

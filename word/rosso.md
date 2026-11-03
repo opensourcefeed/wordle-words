@@ -25,4 +25,15 @@ neighbours:
 - mosso
 - rosco
 - rossa
+prev_word: rossa
+next_word: rosti
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

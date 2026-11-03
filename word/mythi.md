@@ -35,4 +35,15 @@ definitions:
       for a particular culture, religion, society, or other group; a myth, a mythology.
   - text: "(by extension) A set of assumptions or beliefs about something."
   - text: A recurring theme; a motif.
+prev_word: mysie
+next_word: myths
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/my/"
+  label: Starting with MY
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

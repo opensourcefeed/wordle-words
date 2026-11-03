@@ -23,4 +23,15 @@ neighbours:
 - point
 anagrams:
 - ponty
+prev_word: poyas
+next_word: poyou
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

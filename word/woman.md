@@ -49,4 +49,15 @@ definitions:
   - text: To make effeminate or womanish.
   - text: To furnish with, or unite to, a woman.
   - text: To call (a person) "woman" in a disrespectful fashion.
+prev_word: wolve
+next_word: womas
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

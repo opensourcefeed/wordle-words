@@ -58,4 +58,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Constructed from, or decorated with tiles
+prev_word: tilde
+next_word: tiler
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

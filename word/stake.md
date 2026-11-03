@@ -82,4 +82,15 @@ definitions:
   - text: To provide another with money in order to engage in an activity as betting
       or a business venture.
     example: His family staked him $10,000 to get his business started.
+prev_word: stair
+next_word: stale
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

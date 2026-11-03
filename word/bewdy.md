@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: Used to express enthusiasm, pleasure or approval.
     example: I scored us a couple of tickets to the match on Saturday. — Bewdy, mate!
+prev_word: bevvy
+next_word: bewet
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

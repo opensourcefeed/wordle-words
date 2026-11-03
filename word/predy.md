@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - derpy
 - perdy
+prev_word: preak
+next_word: preed
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

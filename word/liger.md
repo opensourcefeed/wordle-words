@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: An animal born to a male lion and a tigress.
+prev_word: ligan
+next_word: ligge
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

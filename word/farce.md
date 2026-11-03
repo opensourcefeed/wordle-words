@@ -47,4 +47,15 @@ definitions:
   - text: A ridiculous or empty show.
     example: The political arena is a mere farce, with all sorts of fools trying to
       grab power.
+prev_word: farad
+next_word: farci
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

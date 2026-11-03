@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _USKS
   count: 9
+prev_word: fusil
+next_word: fussy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -30,4 +30,15 @@ anagrams:
 - larva
 - alvar
 - lavra
+prev_word: arums
+next_word: arvee
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

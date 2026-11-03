@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A large, white, nomadic Arctic owl, Bubo scandiacus.
+prev_word: snows
+next_word: snubs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/wy/"
+  label: Ending in WY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

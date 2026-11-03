@@ -26,4 +26,15 @@ definitions:
 - pos: noun
   defs:
   - text: A clumsy or stupid person.
+prev_word: kluge
+next_word: knack
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kl/"
+  label: Starting with KL
+- url: "/ending-with/tz/"
+  label: Ending in TZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

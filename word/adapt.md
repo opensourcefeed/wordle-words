@@ -42,4 +42,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Adapted; fit; suited; suitable.
+prev_word: adage
+next_word: adats
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

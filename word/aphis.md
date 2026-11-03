@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: An aphid.
+prev_word: aphid
+next_word: apian
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

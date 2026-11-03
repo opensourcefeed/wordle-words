@@ -37,4 +37,15 @@ definitions:
   - text: To move or vibrate (something) with a buzzing sound.
   - text: To make a sibilant buzzing or droning sound.
   - text: To cause (something) to make such a sound.
+prev_word: whirl
+next_word: whirs
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/rr/"
+  label: Ending in RR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

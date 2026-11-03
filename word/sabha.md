@@ -26,4 +26,15 @@ anagrams:
 - abash
 - basha
 - sahab
+prev_word: sabes
+next_word: sabin
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

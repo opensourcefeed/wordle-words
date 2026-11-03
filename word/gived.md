@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _IVED
   count: 7
+prev_word: giust
+next_word: given
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

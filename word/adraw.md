@@ -24,4 +24,15 @@ neighbours:
 - adrad
 anagrams:
 - award
+prev_word: adrad
+next_word: adred
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/aw/"
+  label: Ending in AW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

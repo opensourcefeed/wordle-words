@@ -73,4 +73,15 @@ definitions:
 - pos: noun
   defs:
   - text: Keeping
+prev_word: keens
+next_word: keets
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

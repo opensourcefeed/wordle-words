@@ -55,4 +55,15 @@ definitions:
   - text: The perpendicular distance from the chord to the farthest point of an arched
       surface
   - text: The lower of the two ranks of a value in an ordered set of values
+prev_word: depot
+next_word: derat
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

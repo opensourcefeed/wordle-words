@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OMOS
   count: 6
+prev_word: pommy
+next_word: pompa
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

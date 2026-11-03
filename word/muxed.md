@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To multiplex.
+prev_word: muvva
+next_word: muxes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

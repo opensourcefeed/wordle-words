@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: MORA_
   count: 7
+prev_word: mopus
+next_word: morah
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

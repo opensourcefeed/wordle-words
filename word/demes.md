@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: A township or other subdivision of ancient Attica.
   - text: A distinct local population of plants or animals.
+prev_word: deman
+next_word: demic
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

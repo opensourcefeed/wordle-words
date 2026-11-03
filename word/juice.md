@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: To extract the juice from something.
   - text: To energize or stimulate something.
+prev_word: jugum
+next_word: juicy
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

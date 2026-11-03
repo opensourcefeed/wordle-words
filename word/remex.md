@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Quill
   - text: The flight feather of a bird.
+prev_word: remet
+next_word: remit
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

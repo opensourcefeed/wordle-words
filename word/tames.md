@@ -59,4 +59,15 @@ definitions:
   defs:
   - text: To broach or enter upon; to taste, as a liquor; to divide; to distribute;
       to deal out.
+prev_word: tamer
+next_word: tamin
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

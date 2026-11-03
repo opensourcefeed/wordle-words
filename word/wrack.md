@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To execute vengeance; avenge.
   - text: To worry; tease; torment.
+prev_word: woxen
+next_word: wrang
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

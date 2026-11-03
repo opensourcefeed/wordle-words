@@ -51,4 +51,15 @@ definitions:
 - pos: verb
   defs:
   - text: To praise, to glorify
+prev_word: laude
+next_word: laufs
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -79,4 +79,15 @@ definitions:
 - pos: noun
   defs:
   - text: Brucellosis, a bacterial disease.
+prev_word: banes
+next_word: bania
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

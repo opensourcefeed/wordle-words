@@ -59,4 +59,15 @@ definitions:
       from the same point.
     example: to pause a song, a video, or a computer game
   - text: To consider; to reflect.
+prev_word: pauls
+next_word: pauxi
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

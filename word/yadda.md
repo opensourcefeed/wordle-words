@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 97
+prev_word: yacks
+next_word: yaffs
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

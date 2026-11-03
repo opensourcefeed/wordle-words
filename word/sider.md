@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _IDER
   count: 8
+prev_word: sided
+next_word: sides
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

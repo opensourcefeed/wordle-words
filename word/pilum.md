@@ -24,4 +24,15 @@ neighbours:
 - filum
 - hilum
 - pilus
+prev_word: pilow
+next_word: pilus
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

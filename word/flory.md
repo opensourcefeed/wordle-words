@@ -33,4 +33,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(especially of a cross) Decorated (finished at the ends) with fleurs-de-lis."
+prev_word: flors
+next_word: flosh
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

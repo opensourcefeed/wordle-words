@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: Lead glazing used for pottery.
+prev_word: gloss
+next_word: glout
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

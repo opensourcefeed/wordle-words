@@ -61,4 +61,15 @@ definitions:
     example: The garden was full of blossoms that blushed in myriad shades to form
       a beautiful carpet of color.
   - text: To glance with the eye, cast a glance.
+prev_word: blurt
+next_word: blype
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

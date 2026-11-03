@@ -49,4 +49,15 @@ definitions:
     example: Hath wrought the mure that should confine it in
   - text: Husks of fruit from which the juice has been squeezed. Perhaps an old spelling
       of myrrh
+prev_word: mured
+next_word: murex
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

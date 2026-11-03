@@ -61,4 +61,15 @@ definitions:
   - text: Of a conflict between parties, having developed to a stage where the conflict
       may be reviewed by a court of law.
   - text: 'Smelly: having a disagreeable odor.'
+prev_word: ripen
+next_word: ripes
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -42,4 +42,15 @@ definitions:
   - text: Hence, a partially partitioned space for studying or reading, often in a
       library.
     example: He was busy writing his report in a small library carrel.
+prev_word: carob
+next_word: carom
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

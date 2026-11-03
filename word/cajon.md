@@ -27,4 +27,15 @@ neighbours:
 - capon
 - caron
 - caxon
+prev_word: cairn
+next_word: cajun
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

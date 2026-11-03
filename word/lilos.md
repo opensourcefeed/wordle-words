@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: An inflatable air mattress.
+prev_word: lills
+next_word: lilts
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -33,4 +33,15 @@ anagrams:
 - names
 - nemas
 - samen
+prev_word: menil
+next_word: mense
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: LA_ED
   count: 12
+prev_word: laity
+next_word: laker
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

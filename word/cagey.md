@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Wary, careful, shrewd.
   - text: Uncommunicative; unwilling or hesitant to give information.
+prev_word: cages
+next_word: cagot
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

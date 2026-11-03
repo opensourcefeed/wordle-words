@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: A small piece of woodland or a woody hill; a copse.
   - text: The lair of an animal, especially of an otter.
+prev_word: holos
+next_word: homas
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

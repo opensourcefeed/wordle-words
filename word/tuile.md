@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of thin, papery cookie, often bent into fancy shapes
+prev_word: tugra
+next_word: tuina
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

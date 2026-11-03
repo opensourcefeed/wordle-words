@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _AYED
   count: 9
+prev_word: sayas
+next_word: sayee
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

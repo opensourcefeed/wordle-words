@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - gonys
 - gynos
+prev_word: songs
+next_word: sonic
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

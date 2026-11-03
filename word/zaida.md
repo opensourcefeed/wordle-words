@@ -26,4 +26,15 @@ neighbours:
 - zaide
 - zaidy
 - zarda
+prev_word: zacks
+next_word: zaide
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

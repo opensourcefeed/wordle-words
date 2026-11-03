@@ -35,4 +35,15 @@ definitions:
       sound and controversial lyrics or samples.
   - text: A gabber music lover, usually dressed in a tracksuit, often with a complete
       shaved head or partially for women, seen primarily in the 1990s.
+prev_word: fytte
+next_word: gabby
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

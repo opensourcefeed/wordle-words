@@ -28,4 +28,15 @@ neighbours:
 - betid
 - feted
 - meted
+prev_word: betas
+next_word: betel
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

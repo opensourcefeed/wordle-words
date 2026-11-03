@@ -48,4 +48,15 @@ anagrams:
 trap:
   pattern: _EAST
   count: 6
+prev_word: rears
+next_word: reata
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

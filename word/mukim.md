@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 98
 neighbours:
 - mudim
+prev_word: mujik
+next_word: mukti
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

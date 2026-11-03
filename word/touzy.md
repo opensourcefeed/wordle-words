@@ -25,4 +25,15 @@ neighbours:
 - tousy
 - touze
 - towzy
+prev_word: touze
+next_word: towai
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

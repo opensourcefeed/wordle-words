@@ -47,4 +47,15 @@ definitions:
     example: Many people fled the country as war loomed.
   - text: To disappear quickly; to vanish.
     example: Ethereal products flee once freely exposed to air.
+prev_word: fleer
+next_word: fleet
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

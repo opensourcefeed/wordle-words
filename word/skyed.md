@@ -26,4 +26,15 @@ neighbours:
 - skyer
 - skyey
 - styed
+prev_word: skunk
+next_word: skyer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

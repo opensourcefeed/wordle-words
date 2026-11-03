@@ -53,4 +53,15 @@ definitions:
   - text: To do something rhythmically, with animation and quickness, usually of music.
   - text: To sing cheerfully, especially in Gaelic.
   - text: To utter with spirit, animation, or gaiety; to sing with spirit and liveliness.
+prev_word: lilos
+next_word: lilty
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

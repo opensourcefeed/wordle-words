@@ -36,4 +36,15 @@ definitions:
   - text: Any of the many small fluid-filled sacs located at the point where a muscle
       or tendon slides across bone. These sacs serve to reduce friction between the
       two moving surfaces.
+prev_word: burry
+next_word: burse
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

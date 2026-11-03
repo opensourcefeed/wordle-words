@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Alienation or social instability caused by erosion of standards and values.
+prev_word: anole
+next_word: ansae
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

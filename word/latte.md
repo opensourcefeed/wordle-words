@@ -41,4 +41,15 @@ definitions:
       with foam.
   - text: A similar drink, where the espresso is replaced with some other flavoring
       ingredient such as chai, maté or matcha (green tea).
+prev_word: latke
+next_word: latus
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

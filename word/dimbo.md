@@ -30,4 +30,15 @@ neighbours:
 trap:
   pattern: _IMBO
   count: 6
+prev_word: dilly
+next_word: dimer
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

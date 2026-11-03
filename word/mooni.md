@@ -29,4 +29,15 @@ neighbours:
 - moony
 anagrams:
 - nomoi
+prev_word: moong
+next_word: moons
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ni/"
+  label: Ending in NI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

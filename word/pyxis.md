@@ -33,4 +33,15 @@ definitions:
   - text: A nautical compass
   - text: The box in which ashes are stored for Ash Wednesday
   - text: Acetabulum
+prev_word: pyxie
+next_word: pzazz
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -73,4 +73,15 @@ definitions:
   - text: To swing at a pitch outside of the strike zone, typically an outside pitch
   - text: To produce enough offense to cause the pitcher to be removed
     example: The rally chased the starter.
+prev_word: chary
+next_word: chasm
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

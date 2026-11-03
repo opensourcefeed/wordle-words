@@ -43,4 +43,15 @@ definitions:
   - text: A clan, tribe, or family, proceeding from a common progenitor (used especially
       of the ancient clans in Ireland).
   - text: An enclosure; a railing.
+prev_word: septa
+next_word: serac
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

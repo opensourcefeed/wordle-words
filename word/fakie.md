@@ -41,4 +41,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(of a trick) Performed using the fakie stance."
+prev_word: fakey
+next_word: fakir
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

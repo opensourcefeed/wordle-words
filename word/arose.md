@@ -44,4 +44,15 @@ definitions:
   - text: To spring up; to come into action, being, or notice; to become operative,
       sensible, or visible; to begin to act a part; to present itself.
     example: A cloud arose and covered the sun.
+prev_word: aroma
+next_word: arpas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

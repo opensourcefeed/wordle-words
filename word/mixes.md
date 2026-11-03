@@ -66,4 +66,15 @@ definitions:
     example: The rhythm mix sounds muddy.
   - text: The finished version of a recording.
     example: I've almost finished the mix for this song.
+prev_word: mixer
+next_word: mixie
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

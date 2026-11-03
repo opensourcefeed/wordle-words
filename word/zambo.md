@@ -25,4 +25,15 @@ neighbours:
 - mambo
 - gambo
 - jambo
+prev_word: zaman
+next_word: zamia
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

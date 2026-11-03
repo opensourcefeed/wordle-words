@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 88
 neighbours:
 - vifda
+prev_word: vivat
+next_word: viver
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

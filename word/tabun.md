@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: An extremely toxic nerve agent; a clear, tasteless liquid, molecular formula
       C5H11N2O2P.
+prev_word: tabos
+next_word: tabus
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

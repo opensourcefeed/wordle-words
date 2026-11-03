@@ -21,4 +21,15 @@ stats:
 neighbours:
 - twang
 - swang
+prev_word: dwamy
+next_word: dwarf
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dw/"
+  label: Starting with DW
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

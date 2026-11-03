@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: To go.
+prev_word: lites
+next_word: litho
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

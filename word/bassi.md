@@ -38,4 +38,15 @@ definitions:
   - text: A bass singer, especially in opera.
   - text: An instrumental part written for a bass instrument.
   - text: The double bass, or contrabasso.
+prev_word: basse
+next_word: basso
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/si/"
+  label: Ending in SI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

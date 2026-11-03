@@ -33,4 +33,15 @@ neighbours:
 - roved
 - roves
 - rowen
+prev_word: roved
+next_word: rover
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: The neurotoxin O-isopropyl methylphosphonofluoridate, used as a chemical
       weapon.
+prev_word: sargo
+next_word: sarir
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

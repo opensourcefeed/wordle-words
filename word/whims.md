@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: A bird, the Eurasian wigeon.
+prev_word: whilk
+next_word: whine
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

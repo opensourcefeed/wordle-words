@@ -22,4 +22,15 @@ stats:
   rare: []
   starter_tier: Good
   starter_top_percent: 4
+prev_word: rudis
+next_word: ruers
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

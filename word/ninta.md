@@ -30,4 +30,15 @@ neighbours:
 - pinta
 anagrams:
 - nanti
+prev_word: ninon
+next_word: ninth
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

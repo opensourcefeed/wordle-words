@@ -27,4 +27,15 @@ neighbours:
 - satai
 anagrams:
 - sakia
+prev_word: sajou
+next_word: saker
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -25,4 +25,15 @@ neighbours:
 - atoks
 anagrams:
 - makos
+prev_word: amnio
+next_word: amole
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

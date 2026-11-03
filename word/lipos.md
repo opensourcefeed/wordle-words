@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - spoil
 - polis
+prev_word: lipin
+next_word: lippy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

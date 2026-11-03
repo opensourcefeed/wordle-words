@@ -19,4 +19,12 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 95
+prev_word: zymes
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

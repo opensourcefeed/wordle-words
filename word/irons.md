@@ -76,4 +76,13 @@ definitions:
     example: Up the irons!
   - text: A lack of forward motion.
   - text: The stirrups.
+prev_word: irone
+next_word: irony
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

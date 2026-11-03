@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - puton
 - unpot
+prev_word: punny
+next_word: punts
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -27,4 +27,15 @@ neighbours:
 - merch
 - milch
 - pelch
+prev_word: melba
+next_word: melds
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

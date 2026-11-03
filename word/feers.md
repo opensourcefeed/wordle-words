@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _EERS
   count: 10
+prev_word: feens
+next_word: feese
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

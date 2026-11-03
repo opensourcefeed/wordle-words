@@ -29,4 +29,15 @@ neighbours:
 - refed
 anagrams:
 - fleer
+prev_word: refed
+next_word: refer
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

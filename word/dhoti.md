@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A long loincloth worn by Hindu men in India.
   - text: The cotton fabric used for such loincloths.
+prev_word: dhoni
+next_word: dhows
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dh/"
+  label: Starting with DH
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

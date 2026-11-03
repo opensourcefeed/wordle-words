@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 70
 neighbours:
 - emure
+prev_word: empty
+next_word: emure
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

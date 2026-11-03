@@ -26,4 +26,15 @@ neighbours:
 - besom
 anagrams:
 - imbos
+prev_word: bisks
+next_word: bison
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

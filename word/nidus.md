@@ -33,4 +33,15 @@ definitions:
   - text: A nest for insects or small animals.
   - text: A place of infection in an organism.
   - text: An origin (originating point) for a phenomenon.
+prev_word: nidor
+next_word: niece
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

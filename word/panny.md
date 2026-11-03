@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ANNY
   count: 8
+prev_word: panni
+next_word: pansy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

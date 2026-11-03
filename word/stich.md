@@ -25,4 +25,15 @@ anagrams:
 - chits
 - sicht
 - sitch
+prev_word: steys
+next_word: stick
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

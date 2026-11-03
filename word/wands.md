@@ -47,4 +47,15 @@ definitions:
   - text: A magic wand.
   - text: A stick, branch, or stalk, especially of willow.
   - text: A card of a particular suit of the minor arcana in tarot, the wands.
+prev_word: wamus
+next_word: waned
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

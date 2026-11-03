@@ -66,4 +66,15 @@ definitions:
       with an audible knock.
   - text: To fish with a concave spoon bait.
   - text: To catch by fishing with a concave spoon bait.
+prev_word: spoom
+next_word: spoor
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

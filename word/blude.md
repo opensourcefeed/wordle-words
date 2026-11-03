@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - blued
 - lubed
+prev_word: blubs
+next_word: bluds
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

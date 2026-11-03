@@ -27,4 +27,15 @@ neighbours:
 - fille
 - fills
 - hillo
+prev_word: fille
+next_word: fills
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -56,4 +56,15 @@ definitions:
       or comfort.
   - text: To applaud or encourage with cheers or shouts.
     example: The crowd cheered in support of the athletes.
+prev_word: cheep
+next_word: cheet
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

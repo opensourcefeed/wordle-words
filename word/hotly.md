@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: With great amounts of heat
   - text: In a heated manner; intensely or vehemently
+prev_word: hotis
+next_word: hotte
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -58,4 +58,15 @@ definitions:
   - text: A female who is extremely fond of or devoted to a specified type of thing.
       (Used as the last element of a compound.)
   - text: A female attendant or servant.
+prev_word: wiver
+next_word: wizen
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

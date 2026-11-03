@@ -33,4 +33,15 @@ anagrams:
 - lodes
 - losed
 - soled
+prev_word: solas
+next_word: soldi
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

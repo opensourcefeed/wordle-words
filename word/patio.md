@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A paved outside area, adjoining a house, used for dining or recreation.
   - text: An inner courtyard typical of traditional houses in some regions of Spain.
+prev_word: patin
+next_word: patka
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/io/"
+  label: Ending in IO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

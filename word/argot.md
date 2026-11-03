@@ -41,4 +41,15 @@ definitions:
       with special skill in a field, such as between doctors, mathematicians or hackers.
     example: The conversation was in the argot of the trade, full of acronyms and
       abbreviations that made no sense to the uninitiate.
+prev_word: argon
+next_word: argue
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

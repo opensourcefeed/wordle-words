@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 89
 neighbours:
 - fabby
+prev_word: ezine
+next_word: fabby
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

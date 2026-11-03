@@ -25,4 +25,15 @@ neighbours:
 - kohas
 anagrams:
 - holks
+prev_word: kohen
+next_word: koine
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

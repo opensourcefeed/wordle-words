@@ -31,4 +31,15 @@ anagrams:
 - almah
 - halma
 - mahal
+prev_word: halwa
+next_word: hamba
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

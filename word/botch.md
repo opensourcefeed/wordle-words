@@ -51,4 +51,15 @@ definitions:
     example: A botched haircut seems to take forever to grow out.
   - text: To do something without skill, without care, or clumsily.
   - text: To repair or mend clumsily.
+prev_word: botas
+next_word: boteh
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

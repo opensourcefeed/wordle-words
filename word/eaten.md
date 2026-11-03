@@ -53,4 +53,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(especially in combination) That has been consumed by eating"
+prev_word: easts
+next_word: eater
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

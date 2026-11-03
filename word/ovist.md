@@ -26,4 +26,15 @@ neighbours:
 - ovism
 anagrams:
 - visto
+prev_word: ovism
+next_word: ovoid
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ov/"
+  label: Starting with OV
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

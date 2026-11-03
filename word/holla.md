@@ -38,4 +38,15 @@ definitions:
 - pos: interjection
   defs:
   - text: Hey, hello
+prev_word: holks
+next_word: hollo
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

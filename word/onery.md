@@ -27,4 +27,15 @@ neighbours:
 - opery
 anagrams:
 - royne
+prev_word: oners
+next_word: ongon
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

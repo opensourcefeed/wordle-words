@@ -70,4 +70,15 @@ definitions:
   - text: Of a bird, to be able to vocally reproduce words or phrases from a human
       language.
   - text: To address; to accost; to speak to.
+prev_word: spaza
+next_word: speal
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

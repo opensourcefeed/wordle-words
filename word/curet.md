@@ -36,4 +36,15 @@ anagrams:
 - cruet
 - cuter
 - eruct
+prev_word: cures
+next_word: curfs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

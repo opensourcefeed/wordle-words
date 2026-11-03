@@ -42,4 +42,15 @@ definitions:
 - pos: adverb
   defs:
   - text: At noontimes.
+prev_word: noone
+next_word: noops
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

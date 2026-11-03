@@ -101,4 +101,15 @@ definitions:
   - text: To cover or protect with, or as if with, a case; to enclose.
   - text: To survey (a building or other location) surreptitiously, as in preparation
       for a robbery.
+prev_word: caser
+next_word: casks
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

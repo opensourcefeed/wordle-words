@@ -31,4 +31,15 @@ neighbours:
 - micos
 anagrams:
 - coifs
+prev_word: ficin
+next_word: ficta
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

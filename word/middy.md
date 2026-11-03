@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A midshipman
   - text: A measure of 285 ml (10 fl oz) of beer; a pot.
+prev_word: micro
+next_word: midge
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

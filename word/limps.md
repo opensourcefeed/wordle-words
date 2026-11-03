@@ -65,4 +65,15 @@ definitions:
   defs:
   - text: To happen; befall; chance.
   - text: To come upon; meet.
+prev_word: limpa
+next_word: linac
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,15 @@ neighbours:
 - belve
 - besee
 - gelee
+prev_word: belch
+next_word: belga
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

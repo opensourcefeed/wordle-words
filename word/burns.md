@@ -112,4 +112,15 @@ definitions:
 - pos: noun
   defs:
   - text: A stream.
+prev_word: burly
+next_word: burnt
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

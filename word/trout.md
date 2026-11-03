@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: To (figuratively) slap someone with a slimy, stinky, wet trout; to admonish
       jocularly.
+prev_word: trots
+next_word: trove
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

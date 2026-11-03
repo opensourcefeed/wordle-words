@@ -31,4 +31,15 @@ anagrams:
 - lacis
 - laics
 - salic
+prev_word: scags
+next_word: scala
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

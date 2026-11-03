@@ -41,4 +41,15 @@ definitions:
   - text: Against, in front of, fronting; before; opposite; over against, on the other
       side.
   - text: In a line with; side by side with; on a level with.
+prev_word: anele
+next_word: angas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 70
 neighbours:
 - views
+prev_word: views
+next_word: vifda
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/wy/"
+  label: Ending in WY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

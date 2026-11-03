@@ -49,4 +49,15 @@ definitions:
   - text: To promote or endorse in return for payment, especially dishonestly.
   - text: To put under cover; to sheal.
   - text: To shell.
+prev_word: shift
+next_word: shily
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

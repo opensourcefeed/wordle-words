@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: A round hill or short ridge of sand or gravel deposited by a melting glacier.
+prev_word: kamas
+next_word: kamik
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

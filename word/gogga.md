@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: Insect.
+prev_word: goffs
+next_word: gogos
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

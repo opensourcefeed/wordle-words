@@ -22,4 +22,15 @@ stats:
   - X
   starter_tier: Weak
   starter_top_percent: 79
+prev_word: nexal
+next_word: nexts
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

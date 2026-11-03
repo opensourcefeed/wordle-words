@@ -30,4 +30,15 @@ anagrams:
 - adman
 - damna
 - namad
+prev_word: dalts
+next_word: damar
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

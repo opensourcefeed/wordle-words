@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To fit or furnish with joists.
+prev_word: joint
+next_word: joked
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

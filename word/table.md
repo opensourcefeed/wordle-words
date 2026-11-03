@@ -67,4 +67,15 @@ definitions:
   - text: To put on a table.
   - text: To make board hems in the skirts and bottoms of (sails) in order to strengthen
       them in the part attached to the bolt-rope.
+prev_word: tabla
+next_word: tabls
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

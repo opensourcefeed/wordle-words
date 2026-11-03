@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: To cover or dress with soot.
     example: to soot land
+prev_word: sooth
+next_word: sooty
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

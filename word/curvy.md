@@ -33,4 +33,15 @@ definitions:
   - text: Having curves.
   - text: Buxom or curvaceous.
     example: I love this woman and her curvy body.
+prev_word: curve
+next_word: cusec
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

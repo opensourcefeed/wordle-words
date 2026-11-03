@@ -41,4 +41,15 @@ definitions:
   - text: A physical examination of the mouth.
   - text: Oral sex.
     example: I gave my boyfriend oral for the first time on his birthday.
+prev_word: oracy
+next_word: orang
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

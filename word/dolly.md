@@ -70,4 +70,15 @@ definitions:
   - text: To wash (laundry) in a tub using the stirring device called a dolly.
   - text: To beat (red-hot metal) with a hammer.
   - text: To crush ore with a dolly.
+prev_word: dolls
+next_word: dolma
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

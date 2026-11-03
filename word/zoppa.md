@@ -27,4 +27,15 @@ neighbours:
 - poppa
 - zoppo
 - zuppa
+prev_word: zooty
+next_word: zoppo
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

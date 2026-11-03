@@ -37,4 +37,15 @@ definitions:
       to think intellectually.
   - text: To fully and completely understand something in all of its details and intricacies.
     example: I finally grok Perl.
+prev_word: groin
+next_word: groma
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

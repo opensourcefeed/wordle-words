@@ -50,4 +50,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Called, named.
+prev_word: highs
+next_word: hijab
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

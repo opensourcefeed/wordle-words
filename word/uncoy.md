@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 64
 neighbours:
 - uncos
+prev_word: uncos
+next_word: uncus
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/oy/"
+  label: Ending in OY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

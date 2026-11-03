@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: Previously.
     example: The doctor had known three months prior.
+prev_word: prion
+next_word: prise
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

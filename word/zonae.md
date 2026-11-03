@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - neoza
 - ozena
+prev_word: zombi
+next_word: zonal
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

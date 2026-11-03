@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - aumil
 - miaul
+prev_word: mukti
+next_word: mulch
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

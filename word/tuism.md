@@ -24,4 +24,15 @@ anagrams:
 - muist
 - musit
 - mutis
+prev_word: tuina
+next_word: tuktu
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/sm/"
+  label: Ending in SM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

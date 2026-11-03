@@ -19,4 +19,13 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 98
+prev_word: voxes
+next_word: vraic
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

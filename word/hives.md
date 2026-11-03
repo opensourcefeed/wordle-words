@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: Itchy, swollen, red areas of the skin which can appear quickly in response
       to an allergen or due to other conditions.
+prev_word: hiver
+next_word: hizen
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -25,4 +25,15 @@ neighbours:
 - muggy
 - mulga
 - munga
+prev_word: mufti
+next_word: muggs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

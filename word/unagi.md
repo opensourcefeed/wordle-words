@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of sushi made from freshwater eel.
+prev_word: umras
+next_word: unais
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

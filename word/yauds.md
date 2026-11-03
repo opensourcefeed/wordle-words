@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _AUDS
   count: 7
+prev_word: yatra
+next_word: yauld
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

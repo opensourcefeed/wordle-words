@@ -33,4 +33,15 @@ neighbours:
 - nrtta
 anagrams:
 - tante
+prev_word: netop
+next_word: netts
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

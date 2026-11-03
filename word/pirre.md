@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - riper
 - prier
+prev_word: pirog
+next_word: pirri
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

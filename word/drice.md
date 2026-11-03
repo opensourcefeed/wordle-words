@@ -32,4 +32,15 @@ anagrams:
 - cried
 - dicer
 - riced
+prev_word: dribs
+next_word: dried
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

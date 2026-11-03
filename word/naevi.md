@@ -33,4 +33,13 @@ definitions:
   defs:
   - text: A pigmented, raised or otherwise abnormal area on the skin. Naevi may be
       congenital or acquired, and are always benign.
+prev_word: naeve
+next_word: naffs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

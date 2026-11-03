@@ -33,4 +33,13 @@ definitions:
   defs:
   - text: Extremely dry, lacking humidity and water.
   - text: Adapted to live in a very dry habitat.
+prev_word: xenon
+next_word: xerox
+hubs:
+- url: "/starting-with/x/"
+  label: Starting with X
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

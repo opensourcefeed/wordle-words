@@ -26,4 +26,15 @@ neighbours:
 - bizzy
 - muzzy
 - tizzy
+prev_word: mizes
+next_word: mmkay
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

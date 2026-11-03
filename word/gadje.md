@@ -25,4 +25,13 @@ neighbours:
 - gadge
 - gadjo
 - gauje
+prev_word: gadis
+next_word: gadjo
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

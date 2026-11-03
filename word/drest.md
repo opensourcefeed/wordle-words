@@ -28,4 +28,15 @@ neighbours:
 - drent
 - prest
 - trest
+prev_word: dress
+next_word: dreys
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

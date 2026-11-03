@@ -29,4 +29,15 @@ neighbours:
 - pronk
 - proot
 - prowk
+prev_word: proof
+next_word: proot
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ok/"
+  label: Ending in OK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

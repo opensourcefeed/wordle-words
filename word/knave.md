@@ -35,4 +35,15 @@ definitions:
   - text: Any male servant; a menial.
   - text: A tricky, deceitful fellow; a dishonest person.
   - text: A playing card marked with the figure of a servant or soldier; a jack.
+prev_word: knaur
+next_word: knawe
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

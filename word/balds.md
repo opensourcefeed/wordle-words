@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: BAL_S
   count: 7
+prev_word: balas
+next_word: baldy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

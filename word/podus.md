@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - doups
 - updos
+prev_word: podos
+next_word: poems
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

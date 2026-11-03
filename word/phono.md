@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A phonograph.
+prev_word: phone
+next_word: phons
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

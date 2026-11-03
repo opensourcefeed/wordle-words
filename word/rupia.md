@@ -22,4 +22,15 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 21
+prev_word: rupee
+next_word: rural
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

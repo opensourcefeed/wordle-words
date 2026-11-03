@@ -33,4 +33,15 @@ definitions:
 - pos: verb
   defs:
   - text: To fix again.
+prev_word: refit
+next_word: refly
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

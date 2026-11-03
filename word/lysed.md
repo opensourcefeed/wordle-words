@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: To burst or cut a cell or cell structure; to induce lysis.
   - text: To break down molecularly into smaller molecules; to induce lysis.
+prev_word: lyric
+next_word: lyses
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

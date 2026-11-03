@@ -34,4 +34,15 @@ definitions:
       traditionally served on Hanukkah.
     example: Her favorite Chanukah memories were of eating latkes and sour cream while
       her mother gossiped with the aunts and cousins.
+prev_word: lathy
+next_word: latte
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

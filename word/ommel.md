@@ -22,4 +22,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 56
+prev_word: omlah
+next_word: ommin
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/om/"
+  label: Starting with OM
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

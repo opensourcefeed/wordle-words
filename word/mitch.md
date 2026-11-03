@@ -48,4 +48,15 @@ definitions:
     example: John said he was going to mitch the last lesson today.
   - text: To grumble secretly.
   - text: To pretend poverty.
+prev_word: mitas
+next_word: miter
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

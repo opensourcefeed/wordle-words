@@ -53,4 +53,15 @@ definitions:
   - text: A person whose hobby is video games.
   - text: A person who games the system.
   - text: "(obsolete) A gambler"
+prev_word: gamed
+next_word: games
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

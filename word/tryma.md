@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 25
 neighbours:
 - trema
+prev_word: tryke
+next_word: tryps
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

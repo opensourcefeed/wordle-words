@@ -42,4 +42,15 @@ definitions:
   - text: An Irish maidservant.
   - text: "(by extension) An Irishwoman."
   - text: A name used in calling a hen or chicken, often as "biddy-biddy-biddy".
+prev_word: bicky
+next_word: bided
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -25,4 +25,15 @@ neighbours:
 - thews
 anagrams:
 - wythe
+prev_word: thews
+next_word: thick
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/wy/"
+  label: Ending in WY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

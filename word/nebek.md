@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 88
 neighbours:
 - nebel
+prev_word: nebby
+next_word: nebel
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

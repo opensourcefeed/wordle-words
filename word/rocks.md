@@ -113,4 +113,15 @@ definitions:
   - text: Testicles.
   - text: Crack cocaine.
     example: You seem a bit out of it lately, have you been smoking rocks again?
+prev_word: roche
+next_word: rocky
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

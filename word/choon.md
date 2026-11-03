@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A song or track, especially one that is catchy.
+prev_word: choom
+next_word: chops
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

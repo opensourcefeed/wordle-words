@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - cline
 - incel
+prev_word: incel
+next_word: incog
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

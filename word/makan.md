@@ -29,4 +29,15 @@ neighbours:
 - mikan
 anagrams:
 - namak
+prev_word: makai
+next_word: makar
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

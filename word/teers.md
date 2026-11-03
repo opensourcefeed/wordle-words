@@ -48,4 +48,15 @@ anagrams:
 trap:
   pattern: _EERS
   count: 10
+prev_word: teeny
+next_word: teeth
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ definitions:
   - text: "The second letter of the Aramaic alphabet, \U00010841"
   - text: The second letter of the Hebrew alphabet, ב
   - text: The second letter of the Syriac alphabet, ܒ
+prev_word: betes
+next_word: betid
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

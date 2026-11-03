@@ -25,4 +25,15 @@ anagrams:
 - adman
 - daman
 - namad
+prev_word: damme
+next_word: damns
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

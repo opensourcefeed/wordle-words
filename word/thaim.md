@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 40
 neighbours:
 - tharm
+prev_word: thagi
+next_word: thale
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

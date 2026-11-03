@@ -21,4 +21,11 @@ stats:
   starter_top_percent: 98
 neighbours:
 - ahuru
+prev_word: uhlan
+next_word: ukase
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

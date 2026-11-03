@@ -50,4 +50,15 @@ definitions:
   - text: To push against gently, especially in order to gain attention or give a
       signal.
   - text: To near or come close to something.
+prev_word: nudes
+next_word: nudgy
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

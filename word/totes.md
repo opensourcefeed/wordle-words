@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: A pari-mutuel machine; a totalizator.
   - text: Pari-mutuel betting.
+prev_word: toter
+next_word: totty
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

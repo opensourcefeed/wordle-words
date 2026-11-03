@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Originally, a fine textile fabric made of the hair of an Asiatic goat.
   - text: Any textile fabric to which a watered appearance is given.
+prev_word: moira
+next_word: moist
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -122,4 +122,15 @@ definitions:
 - pos: noun
   defs:
   - text: A post mortem (investigation of body's cause of death).
+prev_word: poste
+next_word: potae
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

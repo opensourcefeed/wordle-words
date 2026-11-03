@@ -57,4 +57,15 @@ definitions:
   - text: To inhale psychoactive inhalants.
   - text: "(draughts) To remove an opponent's piece as a forfeit for deliberately
       not taking a piece (often signalled by blowing on it)."
+prev_word: huers
+next_word: huffy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

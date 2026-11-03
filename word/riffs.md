@@ -54,4 +54,15 @@ definitions:
 - pos: noun
   defs:
   - text: The belly; the bowels.
+prev_word: rifer
+next_word: riffy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

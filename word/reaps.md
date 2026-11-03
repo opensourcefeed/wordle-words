@@ -65,4 +65,15 @@ definitions:
     example: Until a child process is reaped, it may be listed in the process table
       as a zombie or defunct process.
   - text: To deprive of the beard; to shave.
+prev_word: reans
+next_word: reard
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

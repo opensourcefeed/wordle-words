@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _ONDO
   count: 6
+prev_word: nonda
+next_word: nones
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

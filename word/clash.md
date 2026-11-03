@@ -70,4 +70,15 @@ definitions:
       it impossible to attend all."
     example: I can't come to your wedding because it clashes with a friend's funeral.
   - text: To chatter or gossip.
+prev_word: clary
+next_word: clasp
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

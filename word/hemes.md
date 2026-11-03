@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _EMES
   count: 7
+prev_word: hemal
+next_word: hemic
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

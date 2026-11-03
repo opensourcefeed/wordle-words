@@ -41,4 +41,15 @@ definitions:
 - pos: preposition
   defs:
   - text: Diagonally over or across.
+prev_word: atigi
+next_word: atimy
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

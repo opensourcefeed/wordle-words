@@ -30,4 +30,13 @@ anagrams:
 - rotes
 - tores
 - torse
+prev_word: oscar
+next_word: oseys
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/os/"
+  label: Starting with OS
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

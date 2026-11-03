@@ -24,4 +24,15 @@ neighbours:
 - linux
 anagrams:
 - ulmin
+prev_word: linty
+next_word: linux
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

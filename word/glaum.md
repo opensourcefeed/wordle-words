@@ -26,4 +26,15 @@ anagrams:
 - algum
 - almug
 - mulga
+prev_word: glatt
+next_word: glaur
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -29,4 +29,15 @@ anagrams:
 - preys
 - pryse
 - pyres
+prev_word: spyal
+next_word: squab
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

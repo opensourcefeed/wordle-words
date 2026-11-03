@@ -24,4 +24,13 @@ neighbours:
 - pygal
 anagrams:
 - glazy
+prev_word: zuzim
+next_word: zygon
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

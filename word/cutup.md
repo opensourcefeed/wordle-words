@@ -25,4 +25,15 @@ definitions:
   defs:
   - text: Someone who cuts up; someone who acts boisterously or clownishly, for example,
       by playing practical jokes.
+prev_word: cutty
+next_word: cuvee
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/up/"
+  label: Ending in UP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

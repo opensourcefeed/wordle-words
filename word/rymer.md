@@ -26,4 +26,15 @@ neighbours:
 - ryper
 anagrams:
 - merry
+prev_word: rykes
+next_word: rymme
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ry/"
+  label: Starting with RY
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

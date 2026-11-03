@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: A kind of zither, played like a guitar, used in the Middle Ages in church
       music.
+prev_word: rotan
+next_word: rotch
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

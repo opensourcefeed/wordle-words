@@ -36,4 +36,15 @@ definitions:
 - pos: verb
   defs:
   - text: To enclose (livestock) within a kraal or stockade.
+prev_word: koura
+next_word: krabs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

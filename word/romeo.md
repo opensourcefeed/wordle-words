@@ -27,4 +27,15 @@ neighbours:
 - roleo
 - romer
 - roneo
+prev_word: roman
+next_word: romer
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/eo/"
+  label: Ending in EO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: Any of various predatory seabirds of the family Stercorariidae that often
       chase other seabirds to steal their catches.
+prev_word: skroo
+next_word: skugs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

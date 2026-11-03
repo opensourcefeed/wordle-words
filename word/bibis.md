@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: Grandmother
+prev_word: bibes
+next_word: bible
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

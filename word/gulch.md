@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: To swallow greedily; to gulp down.
   - text: To fall heavily.
+prev_word: gulas
+next_word: gules
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

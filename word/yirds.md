@@ -28,4 +28,15 @@ neighbours:
 - yerds
 - yirks
 - yirrs
+prev_word: yippy
+next_word: yirks
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yi/"
+  label: Starting with YI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

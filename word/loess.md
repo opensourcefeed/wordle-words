@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any sediment, dominated by silt, of eolian (wind-blown) origin
+prev_word: lodge
+next_word: lofts
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

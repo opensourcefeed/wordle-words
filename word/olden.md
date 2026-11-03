@@ -36,4 +36,15 @@ definitions:
   - text: From or relating to a previous era.
     example: olden days, olden times
   - text: Old; ancient.
+prev_word: olate
+next_word: older
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

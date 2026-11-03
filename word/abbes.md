@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A French abbot, the (male) head of an abbey.
   - text: An honorific title for a member of the French clergy.
+prev_word: abbed
+next_word: abbey
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

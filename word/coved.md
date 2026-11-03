@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To brood, cover, over, or sit over, as birds their eggs.
+prev_word: couth
+next_word: coven
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

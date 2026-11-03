@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _ABLE
   count: 6
+prev_word: habit
+next_word: habus
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

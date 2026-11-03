@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Greek city-state.
+prev_word: polio
+next_word: polje
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -23,4 +23,15 @@ neighbours:
 - thaws
 - thawt
 - thewy
+prev_word: thawt
+next_word: thebe
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/wy/"
+  label: Ending in WY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

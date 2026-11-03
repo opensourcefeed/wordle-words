@@ -50,4 +50,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cook or season with curry powder.
+prev_word: currs
+next_word: curse
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

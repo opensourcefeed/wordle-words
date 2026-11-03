@@ -27,4 +27,15 @@ neighbours:
 - aware
 - owari
 - sware
+prev_word: ovule
+next_word: owari
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ow/"
+  label: Starting with OW
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -38,4 +38,15 @@ neighbours:
 anagrams:
 - koras
 - okras
+prev_word: karoo
+next_word: karri
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

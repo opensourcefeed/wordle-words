@@ -39,4 +39,15 @@ definitions:
 - pos: verb
   defs:
   - text: To perfume with incense.
+prev_word: celts
+next_word: cento
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

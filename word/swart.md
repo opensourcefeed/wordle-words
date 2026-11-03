@@ -53,4 +53,15 @@ definitions:
   - text: Of a dark hue; moderately black; swarthy; tawny.
   - text: Black.
   - text: Gloomy; malignant.
+prev_word: swarm
+next_word: swash
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

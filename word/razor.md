@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To shave with a razor.
+prev_word: razoo
+next_word: reach
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

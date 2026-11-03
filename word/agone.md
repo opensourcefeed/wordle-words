@@ -33,4 +33,15 @@ neighbours:
 - axone
 anagrams:
 - genoa
+prev_word: agogo
+next_word: agons
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

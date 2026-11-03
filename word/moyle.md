@@ -33,4 +33,15 @@ neighbours:
 - soyle
 anagrams:
 - moley
+prev_word: moyas
+next_word: moyls
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

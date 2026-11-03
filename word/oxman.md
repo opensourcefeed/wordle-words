@@ -24,4 +24,15 @@ stats:
 neighbours:
 - axman
 - oxmen
+prev_word: oxlip
+next_word: oxmen
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ox/"
+  label: Starting with OX
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

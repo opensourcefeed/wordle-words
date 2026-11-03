@@ -35,4 +35,15 @@ definitions:
       similar to laughter which they can make if excited.
   - text: "(Sub-Saharan Africa) A man that performs ritualized sex acts with recently
       widowed women and menarchal girls."
+prev_word: hydro
+next_word: hyens
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

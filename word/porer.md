@@ -39,4 +39,15 @@ anagrams:
 - prore
 - repro
 - roper
+prev_word: pored
+next_word: pores
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

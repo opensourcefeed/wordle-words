@@ -61,4 +61,15 @@ definitions:
     example: to whack the spoils of a robbery
   - text: To beat convincingly; to thrash.
   - text: "(usually in the negative) To surpass; to better."
+prev_word: wexes
+next_word: whale
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

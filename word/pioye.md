@@ -25,4 +25,15 @@ stats:
 neighbours:
 - pioys
 - ploye
+prev_word: pious
+next_word: pioys
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ye/"
+  label: Ending in YE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -36,4 +36,13 @@ definitions:
   defs:
   - text: A slender, reddish-yellow wild cat (Puma yagouaroundi eyra) ranging from
       southern Brazil to Texas.
+prev_word: eyots
+next_word: eyres
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -39,4 +39,15 @@ definitions:
   - text: Error, delusion
   - text: A sable or black color.
   - text: A heretic.
+prev_word: dwaal
+next_word: dwalm
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dw/"
+  label: Starting with DW
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

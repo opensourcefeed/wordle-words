@@ -39,4 +39,15 @@ definitions:
   - text: Covered in soap.
     example: His skin was still soapy after the shower.
   - text: Committing or involving flattery.
+prev_word: soaps
+next_word: soare
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

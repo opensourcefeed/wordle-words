@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: BAR_S
   count: 8
+prev_word: barky
+next_word: barmy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -82,4 +82,15 @@ definitions:
 - pos: noun
   defs:
   - text: Influenza, the flu.
+prev_word: gripe
+next_word: gript
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

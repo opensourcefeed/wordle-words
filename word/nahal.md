@@ -28,4 +28,15 @@ neighbours:
 - lahal
 - mahal
 - nawal
+prev_word: nagor
+next_word: naiad
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

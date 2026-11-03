@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - chime
 - hemic
+prev_word: micas
+next_word: michi
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

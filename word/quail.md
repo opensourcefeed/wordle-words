@@ -41,4 +41,15 @@ definitions:
   - text: To daunt or frighten (someone)
   - text: To lose heart or courage; to be daunted or fearful.
   - text: 'Of courage, faith, etc.: to slacken, to give way.'
+prev_word: quags
+next_word: quair
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

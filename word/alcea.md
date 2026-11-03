@@ -25,4 +25,15 @@ stats:
 neighbours:
 - alces
 - aldea
+prev_word: album
+next_word: alces
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

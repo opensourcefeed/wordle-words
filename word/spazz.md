@@ -35,4 +35,13 @@ definitions:
   defs:
   - text: To have a tantrum or fit.
   - text: To malfunction, go on the fritz.
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/zz/"
+  label: Ending in ZZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

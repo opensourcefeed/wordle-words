@@ -33,4 +33,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Slightly fat.
+prev_word: podge
+next_word: podia
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

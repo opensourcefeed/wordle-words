@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: An attractive woman.
     example: In her new dress she felt like the belle of the ball.
+prev_word: belit
+next_word: belli
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

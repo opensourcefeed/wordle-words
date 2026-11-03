@@ -57,4 +57,15 @@ definitions:
   - text: A thin slice of fat bacon used to cover any meat or game.
   - text: The exterior covering of the trunk and branches of a tree; the rind.
   - text: Specifically, Peruvian bark.
+prev_word: bardo
+next_word: bardy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -55,4 +55,15 @@ definitions:
   - text: To relax and enjoy oneself.
   - text: To agree.
   - text: To get along; to hit it off.
+prev_word: vibed
+next_word: vibex
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

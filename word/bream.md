@@ -42,4 +42,15 @@ definitions:
   - text: An American fresh-water fish, of various species of Lepomis and allied genera,
       which are also called sunfishes and pondfishes.
   - text: A marine sparoid fish of the genus Pagellus, and allied genera.
+prev_word: break
+next_word: brede
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

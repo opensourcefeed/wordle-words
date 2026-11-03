@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _OOEY
   count: 8
+prev_word: cooer
+next_word: coofs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -45,4 +45,15 @@ definitions:
   - text: A stripe, usually one of a set of parallel stripes.
   - text: One of the fillets between the flutes of columns, etc.
   - text: A stretch mark.
+prev_word: strew
+next_word: strig
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

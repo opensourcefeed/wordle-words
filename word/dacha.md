@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Russian villa or summer house in the countryside.
+prev_word: daces
+next_word: dacks
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

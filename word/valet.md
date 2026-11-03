@@ -52,4 +52,15 @@ definitions:
   - text: To serve (someone) as a valet.
   - text: To clean and service (a car), as a valet does.
   - text: To leave (a car) with a valet to park it.
+prev_word: vales
+next_word: valid
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

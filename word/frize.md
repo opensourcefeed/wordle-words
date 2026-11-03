@@ -30,4 +30,15 @@ neighbours:
 - frite
 - frizz
 - grize
+prev_word: fritz
+next_word: frizz
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

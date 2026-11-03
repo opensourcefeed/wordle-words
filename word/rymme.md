@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 60
+prev_word: rymer
+next_word: rynds
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ry/"
+  label: Starting with RY
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

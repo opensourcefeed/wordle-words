@@ -29,4 +29,15 @@ neighbours:
 - wormy
 anagrams:
 - morgy
+prev_word: gorms
+next_word: gorps
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -23,4 +23,13 @@ stats:
 neighbours:
 - thaws
 - thawy
+prev_word: thaws
+next_word: thawy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

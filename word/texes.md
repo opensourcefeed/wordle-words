@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _EXES
   count: 11
+prev_word: texas
+next_word: texta
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

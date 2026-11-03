@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - opera
 - pareo
+prev_word: popup
+next_word: poral
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

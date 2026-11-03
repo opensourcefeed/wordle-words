@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: "(of a cow, animal, etc.) Giving milk; in note"
   - text: Tender; pitiful; weeping.
+prev_word: mikva
+next_word: milds
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

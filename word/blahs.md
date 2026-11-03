@@ -42,4 +42,15 @@ definitions:
   - text: Nonsense; drivel; idle, meaningless talk.
   - text: "(in plural, the blahs) A general or ambiguous feeling of discomfort, dissatisfaction,
       uneasiness, boredom, mild depression, etc."
+prev_word: blags
+next_word: blain
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

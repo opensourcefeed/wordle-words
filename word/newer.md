@@ -65,4 +65,15 @@ definitions:
       I'm new at this business.
   - text: "(of a period of time) Next; about to begin or recently begun."
     example: We expect to grow at 10% annually in the new decade.
+prev_word: newel
+next_word: newie
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

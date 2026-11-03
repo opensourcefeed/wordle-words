@@ -25,4 +25,15 @@ definitions:
 - pos: noun
   defs:
   - text: Defensive armour for the thighs
+prev_word: cuing
+next_word: cuits
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

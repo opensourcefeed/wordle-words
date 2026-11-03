@@ -32,4 +32,15 @@ neighbours:
 - areal
 - areas
 - drear
+prev_word: areal
+next_word: areas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

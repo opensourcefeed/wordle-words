@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To hamstring.
+prev_word: houfs
+next_word: hound
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

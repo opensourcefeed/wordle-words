@@ -31,4 +31,15 @@ anagrams:
 trap:
   pattern: _ONDO
   count: 6
+prev_word: konbu
+next_word: konks
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

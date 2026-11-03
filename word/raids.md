@@ -64,4 +64,15 @@ definitions:
   - text: To lure from another; to entice away from.
   - text: To indulge oneself by taking from.
     example: I raided the fridge for snacks.
+prev_word: raias
+next_word: raike
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

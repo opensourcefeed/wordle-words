@@ -60,4 +60,15 @@ definitions:
       are included.
     example: An ideal triangle in the hyperbolic disk is one bounded by three geodesics
       that meet precisely on the circle.
+prev_word: iddut
+next_word: ideas
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/id/"
+  label: Starting with ID
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

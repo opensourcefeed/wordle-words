@@ -42,4 +42,15 @@ definitions:
   - text: To flutter; palpitate.
   - text: To hang loosely; flag.
   - text: To beat by flapping.
+prev_word: flabs
+next_word: flaff
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

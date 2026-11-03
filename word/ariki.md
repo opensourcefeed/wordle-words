@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 61
 neighbours:
 - briki
+prev_word: ariel
+next_word: arils
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ki/"
+  label: Ending in KI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

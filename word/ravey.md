@@ -38,4 +38,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Characteristic of rave music or culture.
+prev_word: raves
+next_word: ravin
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

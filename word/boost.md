@@ -52,4 +52,15 @@ definitions:
       vehicle to the battery in a vehicle that won't start.
   - text: To give a booster shot to.
   - text: To amplify; to signal boost.
+prev_word: boose
+next_word: booth
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

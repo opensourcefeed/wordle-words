@@ -59,4 +59,15 @@ definitions:
   defs:
   - text: Doubtful, troublesome; in poor condition
     example: He had a dicky heart.
+prev_word: dicht
+next_word: dicot
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

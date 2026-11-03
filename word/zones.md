@@ -83,4 +83,15 @@ definitions:
     example: Everyone just put their goddamn heads together and zoned. (Byron Coley,
       liner notes for the album "Piece for Jetsun Dolma" by Thurston Moore)
   - text: To girdle or encircle.
+prev_word: zoner
+next_word: zonks
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

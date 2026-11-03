@@ -39,4 +39,15 @@ definitions:
 - pos: verb
   defs:
   - text: To split, tear, break apart.
+prev_word: reist
+next_word: rejas
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

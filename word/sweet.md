@@ -97,4 +97,15 @@ definitions:
   defs:
   - text: Used as a positive response to good news or information.
     example: They're making a sequel? Ah, sweet!
+prev_word: swees
+next_word: sweir
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

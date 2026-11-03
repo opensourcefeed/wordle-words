@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _ORSE
   count: 8
+prev_word: zorro
+next_word: zouks
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -95,4 +95,15 @@ definitions:
   defs:
   - text: To produce tears.
     example: Her eyes began to tear in the harsh wind.
+prev_word: teams
+next_word: teary
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

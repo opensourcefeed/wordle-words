@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _EATS
   count: 11
+prev_word: geasa
+next_word: gebur
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

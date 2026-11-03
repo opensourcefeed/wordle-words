@@ -28,4 +28,15 @@ neighbours:
 - shaft
 - chaat
 - chapt
+prev_word: chaff
+next_word: chain
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -25,4 +25,15 @@ neighbours:
 - curly
 - curls
 - cursi
+prev_word: curio
+next_word: curls
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

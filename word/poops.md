@@ -70,4 +70,15 @@ definitions:
 - pos: noun
   defs:
   - text: A slothful person.
+prev_word: poopa
+next_word: poopy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

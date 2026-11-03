@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: Smelling or tasting of beer.
   - text: Under the influence of beer.
+prev_word: beers
+next_word: beets
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

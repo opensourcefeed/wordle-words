@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A medicine in a soft form taken by licking; a lambative, a linctus.
+prev_word: loche
+next_word: lochy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

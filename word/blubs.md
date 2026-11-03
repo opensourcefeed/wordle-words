@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: To cry, whine or blubber (usually carries a connotation of disapproval).
   - text: To swell; to puff out, as with weeping.
+prev_word: blowy
+next_word: blude
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

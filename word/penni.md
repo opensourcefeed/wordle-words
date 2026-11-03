@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A former Finnish currency unit, worth 1/100 of the markka.
+prev_word: penne
+next_word: penny
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ni/"
+  label: Ending in NI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

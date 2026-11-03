@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Having a hardness and severity of nature or manner.
   - text: Grim and forbidding in appearance.
+prev_word: stere
+next_word: stets
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: A woman, a girl.
     example: Tell that bint to get herself in here now!
+prev_word: binky
+next_word: biogs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

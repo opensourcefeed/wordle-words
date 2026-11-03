@@ -36,4 +36,13 @@ definitions:
       a row of tuned tabs that are plucked with the thumbs, originating among the
       Shona of southern Africa; any type of plucked lamellophone of the same type
       as the Shona instrument.
+prev_word: mbila
+next_word: mbret
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

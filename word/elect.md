@@ -42,4 +42,15 @@ definitions:
   - text: Who has been elected in a specified post, but has not yet entered office.
     example: He is the President elect.
   - text: Chosen; taken by preference from among two or more.
+prev_word: eldin
+next_word: eleet
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

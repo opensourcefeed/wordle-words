@@ -32,4 +32,15 @@ definitions:
   - text: A thorny evergreen shrub, with yellow flowers, Ulex gen. et spp., of which
       Ulex europaeus is particularly common upon the plains and hills of Great Britain
       and Ireland.
+prev_word: furth
+next_word: furzy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

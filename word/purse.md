@@ -58,4 +58,15 @@ definitions:
   - text: To draw up or contract into folds or wrinkles; to pucker; to knit.
   - text: To put into a purse.
   - text: To steal purses; to rob.
+prev_word: purry
+next_word: pursy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

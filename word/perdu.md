@@ -29,4 +29,15 @@ anagrams:
 - duper
 - pured
 - urped
+prev_word: percs
+next_word: perdy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/du/"
+  label: Ending in DU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

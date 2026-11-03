@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - meath
 - thema
+prev_word: matey
+next_word: maths
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -29,4 +29,15 @@ neighbours:
 - quare
 - quirl
 - quorl
+prev_word: quark
+next_word: quart
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

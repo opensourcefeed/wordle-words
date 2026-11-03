@@ -47,4 +47,15 @@ anagrams:
 trap:
   pattern: _EALS
   count: 14
+prev_word: veale
+next_word: vealy
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

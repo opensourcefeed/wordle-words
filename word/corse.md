@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: A (living) body.
   - text: A dead body, a corpse.
+prev_word: corps
+next_word: corso
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

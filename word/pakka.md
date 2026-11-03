@@ -28,4 +28,15 @@ neighbours:
 - patka
 - pukka
 - yakka
+prev_word: pakay
+next_word: pakki
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

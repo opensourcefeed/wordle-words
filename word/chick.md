@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To sprout, as seed does in the ground; to vegetate.
+prev_word: chich
+next_word: chico
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

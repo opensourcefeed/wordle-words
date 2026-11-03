@@ -71,4 +71,15 @@ definitions:
 - pos: noun
   defs:
   - text: An outburst of anger.
+prev_word: waxer
+next_word: wayed
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

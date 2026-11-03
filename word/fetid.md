@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Foul-smelling, stinking.
     example: I caught the fetid odor of dirty socks.
+prev_word: fetes
+next_word: fetor
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

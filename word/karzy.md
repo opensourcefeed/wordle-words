@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: 'An outhouse or lavatory: a place used for urination and defecation.'
   - text: 'A toilet: a fixture used for urination and defecation .'
+prev_word: karts
+next_word: kasha
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

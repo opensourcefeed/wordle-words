@@ -38,4 +38,15 @@ definitions:
       on his arms.
   - text: Sturdy; robust.
     example: The software slows down even a beefy computer.
+prev_word: beefs
+next_word: beeps
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

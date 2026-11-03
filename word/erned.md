@@ -28,4 +28,15 @@ neighbours:
 - urned
 anagrams:
 - ender
+prev_word: ering
+next_word: ernes
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

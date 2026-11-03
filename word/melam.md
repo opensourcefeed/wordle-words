@@ -27,4 +27,15 @@ neighbours:
 - melas
 anagrams:
 - lemma
+prev_word: mekka
+next_word: melas
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

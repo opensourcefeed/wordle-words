@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To hunt for finches, to go finching.
+prev_word: finca
+next_word: finds
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

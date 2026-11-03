@@ -29,4 +29,15 @@ neighbours:
 - wroot
 anagrams:
 - howto
+prev_word: whoop
+next_word: whops
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

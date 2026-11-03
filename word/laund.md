@@ -25,4 +25,15 @@ neighbours:
 - maund
 anagrams:
 - ulnad
+prev_word: laugh
+next_word: laura
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

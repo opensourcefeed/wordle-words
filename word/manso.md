@@ -33,4 +33,15 @@ anagrams:
 - monas
 - nomas
 - soman
+prev_word: manse
+next_word: manta
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

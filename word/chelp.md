@@ -26,4 +26,13 @@ neighbours:
 - chela
 anagrams:
 - pelch
+prev_word: chela
+next_word: chemo
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -62,4 +62,15 @@ definitions:
   - text: Free-for-all, especially involving multiple combatants.
   - text: Used as an intensifier.
     example: a royal pain in the neck
+prev_word: rowts
+next_word: royet
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

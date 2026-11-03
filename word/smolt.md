@@ -36,4 +36,15 @@ definitions:
   - text: Bright; serene.
   - text: "(of weather) Calm; fine; fair."
   - text: Smooth and shining.
+prev_word: smoky
+next_word: smoor
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

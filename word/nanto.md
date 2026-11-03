@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(among Aboriginals) A horse."
+prev_word: nanti
+next_word: nants
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

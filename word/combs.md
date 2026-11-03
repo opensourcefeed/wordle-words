@@ -82,4 +82,15 @@ definitions:
   defs:
   - text: A valley, often wooded and often with no river
   - text: A cirque.
+prev_word: combo
+next_word: comby
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

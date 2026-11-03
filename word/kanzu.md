@@ -25,4 +25,13 @@ definitions:
 - pos: noun
   defs:
   - text: A white or cream-coloured robe worn by men in the African Great Lakes region.
+prev_word: kants
+next_word: kaons
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

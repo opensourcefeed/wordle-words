@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - loris
 - roils
+prev_word: loipe
+next_word: lokes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

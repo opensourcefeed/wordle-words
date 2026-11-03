@@ -24,4 +24,15 @@ stats:
 neighbours:
 - latch
 - lotah
+prev_word: lasts
+next_word: latch
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

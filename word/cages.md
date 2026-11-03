@@ -54,4 +54,15 @@ definitions:
   - text: The drum on which the rope is wound in a hoisting whim.
   - text: The catcher's wire mask.
   - text: A regular graph that has as few vertices as possible for its girth.
+prev_word: cager
+next_word: cagey
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

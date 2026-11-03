@@ -49,4 +49,15 @@ definitions:
       his pinstripe suit.
   - text: To collect by plunder.
     example: to prowl money
+prev_word: prowk
+next_word: prows
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/wl/"
+  label: Ending in WL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

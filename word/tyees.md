@@ -29,4 +29,15 @@ neighbours:
 - tynes
 - types
 - tyres
+prev_word: twyer
+next_word: tyers
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

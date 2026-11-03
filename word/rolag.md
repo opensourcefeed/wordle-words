@@ -27,4 +27,15 @@ anagrams:
 - argol
 - goral
 - largo
+prev_word: rokos
+next_word: roleo
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ag/"
+  label: Ending in AG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

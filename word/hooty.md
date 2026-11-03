@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _OOTY
   count: 8
+prev_word: hoots
+next_word: hoove
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: Nasty, dirty, disgusting, foul, revolting, yucky, grotesque.
     example: I wouldn't set foot in that bar; the floor looks grody.
+prev_word: groat
+next_word: grogs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

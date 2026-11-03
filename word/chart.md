@@ -58,4 +58,15 @@ definitions:
   - text: To record systematically.
   - text: "(of a record or artist) To appear on a hit-recording chart."
     example: The band first charted in 1994.
+prev_word: chars
+next_word: chary
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

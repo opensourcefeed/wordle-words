@@ -38,4 +38,15 @@ definitions:
   - text: Abounding with snow; snowy; snow-covered (now especially in reference to
       plant habitats).
   - text: Found or thriving in snowy conditions.
+prev_word: nitty
+next_word: nivas
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

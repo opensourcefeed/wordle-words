@@ -70,4 +70,15 @@ definitions:
     example: The paint is still wet — don't touch it or it will smear.
   - text: To climb without using footholds, using the friction from the shoe to stay
       on the wall.
+prev_word: smaze
+next_word: smeek
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

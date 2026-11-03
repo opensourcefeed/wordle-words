@@ -33,4 +33,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Irritated, in a bad mood; disparaging.
+prev_word: narks
+next_word: narod
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

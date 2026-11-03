@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Any of a class of proteins that cross cellular membranes and act as pores
       through which small molecules can diffuse
+prev_word: porgy
+next_word: porks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

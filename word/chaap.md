@@ -25,4 +25,15 @@ neighbours:
 - chaat
 anagrams:
 - pacha
+prev_word: cezve
+next_word: chaat
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ap/"
+  label: Ending in AP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

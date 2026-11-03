@@ -36,4 +36,15 @@ anagrams:
 - cures
 - ecrus
 - sucre
+prev_word: cruel
+next_word: cruet
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

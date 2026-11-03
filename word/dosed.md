@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _OSED
   count: 9
+prev_word: dosas
+next_word: doseh
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

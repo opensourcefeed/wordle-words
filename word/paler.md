@@ -54,4 +54,15 @@ definitions:
     example: His face turned pale after hearing about his mother's death.
   - text: Feeble, faint.
     example: He is but a pale shadow of his former self.
+prev_word: paled
+next_word: pales
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

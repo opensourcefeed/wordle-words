@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: _UNCH
   count: 7
+prev_word: runce
+next_word: runds
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

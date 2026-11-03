@@ -31,4 +31,15 @@ definitions:
   - text: A group of six.
   - text: An element or radical with the combining power of six units, i.e. six atoms
       of hydrogen.
+prev_word: hewgh
+next_word: hexed
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

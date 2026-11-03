@@ -25,4 +25,15 @@ neighbours:
 - think
 - thill
 - whilk
+prev_word: thigs
+next_word: thill
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/lk/"
+  label: Ending in LK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

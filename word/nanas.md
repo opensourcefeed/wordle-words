@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: "(term of endearment) one's grandmother"
   - text: A nanny
+prev_word: namus
+next_word: nance
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

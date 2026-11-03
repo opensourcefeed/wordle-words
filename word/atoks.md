@@ -29,4 +29,15 @@ neighbours:
 - atoms
 anagrams:
 - oktas
+prev_word: atoke
+next_word: atoll
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

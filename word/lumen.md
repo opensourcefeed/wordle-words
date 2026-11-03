@@ -35,4 +35,15 @@ definitions:
   - text: The cavity or channel within a tube or tubular organ.
   - text: The cavity bounded by a plant cell wall.
   - text: The bore of a tube such as a hollow needle or catheter.
+prev_word: lumbi
+next_word: lumme
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

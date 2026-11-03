@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _OOKY
   count: 10
+prev_word: cooks
+next_word: cools
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

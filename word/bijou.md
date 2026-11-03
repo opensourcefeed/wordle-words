@@ -32,4 +32,15 @@ definitions:
   - text: A jewel.
   - text: A piece of jewelry; a trinket.
   - text: A small intricate piece of metalwork.
+prev_word: bihon
+next_word: biked
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ou/"
+  label: Ending in OU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

@@ -27,4 +27,15 @@ neighbours:
 - goris
 - kojis
 - rojis
+prev_word: going
+next_word: gokes
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

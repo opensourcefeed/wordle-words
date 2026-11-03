@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A mold or matrix in which anything is cast or formed to a particular shape.
   - text: Protoplasm
+prev_word: plash
+next_word: plast
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/sm/"
+  label: Ending in SM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

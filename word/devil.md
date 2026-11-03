@@ -68,4 +68,15 @@ definitions:
   - text: To annoy or bother.
   - text: To work as a ‘devil’; to work for a lawyer or writer without fee or recognition.
   - text: 'To prepare (food) with spices, making it spicy:'
+prev_word: devel
+next_word: devis
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

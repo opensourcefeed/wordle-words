@@ -43,4 +43,15 @@ definitions:
   - text: An elegantly dressed person.
   - text: A person of the upper class, or with pretensions to it, who usually communicates
       an air of superiority.
+prev_word: toeas
+next_word: toffy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

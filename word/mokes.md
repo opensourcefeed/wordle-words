@@ -49,4 +49,15 @@ definitions:
   - text: A stupid person; a dolt.
   - text: "(theatrical slang) A performer, such as a minstrel, who plays on several
       musical instruments."
+prev_word: moker
+next_word: mokey
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -39,4 +39,15 @@ definitions:
   - text: Resembling limes (the fruit); lime-like.
   - text: Of, or pertaining to, limes (the fruit).
     example: This drink is full of limey goodness.
+prev_word: limes
+next_word: limit
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

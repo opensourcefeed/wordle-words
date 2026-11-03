@@ -50,4 +50,15 @@ definitions:
   - text: A male boar (sense 1).
   - text: A male bear.
   - text: A male guinea pig.
+prev_word: board
+next_word: boart
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

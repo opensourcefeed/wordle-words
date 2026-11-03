@@ -24,4 +24,15 @@ neighbours:
 - daman
 - saman
 - zaman
+prev_word: calyx
+next_word: camas
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

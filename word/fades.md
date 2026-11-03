@@ -62,4 +62,15 @@ definitions:
     example: The milkman's whistling faded into the distance.
   - text: To cause to fade.
   - text: To bet against.
+prev_word: fader
+next_word: fadge
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: To serve as an administrator for or of.
+prev_word: admen
+next_word: admit
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

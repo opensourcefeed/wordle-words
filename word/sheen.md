@@ -42,4 +42,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Beautiful, good-looking, attractive; radiant; shiny.
+prev_word: sheel
+next_word: sheep
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

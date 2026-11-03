@@ -24,4 +24,15 @@ stats:
 neighbours:
 - fugie
 - fugis
+prev_word: fugie
+next_word: fugis
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/io/"
+  label: Ending in IO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

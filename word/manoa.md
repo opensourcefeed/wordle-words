@@ -30,4 +30,13 @@ neighbours:
 - manta
 anagrams:
 - moana
+prev_word: manny
+next_word: manor
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _AINS
   count: 12
+prev_word: kaing
+next_word: kajal
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

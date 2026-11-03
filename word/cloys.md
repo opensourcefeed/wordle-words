@@ -42,4 +42,15 @@ definitions:
   - text: To fill up or choke up; to stop up.
   - text: To clog, to glut, or satisfy, as the appetite; to satiate.
   - text: To fill to loathing; to surfeit.
+prev_word: cloye
+next_word: cloze
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

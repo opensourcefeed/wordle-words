@@ -56,4 +56,15 @@ definitions:
   - text: To cause to fight; to manage or manoeuvre in a fight.
     example: to fight cocks; to fight one's ship
   - text: 'Of colours or other design elements: to clash; to fail to harmonize.'
+prev_word: figgy
+next_word: figos
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

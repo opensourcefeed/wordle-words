@@ -68,4 +68,15 @@ definitions:
 - pos: verb
   defs:
   - text: To choose, select.
+prev_word: waler
+next_word: walie
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

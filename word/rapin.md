@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - panir
 - prian
+prev_word: rapid
+next_word: rappe
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

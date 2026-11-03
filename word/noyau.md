@@ -32,4 +32,15 @@ definitions:
       flavoured with almonds and the pits of apricots since the early nineteenth century.
   - text: A social structure where individual animals live alone, but each male's
       territory overlaps with those of several females.
+prev_word: noxes
+next_word: noyed
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/au/"
+  label: Ending in AU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

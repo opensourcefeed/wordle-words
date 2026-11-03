@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: An Anglo-Saxon churl.
+prev_word: centu
+next_word: cepes
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

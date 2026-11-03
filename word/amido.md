@@ -29,4 +29,15 @@ neighbours:
 - amino
 - azido
 - imido
+prev_word: amide
+next_word: amids
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

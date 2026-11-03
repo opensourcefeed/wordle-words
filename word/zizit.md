@@ -22,4 +22,15 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 100
+prev_word: zizel
+next_word: zlote
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

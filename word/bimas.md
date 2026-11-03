@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: The raised platform in the front of a synagogue where the Torah is read
       on a podium.
+prev_word: bimah
+next_word: bimbo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

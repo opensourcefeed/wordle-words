@@ -31,4 +31,15 @@ neighbours:
 - batta
 - hasta
 - rasta
+prev_word: bassy
+next_word: baste
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

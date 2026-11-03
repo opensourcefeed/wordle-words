@@ -52,4 +52,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Yankee.
+prev_word: yangs
+next_word: yapok
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

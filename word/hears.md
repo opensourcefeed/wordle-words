@@ -62,4 +62,15 @@ definitions:
     example: Your case will be heard at the end of the month.
   - text: To sympathize with; to understand the feelings or opinion of.
     example: You're tired of all the ads on TV? I hear ya.
+prev_word: heare
+next_word: heart
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

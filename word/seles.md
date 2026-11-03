@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _ELES
   count: 7
+prev_word: selah
+next_word: selfs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -23,4 +23,13 @@ neighbours:
 - mirin
 - mirks
 - mirky
+prev_word: mirin
+next_word: mirks
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

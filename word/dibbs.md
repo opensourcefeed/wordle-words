@@ -25,4 +25,15 @@ neighbours:
 - diebs
 - jibbs
 - sibbs
+prev_word: diazo
+next_word: diced
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

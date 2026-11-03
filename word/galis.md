@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ALIS
   count: 8
+prev_word: galia
+next_word: galls
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

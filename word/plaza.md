@@ -36,4 +36,15 @@ definitions:
   - text: An open area used for gathering in a city, often having small trees and
       sitting benches.
   - text: A strip mall.
+prev_word: plays
+next_word: plead
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

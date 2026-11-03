@@ -22,4 +22,11 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 100
+prev_word: qaids
+next_word: qanat
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/ending-with/q/"
+  label: Ending in Q
 ---

@@ -26,4 +26,13 @@ neighbours:
 - wring
 - ering
 - pring
+prev_word: irids
+next_word: irked
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

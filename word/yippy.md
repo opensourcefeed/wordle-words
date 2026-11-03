@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _IPPY
   count: 11
+prev_word: yipes
+next_word: yirds
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yi/"
+  label: Starting with YI
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -57,4 +57,15 @@ definitions:
 - pos: verb
   defs:
   - text: To kill with a missile fired by unmanned aircraft.
+prev_word: drome
+next_word: drony
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

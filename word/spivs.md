@@ -38,4 +38,15 @@ definitions:
   - text: A flashy con artist, often homeless, who lives by his wits.
   - text: In Scotland Yard usage, a low and common thief.
   - text: A slacker; one who shirks responsibility.
+prev_word: spitz
+next_word: splat
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/vs/"
+  label: Ending in VS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

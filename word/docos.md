@@ -50,4 +50,15 @@ definitions:
       program.
   - text: Comments that explain the usage of individual functions, libraries and blocks
       of code.
+prev_word: docks
+next_word: docus
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

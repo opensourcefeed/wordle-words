@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 74
 neighbours:
 - nexus
+prev_word: nexts
+next_word: nexus
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

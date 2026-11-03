@@ -53,4 +53,15 @@ definitions:
       force, or efficacy sufficient to accomplish the object.
     example: Medicines will not avail to halt the disease.
   - text: To provide; to make available.
+prev_word: auxin
+next_word: avale
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/av/"
+  label: Starting with AV
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -33,4 +33,15 @@ definitions:
   - text: One of the granular masses which constitute a racemose or compound gland,
       as the pancreas; also, one of the saccular recesses in the lobules of a racemose
       gland.
+prev_word: acing
+next_word: ackee
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/ni/"
+  label: Ending in NI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

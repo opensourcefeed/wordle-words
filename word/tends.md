@@ -64,4 +64,15 @@ definitions:
 - pos: verb
   defs:
   - text: To kindle; ignite; set on fire; light; inflame; burn.
+prev_word: tench
+next_word: tendu
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

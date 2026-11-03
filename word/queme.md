@@ -26,4 +26,15 @@ neighbours:
 - quete
 anagrams:
 - queem
+prev_word: quell
+next_word: quena
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

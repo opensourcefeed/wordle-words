@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make an unsuccessful effort to vomit; to strain, as in vomiting.
+prev_word: retax
+next_word: retem
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

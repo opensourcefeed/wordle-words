@@ -33,4 +33,15 @@ anagrams:
 - irone
 - norie
 - rione
+prev_word: noint
+next_word: noirs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

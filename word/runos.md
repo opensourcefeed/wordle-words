@@ -29,4 +29,15 @@ neighbours:
 - runts
 anagrams:
 - urson
+prev_word: runny
+next_word: runts
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

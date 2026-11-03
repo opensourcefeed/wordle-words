@@ -32,4 +32,15 @@ definitions:
   - text: To discharge through pores or incisions, as moisture or other liquid matter;
       to give out.
   - text: To flow out through the pores.
+prev_word: extra
+next_word: exuls
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

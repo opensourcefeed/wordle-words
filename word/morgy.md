@@ -25,4 +25,15 @@ neighbours:
 - porgy
 anagrams:
 - gormy
+prev_word: mores
+next_word: moria
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

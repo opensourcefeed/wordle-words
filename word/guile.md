@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To deceive, beguile, bewile.
+prev_word: guild
+next_word: guilt
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

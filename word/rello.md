@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A relative.
+prev_word: relit
+next_word: relos
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

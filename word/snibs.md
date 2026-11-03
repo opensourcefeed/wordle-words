@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A latch or fastening for a door, window etc.
   - text: A reprimand; a snub.
+prev_word: snell
+next_word: snick
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -33,4 +33,15 @@ neighbours:
 - vivos
 anagrams:
 - voids
+prev_word: divna
+next_word: divot
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

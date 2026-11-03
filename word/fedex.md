@@ -20,4 +20,15 @@ stats:
   - X
   starter_tier: Weak
   starter_top_percent: 98
+prev_word: fedai
+next_word: feebs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

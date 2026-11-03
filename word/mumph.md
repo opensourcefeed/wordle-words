@@ -23,4 +23,15 @@ neighbours:
 - bumph
 - mumps
 - sumph
+prev_word: mummy
+next_word: mumps
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ph/"
+  label: Ending in PH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

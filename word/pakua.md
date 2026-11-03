@@ -23,4 +23,15 @@ stats:
 neighbours:
 - pakka
 - pakul
+prev_word: pakki
+next_word: pakul
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ua/"
+  label: Ending in UA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

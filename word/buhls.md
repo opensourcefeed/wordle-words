@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - blush
 - shlub
+prev_word: bugle
+next_word: buhrs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

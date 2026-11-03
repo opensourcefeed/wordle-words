@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _AGER
   count: 10
+prev_word: caged
+next_word: cages
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

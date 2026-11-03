@@ -26,4 +26,15 @@ neighbours:
 - ouens
 anagrams:
 - douse
+prev_word: oucht
+next_word: ouens
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

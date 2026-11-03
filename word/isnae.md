@@ -25,4 +25,13 @@ stats:
 anagrams:
 - anise
 - saine
+prev_word: islet
+next_word: issei
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

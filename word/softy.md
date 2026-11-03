@@ -32,4 +32,15 @@ definitions:
   - text: Somebody who finds it difficult to scold or punish.
   - text: A software expert who is ignorant of the workings of hardware.
   - text: A soft drink containing no alcohol.
+prev_word: softs
+next_word: soger
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

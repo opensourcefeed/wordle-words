@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: The dried kernel of the coconut, from which coconut oil is extruded.
+prev_word: coppy
+next_word: copse
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

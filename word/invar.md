@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: An alloy of iron containing 35.5% nickel, and having a very low coefficient
       of expansion.
+prev_word: inust
+next_word: inver
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

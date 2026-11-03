@@ -23,4 +23,15 @@ stats:
 neighbours:
 - arbas
 - arrah
+prev_word: arars
+next_word: arbas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

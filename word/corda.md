@@ -27,4 +27,15 @@ neighbours:
 - sorda
 anagrams:
 - draco
+prev_word: corby
+next_word: cords
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

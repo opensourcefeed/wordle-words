@@ -30,4 +30,15 @@ neighbours:
 - coopt
 anagrams:
 - capot
+prev_word: coaly
+next_word: coarb
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

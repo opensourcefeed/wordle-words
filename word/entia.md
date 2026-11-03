@@ -27,4 +27,15 @@ anagrams:
 - eatin
 - tenia
 - tinea
+prev_word: enter
+next_word: entre
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

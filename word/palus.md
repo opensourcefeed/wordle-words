@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: PAL_S
   count: 7
+prev_word: palsy
+next_word: pamby
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

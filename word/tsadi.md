@@ -27,4 +27,13 @@ anagrams:
 - staid
 - adits
 - ditas
+prev_word: tsade
+next_word: tsars
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/ending-with/di/"
+  label: Ending in DI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

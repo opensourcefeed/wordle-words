@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - fatso
 - softa
+prev_word: after
+next_word: again
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

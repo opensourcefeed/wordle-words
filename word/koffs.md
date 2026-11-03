@@ -31,4 +31,15 @@ anagrams:
 trap:
   pattern: _OFFS
   count: 6
+prev_word: koels
+next_word: kofta
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

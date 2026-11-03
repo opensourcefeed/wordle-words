@@ -48,4 +48,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having winglike extensions or parts; winged.
+prev_word: alata
+next_word: alays
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

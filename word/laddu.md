@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A ball-shaped sweet made with flour and sugar, popular in the Indian subcontinent.
+prev_word: lacky
+next_word: laddy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/du/"
+  label: Ending in DU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

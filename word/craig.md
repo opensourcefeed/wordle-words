@@ -25,4 +25,15 @@ neighbours:
 - craic
 anagrams:
 - cigar
+prev_word: craic
+next_word: crake
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ig/"
+  label: Ending in IG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A door or partition consisting of a wooden frame covered in rice paper.
+prev_word: shogs
+next_word: shojo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ji/"
+  label: Ending in JI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

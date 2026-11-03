@@ -29,4 +29,15 @@ neighbours:
 - noise
 - poise
 - toise
+prev_word: hoing
+next_word: hoist
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

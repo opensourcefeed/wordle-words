@@ -42,4 +42,15 @@ definitions:
 - pos: adjective
   defs:
   - text: In the form of a dome.
+prev_word: domal
+next_word: domes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

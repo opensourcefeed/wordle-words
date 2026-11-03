@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: PE_TS
   count: 6
+prev_word: pecky
+next_word: pedal
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: A handrail fixed to a wall used for ballet exercises.
   - text: Short for barre chord.
+prev_word: barra
+next_word: barro
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

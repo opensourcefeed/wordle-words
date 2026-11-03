@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: A musical piece written typically for a solo voice with orchestral accompaniment
       in an opera or cantata.
+prev_word: arhat
+next_word: ariel
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

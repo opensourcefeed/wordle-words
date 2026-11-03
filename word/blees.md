@@ -33,4 +33,15 @@ neighbours:
 - brees
 - flees
 - glees
+prev_word: bleep
+next_word: blend
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -29,4 +29,15 @@ neighbours:
 - talma
 - tappa
 - tulpa
+prev_word: talon
+next_word: taluk
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

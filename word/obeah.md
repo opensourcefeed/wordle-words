@@ -37,4 +37,15 @@ definitions:
 - pos: verb
   defs:
   - text: To bewitch using this kind of folk magic.
+prev_word: obbos
+next_word: obeli
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ob/"
+  label: Starting with OB
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

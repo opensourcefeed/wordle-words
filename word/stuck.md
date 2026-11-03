@@ -74,4 +74,15 @@ definitions:
     example: I’m totally stuck on this question in the test.
   - text: No longer functioning, frozen up, frozen.
     example: There are several ways to close a stuck program.
+prev_word: stubs
+next_word: stucs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -33,4 +33,15 @@ anagrams:
 - splat
 - plats
 - spalt
+prev_word: plasm
+next_word: plate
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

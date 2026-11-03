@@ -28,4 +28,15 @@ neighbours:
 - muzak
 anagrams:
 - zamak
+prev_word: mazac
+next_word: mazar
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

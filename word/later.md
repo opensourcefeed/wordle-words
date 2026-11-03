@@ -89,4 +89,15 @@ definitions:
   defs:
   - text: See you later; goodbye.
     example: Later, dude.
+prev_word: laten
+next_word: latex
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

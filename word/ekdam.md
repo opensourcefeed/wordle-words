@@ -20,4 +20,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 44
+prev_word: ejido
+next_word: eking
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

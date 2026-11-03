@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: Tobacco.
+prev_word: bacco
+next_word: bacha
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

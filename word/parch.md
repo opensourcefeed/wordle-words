@@ -48,4 +48,15 @@ definitions:
   - text: To become superficially burnt; be become sunburned.
     example: The locals watched, amused, as the tourists parched in the sun, having
       neglected to apply sunscreen or bring water.
+prev_word: paras
+next_word: parcs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

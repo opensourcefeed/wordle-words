@@ -42,4 +42,15 @@ definitions:
       as if it were a verb.
   - text: "(used as a neutral, unspecific verb) To perform any action that is normally
       expressed by a verb."
+prev_word: verba
+next_word: verde
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

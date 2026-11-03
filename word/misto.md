@@ -34,4 +34,15 @@ anagrams:
 - moits
 - motis
 - omits
+prev_word: missy
+next_word: mists
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

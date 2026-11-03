@@ -34,4 +34,15 @@ neighbours:
 - hiver
 - hoper
 - wiper
+prev_word: hiped
+next_word: hipes
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -31,4 +31,15 @@ definitions:
   - text: An unhealthy vapor or atmosphere; a miasma.
   - text: A predisposition to a particular disease, which interferes with subsequent
       treatment of it.
+prev_word: miaow
+next_word: miaul
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/sm/"
+  label: Ending in SM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

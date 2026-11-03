@@ -26,4 +26,15 @@ neighbours:
 - haiku
 - kaika
 - laika
+prev_word: haick
+next_word: haiks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

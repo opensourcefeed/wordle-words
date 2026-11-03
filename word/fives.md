@@ -60,4 +60,15 @@ definitions:
   - text: A ball game, somewhat like tennis, played against a wall.
   - text: A pair of fives.
   - text: The cells located on the fourth floor.
+prev_word: fiver
+next_word: fixed
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

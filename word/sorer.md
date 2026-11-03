@@ -55,4 +55,15 @@ definitions:
   - text: Feeling animosity towards someone; annoyed or angered.
     example: Joe was sore at Bob for beating him at checkers.
   - text: Criminal; wrong; evil.
+prev_word: sorel
+next_word: sores
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

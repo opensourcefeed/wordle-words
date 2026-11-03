@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Short for locum tenens.
+prev_word: locos
+next_word: locus
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Charged or sprinkled with drops.
+prev_word: gutta
+next_word: guyed
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

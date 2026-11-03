@@ -65,4 +65,15 @@ definitions:
   defs:
   - text: "(now chiefly) A twig or stick."
   - text: A bobbin or spool.
+prev_word: ricer
+next_word: ricey
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

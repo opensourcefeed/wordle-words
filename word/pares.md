@@ -63,4 +63,15 @@ definitions:
     example: Albert had to pare his options down by disregarding anything beyond his
       meager budget.
   - text: To trim the hoof of a horse
+prev_word: parer
+next_word: pareu
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

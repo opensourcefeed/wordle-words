@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _OTCH
   count: 8
+prev_word: gosse
+next_word: goths
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

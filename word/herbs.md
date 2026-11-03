@@ -47,4 +47,15 @@ definitions:
   - text: A plant whose stem is not woody and does not persist beyond each growing
       season
   - text: Grass; herbage.
+prev_word: hepar
+next_word: herby
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

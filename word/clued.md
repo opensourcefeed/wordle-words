@@ -40,4 +40,15 @@ definitions:
   - text: To provide someone with information which he or she lacks (often used with
       "in" or "up").
     example: Smith, clue Jones in on what's been happening.
+prev_word: cluck
+next_word: clues
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

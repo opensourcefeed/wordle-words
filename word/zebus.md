@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A domesticated ox native to Asia and Africa, having a large fleshy hump
       on its back and a dewlap (Bos primigenius indicus).
+prev_word: zebub
+next_word: zedas
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/ze/"
+  label: Starting with ZE
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

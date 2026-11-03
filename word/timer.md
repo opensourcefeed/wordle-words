@@ -50,4 +50,15 @@ definitions:
   - text: A device used to measure amounts of time.
   - text: Any electronic function that causes a device to be able to do something
       automatically after a preset amount of time.
+prev_word: timed
+next_word: times
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

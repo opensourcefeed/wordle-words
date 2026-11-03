@@ -53,4 +53,15 @@ definitions:
     example: By the end of his fourth year of weight-lifting, Lee was yoked.
   - text: Married.
     example: They got yoked four years ago.
+prev_word: yokan
+next_word: yokeg
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

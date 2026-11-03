@@ -29,4 +29,13 @@ definitions:
   defs:
   - text: An Indian dessert made from sweetened, condensed milk flavoured with fruit
       and spices.
+prev_word: buret
+next_word: burgh
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

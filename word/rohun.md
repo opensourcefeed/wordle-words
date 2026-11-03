@@ -23,4 +23,15 @@ stats:
 neighbours:
 - rohan
 - rohus
+prev_word: rohes
+next_word: rohus
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

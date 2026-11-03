@@ -34,4 +34,15 @@ definitions:
   - text: To map again.
     example: Because the topography and development of the land changed so much in
       the floods, the region had to be remapped.
+prev_word: reman
+next_word: remen
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ap/"
+  label: Ending in AP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

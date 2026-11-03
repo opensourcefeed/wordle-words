@@ -48,4 +48,15 @@ definitions:
   - text: One who is catching up in some contest and has a likelihood of victory.
   - text: One who arrives.
     example: The champ will face all comers.
+prev_word: comby
+next_word: comes
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

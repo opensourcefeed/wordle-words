@@ -36,4 +36,15 @@ definitions:
   - text: "(by extension) Vaudeville or similar miscellaneous musical or theatrical
       entertainment skits presented between the main acts of burlesque or minstrel
       shows."
+prev_word: oligo
+next_word: oliva
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

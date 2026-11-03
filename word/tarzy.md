@@ -26,4 +26,15 @@ neighbours:
 - karzy
 - tarry
 - tarty
+prev_word: tarty
+next_word: tasar
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

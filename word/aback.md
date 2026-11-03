@@ -38,4 +38,15 @@ definitions:
   - text: By surprise; startled; dumbfounded. (see usage)
   - text: Backward against the mast; said of the sails when pressed by the wind from
       the "wrong" (forward) side, or of a ship when its sails are set that way.
+prev_word: abaci
+next_word: abacs
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

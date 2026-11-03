@@ -25,4 +25,15 @@ neighbours:
 - yukes
 anagrams:
 - youks
+prev_word: yukky
+next_word: yulan
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

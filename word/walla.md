@@ -27,4 +27,15 @@ neighbours:
 - palla
 - walls
 - wally
+prev_word: walks
+next_word: walls
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: A beer mug, usually made of ceramic or glass.
+prev_word: steil
+next_word: stela
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

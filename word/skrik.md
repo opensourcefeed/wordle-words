@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 79
 anagrams:
 - kirks
+prev_word: skran
+next_word: skroo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

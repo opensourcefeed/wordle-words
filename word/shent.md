@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: S_ENT
   count: 6
+prev_word: sheng
+next_word: sheol
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

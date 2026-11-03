@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: "(astrogeology) A rough upland or mountainous region of the Moon with a
       relatively high albedo."
+prev_word: terns
+next_word: terre
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _ANKY
   count: 7
+prev_word: banks
+next_word: banns
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

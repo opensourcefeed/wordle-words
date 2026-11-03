@@ -28,4 +28,15 @@ anagrams:
 - sense
 - senes
 - snees
+prev_word: esker
+next_word: esrog
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/es/"
+  label: Starting with ES
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

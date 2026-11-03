@@ -27,4 +27,15 @@ neighbours:
 - petri
 anagrams:
 - peter
+prev_word: petos
+next_word: petri
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

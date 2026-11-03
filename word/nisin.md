@@ -26,4 +26,15 @@ definitions:
   defs:
   - text: A polycyclic peptide produced by fermentation with the bacterium Lactococcus
       lactis; used as a preservative in processed cheese etc.
+prev_word: nisei
+next_word: nisse
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

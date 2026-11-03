@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ASSE
   count: 6
+prev_word: tassa
+next_word: tasso
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

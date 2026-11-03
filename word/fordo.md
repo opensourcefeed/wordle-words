@@ -34,4 +34,15 @@ definitions:
   - text: To annul, abolish, cancel.
   - text: To do away with, undo; to ruin.
   - text: To overcome with fatigue; to exhaust.
+prev_word: force
+next_word: fords
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

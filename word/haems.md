@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - shame
 - hames
+prev_word: hadst
+next_word: haere
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

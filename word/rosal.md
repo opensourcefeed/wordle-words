@@ -31,4 +31,15 @@ anagrams:
 - solar
 - orals
 - soral
+prev_word: rorty
+next_word: rosco
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A head covering worn by Sikh boys.
   - text: The same head covering worn by Sikh men either alone or as an under-turban.
+prev_word: patio
+next_word: patly
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

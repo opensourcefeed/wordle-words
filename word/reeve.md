@@ -40,4 +40,15 @@ definitions:
   - text: The president of a township or municipal district council.
   - text: The holder of a proposed but unadopted commissioned rank of the Royal Air
       Force, equivalent to wing commander.
+prev_word: reest
+next_word: reeze
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

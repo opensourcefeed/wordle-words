@@ -20,4 +20,15 @@ stats:
   starter_top_percent: 76
 neighbours:
 - imshi
+prev_word: imshi
+next_word: inane
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

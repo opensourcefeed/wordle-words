@@ -26,4 +26,15 @@ anagrams:
 - ember
 - breem
 - breme
+prev_word: berks
+next_word: berms
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

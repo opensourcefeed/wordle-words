@@ -49,4 +49,15 @@ definitions:
   - text: To act or gesture in response.
     example: Joanne replied to Pete's insult with a slap to his face.
   - text: To repeat something back; to echo.
+prev_word: repla
+next_word: repos
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

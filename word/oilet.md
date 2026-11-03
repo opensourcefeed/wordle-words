@@ -33,4 +33,13 @@ neighbours:
 anagrams:
 - teloi
 - toile
+prev_word: oiler
+next_word: oinks
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

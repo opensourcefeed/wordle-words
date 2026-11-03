@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _LANS
   count: 7
+prev_word: alang
+next_word: alant
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

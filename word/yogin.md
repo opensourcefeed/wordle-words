@@ -24,4 +24,15 @@ neighbours:
 - login
 - yogic
 - yogis
+prev_word: yogic
+next_word: yogis
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

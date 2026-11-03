@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - toast
 - stoat
+prev_word: taste
+next_word: tasty
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

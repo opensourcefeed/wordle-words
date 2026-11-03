@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - devis
 - dives
+prev_word: visas
+next_word: vises
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

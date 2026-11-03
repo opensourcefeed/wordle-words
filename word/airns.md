@@ -34,4 +34,15 @@ anagrams:
 - rains
 - ranis
 - sarin
+prev_word: airer
+next_word: airth
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

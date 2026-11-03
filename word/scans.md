@@ -60,4 +60,15 @@ definitions:
   - text: To mount by steps; to go through with step by step.
   - text: To read or mark so as to show a specific meter.
     example: to scan verse
+prev_word: scand
+next_word: scant
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

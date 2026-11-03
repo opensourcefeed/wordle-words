@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ESTS
   count: 15
+prev_word: yesks
+next_word: yesty
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

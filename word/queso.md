@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: Melted cheese, used for instance as a dipping sauce.
+prev_word: query
+next_word: quest
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

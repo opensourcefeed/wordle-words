@@ -35,4 +35,15 @@ definitions:
   - text: To linger (on) a particular thought, idea etc.; to remain fixated (on).
   - text: To be in a given state.
   - text: To abide; to remain; to continue.
+prev_word: dwell
+next_word: dwile
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dw/"
+  label: Starting with DW
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

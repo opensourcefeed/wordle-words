@@ -50,4 +50,15 @@ definitions:
   - text: To cause to rest by soothing influences; to compose; to calm
   - text: To become gradually calm; to subside; to cease or abate.
     example: The storm lulled.
+prev_word: luges
+next_word: lulus
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

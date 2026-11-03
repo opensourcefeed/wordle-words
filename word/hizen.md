@@ -25,4 +25,15 @@ neighbours:
 - dizen
 - mizen
 - wizen
+prev_word: hives
+next_word: hoach
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

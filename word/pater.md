@@ -55,4 +55,15 @@ definitions:
 - pos: noun
   defs:
   - text: Father
+prev_word: paten
+next_word: pates
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

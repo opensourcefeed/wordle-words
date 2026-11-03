@@ -54,4 +54,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(of a male) to procreate; to father, beget, impregnate."
+prev_word: siren
+next_word: sirih
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OWER
   count: 10
+prev_word: vowel
+next_word: voxel
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

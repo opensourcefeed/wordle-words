@@ -60,4 +60,15 @@ definitions:
       by linking to a price index in order to maintain real levels.
   - text: To be indexical for (some situation or state of affairs); to indicate.
   - text: To access a value in a data container by an index.
+prev_word: indew
+next_word: india
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

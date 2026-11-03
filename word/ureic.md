@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - curie
 - ruice
+prev_word: uredo
+next_word: ureid
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

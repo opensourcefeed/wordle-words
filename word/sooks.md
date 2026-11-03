@@ -58,4 +58,15 @@ definitions:
   defs:
   - text: A street market, particularly in Arabic- and Somali-speaking countries;
       a place where people buy and sell goods.
+prev_word: sooey
+next_word: sooky
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

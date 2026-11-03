@@ -41,4 +41,15 @@ anagrams:
 - nears
 - ranes
 - reans
+prev_word: ranny
+next_word: rants
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

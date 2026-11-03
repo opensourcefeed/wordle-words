@@ -27,4 +27,15 @@ neighbours:
 - biogs
 - miggs
 - riggs
+prev_word: bigae
+next_word: biggy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

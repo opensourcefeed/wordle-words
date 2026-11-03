@@ -38,4 +38,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Sarcastic
+prev_word: sarks
+next_word: sarod
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

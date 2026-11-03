@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _ANTS
   count: 14
+prev_word: danse
+next_word: dappy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

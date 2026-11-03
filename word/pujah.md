@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 87
 neighbours:
 - pujas
+prev_word: puhas
+next_word: pujas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

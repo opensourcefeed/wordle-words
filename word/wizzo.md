@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 99
 neighbours:
 - bizzo
+prev_word: wizes
+next_word: woads
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/zo/"
+  label: Ending in ZO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

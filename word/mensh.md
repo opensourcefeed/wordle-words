@@ -21,4 +21,15 @@ stats:
 neighbours:
 - mensa
 - mense
+prev_word: mense
+next_word: menta
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

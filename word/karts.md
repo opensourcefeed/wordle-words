@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: A go-cart.
+prev_word: karsy
+next_word: karzy
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

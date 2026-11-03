@@ -28,4 +28,15 @@ neighbours:
 - cadie
 - cadre
 - ladee
+prev_word: caddy
+next_word: cades
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

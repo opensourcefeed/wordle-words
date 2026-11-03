@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - areic
 - erica
+prev_word: cerge
+next_word: ceric
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

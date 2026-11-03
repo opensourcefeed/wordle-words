@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To mark with small spots
+prev_word: fleas
+next_word: fleek
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

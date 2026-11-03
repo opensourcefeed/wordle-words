@@ -91,4 +91,15 @@ definitions:
     example: We staged the cars to be ready for the start, then waited for the starter
       to drop the flag.
   - text: To determine what stage (a disease, etc.) has progressed to
+prev_word: staff
+next_word: stags
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

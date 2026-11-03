@@ -45,4 +45,15 @@ definitions:
 - pos: adverb
   defs:
   - text: "(of a vessel) Lying to two anchors, streamed from either bow."
+prev_word: hawms
+next_word: hayed
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

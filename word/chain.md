@@ -65,4 +65,15 @@ definitions:
   - text: To be chained to another data item.
   - text: To measure a distance using a 66-foot long chain, as in land surveying.
   - text: "(associated with Acorn Computers) To load and automatically run (a program)."
+prev_word: chaft
+next_word: chair
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

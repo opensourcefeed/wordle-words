@@ -37,4 +37,15 @@ definitions:
       contributed towards the parish expenses.
   - text: A meadow, land or fields
   - text: A piece of earth containing ore.
+prev_word: gleba
+next_word: gleby
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

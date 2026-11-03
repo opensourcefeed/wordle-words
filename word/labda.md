@@ -23,4 +23,15 @@ stats:
 neighbours:
 - labia
 - labra
+prev_word: laari
+next_word: label
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

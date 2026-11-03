@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Greasy, messy or dirty.
+prev_word: gunks
+next_word: gunny
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

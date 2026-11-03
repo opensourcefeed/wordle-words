@@ -31,4 +31,15 @@ definitions:
   - text: A varicose, i.e. swollen and knotted, vein
   - text: In mollusks, a particular ridge on the shell, corresponding to a former
       position of the aperture.
+prev_word: varia
+next_word: varna
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A marine cod-like fish in the ling family Lotidae, Brosme brosme.
+prev_word: cushy
+next_word: cusps
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

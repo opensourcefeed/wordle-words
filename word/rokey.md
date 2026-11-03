@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _OKEY
   count: 7
+prev_word: rokes
+next_word: rokos
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

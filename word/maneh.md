@@ -27,4 +27,13 @@ neighbours:
 - maned
 - manes
 - manet
+prev_word: maned
+next_word: manes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

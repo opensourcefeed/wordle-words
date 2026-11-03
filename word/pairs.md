@@ -87,4 +87,15 @@ definitions:
   defs:
   - text: To impair, to make worse.
   - text: To become worse, to deteriorate.
+prev_word: paire
+next_word: paisa
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

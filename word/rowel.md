@@ -50,4 +50,15 @@ definitions:
   - text: To apply the spur to.
     example: to spur a horse
   - text: To incite; to goad.
+prev_word: rowed
+next_word: rowen
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

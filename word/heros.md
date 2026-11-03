@@ -46,4 +46,15 @@ anagrams:
 trap:
   pattern: HER_S
   count: 8
+prev_word: heron
+next_word: herps
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

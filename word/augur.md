@@ -36,4 +36,15 @@ definitions:
   - text: To anticipate, to foretell, or to indicate a favorable or an unfavorable
       issue.
     example: to augur well or ill
+prev_word: aught
+next_word: aulas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

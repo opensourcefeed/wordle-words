@@ -25,4 +25,15 @@ stats:
 anagrams:
 - loath
 - lotah
+prev_word: alter
+next_word: altos
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ho/"
+  label: Ending in HO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

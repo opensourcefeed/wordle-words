@@ -46,4 +46,15 @@ definitions:
   - text: Nerve, spunk, strength of character.
   - text: Verve.
   - text: Wit, smarts, skill.
+prev_word: moxas
+next_word: moyas
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

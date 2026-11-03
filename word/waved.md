@@ -80,4 +80,15 @@ definitions:
   - text: Having a wave-like form or outline; undulating.
   - text: Indented.
   - text: Having on the margin a succession of curved segments or incisions.
+prev_word: waurs
+next_word: waver
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

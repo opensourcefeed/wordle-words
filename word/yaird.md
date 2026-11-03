@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - dairy
 - diary
+prev_word: yahoo
+next_word: yajna
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A valley, often wooded and often with no river
   - text: A cirque.
+prev_word: comas
+next_word: combi
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: WHI_S
   count: 10
+prev_word: whiny
+next_word: whips
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

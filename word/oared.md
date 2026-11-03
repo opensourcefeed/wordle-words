@@ -48,4 +48,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having oars.
+prev_word: oakum
+next_word: oarer
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oa/"
+  label: Starting with OA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -23,4 +23,15 @@ neighbours:
 - kobos
 anagrams:
 - bosky
+prev_word: kyats
+next_word: kydst
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

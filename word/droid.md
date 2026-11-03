@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A robot, especially one made with some physical resemblance to a human.
+prev_word: drock
+next_word: droil
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

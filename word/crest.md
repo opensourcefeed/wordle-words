@@ -65,4 +65,15 @@ definitions:
   - text: To reach the crest of (a hill or mountain)
   - text: To furnish with, or surmount as, a crest; to serve as a crest for.
   - text: To mark with lines or streaks like waving plumes.
+prev_word: cress
+next_word: crewe
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

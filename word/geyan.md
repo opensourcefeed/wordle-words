@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 19
 anagrams:
 - gynae
+prev_word: geums
+next_word: geyer
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

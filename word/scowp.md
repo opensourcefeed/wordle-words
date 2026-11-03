@@ -27,4 +27,13 @@ neighbours:
 - stowp
 anagrams:
 - cowps
+prev_word: scowl
+next_word: scows
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

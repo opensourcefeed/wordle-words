@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _INGY
   count: 8
+prev_word: rings
+next_word: rinks
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

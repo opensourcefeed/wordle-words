@@ -71,4 +71,15 @@ definitions:
   - text: A familiar, invented given name for a person or thing used instead of the
       actual name of the person or thing.
   - text: A kind of byname that describes a person by a characteristic of that person.
+prev_word: nicht
+next_word: nicky
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

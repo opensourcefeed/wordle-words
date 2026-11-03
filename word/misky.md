@@ -27,4 +27,15 @@ neighbours:
 - mirky
 - misty
 - pisky
+prev_word: misgo
+next_word: misls
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

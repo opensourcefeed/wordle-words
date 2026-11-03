@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: PLA_S
   count: 6
+prev_word: pizza
+next_word: place
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

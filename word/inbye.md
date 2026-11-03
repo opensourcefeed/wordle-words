@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 37
+prev_word: inbox
+next_word: incas
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ye/"
+  label: Ending in YE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

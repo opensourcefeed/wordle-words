@@ -27,4 +27,15 @@ neighbours:
 - obole
 - obols
 - ovoli
+prev_word: obole
+next_word: obols
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ob/"
+  label: Starting with OB
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

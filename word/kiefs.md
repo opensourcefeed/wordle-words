@@ -31,4 +31,15 @@ neighbours:
 - tiefs
 anagrams:
 - fikes
+prev_word: kidge
+next_word: kiers
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

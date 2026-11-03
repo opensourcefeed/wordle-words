@@ -76,4 +76,15 @@ definitions:
   - text: Of a male, to engage in sexual intercourse with.
   - text: To spike, as a cannon.
   - text: 'To nail down: to make certain, or confirm.'
+prev_word: naiks
+next_word: naily
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

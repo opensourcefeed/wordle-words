@@ -35,4 +35,15 @@ definitions:
   - text: The disintegration or destruction of cells
   - text: The breakdown of molecules into constituent molecules
   - text: A plinth or step above the cornice of the podium in an ancient temple.
+prev_word: lysin
+next_word: lysol
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

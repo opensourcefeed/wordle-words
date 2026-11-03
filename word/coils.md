@@ -63,4 +63,15 @@ definitions:
 - pos: noun
   defs:
   - text: A noise, tumult, bustle, or turmoil.
+prev_word: coign
+next_word: coins
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

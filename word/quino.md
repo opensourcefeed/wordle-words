@@ -34,4 +34,15 @@ anagrams:
 trap:
   pattern: QUIN_
   count: 6
+prev_word: quink
+next_word: quins
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -25,4 +25,15 @@ neighbours:
 anagrams:
 - enows
 - sowne
+prev_word: owrie
+next_word: oxbow
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ow/"
+  label: Starting with OW
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

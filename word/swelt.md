@@ -30,4 +30,15 @@ neighbours:
 - swept
 anagrams:
 - welts
+prev_word: swell
+next_word: swept
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

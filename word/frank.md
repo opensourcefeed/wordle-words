@@ -57,4 +57,15 @@ definitions:
   - text: Unbounded by restrictions, limitations, etc.; free.
   - text: Liberal; generous; profuse.
   - text: Unrestrained; loose; licentious.
+prev_word: franc
+next_word: frape
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

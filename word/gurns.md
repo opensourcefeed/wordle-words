@@ -39,4 +39,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make a grotesque or funny face.
+prev_word: gurly
+next_word: gurry
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

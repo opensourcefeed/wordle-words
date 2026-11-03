@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: FRIT_
   count: 6
+prev_word: frits
+next_word: fritz
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/tt/"
+  label: Ending in TT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -49,4 +49,15 @@ definitions:
 - pos: noun
   defs:
   - text: A kiln for drying tobacco, malt and especially hops.
+prev_word: oasis
+next_word: oaten
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oa/"
+  label: Starting with OA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

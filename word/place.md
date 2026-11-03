@@ -55,4 +55,15 @@ definitions:
   - text: Ordinal relation; position in the order of proceeding.
     example: That's what I said in the first place!
   - text: Reception; effect; implying the making room for.
+prev_word: plaas
+next_word: plack
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

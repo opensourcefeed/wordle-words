@@ -28,4 +28,15 @@ anagrams:
 - tripe
 - petri
 - retip
+prev_word: piers
+next_word: pieta
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

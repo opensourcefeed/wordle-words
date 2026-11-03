@@ -63,4 +63,15 @@ definitions:
   - text: "(chiefly in plural) A kidney."
   - text: The inward impulses; the affections and passions, formerly supposed to be
       located in the area of the kidneys.
+prev_word: reink
+next_word: reird
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -41,4 +41,15 @@ definitions:
   - text: The center of an escutcheon.
   - text: The abyssal zone.
   - text: A difference, especially a large difference, between groups.
+prev_word: abysm
+next_word: acais
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

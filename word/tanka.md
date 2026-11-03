@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A form of Japanese verse in five lines of 5, 7, 5, 7, and 7 morae.
+prev_word: tania
+next_word: tanks
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

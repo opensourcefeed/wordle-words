@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A stupid or silly person.
+prev_word: nodal
+next_word: noded
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

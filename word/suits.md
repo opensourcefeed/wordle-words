@@ -84,4 +84,15 @@ definitions:
     example: He is well suited with his place.
   - text: To agree; to be fitted; to correspond (usually followed by to, archaically
       also followed by with)
+prev_word: suite
+next_word: sujee
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

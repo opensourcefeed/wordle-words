@@ -25,4 +25,15 @@ neighbours:
 - saver
 - siver
 - syker
+prev_word: sythe
+next_word: taals
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

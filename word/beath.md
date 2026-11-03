@@ -32,4 +32,15 @@ neighbours:
 - neath
 anagrams:
 - bathe
+prev_word: beast
+next_word: beats
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

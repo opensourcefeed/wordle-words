@@ -29,4 +29,15 @@ neighbours:
 - noils
 - roily
 - soily
+prev_word: noils
+next_word: noint
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

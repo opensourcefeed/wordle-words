@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: To pour or serve something with a ladle.
     example: One man ladled molten steel into the shot sleeve.
+prev_word: lades
+next_word: ladoo
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

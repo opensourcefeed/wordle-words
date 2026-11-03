@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: An informal mode of address (associated most often with actors and the like).
   - text: A baby's toy, blanket, or other object of affection
+prev_word: loves
+next_word: lovie
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

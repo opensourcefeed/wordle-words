@@ -25,4 +25,15 @@ neighbours:
 - scatt
 - skart
 - skats
+prev_word: skats
+next_word: skaws
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/tt/"
+  label: Ending in TT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

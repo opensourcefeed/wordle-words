@@ -30,4 +30,15 @@ neighbours:
 - yeuch
 anagrams:
 - chute
+prev_word: tetri
+next_word: teugh
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

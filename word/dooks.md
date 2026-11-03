@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _OOKS
   count: 14
+prev_word: doofs
+next_word: dooky
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To surpass in skill or achievement.
   - text: To beat in a contest
+prev_word: besti
+next_word: betas
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

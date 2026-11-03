@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: The penis.
+prev_word: petar
+next_word: petit
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

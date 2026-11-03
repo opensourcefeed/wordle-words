@@ -28,4 +28,15 @@ neighbours:
 - quods
 - quois
 - quops
+prev_word: quouk
+next_word: quran
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

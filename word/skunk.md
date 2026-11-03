@@ -45,4 +45,15 @@ definitions:
     example: I skunked him at cards.
   - text: To win by 30 or more points.
   - text: "(of beer) To go bad, to spoil."
+prev_word: skull
+next_word: skyed
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

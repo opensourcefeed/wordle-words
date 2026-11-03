@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: Dated; out of style; old-fashioned.
   - text: Past one's prime; worn; faded.
+prev_word: paspy
+next_word: passu
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

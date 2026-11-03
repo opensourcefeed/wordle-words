@@ -60,4 +60,15 @@ definitions:
     example: Energy spends in the using of it.
   - text: To be diffused; to spread.
   - text: To break ground; to continue working.
+prev_word: spelt
+next_word: spent
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

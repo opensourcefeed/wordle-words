@@ -69,4 +69,15 @@ definitions:
       arouses anxiety, terror, agony or great displeasure.
     example: Cleaning up after identity theft can be a nightmare of phone calls and
       letters.
+prev_word: mardy
+next_word: marga
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

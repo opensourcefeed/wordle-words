@@ -27,4 +27,15 @@ neighbours:
 - ouphs
 - pupas
 - zupas
+prev_word: oundy
+next_word: ouped
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

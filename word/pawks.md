@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _AWKS
   count: 9
+prev_word: pawer
+next_word: pawky
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

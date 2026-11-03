@@ -54,4 +54,15 @@ definitions:
   - text: To utter a keen.
   - text: To utter with a loud wailing voice or wordless cry.
   - text: To mourn.
+prev_word: keeno
+next_word: keeps
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -68,4 +68,15 @@ definitions:
   - text: To move interruptedly or with halts, jerks, or steps; said of something
       obstructed or impeded.
   - text: To strike the legs together in going, as horses; to interfere.
+prev_word: hists
+next_word: hithe
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

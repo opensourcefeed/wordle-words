@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Belonging to, concerning, or located at a focus
   - text: Limited to a small area
+prev_word: foamy
+next_word: focus
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

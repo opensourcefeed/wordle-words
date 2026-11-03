@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _INNY
   count: 9
+prev_word: linns
+next_word: linos
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

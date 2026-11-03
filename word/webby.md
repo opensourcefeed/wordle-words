@@ -22,4 +22,15 @@ stats:
 neighbours:
 - debby
 - nebby
+prev_word: weave
+next_word: weber
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

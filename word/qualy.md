@@ -25,4 +25,15 @@ neighbours:
 - qualm
 - quaky
 - quale
+prev_word: qualm
+next_word: quank
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

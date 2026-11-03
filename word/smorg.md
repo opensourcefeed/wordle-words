@@ -24,4 +24,13 @@ neighbours:
 anagrams:
 - gorms
 - groms
+prev_word: smore
+next_word: smote
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

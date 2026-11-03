@@ -34,4 +34,15 @@ anagrams:
 - sweal
 - wales
 - weals
+prev_word: alert
+next_word: aleye
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

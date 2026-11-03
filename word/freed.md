@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: To make free; set at liberty; release.
   - text: To rid of something that confines or oppresses.
+prev_word: freak
+next_word: freer
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

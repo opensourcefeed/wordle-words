@@ -47,4 +47,15 @@ definitions:
   - text: To twist or turn.
   - text: To move rapidly with a noise; to whirl.
   - text: To convey in a wheeled vehicle.
+prev_word: hurds
+next_word: hurly
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

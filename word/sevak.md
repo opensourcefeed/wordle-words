@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 37
+prev_word: setup
+next_word: seven
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -39,4 +39,15 @@ neighbours:
 trap:
   pattern: _OSES
   count: 11
+prev_word: oorie
+next_word: ootid
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oo/"
+  label: Starting with OO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

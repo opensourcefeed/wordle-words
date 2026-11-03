@@ -69,4 +69,15 @@ definitions:
   defs:
   - text: A unit of land and tax assessment of varying size, originally as intended
       to support one household with dependents.
+prev_word: hider
+next_word: hiems
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

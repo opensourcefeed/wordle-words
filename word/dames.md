@@ -53,4 +53,15 @@ definitions:
       drag.'
   - text: "(slightly derogatory) A woman."
   - text: A lady, a woman.
+prev_word: damar
+next_word: damme
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

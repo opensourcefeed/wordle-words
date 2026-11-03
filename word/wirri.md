@@ -26,4 +26,15 @@ neighbours:
 - kirri
 - pirri
 - wirra
+prev_word: wirra
+next_word: wised
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _IVER
   count: 11
+prev_word: vivda
+next_word: vives
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

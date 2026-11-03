@@ -28,4 +28,15 @@ neighbours:
 - pungs
 - pungy
 - punji
+prev_word: punga
+next_word: pungo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

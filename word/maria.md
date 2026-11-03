@@ -48,4 +48,15 @@ definitions:
   - text: A large, dark plain, which may have the appearance of a sea.
   - text: On Saturn's moon Titan, a large expanse of what is thought to be liquid
       hydrocarbons.
+prev_word: margs
+next_word: marid
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

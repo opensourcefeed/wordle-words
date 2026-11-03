@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: Confined in a cage.
   - text: 'Of eggs: produced by birds confined in cages; not free-range.'
+prev_word: caffs
+next_word: cager
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

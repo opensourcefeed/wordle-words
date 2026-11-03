@@ -19,4 +19,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 82
+prev_word: udons
+next_word: ugali
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/ending-with/og/"
+  label: Ending in OG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -32,4 +32,15 @@ anagrams:
 trap:
   pattern: _OUCH
   count: 6
+prev_word: motza
+next_word: moues
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

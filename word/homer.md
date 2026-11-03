@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: A former Hebrew unit of dry volume, about equal to 230 L or 6 1/2 US bushels.
+prev_word: homed
+next_word: homes
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

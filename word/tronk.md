@@ -32,4 +32,15 @@ neighbours:
 - trone
 - trons
 - twonk
+prev_word: trone
+next_word: trons
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

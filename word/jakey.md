@@ -28,4 +28,15 @@ neighbours:
 - jakes
 - jasey
 - jokey
+prev_word: jakes
+next_word: jakie
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Yes in some respects but no in other respects.
     example: '"Are you afraid of a little bit of rain?" "Kinda, yeah."'
+prev_word: kinas
+next_word: kinds
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

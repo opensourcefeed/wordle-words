@@ -34,4 +34,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Fair, beautiful.
+prev_word: fayne
+next_word: fazed
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

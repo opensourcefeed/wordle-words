@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of various small finches in the genus Serinus, with largely yellow plumage.
+prev_word: serif
+next_word: serir
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

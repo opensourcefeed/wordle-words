@@ -72,4 +72,15 @@ definitions:
   - text: To be overwhelmed or depressed; to fail in strength.
   - text: To decrease in volume, as a river; to subside; to become diminished in volume
       or in apparent height.
+prev_word: sinhs
+next_word: sinky
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

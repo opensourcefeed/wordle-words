@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - lyssa
 - slays
+prev_word: lassu
+next_word: lasts
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

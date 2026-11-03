@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: Cause to become one; make into a unit; consolidate; merge; combine.
   - text: Become one.
+prev_word: unica
+next_word: union
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

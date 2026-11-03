@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: Potato
+prev_word: taths
+next_word: tatou
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

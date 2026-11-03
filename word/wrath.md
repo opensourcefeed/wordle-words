@@ -43,4 +43,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Wrathful; wroth; very angry.
+prev_word: wrate
+next_word: wrawl
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

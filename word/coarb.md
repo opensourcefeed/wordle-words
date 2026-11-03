@@ -27,4 +27,13 @@ anagrams:
 - cobra
 - carbo
 - carob
+prev_word: coapt
+next_word: coast
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

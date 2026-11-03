@@ -31,4 +31,15 @@ definitions:
   - text: A former unit of currency in Malta, now the official currency of the Sovereign
       Military Order of Malta.
   - text: A unit of currency in 19th-century Bolivia, equal to 16 soles.
+prev_word: scuba
+next_word: scudo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/di/"
+  label: Ending in DI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

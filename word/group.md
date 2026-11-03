@@ -60,4 +60,15 @@ definitions:
   - text: To put together to form a group.
     example: group the dogs by hair colour
   - text: To come together to form a group.
+prev_word: grouf
+next_word: grout
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/up/"
+  label: Ending in UP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

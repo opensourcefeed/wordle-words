@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: A sheath around a plant stem forming from the stipule of a leaf and extending
       above the point of insertion of the leaf.
+prev_word: ocote
+next_word: octad
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

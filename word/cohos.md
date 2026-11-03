@@ -34,4 +34,15 @@ definitions:
   - text: An anadromus and semelparous salmon, Oncorhynchus kisutch, found in the
       coastal regions of the northern Pacific Ocean, used as a symbol by several Native
       American tribes.
+prev_word: cohog
+next_word: coifs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

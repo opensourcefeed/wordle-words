@@ -25,4 +25,13 @@ definitions:
 - pos: noun
   defs:
   - text: A male hybrid of a yak and a domesticated cow.
+prev_word: dynos
+next_word: eager
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _EEPS
   count: 12
+prev_word: geeky
+next_word: geese
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

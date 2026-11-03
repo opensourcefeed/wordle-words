@@ -57,4 +57,15 @@ definitions:
   - text: To disregard (a group, an orientation, etc.); to prevent from having an
       active role in society.
   - text: To kill; assassinate.
+prev_word: equip
+next_word: erbia
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

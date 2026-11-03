@@ -23,4 +23,15 @@ stats:
 neighbours:
 - filly
 - fatly
+prev_word: fitch
+next_word: fitna
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

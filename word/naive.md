@@ -46,4 +46,15 @@ definitions:
   - text: "(of art) Produced in a simple, childlike style, deliberately rejecting
       sophisticated techniques."
   - text: Intuitive; designed to follow the way ordinary people approach a problem.
+prev_word: nairu
+next_word: najib
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

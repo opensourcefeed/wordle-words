@@ -27,4 +27,15 @@ anagrams:
 - larva
 - arval
 - lavra
+prev_word: alurk
+next_word: alway
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

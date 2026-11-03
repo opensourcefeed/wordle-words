@@ -24,4 +24,15 @@ neighbours:
 - gayer
 - feyer
 - keyer
+prev_word: geyan
+next_word: ghast
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

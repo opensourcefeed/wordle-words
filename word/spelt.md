@@ -66,4 +66,15 @@ definitions:
     example: They spelled the horses and rested in the shade of some trees near a
       brook.
   - text: To rest from work for a time.
+prev_word: spell
+next_word: spend
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

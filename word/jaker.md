@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _AKER
   count: 12
+prev_word: jails
+next_word: jakes
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: To choose; select.
     example: He opted not to go.
+prev_word: opsit
+next_word: opter
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/op/"
+  label: Starting with OP
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A student of a tutor.
+prev_word: tusky
+next_word: tutes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

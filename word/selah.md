@@ -42,4 +42,15 @@ definitions:
   - text: A word occurring between verses or paragraphs in parts of the Hebrew Bible,
       namely in Habakkuk and the Psalms; perhaps indicating a pause, either for contemplation
       or for the singer to clear his or her throat.
+prev_word: sekts
+next_word: seles
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

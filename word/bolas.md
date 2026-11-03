@@ -45,4 +45,15 @@ definitions:
   - text: A throwing weapon made of weights on the ends of interconnected cords, designed
       to capture animals by entangling their legs.
   - text: A sticky thread whirled around by certain spiders to catch prey.
+prev_word: bolar
+next_word: boldo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -26,4 +26,15 @@ neighbours:
 - clout
 - flour
 - clous
+prev_word: cloud
+next_word: clous
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -24,4 +24,15 @@ neighbours:
 - caulk
 - baulk
 - wauls
+prev_word: wauks
+next_word: wauls
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/lk/"
+  label: Ending in LK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

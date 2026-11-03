@@ -31,4 +31,15 @@ neighbours:
 - meris
 anagrams:
 - miler
+prev_word: merge
+next_word: meris
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

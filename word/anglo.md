@@ -45,4 +45,15 @@ definitions:
   - text: An English-speaking Quebecer.
   - text: A white-skinned person.
   - text: A British person or person of British ancestry.
+prev_word: angle
+next_word: angry
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

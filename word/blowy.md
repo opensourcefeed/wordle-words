@@ -36,4 +36,15 @@ definitions:
   - text: Windy or breezy.
   - text: "(of fabric, hair, etc.) Billowy, blowing or waving in the wind."
   - text: "(of soil) Susceptible to drifting."
+prev_word: blows
+next_word: blubs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/wy/"
+  label: Ending in WY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -24,4 +24,13 @@ neighbours:
 - smolt
 - smoot
 - smout
+prev_word: smout
+next_word: smugs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

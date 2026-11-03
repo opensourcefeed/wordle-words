@@ -64,4 +64,15 @@ definitions:
   - text: Identified as a specific type; famous, renowned.
     example: He was a known pickpocket.
   - text: Accepted, familiar, researched.
+prev_word: knowe
+next_word: knows
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

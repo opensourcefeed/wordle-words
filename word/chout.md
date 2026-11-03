@@ -30,4 +30,15 @@ anagrams:
 - touch
 - couth
 - oucht
+prev_word: chott
+next_word: choux
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

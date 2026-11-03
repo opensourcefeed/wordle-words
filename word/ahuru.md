@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 62
 neighbours:
 - uhuru
+prev_word: ahull
+next_word: aidas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ah/"
+  label: Starting with AH
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

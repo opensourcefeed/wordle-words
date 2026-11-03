@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(Cape Colony) A small inherited house-and-garden lot in a village or settlement."
+prev_word: eruvs
+next_word: ervil
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _ARDY
   count: 8
+prev_word: vardo
+next_word: varec
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

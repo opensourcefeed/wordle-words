@@ -25,4 +25,15 @@ neighbours:
 - bebop
 anagrams:
 - probe
+prev_word: rebit
+next_word: rebud
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

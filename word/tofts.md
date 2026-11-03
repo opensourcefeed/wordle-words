@@ -44,4 +44,15 @@ definitions:
   - text: A hillock.
   - text: A homestead, especially one on a hill.
   - text: A messuage with right of common.
+prev_word: toffy
+next_word: tofus
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

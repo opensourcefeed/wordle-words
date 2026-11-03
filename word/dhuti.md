@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 66
 neighbours:
 - dhoti
+prev_word: dhows
+next_word: diact
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dh/"
+  label: Starting with DH
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

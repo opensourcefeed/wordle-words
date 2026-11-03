@@ -28,4 +28,15 @@ neighbours:
 - toeas
 - zoeae
 - zoeal
+prev_word: zoeal
+next_word: zoism
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

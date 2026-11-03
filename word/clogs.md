@@ -59,4 +59,15 @@ definitions:
   - text: To enforce a mortgage lender right that prevents a borrower from exercising
       a right to redeem.
   - text: To perform a clog dance.
+prev_word: cloff
+next_word: cloke
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

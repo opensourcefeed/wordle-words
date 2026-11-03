@@ -26,4 +26,15 @@ neighbours:
 - clint
 - clipt
 - glift
+prev_word: cliff
+next_word: climb
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

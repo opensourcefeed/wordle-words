@@ -40,4 +40,15 @@ definitions:
   - text: A piece of soft sandstone used for scouring the wooden decks of ships, usually
       with sand and seawater.
   - text: A stone with a naturally-formed hole, used by Yorkshiremen for good luck.
+prev_word: bibis
+next_word: biccy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

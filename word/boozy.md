@@ -49,4 +49,15 @@ definitions:
     example: We all had hangovers after a boozy weekend in town.
   - text: "(of food) Containing or cooked with alcohol."
     example: For dessert, the hosts treated us to a helping of boozy apple pie.
+prev_word: booze
+next_word: boppy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

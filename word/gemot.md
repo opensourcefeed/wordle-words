@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 33
 neighbours:
 - demot
+prev_word: gemmy
+next_word: genae
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

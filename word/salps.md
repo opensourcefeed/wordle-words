@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Any of the free-swimming tunicates of the order Salpida and its single family
       Salpidae.
+prev_word: salpa
+next_word: salsa
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

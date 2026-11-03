@@ -64,4 +64,15 @@ definitions:
   - text: To communicate by cable
   - text: To ornament with cabling.
   - text: To create cable stitches.
+prev_word: cabin
+next_word: cabob
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

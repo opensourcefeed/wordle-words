@@ -26,4 +26,15 @@ anagrams:
 - mools
 - slomo
 - sloom
+prev_word: osmic
+next_word: osone
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/os/"
+  label: Starting with OS
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

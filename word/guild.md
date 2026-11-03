@@ -38,4 +38,15 @@ definitions:
   - text: A group of diverse species that share common characteristics or habits.
   - text: An organized group of players who regularly play together in a multiplayer
       game.
+prev_word: guids
+next_word: guile
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -32,4 +32,15 @@ anagrams:
 - aures
 - ureas
 - ursae
+prev_word: urari
+next_word: urate
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

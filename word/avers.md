@@ -44,4 +44,15 @@ definitions:
       manner.
   - text: To prove or justify a plea.
   - text: To avouch, prove, or verify; to offer to verify.
+prev_word: avens
+next_word: avert
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/av/"
+  label: Starting with AV
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

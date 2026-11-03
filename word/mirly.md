@@ -28,4 +28,15 @@ neighbours:
 - mirls
 - murly
 - nirly
+prev_word: mirls
+next_word: miros
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

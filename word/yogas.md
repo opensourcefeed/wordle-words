@@ -27,4 +27,15 @@ neighbours:
 - yoghs
 - yogis
 - yugas
+prev_word: yodle
+next_word: yogee
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -33,4 +33,15 @@ neighbours:
 - ratal
 anagrams:
 - talak
+prev_word: kasme
+next_word: katas
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

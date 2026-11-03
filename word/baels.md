@@ -36,4 +36,15 @@ anagrams:
 - blaes
 - blase
 - sable
+prev_word: badly
+next_word: baffs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

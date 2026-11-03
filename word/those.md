@@ -51,4 +51,15 @@ definitions:
     example: The CPR course that she took really came in handy.
   - text: Used in place of relative adverbs such as where or when; often omitted.
     example: the last time that [= when] I went to Europe
+prev_word: thorp
+next_word: thots
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

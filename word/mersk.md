@@ -25,4 +25,15 @@ anagrams:
 - merks
 - skerm
 - smerk
+prev_word: merse
+next_word: mesad
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/sk/"
+  label: Ending in SK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

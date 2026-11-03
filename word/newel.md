@@ -36,4 +36,15 @@ definitions:
   - text: A central pillar around which a staircase spirals.
   - text: A sturdy pillar at the top or bottom of a flight of stairs, supporting the
       handrail.
+prev_word: newed
+next_word: newer
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

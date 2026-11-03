@@ -21,4 +21,13 @@ stats:
   - X
   starter_tier: Weak
   starter_top_percent: 64
+prev_word: deoch
+next_word: depot
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

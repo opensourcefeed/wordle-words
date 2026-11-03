@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: To crack; to make a sharp, abrupt noise; to chink.
   - text: To speak affectedly.
+prev_word: klutz
+next_word: knags
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

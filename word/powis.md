@@ -27,4 +27,15 @@ neighbours:
 - powie
 - powin
 - powns
+prev_word: powin
+next_word: powlt
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

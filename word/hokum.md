@@ -37,4 +37,15 @@ definitions:
       contrived, hackneyed, or sentimental material.
   - text: A genre of blues song or music, often characterized by sexual innuendos
       or satire.
+prev_word: hokku
+next_word: holds
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

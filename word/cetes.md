@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _ETES
   count: 9
+prev_word: cesti
+next_word: cetyl
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

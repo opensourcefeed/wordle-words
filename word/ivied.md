@@ -30,4 +30,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Overgrown with ivy or another climbing plant.
+prev_word: ither
+next_word: ivies
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

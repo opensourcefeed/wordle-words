@@ -22,4 +22,15 @@ stats:
 anagrams:
 - gaums
 - magus
+prev_word: sagos
+next_word: sahab
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

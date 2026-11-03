@@ -30,4 +30,15 @@ neighbours:
 - coapt
 anagrams:
 - patch
+prev_word: chaps
+next_word: chara
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

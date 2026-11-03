@@ -33,4 +33,13 @@ definitions:
   - text: Any crust-like formations on the skin, or in general.
   - text: The foul remains of anything adherent.
   - text: Minute membranous scales on the surface of some leaves, as in the goosefoot.
+prev_word: scups
+next_word: scurs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -31,4 +31,15 @@ neighbours:
 - sowps
 anagrams:
 - plows
+prev_word: lowns
+next_word: lowry
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

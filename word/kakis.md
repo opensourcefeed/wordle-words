@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A persimmon, more specifically the Japanese persimmon (Diospyros kaki).
+prev_word: kakas
+next_word: kalam
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,15 @@ anagrams:
 - makes
 - meaks
 - samek
+prev_word: kasha
+next_word: katal
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

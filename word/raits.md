@@ -48,4 +48,15 @@ anagrams:
 trap:
   pattern: RAI_S
   count: 6
+prev_word: raith
+next_word: rajah
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

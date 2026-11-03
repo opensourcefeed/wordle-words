@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 68
 neighbours:
 - booay
+prev_word: bonze
+next_word: booay
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

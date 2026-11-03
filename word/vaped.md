@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: To inhale the vapor produced by a non-combustible cigarette, most commonly
       an electronic cigarette.
+prev_word: vants
+next_word: vaper
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

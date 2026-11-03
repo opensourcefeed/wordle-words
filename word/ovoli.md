@@ -25,4 +25,15 @@ stats:
 neighbours:
 - oboli
 - ovolo
+prev_word: ovoid
+next_word: ovolo
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ov/"
+  label: Starting with OV
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

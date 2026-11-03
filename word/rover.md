@@ -61,4 +61,15 @@ definitions:
       the stake but is continued in play; also, the player of such a ball.
   - text: The tenth defensive player in slow-pitch softball.
   - text: A sort of arrow.
+prev_word: roven
+next_word: roves
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

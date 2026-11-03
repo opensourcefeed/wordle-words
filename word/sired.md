@@ -48,4 +48,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(of a male) to procreate; to father, beget, impregnate."
+prev_word: sippy
+next_word: siree
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

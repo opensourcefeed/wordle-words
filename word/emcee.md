@@ -87,4 +87,15 @@ definitions:
   defs:
   - text: A place used as a hospital on board a ship, on a spaceship (in science fiction).
   - text: A room or area for the treatment of the sick or injured in a school.
+prev_word: embus
+next_word: emeer
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

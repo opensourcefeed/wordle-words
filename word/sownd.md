@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - downs
 - nowds
+prev_word: sowms
+next_word: sowne
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

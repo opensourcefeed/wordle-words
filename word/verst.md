@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: A Russian unit of length, equivalent to about 1.07 kilometres or about 2/3
       of a mile.
+prev_word: verso
+next_word: verte
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

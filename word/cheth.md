@@ -24,4 +24,15 @@ neighbours:
 - kheth
 anagrams:
 - hecht
+prev_word: chest
+next_word: chevy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

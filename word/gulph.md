@@ -23,4 +23,15 @@ neighbours:
 - gulps
 - gulpy
 - sulph
+prev_word: gully
+next_word: gulps
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ph/"
+  label: Ending in PH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

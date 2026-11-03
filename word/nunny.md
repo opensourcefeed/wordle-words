@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _UNNY
   count: 10
+prev_word: nunky
+next_word: nunus
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

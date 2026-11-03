@@ -27,4 +27,15 @@ neighbours:
 - asura
 anagrams:
 - ruana
+prev_word: antsy
+next_word: anvil
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

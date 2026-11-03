@@ -45,4 +45,13 @@ definitions:
       related through a common connection in an uncommon way.
   - text: Contradiction between circumstances and expectations; condition contrary
       to what might be expected.
+prev_word: irons
+next_word: isbas
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

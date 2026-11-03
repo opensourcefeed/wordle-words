@@ -42,4 +42,15 @@ definitions:
   - text: An Old Norse (Icelandic) prose narrative, especially one dealing with family
       or social histories and legends.
   - text: Something with the qualities of such a saga; an epic, a long story.
+prev_word: sagar
+next_word: sager
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

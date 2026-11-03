@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 33
 anagrams:
 - essay
+prev_word: exurb
+next_word: eyers
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -29,4 +29,15 @@ neighbours:
 - volva
 anagrams:
 - lovat
+prev_word: volks
+next_word: volte
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -27,4 +27,15 @@ neighbours:
 - serge
 anagrams:
 - grece
+prev_word: ceres
+next_word: ceria
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

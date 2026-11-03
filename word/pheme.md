@@ -24,4 +24,15 @@ neighbours:
 - phene
 - phese
 - rheme
+prev_word: pheer
+next_word: phene
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

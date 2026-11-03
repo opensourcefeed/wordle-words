@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - creak
 - crake
+prev_word: ackee
+next_word: acmes
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -59,4 +59,15 @@ definitions:
     example: to fetch a compass;  to fetch a leap
   - text: To make (a pump) draw water by pouring water into the top and working the
       handle.
+prev_word: fetas
+next_word: feted
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -46,4 +46,15 @@ definitions:
   - text: "(past tense clad or cladded) To cover (with insulation or another material);
       to surround, envelop."
   - text: "(figuratively) To imbue (with a specified quality)"
+prev_word: clade
+next_word: claes
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

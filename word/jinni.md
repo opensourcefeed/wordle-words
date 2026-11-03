@@ -31,4 +31,15 @@ definitions:
   - text: "(Muslim demonology) A genie and descendant of the jann, normally invisible
       to the human eye, but who may also appear in animal or human form, equivalent
       to demons in Jewish demonology."
+prev_word: jinne
+next_word: jinns
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/ni/"
+  label: Ending in NI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

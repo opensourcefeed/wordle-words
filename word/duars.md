@@ -32,4 +32,15 @@ anagrams:
 - daurs
 - duras
 - rudas
+prev_word: duans
+next_word: dubbo
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

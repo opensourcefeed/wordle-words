@@ -29,4 +29,15 @@ anagrams:
 - bluer
 - rubel
 - ruble
+prev_word: brujo
+next_word: brume
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

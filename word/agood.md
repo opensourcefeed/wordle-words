@@ -21,4 +21,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 81
+prev_word: agony
+next_word: agora
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/od/"
+  label: Ending in OD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

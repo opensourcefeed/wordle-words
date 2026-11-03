@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A rubbish collector.
+prev_word: garbe
+next_word: garbs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -27,4 +27,15 @@ neighbours:
 - exier
 - exits
 - oxies
+prev_word: exier
+next_word: exile
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -24,4 +24,13 @@ stats:
 neighbours:
 - vrouw
 - vrows
+prev_word: vroom
+next_word: vrouw
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

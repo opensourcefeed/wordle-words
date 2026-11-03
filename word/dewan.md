@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A holder of any of various offices in various (usually Islamic) countries,
       usually some sort of councillor.
+prev_word: devot
+next_word: dewar
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -30,4 +30,15 @@ anagrams:
 - bayer
 - beray
 - yerba
+prev_word: barry
+next_word: basal
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ye/"
+  label: Ending in YE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

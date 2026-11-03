@@ -26,4 +26,15 @@ neighbours:
 - plumy
 - plute
 - pluto
+prev_word: pluto
+next_word: plyer
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

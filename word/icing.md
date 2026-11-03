@@ -36,4 +36,15 @@ definitions:
       puck from his/her side of the red line so that it crosses the goal line on the
       opponent's side. A team playing short-handed is not penalized for this.
   - text: The process of forming a layer of ice on a surface.
+prev_word: icily
+next_word: icker
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/ic/"
+  label: Starting with IC
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

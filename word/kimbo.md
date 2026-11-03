@@ -32,4 +32,15 @@ anagrams:
 trap:
   pattern: _IMBO
   count: 6
+prev_word: kilty
+next_word: kimet
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

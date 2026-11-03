@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 18
+prev_word: cetes
+next_word: cezve
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

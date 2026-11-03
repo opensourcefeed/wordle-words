@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: One who has participated in a hajj.
   - text: A Muslim or Arab.
+prev_word: hajis
+next_word: hakam
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ji/"
+  label: Ending in JI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

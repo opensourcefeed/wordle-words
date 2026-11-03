@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Tajikistani coin; 100 dirams equal one somoni.
+prev_word: dipso
+next_word: direr
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

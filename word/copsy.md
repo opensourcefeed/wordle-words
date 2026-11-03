@@ -25,4 +25,15 @@ neighbours:
 - mopsy
 - oopsy
 - popsy
+prev_word: copse
+next_word: coqui
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

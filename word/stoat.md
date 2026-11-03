@@ -42,4 +42,15 @@ definitions:
   - text: Mustela erminea, the ermine or short-tailed weasel, a mustelid native to
       Eurasia and North America, distinguished from the least weasel by its larger
       size and longer tail with a prominent black tip.
+prev_word: stoas
+next_word: stobs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

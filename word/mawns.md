@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _AWNS
   count: 10
+prev_word: mawla
+next_word: mawps
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

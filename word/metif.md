@@ -25,4 +25,15 @@ neighbours:
 - motif
 - metic
 - metis
+prev_word: metic
+next_word: metis
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/if/"
+  label: Ending in IF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

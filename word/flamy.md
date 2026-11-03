@@ -28,4 +28,15 @@ neighbours:
 - flary
 - flawy
 - flaxy
+prev_word: flams
+next_word: flane
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

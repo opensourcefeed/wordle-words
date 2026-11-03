@@ -60,4 +60,15 @@ definitions:
   defs:
   - text: To shrink from, or avoid something because of fear.
   - text: To frighten; to cause to flinch.
+prev_word: funis
+next_word: funky
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

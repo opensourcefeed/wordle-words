@@ -20,4 +20,15 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 98
+prev_word: azury
+next_word: azyme
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/az/"
+  label: Starting with AZ
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _IPES
   count: 8
+prev_word: kipas
+next_word: kippa
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

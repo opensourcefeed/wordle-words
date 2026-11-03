@@ -65,4 +65,15 @@ definitions:
   - text: In a position, case, etc., in which.
     example: Where no provision under this Act is applicable, the case shall be decided
       in accordance with the customary practices.
+prev_word: whens
+next_word: whets
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

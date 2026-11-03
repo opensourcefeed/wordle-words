@@ -47,4 +47,15 @@ definitions:
   - text: To strap.
   - text: "(recorded since 1842; now most used) To hone (a razor) with a strop."
     example: One should strop the razor before each shave.
+prev_word: strip
+next_word: strow
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

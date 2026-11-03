@@ -60,4 +60,15 @@ definitions:
   defs:
   - text: A beating or verbal abuse.
     example: He's taken his lumps over the years.
+prev_word: lummy
+next_word: lumpy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: A sibilant buzz or vibration; the sound of something in rapid motion.
   - text: A bustle of noise and excitement.
+prev_word: whirr
+next_word: whish
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -25,4 +25,15 @@ neighbours:
 - jamun
 - jomon
 - ramon
+prev_word: jammy
+next_word: jamun
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

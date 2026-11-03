@@ -37,4 +37,15 @@ definitions:
   - text: Chiastolite; so called from the tessellated appearance of a cross-section.
   - text: A crystal having a similar tessellated appearance.
   - text: A twin crystal.
+prev_word: macks
+next_word: macon
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

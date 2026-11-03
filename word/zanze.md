@@ -28,4 +28,15 @@ neighbours:
 - zanza
 anagrams:
 - zazen
+prev_word: zanza
+next_word: zappy
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

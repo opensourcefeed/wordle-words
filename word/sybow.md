@@ -20,4 +20,15 @@ stats:
   starter_top_percent: 85
 neighbours:
 - syboe
+prev_word: syboe
+next_word: sycee
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

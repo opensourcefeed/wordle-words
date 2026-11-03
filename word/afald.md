@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 86
+prev_word: aevum
+next_word: afanc
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

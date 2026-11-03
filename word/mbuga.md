@@ -19,4 +19,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 82
+prev_word: mbube
+next_word: meads
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

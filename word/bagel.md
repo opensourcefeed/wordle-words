@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To achieve a score of 6-0 in a tennis set.
   - text: To hold an opponent to a score of zero.
+prev_word: bafts
+next_word: baggy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

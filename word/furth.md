@@ -24,4 +24,15 @@ neighbours:
 - firth
 - fulth
 - murth
+prev_word: furry
+next_word: furze
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

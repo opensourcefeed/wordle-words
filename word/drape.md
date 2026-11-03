@@ -60,4 +60,15 @@ definitions:
   - text: To design drapery, arrange its folds, etc., as for hangings, costumes, statues,
       etc.
   - text: To hang or rest limply
+prev_word: drant
+next_word: draps
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

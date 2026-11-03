@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: The narrow wooden centre piece of a chair back.
+prev_word: spivs
+next_word: splay
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -23,4 +23,13 @@ stats:
 neighbours:
 - buffo
 - cuffs
+prev_word: cueca
+next_word: cuffs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -36,4 +36,15 @@ anagrams:
 - sensi
 - sines
 - snies
+prev_word: sield
+next_word: sient
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

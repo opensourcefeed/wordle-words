@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: Garish, brilliant showiness.
+prev_word: glits
+next_word: gloam
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/tz/"
+  label: Ending in TZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

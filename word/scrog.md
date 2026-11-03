@@ -29,4 +29,15 @@ neighbours:
 - sprog
 anagrams:
 - crogs
+prev_word: scrod
+next_word: scroo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/og/"
+  label: Ending in OG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

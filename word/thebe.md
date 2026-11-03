@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A subdivision of currency, equal to one hundredth of a Botswanan pula.
+prev_word: thawy
+next_word: theca
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

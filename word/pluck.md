@@ -57,4 +57,15 @@ definitions:
   - text: "(university slang) To be rejected after failing an examination for a degree."
   - text: 'Of a glacier: to transport individual pieces of bedrock by means of gradual
       erosion through freezing and thawing.'
+prev_word: ploys
+next_word: pluds
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -22,4 +22,15 @@ neighbours:
 - gawky
 - gaucy
 - gawsy
+prev_word: gavot
+next_word: gawds
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

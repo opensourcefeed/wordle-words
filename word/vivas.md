@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: An oral examination, typically for an academic qualification.
+prev_word: vitta
+next_word: vivat
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

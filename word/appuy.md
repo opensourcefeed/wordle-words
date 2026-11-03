@@ -24,4 +24,13 @@ neighbours:
 - apply
 - appay
 - appui
+prev_word: appui
+next_word: apres
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

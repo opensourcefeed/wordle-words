@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: To amaze or awe.
     example: He really wowed the audience.
+prev_word: woven
+next_word: wowee
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

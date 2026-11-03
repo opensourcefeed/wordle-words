@@ -36,4 +36,15 @@ anagrams:
 - teers
 - teres
 - trees
+prev_word: reerd
+next_word: reeve
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -29,4 +29,15 @@ neighbours:
 - nagar
 - navar
 - nazir
+prev_word: nawal
+next_word: nazes
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

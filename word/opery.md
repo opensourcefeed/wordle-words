@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - porey
 - ropey
+prev_word: opera
+next_word: opgaf
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/op/"
+  label: Starting with OP
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

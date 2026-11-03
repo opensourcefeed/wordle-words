@@ -41,4 +41,15 @@ definitions:
   - text: The lower portion of an interior wall decorated differently from the upper
       portion.
   - text: The rectangular channel in a board cut across the grain.
+prev_word: dadla
+next_word: daffs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

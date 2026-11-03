@@ -59,4 +59,15 @@ definitions:
 - pos: noun
   defs:
   - text: A brown colour, with a tint of red.
+prev_word: soree
+next_word: sorer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

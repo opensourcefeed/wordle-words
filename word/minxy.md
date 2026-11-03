@@ -29,4 +29,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Characteristic of a minx (flirtatious young woman).
+prev_word: minus
+next_word: miraa
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

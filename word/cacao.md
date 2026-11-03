@@ -34,4 +34,13 @@ definitions:
   defs:
   - text: A tree, Theobroma cacao, whose seed is used to make chocolate.
   - text: This tree's seed, the cocoa bean.
+prev_word: cabre
+next_word: cacas
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

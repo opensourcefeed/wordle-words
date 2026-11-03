@@ -52,4 +52,15 @@ definitions:
       pavement.
   - text: Penalty box; penalty area.
   - text: Genitals.
+prev_word: arear
+next_word: areca
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

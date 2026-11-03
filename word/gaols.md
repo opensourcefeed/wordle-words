@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To imprison.
+prev_word: gants
+next_word: gaped
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

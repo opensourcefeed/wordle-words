@@ -64,4 +64,15 @@ definitions:
   - text: Being a literal number or string value with no meaning or context, not defined
       as a constant or variable
     example: The code is full of magic numbers and we can't figure out what they mean.
+prev_word: maggs
+next_word: magma
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

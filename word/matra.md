@@ -25,4 +25,15 @@ neighbours:
 - marra
 - matza
 - yatra
+prev_word: matlo
+next_word: matsu
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

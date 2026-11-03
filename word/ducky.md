@@ -46,4 +46,15 @@ definitions:
   - text: Great; going well; proceeding in an eminently agreeable fashion.
     example: Farnesworth smiled contentedly as he read the stock ticker; all was ducky
       on Wall Street.
+prev_word: ducks
+next_word: ducti
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

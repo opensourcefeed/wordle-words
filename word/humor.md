@@ -50,4 +50,15 @@ definitions:
   - text: To pacify by indulging.
     example: I know you don't believe my story, but humour me for a minute and imagine
       it to be true.
+prev_word: humid
+next_word: humph
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

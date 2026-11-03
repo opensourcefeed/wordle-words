@@ -27,4 +27,15 @@ definitions:
   defs:
   - text: A massless gauge boson that binds quarks together to form baryons, mesons
       and other hadrons and is associated with the strong nuclear force.
+prev_word: glums
+next_word: glute
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

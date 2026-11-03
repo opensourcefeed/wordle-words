@@ -29,4 +29,15 @@ definitions:
 - pos: pronoun
   defs:
   - text: Whosoever, whatever person
+prev_word: whose
+next_word: whows
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

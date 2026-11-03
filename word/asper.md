@@ -38,4 +38,15 @@ anagrams:
 - rapes
 - reaps
 - repas
+prev_word: aspen
+next_word: aspic
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

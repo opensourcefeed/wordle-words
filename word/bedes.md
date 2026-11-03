@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _EDES
   count: 8
+prev_word: bedel
+next_word: bedew
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

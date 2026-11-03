@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: The former currency of Ecuador, divided into 100 centavos.
+prev_word: sucky
+next_word: sudan
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

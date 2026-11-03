@@ -24,4 +24,15 @@ neighbours:
 - crept
 - crapy
 - creps
+prev_word: crept
+next_word: cress
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

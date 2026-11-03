@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _OWIE
   count: 8
+prev_word: mower
+next_word: mowra
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -26,4 +26,15 @@ neighbours:
 - miraa
 anagrams:
 - ziram
+prev_word: mirvs
+next_word: misal
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Any of various small passerine birds, mainly from the genus Anthus, that
       are often drab, ground feeding insectivores of open country.
+prev_word: pipis
+next_word: pippy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

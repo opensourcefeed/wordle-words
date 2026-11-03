@@ -47,4 +47,15 @@ definitions:
   - text: To punch or hit.
   - text: To discard; to throw out; to throw away.
   - text: To wipe out; to faceplant; to fall.
+prev_word: biffo
+next_word: biffy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

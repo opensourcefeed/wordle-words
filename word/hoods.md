@@ -62,4 +62,15 @@ definitions:
 - pos: noun
   defs:
   - text: Person wearing a hoodie.
+prev_word: hooch
+next_word: hoody
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

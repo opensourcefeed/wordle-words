@@ -28,4 +28,15 @@ neighbours:
 - wanty
 - warby
 - warts
+prev_word: warts
+next_word: wases
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

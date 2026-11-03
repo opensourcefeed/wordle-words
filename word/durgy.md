@@ -26,4 +26,15 @@ neighbours:
 - surgy
 anagrams:
 - gurdy
+prev_word: dures
+next_word: durns
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

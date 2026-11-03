@@ -32,4 +32,15 @@ definitions:
       Pinna nobilis) by which they attach themselves to the sea bed, and from which
       sea silk is manufactured.
   - text: The stipe or stem of some fungi which are particularly thin and thread-like.
+prev_word: byrls
+next_word: bytes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/by/"
+  label: Starting with BY
+- url: "/ending-with/si/"
+  label: Ending in SI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

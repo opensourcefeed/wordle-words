@@ -106,4 +106,15 @@ definitions:
   - text: To plagiarize, to imitate.
     example: He always be biting my moves.
   - text: To deceive or defraud; to take in.
+prev_word: biter
+next_word: bitey
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

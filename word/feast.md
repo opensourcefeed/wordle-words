@@ -52,4 +52,15 @@ definitions:
     example: It was a feast for the eyes.
   - text: A festival; a holy day or holiday; a solemn, or more commonly, a joyous,
       anniversary.
+prev_word: fease
+next_word: feats
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

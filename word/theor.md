@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - other
 - throe
+prev_word: thens
+next_word: theow
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

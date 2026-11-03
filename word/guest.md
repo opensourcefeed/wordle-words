@@ -55,4 +55,15 @@ definitions:
       does not normally have in its line up (for instance, percussion in a string
       band)
   - text: To receive or entertain hospitably.
+prev_word: guess
+next_word: guffs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

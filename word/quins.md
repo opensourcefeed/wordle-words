@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: A European scallop, Pecten opercularis, used as food.
+prev_word: quino
+next_word: quint
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

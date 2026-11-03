@@ -94,4 +94,15 @@ definitions:
   - text: (usually "the wave") A group activity in a crowd imitating a wave going
       through water, where people in successive parts of the crowd stand and stretch
       upward, then sit.
+prev_word: waver
+next_word: wavey
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

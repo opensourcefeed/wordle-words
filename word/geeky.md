@@ -35,4 +35,15 @@ definitions:
     example: 2004, Buddy Holly is a slightly more contentious inclusion, even if he
       did live fast, die young and leave a geeky-looking corpse. — Fiona Shepherd
       in Return of the Sun King, The Scotsman, 2 July 2004
+prev_word: geeks
+next_word: geeps
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 63
 neighbours:
 - avize
+prev_word: avows
+next_word: await
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/av/"
+  label: Starting with AV
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

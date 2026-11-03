@@ -47,4 +47,15 @@ definitions:
   - text: The watery portion of certain animal fluids like blood, milk, etc; whey.
   - text: "(skincare) An intensive moisturising product to be applied after cleansing
       but before a general moisturiser."
+prev_word: serry
+next_word: serve
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

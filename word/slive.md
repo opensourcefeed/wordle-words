@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: S_IVE
   count: 6
+prev_word: slits
+next_word: sloan
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

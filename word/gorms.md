@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ORMS
   count: 7
+prev_word: goris
+next_word: gormy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

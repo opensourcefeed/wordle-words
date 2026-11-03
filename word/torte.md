@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: A rich, dense cake, typically made with many eggs and relatively little
       flour (as opposed to a sponge cake or gâteau).
+prev_word: torta
+next_word: torts
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

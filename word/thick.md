@@ -72,4 +72,15 @@ definitions:
     example: Snow lay thick on the ground.
   - text: Frequently or numerously.
     example: The arrows flew thick and fast around us.
+prev_word: thewy
+next_word: thief
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

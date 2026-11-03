@@ -33,4 +33,15 @@ neighbours:
 - gemot
 anagrams:
 - moted
+prev_word: demos
+next_word: dempt
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

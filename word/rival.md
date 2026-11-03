@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: Having the same pretensions or claims; standing in competition for superiority.
     example: rival lovers; rival claims or pretensions
+prev_word: ritzy
+next_word: rivas
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

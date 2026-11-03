@@ -30,4 +30,15 @@ anagrams:
 - proot
 - proto
 - tropo
+prev_word: potoo
+next_word: potsy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -28,4 +28,15 @@ neighbours:
 - taxer
 - taxol
 - taxon
+prev_word: taxon
+next_word: taxus
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

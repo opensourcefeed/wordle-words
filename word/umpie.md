@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: An umpire.
+prev_word: umphs
+next_word: umpty
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/um/"
+  label: Starting with UM
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

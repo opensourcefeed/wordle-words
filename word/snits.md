@@ -49,4 +49,15 @@ definitions:
       glasses with a Bloody Mary cocktail in the upper midwest states of United States
       including Minnesota, North Dakota, Wisconsin, Iowa, Michigan, and Illinois.
     example: The bartender served us each a snit with our Bloody Marys this morning.
+prev_word: snirt
+next_word: snive
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

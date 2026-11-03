@@ -36,4 +36,15 @@ definitions:
 - pos: verb
   defs:
   - text: To rehabilitate.
+prev_word: regur
+next_word: rehem
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ab/"
+  label: Ending in AB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

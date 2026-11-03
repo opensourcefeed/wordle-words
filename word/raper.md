@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: A person who has raped someone; a rapist.
+prev_word: rapee
+next_word: rapes
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

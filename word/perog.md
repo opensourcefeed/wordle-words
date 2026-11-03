@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - grope
 - porge
+prev_word: perns
+next_word: perps
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/og/"
+  label: Ending in OG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

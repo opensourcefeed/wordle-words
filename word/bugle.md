@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To announce, sing, or cry in the manner of a musical bugle
+prev_word: buggy
+next_word: buhls
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

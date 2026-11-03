@@ -42,4 +42,13 @@ definitions:
       example to trick an opponent.
   - text: To hide or conceal.
     example: Jessica feigned the fact that she had not done her homework.
+prev_word: fehme
+next_word: feint
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

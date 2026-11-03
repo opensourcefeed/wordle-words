@@ -52,4 +52,15 @@ definitions:
   - text: To make angry
   - text: To stir or move from a state of calm or order
     example: It riles me that she never closes the door after she leaves.
+prev_word: riled
+next_word: riley
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

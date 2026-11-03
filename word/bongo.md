@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A striped bovine mammal found in Africa, Tragelaphus eurycerus.
+prev_word: boney
+next_word: bongs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

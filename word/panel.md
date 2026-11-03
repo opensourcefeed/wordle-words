@@ -71,4 +71,15 @@ definitions:
 - pos: verb
   defs:
   - text: To fit with panels.
+prev_word: paned
+next_word: panes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

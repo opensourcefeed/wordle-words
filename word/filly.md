@@ -47,4 +47,15 @@ definitions:
   - text: A young female horse.
   - text: A young attractive female.
     example: Hey, Homer, get a load of the gams on that filly!
+prev_word: fills
+next_word: filmi
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

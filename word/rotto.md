@@ -32,4 +32,15 @@ neighbours:
 - sotto
 anagrams:
 - torot
+prev_word: rotte
+next_word: rotty
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

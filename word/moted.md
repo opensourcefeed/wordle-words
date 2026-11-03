@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: MO_ED
   count: 9
+prev_word: mosts
+next_word: motel
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

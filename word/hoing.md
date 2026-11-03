@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - hongi
 - ohing
+prev_word: hoiks
+next_word: hoise
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

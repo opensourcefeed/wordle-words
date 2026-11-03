@@ -37,4 +37,15 @@ definitions:
   - text: Used as a call for coordinated physical effort, as in hoisting.
   - text: "(sometimes humorous) Used as a cheer indicating exaltation, enjoyment or
       approval."
+prev_word: hutia
+next_word: huzzy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -65,4 +65,15 @@ definitions:
   - text: "(cryptocurrency) Of a coin or token: to rise in price rapidly."
     example: It is impractical if a currency moons and plummets often.
   - text: To shoot the moon.
+prev_word: mooni
+next_word: moony
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

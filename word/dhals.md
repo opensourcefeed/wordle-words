@@ -30,4 +30,15 @@ neighbours:
 - duals
 anagrams:
 - dahls
+prev_word: dhaks
+next_word: dhikr
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dh/"
+  label: Starting with DH
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

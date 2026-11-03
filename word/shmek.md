@@ -20,4 +20,15 @@ stats:
   starter_top_percent: 64
 neighbours:
 - samek
+prev_word: shlub
+next_word: shmoe
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

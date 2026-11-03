@@ -23,4 +23,15 @@ stats:
 neighbours:
 - pelma
 - regma
+prev_word: peghs
+next_word: pegos
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

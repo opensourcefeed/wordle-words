@@ -27,4 +27,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Not hip; uncool, unfashionable.
+prev_word: unhat
+next_word: unica
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ip/"
+  label: Ending in IP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

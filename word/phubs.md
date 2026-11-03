@@ -26,4 +26,15 @@ definitions:
 - pos: verb
   defs:
   - text: To ignore the conversation around oneself by focusing on one's smartphone.
+prev_word: phpht
+next_word: phuts
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -22,4 +22,15 @@ stats:
 neighbours:
 - dwale
 - dwaum
+prev_word: dwale
+next_word: dwams
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dw/"
+  label: Starting with DW
+- url: "/ending-with/lm/"
+  label: Ending in LM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

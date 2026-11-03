@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(usually of a male) To have sex with (someone)."
+prev_word: porin
+next_word: porky
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

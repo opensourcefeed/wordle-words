@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - motus
 - smout
+prev_word: mouse
+next_word: mousy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

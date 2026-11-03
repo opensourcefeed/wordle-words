@@ -66,4 +66,15 @@ definitions:
 - pos: verb
   defs:
   - text: To supply (a pump) with the water necessary for it to operate.
+prev_word: fango
+next_word: fanks
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

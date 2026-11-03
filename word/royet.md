@@ -30,4 +30,15 @@ neighbours:
 - rozet
 anagrams:
 - toyer
+prev_word: royal
+next_word: royne
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

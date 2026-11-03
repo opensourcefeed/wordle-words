@@ -35,4 +35,15 @@ definitions:
 - pos: verb
   defs:
   - text: To shape a material using an adze.
+prev_word: adyts
+next_word: adzes
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

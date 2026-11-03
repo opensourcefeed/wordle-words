@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _INTS
   count: 9
+prev_word: linos
+next_word: linty
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _URRY
   count: 9
+prev_word: murrs
+next_word: murth
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

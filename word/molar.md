@@ -53,4 +53,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of or relating to the molar teeth, or to grinding.
+prev_word: molal
+next_word: molas
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

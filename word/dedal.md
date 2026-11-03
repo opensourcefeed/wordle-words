@@ -30,4 +30,15 @@ anagrams:
 - addle
 - daled
 - laded
+prev_word: decyl
+next_word: deeds
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

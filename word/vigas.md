@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A roughly-made rafter or roof timber, especially in a Latin American village
+prev_word: viffs
+next_word: vigia
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

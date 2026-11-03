@@ -49,4 +49,15 @@ definitions:
 - pos: verb
   defs:
   - text: To excite; to tease, or worry; to harry.
+prev_word: hardy
+next_word: harem
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

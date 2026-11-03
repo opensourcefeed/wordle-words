@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: Freight carried by a ship, aircraft, or motor vehicle.
   - text: "(Papua New Guinea) Western material goods."
+prev_word: carex
+next_word: carks
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

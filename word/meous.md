@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - mouse
 - moues
+prev_word: menus
+next_word: meows
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

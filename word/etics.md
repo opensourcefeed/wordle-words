@@ -30,4 +30,15 @@ anagrams:
 - cesti
 - cites
 - tices
+prev_word: ethyl
+next_word: etnas
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/et/"
+  label: Starting with ET
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

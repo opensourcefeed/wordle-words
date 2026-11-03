@@ -57,4 +57,15 @@ definitions:
   - text: "(usually followed by with or on) Elated or emboldened."
     example: Drunk with power he immediately ordered a management reshuffle.
   - text: Drenched or saturated with moisture or liquid.
+prev_word: drums
+next_word: drupe
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

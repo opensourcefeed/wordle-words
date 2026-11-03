@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To fasten or secure with a leash.
   - text: To curb, restrain
+prev_word: lease
+next_word: least
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

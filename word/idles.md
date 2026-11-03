@@ -45,4 +45,15 @@ definitions:
   - text: To spend in idleness; to waste; to consume.
   - text: To lose or spend time doing nothing, or without being employed in business.
   - text: 'Of an engine: to run at a slow speed, or out of gear; to tick over.'
+prev_word: idler
+next_word: idlis
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/id/"
+  label: Starting with ID
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

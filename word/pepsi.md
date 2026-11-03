@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 56
 anagrams:
 - pipes
+prev_word: peppy
+next_word: pequi
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/si/"
+  label: Ending in SI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

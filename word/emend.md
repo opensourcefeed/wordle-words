@@ -29,4 +29,15 @@ definitions:
 - pos: verb
   defs:
   - text: To correct and revise (text or a document).
+prev_word: emeer
+next_word: emerg
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

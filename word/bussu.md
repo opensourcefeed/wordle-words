@@ -19,4 +19,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 100
+prev_word: busky
+next_word: busti
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

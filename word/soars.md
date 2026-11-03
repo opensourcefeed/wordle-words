@@ -58,4 +58,15 @@ definitions:
   - text: To rise, especially rapidly or unusually high.
     example: The pump prices soared into new heights as the strike continued.
   - text: To rise in thought, spirits, or imagination; to be exalted in mood.
+prev_word: soare
+next_word: soave
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

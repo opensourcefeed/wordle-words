@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Coastal fog along the coast of North East England and Scotland bordering
       the North Sea.
+prev_word: haafs
+next_word: haats
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

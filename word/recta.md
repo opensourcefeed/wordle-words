@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: The terminal part of the large intestine through which feces pass after
       exiting the colon.
+prev_word: recon
+next_word: recte
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

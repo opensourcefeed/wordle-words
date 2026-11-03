@@ -26,4 +26,15 @@ neighbours:
 - lyard
 anagrams:
 - artly
+prev_word: lyard
+next_word: lyase
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

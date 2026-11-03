@@ -26,4 +26,15 @@ neighbours:
 - boyla
 - boysy
 - doyly
+prev_word: boyla
+next_word: boyos
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

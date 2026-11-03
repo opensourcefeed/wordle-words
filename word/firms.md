@@ -45,4 +45,15 @@ definitions:
   - text: To shorten (of betting odds).
   - text: To select (a higher education institution) as one's preferred choice, so
       as to enrol automatically if one's grades match the conditional offer.
+prev_word: firma
+next_word: firni
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ECKS
   count: 10
+prev_word: gecko
+next_word: geeks
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 46
 neighbours:
 - belah
+prev_word: beisa
+next_word: belah
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

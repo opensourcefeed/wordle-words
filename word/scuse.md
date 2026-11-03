@@ -24,4 +24,15 @@ neighbours:
 - scute
 - sluse
 - souse
+prev_word: scurs
+next_word: scuta
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -31,4 +31,15 @@ anagrams:
 - radge
 - ragde
 - raged
+prev_word: garda
+next_word: gares
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

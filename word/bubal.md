@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: An extinct subspecies of the hartebeest, Alcelaphus buselaphus buselaphus,
       which was formerly native to northern Africa.
+prev_word: buaze
+next_word: bubas
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

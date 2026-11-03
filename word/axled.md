@@ -30,4 +30,15 @@ neighbours:
 - axles
 anagrams:
 - laxed
+prev_word: axite
+next_word: axles
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ax/"
+  label: Starting with AX
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

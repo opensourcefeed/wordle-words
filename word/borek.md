@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of baked or fried filled pastry of the former Ottoman Empire.
+prev_word: boree
+next_word: borel
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

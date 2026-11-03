@@ -44,4 +44,15 @@ definitions:
   - text: A distinctive feeling, aura, or atmosphere.
   - text: "(Reddit) A score assigned to a user of a discussion forum, indicating the
       popularity of their posts with other users."
+prev_word: karks
+next_word: karns
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

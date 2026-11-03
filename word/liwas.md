@@ -32,4 +32,15 @@ anagrams:
 - swail
 - wails
 - walis
+prev_word: liwaa
+next_word: llama
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

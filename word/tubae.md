@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - beaut
 - taube
+prev_word: tuath
+next_word: tubal
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

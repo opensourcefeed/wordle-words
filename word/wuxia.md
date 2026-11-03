@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: A genre of Chinese fiction concerning the adventures of martial artists,
       typically set in Ancient China.
+prev_word: wussy
+next_word: wyled
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wu/"
+  label: Starting with WU
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

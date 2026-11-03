@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To create computer graphics by editing individual pixels.
+prev_word: pivot
+next_word: pixes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

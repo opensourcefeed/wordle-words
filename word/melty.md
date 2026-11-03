@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having a high tendency to melt.
+prev_word: melts
+next_word: memes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

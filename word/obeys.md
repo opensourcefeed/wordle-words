@@ -35,4 +35,15 @@ definitions:
       bidding of.
   - text: To do as one is told.
   - text: To be obedient, compliant (to a given law, restriction etc.).
+prev_word: obese
+next_word: obias
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ob/"
+  label: Starting with OB
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

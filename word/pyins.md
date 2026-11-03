@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - spiny
 - snipy
+prev_word: pygmy
+next_word: pylon
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

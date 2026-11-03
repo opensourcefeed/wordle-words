@@ -42,4 +42,15 @@ definitions:
   - text: A period of time at the end of day when the sun is below the horizon but
       before the full onset of night, especially the darker part of twilight.
   - text: A darkish colour.
+prev_word: durzi
+next_word: dusky
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

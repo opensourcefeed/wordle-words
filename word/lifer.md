@@ -49,4 +49,15 @@ definitions:
   - text: A person with a singular career path, especially in the military.
   - text: A bird species seen for the first time by a birder who is keeping a list
       of all the species he or she has ever seen.
+prev_word: lieve
+next_word: lifes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

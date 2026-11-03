@@ -46,4 +46,15 @@ definitions:
   - text: A fish, the zebra cichlid.
   - text: Any of various papilionid butterflies of the subgenus Paranticopsis of the
       genus Graphium, having black and white markings.
+prev_word: zebec
+next_word: zebub
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/ze/"
+  label: Starting with ZE
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

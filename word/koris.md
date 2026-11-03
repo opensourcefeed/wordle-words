@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: The monetary unit of Kutch prior to 1947, divided into 24 dokdas.
+prev_word: kores
+next_word: korma
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

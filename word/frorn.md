@@ -24,4 +24,15 @@ neighbours:
 - frown
 - frore
 - frory
+prev_word: frore
+next_word: frory
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _AZES
   count: 9
+prev_word: nazar
+next_word: nazir
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

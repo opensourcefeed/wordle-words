@@ -51,4 +51,15 @@ definitions:
   - text: 'Expressing bad consequences: dreadful; dismal'
     example: dire consequences;  to be in dire straits
   - text: Bad in quality, awful, terrible.
+prev_word: diram
+next_word: dirge
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

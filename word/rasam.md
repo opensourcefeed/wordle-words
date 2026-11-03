@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A spicy South Indian soup made with tamarind juice.
+prev_word: rarks
+next_word: rasas
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

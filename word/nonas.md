@@ -37,4 +37,15 @@ neighbours:
 anagrams:
 - nanos
 - nason
+prev_word: nonan
+next_word: nonce
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

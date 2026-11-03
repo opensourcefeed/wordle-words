@@ -31,4 +31,15 @@ neighbours:
 - glume
 anagrams:
 - gimel
+prev_word: glike
+next_word: glims
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

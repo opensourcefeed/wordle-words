@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _OUSE
   count: 9
+prev_word: bourn
+next_word: bousy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

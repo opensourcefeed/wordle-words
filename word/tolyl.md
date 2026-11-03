@@ -25,4 +25,15 @@ neighbours:
 - tosyl
 anagrams:
 - tolly
+prev_word: tolus
+next_word: toman
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

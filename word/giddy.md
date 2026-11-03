@@ -48,4 +48,15 @@ definitions:
   - text: Lightheartedly silly, or joyfully elated.
     example: The boy was giddy when he opened his birthday presents.
   - text: Frivolous, impulsive, inconsistent, changeable.
+prev_word: gibus
+next_word: gifts
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

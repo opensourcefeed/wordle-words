@@ -48,4 +48,15 @@ definitions:
   - text: To be healed, to be cured, to recover (from an illness).
   - text: To make a formal alteration (in legislation, a report, etc.) by adding,
       deleting, or rephrasing.
+prev_word: ameer
+next_word: amene
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

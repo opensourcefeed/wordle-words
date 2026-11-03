@@ -56,4 +56,15 @@ definitions:
 - pos: verb
   defs:
   - text: To control (flow) by means of a valve.
+prev_word: value
+next_word: vamps
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: A prehistoric chisel-bladed tool.
+prev_word: celom
+next_word: cense
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

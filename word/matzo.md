@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Thin, unleavened bread in Jewish cuisine.
   - text: A piece of the above bread.
+prev_word: matza
+next_word: mauby
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/zo/"
+  label: Ending in ZO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

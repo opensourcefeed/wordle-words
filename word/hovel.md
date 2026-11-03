@@ -54,4 +54,15 @@ definitions:
   - text: To construct a chimney so as to prevent smoking, by making two of the more
       exposed walls higher than the others, or making an opening on one side near
       the top.
+prev_word: hoved
+next_word: hoven
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

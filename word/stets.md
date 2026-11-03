@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: To let (edited material) stand, or remain as it was.
     example: Stet that colon.
+prev_word: stern
+next_word: stews
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

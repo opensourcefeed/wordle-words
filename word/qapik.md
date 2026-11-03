@@ -21,4 +21,13 @@ stats:
   - Q
   starter_tier: Weak
   starter_top_percent: 86
+prev_word: qanat
+next_word: qibla
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

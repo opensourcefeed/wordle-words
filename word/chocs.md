@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: Chocolate
     example: a box of chocs
+prev_word: choco
+next_word: chode
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

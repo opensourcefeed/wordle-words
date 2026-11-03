@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: A plant from the South Pacific, Piper methysticum.
   - text: An intoxicating beverage made from the kava plant.
+prev_word: kaval
+next_word: kawas
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -34,4 +34,15 @@ anagrams:
 - loves
 - ovels
 - voles
+prev_word: slots
+next_word: slows
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

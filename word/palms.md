@@ -71,4 +71,15 @@ definitions:
   - text: To hold something without bending the fingers significantly.
     example: John palmed the ball.
   - text: To move something with the palm of the hand.
+prev_word: pally
+next_word: palmy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

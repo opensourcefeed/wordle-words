@@ -72,4 +72,15 @@ definitions:
 - pos: noun
   defs:
   - text: A small fish, the dace.
+prev_word: darer
+next_word: darga
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

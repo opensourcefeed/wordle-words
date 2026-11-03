@@ -22,4 +22,15 @@ stats:
 neighbours:
 - pampa
 - yampy
+prev_word: yamen
+next_word: yampy
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

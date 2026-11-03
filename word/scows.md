@@ -39,4 +39,15 @@ definitions:
 - pos: verb
   defs:
   - text: To transport in a scow.
+prev_word: scowp
+next_word: scrab
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

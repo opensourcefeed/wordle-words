@@ -42,4 +42,15 @@ definitions:
 - pos: conjunction
   defs:
   - text: In advance of the time when; before.
+prev_word: afoot
+next_word: afoul
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

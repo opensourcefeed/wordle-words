@@ -36,4 +36,15 @@ definitions:
       theme.
   - text: A sign that represents its object in respect of quality and so, in its signified
       interpretant, is represented as a character or mark; sumisign.
+prev_word: rheid
+next_word: rheum
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/rh/"
+  label: Starting with RH
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

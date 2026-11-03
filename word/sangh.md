@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - gnash
 - hangs
+prev_word: sanga
+next_word: sango
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

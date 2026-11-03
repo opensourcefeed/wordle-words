@@ -28,4 +28,15 @@ neighbours:
 - scuff
 anagrams:
 - luffs
+prev_word: slues
+next_word: slugs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

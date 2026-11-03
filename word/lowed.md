@@ -55,4 +55,15 @@ definitions:
 - pos: verb
   defs:
   - text: To burn; to blaze.
+prev_word: lowan
+next_word: lowen
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

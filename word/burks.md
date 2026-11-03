@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To vomit.
     example: It was nasty, y’all. She just burked all over my sedan.
+prev_word: burke
+next_word: burls
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

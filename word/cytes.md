@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _YTES
   count: 6
+prev_word: cysts
+next_word: cyton
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cy/"
+  label: Starting with CY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

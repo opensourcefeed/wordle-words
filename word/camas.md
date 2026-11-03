@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of the North American flowering plants of the genus Camassia.
+prev_word: caman
+next_word: camel
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

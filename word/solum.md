@@ -26,4 +26,15 @@ anagrams:
 - mouls
 - omuls
 - ulmos
+prev_word: solos
+next_word: solus
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -57,4 +57,15 @@ definitions:
   - text: In the form of an adsorbate or adduct.
     example: Once laden it is easy to regenerate the adsorbent and retrieve the adsorbed
       species as a gas.
+prev_word: ladee
+next_word: lader
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

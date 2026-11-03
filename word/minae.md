@@ -32,4 +32,15 @@ anagrams:
 - anime
 - amine
 - manie
+prev_word: mimsy
+next_word: minar
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of strong cotton thread, or a cloth woven from such thread.
+prev_word: lisks
+next_word: lisps
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

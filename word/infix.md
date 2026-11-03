@@ -36,4 +36,15 @@ definitions:
     example: to infix a sting, spear, or dart
   - text: To instill.
   - text: To insert a morpheme inside an existing word.
+prev_word: infer
+next_word: infos
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

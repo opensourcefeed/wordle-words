@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: TO_OS
   count: 8
+prev_word: tommy
+next_word: tomoz
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

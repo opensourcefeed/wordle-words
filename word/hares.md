@@ -58,4 +58,15 @@ definitions:
 - pos: verb
   defs:
   - text: To excite; to tease, or worry; to harry.
+prev_word: harem
+next_word: harim
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

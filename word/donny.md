@@ -30,4 +30,15 @@ neighbours:
 - nonny
 - sonny
 - yonny
+prev_word: donne
+next_word: donor
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

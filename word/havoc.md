@@ -37,4 +37,13 @@ definitions:
 - pos: interjection
   defs:
   - text: A cry in war as the signal for indiscriminate slaughter.
+prev_word: haves
+next_word: hawed
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -100,4 +100,15 @@ definitions:
   - text: Sarcastic inversion thereof.
     example: Oh, great! I just dumped all 500 sheets of the manuscript all over and
       now I have to put them back in order.
+prev_word: graze
+next_word: grebe
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

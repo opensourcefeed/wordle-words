@@ -52,4 +52,15 @@ definitions:
 - pos: noun
   defs:
   - text: A stack or stook of hay.
+prev_word: coled
+next_word: coley
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

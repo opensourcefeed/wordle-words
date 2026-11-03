@@ -37,4 +37,15 @@ definitions:
 - pos: preposition
   defs:
   - text: Beneath.
+prev_word: nears
+next_word: neato
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

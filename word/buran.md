@@ -31,4 +31,15 @@ anagrams:
 - aburn
 - ruban
 - unbar
+prev_word: buppy
+next_word: buras
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

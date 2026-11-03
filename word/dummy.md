@@ -67,4 +67,15 @@ definitions:
       off its intended functionality.
     example: The carpenters dummied some props for the rehearsals.
   - text: To feint.
+prev_word: dumky
+next_word: dumps
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

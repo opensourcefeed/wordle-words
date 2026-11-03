@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 91
 neighbours:
 - cliff
+prev_word: clods
+next_word: clogs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -84,4 +84,15 @@ definitions:
     example: Clipping through walls is integral to the game's speedruns.
   - text: To cheat, swindle, or fleece.
   - text: To grab or take stealthily
+prev_word: clipe
+next_word: clipt
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

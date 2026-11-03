@@ -43,4 +43,15 @@ definitions:
   - text: The entity that performs a role (in use case analysis).
   - text: (grammar) The most agent-like argument of a clause, e.g. 'the torpedo' in
       "The torpedo sank the boat" and "The torpedo fired".
+prev_word: acton
+next_word: actus
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: To sing a hymn.
   - text: To praise or extol in hymns.
+prev_word: hymen
+next_word: hynde
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ neighbours:
 anagrams:
 - gairs
 - garis
+prev_word: raggy
+next_word: ragus
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

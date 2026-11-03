@@ -34,4 +34,15 @@ anagrams:
 - pluot
 - pluto
 - poult
+prev_word: plouk
+next_word: plows
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

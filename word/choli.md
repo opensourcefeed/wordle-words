@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A short-sleeved blouse worn under a sari; an Indian underbodice.
+prev_word: chola
+next_word: cholo
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -30,4 +30,15 @@ neighbours:
 - lowan
 - moran
 - toran
+prev_word: loral
+next_word: lords
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

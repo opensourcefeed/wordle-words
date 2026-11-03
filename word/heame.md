@@ -26,4 +26,15 @@ neighbours:
 - heare
 - reame
 - seame
+prev_word: heals
+next_word: heaps
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -28,4 +28,15 @@ neighbours:
 - pavid
 - pavin
 - pavis
+prev_word: pavid
+next_word: pavin
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: The optical analogue of radar, using intense pulses of laser light to measure
       the composition and structure of the atmosphere.
+prev_word: licks
+next_word: lidos
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -33,4 +33,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(now chiefly West African) To ask."
+prev_word: akoya
+next_word: akses
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ak/"
+  label: Starting with AK
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

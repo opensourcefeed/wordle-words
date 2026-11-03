@@ -27,4 +27,15 @@ neighbours:
 - patin
 - patka
 - patta
+prev_word: paths
+next_word: patin
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

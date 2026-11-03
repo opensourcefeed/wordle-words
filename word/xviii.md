@@ -20,4 +20,11 @@ stats:
   - X
   starter_tier: Weak
   starter_top_percent: 100
+prev_word: xrays
+next_word: xylan
+hubs:
+- url: "/starting-with/x/"
+  label: Starting with X
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

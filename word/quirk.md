@@ -49,4 +49,15 @@ definitions:
     example: He quirked an eyebrow.
   - text: To furnish with a quirk or channel.
   - text: To use verbal tricks or quibbles
+prev_word: quire
+next_word: quirl
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/rk/"
+  label: Ending in RK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -70,4 +70,15 @@ definitions:
   - text: To cut in a triangular form.
   - text: To provide with a gore.
     example: to gore an apron
+prev_word: gored
+next_word: gorge
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

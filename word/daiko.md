@@ -25,4 +25,15 @@ stats:
 neighbours:
 - maiko
 - taiko
+prev_word: dahls
+next_word: daily
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

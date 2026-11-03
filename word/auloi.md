@@ -26,4 +26,15 @@ stats:
   starter_top_percent: 14
 neighbours:
 - aulos
+prev_word: aulic
+next_word: aulos
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/oi/"
+  label: Ending in OI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

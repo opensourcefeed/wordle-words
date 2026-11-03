@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ULLY
   count: 10
+prev_word: nulls
+next_word: numbs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

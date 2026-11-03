@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: To uncover; to reveal.
     example: She bared her teeth at him.
+prev_word: bardy
+next_word: barer
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

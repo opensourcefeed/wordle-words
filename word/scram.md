@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: Leave in a hurry, go away.
     example: What are you kids doing on my lawn? Scram!
+prev_word: scrag
+next_word: scran
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

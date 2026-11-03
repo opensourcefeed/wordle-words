@@ -37,4 +37,15 @@ definitions:
   - text: Any of the genus Lemur, represented by the ring-tailed lemur (Lemur catta).
   - text: A loris (Lemur tardigradus, now Loris tardigradus), predating the 10th edition
       of Systema Naturæ.
+prev_word: lemon
+next_word: lends
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

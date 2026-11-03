@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: Any of very many isomeric univalent hydrocarbon radicals, C10H21, formally
       derived from decane by the loss of a hydrogen atom
+prev_word: decry
+next_word: dedal
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

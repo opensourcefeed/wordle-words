@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Any of the various carnivorous marsupials of the genus Dasyurus found in
       Australia and New Guinea, roughly the size of a cat.
+prev_word: quoit
+next_word: quonk
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

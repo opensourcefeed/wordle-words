@@ -46,4 +46,15 @@ definitions:
       an onion-like bulb but with a milder flavour than the onion.
   - text: Any of several species of Allium, broadly resembling the domesticated plant
       in appearance in the wild.
+prev_word: leech
+next_word: leeps
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

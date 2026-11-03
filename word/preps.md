@@ -65,4 +65,15 @@ definitions:
       sense, with some other word: a particle used with a noun or pronoun (in English
       always in the objective case) to make a phrase limiting some other word."
   - text: A proposition; an exposition; a discourse.
+prev_word: preop
+next_word: presa
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

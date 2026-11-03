@@ -44,4 +44,15 @@ definitions:
   - text: To broaden or extend in scope or range.
     example: The police widened their enquiries.
   - text: To convert to a data type that can hold a larger number of distinct values.
+prev_word: widdy
+next_word: wider
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

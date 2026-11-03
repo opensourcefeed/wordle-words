@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: To give a dower or dowry.
   - text: To endow.
+prev_word: dowel
+next_word: dowfs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

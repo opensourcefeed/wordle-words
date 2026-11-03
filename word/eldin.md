@@ -28,4 +28,15 @@ neighbours:
 - elsin
 anagrams:
 - lined
+prev_word: elder
+next_word: elect
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

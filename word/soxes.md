@@ -39,4 +39,15 @@ neighbours:
 trap:
   pattern: _OXES
   count: 11
+prev_word: sowth
+next_word: soyas
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

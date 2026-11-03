@@ -34,4 +34,15 @@ neighbours:
 - murry
 - murva
 - surra
+prev_word: murly
+next_word: murre
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: A computerized greeting card, typically hosted on a Web site to which the
       recipient is directed by an e-mail message.
+prev_word: ecads
+next_word: ecash
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ec/"
+  label: Starting with EC
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

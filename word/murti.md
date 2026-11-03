@@ -28,4 +28,15 @@ neighbours:
 - murri
 - murth
 - mutti
+prev_word: murth
+next_word: muruk
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

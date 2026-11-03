@@ -51,4 +51,15 @@ definitions:
       anger."
   - text: To cover with froth.
     example: A horse froths his chain.
+prev_word: frost
+next_word: frown
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

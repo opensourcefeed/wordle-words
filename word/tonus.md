@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: Tonicity; tone
     example: muscular tonus
+prev_word: tonne
+next_word: tools
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

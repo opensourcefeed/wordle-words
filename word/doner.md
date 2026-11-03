@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _ONER
   count: 8
+prev_word: donee
+next_word: donga
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

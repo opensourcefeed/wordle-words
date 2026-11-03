@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _OLLS
   count: 10
+prev_word: nolle
+next_word: nolos
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

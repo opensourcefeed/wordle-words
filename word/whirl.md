@@ -54,4 +54,15 @@ definitions:
   - text: To make something or someone whirl.
     example: The dancer whirled his partner round on her toes.
   - text: To remove or carry quickly with, or as with, a revolving motion; to snatch.
+prev_word: whipt
+next_word: whirr
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

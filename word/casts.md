@@ -96,4 +96,15 @@ definitions:
   - text: To open a circle in order to begin a spell or meeting of witches.
   - text: To broadcast.
     example: The streamer was the first to cast footage of the new game.
+prev_word: caste
+next_word: casus
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

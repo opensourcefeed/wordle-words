@@ -33,4 +33,15 @@ anagrams:
 - anglo
 - logan
 - longa
+prev_word: noeme
+next_word: noggs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

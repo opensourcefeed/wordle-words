@@ -38,4 +38,13 @@ definitions:
   defs:
   - text: Frequently, many times.
     example: I often walk to work when the weather is nice.
+prev_word: oflag
+next_word: ofter
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

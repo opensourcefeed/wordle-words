@@ -37,4 +37,15 @@ definitions:
       Asia with reddish fur and a long, ringed tail.
   - text: Short for giant panda.
   - text: "(law enforcement) Short for panda car."
+prev_word: panch
+next_word: pands
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

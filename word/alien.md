@@ -57,4 +57,15 @@ definitions:
   - text: Very unfamiliar, strange, or removed.
     example: principles alien to our religion
   - text: Pertaining to extraterrestrial life.
+prev_word: alick
+next_word: alifs
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

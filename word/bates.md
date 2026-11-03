@@ -72,4 +72,15 @@ definitions:
   - text: To masturbate.
     example: I could go out and take a walk in the park, but I'd rather stay home
       and bate all day.
+prev_word: bated
+next_word: bathe
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

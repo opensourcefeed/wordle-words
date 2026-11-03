@@ -51,4 +51,15 @@ definitions:
 - pos: preposition
   defs:
   - text: "(obsolete or dialectal) Against."
+prev_word: aftos
+next_word: agals
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

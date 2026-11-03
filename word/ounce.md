@@ -43,4 +43,15 @@ definitions:
       1.7339 cubic inches or 28.4131 millilitres.
   - text: A little bit.
     example: He didn't feel even an ounce of regret for his actions.
+prev_word: oumas
+next_word: oundy
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

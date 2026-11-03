@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - fours
 - roufs
+prev_word: furor
+next_word: furrs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

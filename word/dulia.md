@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: The veneration of saints, distinguished from latria, the worship of God.
+prev_word: dules
+next_word: dulls
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

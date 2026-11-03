@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: To score an eagle.
+prev_word: eager
+next_word: eagly
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

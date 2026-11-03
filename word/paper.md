@@ -99,4 +99,15 @@ definitions:
     example: paper rocket; paper engine
   - text: Having a title that is merely official, or given by courtesy or convention.
     example: a paper baron; a paper lord
+prev_word: papaw
+next_word: papes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -27,4 +27,15 @@ definitions:
   defs:
   - text: Any of several small, paenungulate herbivorous mammals of the order Hyracoidea,
       with a bulky frame and fang-like incisors, native to Africa and the Middle East.
+prev_word: hypos
+next_word: hyson
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/ax/"
+  label: Ending in AX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

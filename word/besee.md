@@ -24,4 +24,15 @@ neighbours:
 - belee
 - beses
 - resee
+prev_word: besaw
+next_word: beses
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

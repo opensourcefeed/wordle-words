@@ -36,4 +36,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Characteristic of a stereotypical girl, very effeminate, sweet; unmasculine.
+prev_word: girls
+next_word: girns
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

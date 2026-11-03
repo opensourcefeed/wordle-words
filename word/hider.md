@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _IDER
   count: 8
+prev_word: hided
+next_word: hides
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

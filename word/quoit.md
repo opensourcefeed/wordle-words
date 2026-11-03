@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: To play quoits.
   - text: To throw as with a quoit.
+prev_word: quois
+next_word: quoll
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

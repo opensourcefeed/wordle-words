@@ -29,4 +29,13 @@ definitions:
 - pos: noun
   defs:
   - text: Any of various Indian dishes of fried vegetables
+prev_word: bhais
+next_word: bhang
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/ending-with/ji/"
+  label: Ending in JI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

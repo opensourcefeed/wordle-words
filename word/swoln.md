@@ -29,4 +29,13 @@ neighbours:
 anagrams:
 - lowns
 - nowls
+prev_word: swoll
+next_word: swoon
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

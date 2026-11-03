@@ -32,4 +32,15 @@ neighbours:
 - meteg
 - metes
 - metol
+prev_word: meteg
+next_word: meter
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

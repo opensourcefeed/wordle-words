@@ -24,4 +24,15 @@ stats:
 neighbours:
 - amove
 - emote
+prev_word: emote
+next_word: empts
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

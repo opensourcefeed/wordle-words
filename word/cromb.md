@@ -24,4 +24,15 @@ neighbours:
 - clomb
 - coomb
 - crome
+prev_word: crogs
+next_word: crome
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/mb/"
+  label: Ending in MB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

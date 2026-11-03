@@ -66,4 +66,15 @@ definitions:
     example: I don't believe that car has done only 40,000 miles. It's been clocked.
   - text: To beat a video game.
     example: Have you clocked that game yet?
+prev_word: cloam
+next_word: clods
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

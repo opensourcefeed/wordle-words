@@ -33,4 +33,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Pertaining to, or like, algae
+prev_word: algae
+next_word: algas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

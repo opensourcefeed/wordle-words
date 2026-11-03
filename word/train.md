@@ -62,4 +62,15 @@ definitions:
   - text: To draw along; to trail; to drag.
   - text: To draw by persuasion, artifice, or the like; to attract by stratagem; to
       entice; to allure.
+prev_word: trail
+next_word: trait
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

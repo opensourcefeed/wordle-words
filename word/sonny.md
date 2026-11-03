@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A familiar form of address for a boy
   - text: Form of address to a boy or man, to express contempt, warning etc.
+prev_word: sonne
+next_word: sonse
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

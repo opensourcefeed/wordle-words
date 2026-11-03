@@ -43,4 +43,15 @@ definitions:
   - text: A book bound in the modern manner, by joining pages, as opposed to a rolled
       scroll.
   - text: An official list of medicines and medicinal ingredients.
+prev_word: codes
+next_word: codon
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

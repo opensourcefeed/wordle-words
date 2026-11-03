@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 100
+prev_word: agers
+next_word: agger
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ag/"
+  label: Ending in AG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

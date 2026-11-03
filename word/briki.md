@@ -25,4 +25,15 @@ neighbours:
 - briks
 anagrams:
 - ibrik
+prev_word: brigs
+next_word: briks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ki/"
+  label: Ending in KI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

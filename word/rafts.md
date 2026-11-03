@@ -57,4 +57,15 @@ definitions:
 - pos: noun
   defs:
   - text: A large (but unspecified) number, a lot.
+prev_word: rafiq
+next_word: rafty
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

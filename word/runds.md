@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _UNDS
   count: 6
+prev_word: runch
+next_word: runed
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

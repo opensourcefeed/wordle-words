@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To submit tamely to others.
+prev_word: snook
+next_word: snoop
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

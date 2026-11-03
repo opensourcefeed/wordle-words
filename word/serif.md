@@ -45,4 +45,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of a typeface, provided with serifs.
+prev_word: seric
+next_word: serin
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/if/"
+  label: Ending in IF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

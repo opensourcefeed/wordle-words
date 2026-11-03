@@ -28,4 +28,15 @@ neighbours:
 - naric
 anagrams:
 - rabic
+prev_word: barge
+next_word: barks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

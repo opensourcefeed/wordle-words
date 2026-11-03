@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - cutis
 - ictus
+prev_word: cuish
+next_word: cukes
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

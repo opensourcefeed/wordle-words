@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: A cannabis cigarette.
+prev_word: spies
+next_word: spifs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _ARKS
   count: 14
+prev_word: karez
+next_word: karma
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

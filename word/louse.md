@@ -55,4 +55,15 @@ definitions:
 - pos: verb
   defs:
   - text: To remove lice from.
+prev_word: loury
+next_word: lousy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

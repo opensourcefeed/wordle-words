@@ -28,4 +28,15 @@ anagrams:
 - andro
 - radon
 - rando
+prev_word: narky
+next_word: narra
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/od/"
+  label: Ending in OD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

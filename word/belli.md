@@ -30,4 +30,15 @@ neighbours:
 - celli
 anagrams:
 - libel
+prev_word: belle
+next_word: bello
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

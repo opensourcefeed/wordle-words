@@ -72,4 +72,15 @@ definitions:
   defs:
   - text: "(exercise) quadriceps (thigh muscles)"
   - text: Four of a kind
+prev_word: quack
+next_word: quaff
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

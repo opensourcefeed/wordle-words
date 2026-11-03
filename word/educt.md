@@ -24,4 +24,15 @@ neighbours:
 - edict
 - educe
 - eruct
+prev_word: educe
+next_word: eejit
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ed/"
+  label: Starting with ED
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -32,4 +32,15 @@ definitions:
   - text: In a peculiar manner; strangely; unusually.
     example: For December, it was oddly warm.
   - text: In a manner measured by an odd number.
+prev_word: odder
+next_word: odeon
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/od/"
+  label: Starting with OD
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

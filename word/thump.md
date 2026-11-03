@@ -44,4 +44,15 @@ definitions:
   - text: To thud or pound.
   - text: To throb with a muffled rhythmic sound.
     example: Dance music thumped from the nightclub entrance.
+prev_word: thumb
+next_word: thunk
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

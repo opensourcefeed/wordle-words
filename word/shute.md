@@ -27,4 +27,15 @@ neighbours:
 - shote
 - shule
 - shuts
+prev_word: shush
+next_word: shuts
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

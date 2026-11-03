@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _INCE
   count: 6
+prev_word: pinax
+next_word: pinch
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

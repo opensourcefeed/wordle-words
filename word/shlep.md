@@ -45,4 +45,15 @@ definitions:
     example: I schlepped down to the store for some milk.
   - text: To act in a slovenly, lazy, or sloppy manner.
     example: I just schlepped around the house on Sunday.
+prev_word: shivs
+next_word: shlub
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ep/"
+  label: Ending in EP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: HAR_S
   count: 9
+prev_word: harks
+next_word: harms
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

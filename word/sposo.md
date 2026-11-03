@@ -25,4 +25,15 @@ neighbours:
 - sposh
 anagrams:
 - soops
+prev_word: sposh
+next_word: spots
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

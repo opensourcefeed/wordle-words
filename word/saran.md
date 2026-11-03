@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A plastic resin used to make packaging films.
+prev_word: sappy
+next_word: sards
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

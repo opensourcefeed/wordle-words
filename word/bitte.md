@@ -28,4 +28,15 @@ neighbours:
 - bitts
 - botte
 - fitte
+prev_word: bitsy
+next_word: bitts
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

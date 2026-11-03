@@ -53,4 +53,15 @@ definitions:
     example: the sweat of hay or grain in a mow or stack
   - text: A short run by a racehorse as a form of exercise.
   - text: Hard work; toil.
+prev_word: swear
+next_word: swede
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

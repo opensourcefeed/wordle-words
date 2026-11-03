@@ -28,4 +28,15 @@ neighbours:
 - raphe
 anagrams:
 - paper
+prev_word: rapin
+next_word: rapso
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

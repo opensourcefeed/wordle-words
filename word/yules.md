@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _ULES
   count: 8
+prev_word: yulan
+next_word: yummo
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

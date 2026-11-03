@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 13
 neighbours:
 - onery
+prev_word: ondol
+next_word: oners
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

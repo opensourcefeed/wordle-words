@@ -34,4 +34,15 @@ definitions:
   - text: The state of being tilled, or prepared for a crop; culture.
     example: The land is in good tilth and ready to plant.
   - text: Rich cultivated soil.
+prev_word: tilly
+next_word: tilts
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

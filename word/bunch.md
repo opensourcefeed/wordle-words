@@ -68,4 +68,15 @@ definitions:
   - text: To form a bunch.
   - text: To be gathered together in folds
   - text: To protrude or swell
+prev_word: bunce
+next_word: bunco
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

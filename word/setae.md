@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A bristle or hair
   - text: The stalk of a moss sporangium, or occasionally in a liverwort.
+prev_word: sessa
+next_word: setal
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - manas
 - saman
+prev_word: mzees
+next_word: naans
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

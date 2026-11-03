@@ -27,4 +27,15 @@ neighbours:
 - nodal
 - pokal
 - poral
+prev_word: pocky
+next_word: poddy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

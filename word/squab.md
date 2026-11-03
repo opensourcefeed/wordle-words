@@ -53,4 +53,15 @@ definitions:
 - pos: adverb
   defs:
   - text: With a heavy fall; plump.
+prev_word: spyre
+next_word: squad
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sq/"
+  label: Starting with SQ
+- url: "/ending-with/ab/"
+  label: Ending in AB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

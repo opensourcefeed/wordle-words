@@ -48,4 +48,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of a greenish-brown colour. (often used to refer to eye colour)
+prev_word: hazed
+next_word: hazer
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

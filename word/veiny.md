@@ -24,4 +24,15 @@ neighbours:
 - meiny
 - veily
 - veins
+prev_word: veins
+next_word: velar
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

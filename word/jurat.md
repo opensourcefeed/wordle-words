@@ -33,4 +33,15 @@ definitions:
   - text: A sworn statement concerning where, when, and before whom an oath has been
       made.
   - text: 'A sworn person, particularly:'
+prev_word: jural
+next_word: jurel
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

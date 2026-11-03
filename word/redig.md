@@ -35,4 +35,15 @@ anagrams:
 - ridge
 - derig
 - gride
+prev_word: redif
+next_word: redip
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ig/"
+  label: Ending in IG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

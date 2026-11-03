@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: DOW_S
   count: 6
+prev_word: dower
+next_word: dowie
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

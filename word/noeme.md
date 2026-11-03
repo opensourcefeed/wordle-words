@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 62
 neighbours:
 - noema
+prev_word: noema
+next_word: nogal
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

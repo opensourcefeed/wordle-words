@@ -48,4 +48,15 @@ definitions:
 - pos: interjection
   defs:
   - text: Indicates agreement; "exactly so".
+prev_word: quist
+next_word: quits
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

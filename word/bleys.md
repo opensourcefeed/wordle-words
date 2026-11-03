@@ -30,4 +30,15 @@ neighbours:
 - fleys
 - gleys
 - sleys
+prev_word: blets
+next_word: blimp
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

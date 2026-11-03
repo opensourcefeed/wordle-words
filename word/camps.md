@@ -69,4 +69,15 @@ definitions:
   - text: To fight; contend in battle or in any kind of contest; to strive with others
       in doing anything; compete.
   - text: To wrangle; argue.
+prev_word: campo
+next_word: campy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

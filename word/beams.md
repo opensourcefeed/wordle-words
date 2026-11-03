@@ -87,4 +87,15 @@ definitions:
   - text: "(currying) To stretch something (for example an animal hide) on a beam."
   - text: To put (something) on a beam
   - text: To connect (musical notes) with a beam, or thick line, in music notation.
+prev_word: beals
+next_word: beamy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

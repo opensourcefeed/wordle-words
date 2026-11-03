@@ -21,4 +21,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 79
+prev_word: oxter
+next_word: oyers
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

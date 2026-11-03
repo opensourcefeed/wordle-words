@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 38
 neighbours:
 - hemic
+prev_word: hemic
+next_word: hemps
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

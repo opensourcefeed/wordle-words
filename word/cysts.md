@@ -33,4 +33,15 @@ definitions:
       matter, which develops in one of the natural cavities or in the substance of
       an organ.
   - text: Of or pertaining to the urinary bladder or gall bladder (in compounds).
+prev_word: cynic
+next_word: cytes
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cy/"
+  label: Starting with CY
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

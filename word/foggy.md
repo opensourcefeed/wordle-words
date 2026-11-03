@@ -43,4 +43,15 @@ definitions:
   - text: Obscured by mist or fog; unclear; hazy
   - text: Confused, befuddled, etc.
     example: He was still foggy with sleep.
+prev_word: fogey
+next_word: fogie
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

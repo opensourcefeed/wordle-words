@@ -23,4 +23,15 @@ stats:
 neighbours:
 - bland
 - plaud
+prev_word: blatt
+next_word: blawn
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ud/"
+  label: Ending in UD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

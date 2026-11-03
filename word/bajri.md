@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 55
 neighbours:
 - bajra
+prev_word: bajra
+next_word: bajus
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -24,4 +24,15 @@ neighbours:
 - mucko
 - yucks
 - yucky
+prev_word: yucch
+next_word: yucks
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

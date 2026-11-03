@@ -48,4 +48,15 @@ definitions:
   - text: An excavation in the earth as a place of burial
   - text: Any place of interment; a tomb; a sepulcher.
   - text: "(by extension) Death, destruction."
+prev_word: grats
+next_word: gravs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

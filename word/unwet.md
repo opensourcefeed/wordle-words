@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: UN_ET
   count: 6
+prev_word: unwed
+next_word: unwit
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

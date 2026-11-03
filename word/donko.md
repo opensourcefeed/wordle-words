@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 96
 anagrams:
 - kondo
+prev_word: dongs
+next_word: donna
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

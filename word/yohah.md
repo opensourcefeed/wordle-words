@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 75
 neighbours:
 - yohay
+prev_word: yogis
+next_word: yohay
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

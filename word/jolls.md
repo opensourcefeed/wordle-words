@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _OLLS
   count: 10
+prev_word: jollo
+next_word: jolly
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

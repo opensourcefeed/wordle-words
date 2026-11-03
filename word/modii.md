@@ -27,4 +27,13 @@ neighbours:
 anagrams:
 - idiom
 - imido
+prev_word: modge
+next_word: modin
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

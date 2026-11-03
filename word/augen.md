@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - genua
 - nugae
+prev_word: audit
+next_word: auger
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

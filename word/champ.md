@@ -47,4 +47,15 @@ definitions:
     example: champion of women's suffrage
   - text: Someone who fights on another's behalf.
     example: champion of the poor
+prev_word: chals
+next_word: chams
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

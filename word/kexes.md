@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _EXES
   count: 11
+prev_word: kevil
+next_word: keyed
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -26,4 +26,15 @@ neighbours:
 - leuch
 - teuch
 - yeuch
+prev_word: heths
+next_word: heugh
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

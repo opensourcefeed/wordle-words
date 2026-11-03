@@ -39,4 +39,15 @@ definitions:
 - pos: verb
   defs:
   - text: To sprout; to bud; to germinate, as barley steeped for malt.
+prev_word: sprig
+next_word: sprod
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

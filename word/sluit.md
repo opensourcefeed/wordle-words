@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A ditch.
   - text: An irrigation channel.
+prev_word: slugs
+next_word: slump
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: A catkin or amentum.
+prev_word: amens
+next_word: amias
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

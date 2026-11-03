@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: An alcoholic.
+prev_word: aliya
+next_word: alkin
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

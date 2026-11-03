@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A compositor; a typographer.
+prev_word: typic
+next_word: typps
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

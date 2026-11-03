@@ -45,4 +45,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of a light brown color like that of a camel.
+prev_word: camas
+next_word: cameo
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

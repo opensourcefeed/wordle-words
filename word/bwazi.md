@@ -21,4 +21,11 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 89
+prev_word: bwana
+next_word: byded
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

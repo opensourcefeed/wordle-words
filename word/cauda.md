@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 84
 neighbours:
 - causa
+prev_word: catty
+next_word: cauks
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

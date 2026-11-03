@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 19
 anagrams:
 - saith
+prev_word: taira
+next_word: taits
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

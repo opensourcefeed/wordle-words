@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: _AUGH
   count: 6
+prev_word: saucy
+next_word: sauls
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -96,4 +96,15 @@ definitions:
   - text: Absolutely, totally.
     example: to swear blind
   - text: "(three card brag) Without looking at the cards dealt."
+prev_word: blimy
+next_word: bling
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

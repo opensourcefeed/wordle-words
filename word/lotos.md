@@ -39,4 +39,15 @@ anagrams:
 - sloot
 - sotol
 - tools
+prev_word: lotic
+next_word: lotsa
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

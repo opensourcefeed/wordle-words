@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: The stem of a plant, especially of grass or sedge
+prev_word: cully
+next_word: culpa
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

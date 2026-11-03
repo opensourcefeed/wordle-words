@@ -27,4 +27,15 @@ definitions:
   defs:
   - text: A rhombus.
   - text: A rhombohedron.
+prev_word: rhody
+next_word: rhone
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/rh/"
+  label: Starting with RH
+- url: "/ending-with/mb/"
+  label: Ending in MB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

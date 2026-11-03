@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _EIST
   count: 6
+prev_word: neigh
+next_word: neive
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

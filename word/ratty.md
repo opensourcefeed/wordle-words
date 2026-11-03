@@ -51,4 +51,15 @@ definitions:
   - text: Infested with rats.
   - text: In poor condition or repair
   - text: Irritable, annoyed, bad-tempered.
+prev_word: ratti
+next_word: ratus
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

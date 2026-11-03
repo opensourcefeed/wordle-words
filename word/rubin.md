@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - bruin
 - burin
+prev_word: rubes
+next_word: rubio
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

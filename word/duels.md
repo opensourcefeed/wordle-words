@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To engage in a battle.
+prev_word: dudes
+next_word: duets
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -85,4 +85,15 @@ definitions:
 - pos: interjection
   defs:
   - text: Begin shooting; release your arrows
+prev_word: loord
+next_word: loots
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -30,4 +30,15 @@ anagrams:
 - shuba
 - subah
 - subha
+prev_word: hable
+next_word: hacek
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

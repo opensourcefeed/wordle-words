@@ -30,4 +30,13 @@ definitions:
 - pos: noun
   defs:
   - text: Islamic prayer; salat.
+prev_word: namak
+next_word: named
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

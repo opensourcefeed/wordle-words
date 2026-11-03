@@ -46,4 +46,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having a colour similar to blue.
+prev_word: bluet
+next_word: bluff
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -44,4 +44,15 @@ definitions:
   - text: A functional group formally derived from ammonia by replacing one, two or
       three hydrogen atoms with hydrocarbon or other radicals.
   - text: Any organic compound containing an amine functional group.
+prev_word: amigo
+next_word: amino
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

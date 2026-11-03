@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 81
 neighbours:
 - aduki
+prev_word: azoth
+next_word: azure
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/az/"
+  label: Starting with AZ
+- url: "/ending-with/ki/"
+  label: Ending in KI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

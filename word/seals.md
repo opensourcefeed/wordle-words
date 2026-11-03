@@ -101,4 +101,15 @@ definitions:
 - pos: verb
   defs:
   - text: To tie up animals (especially cattle) in their stalls.
+prev_word: sdein
+next_word: seame
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

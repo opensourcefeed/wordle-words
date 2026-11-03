@@ -58,4 +58,15 @@ definitions:
   - text: A clumsy, boorish person, especially an over-eating, beer-drinking man,
       or a man prone to petty infractions such as taking other people's food or drinks.
   - text: A Canadian.
+prev_word: hosen
+next_word: hoses
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

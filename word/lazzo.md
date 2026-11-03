@@ -26,4 +26,15 @@ stats:
 neighbours:
 - lazzi
 - lezzo
+prev_word: lazzi
+next_word: leach
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/zo/"
+  label: Ending in ZO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

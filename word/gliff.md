@@ -24,4 +24,15 @@ neighbours:
 - cliff
 - glift
 - griff
+prev_word: glide
+next_word: glift
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

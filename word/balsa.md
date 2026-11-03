@@ -42,4 +42,15 @@ definitions:
       that is very light in weight.
   - text: The wood of this tree.
   - text: A raft or float, used principally on the Pacific coast of South America.
+prev_word: balot
+next_word: balti
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

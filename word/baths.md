@@ -63,4 +63,15 @@ definitions:
       a bathtub.'
     example: Most Americans don't know 'WC' and many Brits mock 'bathroom' but almost
       everyone understands 'toilet' or 'lavatory'.
+prev_word: bathe
+next_word: batik
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

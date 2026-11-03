@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 40
 neighbours:
 - tians
+prev_word: tiyin
+next_word: tizes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

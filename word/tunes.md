@@ -71,4 +71,15 @@ definitions:
   - text: To sing with melody or harmony.
   - text: To cheek; to be impudent towards.
     example: Are you tuning me?
+prev_word: tuner
+next_word: tungs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

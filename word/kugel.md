@@ -30,4 +30,15 @@ definitions:
       potatoes with vegetables or raisins and spices
   - text: Traditional house ornament made of glass
   - text: Overly materialistic and selfish young Jewish woman
+prev_word: kufis
+next_word: kuias
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

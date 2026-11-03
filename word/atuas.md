@@ -27,4 +27,15 @@ neighbours:
 - atlas
 - atmas
 - attas
+prev_word: attic
+next_word: aucht
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

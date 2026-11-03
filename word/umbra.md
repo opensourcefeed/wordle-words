@@ -38,4 +38,15 @@ definitions:
   - text: An uninvited guest brought along by one who was invited.
   - text: One of the family Umbridae of mudminnows.
   - text: A sciaenoid fish, the umbrine.
+prev_word: umbos
+next_word: umbre
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/um/"
+  label: Starting with UM
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

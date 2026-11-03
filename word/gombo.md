@@ -26,4 +26,15 @@ neighbours:
 - gambo
 - gobbo
 - tombo
+prev_word: golps
+next_word: gomer
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

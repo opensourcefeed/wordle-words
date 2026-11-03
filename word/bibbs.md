@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A bibcock.
+prev_word: bialy
+next_word: bibes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

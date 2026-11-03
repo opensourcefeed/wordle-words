@@ -27,4 +27,15 @@ neighbours:
 - keeve
 - peeve
 - reeve
+prev_word: deets
+next_word: deevs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -36,4 +36,15 @@ definitions:
 - pos: interjection
   defs:
   - text: There is no more.
+prev_word: napoh
+next_word: nappa
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

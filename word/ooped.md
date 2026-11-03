@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OPED
   count: 8
+prev_word: oopak
+next_word: oopsy
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oo/"
+  label: Starting with OO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

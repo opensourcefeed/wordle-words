@@ -28,4 +28,15 @@ anagrams:
 - snive
 - veins
 - vines
+prev_word: visna
+next_word: vison
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

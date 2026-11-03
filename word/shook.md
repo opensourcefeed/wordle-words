@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To pack (staves, etc.) in a shook.
+prev_word: shonk
+next_word: shool
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ok/"
+  label: Ending in OK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

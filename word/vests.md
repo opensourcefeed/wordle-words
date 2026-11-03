@@ -75,4 +75,15 @@ definitions:
   - text: "(financial) To become vested, to become permanent."
     example: My pension vests at the end of the month and then I can take it with
       me when I quit.
+prev_word: vesta
+next_word: vetch
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

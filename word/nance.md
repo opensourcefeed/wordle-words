@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: An effeminate man, especially a homosexual.
+prev_word: nanas
+next_word: nandu
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Any member of the genus Canna of tropical plants with large leaves and often
       showy flowers.
+prev_word: canid
+next_word: canns
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

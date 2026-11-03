@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: A soldier.
   - text: Any large ape.
+prev_word: ponga
+next_word: pongs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

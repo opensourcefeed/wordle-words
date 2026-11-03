@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ADDY
   count: 10
+prev_word: madar
+next_word: madge
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

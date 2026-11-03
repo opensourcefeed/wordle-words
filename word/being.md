@@ -46,4 +46,15 @@ definitions:
 - pos: conjunction
   defs:
   - text: Given that; since.
+prev_word: beigy
+next_word: beins
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

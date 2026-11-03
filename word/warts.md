@@ -51,4 +51,15 @@ definitions:
   - text: Any similar growth occurring in plants or animals, such as the parotoid
       glands in the back of toads.
   - text: Any of the prefixes used in Hungarian notation.
+prev_word: warst
+next_word: warty
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

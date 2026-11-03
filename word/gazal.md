@@ -24,4 +24,15 @@ stats:
 neighbours:
 - gayal
 - gazar
+prev_word: gayly
+next_word: gazar
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

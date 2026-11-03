@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: A cloth.
   - text: 'A kopdoek: a kerchief or bandanna worn as a head covering.'
+prev_word: dodos
+next_word: doers
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

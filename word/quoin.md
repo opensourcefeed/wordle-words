@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To wedge or steady with quoins.
+prev_word: quoif
+next_word: quois
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

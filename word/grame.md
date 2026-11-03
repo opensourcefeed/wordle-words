@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: GRA_E
   count: 7
+prev_word: grama
+next_word: gramp
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

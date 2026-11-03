@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: S_ART
   count: 8
+prev_word: slaps
+next_word: slash
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

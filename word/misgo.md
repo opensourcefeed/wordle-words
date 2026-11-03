@@ -25,4 +25,15 @@ neighbours:
 - misto
 anagrams:
 - gismo
+prev_word: mises
+next_word: misky
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

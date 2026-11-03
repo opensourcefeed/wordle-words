@@ -34,4 +34,13 @@ definitions:
   defs:
   - text: The middle of the three concentric layers that make up the eye; it is pigmented
       and vascular, and comprises the choroid, the ciliary body, and the iris.
+prev_word: uveal
+next_word: uvula
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

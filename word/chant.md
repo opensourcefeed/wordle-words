@@ -51,4 +51,15 @@ definitions:
   - text: To utter or repeat in a strongly rhythmical manner, especially as a group.
     example: The football fans chanted insults at the referee.
   - text: To sell horses fraudulently, exaggerating their merits.
+prev_word: chank
+next_word: chaos
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

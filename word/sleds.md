@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: To ride a sled.
   - text: To convey on a sled.
+prev_word: slebs
+next_word: sleek
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

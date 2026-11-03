@@ -47,4 +47,15 @@ definitions:
       (Arizona) Citizen, 20 September 1979, 5A/3, cited after OED)
   - text: A person or thing existing only in imagination, or whose actual existence
       is not verifiable.
+prev_word: mythi
+next_word: mythy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/my/"
+  label: Starting with MY
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -30,4 +30,15 @@ definitions:
   - text: A furrow or groove in an organ or a tissue.
   - text: Any of the grooves that mark the convolutions of the surface of the brain.
   - text: A region of subparallel grooves or ditches formed by a geological process.
+prev_word: sukuk
+next_word: sulfa
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ci/"
+  label: Ending in CI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

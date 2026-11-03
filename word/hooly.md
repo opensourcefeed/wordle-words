@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _OOLY
   count: 7
+prev_word: hooky
+next_word: hoons
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

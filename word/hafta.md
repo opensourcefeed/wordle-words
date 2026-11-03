@@ -24,4 +24,15 @@ neighbours:
 - bafta
 - hafts
 - hasta
+prev_word: hafiz
+next_word: hafts
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

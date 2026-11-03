@@ -37,4 +37,15 @@ definitions:
   - text: Not wanting to have to deal with unpleasant or distasteful things near them.
     example: Their vote against measures to help refugees has been perceived by the
       socially conscious margin of society as a typically nimby attitude.
+prev_word: nimbs
+next_word: nimps
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

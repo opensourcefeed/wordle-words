@@ -29,4 +29,15 @@ neighbours:
 - mists
 anagrams:
 - slims
+prev_word: misky
+next_word: misos
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: A helmet.
   - text: A hard structure on the head of some birds, such as the hornbill or cassowary.
+prev_word: cases
+next_word: casky
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

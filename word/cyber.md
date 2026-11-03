@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: Of, or having to do with, the Internet; alternative spelling of cyber-
   - text: Cybergoth.
+prev_word: cyans
+next_word: cycad
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cy/"
+  label: Starting with CY
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

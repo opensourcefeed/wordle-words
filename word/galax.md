@@ -25,4 +25,15 @@ neighbours:
 - galah
 - galas
 - malax
+prev_word: galas
+next_word: galea
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ax/"
+  label: Ending in AX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

@@ -56,4 +56,15 @@ definitions:
   - text: To steal from.
     example: to loot a temple for valuables
   - text: To examine the corpse of a fallen enemy for loot.
+prev_word: loose
+next_word: loped
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

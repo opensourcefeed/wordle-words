@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A taxane, C47H51NO14, used to treat cancer; Taxol.
+prev_word: taxis
+next_word: taxon
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

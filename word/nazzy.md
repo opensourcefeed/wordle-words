@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 93
 neighbours:
 - jazzy
+prev_word: nazis
+next_word: nduja
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

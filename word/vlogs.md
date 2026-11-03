@@ -34,4 +34,13 @@ definitions:
   defs:
   - text: To contribute to a video weblog.
   - text: To post (something) to a video weblog.
+prev_word: vlies
+next_word: voars
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

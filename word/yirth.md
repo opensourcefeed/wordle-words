@@ -30,4 +30,15 @@ neighbours:
 trap:
   pattern: _IRTH
   count: 7
+prev_word: yirrs
+next_word: yites
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yi/"
+  label: Starting with YI
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

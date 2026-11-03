@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A silky fibre obtained from the silk-cotton tree used for insulation and
       stuffing for pillows, mattresses, etc.
+prev_word: kaphs
+next_word: kapow
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ok/"
+  label: Ending in OK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

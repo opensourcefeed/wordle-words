@@ -32,4 +32,15 @@ neighbours:
 - quats
 - quete
 - quyte
+prev_word: quass
+next_word: quats
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

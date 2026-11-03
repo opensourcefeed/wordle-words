@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(sometimes derogatory) Someone who is bald."
+prev_word: balds
+next_word: baled
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

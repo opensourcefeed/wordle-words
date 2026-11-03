@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Refusing to proceed or cooperate.
     example: a balky horse
+prev_word: balks
+next_word: ballo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

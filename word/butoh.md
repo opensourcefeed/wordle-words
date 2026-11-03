@@ -30,4 +30,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Pertaining to butoh.
+prev_word: butle
+next_word: butte
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

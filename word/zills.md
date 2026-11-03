@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _ILLS
   count: 19
+prev_word: zilla
+next_word: zimbi
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

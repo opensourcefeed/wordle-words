@@ -27,4 +27,13 @@ anagrams:
 - debar
 - barde
 - bared
+prev_word: arcus
+next_word: ardor
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

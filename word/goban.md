@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - bogan
 - obang
+prev_word: goave
+next_word: gobar
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

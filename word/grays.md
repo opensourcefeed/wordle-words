@@ -61,4 +61,15 @@ definitions:
   - text: 'In the International System of Units, the derived unit of absorbed dose
       of radiation (radiation absorbed by a patient); one joule of energy absorbed
       per kilogram of the patient''s mass. Symbol: Gy'
+prev_word: gravy
+next_word: graze
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

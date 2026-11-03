@@ -32,4 +32,15 @@ definitions:
       the capacitance of a capacitor in which one coulomb of charge causes a potential
       difference of one volt across the capacitor. Symbol: F'
     example: The input has 5 pF (picofarads) of capacitance.
+prev_word: faqir
+next_word: farce
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

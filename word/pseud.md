@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: An intellectually pretentious person; a poseur
+prev_word: psalm
+next_word: pshaw
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ps/"
+  label: Starting with PS
+- url: "/ending-with/ud/"
+  label: Ending in UD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

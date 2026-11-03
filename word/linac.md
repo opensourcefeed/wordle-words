@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A linear particle accelerator.
+prev_word: limps
+next_word: linch
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ac/"
+  label: Ending in AC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

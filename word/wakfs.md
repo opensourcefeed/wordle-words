@@ -25,4 +25,15 @@ neighbours:
 - wakas
 - wakes
 - waqfs
+prev_word: wakes
+next_word: waldo
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

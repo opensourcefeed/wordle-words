@@ -40,4 +40,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Odd, strange, or crazy.
+prev_word: barms
+next_word: barns
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

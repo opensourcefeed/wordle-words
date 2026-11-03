@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: To work as a sysop.
   - text: To give someone sysop privileges.
+prev_word: syrup
+next_word: sythe
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

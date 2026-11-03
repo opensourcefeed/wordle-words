@@ -23,4 +23,15 @@ stats:
 neighbours:
 - nemas
 - neons
+prev_word: nemic
+next_word: nempt
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

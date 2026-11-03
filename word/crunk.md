@@ -34,4 +34,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cry like a crane.
+prev_word: crump
+next_word: cruor
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

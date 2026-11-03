@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 53
 neighbours:
 - bowet
+prev_word: bovid
+next_word: bowed
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

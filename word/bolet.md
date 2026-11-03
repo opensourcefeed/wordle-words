@@ -28,4 +28,15 @@ neighbours:
 - volet
 anagrams:
 - botel
+prev_word: boles
+next_word: bolix
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

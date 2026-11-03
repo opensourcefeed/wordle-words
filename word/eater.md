@@ -52,4 +52,15 @@ definitions:
   - text: One who performs fellatio or cunnilingus.
   - text: A configuration of cells that appears to consume another configuration by
       gradually causing it to disappear.
+prev_word: eaten
+next_word: eathe
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

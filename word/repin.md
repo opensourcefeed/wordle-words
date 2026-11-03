@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - ripen
 - piner
+prev_word: repen
+next_word: repla
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

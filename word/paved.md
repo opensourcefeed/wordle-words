@@ -53,4 +53,15 @@ definitions:
   - text: Covered in pavement; having a hard surface, as of concrete or asphalt.
   - text: Laid out or made, as intentions, desires, plans, etc.
     example: The road to Hell is paved with good intentions.
+prev_word: pavas
+next_word: paven
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

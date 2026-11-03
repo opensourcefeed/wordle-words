@@ -23,4 +23,15 @@ stats:
 anagrams:
 - began
 - benga
+prev_word: abele
+next_word: abers
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

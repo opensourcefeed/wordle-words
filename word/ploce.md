@@ -26,4 +26,15 @@ neighbours:
 - plock
 - plore
 - ploye
+prev_word: ploat
+next_word: plock
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

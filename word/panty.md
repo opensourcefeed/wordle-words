@@ -44,4 +44,15 @@ definitions:
       underpants by women."
     example: pantyhose
   - text: A helmet cover.
+prev_word: pants
+next_word: paoli
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

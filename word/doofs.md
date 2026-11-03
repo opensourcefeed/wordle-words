@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _OOFS
   count: 9
+prev_word: doody
+next_word: dooks
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

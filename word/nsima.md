@@ -25,4 +25,13 @@ anagrams:
 - mains
 - manis
 - minas
+prev_word: nrtya
+next_word: nubby
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

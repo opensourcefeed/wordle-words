@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _OUCH
   count: 6
+prev_word: totty
+next_word: tough
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

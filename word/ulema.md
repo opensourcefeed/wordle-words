@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: An educated scholar of Islamic law; a member of the ulema class
+prev_word: ulcer
+next_word: ulmin
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ul/"
+  label: Starting with UL
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

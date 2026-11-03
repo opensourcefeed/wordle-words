@@ -45,4 +45,15 @@ definitions:
       to join them together.
   - text: 'Followed by into: to enclose by sewing.'
     example: to sew money into a bag
+prev_word: sewel
+next_word: sewer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

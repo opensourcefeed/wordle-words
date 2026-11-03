@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _YKES
   count: 7
+prev_word: byked
+next_word: bylaw
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/by/"
+  label: Starting with BY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

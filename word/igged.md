@@ -25,4 +25,13 @@ stats:
 neighbours:
 - egged
 - ugged
+prev_word: igapo
+next_word: igloo
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

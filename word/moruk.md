@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 70
 neighbours:
 - muruk
+prev_word: morts
+next_word: mosed
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

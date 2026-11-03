@@ -33,4 +33,15 @@ definitions:
 - pos: adverb
   defs:
   - text: Alternative spelling of a ways
+prev_word: awave
+next_word: awdls
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

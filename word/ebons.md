@@ -26,4 +26,13 @@ neighbours:
 - exons
 anagrams:
 - bones
+prev_word: ebike
+next_word: ebony
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

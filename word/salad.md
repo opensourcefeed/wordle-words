@@ -39,4 +39,15 @@ definitions:
   - text: A food made primarily of a mixture of raw or cold ingredients, typically
       vegetables, usually served with a dressing such as vinegar or mayonnaise.
   - text: A raw vegetable of the kind used in salads.
+prev_word: sakti
+next_word: salal
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

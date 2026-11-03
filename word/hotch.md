@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To move irregularly up and down.
   - text: To swarm (with).
+prev_word: hosts
+next_word: hotel
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

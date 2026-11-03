@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _LAYS
   count: 6
+prev_word: alate
+next_word: albas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

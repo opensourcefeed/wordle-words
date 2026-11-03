@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _INDS
   count: 11
+prev_word: linch
+next_word: lindy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

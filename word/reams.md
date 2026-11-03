@@ -67,4 +67,15 @@ definitions:
       sheets.
   - text: "(chiefly in the plural) An abstract large amount of something."
     example: I can't go – I still have reams of work left.
+prev_word: reame
+next_word: reamy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -32,4 +32,15 @@ neighbours:
 - trios
 anagrams:
 - lirot
+prev_word: trins
+next_word: trior
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

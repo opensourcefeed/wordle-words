@@ -22,4 +22,13 @@ neighbours:
 - buchu
 - bucko
 - bucks
+prev_word: bucks
+next_word: budas
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

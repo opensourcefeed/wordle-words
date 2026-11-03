@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: Girlish; effeminate; sentimental.
   - text: Of, or pertaining to, female clothing or clothing sizes.
+prev_word: missa
+next_word: misto
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

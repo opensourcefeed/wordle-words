@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: "(entertainment) A movie or television show about cowboy or frontier life;
       a western movie."
+prev_word: oaten
+next_word: oaths
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oa/"
+  label: Starting with OA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

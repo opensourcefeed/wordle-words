@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _EWED
   count: 9
+prev_word: teugh
+next_word: tewel
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

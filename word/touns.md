@@ -36,4 +36,15 @@ anagrams:
 - nutso
 - stoun
 - tonus
+prev_word: touks
+next_word: tours
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

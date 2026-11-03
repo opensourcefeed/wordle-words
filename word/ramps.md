@@ -65,4 +65,15 @@ definitions:
   defs:
   - text: An American plant, Allium tricoccum, related to the onion; a wild leek.
   - text: A promiscuous man or woman; a general insult for a worthless person.
+prev_word: ramon
+next_word: ramse
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

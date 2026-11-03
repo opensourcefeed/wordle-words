@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of drum from India
+prev_word: dholl
+next_word: dhoni
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dh/"
+  label: Starting with DH
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

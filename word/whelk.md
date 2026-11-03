@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: Certain edible sea snails, especially, any one of numerous species of large
       marine gastropods belonging to Buccinidae, much used as food in Europe.
+prev_word: wheft
+next_word: whelm
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/lk/"
+  label: Ending in LK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

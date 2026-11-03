@@ -63,4 +63,15 @@ definitions:
   - text: To utter with a flutelike sound.
   - text: To form flutes or channels in (as in a column, a ruffle, etc.); to cut a
       semicylindrical vertical groove in (as in a pillar, etc.).
+prev_word: flush
+next_word: fluty
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

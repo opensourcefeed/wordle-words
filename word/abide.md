@@ -50,4 +50,15 @@ definitions:
   - text: To stand ready for; to await for someone; watch for.
   - text: To endure or undergo a hard trial or a task; to stand up under.
   - text: To await submissively; accept without question; submit to.
+prev_word: abhor
+next_word: abies
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -33,4 +33,15 @@ definitions:
   - text: The practice, among Muslim women, of covering the body after the age of
       puberty in front of non-related adult males.
   - text: A traditional headscarf worn by Muslim women, covering the hair and neck.
+prev_word: hight
+next_word: hijra
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ab/"
+  label: Ending in AB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

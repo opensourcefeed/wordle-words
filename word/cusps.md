@@ -38,4 +38,15 @@ definitions:
   - text: A boundary between zodiacal signs and houses.
   - text: Any of the pointed parts of a canine tooth or molar.
   - text: A flap of a valve of a heart or blood vessel.
+prev_word: cusks
+next_word: cuspy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

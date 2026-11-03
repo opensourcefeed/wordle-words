@@ -53,4 +53,15 @@ definitions:
       used as a wrap.
   - text: A wardrobe, especially one built into a bedroom.
   - text: The largest and strongest tobacco leaves.
+prev_word: rober
+next_word: robin
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

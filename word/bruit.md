@@ -36,4 +36,15 @@ definitions:
 - pos: verb
   defs:
   - text: To disseminate, promulgate, or spread news, a rumour, etc.
+prev_word: bruin
+next_word: bruja
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

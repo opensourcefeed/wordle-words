@@ -24,4 +24,15 @@ neighbours:
 - pekin
 anagrams:
 - piked
+prev_word: pekes
+next_word: pekin
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

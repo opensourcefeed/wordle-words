@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - carol
 - coral
+prev_word: clapt
+next_word: clart
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

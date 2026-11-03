@@ -59,4 +59,15 @@ definitions:
   - text: 'The acre''s breadth by the length, English units of length equal to the
       statute dimensions of the acre: 22 yds (≈20 m) by 220 yds (≈200 m).'
   - text: A duel fought between individual Scots and Englishmen in the borderlands.
+prev_word: acred
+next_word: acrid
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

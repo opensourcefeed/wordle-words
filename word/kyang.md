@@ -22,4 +22,15 @@ neighbours:
 - kiang
 - klang
 - krang
+prev_word: kyaks
+next_word: kyars
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

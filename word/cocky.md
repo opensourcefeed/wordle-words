@@ -40,4 +40,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Overly confident; arrogant and boastful.
+prev_word: cocks
+next_word: cocoa
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

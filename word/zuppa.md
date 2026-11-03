@@ -25,4 +25,13 @@ neighbours:
 - cuppa
 - puppa
 - zoppa
+prev_word: zupas
+next_word: zurfs
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

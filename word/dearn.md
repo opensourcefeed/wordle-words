@@ -31,4 +31,15 @@ anagrams:
 - denar
 - raned
 - redan
+prev_word: deare
+next_word: dears
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

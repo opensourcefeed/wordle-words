@@ -68,4 +68,15 @@ definitions:
 - pos: adverb
   defs:
   - text: In a dishonest and disloyal way; falsely.
+prev_word: falls
+next_word: falsy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

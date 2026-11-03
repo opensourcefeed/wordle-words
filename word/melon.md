@@ -50,4 +50,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of a light pinkish orange colour, like that of melon flesh.
+prev_word: meloe
+next_word: melos
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

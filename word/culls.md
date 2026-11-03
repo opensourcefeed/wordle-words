@@ -63,4 +63,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any refuse material.
+prev_word: culex
+next_word: cully
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

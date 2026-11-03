@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 83
 neighbours:
 - kalpa
+prev_word: kalpa
+next_word: kamas
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ua/"
+  label: Ending in UA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

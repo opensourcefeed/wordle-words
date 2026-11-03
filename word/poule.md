@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OULE
   count: 7
+prev_word: pouks
+next_word: poulp
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -36,4 +36,15 @@ definitions:
   - text: Beautiful; pretty; attractive.
   - text: Fine, good (often used ironically).
     example: My bonnie friend, come over here.
+prev_word: bonne
+next_word: bonum
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

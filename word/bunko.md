@@ -37,4 +37,15 @@ definitions:
 - pos: verb
   defs:
   - text: To swindle (someone).
+prev_word: bunjy
+next_word: bunks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

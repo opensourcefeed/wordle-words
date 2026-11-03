@@ -35,4 +35,15 @@ definitions:
   - text: A steep crag or cliff, especially one with overhanging sides
   - text: A glen with steep, overhanging sides
   - text: A steep excavation, especially a coal pit
+prev_word: heuch
+next_word: hevea
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

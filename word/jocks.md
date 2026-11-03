@@ -54,4 +54,15 @@ definitions:
   - text: A disc jockey.
   - text: "(in combination) A specialist computer programmer."
     example: a compiler jock; a systems jock
+prev_word: jocko
+next_word: jocky
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

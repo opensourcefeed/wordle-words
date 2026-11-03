@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A region of a transcribed gene present in the final functional RNA molecule.
+prev_word: exome
+next_word: expat
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

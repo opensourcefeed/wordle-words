@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: SORE_
   count: 6
+prev_word: sored
+next_word: sorel
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

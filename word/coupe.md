@@ -37,4 +37,15 @@ definitions:
   - text: An ice cream dessert; the glass it is served in.
   - text: A car with two doors (variant of coupé).
   - text: An area of forest where harvesting of wood is planned or has taken place.
+prev_word: count
+next_word: coups
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

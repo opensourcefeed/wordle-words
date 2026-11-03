@@ -37,4 +37,15 @@ definitions:
       The openings for seeing and breathing are generally in it.
   - text: A mask for the face.
   - text: The fore piece of a cap, projecting over, and protecting the eyes.
+prev_word: vison
+next_word: vista
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

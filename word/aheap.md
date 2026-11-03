@@ -24,4 +24,15 @@ stats:
 neighbours:
 - ahead
 - cheap
+prev_word: ahead
+next_word: ahent
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ah/"
+  label: Starting with AH
+- url: "/ending-with/ap/"
+  label: Ending in AP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

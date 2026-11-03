@@ -33,4 +33,15 @@ definitions:
 - pos: verb
   defs:
   - text: To strike with an ague, or with a cold fit.
+prev_word: agued
+next_word: aguey
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

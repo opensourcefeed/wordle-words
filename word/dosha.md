@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of the three regulatory principles of Ayurveda.
+prev_word: doses
+next_word: dotal
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

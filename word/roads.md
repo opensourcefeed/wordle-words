@@ -63,4 +63,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(occasionally in the singular) A roadstead."
+prev_word: roach
+next_word: roady
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

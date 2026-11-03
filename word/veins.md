@@ -57,4 +57,15 @@ definitions:
 - pos: verb
   defs:
   - text: To mark with veins or a vein-like pattern.
+prev_word: veily
+next_word: veiny
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

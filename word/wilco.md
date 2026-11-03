@@ -29,4 +29,15 @@ definitions:
   - text: "(radio communications) Used to indicate agreement and compliance."
     example: Wilco, Bravo Six Three will take the north road. Bravo Six Four will
       take the south road, out.
+prev_word: wikis
+next_word: wilds
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

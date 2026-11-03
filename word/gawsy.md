@@ -23,4 +23,15 @@ neighbours:
 - gawky
 - gawcy
 - lawsy
+prev_word: gawps
+next_word: gayal
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

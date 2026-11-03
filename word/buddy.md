@@ -51,4 +51,15 @@ definitions:
 - pos: verb
   defs:
   - text: To assign a buddy, or partner, to.
+prev_word: budas
+next_word: buded
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

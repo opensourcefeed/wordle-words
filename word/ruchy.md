@@ -22,4 +22,15 @@ neighbours:
 - duchy
 - ruche
 - rushy
+prev_word: ruche
+next_word: rucks
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

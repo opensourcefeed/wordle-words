@@ -26,4 +26,15 @@ neighbours:
 - adoon
 anagrams:
 - downa
+prev_word: adorn
+next_word: adoze
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

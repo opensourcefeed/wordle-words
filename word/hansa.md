@@ -22,4 +22,15 @@ stats:
 neighbours:
 - hanse
 - sansa
+prev_word: hanky
+next_word: hanse
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

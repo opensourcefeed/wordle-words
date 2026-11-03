@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A dirty woman; a slattern; a frow.
+prev_word: frock
+next_word: frogs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

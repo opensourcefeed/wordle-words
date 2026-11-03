@@ -86,4 +86,15 @@ definitions:
   defs:
   - text: "(law enforcement) Any police organization; a constabulary."
     example: He joined the police force a long time ago, when he lived in Virginia.
+prev_word: forby
+next_word: fordo
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

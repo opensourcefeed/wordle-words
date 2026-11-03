@@ -36,4 +36,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Prototypical; preceding the proper beginning of something
+prev_word: prosy
+next_word: proud
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

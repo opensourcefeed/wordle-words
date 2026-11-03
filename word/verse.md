@@ -64,4 +64,15 @@ definitions:
   - text: To tell in verse, or poetry.
   - text: To educate about, to teach about.
     example: He versed us in the finer points of category theory.
+prev_word: versa
+next_word: verso
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

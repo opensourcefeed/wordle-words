@@ -34,4 +34,15 @@ definitions:
   - text: A humanoid creature made from clay, animated by magic.
   - text: "(by extension) A humanoid creature made from any previously inanimate matter,
       such as wood or stone, animated by magic."
+prev_word: goldy
+next_word: goles
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

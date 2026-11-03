@@ -26,4 +26,15 @@ neighbours:
 - poney
 - pongy
 - ponty
+prev_word: ponds
+next_word: pones
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

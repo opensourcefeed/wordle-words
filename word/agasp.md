@@ -23,4 +23,13 @@ neighbours:
 - agast
 anagrams:
 - pasag
+prev_word: agars
+next_word: agast
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

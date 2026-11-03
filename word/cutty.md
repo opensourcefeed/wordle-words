@@ -47,4 +47,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Short, shortened, or small; curtailed.
+prev_word: cutto
+next_word: cutup
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

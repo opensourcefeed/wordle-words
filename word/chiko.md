@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: CHI_O
   count: 6
+prev_word: chiel
+next_word: chiks
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

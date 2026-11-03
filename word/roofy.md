@@ -31,4 +31,15 @@ neighbours:
 - woofy
 anagrams:
 - froyo
+prev_word: roofs
+next_word: rooks
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

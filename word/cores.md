@@ -99,4 +99,15 @@ definitions:
   - text: "(machinery, marine) A deposit paid by the purchaser of a rebuilt part,
       to be refunded on return of a used, rebuildable part, or the returned rebuildable
       part itself."
+prev_word: corer
+next_word: corey
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

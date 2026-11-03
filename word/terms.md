@@ -93,4 +93,15 @@ definitions:
 - pos: verb
   defs:
   - text: To terminate one's employment
+prev_word: terga
+next_word: terne
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

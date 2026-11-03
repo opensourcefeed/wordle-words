@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: Any of a series of univalent radicals of the general formula CnH2n+1 derived
       from aliphatic hydrocarbons.
+prev_word: alkyd
+next_word: allan
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

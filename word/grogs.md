@@ -49,4 +49,15 @@ definitions:
       also with lemon or lime juice and spices, particularly cinnamon.
   - text: A type of pre-fired clay that has been ground and screened to a specific
       particle size.
+prev_word: grody
+next_word: groin
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

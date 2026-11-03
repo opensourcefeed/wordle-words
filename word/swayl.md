@@ -26,4 +26,15 @@ anagrams:
 - lawsy
 - swaly
 - yawls
+prev_word: swats
+next_word: sways
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

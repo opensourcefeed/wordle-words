@@ -92,4 +92,15 @@ definitions:
   - text: To pledge by the hand; to handfast.
   - text: "(said of a sail) To furl."
   - text: To cooperate.
+prev_word: handi
+next_word: handy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

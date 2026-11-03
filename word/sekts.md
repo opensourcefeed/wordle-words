@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: SE_TS
   count: 7
+prev_word: sekos
+next_word: selah
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

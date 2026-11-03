@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A fat person
+prev_word: podex
+next_word: podgy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

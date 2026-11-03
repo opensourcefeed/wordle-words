@@ -26,4 +26,15 @@ neighbours:
 - jolts
 - jonty
 - jotty
+prev_word: jolts
+next_word: jomon
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

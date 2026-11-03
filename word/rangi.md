@@ -33,4 +33,15 @@ anagrams:
 - grain
 - agrin
 - garni
+prev_word: range
+next_word: rangs
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

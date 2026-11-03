@@ -28,4 +28,15 @@ neighbours:
 - fetta
 - metta
 - netta
+prev_word: beton
+next_word: betty
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

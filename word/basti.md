@@ -35,4 +35,15 @@ anagrams:
 - absit
 - baits
 - tabis
+prev_word: baste
+next_word: basto
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

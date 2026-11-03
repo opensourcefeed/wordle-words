@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - kylie
 - ylike
+prev_word: kikoi
+next_word: kilig
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

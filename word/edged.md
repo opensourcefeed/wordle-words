@@ -50,4 +50,15 @@ definitions:
   - text: 'Followed by with: Having an edging of a certain material, color, and so
       on.'
     example: a coat edged with fur
+prev_word: edema
+next_word: edger
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ed/"
+  label: Starting with ED
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

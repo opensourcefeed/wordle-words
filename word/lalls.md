@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _ALLS
   count: 10
+prev_word: laldy
+next_word: lamas
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

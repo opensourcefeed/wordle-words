@@ -24,4 +24,15 @@ neighbours:
 - midgy
 - radgy
 - ringy
+prev_word: ridge
+next_word: ridic
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

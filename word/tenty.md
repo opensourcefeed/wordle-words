@@ -31,4 +31,15 @@ neighbours:
 - tinty
 anagrams:
 - netty
+prev_word: tents
+next_word: tenue
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

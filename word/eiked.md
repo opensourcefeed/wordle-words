@@ -36,4 +36,13 @@ neighbours:
 trap:
   pattern: _IKED
   count: 9
+prev_word: eigne
+next_word: eikon
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -90,4 +90,15 @@ definitions:
     example: He made a token tap on the brake pedal at the stop sign.
   - text: A minor attempt for appearance's sake, or to minimally comply with a requirement
     example: he was hired as the company's token black person
+prev_word: toked
+next_word: toker
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

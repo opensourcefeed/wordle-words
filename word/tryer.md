@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _RYER
   count: 6
+prev_word: truth
+next_word: tryke
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

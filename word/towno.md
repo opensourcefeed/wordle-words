@@ -23,4 +23,15 @@ stats:
 neighbours:
 - towns
 - towny
+prev_word: towie
+next_word: towns
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -28,4 +28,15 @@ definitions:
   - text: "(Philippine English) A flirtatious girl or woman."
   - text: "(Philippine English) A girl or woman interested in beauty products and
       fashion."
+prev_word: kight
+next_word: kikoi
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -49,4 +49,15 @@ definitions:
       and the future.
     example: a book about a time machine that can transport people back into the past
   - text: "(grammar) The past tense."
+prev_word: paste
+next_word: pasty
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

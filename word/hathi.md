@@ -27,4 +27,15 @@ neighbours:
 - lathi
 anagrams:
 - haith
+prev_word: hatha
+next_word: hatty
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

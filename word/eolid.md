@@ -29,4 +29,13 @@ anagrams:
 - dolie
 - oiled
 - oldie
+prev_word: enzym
+next_word: eorls
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

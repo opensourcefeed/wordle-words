@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: "(thieves' cant) A fellow; a man."
   - text: A friend; a mate.
+prev_word: cover
+next_word: covet
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

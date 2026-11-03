@@ -44,4 +44,15 @@ definitions:
     example: The chains clanked.
   - text: To cause to sound with a clank.
     example: The prisoners clank their chains.
+prev_word: clang
+next_word: clans
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

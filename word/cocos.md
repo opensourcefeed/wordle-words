@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: Coconut palm.
   - text: Coconut, the fruit of the coconut palm.
+prev_word: cocoa
+next_word: cocus
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

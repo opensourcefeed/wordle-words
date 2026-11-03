@@ -49,4 +49,15 @@ definitions:
   - text: The wreath, or chaplet, surmounting or encircling the helmet of a knight
       and bearing the crest; a torse
   - text: A fillet under the ovolo of a capital
+prev_word: orixa
+next_word: orlon
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

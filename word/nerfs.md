@@ -53,4 +53,15 @@ definitions:
     example: The lightning spell was originally pretty powerful, but in the sequel
       they nerfed it so it became completely useless.
   - text: To arbitrarily limit or reduce the capability of.
+prev_word: nerdy
+next_word: nerka
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -33,4 +33,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of or relating to a lobe.
+prev_word: loave
+next_word: lobby
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

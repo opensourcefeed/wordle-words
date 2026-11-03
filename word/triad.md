@@ -45,4 +45,15 @@ definitions:
       green, red, and blue.
   - text: A chord consisting of a root tone, the tone two degrees higher, and the
       tone four degrees higher in a given scale.
+prev_word: triac
+next_word: trial
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

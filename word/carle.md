@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: CAR_E
   count: 6
+prev_word: carks
+next_word: carls
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A flat bread pouch used for making sandwiches such as gyros or falafels.
+prev_word: pitsu
+next_word: pittu
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

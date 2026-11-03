@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - girth
 - right
+prev_word: grisy
+next_word: grits
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

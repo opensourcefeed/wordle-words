@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: Cyperus esculentus, a species of sedge native to warm temperate to subtropical
       regions of the Northern Hemisphere having small edible tubers (tiger nuts).
+prev_word: chuck
+next_word: chuff
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/fa/"
+  label: Ending in FA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -49,4 +49,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cut (a tea bush) to maintain the plucking table
+prev_word: skiey
+next_word: skill
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

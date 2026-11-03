@@ -45,4 +45,15 @@ definitions:
   - text: To cut through as if with a knife.
   - text: To betray, especially in the context of a political slate.
   - text: To positively ignore, especially in order to denigrate. compare cut
+prev_word: knick
+next_word: knish
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/fe/"
+  label: Ending in FE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

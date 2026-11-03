@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A fretless string instrument used mainly in Indian classical music.
+prev_word: sarky
+next_word: saros
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/od/"
+  label: Ending in OD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

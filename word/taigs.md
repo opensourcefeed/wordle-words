@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Catholic.
+prev_word: taiga
+next_word: taiko
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

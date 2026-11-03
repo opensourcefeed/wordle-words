@@ -32,4 +32,15 @@ anagrams:
 - sumac
 - camus
 - musca
+prev_word: cauls
+next_word: caups
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

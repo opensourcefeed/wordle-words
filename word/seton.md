@@ -38,4 +38,15 @@ definitions:
   - text: A few silk threads or horsehairs, or a strip of linen etc., introduced beneath
       the skin by a knife or needle, so as to induce suppuration; also, the issue
       so formed.
+prev_word: seths
+next_word: setts
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

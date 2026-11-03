@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: Jean shorts, a pair of shorts made from denim (especially, mid-thigh or
       knee-length)
+prev_word: joram
+next_word: jorum
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

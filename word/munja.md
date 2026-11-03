@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - jamun
 - unjam
+prev_word: munis
+next_word: munjs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ja/"
+  label: Ending in JA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

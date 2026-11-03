@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - gorge
 - grego
+prev_word: regex
+next_word: regia
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

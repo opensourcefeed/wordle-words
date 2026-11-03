@@ -25,4 +25,15 @@ neighbours:
 - peony
 - pinny
 - pions
+prev_word: pions
+next_word: pious
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

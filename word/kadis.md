@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A civil judge in certain Islamic countries.
+prev_word: kades
+next_word: kagos
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

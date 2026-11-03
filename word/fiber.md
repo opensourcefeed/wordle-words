@@ -62,4 +62,15 @@ definitions:
   - text: 'Said to be of a morphism over a global element: The pullback of the said
       morphism along the said global element.'
   - text: A kind of lightweight thread of execution.
+prev_word: fiats
+next_word: fibre
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

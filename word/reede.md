@@ -27,4 +27,15 @@ neighbours:
 - reeze
 anagrams:
 - deere
+prev_word: reech
+next_word: reeds
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

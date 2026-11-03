@@ -33,4 +33,15 @@ definitions:
 - pos: verb
   defs:
   - text: To mingle with something else; to mix.
+prev_word: admit
+next_word: adnex
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

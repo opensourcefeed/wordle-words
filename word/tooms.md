@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _OOMS
   count: 8
+prev_word: tools
+next_word: toons
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

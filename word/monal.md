@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of three species of pheasant in the genus Lophophorus.
+prev_word: monad
+next_word: monas
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

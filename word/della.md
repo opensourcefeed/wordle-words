@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - ladle
 - dalle
+prev_word: delis
+next_word: dells
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: To pay the ante in poker. Often used as ante up.
   - text: To make an investment in money, effort, or time before knowing one's chances.
+prev_word: anted
+next_word: antic
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

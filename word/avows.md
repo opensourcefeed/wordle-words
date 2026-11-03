@@ -29,4 +29,15 @@ definitions:
       acknowledge or confess frankly.
   - text: To bind or devote by a vow.
   - text: To acknowledge and justify, as an act done. See avowry.
+prev_word: avoid
+next_word: avyze
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/av/"
+  label: Starting with AV
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

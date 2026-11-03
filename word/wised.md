@@ -52,4 +52,15 @@ definitions:
   - text: To show the way, guide.
   - text: To direct the course of, pilot.
   - text: To cause to turn.
+prev_word: wirri
+next_word: wiser
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

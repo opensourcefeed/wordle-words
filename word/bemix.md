@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 78
 neighbours:
 - remix
+prev_word: bemas
+next_word: bemud
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

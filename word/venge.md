@@ -27,4 +27,15 @@ neighbours:
 - tenge
 - venae
 - wenge
+prev_word: veney
+next_word: venin
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

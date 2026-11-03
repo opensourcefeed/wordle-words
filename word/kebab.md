@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: To roast in the style of a kebab
   - text: To stab or skewer
+prev_word: keaki
+next_word: kebar
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ab/"
+  label: Ending in AB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

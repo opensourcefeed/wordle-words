@@ -25,4 +25,13 @@ neighbours:
 - rompy
 anagrams:
 - rumpo
+prev_word: romps
+next_word: rompy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - quits
 - squit
+prev_word: quirt
+next_word: quite
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

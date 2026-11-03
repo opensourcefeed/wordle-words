@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A window or other opening that has an oval or circular shape (as of an eye).
     example: One can glimpse the sky through the oculus of the Pantheon in Rome.
+prev_word: octyl
+next_word: odahs
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -94,4 +94,15 @@ definitions:
   - text: To keep in play, as a hooked fish in order to land it.
   - text: To manipulate, deceive, or swindle someone.
     example: You played me!
+prev_word: playa
+next_word: plaza
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -69,4 +69,15 @@ definitions:
   - text: To swell out.
     example: The sail bunts.
   - text: "(of a cat) To headbutt affectionately."
+prev_word: bunny
+next_word: bunty
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

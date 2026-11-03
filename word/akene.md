@@ -27,4 +27,15 @@ neighbours:
 - amene
 - arene
 - skene
+prev_word: akela
+next_word: aking
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ak/"
+  label: Starting with AK
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

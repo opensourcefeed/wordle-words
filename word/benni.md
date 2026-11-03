@@ -26,4 +26,15 @@ neighbours:
 - benne
 - benny
 - penni
+prev_word: benne
+next_word: benny
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ni/"
+  label: Ending in NI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

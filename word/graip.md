@@ -28,4 +28,15 @@ neighbours:
 - gramp
 anagrams:
 - pagri
+prev_word: grain
+next_word: grama
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ip/"
+  label: Ending in IP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -24,4 +24,15 @@ neighbours:
 - gyved
 - gyves
 - syver
+prev_word: gyved
+next_word: gyves
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

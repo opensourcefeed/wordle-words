@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 93
 neighbours:
 - ryiji
+prev_word: ryiji
+next_word: ryked
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ry/"
+  label: Starting with RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

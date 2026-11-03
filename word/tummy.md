@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: "(often childish) Stomach or belly."
   - text: Protruding belly, paunch.
+prev_word: tumid
+next_word: tumor
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

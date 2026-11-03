@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: You (plural).
   - text: You (singular).
+prev_word: yourt
+next_word: youth
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

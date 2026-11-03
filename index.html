@@ -1,0 +1,63 @@
+---
+layout: default
+title: Is It a Wordle Word?
+head_title: Is It a Wordle Word? Check Any 5-Letter Word | Wordle Words
+description: Check whether any word is a valid Wordle word, see if it has been the answer, and browse all 14,855 five-letter words Wordle accepts.
+---
+{%- assign letters = 'a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z' | split: ',' -%}
+{%- assign word_base = '/word/' | relative_url -%}
+
+<section class="intro hero">
+  <h1>Is it a Wordle word?</h1>
+  <p>Type any word to check whether Wordle accepts it, whether it has been the answer, and what it means.</p>
+
+  <form class="checker" role="search" data-checker data-live
+    data-words="{{ '/assets/words.json' | relative_url }}" data-base="{{ word_base }}">
+    <label for="checker-input" class="visually-hidden">Word to check</label>
+    <input id="checker-input" class="form-control" type="text" maxlength="15" autocomplete="off"
+      placeholder="Type a word, e.g. TIGER" autocapitalize="none" spellcheck="false" enterkeyhint="search">
+    <button class="btn btn-primary" type="submit">Check</button>
+  </form>
+  <p id="checker-result" class="result" aria-live="polite"></p>
+  <div id="checker-suggest"></div>
+</section>
+
+<div class="ad-slot">{% include ad.html slot="6641359186" %}</div>
+
+<section class="intro home-section">
+  <h2>Browse all Wordle words</h2>
+  <h3>Starting with</h3>
+  <ul class="hub-links letters">
+    {%- for l in letters %}<li><a href="{{ '/starting-with/' | append: l | append: '/' | relative_url }}">{{ l | upcase }}</a></li>{% endfor %}
+  </ul>
+  <h3>Ending in</h3>
+  <ul class="hub-links letters">
+    {%- for l in letters %}<li><a href="{{ '/ending-with/' | append: l | append: '/' | relative_url }}">{{ l | upcase }}</a></li>{% endfor %}
+  </ul>
+  <h3>Containing</h3>
+  <ul class="hub-links letters">
+    {%- for l in letters %}<li><a href="{{ '/containing/' | append: l | append: '/' | relative_url }}">{{ l | upcase }}</a></li>{% endfor %}
+  </ul>
+  <p><a href="{{ '/browse/' | relative_url }}">All word lists, including two-letter starts and endings &rarr;</a></p>
+</section>
+
+<section class="intro home-section">
+  <h2>Wordle answers</h2>
+  {%- assign recent = site.data.past-answers.past-answers | reverse -%}
+  <p>Recent answers (today's is never shown):</p>
+  <ul class="word-grid">
+    {%- for a in recent limit: 10 %}<li><a href="{{ word_base }}{{ a.word }}">{{ a.word | upcase }}</a><small>#{{ a.number }}</small></li>{% endfor %}
+  </ul>
+  <ul class="hub-links">
+    <li><a href="{{ '/past-answers/' | relative_url }}">All past answers by date</a></li>
+    <li><a href="{{ '/past-answers/a-z/' | relative_url }}">Past answers A to Z</a></li>
+    <li><a href="{{ '/possible-answers/' | relative_url }}">Possible future answers</a></li>
+  </ul>
+</section>
+
+<section class="intro home-section">
+  <h2>Play word puzzles</h2>
+  {% include playButtons.html %}
+</section>
+
+<script src="{{ '/assets/checker.js' | relative_url }}" defer></script>

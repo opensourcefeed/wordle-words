@@ -25,4 +25,15 @@ neighbours:
 - luvvy
 - navvy
 - pavvy
+prev_word: lavra
+next_word: lawed
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

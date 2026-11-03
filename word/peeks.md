@@ -48,4 +48,15 @@ definitions:
   - text: To be only slightly, partially visible, as if peering out from a hiding
       place.
   - text: To retrieve (a value) from a memory address.
+prev_word: peece
+next_word: peeky
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

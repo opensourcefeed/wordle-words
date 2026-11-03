@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any member of the family Gadidae of fish such as cod and pollack.
+prev_word: gadgy
+next_word: gadis
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

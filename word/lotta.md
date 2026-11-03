@@ -33,4 +33,15 @@ neighbours:
 - rotta
 anagrams:
 - total
+prev_word: lotsa
+next_word: lotte
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

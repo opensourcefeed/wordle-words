@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: WI_ES
   count: 10
+prev_word: wifed
+next_word: wifey
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

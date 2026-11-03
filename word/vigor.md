@@ -39,4 +39,15 @@ definitions:
       intellectually, or morally; energy.
   - text: Strength or force in animal or vegetable nature or action.
   - text: Strength; efficacy; potency.
+prev_word: vigil
+next_word: vilde
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

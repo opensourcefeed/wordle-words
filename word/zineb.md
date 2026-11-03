@@ -29,4 +29,13 @@ definitions:
   defs:
   - text: An organic fungicide and insecticide sprayed on cereal grasses, fruit trees,
       etc.
+prev_word: zincy
+next_word: zines
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

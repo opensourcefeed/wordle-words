@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A solution of sulfur trioxide in sulfuric acid.
+prev_word: oleos
+next_word: oleyl
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

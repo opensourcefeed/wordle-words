@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: To move or fall heavily, or with a dull sound.
   - text: To drop something heavily or with a dull sound.
+prev_word: flume
+next_word: flung
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

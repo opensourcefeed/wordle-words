@@ -58,4 +58,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Well known because of one's reputation; famous, celebrated.
+prev_word: notch
+next_word: noter
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -24,4 +24,15 @@ neighbours:
 - fayne
 - foyle
 - royne
+prev_word: foyle
+next_word: frabs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

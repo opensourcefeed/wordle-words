@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: An estate granted to a vassal by a feudal lord in exchange for service.
+prev_word: feuar
+next_word: feued
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

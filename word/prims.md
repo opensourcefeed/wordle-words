@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: To make affectedly precise or proper.
   - text: To dress or act smartly.
+prev_word: primp
+next_word: primy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

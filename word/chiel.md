@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - chile
 - elchi
+prev_word: chief
+next_word: chiko
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

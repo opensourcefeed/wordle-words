@@ -23,4 +23,15 @@ stats:
 neighbours:
 - kapus
 - kaput
+prev_word: kappa
+next_word: kapus
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

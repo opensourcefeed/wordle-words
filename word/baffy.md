@@ -28,4 +28,15 @@ neighbours:
 - daffy
 - faffy
 - raffy
+prev_word: baffs
+next_word: bafta
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

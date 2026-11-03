@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A young bird, a chick; now especially, a young game bird (turkey, partridge,
       grouse etc.).
+prev_word: poulp
+next_word: pound
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

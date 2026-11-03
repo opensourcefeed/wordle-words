@@ -26,4 +26,15 @@ neighbours:
 - cavas
 - caves
 - favus
+prev_word: cavil
+next_word: cawed
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

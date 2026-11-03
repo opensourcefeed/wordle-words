@@ -52,4 +52,15 @@ definitions:
   - text: A fiber obtained from the Agave americana and related species, used for
       making cordage and paper.
   - text: The plant which yields the fiber.
+prev_word: piste
+next_word: pitch
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

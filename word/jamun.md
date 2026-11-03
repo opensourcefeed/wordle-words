@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: An evergreen tropical tree, Syzygium cumini.
   - text: The plum-like fruit of this tree.
+prev_word: jamon
+next_word: janes
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

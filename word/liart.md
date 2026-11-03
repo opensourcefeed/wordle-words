@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - trail
 - trial
+prev_word: liars
+next_word: libel
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

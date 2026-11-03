@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 81
 anagrams:
 - evohe
+prev_word: evets
+next_word: evict
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ev/"
+  label: Starting with EV
+- url: "/ending-with/oe/"
+  label: Ending in OE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

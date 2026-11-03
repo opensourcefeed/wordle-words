@@ -93,4 +93,15 @@ definitions:
   - text: To crowd with facts; to cram the mind of; sometimes, to crowd or fill with
       false or idle tales or fancies.
   - text: To compress (a file or files) in the StuffIt format, to be unstuffed later.
+prev_word: study
+next_word: stull
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

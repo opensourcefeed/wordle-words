@@ -48,4 +48,15 @@ definitions:
       possible future action.
     example: Let us examine that, shall we?
   - text: To owe.
+prev_word: shalm
+next_word: shaly
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

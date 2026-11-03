@@ -28,4 +28,15 @@ neighbours:
 - nomic
 anagrams:
 - mince
+prev_word: nemas
+next_word: nemns
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

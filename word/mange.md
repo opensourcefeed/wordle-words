@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: A skin disease of mammals caused by parasitic mites (Sarcoptes spp., Demodecidae
       spp.).
+prev_word: manga
+next_word: mangi
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

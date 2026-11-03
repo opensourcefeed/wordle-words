@@ -41,4 +41,15 @@ definitions:
   - text: To give one's formal opinion (on or upon something).
     example: I had to opine on the situation because I thought a different perspective
       was in order.
+prev_word: opihi
+next_word: oping
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/op/"
+  label: Starting with OP
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

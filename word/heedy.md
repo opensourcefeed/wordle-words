@@ -32,4 +32,15 @@ anagrams:
 trap:
   pattern: _EEDY
   count: 6
+prev_word: heeds
+next_word: heels
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

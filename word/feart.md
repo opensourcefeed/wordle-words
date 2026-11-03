@@ -34,4 +34,15 @@ anagrams:
 - afret
 - frate
 - trefa
+prev_word: fears
+next_word: fease
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

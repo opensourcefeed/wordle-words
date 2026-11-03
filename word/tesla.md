@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: 'In the International System of Units, the derived unit of magnetic flux
       density or magnetic inductivity. Symbol: T'
+prev_word: terza
+next_word: testa
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

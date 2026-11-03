@@ -22,4 +22,15 @@ stats:
 neighbours:
 - pling
 - pring
+prev_word: pigmy
+next_word: pikas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

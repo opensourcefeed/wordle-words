@@ -40,4 +40,15 @@ definitions:
   - text: Pertaining to the asp or aspen tree.
   - text: Tremulous, trembling.
   - text: 'Of a woman''s tongue: wagging, gossiping.'
+prev_word: askos
+next_word: asper
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

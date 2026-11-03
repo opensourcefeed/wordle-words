@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To subject to disciplinary punishment.
   - text: To commit crime(s).
+prev_word: cries
+next_word: crimp
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

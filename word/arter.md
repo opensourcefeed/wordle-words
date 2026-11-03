@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: A_TER
   count: 6
+prev_word: artel
+next_word: artic
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

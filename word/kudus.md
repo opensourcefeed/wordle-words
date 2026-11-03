@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A large, striped, African antelope of the species Tragelaphus imberbis (the
       lesser kudu) or Tragelaphus strepsiceros (the greater kudu).
+prev_word: kudos
+next_word: kudzu
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

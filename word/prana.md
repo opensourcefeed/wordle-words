@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: Respiration, breathing, seen as a life principle or life force.
+prev_word: prams
+next_word: prang
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -64,4 +64,15 @@ definitions:
   defs:
   - text: A mound-like Buddhist sepulchre, or memorial monument, often erected over
       a relic; a stupa.
+prev_word: toper
+next_word: tophe
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

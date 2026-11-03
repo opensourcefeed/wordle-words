@@ -39,4 +39,15 @@ definitions:
       bathing.
     example: We stayed at a traditional onsen with tatami, yukata, and kaiseki at
       Onyang outside Seoul.
+prev_word: onned
+next_word: onset
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

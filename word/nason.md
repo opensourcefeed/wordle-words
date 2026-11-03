@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - nanos
 - nonas
+prev_word: nasis
+next_word: nasty
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

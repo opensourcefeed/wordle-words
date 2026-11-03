@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A chav or ned; a delinquent.
+prev_word: sclim
+next_word: scody
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _AIDS
   count: 10
+prev_word: naice
+next_word: naieo
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -44,4 +44,15 @@ definitions:
   - text: A game in which three or four cards are dealt face-up and players bet on
       which of them will first be matched in suit by others dealt.
   - text: "(Latin America) A wood or forest; timberland."
+prev_word: monpe
+next_word: month
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

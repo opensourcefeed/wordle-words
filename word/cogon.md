@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: Any of several perennial rhizomatous grasses of genus Imperata, especially
       Imperata cylindrica.
+prev_word: cogie
+next_word: cogue
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

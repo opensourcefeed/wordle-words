@@ -29,4 +29,15 @@ anagrams:
 - baals
 - balas
 - balsa
+prev_word: saags
+next_word: sabed
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

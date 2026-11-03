@@ -110,4 +110,15 @@ definitions:
     example: I blocked the mittens by wetting them and pinning them to a shaped piece
       of cardboard.
   - text: To shape or sketch out roughly.
+prev_word: blobs
+next_word: blocs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

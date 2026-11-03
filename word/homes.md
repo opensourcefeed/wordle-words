@@ -64,4 +64,15 @@ definitions:
 - pos: noun
   defs:
   - text: A directory that contains a user's files.
+prev_word: homer
+next_word: homey
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

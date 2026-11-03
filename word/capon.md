@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To castrate; to make a capon of.
+prev_word: caple
+next_word: capos
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

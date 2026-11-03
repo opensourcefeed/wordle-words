@@ -30,4 +30,15 @@ neighbours:
 - cleik
 - fleek
 - gleek
+prev_word: cleck
+next_word: cleep
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: A nonce word in Lewis Carroll's Jabberwocky combining the senses of "flimsy"
       and "miserable".
+prev_word: mimis
+next_word: minae
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

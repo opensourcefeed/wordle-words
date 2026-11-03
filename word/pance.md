@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _ANCE
   count: 6
+prev_word: panax
+next_word: panch
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

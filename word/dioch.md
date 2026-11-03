@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: An African weaverbird of the genus Quelea.
+prev_word: dints
+next_word: diode
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -28,4 +28,13 @@ definitions:
   - text: A warm dry wind blowing down the north sides of the Alps, especially in
       Switzerland.
   - text: A similar katabatic wind developing on the lee side of a mountain.
+prev_word: focus
+next_word: fogey
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

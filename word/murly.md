@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _URLY
   count: 6
+prev_word: murls
+next_word: murra
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

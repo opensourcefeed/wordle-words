@@ -35,4 +35,15 @@ definitions:
     example: Cumin is native to the region from the eastern Mediterranean to India.
   - text: Its aromatic long seed, used as a spice, notably in Indian, Middle Eastern,
       and Mexican cookery.
+prev_word: cumec
+next_word: cundy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

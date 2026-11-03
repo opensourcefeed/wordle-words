@@ -50,4 +50,15 @@ definitions:
     example: He yelled directions to the party from the car.
   - text: To tell someone off (in a loud and angry manner)
     example: If I come home late again, my dad is gonna yell at me.
+prev_word: yelks
+next_word: yelms
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

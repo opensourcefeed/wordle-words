@@ -26,4 +26,15 @@ stats:
 neighbours:
 - allin
 - allus
+prev_word: allin
+next_word: allod
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

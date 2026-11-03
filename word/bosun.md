@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A warrant or petty officer on board a naval ship.
+prev_word: bossy
+next_word: botas
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

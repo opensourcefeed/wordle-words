@@ -51,4 +51,15 @@ definitions:
   - text: Of or having the qualities of an itinerant person or group with qualities
       traditionally ascribed to Romani people; making a living from dishonest practices
       or theft etc.
+prev_word: gyppy
+next_word: gyral
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

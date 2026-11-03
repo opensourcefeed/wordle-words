@@ -29,4 +29,15 @@ neighbours:
 - doley
 - fogey
 - pogey
+prev_word: doges
+next_word: doggo
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

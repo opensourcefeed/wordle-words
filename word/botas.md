@@ -42,4 +42,15 @@ anagrams:
 - boats
 - sabot
 - tabos
+prev_word: bosun
+next_word: botch
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

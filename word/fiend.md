@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To yearn; to be desperate (for something).
+prev_word: field
+next_word: fient
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

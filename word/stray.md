@@ -52,4 +52,15 @@ definitions:
   - text: The act of wandering or going astray.
   - text: An area of common land or place administered for the use of general domestic
       animals, i.e. "the stray"
+prev_word: straw
+next_word: strep
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

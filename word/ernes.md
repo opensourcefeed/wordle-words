@@ -37,4 +37,15 @@ definitions:
       albicilla)
   - text: An eagle.
     example: the bald earn
+prev_word: erned
+next_word: erode
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

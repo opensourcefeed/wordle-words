@@ -88,4 +88,15 @@ definitions:
     example: Business was booming.
   - text: To cause to advance rapidly in price.
     example: to boom railroad or mining shares
+prev_word: bools
+next_word: boomy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

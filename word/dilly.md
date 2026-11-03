@@ -44,4 +44,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Redolent of dill (the herb).
+prev_word: dills
+next_word: dimbo
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

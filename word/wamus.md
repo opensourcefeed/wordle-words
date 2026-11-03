@@ -25,4 +25,15 @@ neighbours:
 - namus
 - ramus
 - wames
+prev_word: wames
+next_word: wands
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -59,4 +59,15 @@ definitions:
       learn at their own speed, at their convenience.
   - text: An interactive class taught by a tutor to students at university or college,
       individually or in small groups.
+prev_word: tutee
+next_word: tutor
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

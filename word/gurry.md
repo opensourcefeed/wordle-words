@@ -42,4 +42,15 @@ definitions:
       twenty-two and a half minutes, but later, under British influence, changed to
       an hour.
   - text: A small fort.
+prev_word: gurns
+next_word: gursh
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

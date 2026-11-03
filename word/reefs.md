@@ -63,4 +63,15 @@ definitions:
   defs:
   - text: The itch; any eruptive skin disorder.
   - text: Dandruff.
+prev_word: reedy
+next_word: reefy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

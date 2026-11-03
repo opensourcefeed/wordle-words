@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _URES
   count: 8
+prev_word: purer
+next_word: purga
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

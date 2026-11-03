@@ -25,4 +25,15 @@ neighbours:
 - blain
 - blaws
 - flawn
+prev_word: blaud
+next_word: blaws
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

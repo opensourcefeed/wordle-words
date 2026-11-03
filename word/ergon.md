@@ -29,4 +29,15 @@ anagrams:
 - goner
 - genro
 - grone
+prev_word: erevs
+next_word: ergos
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

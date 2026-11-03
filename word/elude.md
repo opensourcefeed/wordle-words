@@ -39,4 +39,15 @@ definitions:
       or skill
   - text: To shake off a pursuer; to give someone the slip
   - text: To escape understanding of; to be incomprehensible to
+prev_word: elsin
+next_word: elute
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

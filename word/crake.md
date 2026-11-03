@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cry out harshly and loudly, like a crake.
+prev_word: craig
+next_word: crame
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

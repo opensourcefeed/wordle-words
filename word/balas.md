@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _ALAS
   count: 8
+prev_word: bakra
+next_word: balds
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

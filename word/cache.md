@@ -48,4 +48,15 @@ definitions:
 - pos: verb
   defs:
   - text: To place in a cache.
+prev_word: cacas
+next_word: cacks
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

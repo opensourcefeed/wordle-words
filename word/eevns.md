@@ -24,4 +24,13 @@ anagrams:
 - seven
 - evens
 - neves
+prev_word: eever
+next_word: effed
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

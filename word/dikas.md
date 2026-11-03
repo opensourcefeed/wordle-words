@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - kadis
 - kaids
+prev_word: digit
+next_word: diked
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

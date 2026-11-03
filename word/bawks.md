@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _AWKS
   count: 9
+prev_word: bawdy
+next_word: bawls
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

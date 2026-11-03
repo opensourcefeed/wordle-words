@@ -41,4 +41,15 @@ definitions:
       one-man crew.
   - text: A style of dance popular in disco in which the dancer imitates the stiff
       movements of a stereotypical android robot.
+prev_word: roble
+next_word: robug
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -31,4 +31,15 @@ neighbours:
 - porty
 anagrams:
 - thorp
+prev_word: porte
+next_word: ports
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

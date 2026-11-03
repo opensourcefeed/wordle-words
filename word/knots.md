@@ -90,4 +90,15 @@ definitions:
   defs:
   - text: One of a variety of shore birds; the red-breasted sandpiper (variously Calidris
       canutus or Tringa canutus).
+prev_word: knosp
+next_word: knoud
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

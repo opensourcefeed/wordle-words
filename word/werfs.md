@@ -32,4 +32,15 @@ anagrams:
 trap:
   pattern: _ERFS
   count: 6
+prev_word: wents
+next_word: weros
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

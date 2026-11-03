@@ -33,4 +33,15 @@ anagrams:
 - ament
 - mante
 - menta
+prev_word: manes
+next_word: manga
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

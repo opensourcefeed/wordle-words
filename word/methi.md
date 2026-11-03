@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: Fenugreek
+prev_word: metes
+next_word: metho
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

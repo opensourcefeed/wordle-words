@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: BRI_S
   count: 8
+prev_word: briny
+next_word: brise
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

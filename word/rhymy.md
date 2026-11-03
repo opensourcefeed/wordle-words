@@ -21,4 +21,15 @@ stats:
 neighbours:
 - rhyme
 - thymy
+prev_word: rhyme
+next_word: rhyne
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/rh/"
+  label: Starting with RH
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

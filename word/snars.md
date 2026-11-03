@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: S_ARS
   count: 6
+prev_word: snarl
+next_word: snary
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

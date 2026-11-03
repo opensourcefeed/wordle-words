@@ -72,4 +72,15 @@ definitions:
   - text: To explore by diving; to plunge into.
   - text: To plunge or to go deeply into any subject, question, business, etc.; to
       penetrate; to explore.
+prev_word: diver
+next_word: divey
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

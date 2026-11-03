@@ -50,4 +50,15 @@ definitions:
   - text: To sell securities or investments at a loss, often under duress or pressure,
       in order to satisfy liquidity or margin requirements, or out of a desire to
       exit a deteriorating market.
+prev_word: puker
+next_word: pukey
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -48,4 +48,15 @@ definitions:
   - text: To apply rosin to (something); to rub or cover with rosin.
     example: We waited expectantly as the guest violinist rosined his bow in preparation
       for playing.
+prev_word: roshi
+next_word: rosit
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -51,4 +51,15 @@ definitions:
   - text: "(usually capitalized and preceded by the) God."
   - text: A poet.
   - text: Someone who signs a promissory note, thereby becoming responsible for payment.
+prev_word: makee
+next_word: makes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

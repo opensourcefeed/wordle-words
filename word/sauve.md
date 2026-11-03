@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - suave
 - uveas
+prev_word: sauts
+next_word: saved
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

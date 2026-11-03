@@ -29,4 +29,15 @@ neighbours:
 - proal
 - prole
 - proul
+prev_word: prole
+next_word: promo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

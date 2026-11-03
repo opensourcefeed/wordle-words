@@ -47,4 +47,13 @@ definitions:
   - text: A long period of time.
     example: It's been eons since we last saw each other.
   - text: "(usually spelled aeon or æon) A spirit being emanating from the Godhead."
+prev_word: aegis
+next_word: aerie
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

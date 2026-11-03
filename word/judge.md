@@ -46,4 +46,15 @@ definitions:
     example: At a boxing match, the decision of the judges is final.
   - text: A person who evaluates something or forms an opinion.
     example: She is a good judge of wine.
+prev_word: judas
+next_word: judgy
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

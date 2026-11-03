@@ -27,4 +27,15 @@ neighbours:
 - lowan
 - powan
 - rowan
+prev_word: cowal
+next_word: cowed
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

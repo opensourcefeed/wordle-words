@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: "(mildly blasphemous) Used as an intensifier, or to indicate surprise, enthusiasm,
       or distress"
+prev_word: jeers
+next_word: jefes
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

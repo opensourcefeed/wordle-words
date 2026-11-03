@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: "(Vedanta) The true self of an individual beyond identification with worldly
       phenomena, the essence of an individual, an infinitesimal part of Brahman."
+prev_word: atlas
+next_word: atmas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

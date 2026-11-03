@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A genus of large South African antelope (Taurotragus), valued both for its
       hide and flesh.
+prev_word: elain
+next_word: elans
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

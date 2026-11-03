@@ -25,4 +25,15 @@ neighbours:
 - monde
 - monie
 - monte
+prev_word: monos
+next_word: monte
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -36,4 +36,15 @@ definitions:
   - text: The basic unit of currency for Azerbaijan; symbol ₼; subdivided into 100
       qapik.
   - text: The basic unit of currency for Turkmenistan; subdivided into 100 tennesi.
+prev_word: manas
+next_word: mandi
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

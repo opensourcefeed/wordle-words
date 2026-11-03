@@ -68,4 +68,15 @@ definitions:
 - pos: noun
   defs:
   - text: A small salmon; a grilse; a sewin.
+prev_word: peaky
+next_word: peans
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

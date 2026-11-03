@@ -34,4 +34,13 @@ definitions:
   defs:
   - text: An Australian aboriginal.
   - text: A native of New Guinea or Malaysia.
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

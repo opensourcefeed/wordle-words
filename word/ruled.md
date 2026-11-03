@@ -52,4 +52,15 @@ definitions:
     example: a letter on ruled paper
   - text: "(of a surface) Being a scroll; being such that through every point of S
       there is a straight line that lies on S."
+prev_word: rukhs
+next_word: ruler
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

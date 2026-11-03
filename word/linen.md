@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: Made from linen cloth or thread.
   - text: Having the colour linen, light beige.
+prev_word: lined
+next_word: liner
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -21,4 +21,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 58
+prev_word: mahal
+next_word: mahis
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

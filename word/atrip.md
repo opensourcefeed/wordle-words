@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - tapir
 - parti
+prev_word: atria
+next_word: attap
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/ip/"
+  label: Ending in IP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

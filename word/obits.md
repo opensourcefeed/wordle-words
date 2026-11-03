@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: An obituary.
+prev_word: obiit
+next_word: objet
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ob/"
+  label: Starting with OB
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

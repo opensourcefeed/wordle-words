@@ -42,4 +42,15 @@ definitions:
       maximum relative combat power at a decisive place and time.
   - text: In an intelligence context, application of intelligence sources and methods
       in concert with the operation plan.
+prev_word: symar
+next_word: syncs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

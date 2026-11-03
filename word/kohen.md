@@ -29,4 +29,15 @@ definitions:
   - text: 'A Jewish priest: direct male descendant of the Biblical high priest Aaron,
       brother of Moses.'
     example: Is anyone here a cohen or a levi?
+prev_word: kohas
+next_word: kohls
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

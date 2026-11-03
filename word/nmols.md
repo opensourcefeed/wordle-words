@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 48
 neighbours:
 - nmoli
+prev_word: nmoli
+next_word: noahs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

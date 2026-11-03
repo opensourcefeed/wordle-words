@@ -33,4 +33,15 @@ definitions:
   - text: A globular structural protein that polymerizes in a helical fashion to form
       an actin filament (or microfilament).
   - text: One of the six isoforms of actin.
+prev_word: acted
+next_word: acton
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

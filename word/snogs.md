@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To kiss passionately.
+prev_word: snoep
+next_word: snoke
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -36,4 +36,15 @@ definitions:
   - text: "(Commonwealth of Nations except Canada) Whatever interests or suits one;
       one's cup of tea."
   - text: Pronunciation spelling of cup of.
+prev_word: cupid
+next_word: cuppy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

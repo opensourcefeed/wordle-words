@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: Tachometer
+prev_word: tacho
+next_word: tacit
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

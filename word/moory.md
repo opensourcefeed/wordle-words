@@ -29,4 +29,15 @@ neighbours:
 - moors
 anagrams:
 - roomy
+prev_word: moors
+next_word: moose
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

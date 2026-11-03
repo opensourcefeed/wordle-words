@@ -43,4 +43,15 @@ definitions:
   - text: A cheap showy trinket
   - text: Trick; jest; sport
   - text: Deceit; fraud; artifice
+prev_word: gaucy
+next_word: gaudy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

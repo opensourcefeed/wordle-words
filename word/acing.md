@@ -40,4 +40,15 @@ definitions:
   - text: "(US) To pass (a test, interviews etc.) perfectly."
   - text: To win a point by an ace.
   - text: To make an ace (hole in one).
+prev_word: acies
+next_word: acini
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

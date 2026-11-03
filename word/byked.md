@@ -28,4 +28,15 @@ neighbours:
 - dyked
 - fyked
 - ryked
+prev_word: bydes
+next_word: bykes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/by/"
+  label: Starting with BY
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

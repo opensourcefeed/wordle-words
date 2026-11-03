@@ -41,4 +41,15 @@ definitions:
   - text: "(of a fish) Having one or more fins."
   - text: Resembling a fin.
   - text: Abounding in fishes.
+prev_word: finks
+next_word: finos
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -28,4 +28,15 @@ neighbours:
 - targa
 anagrams:
 - garda
+prev_word: dares
+next_word: dargs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

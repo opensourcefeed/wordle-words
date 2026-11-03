@@ -59,4 +59,15 @@ definitions:
       to the muffler, particularly on aircraft.
   - text: A Manx cat with a showable short tail.
   - text: A strip of webbing joining a parachute's harness to the rigging lines.
+prev_word: risen
+next_word: rises
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

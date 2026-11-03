@@ -34,4 +34,15 @@ anagrams:
 trap:
   pattern: TUR_S
   count: 7
+prev_word: turme
+next_word: turns
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

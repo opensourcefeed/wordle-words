@@ -55,4 +55,15 @@ definitions:
       termed a countess."
   - text: Any of various nymphalid butterflies of the genus Tanaecia. Other butterflies
       in this genus are called counts and viscounts.
+prev_word: eared
+next_word: early
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

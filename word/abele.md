@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: The white poplar (Populus alba).
+prev_word: abeer
+next_word: abeng
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

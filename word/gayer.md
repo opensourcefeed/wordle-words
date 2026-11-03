@@ -58,4 +58,15 @@ definitions:
 - pos: noun
   defs:
   - text: Somebody who is gay (in the sense of either homosexual or uncool).
+prev_word: gayal
+next_word: gayly
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

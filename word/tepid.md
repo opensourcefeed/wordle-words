@@ -36,4 +36,15 @@ definitions:
     example: I'm drinking a cup of tepid water.
   - text: Uninterested; exhibiting little passion or eagerness.
     example: He gave me a tepid response to the proposal.
+prev_word: tepee
+next_word: tepoy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

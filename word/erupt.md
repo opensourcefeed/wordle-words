@@ -43,4 +43,15 @@ definitions:
       not appear at all.
   - text: To spontaneously release pressure or tension.
     example: The crowd erupted in anger.
+prev_word: erugo
+next_word: eruvs
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _OLDS
   count: 8
+prev_word: soldo
+next_word: soled
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

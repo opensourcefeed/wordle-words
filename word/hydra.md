@@ -37,4 +37,15 @@ definitions:
       maimed.
   - text: A complex, multifarious problem or situation that cannot be solved easily
       and rapidly.
+prev_word: hydel
+next_word: hydro
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

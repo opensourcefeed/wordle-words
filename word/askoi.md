@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 29
 neighbours:
 - askos
+prev_word: askew
+next_word: askos
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/oi/"
+  label: Ending in OI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

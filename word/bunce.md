@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A bonus; additional pay.
+prev_word: bunas
+next_word: bunch
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

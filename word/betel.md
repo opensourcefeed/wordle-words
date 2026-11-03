@@ -36,4 +36,15 @@ definitions:
   - text: 'Either of two plants often used in combination:'
   - text: A quid (chewing preparation) containing these and other plant materials;
       paan.
+prev_word: beted
+next_word: betes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

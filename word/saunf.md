@@ -30,4 +30,13 @@ definitions:
 - pos: noun
   defs:
   - text: Fennel, fennel seeds
+prev_word: sauna
+next_word: saunt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -25,4 +25,15 @@ stats:
 anagrams:
 - felix
 - flexi
+prev_word: exert
+next_word: exier
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

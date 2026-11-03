@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 73
 anagrams:
 - puzta
+prev_word: putty
+next_word: puuko
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

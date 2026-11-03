@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 80
 neighbours:
 - zoist
+prev_word: zoeas
+next_word: zoist
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/sm/"
+  label: Ending in SM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

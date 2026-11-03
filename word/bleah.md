@@ -36,4 +36,15 @@ definitions:
   - text: Expresses negative feeling. The quality of the emotion expressed is more
       negative than that of blah and has a slight feeling of disgust, verging on nausea.
     example: You bought that green station wagon? Bleah!
+prev_word: blaze
+next_word: bleak
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

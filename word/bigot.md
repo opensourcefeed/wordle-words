@@ -36,4 +36,15 @@ definitions:
       of (people of) differing ideas, races, genders, religions, politics, etc.
   - text: One who is overly pious in matters of religion, often hypocritically or
       else superstitiously so.
+prev_word: bigos
+next_word: bihon
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

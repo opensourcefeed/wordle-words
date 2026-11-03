@@ -67,4 +67,15 @@ definitions:
   - text: To mark with, or darken in, veins or sports; to variegate with colors.
     example: to cloud yarn
   - text: To become marked, darkened or variegated in this way.
+prev_word: clots
+next_word: clour
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ud/"
+  label: Ending in UD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

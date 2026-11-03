@@ -26,4 +26,15 @@ neighbours:
 - mollo
 - molts
 - mosto
+prev_word: molos
+next_word: molts
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

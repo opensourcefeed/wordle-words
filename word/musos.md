@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: A composer, conductor, or performer of music; specifically, a person who
       sings and/or plays a musical instrument as a hobby, an occupation, or a profession.
+prev_word: musky
+next_word: musse
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

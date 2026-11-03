@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - chats
 - tachs
+prev_word: scary
+next_word: scats
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

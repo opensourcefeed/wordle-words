@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: Acting in haste; being too hurried or quick
     example: Without much thinking about it they made a hasty decision to buy it.
+prev_word: haste
+next_word: hatch
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

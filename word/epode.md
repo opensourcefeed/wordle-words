@@ -34,4 +34,15 @@ definitions:
   - text: The after song; the part of a lyric ode which follows the strophe and antistrophe.
   - text: A kind of lyric poem, invented by Archilochus, in which a longer verse is
       followed by a shorter one.
+prev_word: epoch
+next_word: epopt
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ep/"
+  label: Starting with EP
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

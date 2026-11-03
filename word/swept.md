@@ -59,4 +59,15 @@ definitions:
   - text: To pass over, or traverse, with the eye or with an instrument of observation.
     example: to sweep the heavens with a telescope
   - text: "(including) to vacuum a carpet or rug"
+prev_word: swelt
+next_word: swerf
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

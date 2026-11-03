@@ -126,4 +126,15 @@ definitions:
     example: I'd love to crack open a beer.
   - text: To brag, boast.
   - text: To be ruined or impaired; to fail.
+prev_word: crabs
+next_word: craft
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

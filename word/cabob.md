@@ -28,4 +28,15 @@ neighbours:
 - nabob
 anagrams:
 - bobac
+prev_word: cable
+next_word: caboc
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ob/"
+  label: Ending in OB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

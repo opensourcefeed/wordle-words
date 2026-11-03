@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A young sheep of either gender, until it cuts its first two teeth; a hogget.
+prev_word: hogen
+next_word: hoghs
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

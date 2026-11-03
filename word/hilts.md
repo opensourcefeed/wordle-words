@@ -52,4 +52,15 @@ definitions:
   - text: To insert (a bodily extremity) as far as it can go into a sexual orifice
       so that it is impeded by the wider base to which it is attached (finger until
       palm, penis until pelvis).
+prev_word: hilsa
+next_word: hilum
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

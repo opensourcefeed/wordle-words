@@ -58,4 +58,15 @@ definitions:
   - text: To be alert; to keep watch
     example: Command unto the guards that they diligently wake.
   - text: To sit up late for festive purposes; to hold a night revel.
+prev_word: wakas
+next_word: waken
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

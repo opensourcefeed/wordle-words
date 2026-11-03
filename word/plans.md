@@ -66,4 +66,15 @@ definitions:
     example: He planned to go, but work intervened.
   - text: To make a plan.
     example: They planned for the worst, bringing lots of emergency supplies.
+prev_word: plank
+next_word: plant
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

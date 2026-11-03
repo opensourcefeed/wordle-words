@@ -30,4 +30,15 @@ neighbours:
 - yarns
 - yarra
 - yirrs
+prev_word: yarra
+next_word: yarta
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

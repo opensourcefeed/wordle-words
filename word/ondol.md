@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 81
 neighbours:
 - indol
+prev_word: ondes
+next_word: onely
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

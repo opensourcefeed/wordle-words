@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _APER
   count: 7
+prev_word: japed
+next_word: japes
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

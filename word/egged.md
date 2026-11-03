@@ -39,4 +39,13 @@ definitions:
 - pos: verb
   defs:
   - text: To encourage, incite.
+prev_word: eggar
+next_word: egger
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

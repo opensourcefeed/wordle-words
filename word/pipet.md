@@ -37,4 +37,15 @@ definitions:
 - pos: verb
   defs:
   - text: To transfer or measure the volume of a liquid using a pipette.
+prev_word: pipes
+next_word: pipid
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

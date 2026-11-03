@@ -27,4 +27,15 @@ neighbours:
 - horsy
 anagrams:
 - gyros
+prev_word: gorse
+next_word: gosht
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: 3.7×1010 decays per second, as a unit of radioactivity. Symbol Ci.
+prev_word: curia
+next_word: curio
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

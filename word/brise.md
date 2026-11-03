@@ -48,4 +48,15 @@ definitions:
 - pos: noun
   defs:
   - text: A tract of land that has been left untilled for a long time.
+prev_word: brios
+next_word: brisk
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -37,4 +37,15 @@ anagrams:
 - races
 - scrae
 - serac
+prev_word: sacra
+next_word: saddo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

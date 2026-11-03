@@ -26,4 +26,15 @@ neighbours:
 - ceres
 - cetes
 - copes
+prev_word: ceorl
+next_word: cerci
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: A treasure trove; a collection of treasure.
   - text: A collection of things.
+prev_word: trout
+next_word: trows
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -28,4 +28,15 @@ neighbours:
 - trant
 - trapt
 - trats
+prev_word: trats
+next_word: trave
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/tt/"
+  label: Ending in TT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

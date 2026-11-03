@@ -47,4 +47,15 @@ definitions:
   - text: The fibrous shaft or barb of a feather (especially that of the ostrich or
       peacock) used to make artificial flies for angling
   - text: An artificial fly made with this barb
+prev_word: heres
+next_word: herma
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

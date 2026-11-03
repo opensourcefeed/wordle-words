@@ -75,4 +75,15 @@ definitions:
 - pos: noun
   defs:
   - text: 'A small tool used in cleaving laths. Compare: froe.'
+prev_word: chiti
+next_word: chiva
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

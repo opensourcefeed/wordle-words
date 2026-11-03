@@ -26,4 +26,15 @@ neighbours:
 - creak
 - freak
 - wreak
+prev_word: prays
+next_word: predy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

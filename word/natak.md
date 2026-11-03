@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - kanat
 - tanka
+prev_word: nasus
+next_word: natal
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

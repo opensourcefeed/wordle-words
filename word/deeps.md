@@ -52,4 +52,15 @@ definitions:
   - text: (with "the") The sea, the ocean.
   - text: A fielding position near the boundary.
     example: Russell is a safe pair of hands in the deep.
+prev_word: deens
+next_word: deere
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

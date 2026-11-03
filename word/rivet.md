@@ -52,4 +52,15 @@ definitions:
   - text: To command the attention of.
   - text: To make firm or immovable.
     example: Terror riveted him to the spot.
+prev_word: rives
+next_word: riyal
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

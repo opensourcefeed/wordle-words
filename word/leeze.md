@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _EEZE
   count: 6
+prev_word: leets
+next_word: lefte
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

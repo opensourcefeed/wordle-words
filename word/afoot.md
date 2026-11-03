@@ -36,4 +36,15 @@ definitions:
   - text: On foot. (means of locomotion, walking)
   - text: On foot. (support of the body, standing)
   - text: In motion; in action; astir; stirring; in progress.
+prev_word: afoam
+next_word: afore
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

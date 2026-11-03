@@ -94,4 +94,15 @@ definitions:
     example: heavy laden with their sins
   - text: To a great degree; greatly.
   - text: Very
+prev_word: heave
+next_word: heben
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

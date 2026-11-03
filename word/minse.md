@@ -31,4 +31,15 @@ anagrams:
 - meins
 - miens
 - mines
+prev_word: minos
+next_word: mints
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

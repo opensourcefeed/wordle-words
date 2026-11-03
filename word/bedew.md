@@ -29,4 +29,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make wet with or as if with dew.
+prev_word: bedes
+next_word: bedim
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ew/"
+  label: Ending in EW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

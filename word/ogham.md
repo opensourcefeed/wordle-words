@@ -28,4 +28,15 @@ definitions:
 - pos: proper noun
   defs:
   - text: An ancient Celtic alphabet historically used to write Primitive Irish.
+prev_word: oggin
+next_word: ogive
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/og/"
+  label: Starting with OG
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

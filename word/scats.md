@@ -61,4 +61,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any fish in the family Scatophagidae
+prev_word: scath
+next_word: scatt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

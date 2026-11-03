@@ -85,4 +85,15 @@ definitions:
   - text: To cook in a microwave oven.
     example: I’ll nuke some pizza for dinner.
   - text: To over-analyze or overly despair over something.
+prev_word: nuked
+next_word: nulla
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

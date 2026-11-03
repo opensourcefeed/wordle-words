@@ -44,4 +44,15 @@ definitions:
   - text: Feigned; counterfeit.
   - text: "(war) (of an attack) directed toward a different part from the intended
       strike"
+prev_word: feign
+next_word: feist
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

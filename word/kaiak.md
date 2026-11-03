@@ -26,4 +26,15 @@ neighbours:
 - kayak
 anagrams:
 - kaika
+prev_word: kahal
+next_word: kaids
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

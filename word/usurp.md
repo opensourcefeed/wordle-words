@@ -34,4 +34,15 @@ definitions:
   - text: To use and assume the coat of arms of another person.
   - text: To take the place rightfully belonging to someone or something else.
   - text: To make use of.
+prev_word: usure
+next_word: usury
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/us/"
+  label: Starting with US
+- url: "/ending-with/rp/"
+  label: Ending in RP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

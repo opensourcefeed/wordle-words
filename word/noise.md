@@ -57,4 +57,15 @@ definitions:
   defs:
   - text: To make a noise; to sound.
   - text: To spread news of; to spread as rumor or gossip.
+prev_word: noirs
+next_word: noisy
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

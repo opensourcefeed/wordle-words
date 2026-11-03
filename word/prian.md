@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - panir
 - rapin
+prev_word: prial
+next_word: price
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 71
 neighbours:
 - vocal
+prev_word: vobla
+next_word: vocal
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ab/"
+  label: Ending in AB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Indicating disapproval, scoffery, irritation, impatience or disbelief.
     example: Pshaw! I can't believe it!
+prev_word: pseud
+next_word: pshut
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ps/"
+  label: Starting with PS
+- url: "/ending-with/aw/"
+  label: Ending in AW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

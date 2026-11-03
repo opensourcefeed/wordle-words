@@ -40,4 +40,15 @@ definitions:
       their environment without the need to modify the pressure, by interposing an
       evacuated region to provide thermal insulation between the contents and the
       environment.
+prev_word: dewan
+next_word: dewax
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

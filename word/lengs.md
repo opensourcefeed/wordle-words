@@ -32,4 +32,15 @@ neighbours:
 - rengs
 anagrams:
 - glens
+prev_word: lenes
+next_word: lenis
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

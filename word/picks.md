@@ -99,4 +99,15 @@ definitions:
   - text: To separate or open by means of a sharp point or points.
     example: to pick matted wool, cotton, oakum, etc.
   - text: To screen.
+prev_word: pichi
+next_word: picky
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -30,4 +30,15 @@ neighbours:
 trap:
   pattern: _UPPY
   count: 6
+prev_word: buoys
+next_word: buran
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -29,4 +29,13 @@ definitions:
       large rat, having bright orange-yellow incisors, native to South America and
       introduced to Europe, Asia and North America, valued for its fur in eastern
       Europe and central Asia and considered a pest elsewhere.
+prev_word: coyly
+next_word: cozed
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

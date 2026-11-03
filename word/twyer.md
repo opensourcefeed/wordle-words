@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A nozzle or similar fixture through which the blast is delivered to the
       interior of a blast furnace, or to the fire of a forge
+prev_word: twonk
+next_word: tyees
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

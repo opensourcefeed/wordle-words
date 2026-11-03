@@ -27,4 +27,15 @@ anagrams:
 - enews
 - sewen
 - weens
+prev_word: enrol
+next_word: ensky
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/ew/"
+  label: Ending in EW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

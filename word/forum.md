@@ -40,4 +40,15 @@ definitions:
     example: Trish was an admin on three forums, and had no trouble at all when it
       came to moderating them.
   - text: A square or marketplace in a Roman town, used for public business and commerce.
+prev_word: forty
+next_word: forza
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

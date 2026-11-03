@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: Film noir.
   - text: A production in the style of film noir.
+prev_word: noire
+next_word: noise
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

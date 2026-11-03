@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: A cardigan.
+prev_word: cards
+next_word: cared
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

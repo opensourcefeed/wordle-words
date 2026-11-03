@@ -25,4 +25,15 @@ neighbours:
 - lobus
 - zebus
 - zobos
+prev_word: zobos
+next_word: zocco
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

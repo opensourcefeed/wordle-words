@@ -33,4 +33,15 @@ definitions:
   - text: An ornamental cotton wristband tied by a girl or woman on to the wrist of
       her brother, or of one who takes on the responsibilities of a brother, particularly
       during the Raksha Bandhan festival.
+prev_word: rakes
+next_word: rakia
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

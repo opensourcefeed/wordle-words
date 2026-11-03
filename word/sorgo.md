@@ -29,4 +29,15 @@ neighbours:
 - sordo
 anagrams:
 - goors
+prev_word: sorex
+next_word: sorns
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

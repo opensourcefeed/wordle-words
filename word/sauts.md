@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _AUTS
   count: 6
+prev_word: saute
+next_word: sauve
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

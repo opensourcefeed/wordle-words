@@ -59,4 +59,15 @@ definitions:
 - pos: verb
   defs:
   - text: To try; to assay.
+prev_word: saist
+next_word: sajou
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

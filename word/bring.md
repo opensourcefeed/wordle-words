@@ -56,4 +56,15 @@ definitions:
     example: What does coal bring per ton?
   - text: To pitch, often referring to a particularly hard thrown fastball.
     example: The closer Jones can really bring it.
+prev_word: brine
+next_word: brink
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

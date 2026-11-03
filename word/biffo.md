@@ -32,4 +32,13 @@ definitions:
   defs:
   - text: Violence, fighting; a fight.
     example: There was too much biffo going on at that club, so I left.
+prev_word: biers
+next_word: biffs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

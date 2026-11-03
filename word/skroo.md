@@ -26,4 +26,15 @@ anagrams:
 - koros
 - rokos
 - rooks
+prev_word: skrik
+next_word: skuas
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

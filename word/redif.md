@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - fried
 - fired
+prev_word: redid
+next_word: redig
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/if/"
+  label: Ending in IF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Saiga tatarica, an antelope which inhabits a vast area between Kalmykia,
       Kazakhstan, southern Siberia.
+prev_word: saids
+next_word: sails
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

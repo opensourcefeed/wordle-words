@@ -40,4 +40,15 @@ definitions:
   - text: "(chiefly Manchester) A small or short cigarette."
   - text: "(by extension) The butt end of a cigarette, before it has been completely
       smoked; a half-smoked cigarette."
+prev_word: dimly
+next_word: dinar
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

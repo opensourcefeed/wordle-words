@@ -33,4 +33,15 @@ definitions:
       or meat.
     example: For the vegetarians, she served cucumber sushi.
   - text: Raw fish, especially as a Japanese dish.
+prev_word: suses
+next_word: susus
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

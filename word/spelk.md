@@ -40,4 +40,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(Northern English) To use a spelk in or on."
+prev_word: speld
+next_word: spell
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/lk/"
+  label: Ending in LK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

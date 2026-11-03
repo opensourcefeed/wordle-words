@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: To hawk or to peddle merchandise.
   - text: To sell wares through a vending machine.
+prev_word: venas
+next_word: vendu
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

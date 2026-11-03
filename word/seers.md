@@ -51,4 +51,15 @@ definitions:
 - pos: noun
   defs:
   - text: Unit of mass or volume in the Middle East and Indian subcontinent.
+prev_word: seepy
+next_word: sefer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

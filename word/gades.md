@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ADES
   count: 10
+prev_word: gaddi
+next_word: gadge
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

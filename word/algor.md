@@ -29,4 +29,15 @@ anagrams:
 - goral
 - largo
 - rolag
+prev_word: algin
+next_word: algos
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

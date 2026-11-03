@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _OUKS
   count: 10
+prev_word: tough
+next_word: touns
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -30,4 +30,15 @@ neighbours:
 - alane
 - flans
 - slane
+prev_word: flamy
+next_word: flank
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

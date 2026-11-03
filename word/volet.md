@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A shutter on a window.
   - text: The wing of a triptych.
+prev_word: voles
+next_word: volke
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cast off capriciously or unfeelingly, as a lover; to deceive in love.
+prev_word: jills
+next_word: jimmy
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

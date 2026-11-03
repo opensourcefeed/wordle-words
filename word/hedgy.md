@@ -24,4 +24,15 @@ neighbours:
 - ledgy
 - sedgy
 - wedgy
+prev_word: hedge
+next_word: heeds
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

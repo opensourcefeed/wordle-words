@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _OOTY
   count: 8
+prev_word: poots
+next_word: poove
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -33,4 +33,15 @@ definitions:
       (Parus caeruleus).
   - text: The dunlin (Calidris alpina)
   - text: A fish Boops boops; the bogue, or box.
+prev_word: oxers
+next_word: oxide
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ox/"
+  label: Starting with OX
+- url: "/ending-with/ye/"
+  label: Ending in YE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

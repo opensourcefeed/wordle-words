@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - apple
 - pepla
+prev_word: appay
+next_word: apple
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

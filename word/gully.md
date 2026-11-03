@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: To flow noisily.
   - text: To wear away into a gully or gullies.
+prev_word: gulls
+next_word: gulph
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

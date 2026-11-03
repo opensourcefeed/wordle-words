@@ -28,4 +28,15 @@ neighbours:
 - gilia
 anagrams:
 - agila
+prev_word: gales
+next_word: galis
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

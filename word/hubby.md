@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: "(term of endearment) Husband."
     example: Laura thought Jack was the most wonderful hubby in the world.
+prev_word: hubba
+next_word: hucks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

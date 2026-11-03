@@ -51,4 +51,15 @@ definitions:
       a trade fair.
   - text: A travelling amusement park (called a funfair in British English and a (travelling)
       carnival in US English).
+prev_word: faire
+next_word: fairy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

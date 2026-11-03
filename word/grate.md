@@ -61,4 +61,15 @@ definitions:
   defs:
   - text: To furnish with grates; to protect with a grating or crossbars
     example: to grate a window
+prev_word: grata
+next_word: grats
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

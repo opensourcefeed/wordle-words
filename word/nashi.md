@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A fruit, the Nashi pear, Pyrus pyrifolia.
+prev_word: nasal
+next_word: nasho
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

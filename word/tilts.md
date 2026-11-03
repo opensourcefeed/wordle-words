@@ -72,4 +72,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cover with a tilt, or awning.
+prev_word: tilth
+next_word: timbo
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

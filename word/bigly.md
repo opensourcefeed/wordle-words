@@ -34,4 +34,15 @@ definitions:
   - text: In a big way, greatly; to a great extent, on a large scale.
   - text: Strongly, with great force.
   - text: In a blustering or boastful manner; haughtily, pompously.
+prev_word: bight
+next_word: bigos
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: An oval cooking-pot, traditionally used in Provence.
   - text: A Provençal dish of layered baked vegetables.
+prev_word: thymy
+next_word: tiara
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

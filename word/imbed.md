@@ -41,4 +41,15 @@ definitions:
   - text: To define a one-to-one function from (one set) to another so that certain
       properties of the domain are preserved when considering the image as a subset
       of the codomain.
+prev_word: imbar
+next_word: imbos
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

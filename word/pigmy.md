@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: Relating or belonging to the Pygmy people.
   - text: Like a pygmy; unusually short or small for its kind.
+prev_word: pigly
+next_word: piing
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

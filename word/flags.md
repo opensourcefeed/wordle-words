@@ -113,4 +113,15 @@ definitions:
   - text: The bushy tail of a dog such as a setter.
   - text: A hook attached to the stem of a written note that assigns its rhythmic
       value
+prev_word: flaff
+next_word: flail
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

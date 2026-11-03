@@ -63,4 +63,15 @@ definitions:
   defs:
   - text: To help, support, benefit or assist; to be helpful or noteful.
   - text: To fill stead or place of.
+prev_word: stays
+next_word: steak
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

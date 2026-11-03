@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - buras
 - bursa
+prev_word: baulk
+next_word: bavin
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

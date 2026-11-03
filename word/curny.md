@@ -27,4 +27,15 @@ neighbours:
 - cunny
 - curdy
 - curns
+prev_word: curns
+next_word: currs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

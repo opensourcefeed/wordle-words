@@ -40,4 +40,15 @@ definitions:
   - text: Any plant of the family Cyperaceae.
   - text: Certain other plants resembling sedges, such as Gentiana rubricaulis and
       Andropogon virginicus.
+prev_word: sedes
+next_word: sedgy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

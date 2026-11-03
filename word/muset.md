@@ -28,4 +28,15 @@ neighbours:
 - musit
 anagrams:
 - mutes
+prev_word: muses
+next_word: musha
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

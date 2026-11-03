@@ -24,4 +24,13 @@ definitions:
 - pos: noun
   defs:
   - text: "(law enforcement) Abbreviation of unknown subject. of an investigation."
+prev_word: unsod
+next_word: untag
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - pelon
 - pleno
+prev_word: pleno
+next_word: plesh
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -69,4 +69,15 @@ definitions:
       it easier to wash.
   - text: To cover like a coat.
   - text: To clothe.
+prev_word: coati
+next_word: cobbs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

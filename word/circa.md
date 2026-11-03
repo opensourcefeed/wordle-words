@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Approximately, about, around (typically in relation to time)
     example: Julius Caesar visited this area circa 50 BC.
+prev_word: cippi
+next_word: circs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

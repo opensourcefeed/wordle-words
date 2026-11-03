@@ -30,4 +30,15 @@ neighbours:
 - keyed
 anagrams:
 - heedy
+prev_word: hexyl
+next_word: hiant
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

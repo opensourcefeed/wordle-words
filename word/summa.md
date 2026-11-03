@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A comprehensive summary of, or treatise on a subject, especially theology
       or philosophy.
+prev_word: sumis
+next_word: sumos
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

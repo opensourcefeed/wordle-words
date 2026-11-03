@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of many heathers, of the genus Erica, used as garden plants
+prev_word: erhus
+next_word: erick
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

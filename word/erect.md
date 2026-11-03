@@ -43,4 +43,15 @@ definitions:
   - text: Directed upward; raised; uplifted.
   - text: Watchful; alert.
   - text: Elevated, as the tips of wings, heads of serpents, etc.
+prev_word: erbia
+next_word: erevs
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

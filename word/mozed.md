@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: MO_ED
   count: 9
+prev_word: moyls
+next_word: mozes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

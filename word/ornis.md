@@ -33,4 +33,15 @@ anagrams:
 - nosir
 - roins
 - rosin
+prev_word: ornee
+next_word: orped
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

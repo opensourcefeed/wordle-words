@@ -31,4 +31,15 @@ neighbours:
 - versa
 anagrams:
 - raver
+prev_word: verge
+next_word: verre
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

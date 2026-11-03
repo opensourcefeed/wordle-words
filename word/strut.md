@@ -44,4 +44,15 @@ definitions:
     example: He strutted about the yard, thinking himself master of all he surveyed.
   - text: To cause to swell; enlarge; give more importance to.
   - text: To protrude; cause to bulge.
+prev_word: strum
+next_word: stubs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

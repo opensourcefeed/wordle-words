@@ -37,4 +37,15 @@ definitions:
       to refer the reader to a footnote, marginal note, etc.; beside a person's name
       to indicate that the person is deceased; or beside a date to indicate that it
       is a person's death date; an obelisk.
+prev_word: obeah
+next_word: obese
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ob/"
+  label: Starting with OB
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

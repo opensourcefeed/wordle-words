@@ -43,4 +43,15 @@ definitions:
   - text: Of uncertain, risky outcome.
   - text: Of doubtful or uncertain efficacy, provenance, etc.; dodgy.
   - text: Nauseating, rank.
+prev_word: dices
+next_word: dicht
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

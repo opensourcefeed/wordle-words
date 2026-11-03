@@ -35,4 +35,15 @@ definitions:
   - text: Fixed, rather than moving.
   - text: Rigorous and unbending.
   - text: Uncompromising.
+prev_word: right
+next_word: rigmo
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

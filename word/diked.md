@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To be well dressed.
+prev_word: dikas
+next_word: diker
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

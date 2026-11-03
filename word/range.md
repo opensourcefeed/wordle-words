@@ -109,4 +109,15 @@ definitions:
   - text: To sail or pass in a direction parallel to or near.
     example: to range the coast
   - text: Of a player, to travel a significant distance for a defensive play.
+prev_word: ranga
+next_word: rangi
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

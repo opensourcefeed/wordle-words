@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Of or designating a solution that contains one mole of solute per 1000g
       of solvent
+prev_word: mokus
+next_word: molar
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

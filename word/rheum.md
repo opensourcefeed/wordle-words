@@ -30,4 +30,15 @@ definitions:
   - text: Illness or disease thought to be caused by such secretions; a catarrh, a
       cold; rheumatism.
   - text: Tears.
+prev_word: rheme
+next_word: rhies
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/rh/"
+  label: Starting with RH
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

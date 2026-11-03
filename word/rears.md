@@ -81,4 +81,15 @@ definitions:
   defs:
   - text: To place in the rear; to secure the rear of.
   - text: To sodomize (perform anal sex)
+prev_word: rearm
+next_word: reast
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

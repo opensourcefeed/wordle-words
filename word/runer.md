@@ -29,4 +29,15 @@ neighbours:
 - tuner
 anagrams:
 - rerun
+prev_word: runed
+next_word: runes
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

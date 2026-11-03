@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: DOR_S
   count: 8
+prev_word: doric
+next_word: dorje
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

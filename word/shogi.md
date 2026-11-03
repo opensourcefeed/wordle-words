@@ -23,4 +23,15 @@ stats:
 neighbours:
 - shogs
 - shoji
+prev_word: shoes
+next_word: shogs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

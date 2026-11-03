@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _EEMS
   count: 6
+prev_word: reely
+next_word: reens
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

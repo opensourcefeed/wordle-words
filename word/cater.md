@@ -69,4 +69,15 @@ definitions:
     example: The merchants are the purveyors of fine selections.
   - text: An officer who provided provisions for the king's household.
   - text: A procurer; a pimp.
+prev_word: catch
+next_word: cates
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

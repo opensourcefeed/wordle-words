@@ -47,4 +47,15 @@ definitions:
   - text: A single-masted sailboat with only one headsail.
   - text: A sailing warship, smaller than a frigate, with its guns all on one deck.
   - text: A sloop-of-war, smaller than a frigate, larger than a corvette.
+prev_word: sloom
+next_word: sloot
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _RATE
   count: 8
+prev_word: wrast
+next_word: wrath
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

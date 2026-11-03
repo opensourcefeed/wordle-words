@@ -31,4 +31,13 @@ definitions:
   defs:
   - text: A foliate fungicide consisting of a polymeric complex of manganese with
       the ethylene bis(dithiocarbamate) anionic ligand.
+prev_word: mandy
+next_word: maned
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

@@ -27,4 +27,15 @@ neighbours:
 - jures
 - kuris
 - puris
+prev_word: jures
+next_word: juror
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

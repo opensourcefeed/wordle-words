@@ -29,4 +29,15 @@ neighbours:
 - bewet
 - denet
 - genet
+prev_word: benes
+next_word: benga
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

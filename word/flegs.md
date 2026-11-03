@@ -28,4 +28,15 @@ neighbours:
 - flews
 - fleys
 - flogs
+prev_word: fleet
+next_word: fleme
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

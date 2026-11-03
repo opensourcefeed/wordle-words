@@ -24,4 +24,15 @@ stats:
 neighbours:
 - dicta
 - facta
+prev_word: ficos
+next_word: ficus
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

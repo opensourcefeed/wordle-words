@@ -24,4 +24,15 @@ neighbours:
 - robur
 anagrams:
 - bourg
+prev_word: robot
+next_word: robur
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ug/"
+  label: Ending in UG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

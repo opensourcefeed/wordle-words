@@ -35,4 +35,13 @@ definitions:
 - pos: verb
   defs:
   - text: To penetrate with a dildo or with another object as if it were a dildo.
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

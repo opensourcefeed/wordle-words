@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ACKS
   count: 15
+prev_word: kacha
+next_word: kadai
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

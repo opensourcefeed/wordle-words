@@ -29,4 +29,15 @@ definitions:
 - pos: verb
   defs:
   - text: To refine by means of a cupel.
+prev_word: cunny
+next_word: cupid
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

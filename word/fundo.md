@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - found
 - fondu
+prev_word: fundi
+next_word: funds
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

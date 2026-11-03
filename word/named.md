@@ -64,4 +64,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having a name.
+prev_word: namaz
+next_word: namer
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

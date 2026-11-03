@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: A brand new (naive) boot camp inductee.
     example: No turning back now rick, you are the property of the US government now.
+prev_word: ricin
+next_word: rider
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

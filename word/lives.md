@@ -45,4 +45,15 @@ anagrams:
 trap:
   pattern: _IVES
   count: 10
+prev_word: liver
+next_word: livid
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

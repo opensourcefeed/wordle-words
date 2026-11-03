@@ -31,4 +31,15 @@ neighbours:
 - riced
 - ticed
 - viced
+prev_word: nicad
+next_word: nicer
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

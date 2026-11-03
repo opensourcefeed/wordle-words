@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _OKER
   count: 8
+prev_word: kokas
+next_word: kokra
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

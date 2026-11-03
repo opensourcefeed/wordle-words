@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Superficial cosmetic treatment of the feet and toenails.
   - text: One who cares for the feet and nails; a chiropodist.
+prev_word: pedes
+next_word: pedon
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

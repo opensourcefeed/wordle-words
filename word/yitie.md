@@ -25,4 +25,15 @@ stats:
 neighbours:
 - litie
 - mitie
+prev_word: yites
+next_word: ylems
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yi/"
+  label: Starting with YI
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

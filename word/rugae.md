@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - argue
 - auger
+prev_word: rufus
+next_word: rugal
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: To apply (a liquid) thickly and messily.
   - text: To swallow greedily.
+prev_word: gloop
+next_word: glory
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -44,4 +44,13 @@ definitions:
   - text: To play a banjo.
   - text: To beat, to knock down.
   - text: To shell or attack (a target).
+prev_word: bania
+next_word: banks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

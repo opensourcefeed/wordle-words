@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - prosy
 - pyros
+prev_word: yorks
+next_word: youks
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

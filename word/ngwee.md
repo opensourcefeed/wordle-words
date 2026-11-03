@@ -26,4 +26,15 @@ definitions:
 - pos: noun
   defs:
   - text: A currency of Zambia, one hundredth of a kwacha.
+prev_word: ngram
+next_word: nibby
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ng/"
+  label: Starting with NG
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

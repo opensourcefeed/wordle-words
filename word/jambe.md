@@ -27,4 +27,15 @@ neighbours:
 - jambs
 - jambu
 - jembe
+prev_word: jalop
+next_word: jambo
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

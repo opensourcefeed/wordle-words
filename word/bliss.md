@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: Perfect happiness
+prev_word: blips
+next_word: blist
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

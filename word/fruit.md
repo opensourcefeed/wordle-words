@@ -54,4 +54,15 @@ definitions:
 - pos: verb
   defs:
   - text: To produce fruit, seeds, or spores.
+prev_word: frugs
+next_word: frump
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

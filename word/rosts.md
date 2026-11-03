@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: RO_TS
   count: 6
+prev_word: rosti
+next_word: rotal
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

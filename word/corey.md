@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: CO_EY
   count: 8
+prev_word: cores
+next_word: corgi
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

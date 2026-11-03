@@ -27,4 +27,15 @@ neighbours:
 - noyau
 anagrams:
 - bayou
+prev_word: boyar
+next_word: boyed
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/au/"
+  label: Ending in AU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

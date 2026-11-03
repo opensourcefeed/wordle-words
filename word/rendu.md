@@ -31,4 +31,15 @@ anagrams:
 - runed
 - unred
 - urned
+prev_word: rends
+next_word: renew
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/du/"
+  label: Ending in DU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

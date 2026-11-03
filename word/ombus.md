@@ -24,4 +24,15 @@ neighbours:
 - embus
 anagrams:
 - umbos
+prev_word: ombre
+next_word: omdah
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/om/"
+  label: Starting with OM
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

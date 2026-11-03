@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Any major regional biological community such as that of forest or desert
   - text: All the genomes of such a community
+prev_word: biogs
+next_word: bions
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

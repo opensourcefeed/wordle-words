@@ -24,4 +24,13 @@ neighbours:
 - mambo
 - jambu
 - mamba
+prev_word: mambo
+next_word: mamee
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

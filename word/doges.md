@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: A dog.
   - text: Specifically, a Shiba Inu, as in the doge meme.
+prev_word: dogan
+next_word: dogey
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: Any salt of uric acid.
     example: The deposition of urate crystals in the joints leads to gout.
+prev_word: urase
+next_word: urban
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

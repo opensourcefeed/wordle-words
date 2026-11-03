@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 56
 anagrams:
 - waved
+prev_word: adust
+next_word: advts
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ew/"
+  label: Ending in EW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

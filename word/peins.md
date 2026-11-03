@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _EINS
   count: 7
+prev_word: peine
+next_word: peise
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A heliotrope (surveying instrument).
+prev_word: heles
+next_word: helix
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/io/"
+  label: Ending in IO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

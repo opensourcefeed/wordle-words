@@ -23,4 +23,15 @@ neighbours:
 - weeks
 - weete
 - welke
+prev_word: weeis
+next_word: weeks
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -38,4 +38,15 @@ anagrams:
 - rones
 - senor
 - seron
+prev_word: nosed
+next_word: noses
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

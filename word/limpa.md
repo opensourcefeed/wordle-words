@@ -27,4 +27,15 @@ neighbours:
 - limps
 anagrams:
 - milpa
+prev_word: limos
+next_word: limps
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

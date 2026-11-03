@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Concerning numbers expressed in octal or mathematical calculations performed
       using octal.
+prev_word: octad
+next_word: octan
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

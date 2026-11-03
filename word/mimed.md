@@ -41,4 +41,15 @@ definitions:
   - text: To mimic.
   - text: To act without words.
   - text: To represent an action or object through gesture, without the use of sound.
+prev_word: miltz
+next_word: mimeo
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

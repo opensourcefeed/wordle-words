@@ -37,4 +37,15 @@ definitions:
   - text: Having the form of a cup.
   - text: Having indentations or shallow depressions.
   - text: "(of timber) Characterised by cup shakes."
+prev_word: cuppa
+next_word: cupro
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

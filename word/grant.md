@@ -58,4 +58,15 @@ definitions:
   - text: To agree with (someone) on (something); to accept (something) for the sake
       of argument; to admit to (someone) that (something) is true.
   - text: To assent; to consent.
+prev_word: grans
+next_word: grape
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

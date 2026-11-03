@@ -40,4 +40,15 @@ definitions:
   - text: A second crop of hay; aftermath.
   - text: A stubble field left unploughed until late in the autumn, so that it can
       be cropped by cattle.
+prev_word: rowel
+next_word: rower
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

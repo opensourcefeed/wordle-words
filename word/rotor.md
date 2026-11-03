@@ -35,4 +35,15 @@ definitions:
       generator, alternator or pump.
   - text: The wing of a helicopter or similar aircraft.
   - text: A quantity having magnitude, direction and position.
+prev_word: roton
+next_word: rotos
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

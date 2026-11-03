@@ -41,4 +41,15 @@ definitions:
     example: Some paperback novels have lurid covers.
   - text: Having a brown colour tinged with red, as of flame seen through smoke.
   - text: Having a colour tinged with purple, yellow, and grey.
+prev_word: lurgy
+next_word: lurks
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

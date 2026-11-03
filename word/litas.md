@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: The former currency or money of Lithuania, divided into 100 centai.
+prev_word: litai
+next_word: lited
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

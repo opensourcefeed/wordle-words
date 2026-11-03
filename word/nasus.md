@@ -27,4 +27,15 @@ neighbours:
 - namus
 - nasis
 - nisus
+prev_word: nasty
+next_word: natak
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

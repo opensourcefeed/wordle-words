@@ -27,4 +27,15 @@ neighbours:
 - pesos
 - pises
 - pivos
+prev_word: pisky
+next_word: pissy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

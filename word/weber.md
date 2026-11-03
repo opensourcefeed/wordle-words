@@ -28,4 +28,15 @@ definitions:
   - text: 'In the International System of Units, the derived unit of magnetic flux;
       the flux linking a circuit of one turn that produces an electromotive force
       of one volt when reduced uniformly to zero in one second. Symbol: Wb.'
+prev_word: webby
+next_word: wecht
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

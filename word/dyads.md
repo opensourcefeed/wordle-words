@@ -39,4 +39,15 @@ definitions:
   - text: An element, atom, or radical having a valence or combining power of two.
   - text: A secondary unit of organisation consisting of an aggregate of monads.
   - text: A tensor of order two and rank one.
+prev_word: dwine
+next_word: dyers
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dy/"
+  label: Starting with DY
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

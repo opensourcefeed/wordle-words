@@ -50,4 +50,15 @@ definitions:
 - pos: verb
   defs:
   - text: To drag or pull, especially forcibly.
+prev_word: haler
+next_word: halfa
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

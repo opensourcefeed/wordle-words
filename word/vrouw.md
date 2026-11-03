@@ -27,4 +27,11 @@ definitions:
 - pos: noun
   defs:
   - text: A Dutchwoman.
+prev_word: vrous
+next_word: vrows
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

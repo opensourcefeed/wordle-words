@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Relating or belonging to the Pygmy people.
   - text: Like a pygmy; unusually short or small for its kind.
+prev_word: pygal
+next_word: pyins
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

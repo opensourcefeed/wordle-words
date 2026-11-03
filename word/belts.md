@@ -93,4 +93,15 @@ definitions:
     example: He belted that pitch over the grandstand.
   - text: To move very fast
     example: He was really belting along.
+prev_word: below
+next_word: belve
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

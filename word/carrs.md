@@ -73,4 +73,15 @@ definitions:
   defs:
   - text: A bog or marsh; marshy ground, swampland.
   - text: A marsh or fen on which low trees or bushes grow; a marshy woodland.
+prev_word: carps
+next_word: carry
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

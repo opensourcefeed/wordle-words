@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - putti
 - titup
+prev_word: pitta
+next_word: piuma
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/tu/"
+  label: Ending in TU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

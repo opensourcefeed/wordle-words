@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To mimeograph.
+prev_word: mimed
+next_word: mimer
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/eo/"
+  label: Ending in EO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

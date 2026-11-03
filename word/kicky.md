@@ -41,4 +41,15 @@ definitions:
   - text: Characterised by kicking motions.
     example: a kicky dance routine
   - text: Describing a wicket that sometimes causes the ball to kick (bounce unevenly).
+prev_word: kicks
+next_word: kiddo
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

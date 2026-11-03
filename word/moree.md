@@ -32,4 +32,15 @@ neighbours:
 - morne
 - morse
 - soree
+prev_word: moray
+next_word: morel
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

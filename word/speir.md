@@ -35,4 +35,15 @@ anagrams:
 - prise
 - ripes
 - spier
+prev_word: speil
+next_word: speks
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

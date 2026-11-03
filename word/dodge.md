@@ -56,4 +56,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Dodgy
+prev_word: doddy
+next_word: dodgy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

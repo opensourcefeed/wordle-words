@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: The smallest unit of anything, especially money; a penny; a whit; a jot
       (used in negative constructions).
+prev_word: razet
+next_word: razor
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

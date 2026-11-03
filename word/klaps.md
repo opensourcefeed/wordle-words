@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _LAPS
   count: 6
+prev_word: klang
+next_word: klett
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kl/"
+  label: Starting with KL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

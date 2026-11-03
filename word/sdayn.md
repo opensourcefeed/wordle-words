@@ -20,4 +20,11 @@ stats:
   starter_top_percent: 42
 anagrams:
 - sandy
+prev_word: scyes
+next_word: sdein
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

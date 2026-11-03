@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A person opposed to a concept or principle.
+prev_word: antic
+next_word: antra
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

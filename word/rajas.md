@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: A Hindu prince or ruler in India.
   - text: Any of various nymphalid butterflies of the genus Charaxes.
+prev_word: rajah
+next_word: rajes
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

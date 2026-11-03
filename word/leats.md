@@ -56,4 +56,15 @@ definitions:
 - pos: noun
   defs:
   - text: An artificial watercourse, canal or aqueduct, but especially a millrace
+prev_word: least
+next_word: leave
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

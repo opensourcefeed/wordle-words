@@ -28,4 +28,15 @@ neighbours:
 - veily
 anagrams:
 - leavy
+prev_word: veals
+next_word: veena
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -36,4 +36,15 @@ definitions:
     example: Walking through the snaky passages I was soon completely lost.
   - text: Sly; cunning; deceitful.
   - text: Covered with serpents; having serpents.
+prev_word: snake
+next_word: snaps
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

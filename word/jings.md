@@ -41,4 +41,15 @@ definitions:
 - pos: interjection
   defs:
   - text: An exclamation of surprise.
+prev_word: jingo
+next_word: jinks
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

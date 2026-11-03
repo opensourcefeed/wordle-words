@@ -43,4 +43,15 @@ definitions:
   - text: To jest; play tricks.
   - text: To mock; deride.
   - text: To have sexual intercourse with.
+prev_word: japan
+next_word: japer
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

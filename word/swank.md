@@ -48,4 +48,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Fashionably elegant, posh.
+prev_word: swang
+next_word: swans
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

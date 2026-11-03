@@ -48,4 +48,15 @@ definitions:
       or has done; often as an attempt to popularize oneself.
     example: to brag of one's exploits, courage, or money
   - text: To boast of.
+prev_word: braes
+next_word: brahs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

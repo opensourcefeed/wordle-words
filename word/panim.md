@@ -24,4 +24,15 @@ neighbours:
 - panic
 - panir
 - punim
+prev_word: panic
+next_word: panir
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

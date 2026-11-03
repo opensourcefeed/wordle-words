@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _EALS
   count: 14
+prev_word: neafe
+next_word: neant
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

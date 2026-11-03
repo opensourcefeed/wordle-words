@@ -99,4 +99,15 @@ definitions:
   defs:
   - text: "(plural noun) A period of hot weather."
     example: Everyone suffered during the heats of July.
+prev_word: heath
+next_word: heaty
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

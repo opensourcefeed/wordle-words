@@ -33,4 +33,13 @@ definitions:
 - pos: noun
   defs:
   - text: A verse in the Quran.
+prev_word: axons
+next_word: ayaya
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

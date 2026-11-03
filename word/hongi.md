@@ -35,4 +35,15 @@ definitions:
 - pos: verb
   defs:
   - text: To perform the Maori greeting of touching noses.
+prev_word: honey
+next_word: hongs
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

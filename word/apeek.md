@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - peake
 - pekea
+prev_word: apeak
+next_word: apers
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

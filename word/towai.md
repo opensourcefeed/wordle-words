@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 27
 neighbours:
 - tawai
+prev_word: touzy
+next_word: towed
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

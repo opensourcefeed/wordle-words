@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ULES
   count: 8
+prev_word: hulas
+next_word: hulks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

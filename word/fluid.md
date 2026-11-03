@@ -39,4 +39,15 @@ definitions:
   - text: Moving smoothly, or giving the impression of a liquid in motion.
   - text: "(of an asset) Convertible into cash."
   - text: Genderfluid.
+prev_word: fluff
+next_word: fluke
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

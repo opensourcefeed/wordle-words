@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - write
 - twire
+prev_word: twice
+next_word: twigs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

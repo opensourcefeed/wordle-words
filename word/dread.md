@@ -66,4 +66,15 @@ definitions:
   defs:
   - text: Terrible; greatly feared.
   - text: Awe-inspiring; held in fearful awe.
+prev_word: drays
+next_word: dream
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

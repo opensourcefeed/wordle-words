@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _AINS
   count: 12
+prev_word: haily
+next_word: haint
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

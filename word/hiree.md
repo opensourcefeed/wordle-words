@@ -27,4 +27,15 @@ neighbours:
 - hirer
 - hires
 - siree
+prev_word: hired
+next_word: hirer
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

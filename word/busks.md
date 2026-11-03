@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: To solicit money by entertaining the public in the street or in public transport
   - text: To tack, cruise about.
+prev_word: bushy
+next_word: busky
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

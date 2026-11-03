@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Characteristic of or pertaining to birds, or to bird-like or flying creatures.
+prev_word: avgas
+next_word: avine
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/av/"
+  label: Starting with AV
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

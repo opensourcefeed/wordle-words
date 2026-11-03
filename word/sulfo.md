@@ -24,4 +24,13 @@ neighbours:
 - sulfa
 anagrams:
 - fouls
+prev_word: sulfa
+next_word: sulks
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

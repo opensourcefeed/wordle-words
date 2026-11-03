@@ -37,4 +37,15 @@ anagrams:
 - stria
 - tarsi
 - tiars
+prev_word: airth
+next_word: aisle
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

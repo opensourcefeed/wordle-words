@@ -50,4 +50,15 @@ definitions:
       a chosen variable on one side, so that the other side consists of an expression
       that may be used to generate solutions.
   - text: To loosen or separate the parts of.
+prev_word: solus
+next_word: soman
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

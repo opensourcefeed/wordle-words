@@ -49,4 +49,15 @@ definitions:
   - text: Furnished with a fuse
   - text: Having at least one bond between two atoms that is part of two or more separate
       rings
+prev_word: furzy
+next_word: fusee
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

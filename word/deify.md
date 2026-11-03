@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: To make a god of (something or someone).
   - text: To treat as worthy of worship; to regard as a deity.
+prev_word: deids
+next_word: deign
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

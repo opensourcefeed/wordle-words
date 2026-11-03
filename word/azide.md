@@ -38,4 +38,15 @@ definitions:
   - text: The univalent N3 radical or functional group or any ester containing this
       group
   - text: The N3- anion or any salt containing this anion (^-N=\overset{+}N=N^-)
+prev_word: azans
+next_word: azido
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/az/"
+  label: Starting with AZ
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

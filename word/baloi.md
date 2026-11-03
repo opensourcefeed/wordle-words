@@ -30,4 +30,15 @@ neighbours:
 - balti
 anagrams:
 - aboil
+prev_word: balmy
+next_word: balon
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/oi/"
+  label: Ending in OI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

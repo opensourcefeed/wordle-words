@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To take the shape of a bulb; to swell.
+prev_word: bukos
+next_word: bulge
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

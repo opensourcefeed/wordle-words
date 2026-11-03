@@ -27,4 +27,15 @@ anagrams:
 - awned
 - dewan
 - waned
+prev_word: dawed
+next_word: dawgs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -56,4 +56,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Domesticated; made tame
+prev_word: tamas
+next_word: tamer
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

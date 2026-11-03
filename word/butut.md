@@ -25,4 +25,15 @@ definitions:
 - pos: noun
   defs:
   - text: A unit of currency, worth one hundredth of a Gambian dalasi
+prev_word: butty
+next_word: butyl
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

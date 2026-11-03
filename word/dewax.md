@@ -32,4 +32,15 @@ definitions:
 - pos: verb
   defs:
   - text: To remove wax from a material or from a surface.
+prev_word: dewar
+next_word: dewed
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ax/"
+  label: Ending in AX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

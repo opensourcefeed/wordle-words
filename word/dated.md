@@ -71,4 +71,15 @@ definitions:
       assume you mean something else.
   - text: No longer fashionable.
     example: Slang can become dated very quickly.
+prev_word: datal
+next_word: dater
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

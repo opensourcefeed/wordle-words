@@ -47,4 +47,15 @@ definitions:
       fondue.'
   - text: "(glaciology) A sharp tower of ice formed by intersecting crevasses of a
       glacier."
+prev_word: septs
+next_word: serai
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ac/"
+  label: Ending in AC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

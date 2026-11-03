@@ -32,4 +32,15 @@ definitions:
       and introduced into North America. It is considered the best of the willows
       for basket work. The name is sometimes given to any kind of willow.
   - text: One of the long, pliable twigs of this plant, or of other similar plants.
+prev_word: oshac
+next_word: oskin
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/os/"
+  label: Starting with OS
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

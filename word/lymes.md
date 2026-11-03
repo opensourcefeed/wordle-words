@@ -35,4 +35,15 @@ anagrams:
 - mesyl
 - yelms
 - ylems
+prev_word: lying
+next_word: lymph
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ definitions:
   - text: A composition for nine instruments or nine voices.
   - text: A group of nine nuclear or subatomic particles.
   - text: A byte of nine bits.
+prev_word: nones
+next_word: nongs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

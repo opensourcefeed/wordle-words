@@ -68,4 +68,15 @@ definitions:
       many such markings that are each separated by a constant interval.
   - text: The exposure of a liquid in large surfaces to the air, so as to hasten its
       evaporation.
+prev_word: grade
+next_word: graff
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

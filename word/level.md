@@ -105,4 +105,15 @@ definitions:
   - text: Of even tone; without rising or falling inflection; monotonic.
   - text: Perpendicular to a gravitational force.
     example: The earth's oceans remain level in relation to the pull of gravity.
+prev_word: levee
+next_word: lever
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

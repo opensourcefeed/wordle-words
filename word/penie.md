@@ -29,4 +29,15 @@ neighbours:
 - pense
 anagrams:
 - peine
+prev_word: pengo
+next_word: penis
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

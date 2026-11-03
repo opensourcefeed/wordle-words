@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: A line extended down from the end of a yard or a gaff, used to regulate
       its position
+prev_word: vanga
+next_word: vants
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

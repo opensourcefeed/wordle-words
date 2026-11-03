@@ -26,4 +26,15 @@ neighbours:
 - trads
 anagrams:
 - tardy
+prev_word: trads
+next_word: traga
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

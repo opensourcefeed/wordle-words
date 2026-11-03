@@ -31,4 +31,15 @@ anagrams:
 - tripe
 - petri
 - piert
+prev_word: retin
+next_word: retox
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ip/"
+  label: Ending in IP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

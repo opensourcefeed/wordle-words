@@ -26,4 +26,15 @@ neighbours:
 - hooks
 - hooky
 - pooka
+prev_word: hooha
+next_word: hooks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

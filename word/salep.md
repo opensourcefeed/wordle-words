@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: A starch or jelly made out of plants in the Orchidaceae family, such as
       the early-purple orchid (Orchis mascula).
+prev_word: salat
+next_word: sales
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ep/"
+  label: Ending in EP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

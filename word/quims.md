@@ -39,4 +39,13 @@ definitions:
   defs:
   - text: The female genitalia; the vulva.
   - text: A derogatory term (see cunt).
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

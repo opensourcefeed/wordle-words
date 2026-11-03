@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: DO_ES
   count: 11
+prev_word: dobby
+next_word: dobie
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

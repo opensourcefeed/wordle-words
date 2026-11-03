@@ -25,4 +25,15 @@ neighbours:
 - enfix
 - infix
 - unmix
+prev_word: unfit
+next_word: ungag
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

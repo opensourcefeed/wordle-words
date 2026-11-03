@@ -90,4 +90,15 @@ definitions:
     example: I'd rather have a fresh, cheap draft beer.
   - text: Referring to animals used for pulling heavy loads.
     example: A Clydesdale is a draft horse.
+prev_word: draff
+next_word: drags
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _OIST
   count: 6
+prev_word: zoism
+next_word: zokor
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

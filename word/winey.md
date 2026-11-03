@@ -30,4 +30,15 @@ neighbours:
 - wines
 - wingy
 - winky
+prev_word: wines
+next_word: winge
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

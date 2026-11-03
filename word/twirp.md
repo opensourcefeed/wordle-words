@@ -30,4 +30,15 @@ definitions:
 - pos: interjection
   defs:
   - text: An imitation of the sound of a bird or a horn.
+prev_word: twirl
+next_word: twist
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/rp/"
+  label: Ending in RP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

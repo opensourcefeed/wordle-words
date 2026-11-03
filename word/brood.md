@@ -65,4 +65,15 @@ definitions:
   defs:
   - text: Kept or reared for breeding, said of animals.
     example: a brood mare
+prev_word: brond
+next_word: brook
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/od/"
+  label: Ending in OD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

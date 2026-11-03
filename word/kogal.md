@@ -24,4 +24,15 @@ stats:
 neighbours:
 - dogal
 - nogal
+prev_word: kofta
+next_word: kohas
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

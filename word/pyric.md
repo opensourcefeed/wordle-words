@@ -23,4 +23,15 @@ neighbours:
 - lyric
 anagrams:
 - pricy
+prev_word: pyrex
+next_word: pyros
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

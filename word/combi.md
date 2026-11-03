@@ -35,4 +35,15 @@ definitions:
   - text: Combination.
     example: My old combi boiler broke down.
   - text: A combination boiler.
+prev_word: combe
+next_word: combo
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/bi/"
+  label: Ending in BI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A police officer.
+prev_word: bizzo
+next_word: blabs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

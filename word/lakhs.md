@@ -23,4 +23,15 @@ stats:
 neighbours:
 - lakes
 - laths
+prev_word: lakes
+next_word: lakin
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

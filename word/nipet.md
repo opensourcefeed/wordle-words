@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - inept
 - nepit
+prev_word: nipas
+next_word: nippy
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

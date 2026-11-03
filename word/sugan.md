@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A wooden chair with a seat made from woven straw or twine stretched over
       the frame.
+prev_word: suety
+next_word: sugar
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

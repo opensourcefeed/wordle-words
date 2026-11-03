@@ -75,4 +75,15 @@ definitions:
     example: Nasalization feeds raising.
   - text: "(of a syntactic rule) To create the syntactic environment in which another
       syntactic rule is applied; to be applied before another syntactic rule."
+prev_word: feebs
+next_word: feels
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

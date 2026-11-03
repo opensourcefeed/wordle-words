@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: Each of the two triangular pieces of cloth on the front of a jacket or coat
       that are folded back below the throat, leaving a triangular opening between.
+prev_word: lapas
+next_word: lapin
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

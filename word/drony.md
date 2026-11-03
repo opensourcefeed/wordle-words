@@ -25,4 +25,15 @@ neighbours:
 - irony
 anagrams:
 - rodny
+prev_word: drone
+next_word: droob
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

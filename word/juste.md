@@ -25,4 +25,15 @@ neighbours:
 - justs
 anagrams:
 - jutes
+prev_word: juror
+next_word: justs
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

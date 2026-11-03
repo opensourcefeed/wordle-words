@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ELES
   count: 7
+prev_word: veldt
+next_word: vells
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

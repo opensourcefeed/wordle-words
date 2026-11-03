@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A digestive fluid containing fatty droplets, found in the small intestine.
+prev_word: chuts
+next_word: chyme
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

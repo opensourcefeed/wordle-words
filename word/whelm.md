@@ -35,4 +35,15 @@ definitions:
   - text: To throw (something) over a thing so as to cover it.
   - text: To ruin or destroy.
   - text: To overcome with emotion; to overwhelm.
+prev_word: whelk
+next_word: whelp
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/lm/"
+  label: Ending in LM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

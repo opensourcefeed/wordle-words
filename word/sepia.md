@@ -44,4 +44,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(colour)  Of a dark reddish-brown colour."
+prev_word: sepal
+next_word: sepic
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

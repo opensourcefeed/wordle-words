@@ -36,4 +36,15 @@ neighbours:
 - touns
 anagrams:
 - nouls
+prev_word: lound
+next_word: loupe
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

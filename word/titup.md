@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - pittu
 - putti
+prev_word: titty
+next_word: tiyin
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/up/"
+  label: Ending in UP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

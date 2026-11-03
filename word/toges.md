@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: TO_ES
   count: 10
+prev_word: toged
+next_word: togue
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

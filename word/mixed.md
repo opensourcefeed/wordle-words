@@ -65,4 +65,15 @@ definitions:
   - text: Stemming from two or more races or breeds
     example: Mixed blood can surprisingly produce inherited properties which neither
       parent showed
+prev_word: mivvy
+next_word: mixen
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

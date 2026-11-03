@@ -33,4 +33,13 @@ definitions:
 - pos: verb
   defs:
   - text: (usually with "at") To look, to examine.
+prev_word: squit
+next_word: srsly
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sq/"
+  label: Starting with SQ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

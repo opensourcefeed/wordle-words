@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: SPI_S
   count: 8
+prev_word: spilt
+next_word: spina
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -59,4 +59,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Tenth.
+prev_word: titer
+next_word: tithi
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

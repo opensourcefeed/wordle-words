@@ -31,4 +31,15 @@ neighbours:
 - lotto
 - motte
 - rotte
+prev_word: lotta
+next_word: lotto
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

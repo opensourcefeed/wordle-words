@@ -83,4 +83,15 @@ definitions:
       often with out.
     example: to piece a garment
   - text: To produce a work of graffiti more complex than a tag.
+prev_word: picul
+next_word: pieds
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

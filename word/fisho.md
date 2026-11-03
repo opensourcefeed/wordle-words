@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: A fisherman.
   - text: A fishmonger.
+prev_word: fiscs
+next_word: fishy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ho/"
+  label: Ending in HO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

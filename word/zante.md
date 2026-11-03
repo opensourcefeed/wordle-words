@@ -27,4 +27,15 @@ neighbours:
 - nante
 - tante
 - zanze
+prev_word: zanja
+next_word: zanza
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

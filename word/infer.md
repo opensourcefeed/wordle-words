@@ -42,4 +42,15 @@ definitions:
       incorrect, especially with a person as subject.)
   - text: To cause, inflict (something) upon or to someone.
   - text: To introduce (a subject) in speaking, writing etc.; to bring in.
+prev_word: inert
+next_word: infix
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

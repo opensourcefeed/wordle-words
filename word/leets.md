@@ -63,4 +63,15 @@ definitions:
 - pos: noun
   defs:
   - text: A place where roads meet or cross; intersection
+prev_word: leese
+next_word: leeze
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

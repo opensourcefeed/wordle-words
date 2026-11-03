@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A contour feather
+prev_word: penks
+next_word: penne
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -49,4 +49,15 @@ definitions:
 - pos: noun
   defs:
   - text: A sand dune by the seashore
+prev_word: dench
+next_word: denet
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

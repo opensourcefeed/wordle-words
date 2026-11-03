@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: Motherboard
+prev_word: moble
+next_word: mocap
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

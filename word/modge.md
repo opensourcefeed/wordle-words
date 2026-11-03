@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _ODGE
   count: 6
+prev_word: modes
+next_word: modii
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

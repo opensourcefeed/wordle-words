@@ -50,4 +50,15 @@ definitions:
   - text: Sky blue; resembling the clear blue colour of the unclouded sky
   - text: Cloudless
   - text: In blazon, of the colour blue.
+prev_word: azuki
+next_word: azurn
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/az/"
+  label: Starting with AZ
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

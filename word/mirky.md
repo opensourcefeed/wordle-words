@@ -35,4 +35,15 @@ definitions:
   - text: Dark, dim, gloomy.
   - text: Cloudy, indistinct, obscure.
   - text: Dishonest, shady.
+prev_word: mirks
+next_word: mirls
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

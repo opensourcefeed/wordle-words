@@ -82,4 +82,15 @@ definitions:
   defs:
   - text: To praise; commend.
   - text: To praise as of value; prize; set a price on.
+prev_word: lover
+next_word: lovey
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

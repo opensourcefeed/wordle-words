@@ -27,4 +27,15 @@ neighbours:
 - prent
 - pruno
 - pruny
+prev_word: pruno
+next_word: pruny
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

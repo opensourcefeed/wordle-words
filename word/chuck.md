@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To place in a chuck, or hold by means of a chuck, as in turning.
   - text: To bore or turn (a hole) in a revolving piece held in a chuck.
+prev_word: chubs
+next_word: chufa
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

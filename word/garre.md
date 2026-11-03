@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _ARRE
   count: 6
+prev_word: garni
+next_word: garri
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

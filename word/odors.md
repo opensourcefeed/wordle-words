@@ -35,4 +35,15 @@ definitions:
   - text: A strong, pervasive quality.
   - text: Esteem.
   - text: Something which produces a scent; incense, a perfume.
+prev_word: odoom
+next_word: odour
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/od/"
+  label: Starting with OD
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

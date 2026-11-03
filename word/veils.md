@@ -60,4 +60,15 @@ definitions:
   - text: Velum (A circular membrane round the cap of medusa)
   - text: A thin layer of tissue which is attached to or covers a mushroom.
   - text: An obscuration of the clearness of the tones in pronunciation.
+prev_word: vehme
+next_word: veily
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

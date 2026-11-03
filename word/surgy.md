@@ -26,4 +26,15 @@ neighbours:
 - surfy
 anagrams:
 - gyrus
+prev_word: surge
+next_word: surly
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

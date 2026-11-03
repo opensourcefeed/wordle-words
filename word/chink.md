@@ -54,4 +54,13 @@ definitions:
     example: to chink a wall
   - text: To crack; to open.
   - text: To cause to open in cracks or fissures.
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -46,4 +46,13 @@ definitions:
   defs:
   - text: To throw on loosely; to put on like a scarf.
   - text: To dress with a scarf, or as with a scarf; to cover with a loose wrapping.
+prev_word: scare
+next_word: scarp
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

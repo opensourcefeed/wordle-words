@@ -43,4 +43,15 @@ definitions:
   - text: To enjoy.
   - text: To give joy to; to congratulate.
   - text: To gladden; to make joyful; to exhilarate.
+prev_word: jowly
+next_word: jubas
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

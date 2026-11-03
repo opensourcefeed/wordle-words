@@ -42,4 +42,15 @@ definitions:
   - text: To strip of anything valued.
   - text: To endow with a widow's right.
   - text: To be widow to.
+prev_word: wides
+next_word: width
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

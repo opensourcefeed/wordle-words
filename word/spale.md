@@ -47,4 +47,15 @@ anagrams:
 trap:
   pattern: SPA_E
   count: 7
+prev_word: spald
+next_word: spall
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

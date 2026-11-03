@@ -25,4 +25,15 @@ neighbours:
 - realm
 anagrams:
 - mealy
+prev_word: yeahs
+next_word: yeans
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/lm/"
+  label: Ending in LM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

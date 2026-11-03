@@ -93,4 +93,15 @@ definitions:
   - text: To draw tight; to tighten; to put in a state of tension; to strain; to strengthen.
     example: to brace the nerves
   - text: To bind or tie closely; to fasten tightly.
+prev_word: braai
+next_word: brach
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

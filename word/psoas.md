@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Either of two muscles, the psoas major and psoas minor, involved in flexion
       of the trunk.
+prev_word: psoai
+next_word: psora
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ps/"
+  label: Starting with PS
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -37,4 +37,15 @@ definitions:
   - text: Hatred; dislike.
     example: His conduct brought him into odium, or, brought odium upon him.
   - text: The quality that provokes hatred; offensiveness.
+prev_word: odist
+next_word: odoom
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/od/"
+  label: Starting with OD
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

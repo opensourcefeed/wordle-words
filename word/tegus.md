@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: A South American lizard of the genus Tupinambis, which is sometimes kept
       as a pet.
+prev_word: tegua
+next_word: tehee
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

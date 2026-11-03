@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: To express oneself in a snarky fashion.
   - text: To snort.
+prev_word: snarf
+next_word: snarl
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/rk/"
+  label: Ending in RK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

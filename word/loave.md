@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - laevo
 - volae
+prev_word: loath
+next_word: lobar
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

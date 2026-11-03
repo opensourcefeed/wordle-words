@@ -44,4 +44,15 @@ definitions:
   - text: A cellmate.
   - text: One’s room of incarceration, jailcell.
   - text: A cellular phone.
+prev_word: cells
+next_word: celom
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: Sapsucking pest insect of the superfamily Aphidoidea; an aphidian.
+prev_word: apgar
+next_word: aphis
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

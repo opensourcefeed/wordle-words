@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _EMES
   count: 7
+prev_word: temed
+next_word: tempi
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

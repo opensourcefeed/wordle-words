@@ -39,4 +39,15 @@ definitions:
 - pos: verb
   defs:
   - text: To divide (data) into segments by time period.
+prev_word: epics
+next_word: epode
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ep/"
+  label: Starting with EP
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

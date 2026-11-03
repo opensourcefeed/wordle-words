@@ -26,4 +26,15 @@ neighbours:
 - plena
 anagrams:
 - paeon
+prev_word: poems
+next_word: poeps
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

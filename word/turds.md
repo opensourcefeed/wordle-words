@@ -45,4 +45,15 @@ definitions:
   - text: "(mildly) A piece of solid animal or human feces."
     example: Ugh, there are turds in the toilet that haven’t been flushed away.
   - text: A worthless person or thing.
+prev_word: turbo
+next_word: turfs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

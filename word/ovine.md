@@ -39,4 +39,15 @@ definitions:
   - text: Of, pertaining to, resembling, or being a sheep
   - text: "(by extension) resembling a sheep in character; passive, of low intelligence
       and acquiescent"
+prev_word: overt
+next_word: ovism
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ov/"
+  label: Starting with OV
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

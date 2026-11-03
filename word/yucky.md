@@ -36,4 +36,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of something highly offensive; causing aversion or disgust.
+prev_word: yucks
+next_word: yufts
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

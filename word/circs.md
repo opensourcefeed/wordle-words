@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: Circumstances.
+prev_word: circa
+next_word: cires
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: "(usually used in the passive voice) To tell a rumor about; to gossip."
     example: John is rumored to be next in line for a promotion.
+prev_word: rummy
+next_word: rumpo
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

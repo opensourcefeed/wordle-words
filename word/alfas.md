@@ -26,4 +26,15 @@ neighbours:
 - algas
 - alias
 - almas
+prev_word: aleye
+next_word: algae
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

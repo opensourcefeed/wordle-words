@@ -24,4 +24,15 @@ neighbours:
 - plaid
 - blaud
 - plaur
+prev_word: platy
+next_word: plaur
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ud/"
+  label: Ending in UD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

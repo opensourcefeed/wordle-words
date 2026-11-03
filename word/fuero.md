@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 19
 anagrams:
 - fouer
+prev_word: fuels
+next_word: fuffs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

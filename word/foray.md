@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To scour (an area or place) for food, treasure, booty etc.
   - text: To pillage; to ravage.
+prev_word: foram
+next_word: forbs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

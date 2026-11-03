@@ -46,4 +46,15 @@ definitions:
   - text: To shed or lose a covering of hair or fur, feathers, skin, horns, etc, and
       replace it with a fresh one.
   - text: To shed in such a manner.
+prev_word: mouls
+next_word: mouly
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

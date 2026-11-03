@@ -70,4 +70,15 @@ definitions:
   - text: Designed to be placed or worn outward.
     example: the right side of a piece of cloth
   - text: Pertaining to the political right; conservative.
+prev_word: riggs
+next_word: rigid
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

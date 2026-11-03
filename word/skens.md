@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: SKE_S
   count: 9
+prev_word: skene
+next_word: skeos
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

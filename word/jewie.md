@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 93
 neighbours:
 - newie
+prev_word: jewel
+next_word: jhala
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

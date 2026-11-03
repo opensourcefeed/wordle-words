@@ -42,4 +42,15 @@ definitions:
   - text: Of or relating to the Stoics or their ideas.
   - text: Not affected by pain or distress.
   - text: Not displaying any external signs of being affected by pain or distress.
+prev_word: stogy
+next_word: stoit
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

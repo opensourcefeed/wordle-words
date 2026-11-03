@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _OTES
   count: 10
+prev_word: botel
+next_word: botew
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

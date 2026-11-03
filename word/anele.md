@@ -37,4 +37,15 @@ definitions:
 - pos: verb
   defs:
   - text: To anoint; to give extreme unction with oil.
+prev_word: anear
+next_word: anent
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

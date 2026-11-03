@@ -31,4 +31,13 @@ neighbours:
 anagrams:
 - fleys
 - selfy
+prev_word: fykes
+next_word: fyrds
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

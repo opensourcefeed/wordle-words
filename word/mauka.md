@@ -24,4 +24,15 @@ neighbours:
 - macka
 - marka
 - maula
+prev_word: mauds
+next_word: maula
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

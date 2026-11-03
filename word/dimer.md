@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: A molecule consisting of two identical halves, formed by joining two identical
       molecules, sometimes with a single atom acting as a bridge.
+prev_word: dimbo
+next_word: dimes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

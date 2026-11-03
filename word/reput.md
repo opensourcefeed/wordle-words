@@ -31,4 +31,15 @@ anagrams:
 - erupt
 - puter
 - upter
+prev_word: repun
+next_word: reran
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -34,4 +34,15 @@ definitions:
   - text: A game, similar to bowls or pétanque, played on a long, narrow, dirt-covered
       court
   - text: One of the eight balls that the player throws in a game of bocce.
+prev_word: bocca
+next_word: bocci
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

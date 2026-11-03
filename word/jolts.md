@@ -57,4 +57,15 @@ definitions:
     example: Her untimely death jolted us all.
   - text: To shake; to move with a series of jerks.
     example: The car jolted along the stony path.
+prev_word: jolly
+next_word: jolty
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

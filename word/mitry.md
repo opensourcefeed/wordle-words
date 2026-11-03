@@ -24,4 +24,15 @@ neighbours:
 - mitey
 - mitre
 - nitry
+prev_word: mitre
+next_word: mitta
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

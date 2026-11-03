@@ -73,4 +73,15 @@ definitions:
       masturbated.
     example: Controlled milking can actually establish and consolidate a mistress’
       dominance over her sub rather than diminish it.
+prev_word: milko
+next_word: milky
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

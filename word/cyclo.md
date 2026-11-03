@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: A tuk-tuk.
   - text: A cycle rickshaw
+prev_word: cycle
+next_word: cyder
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cy/"
+  label: Starting with CY
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

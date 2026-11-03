@@ -44,4 +44,15 @@ definitions:
       a regular expression.
   - text: A millimeter-sized colour module found beyond the visual area V2 in the
       brain's parvocellular pathway.
+prev_word: globi
+next_word: globy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

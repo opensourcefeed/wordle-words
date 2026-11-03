@@ -25,4 +25,15 @@ neighbours:
 - donna
 - gonia
 - nonna
+prev_word: gonks
+next_word: gonof
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

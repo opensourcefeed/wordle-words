@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make a woofing sound.
+prev_word: wooer
+next_word: woofy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

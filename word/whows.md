@@ -26,4 +26,15 @@ neighbours:
 - shows
 - whews
 - whops
+prev_word: whoso
+next_word: whump
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

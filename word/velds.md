@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: The open pasture land or grassland of South Africa and neighboring countries.
+prev_word: velar
+next_word: veldt
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

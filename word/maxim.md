@@ -35,4 +35,15 @@ definitions:
       or rule.
   - text: A precept; a succinct statement or observation of a rule of conduct or moral
       teaching.
+prev_word: maxes
+next_word: maxis
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

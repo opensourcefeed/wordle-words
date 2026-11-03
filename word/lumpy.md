@@ -43,4 +43,15 @@ definitions:
   - text: Full of lumps, not smooth.
     example: I don't know which was worse, the lumpy soup or the lumpy bed.
   - text: 'Of a water surface: covered in many small waves as a result of wind; choppy.'
+prev_word: lumps
+next_word: lunar
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

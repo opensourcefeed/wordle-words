@@ -24,4 +24,15 @@ stats:
 neighbours:
 - scold
 - ahold
+prev_word: acoel
+next_word: acone
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

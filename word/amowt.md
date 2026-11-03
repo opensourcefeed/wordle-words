@@ -24,4 +24,13 @@ stats:
 neighbours:
 - amort
 - smowt
+prev_word: amove
+next_word: amped
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -22,4 +22,13 @@ stats:
 neighbours:
 - swink
 - twink
+prev_word: kwela
+next_word: kwirl
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

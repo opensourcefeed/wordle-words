@@ -65,4 +65,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Strange, weird, unexpected
+prev_word: frays
+next_word: freed
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

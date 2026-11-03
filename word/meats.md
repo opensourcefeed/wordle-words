@@ -70,4 +70,15 @@ definitions:
     example: Throw it in here, meat.
   - text: "(Australian Aboriginal) A totem, or (by metonymy) a clan or clansman which
       uses it."
+prev_word: meath
+next_word: meaty
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

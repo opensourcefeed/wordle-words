@@ -57,4 +57,15 @@ definitions:
 - pos: verb
   defs:
   - text: To shine.
+prev_word: lamer
+next_word: lamia
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

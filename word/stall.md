@@ -79,4 +79,15 @@ definitions:
   - text: To place in an office with the customary formalities; to install.
   - text: To forestall; to anticipate.
   - text: To keep close; to keep secret.
+prev_word: stalk
+next_word: stamp
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

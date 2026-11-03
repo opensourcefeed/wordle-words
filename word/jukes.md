@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: A feint.
   - text: The neck of a bird.
+prev_word: juked
+next_word: jukus
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

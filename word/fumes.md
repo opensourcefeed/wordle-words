@@ -55,4 +55,15 @@ definitions:
   - text: To express or feel great anger.
     example: He’s still fuming about the argument they had yesterday.
   - text: To be as in a mist; to be dulled and stupefied.
+prev_word: fumer
+next_word: fumet
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

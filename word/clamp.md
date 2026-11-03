@@ -53,4 +53,15 @@ definitions:
   - text: To hold or grip tightly.
   - text: To modify (a numeric value) so it lies within a specific range.
   - text: To cover (vegetables, etc.) with earth.
+prev_word: clame
+next_word: clams
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

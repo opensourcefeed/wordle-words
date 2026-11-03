@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 42
 anagrams:
 - mauve
+prev_word: aesir
+next_word: afald
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -64,4 +64,15 @@ definitions:
     example: He narks in my ear all day, moaning about his problems.
   - text: "(often imperative) To stop."
     example: Nark it! I hear someone coming!
+prev_word: narco
+next_word: nards
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -52,4 +52,15 @@ definitions:
   - text: Having a downward inclination or slope.
   - text: Predisposed, liable, inclined.
     example: prone to failure
+prev_word: proms
+next_word: prong
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

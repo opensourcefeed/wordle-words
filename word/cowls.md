@@ -67,4 +67,15 @@ definitions:
   defs:
   - text: A caul (the amnion which encloses the foetus before birth, especially that
       part of it which sometimes shrouds a baby’s head at birth).
+prev_word: cowks
+next_word: cowps
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

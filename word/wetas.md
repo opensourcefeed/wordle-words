@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: Any of about 70 insect species in the families Anostostomatidae and Rhaphidophoridae,
       endemic to New Zealand, resembling katydids or crickets.
+prev_word: wests
+next_word: wetly
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

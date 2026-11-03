@@ -58,4 +58,15 @@ definitions:
   - text: To study under a tutor.
   - text: To travel in a coach (sometimes coach it).
   - text: To convey in a coach.
+prev_word: cnida
+next_word: coact
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

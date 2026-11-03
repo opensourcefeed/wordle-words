@@ -29,4 +29,15 @@ neighbours:
 - relit
 anagrams:
 - blite
+prev_word: belie
+next_word: belle
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

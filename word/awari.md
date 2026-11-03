@@ -29,4 +29,15 @@ neighbours:
 - amari
 - awarn
 - owari
+prev_word: aware
+next_word: awarn
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

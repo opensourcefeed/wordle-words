@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: Expenses incurred by a company to maintain a long-term asset.
+prev_word: capes
+next_word: caphs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

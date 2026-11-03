@@ -46,4 +46,15 @@ anagrams:
 - prate
 - preta
 - repat
+prev_word: trant
+next_word: trapo
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

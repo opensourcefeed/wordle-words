@@ -30,4 +30,15 @@ neighbours:
 - mompe
 - pomme
 - tomme
+prev_word: momma
+next_word: mommy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: MARA_
   count: 6
+prev_word: marae
+next_word: maral
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

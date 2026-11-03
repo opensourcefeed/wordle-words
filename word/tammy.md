@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: A kind of woolen, or woolen and cotton, cloth, often highly glazed, used
       for curtains, sieves, strainers, etc.
+prev_word: tamis
+next_word: tamps
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

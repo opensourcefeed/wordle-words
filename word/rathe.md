@@ -44,4 +44,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Ripening or blooming early.
+prev_word: ratha
+next_word: raths
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

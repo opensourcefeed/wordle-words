@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: An imitation of the sound of gagging, used to express disgust or disdain.
     example: Blech! Look at all those maggots!
+prev_word: blebs
+next_word: bleed
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

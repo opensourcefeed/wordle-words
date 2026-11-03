@@ -27,4 +27,15 @@ neighbours:
 - kerne
 - perne
 - terne
+prev_word: ceric
+next_word: ceroc
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

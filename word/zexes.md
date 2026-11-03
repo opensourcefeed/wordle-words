@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _EXES
   count: 11
+prev_word: zetas
+next_word: zezes
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/ze/"
+  label: Starting with ZE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

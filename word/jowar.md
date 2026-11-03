@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: Sorghum
+prev_word: joust
+next_word: jowed
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

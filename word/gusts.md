@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: To taste.
   - text: To have a relish for.
+prev_word: gusto
+next_word: gusty
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

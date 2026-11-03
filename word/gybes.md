@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: Alternative spelling of jibe
+prev_word: gybed
+next_word: gyeld
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

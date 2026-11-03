@@ -28,4 +28,15 @@ neighbours:
 - araks
 anagrams:
 - arras
+prev_word: arame
+next_word: arbah
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

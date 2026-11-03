@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ASTS
   count: 11
+prev_word: gassy
+next_word: gatch
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

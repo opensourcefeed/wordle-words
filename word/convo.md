@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A conversation.
+prev_word: conus
+next_word: cooch
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/vo/"
+  label: Ending in VO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

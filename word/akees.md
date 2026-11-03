@@ -33,4 +33,15 @@ definitions:
   - text: The fruit of the tree, of which only the arils are edible, the remainder
       being poisonous.
     example: Ackee and saltfish is a traditional Jamaican dish.
+prev_word: akara
+next_word: akela
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ak/"
+  label: Starting with AK
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

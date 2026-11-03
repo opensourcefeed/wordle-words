@@ -41,4 +41,15 @@ definitions:
     example: After working hard all of his life, Max retired to warmer climes in Florida.
   - text: Climate.
     example: A change of clime was exactly what the family needed.
+prev_word: climb
+next_word: cline
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: An electronic device that allows current to flow in one direction only;
       used chiefly as a rectifier.
+prev_word: dioch
+next_word: diols
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

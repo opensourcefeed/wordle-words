@@ -92,4 +92,15 @@ definitions:
     example: Every time I go outside, I worry that someone will read me.
   - text: To call attention to the flaws of (someone) in either a playful, a taunting,
       or an insulting way.
+prev_word: readd
+next_word: ready
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

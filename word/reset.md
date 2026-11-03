@@ -58,4 +58,15 @@ definitions:
   - text: To set back to the initial state.
   - text: To set to zero.
   - text: To adjust; to set or position differently.
+prev_word: reses
+next_word: resew
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

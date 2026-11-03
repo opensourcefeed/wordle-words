@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To be idle; to idle (away time).
+prev_word: slosh
+next_word: slots
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

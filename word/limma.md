@@ -28,4 +28,15 @@ neighbours:
 - limpa
 anagrams:
 - mamil
+prev_word: limit
+next_word: limns
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

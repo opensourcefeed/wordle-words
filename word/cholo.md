@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A Mexican or Hispanic gang member, or somebody perceived to embody similar
       characteristics.
+prev_word: choli
+next_word: chomp
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

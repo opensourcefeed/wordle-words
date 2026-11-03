@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _AMES
   count: 13
+prev_word: famed
+next_word: fanal
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _OYED
   count: 6
+prev_word: noyau
+next_word: noyes
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

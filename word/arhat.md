@@ -36,4 +36,15 @@ definitions:
   - text: One of the stages of the ascetic's spiritual evolution, when all passions
       (anger, ego, deception, greed, attachment, hatred and ignorance) are destroyed;
       arhanta.
+prev_word: argus
+next_word: arias
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

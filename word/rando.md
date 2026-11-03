@@ -43,4 +43,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Random; arbitrary.
+prev_word: ranch
+next_word: rands
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

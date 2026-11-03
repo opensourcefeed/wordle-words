@@ -37,4 +37,15 @@ definitions:
 - pos: verb
   defs:
   - text: To generate cruft.
+prev_word: cruet
+next_word: crumb
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

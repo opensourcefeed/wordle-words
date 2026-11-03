@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - auric
 - cauri
+prev_word: curfs
+next_word: curie
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

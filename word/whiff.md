@@ -51,4 +51,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having a strong or unpleasant odor.
+prev_word: whies
+next_word: whift
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

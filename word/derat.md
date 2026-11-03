@@ -32,4 +32,15 @@ anagrams:
 - dater
 - rated
 - tared
+prev_word: depth
+next_word: deray
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

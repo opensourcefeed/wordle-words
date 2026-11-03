@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A small pancake, of Russian origin, made from buckwheat flour; traditionally
       served with melted butter, sour cream and caviar or smoked salmon.
+prev_word: blins
+next_word: blips
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

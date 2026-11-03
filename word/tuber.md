@@ -46,4 +46,15 @@ definitions:
       starch, for example a potato or arrowroot.
   - text: A thickened rootstock.
   - text: A rounded, protuberant structure in a human or animal body.
+prev_word: tubed
+next_word: tubes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

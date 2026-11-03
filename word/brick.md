@@ -72,4 +72,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(of weather) Extremely cold."
+prev_word: bribe
+next_word: bride
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

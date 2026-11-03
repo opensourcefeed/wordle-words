@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: A working-class youth, especially one associated with aggression, poor education,
       and a perceived "common" taste in clothing and lifestyle.
+prev_word: chave
+next_word: chawk
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/vs/"
+  label: Ending in VS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

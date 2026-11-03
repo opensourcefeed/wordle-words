@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: CLO_S
   count: 8
+prev_word: clonk
+next_word: cloop
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

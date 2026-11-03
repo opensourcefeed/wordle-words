@@ -49,4 +49,15 @@ definitions:
 - pos: verb
   defs:
   - text: To steal, rob or hold up (something).
+prev_word: heirs
+next_word: hejab
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

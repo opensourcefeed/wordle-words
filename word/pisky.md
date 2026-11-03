@@ -38,4 +38,15 @@ definitions:
   - text: An upper-atmospheric optical phenomenon associated with thunderstorms, a
       short-lasting pinpoint of light on the surface of convective domes that produces
       a gnome.
+prev_word: pises
+next_word: pisos
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

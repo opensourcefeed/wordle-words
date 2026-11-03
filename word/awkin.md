@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 67
 neighbours:
 - alkin
+prev_word: awing
+next_word: awmry
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

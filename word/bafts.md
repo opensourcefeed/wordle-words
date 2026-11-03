@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: BA_TS
   count: 7
+prev_word: bafta
+next_word: bagel
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

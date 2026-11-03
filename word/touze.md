@@ -28,4 +28,15 @@ neighbours:
 - touse
 - touzy
 - towze
+prev_word: touts
+next_word: touzy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

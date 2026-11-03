@@ -35,4 +35,13 @@ definitions:
   defs:
   - text: Used to express appreciation or gratitude.
     example: Could you give me a hand, please? — Yes, sure. — Thanks.
+prev_word: thans
+next_word: tharm
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

@@ -24,4 +24,15 @@ stats:
 neighbours:
 - viola
 - viols
+prev_word: viola
+next_word: viols
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -35,4 +35,15 @@ definitions:
       mind or imagination.
     example: Being here evokes long forgotten memories.
   - text: To elicit a response.
+prev_word: evohe
+next_word: ewers
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ev/"
+  label: Starting with EV
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -30,4 +30,15 @@ neighbours:
 - carvy
 - corby
 - warby
+prev_word: carbs
+next_word: cardi
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

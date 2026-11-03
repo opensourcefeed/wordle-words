@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A chisel with a sharp point, used for engraving; a graver.
   - text: A prehistoric flint tool
+prev_word: burgs
+next_word: burka
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

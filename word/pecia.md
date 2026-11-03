@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 11
 neighbours:
 - aecia
+prev_word: pechs
+next_word: pecke
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A spiral shape that symbolizes growth, strength and peace, used in Māori
       art.
+prev_word: korun
+next_word: koses
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

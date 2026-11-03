@@ -46,4 +46,15 @@ definitions:
   - text: An extraordinary individual.
   - text: A small marble of little worth in children's games.
   - text: A conker that has won one match.
+prev_word: onely
+next_word: onery
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

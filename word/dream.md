@@ -55,4 +55,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Ideal; perfect.
+prev_word: dread
+next_word: drear
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

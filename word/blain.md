@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A skin swelling or sore; a blister; a blotch.
+prev_word: blahs
+next_word: blame
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

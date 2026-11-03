@@ -23,4 +23,15 @@ stats:
 anagrams:
 - kines
 - skein
+prev_word: nervy
+next_word: nests
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ki/"
+  label: Ending in KI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

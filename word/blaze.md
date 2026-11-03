@@ -53,4 +53,15 @@ definitions:
   - text: A spot made on trees by chipping off a piece of the bark, usually as a surveyor's
       mark.
   - text: A hand consisting of five face cards.
+prev_word: blays
+next_word: bleah
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

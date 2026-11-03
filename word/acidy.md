@@ -23,4 +23,15 @@ stats:
 neighbours:
 - acedy
 - acids
+prev_word: acids
+next_word: acies
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

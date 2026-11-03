@@ -27,4 +27,15 @@ neighbours:
 - powie
 anagrams:
 - power
+prev_word: powny
+next_word: powsy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

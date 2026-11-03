@@ -32,4 +32,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Outstanding; very good or successful.
+prev_word: boeuf
+next_word: boffs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

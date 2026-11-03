@@ -25,4 +25,15 @@ stats:
 neighbours:
 - bigot
 - gigot
+prev_word: jiggy
+next_word: jihad
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

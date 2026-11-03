@@ -36,4 +36,15 @@ anagrams:
 - atlas
 - salat
 - talas
+prev_word: syver
+next_word: taata
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

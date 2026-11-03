@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A weekday on a Church calendar on which no feast is observed.
+prev_word: feres
+next_word: ferly
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

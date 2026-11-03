@@ -29,4 +29,15 @@ neighbours:
 - greve
 anagrams:
 - egger
+prev_word: greet
+next_word: grego
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

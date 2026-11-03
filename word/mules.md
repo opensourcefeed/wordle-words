@@ -65,4 +65,15 @@ definitions:
   defs:
   - text: A shoe that has no fitting or strap around the heel, but which covers the
       foot.
+prev_word: muled
+next_word: muley
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,15 @@ neighbours:
 - milch
 - pelch
 - zilch
+prev_word: pilaw
+next_word: pilea
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

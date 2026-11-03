@@ -33,4 +33,15 @@ definitions:
   - text: The bone of the forearm that extends from the elbow to the wrist on the
       side opposite to the thumb, corresponding to the fibula of the hind limb. Also,
       the corresponding bone in the forelimb of any vertebrate.
+prev_word: ulnad
+next_word: ulnar
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ul/"
+  label: Starting with UL
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

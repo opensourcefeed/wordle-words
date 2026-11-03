@@ -26,4 +26,15 @@ anagrams:
 - algum
 - glaum
 - mulga
+prev_word: almud
+next_word: alods
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ug/"
+  label: Ending in UG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

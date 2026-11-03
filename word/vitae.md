@@ -26,4 +26,15 @@ stats:
 neighbours:
 - vital
 - vitas
+prev_word: visto
+next_word: vital
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 90
 neighbours:
 - froom
+prev_word: frogs
+next_word: frond
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

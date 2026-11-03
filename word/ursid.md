@@ -24,4 +24,15 @@ neighbours:
 - ureid
 anagrams:
 - rudis
+prev_word: ursae
+next_word: urson
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

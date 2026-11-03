@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: BRE_S
   count: 7
+prev_word: brere
+next_word: breve
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

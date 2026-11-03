@@ -52,4 +52,15 @@ definitions:
     example: I plain forgot.
   - text: Plainly; distinctly.
     example: 'Tell me plain: do you love me or no?'
+prev_word: plaig
+next_word: plait
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

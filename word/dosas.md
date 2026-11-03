@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of the three regulatory principles of Ayurveda.
+prev_word: dosai
+next_word: dosed
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

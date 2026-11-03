@@ -31,4 +31,15 @@ definitions:
   - text: A rule made by a local authority to regulate its own affairs.
   - text: A law or rule governing the internal affairs of an organization (e.g., corporation
       or business).
+prev_word: bykes
+next_word: byres
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/by/"
+  label: Starting with BY
+- url: "/ending-with/aw/"
+  label: Ending in AW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

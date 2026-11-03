@@ -70,4 +70,15 @@ definitions:
   - text: A game in which questions are asked for the purpose of enabling the questioners
       to discover a word or thing previously selected by two persons who answer the
       questions.
+prev_word: cloze
+next_word: cluck
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

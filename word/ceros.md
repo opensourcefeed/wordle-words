@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: A large scombroid food fish (Scomberomorus regalis) found chiefly in the
       West Indies.
+prev_word: ceroc
+next_word: certs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ALLS
   count: 10
+prev_word: talky
+next_word: tally
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -56,4 +56,15 @@ definitions:
   defs:
   - text: To study meticulously; to go over again and again.
   - text: To meditate or reflect in a steady way.
+prev_word: porer
+next_word: porey
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

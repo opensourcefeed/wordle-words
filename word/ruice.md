@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - curie
 - ureic
+prev_word: ruggy
+next_word: ruing
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

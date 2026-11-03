@@ -37,4 +37,15 @@ anagrams:
 - anime
 - amine
 - minae
+prev_word: manic
+next_word: manis
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

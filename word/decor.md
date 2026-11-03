@@ -39,4 +39,15 @@ definitions:
   - text: The style of decoration of a room or building.
     example: Her living room had a lush Persian-style decor.
   - text: A stage setting; scenery; set; backdrop.
+prev_word: decks
+next_word: decos
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

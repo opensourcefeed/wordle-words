@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A mobile phone.
+prev_word: mobes
+next_word: mobie
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

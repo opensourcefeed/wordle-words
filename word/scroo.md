@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - corso
 - rosco
+prev_word: scrog
+next_word: scrow
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

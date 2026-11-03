@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: Marijuana, as used for smoking.
+prev_word: gangs
+next_word: ganks
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ja/"
+  label: Ending in JA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - yearn
 - renay
+prev_word: rayls
+next_word: rayon
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

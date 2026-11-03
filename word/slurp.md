@@ -38,4 +38,15 @@ definitions:
     example: They sat in the kitchen slurping their spaghetti.
   - text: To make a loud sucking noise.
     example: The mud slurped under our shoes.
+prev_word: slurb
+next_word: slurs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/rp/"
+  label: Ending in RP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

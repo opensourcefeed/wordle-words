@@ -33,4 +33,15 @@ definitions:
   - text: Any of several plants of the genus Dryas; the mountain avens.
   - text: One of two periods of cold and increased glaciation thousands of years before
       the present (Younger Dryas and Older Dryas).
+prev_word: dryad
+next_word: dryer
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

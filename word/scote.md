@@ -38,4 +38,15 @@ anagrams:
 - cotes
 - escot
 - estoc
+prev_word: scorp
+next_word: scots
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

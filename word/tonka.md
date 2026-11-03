@@ -25,4 +25,15 @@ neighbours:
 - tonga
 - tanka
 - tonks
+prev_word: tonic
+next_word: tonks
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

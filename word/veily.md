@@ -25,4 +25,15 @@ neighbours:
 - vealy
 - veils
 - veiny
+prev_word: veils
+next_word: veins
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

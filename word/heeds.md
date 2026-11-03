@@ -44,4 +44,15 @@ definitions:
   - text: To guard, protect.
   - text: To mind; to regard with care; to take notice of; to attend to; to observe.
   - text: To pay attention, care.
+prev_word: hedgy
+next_word: heedy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

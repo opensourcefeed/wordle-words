@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A sea mammal (Orcinus orca) related to dolphins and porpoises, commonly
       called the killer whale.
+prev_word: orbit
+next_word: orcin
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -57,4 +57,15 @@ definitions:
       used to measure air cooling power and, indirectly, small wind speeds in circulating
       air, by measuring the time taken for the temperature of the bulb of alcohol
       to make a specified drop (100° to 95°F)."
+prev_word: katal
+next_word: katis
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

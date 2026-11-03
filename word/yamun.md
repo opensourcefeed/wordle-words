@@ -22,4 +22,15 @@ stats:
 neighbours:
 - jamun
 - yamen
+prev_word: yampy
+next_word: yandy
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

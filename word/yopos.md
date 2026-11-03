@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - oopsy
 - yoops
+prev_word: yoops
+next_word: yoppo
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

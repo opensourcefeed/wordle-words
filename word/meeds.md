@@ -47,4 +47,15 @@ definitions:
       some achievement; reward, deserts; award.
   - text: A gift; bribe.
   - text: Merit or desert; worth.
+prev_word: meech
+next_word: meeja
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

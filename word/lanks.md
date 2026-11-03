@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _ANKS
   count: 12
+prev_word: lanes
+next_word: lanky
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

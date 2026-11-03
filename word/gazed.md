@@ -47,4 +47,15 @@ definitions:
     example: In fact, for Antonioni this gazing is probably the most fundamental of
       all cognitive activities ... (from Thinking in the Absence of Image)
   - text: To stare at.
+prev_word: gazar
+next_word: gazer
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

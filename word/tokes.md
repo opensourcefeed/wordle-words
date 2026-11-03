@@ -52,4 +52,15 @@ definitions:
 - pos: noun
   defs:
   - text: A piece of bread.
+prev_word: toker
+next_word: tokos
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

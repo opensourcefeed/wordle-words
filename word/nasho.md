@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Military national service, conscription.
   - text: A person doing military national service.
+prev_word: nashi
+next_word: nasis
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ho/"
+  label: Ending in HO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

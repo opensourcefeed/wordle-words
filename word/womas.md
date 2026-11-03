@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _OMAS
   count: 8
+prev_word: woman
+next_word: wombs
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

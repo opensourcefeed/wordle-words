@@ -46,4 +46,15 @@ definitions:
   - text: To get rid of.
   - text: To retire; to withdraw, depart, go away.
   - text: To become void or vacant.
+prev_word: avize
+next_word: avows
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/av/"
+  label: Starting with AV
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

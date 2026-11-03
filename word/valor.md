@@ -35,4 +35,15 @@ definitions:
   - text: Value; worth.
   - text: Strength of mind in regard to danger; that quality which enables a person
       to encounter danger with firmness
+prev_word: valli
+next_word: valse
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

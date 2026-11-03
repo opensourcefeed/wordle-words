@@ -22,4 +22,15 @@ neighbours:
 - kumis
 anagrams:
 - musky
+prev_word: kumis
+next_word: kunas
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -23,4 +23,15 @@ neighbours:
 - birls
 - burls
 - byres
+prev_word: byres
+next_word: byssi
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/by/"
+  label: Starting with BY
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

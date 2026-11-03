@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _OKER
   count: 8
+prev_word: token
+next_word: tokes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

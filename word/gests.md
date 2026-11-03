@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _ESTS
   count: 15
+prev_word: geste
+next_word: getas
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

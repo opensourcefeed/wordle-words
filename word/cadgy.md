@@ -23,4 +23,15 @@ neighbours:
 - cadge
 - gadgy
 - radgy
+prev_word: cadge
+next_word: cadie
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

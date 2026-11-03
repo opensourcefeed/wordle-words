@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: To form a clot or mass.
   - text: To cause to clot or form into a mass.
+prev_word: cloth
+next_word: cloud
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

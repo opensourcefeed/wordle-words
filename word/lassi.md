@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A drink made with yoghurt diluted with water and flavoured with salt or
       fruit juice.
+prev_word: lases
+next_word: lasso
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/si/"
+  label: Ending in SI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

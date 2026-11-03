@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Small flat-bottomed fishing boat suitable for launching from a beach, found
       on the north-east coast of England and in Scotland.
+prev_word: cobia
+next_word: cobot
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

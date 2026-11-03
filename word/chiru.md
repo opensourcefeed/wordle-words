@@ -36,4 +36,13 @@ definitions:
 - pos: noun
   defs:
   - text: The Tibetan antelope, Pantholops hodgsonii.
+prev_word: chirt
+next_word: chiti
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

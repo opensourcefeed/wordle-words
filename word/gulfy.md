@@ -24,4 +24,15 @@ neighbours:
 - gulpy
 anagrams:
 - fugly
+prev_word: gulfs
+next_word: gulls
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

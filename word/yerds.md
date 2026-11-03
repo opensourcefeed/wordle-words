@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - dreys
 - dyers
+prev_word: yerba
+next_word: yerks
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

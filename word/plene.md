@@ -26,4 +26,15 @@ neighbours:
 - plebe
 - plena
 - pleno
+prev_word: plena
+next_word: pleno
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _OCKS
   count: 14
+prev_word: woald
+next_word: wodge
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,15 @@ definitions:
   defs:
   - text: Any of several Asiatic burrowing rodents native to Central Asia, in the
       spalacid subfamily Myospalacinae, related to the mole rats.
+prev_word: zoist
+next_word: zolle
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

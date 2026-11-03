@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: Methylated spirits.
+prev_word: methi
+next_word: meths
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ho/"
+  label: Ending in HO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

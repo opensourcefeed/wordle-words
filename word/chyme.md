@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: The thick semifluid mass of partly digested food that is passed from the
       stomach to the duodenum.
+prev_word: chyle
+next_word: chynd
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

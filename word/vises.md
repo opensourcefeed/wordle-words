@@ -50,4 +50,15 @@ definitions:
 - pos: verb
   defs:
   - text: To examine and endorse (a passport, etc.); to visa.
+prev_word: vised
+next_word: visie
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

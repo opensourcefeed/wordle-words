@@ -30,4 +30,15 @@ anagrams:
 - ramus
 - rusma
 - umras
+prev_word: murva
+next_word: musca
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

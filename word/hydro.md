@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: A floatplane, an airplane specialized for operating on water, having pontoon
       floats instead of skids or wheels
+prev_word: hydra
+next_word: hyena
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

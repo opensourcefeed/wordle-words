@@ -46,4 +46,15 @@ definitions:
     example: Not much on telly tonight, as usual!
   - text: A television set.
     example: We've got a new flat-screen telly.
+prev_word: tells
+next_word: teloi
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

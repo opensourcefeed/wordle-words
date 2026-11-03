@@ -27,4 +27,13 @@ neighbours:
 - botel
 - botes
 - botew
+prev_word: botch
+next_word: botel
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

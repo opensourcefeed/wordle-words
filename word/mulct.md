@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: To impose such a fine or penalty.
   - text: To swindle (someone) out of money.
+prev_word: mulch
+next_word: muled
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

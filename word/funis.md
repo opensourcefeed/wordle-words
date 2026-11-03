@@ -32,4 +32,15 @@ neighbours:
 - funts
 - munis
 - sunis
+prev_word: funic
+next_word: funks
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

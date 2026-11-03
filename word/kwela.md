@@ -27,4 +27,13 @@ definitions:
   defs:
   - text: A style of music, first played in the townships, whose principal instrument
       is the penny whistle.
+prev_word: kwaai
+next_word: kwink
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

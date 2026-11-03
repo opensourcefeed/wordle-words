@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - erect
 - terce
+prev_word: recta
+next_word: recti
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

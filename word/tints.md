@@ -55,4 +55,15 @@ definitions:
 - pos: verb
   defs:
   - text: To shade, to color.
+prev_word: tinto
+next_word: tinty
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

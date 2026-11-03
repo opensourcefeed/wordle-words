@@ -37,4 +37,15 @@ anagrams:
 - torsi
 - trios
 - trois
+prev_word: rosin
+next_word: rosps
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

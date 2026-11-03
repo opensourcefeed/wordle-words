@@ -39,4 +39,15 @@ definitions:
 - pos: verb
   defs:
   - text: To defraud
+prev_word: frats
+next_word: fraus
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ud/"
+  label: Ending in UD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

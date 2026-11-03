@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _UNKS
   count: 10
+prev_word: dungy
+next_word: dunno
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A contagious disease of horses, resembling glanders
+prev_word: farci
+next_word: fards
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

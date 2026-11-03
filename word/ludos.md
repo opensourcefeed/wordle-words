@@ -27,4 +27,15 @@ neighbours:
 - kudos
 - lidos
 - ludes
+prev_word: ludic
+next_word: luffa
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

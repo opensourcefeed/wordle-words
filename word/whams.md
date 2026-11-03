@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To strike or smash (into) something with great force or impact
+prev_word: whamo
+next_word: whang
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

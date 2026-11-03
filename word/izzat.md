@@ -28,4 +28,13 @@ definitions:
 - pos: noun
   defs:
   - text: Honour, pride; reputation.
+prev_word: izars
+next_word: jaaps
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -30,4 +30,13 @@ definitions:
 - pos: preposition
   defs:
   - text: Betwixt, between
+prev_word: twits
+next_word: twocs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

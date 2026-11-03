@@ -43,4 +43,15 @@ definitions:
       on the mast-head.
   - text: See acorn-shell.
   - text: "(usually in the plural) A testicle."
+prev_word: acone
+next_word: acral
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ORES
   count: 13
+prev_word: roral
+next_word: roric
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

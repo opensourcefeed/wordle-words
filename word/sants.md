@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ANTS
   count: 14
+prev_word: santo
+next_word: saola
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

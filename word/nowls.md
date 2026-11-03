@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OWLS
   count: 10
+prev_word: nowed
+next_word: nowts
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

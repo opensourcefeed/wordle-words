@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Fun, especially through enjoyable company, a pleasant conversation.
+prev_word: crags
+next_word: craig
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

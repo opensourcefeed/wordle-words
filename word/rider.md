@@ -75,4 +75,15 @@ definitions:
   - text: A robber.
   - text: A piece, such as the rook or bishop, which moves any distance in one direction,
       as long as no other piece is in the way.
+prev_word: ricks
+next_word: rides
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -26,4 +26,15 @@ neighbours:
 - abear
 - anear
 - arear
+prev_word: afars
+next_word: affix
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

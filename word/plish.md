@@ -26,4 +26,15 @@ neighbours:
 - plesh
 - ptish
 - slish
+prev_word: plips
+next_word: ploat
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

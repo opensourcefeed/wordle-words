@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A reptile or amphibian.
+prev_word: heros
+next_word: herry
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -48,4 +48,15 @@ definitions:
 - pos: verb
   defs:
   - text: To furnish (a wheel) with spokes.
+prev_word: spoil
+next_word: spoof
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -44,4 +44,15 @@ definitions:
   - text: The Holy Grail.
   - text: The object of an extended or difficult quest.http//www.merriam-webster.com/dictionary/grail
     example: Becoming an astronaut was his grail.
+prev_word: graft
+next_word: grain
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: An act, or the process, of renovating.
   - text: Regeneration.
+prev_word: renne
+next_word: rente
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

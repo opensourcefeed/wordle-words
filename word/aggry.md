@@ -26,4 +26,15 @@ neighbours:
 - aggro
 anagrams:
 - raggy
+prev_word: aggro
+next_word: aghas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

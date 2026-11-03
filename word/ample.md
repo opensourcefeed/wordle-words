@@ -43,4 +43,15 @@ definitions:
     example: ample material
   - text: Not contracted or brief; not concise; extended; diffusive
     example: an ample story
+prev_word: amped
+next_word: amply
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: The limba tree.
+prev_word: afanc
+next_word: afars
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

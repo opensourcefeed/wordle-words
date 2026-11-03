@@ -27,4 +27,15 @@ anagrams:
 - siens
 - sines
 - snies
+prev_word: nisin
+next_word: nisus
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -22,4 +22,15 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 96
+prev_word: afire
+next_word: aflaj
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/zz/"
+  label: Ending in ZZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

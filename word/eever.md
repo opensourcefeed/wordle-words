@@ -34,4 +34,13 @@ anagrams:
 trap:
   pattern: _EVER
   count: 6
+prev_word: eeven
+next_word: eevns
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

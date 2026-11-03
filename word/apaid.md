@@ -24,4 +24,15 @@ stats:
 neighbours:
 - aphid
 - apayd
+prev_word: apage
+next_word: apart
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

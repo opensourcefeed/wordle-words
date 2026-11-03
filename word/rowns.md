@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _OWNS
   count: 6
+prev_word: rownd
+next_word: rowth
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

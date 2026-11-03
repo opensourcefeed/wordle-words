@@ -47,4 +47,15 @@ definitions:
   - text: To twist, to weave.
   - text: To be irritated; to fret.
   - text: To toss back and forth; to agitate; to disquiet.
+prev_word: vexer
+next_word: vexil
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

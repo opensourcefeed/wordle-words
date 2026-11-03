@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: SPA_S
   count: 9
+prev_word: spawn
+next_word: spayd
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

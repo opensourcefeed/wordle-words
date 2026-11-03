@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: Something that could happen, or could be the case, under different circumstances;
       a potentiality.
+prev_word: cough
+next_word: count
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

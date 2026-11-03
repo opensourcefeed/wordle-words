@@ -25,4 +25,15 @@ neighbours:
 - heugh
 - leugh
 - teuch
+prev_word: teuch
+next_word: tewed
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

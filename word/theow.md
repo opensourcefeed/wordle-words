@@ -24,4 +24,15 @@ stats:
 neighbours:
 - throw
 - theor
+prev_word: theor
+next_word: there
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

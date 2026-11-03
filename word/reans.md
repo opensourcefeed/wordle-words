@@ -46,4 +46,15 @@ anagrams:
 trap:
   pattern: _EANS
   count: 11
+prev_word: reamy
+next_word: reaps
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

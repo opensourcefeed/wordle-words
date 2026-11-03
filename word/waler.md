@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: A breed of light saddle horse from Australia, once favoured as a warhorse.
+prev_word: waled
+next_word: wales
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

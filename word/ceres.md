@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A waxy protuberance at the base of the upper beak in certain birds.
+prev_word: cered
+next_word: cerge
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

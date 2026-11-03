@@ -27,4 +27,15 @@ neighbours:
 - fesse
 - gesse
 - jessy
+prev_word: jerry
+next_word: jessy
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

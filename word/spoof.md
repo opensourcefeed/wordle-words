@@ -50,4 +50,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Fake, hoax.
+prev_word: spoke
+next_word: spook
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

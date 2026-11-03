@@ -26,4 +26,15 @@ anagrams:
 - loops
 - polos
 - pools
+prev_word: posit
+next_word: posse
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

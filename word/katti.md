@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 72
 neighbours:
 - ratti
+prev_word: katis
+next_word: kaugh
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

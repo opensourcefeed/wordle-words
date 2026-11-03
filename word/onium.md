@@ -25,4 +25,15 @@ neighbours:
 - opium
 - odium
 - otium
+prev_word: onion
+next_word: onkus
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -40,4 +40,15 @@ definitions:
   - text: To ascend; to climb up.
   - text: To upload.
     example: 100 new apps and games have just been upped.
+prev_word: uplit
+next_word: upper
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/up/"
+  label: Starting with UP
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

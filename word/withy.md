@@ -36,4 +36,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Flexible, like a withe.
+prev_word: withs
+next_word: witty
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

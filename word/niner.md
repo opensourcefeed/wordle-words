@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _INER
   count: 8
+prev_word: nimps
+next_word: nines
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

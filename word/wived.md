@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To marry (a woman).
   - text: To provide (someone) with a wife.
+prev_word: witty
+next_word: wiver
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

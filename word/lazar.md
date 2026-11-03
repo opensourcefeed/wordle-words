@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A sufferer of an infectious disease, especially leprosy.
+prev_word: layup
+next_word: lazed
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

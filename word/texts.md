@@ -60,4 +60,15 @@ definitions:
   - text: To send and receive text messages.
     example: Have you been texting all afternoon?
   - text: To write in large characters, as in text hand.
+prev_word: texta
+next_word: thack
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

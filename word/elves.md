@@ -49,4 +49,15 @@ definitions:
       expanding disk-shaped regions of luminosity, lasting less than a thousandth
       of a second, which occur high above energetic cloud-to-ground lightning of positive
       or negative polarity
+prev_word: elver
+next_word: emacs
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

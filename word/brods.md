@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - bords
 - dorbs
+prev_word: brock
+next_word: brogh
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

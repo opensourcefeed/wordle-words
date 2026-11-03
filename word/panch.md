@@ -29,4 +29,15 @@ neighbours:
 - pance
 - parch
 - pasch
+prev_word: pance
+next_word: panda
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

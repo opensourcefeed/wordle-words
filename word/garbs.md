@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: A wheat sheaf.
   - text: A measure of arrows in the Middle Ages.
+prev_word: garbo
+next_word: garda
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

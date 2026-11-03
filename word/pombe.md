@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: An African beer made from millet.
+prev_word: pomas
+next_word: pomes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

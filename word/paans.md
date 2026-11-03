@@ -38,4 +38,15 @@ definitions:
   - text: A psychoactive preparation of betel leaf combined with areca nut and/or
       cured tobacco, chewed recreationally in Asia; such a preparation served wrapped
       in the leaf.
+prev_word: paals
+next_word: pacai
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

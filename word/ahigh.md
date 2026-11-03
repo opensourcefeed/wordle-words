@@ -24,4 +24,15 @@ stats:
 neighbours:
 - thigh
 - anigh
+prev_word: ahent
+next_word: ahind
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ah/"
+  label: Starting with AH
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -26,4 +26,15 @@ definitions:
   - text: A membrane which completely or partially occludes the vaginal opening in
       human females.
   - text: Marriage.
+prev_word: hylic
+next_word: hymns
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

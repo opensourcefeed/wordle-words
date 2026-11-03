@@ -39,4 +39,15 @@ definitions:
   - text: Loaded dice.
   - text: Head.
     example: I got so stoned last night. I was out of my gourd.
+prev_word: goura
+next_word: gouts
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: An underground conduit, between vertical shafts, that leads water from the
       interior of a hill to villages in the valley
+prev_word: kanas
+next_word: kandy
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

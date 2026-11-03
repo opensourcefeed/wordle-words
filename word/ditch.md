@@ -60,4 +60,15 @@ definitions:
     example: The soldiers ditched the tent to prevent flooding.
   - text: To throw into a ditch.
     example: The engine was ditched and turned on its side.
+prev_word: ditas
+next_word: dited
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

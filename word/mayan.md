@@ -25,4 +25,15 @@ neighbours:
 - makan
 - maran
 - mayas
+prev_word: maxis
+next_word: mayas
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

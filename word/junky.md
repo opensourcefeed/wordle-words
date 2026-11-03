@@ -40,4 +40,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Resembling or characteristic of junk; cheap, worthless, or of low quality.
+prev_word: junks
+next_word: junta
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

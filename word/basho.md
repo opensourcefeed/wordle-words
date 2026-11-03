@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A sumo tournament of any kind
+prev_word: basha
+next_word: basic
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ho/"
+  label: Ending in HO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

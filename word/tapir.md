@@ -39,4 +39,15 @@ definitions:
   - text: Any one of the species of large odd-toed ungulates of the taxonomic family
       Tapiridae with a long prehensile upper lip, of which all four surviving species
       are in genus Tapirus.
+prev_word: tapet
+next_word: tapis
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

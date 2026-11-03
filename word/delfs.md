@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: DEL_S
   count: 6
+prev_word: deles
+next_word: delft
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

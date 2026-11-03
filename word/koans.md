@@ -40,4 +40,15 @@ definitions:
       meditated upon, may unlock mechanisms in the Zen student’s mind leading to satori.
   - text: A riddle with no solution, used to provoke reflection on the inadequacy
       of logical reasoning, and to lead to enlightenment.
+prev_word: koala
+next_word: koaps
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

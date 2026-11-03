@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A prince, commander or other leader or ruler in an Islamic nation.
   - text: A descendant of the prophet Muhammad.
+prev_word: emics
+next_word: emits
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -46,4 +46,15 @@ definitions:
   - text: To ejaculate
   - text: "(leather-working) To develop a white powder or dark crystals on the surface
       of finished leather, as a result from improper tanning."
+prev_word: speug
+next_word: spewy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

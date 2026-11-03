@@ -43,4 +43,15 @@ anagrams:
 - nosir
 - ornis
 - rosin
+prev_word: roily
+next_word: roist
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

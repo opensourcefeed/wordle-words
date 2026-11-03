@@ -44,4 +44,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Short and thick; stout or stocky
+prev_word: dumps
+next_word: dunam
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

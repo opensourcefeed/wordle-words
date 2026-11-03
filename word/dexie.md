@@ -25,4 +25,15 @@ stats:
 neighbours:
 - dixie
 - doxie
+prev_word: dexes
+next_word: dexys
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

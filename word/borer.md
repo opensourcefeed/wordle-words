@@ -51,4 +51,15 @@ definitions:
   - text: An insect or insect larva that bores into wood.
   - text: One of the many types of mollusc that bore into soft rock.
   - text: The hagfish (Myxine).
+prev_word: borel
+next_word: bores
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

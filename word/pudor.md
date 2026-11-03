@@ -24,4 +24,15 @@ neighbours:
 - sudor
 anagrams:
 - proud
+prev_word: pudic
+next_word: pudsy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

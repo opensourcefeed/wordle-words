@@ -25,4 +25,15 @@ neighbours:
 - rumpy
 anagrams:
 - murly
+prev_word: rumes
+next_word: rummy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

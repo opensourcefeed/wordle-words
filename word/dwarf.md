@@ -53,4 +53,13 @@ definitions:
   defs:
   - text: Miniature.
     example: It is possible to grow the plants as dwarf as one desires.
+prev_word: dwang
+next_word: dwaum
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dw/"
+  label: Starting with DW
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

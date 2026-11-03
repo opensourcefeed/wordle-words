@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: An informal greeting used in the South of the USA.
     example: Howdy folks, and welcome to our ninth annual chili cookoff!
+prev_word: howbe
+next_word: howes
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

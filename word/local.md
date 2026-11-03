@@ -70,4 +70,15 @@ definitions:
   defs:
   - text: An anesthetic (anesthetic substance) that causes loss of sensation only
       to the area to which it is applied.
+prev_word: lobus
+next_word: loche
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

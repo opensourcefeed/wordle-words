@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Very recently; in the immediate past.
     example: She smelled the newly budding flowers.
+prev_word: newie
+next_word: newsy
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

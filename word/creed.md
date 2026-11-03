@@ -57,4 +57,15 @@ definitions:
   defs:
   - text: (only survives in "creeded") To believe; to credit.
   - text: To provide with a creed.
+prev_word: creds
+next_word: creek
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

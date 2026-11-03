@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A water wheel with attached buckets, used to raise and deposit water.
   - text: Any machine using buckets to raise water to an aqueduct.
+prev_word: nopal
+next_word: norie
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

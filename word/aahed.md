@@ -28,4 +28,12 @@ neighbours:
 - rahed
 anagrams:
 - ahead
+next_word: aalii
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A soft, earthy, dark-coloured rock or clay derived from the alteration of
       basalt.
+prev_word: waacs
+next_word: wacko
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

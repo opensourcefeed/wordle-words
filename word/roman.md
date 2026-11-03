@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: "(of type) upright, as opposed to italic"
   - text: "(of text) of or related to the Latin alphabet"
+prev_word: romal
+next_word: romeo
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

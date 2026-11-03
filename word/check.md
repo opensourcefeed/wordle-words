@@ -54,4 +54,15 @@ definitions:
     example: a check given for baggage
   - text: The forsaking by a hawk of its proper game to follow other birds.
   - text: A small chink or crack.
+prev_word: cheba
+next_word: chedi
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

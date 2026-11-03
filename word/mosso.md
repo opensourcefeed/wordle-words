@@ -26,4 +26,15 @@ neighbours:
 - rosso
 anagrams:
 - sooms
+prev_word: mosks
+next_word: mossy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

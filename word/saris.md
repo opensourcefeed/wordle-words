@@ -49,4 +49,15 @@ definitions:
   - text: The traditional dress of women in the Indian Subcontinent; an outer garment
       consisting of a single length of cotton or silk, most often with one end wrapped
       around the waist to form a skirt, the other draped over the shoulder or head.
+prev_word: sarir
+next_word: sarks
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

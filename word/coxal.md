@@ -29,4 +29,15 @@ neighbours:
 - cowal
 - coxae
 - noxal
+prev_word: coxae
+next_word: coxed
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

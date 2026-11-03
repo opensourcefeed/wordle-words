@@ -22,4 +22,15 @@ stats:
 neighbours:
 - mundu
 - munts
+prev_word: munts
+next_word: muons
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/tu/"
+  label: Ending in TU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

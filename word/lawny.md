@@ -27,4 +27,15 @@ neighbours:
 - yawny
 anagrams:
 - wanly
+prev_word: lawns
+next_word: lawsy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -26,4 +26,15 @@ neighbours:
 - algid
 anagrams:
 - adlib
+prev_word: albee
+next_word: album
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

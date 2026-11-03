@@ -34,4 +34,13 @@ anagrams:
 - roles
 - soler
 - sorel
+prev_word: eolid
+next_word: eosin
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

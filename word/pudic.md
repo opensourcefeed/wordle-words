@@ -24,4 +24,15 @@ neighbours:
 - ludic
 anagrams:
 - cupid
+prev_word: pudgy
+next_word: pudor
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -65,4 +65,15 @@ definitions:
   - text: To leave; to rush off.
   - text: To reduce to a fine powder; to levigate.
   - text: To kill or severely disable.
+prev_word: dusky
+next_word: dusty
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

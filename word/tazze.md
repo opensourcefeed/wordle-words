@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 56
 neighbours:
 - tazza
+prev_word: tazza
+next_word: teach
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

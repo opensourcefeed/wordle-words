@@ -26,4 +26,15 @@ neighbours:
 - scrog
 - scroo
 - scrow
+prev_word: scrip
+next_word: scrod
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ob/"
+  label: Ending in OB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

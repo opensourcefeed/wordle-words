@@ -27,4 +27,15 @@ anagrams:
 - cruse
 - cures
 - sucre
+prev_word: ecole
+next_word: edema
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ec/"
+  label: Starting with EC
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

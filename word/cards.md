@@ -124,4 +124,15 @@ definitions:
   defs:
   - text: Card games
     example: He's a fan of cards.
+prev_word: cardi
+next_word: cardy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

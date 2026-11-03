@@ -51,4 +51,15 @@ definitions:
     example: The old man gasped his last few words.
   - text: To pant with eagerness; to show vehement desire.
     example: I'm gasping for a cup of tea.
+prev_word: gashy
+next_word: gaspy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

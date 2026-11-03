@@ -24,4 +24,15 @@ neighbours:
 - gools
 - gooly
 - woold
+prev_word: gooky
+next_word: gools
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A thick oily substance, secreted by the sebaceous glands of the skin, that
       consists of fat, keratin and cellular debris.
+prev_word: seaze
+next_word: secco
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

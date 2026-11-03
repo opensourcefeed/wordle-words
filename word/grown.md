@@ -55,4 +55,15 @@ definitions:
   - text: Covered by growth; overgrown.
     example: What once was a farm was grown with trees.
   - text: 'Of a person: adult.'
+prev_word: growl
+next_word: grows
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

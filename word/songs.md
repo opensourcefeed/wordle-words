@@ -55,4 +55,15 @@ definitions:
   - text: A low price, especially one under the expected value; chiefly in for a song.
     example: He bought that car for a song.
   - text: An object of derision; a laughing stock.
+prev_word: songo
+next_word: songy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

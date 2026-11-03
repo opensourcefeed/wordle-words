@@ -26,4 +26,15 @@ neighbours:
 - adays
 anagrams:
 - wadas
+prev_word: adawn
+next_word: adays
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

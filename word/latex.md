@@ -41,4 +41,15 @@ definitions:
   - text: An emulsion of rubber in water, used in adhesives and the like.
   - text: Natural latex rubber, especially non-vulcanized rubber, such as is used
       in making latex gloves, latex condoms, and latex clothing.
+prev_word: later
+next_word: lathe
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

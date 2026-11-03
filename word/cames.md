@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: A grooved strip of lead used to hold panes of glass together.
+prev_word: cameo
+next_word: camis
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

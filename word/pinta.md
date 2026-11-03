@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A pint of milk.
+prev_word: pinot
+next_word: pinto
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

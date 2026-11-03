@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _ILER
   count: 7
+prev_word: filed
+next_word: files
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

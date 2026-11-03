@@ -61,4 +61,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Shaped like a pipe; tubular.
+prev_word: pipas
+next_word: piper
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

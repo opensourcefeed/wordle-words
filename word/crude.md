@@ -53,4 +53,15 @@ definitions:
     example: a crude remark
   - text: Immature or unripe.
   - text: "(grammar) Pertaining to the uninflected stem of a word."
+prev_word: cruck
+next_word: crudo
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

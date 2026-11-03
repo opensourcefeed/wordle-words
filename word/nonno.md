@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(among Italian speakers) A person's grandfather."
+prev_word: nonna
+next_word: nonny
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

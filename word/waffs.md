@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _AFFS
   count: 10
+prev_word: wafer
+next_word: wafts
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

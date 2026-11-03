@@ -45,4 +45,13 @@ definitions:
 - pos: verb
   defs:
   - text: (often with "off") To stimulate the clitoris.
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

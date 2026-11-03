@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - braws
 - warbs
+prev_word: bawns
+next_word: bawty
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

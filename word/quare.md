@@ -40,4 +40,15 @@ definitions:
   - text: (used to suggest emphasis such as "a lot of" or "very" (suggesting an Irish
       accent).)
     example: He'd brought a quare amount of money with him.
+prev_word: quant
+next_word: quark
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

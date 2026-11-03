@@ -52,4 +52,15 @@ definitions:
       ticket time limits or other fare rule restrictions."
   - text: "(travel) To continually sign up for new credit cards in order to earn signup
       bonuses, airline miles, and other benefits."
+prev_word: churl
+next_word: churr
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

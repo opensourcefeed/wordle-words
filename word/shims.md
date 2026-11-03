@@ -57,4 +57,15 @@ definitions:
   - text: A person characterised by both male and female traits, or by ambiguous male-female
       traits, also called a he-she; transsexual.
   - text: Hermaphrodite.
+prev_word: shily
+next_word: shine
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

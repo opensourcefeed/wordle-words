@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _ARAS
   count: 6
+prev_word: varan
+next_word: varda
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

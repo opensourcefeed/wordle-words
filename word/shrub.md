@@ -41,4 +41,13 @@ definitions:
   - text: To lop; to prune.
   - text: "(Kenyan English) To mispronounce a word by replacing its consonant sound(s)
       with another or others of a similar place of articulation."
+prev_word: shrow
+next_word: shrug
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

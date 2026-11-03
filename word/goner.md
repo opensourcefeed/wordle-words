@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: Someone (or something) doomed; a hopeless case.
     example: I'm a goner if this plan doesn't work.
+prev_word: gonef
+next_word: gongs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

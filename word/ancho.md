@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: A broad, flat, dried poblano pepper, often ground into a powder.
+prev_word: anata
+next_word: ancle
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/ho/"
+  label: Ending in HO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

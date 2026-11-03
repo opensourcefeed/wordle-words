@@ -34,4 +34,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Close to white in colour.
+prev_word: whits
+next_word: whizz
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -29,4 +29,15 @@ neighbours:
 trap:
   pattern: _ISSY
   count: 6
+prev_word: hires
+next_word: hists
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

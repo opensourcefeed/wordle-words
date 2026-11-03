@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: The front of an army; the vanguard.
+prev_word: avale
+next_word: avast
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/av/"
+  label: Starting with AV
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

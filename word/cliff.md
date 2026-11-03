@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: A vertical (or nearly vertical) rock face.
   - text: A point where something abruptly fails or decreases in value etc.
+prev_word: clies
+next_word: clift
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

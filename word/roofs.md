@@ -57,4 +57,15 @@ definitions:
   - text: To traverse buildings by walking or climbing across their roofs.
   - text: To put into prison, to bird.
   - text: To shelter as if under a roof.
+prev_word: roods
+next_word: roofy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

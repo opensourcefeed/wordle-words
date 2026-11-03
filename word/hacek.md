@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: A caron; a diacritical mark (ˇ) usually resembling an inverted circumflex,
       but in the cases of ď, Ľ, ľ, and ť resembling a prime (′) instead.
+prev_word: habus
+next_word: hacks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

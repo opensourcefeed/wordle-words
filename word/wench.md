@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To frequent prostitutes; to whore; also, to womanize.
+prev_word: wembs
+next_word: wends
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

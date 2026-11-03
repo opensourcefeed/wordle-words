@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: A conical mound of earth with an ice core caused by permafrost uplift, particularly
       if lasting more than a year.
+prev_word: pinge
+next_word: pings
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - amies
 - maise
+prev_word: meshy
+next_word: mesic
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

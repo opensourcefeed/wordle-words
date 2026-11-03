@@ -25,4 +25,15 @@ definitions:
 - pos: noun
   defs:
   - text: Anything that pops up, particularly
+prev_word: popsy
+next_word: porae
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/up/"
+  label: Ending in UP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

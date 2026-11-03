@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OURS
   count: 9
+prev_word: coure
+next_word: court
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -32,4 +32,15 @@ definitions:
   - text: 'In Hindu theology, an epoch or era within a cycle of four ages: the Satya
       Yuga (or Krita Yuga), the Dvapara Yuga, the Treta Yuga and finally the Kali
       Yuga, with lengths ranging from 432,000 to 1,728,000 years.'
+prev_word: yufts
+next_word: yuked
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

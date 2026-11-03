@@ -30,4 +30,15 @@ anagrams:
 - deman
 - maned
 - named
+prev_word: memos
+next_word: mence
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

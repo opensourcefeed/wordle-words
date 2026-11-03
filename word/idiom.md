@@ -43,4 +43,15 @@ definitions:
   - text: An artistic style (for example, in art, architecture, or music); an instance
       of such a style.
   - text: A programming construct or phraseology that is characteristic of the language.
+prev_word: ident
+next_word: idiot
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/id/"
+  label: Starting with ID
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

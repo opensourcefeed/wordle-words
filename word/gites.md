@@ -50,4 +50,15 @@ definitions:
 - pos: noun
   defs:
   - text: A French holiday home, or a rented tourist cottage.
+prev_word: gitch
+next_word: giust
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

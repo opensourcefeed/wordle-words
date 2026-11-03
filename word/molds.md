@@ -81,4 +81,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cover with mold or soil.
+prev_word: molas
+next_word: moldy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

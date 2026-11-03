@@ -24,4 +24,15 @@ stats:
 neighbours:
 - poult
 - poupe
+prev_word: poupe
+next_word: pours
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

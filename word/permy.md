@@ -28,4 +28,15 @@ neighbours:
 - pervy
 anagrams:
 - premy
+prev_word: perms
+next_word: perne
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

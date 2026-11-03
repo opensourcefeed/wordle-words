@@ -24,4 +24,15 @@ neighbours:
 - clack
 - clash
 - coach
+prev_word: civvy
+next_word: clack
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

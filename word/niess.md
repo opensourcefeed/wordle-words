@@ -29,4 +29,15 @@ anagrams:
 - siens
 - sines
 - snies
+prev_word: niefs
+next_word: nieve
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

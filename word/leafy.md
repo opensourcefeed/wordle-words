@@ -46,4 +46,15 @@ definitions:
   - text: In the form of leaves (of some material)
   - text: Resembling a leaf
   - text: "(of a place) wealthy, middle- or upper-class"
+prev_word: leafs
+next_word: leaks
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

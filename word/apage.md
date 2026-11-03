@@ -26,4 +26,15 @@ neighbours:
 - apace
 anagrams:
 - agape
+prev_word: apace
+next_word: apaid
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -73,4 +73,15 @@ definitions:
 - pos: noun
   defs:
   - text: The consecrated bread or wafer of the Eucharist.
+prev_word: hosta
+next_word: hotch
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

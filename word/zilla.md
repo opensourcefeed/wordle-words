@@ -26,4 +26,15 @@ stats:
 neighbours:
 - villa
 - zills
+prev_word: zilch
+next_word: zills
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A medieval Scandinavian nobleman, especially in Norway and Denmark.
+prev_word: jarks
+next_word: jarps
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -63,4 +63,15 @@ definitions:
   - text: To walk heavily or clumsily, plod, trudge.
   - text: To reduce to a stump; to truncate or cut off a part of.
   - text: To strike unexpectedly; to stub, as the toe against something fixed.
+prev_word: stumm
+next_word: stums
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

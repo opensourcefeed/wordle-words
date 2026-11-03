@@ -32,4 +32,13 @@ definitions:
   defs:
   - text: A term of respect for a white European or other person of rank in colonial
       India.
+prev_word: saheb
+next_word: saice
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

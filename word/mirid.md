@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any insect of the family Miridae, a plant bug.
+prev_word: mirex
+next_word: mirin
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

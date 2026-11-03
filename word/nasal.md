@@ -55,4 +55,15 @@ definitions:
       voice thus issuing (wholly or partially) through the nose, as in the consonants
       m, n, ng; characterized by resonance in the nasal passage
     example: a nasal utterance.
+prev_word: narre
+next_word: nashi
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

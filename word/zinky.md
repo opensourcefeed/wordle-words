@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _INKY
   count: 9
+prev_word: zinke
+next_word: zinos
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

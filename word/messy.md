@@ -40,4 +40,15 @@ definitions:
     example: He is the messiest person I've ever met.
   - text: "(of a situation) Difficult or unpleasant to deal with."
     example: a messy divorce
+prev_word: meson
+next_word: mesto
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

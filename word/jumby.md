@@ -21,4 +21,15 @@ stats:
 neighbours:
 - jumbo
 - jumpy
+prev_word: jumbo
+next_word: jumps
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

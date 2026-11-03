@@ -30,4 +30,15 @@ neighbours:
 - roate
 anagrams:
 - oaker
+prev_word: roady
+next_word: roaky
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

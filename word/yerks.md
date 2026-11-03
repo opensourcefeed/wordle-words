@@ -51,4 +51,15 @@ definitions:
   - text: To strike or lash with a whip or stick.
   - text: To rouse or excite.
   - text: To bind or tie with a jerk.
+prev_word: yerds
+next_word: yeses
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

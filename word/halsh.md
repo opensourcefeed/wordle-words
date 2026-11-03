@@ -23,4 +23,15 @@ stats:
 neighbours:
 - harsh
 - halse
+prev_word: halse
+next_word: halts
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

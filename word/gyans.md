@@ -28,4 +28,15 @@ neighbours:
 - gyals
 anagrams:
 - yangs
+prev_word: gyals
+next_word: gybed
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

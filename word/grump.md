@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: To complain.
   - text: To be grumpy.
+prev_word: grume
+next_word: grund
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

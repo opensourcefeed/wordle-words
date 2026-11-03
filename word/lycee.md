@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A public secondary school in France.
+prev_word: lycea
+next_word: lycra
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

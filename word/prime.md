@@ -85,4 +85,15 @@ definitions:
   - text: Marked or distinguished by the prime symbol.
   - text: Early; blooming; being in the first stage.
   - text: Lecherous, lewd, lustful.
+prev_word: prima
+next_word: primi
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

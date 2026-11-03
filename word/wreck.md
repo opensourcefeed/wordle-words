@@ -47,4 +47,15 @@ definitions:
   - text: To dismantle wrecked vehicles or other objects, to reclaim any useful parts.
   - text: To involve in a wreck; hence, to cause to suffer ruin; to balk of success,
       and bring disaster on.
+prev_word: wreak
+next_word: wrens
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

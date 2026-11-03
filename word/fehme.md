@@ -22,4 +22,15 @@ stats:
 neighbours:
 - femme
 - vehme
+prev_word: feeze
+next_word: feign
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

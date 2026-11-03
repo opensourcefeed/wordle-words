@@ -37,4 +37,15 @@ definitions:
   - text: In ancient Rome, a kind of amulet or boss.
   - text: Later, a handwritten document from the papal chancellery.
   - text: The tympanic part of a temporal bone (having a bubble-like appearance)
+prev_word: bulky
+next_word: bulls
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

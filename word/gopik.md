@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: A unit of currency equivalent to a hundredth of an Azerbaijani manat.
+prev_word: gopak
+next_word: goral
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

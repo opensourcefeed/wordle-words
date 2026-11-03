@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: One who supports policy favouring war.
+prev_word: jimpy
+next_word: jings
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

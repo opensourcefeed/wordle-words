@@ -26,4 +26,13 @@ definitions:
   defs:
   - text: A flavoured frozen dessert of South Asia, made from milk and resembling
       ice cream.
+prev_word: kulas
+next_word: kumis
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

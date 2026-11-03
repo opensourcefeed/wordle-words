@@ -34,4 +34,15 @@ definitions:
   - text: Any of a number of different, usually benign, pigmented, raised or otherwise
       abnormal lesions of the skin.
     example: Most birthmarks and moles fall into the category of nevi.
+prev_word: nevis
+next_word: nevvy
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

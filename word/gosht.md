@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: Mutton (or sometimes goat), normally as part of a Pakistani curry
+prev_word: gorsy
+next_word: gosse
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

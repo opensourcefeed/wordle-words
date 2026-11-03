@@ -30,4 +30,15 @@ anagrams:
 - preys
 - pyres
 - spyre
+prev_word: pryer
+next_word: psalm
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

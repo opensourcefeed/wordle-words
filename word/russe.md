@@ -30,4 +30,15 @@ anagrams:
 - suers
 - sures
 - users
+prev_word: rusma
+next_word: rusts
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

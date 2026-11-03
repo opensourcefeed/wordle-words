@@ -23,4 +23,15 @@ neighbours:
 - furry
 - fuzzy
 - furze
+prev_word: furze
+next_word: fused
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

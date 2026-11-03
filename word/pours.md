@@ -65,4 +65,15 @@ definitions:
   - text: Of a beverage, to be on tap or otherwise available for serving to customers.
   - text: To move in a throng, as a crowd.
     example: The people poured out of the theater.
+prev_word: poupt
+next_word: pousy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: An open pavilion in Thailand used as a meeting place or to shelter from
       the weather.
+prev_word: salal
+next_word: salat
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Any of numerous species of small South American freshwater fish of the family
       Characidae, popular in home aquariums.
+prev_word: teths
+next_word: tetri
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

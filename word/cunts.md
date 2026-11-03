@@ -54,4 +54,13 @@ definitions:
   - text: "(positive) (with words funny, good) A person (mostly between male friends);
       compare bastard."
     example: 'Tom''s a good cunt: he fixed my car and didn''t even charge me for it!'
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

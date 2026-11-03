@@ -123,4 +123,15 @@ definitions:
     example: Stand clear of the rails, a train is coming.
   - text: Free (or separate) from others
   - text: In a clear manner; plainly.
+prev_word: clean
+next_word: cleat
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

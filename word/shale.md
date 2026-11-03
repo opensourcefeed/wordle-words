@@ -55,4 +55,15 @@ definitions:
 - pos: verb
   defs:
   - text: To take off the shell or coat of.
+prev_word: shaky
+next_word: shall
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

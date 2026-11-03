@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - oxers
 - sorex
+prev_word: sexes
+next_word: sexto
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

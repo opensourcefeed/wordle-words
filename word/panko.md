@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: Coarse, dry breadcrumbs used in Japanese cuisine.
+prev_word: panir
+next_word: panks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

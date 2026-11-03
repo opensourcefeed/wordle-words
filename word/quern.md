@@ -35,4 +35,15 @@ definitions:
 - pos: verb
   defs:
   - text: To grind; to use a quern.
+prev_word: quena
+next_word: query
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -38,4 +38,15 @@ definitions:
       6)."
   - text: "(of a woman) Having a full, voluptuous figure, especially possessing large
       breasts (as subsense of 8)."
+prev_word: butyl
+next_word: buyer
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

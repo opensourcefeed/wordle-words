@@ -19,4 +19,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 98
+prev_word: upend
+next_word: upjet
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/up/"
+  label: Starting with UP
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

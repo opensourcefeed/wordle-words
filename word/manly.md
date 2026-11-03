@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: Having the characteristics of a man.
   - text: Having qualities befitting a man; courageous, resolute, noble.
+prev_word: manky
+next_word: manna
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

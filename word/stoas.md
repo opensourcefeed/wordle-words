@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: In Ancient Greece, a walkway with a roof supported by colonnades, often
       with a wall on one side; specifically, the Great Hall in Athens.
+prev_word: stoai
+next_word: stoat
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

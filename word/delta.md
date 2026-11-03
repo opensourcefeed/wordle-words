@@ -59,4 +59,15 @@ definitions:
   - text: A value in delta notation indicating the relative abundances of isotopes.
   - text: "(U.S. Space Force) A military unit, nominally headed by a colonel, equivalent
       to a USAF operations wing, or an army regiment."
+prev_word: delph
+next_word: delts
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

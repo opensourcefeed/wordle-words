@@ -41,4 +41,15 @@ definitions:
   - text: A small primate, Perodicticus potto, native to the tropical rainforests
       of Africa.
   - text: The kinkajou.
+prev_word: potsy
+next_word: potts
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

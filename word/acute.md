@@ -69,4 +69,15 @@ definitions:
     example: The acute symptoms resolved promptly.
   - text: 'After a letter of the alphabet: having an acute accent.'
     example: The last letter of ‘café’ is ‘e’ acute.
+prev_word: actus
+next_word: acyls
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

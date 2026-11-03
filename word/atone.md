@@ -47,4 +47,15 @@ definitions:
   - text: To agree or accord; to be in accordance or harmony.
   - text: To unite in making.
   - text: To absolve (someone else) of wrongdoing, especially by standing as an equivalent.
+prev_word: atomy
+next_word: atony
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

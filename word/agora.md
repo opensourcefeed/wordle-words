@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: A place for gathering.
   - text: A marketplace, especially in Classical Greece.
+prev_word: agood
+next_word: agree
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

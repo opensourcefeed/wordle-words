@@ -48,4 +48,15 @@ definitions:
 - pos: noun
   defs:
   - text: A fan of the U.S. TV series Firefly.
+prev_word: flank
+next_word: flaps
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

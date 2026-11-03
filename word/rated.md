@@ -79,4 +79,15 @@ definitions:
   defs:
   - text: Scolded, rebuked.
   - text: Maximum (load, voltage, etc.) under which a device can function properly
+prev_word: ratch
+next_word: ratel
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

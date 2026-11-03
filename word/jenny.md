@@ -41,4 +41,15 @@ definitions:
       spinning jenny).
   - text: A female creature of certain kinds, such as wren and donkey.
   - text: A catmill.
+prev_word: jemmy
+next_word: jeons
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

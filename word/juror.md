@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A member of a jury.
+prev_word: juris
+next_word: juste
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

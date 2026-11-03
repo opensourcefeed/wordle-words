@@ -50,4 +50,15 @@ definitions:
     example: She is not vegan as she eats eggs and wears leather.
   - text: Relating to vegans or veganism.
     example: She is interested in vegan philosophy.
+prev_word: veery
+next_word: vegas
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

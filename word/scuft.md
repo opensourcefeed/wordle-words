@@ -20,4 +20,15 @@ stats:
   starter_top_percent: 74
 neighbours:
 - scuff
+prev_word: scuff
+next_word: scugs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

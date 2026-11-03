@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _IVES
   count: 10
+prev_word: cites
+next_word: civet
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

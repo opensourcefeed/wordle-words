@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A lake or long, narrow inlet, especially in Ireland.
+prev_word: loued
+next_word: louie
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

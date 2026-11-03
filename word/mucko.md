@@ -26,4 +26,15 @@ neighbours:
 - mucks
 - mucro
 - yucko
+prev_word: mucin
+next_word: mucks
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

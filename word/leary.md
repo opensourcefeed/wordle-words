@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: LEA_Y
   count: 6
+prev_word: lears
+next_word: lease
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

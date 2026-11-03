@@ -27,4 +27,15 @@ neighbours:
 - lathe
 - mathe
 - rathe
+prev_word: eater
+next_word: eatin
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

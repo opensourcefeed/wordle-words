@@ -62,4 +62,15 @@ definitions:
   - text: To fall into a state of decay.
   - text: To seduce or debauch, and thus harm the social standing of.
     example: The young libertine was notorious for ruining local girls.
+prev_word: ruing
+next_word: rukhs
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

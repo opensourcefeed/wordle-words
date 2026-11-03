@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A group of one or more populations of an organism or organisms seen by taxonomists
       to form a unit.
+prev_word: taxol
+next_word: taxor
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

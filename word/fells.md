@@ -58,4 +58,15 @@ definitions:
   defs:
   - text: "(obsolete outside Britain) A rocky ridge or chain of mountains."
   - text: "(obsolete outside Britain) A wild field or upland moor."
+prev_word: fella
+next_word: felly
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _UBBY
   count: 10
+prev_word: ruban
+next_word: rubel
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

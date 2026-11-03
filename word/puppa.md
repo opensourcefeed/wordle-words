@@ -25,4 +25,15 @@ neighbours:
 - cuppa
 - poppa
 - zuppa
+prev_word: pupil
+next_word: puppy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

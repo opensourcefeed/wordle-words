@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: A cigar, especially one made with tobacco from a single country.
+prev_word: purls
+next_word: purps
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

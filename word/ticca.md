@@ -26,4 +26,15 @@ neighbours:
 - wicca
 anagrams:
 - cacti
+prev_word: tical
+next_word: ticed
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

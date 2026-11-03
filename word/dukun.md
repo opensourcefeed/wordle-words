@@ -23,4 +23,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Malay shaman or witch doctor.
+prev_word: dukka
+next_word: dulce
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

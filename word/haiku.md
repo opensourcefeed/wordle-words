@@ -36,4 +36,13 @@ definitions:
       last lines and seven syllables in the second, usually with an emphasis on the
       season or a naturalistic theme.
     example: Haiku, a poem
+prev_word: haiks
+next_word: hails
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

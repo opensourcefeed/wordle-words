@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - hurst
 - hurts
+prev_word: rusty
+next_word: rutin
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

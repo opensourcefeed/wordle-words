@@ -48,4 +48,15 @@ definitions:
       watertight.
   - text: To apply caulking to joints, cracks, or a juncture of different materials.
   - text: Fuck
+prev_word: cauld
+next_word: cauls
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/lk/"
+  label: Ending in LK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

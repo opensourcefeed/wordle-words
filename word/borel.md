@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: BORE_
   count: 6
+prev_word: borek
+next_word: borer
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

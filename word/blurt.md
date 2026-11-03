@@ -41,4 +41,15 @@ definitions:
       to divulge inconsiderately — commonly with out.
     example: Please think about your reply and don't just blurt out the first thing
       that comes to mind.
+prev_word: blurs
+next_word: blush
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -64,4 +64,15 @@ definitions:
     example: It was the least surprising thing.
   - text: In the smallest or lowest degree; in a degree below all others.
     example: They travel the least of all.
+prev_word: leash
+next_word: leats
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

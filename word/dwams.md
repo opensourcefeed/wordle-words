@@ -22,4 +22,15 @@ stats:
 neighbours:
 - drams
 - dwamy
+prev_word: dwalm
+next_word: dwamy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dw/"
+  label: Starting with DW
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

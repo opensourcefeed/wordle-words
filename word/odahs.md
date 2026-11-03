@@ -26,4 +26,15 @@ neighbours:
 - opahs
 anagrams:
 - dosha
+prev_word: oculi
+next_word: odals
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/od/"
+  label: Starting with OD
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

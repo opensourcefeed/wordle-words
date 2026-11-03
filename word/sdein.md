@@ -30,4 +30,13 @@ anagrams:
 - nides
 - sined
 - snied
+prev_word: sdayn
+next_word: seals
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

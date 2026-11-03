@@ -23,4 +23,15 @@ neighbours:
 - bufty
 - tufts
 - tutty
+prev_word: tufts
+next_word: tugra
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

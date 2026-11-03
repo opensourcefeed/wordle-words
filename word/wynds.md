@@ -31,4 +31,13 @@ definitions:
   defs:
   - text: A narrow lane, alley or path, especially one between houses.
   - text: A stack of hay.
+prev_word: wyles
+next_word: wynns
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

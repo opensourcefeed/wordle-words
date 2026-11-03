@@ -82,4 +82,15 @@ definitions:
   - text: To kill.
   - text: To break up with someone without warning or explanation; to perform an act
       of ghosting.
+prev_word: ghest
+next_word: ghoul
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gh/"
+  label: Starting with GH
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

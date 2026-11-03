@@ -81,4 +81,15 @@ definitions:
 - pos: verb
   defs:
   - text: To be likely.
+prev_word: liker
+next_word: likin
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

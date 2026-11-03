@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A Hindu prince or ruler in India.
   - text: Any of various nymphalid butterflies of the genus Charaxes.
+prev_word: raits
+next_word: rajas
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

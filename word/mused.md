@@ -43,4 +43,15 @@ definitions:
   - text: To say (something) with due consideration or thought.
   - text: To think on; to meditate on.
   - text: To wonder at.
+prev_word: musca
+next_word: musee
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

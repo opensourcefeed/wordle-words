@@ -45,4 +45,15 @@ definitions:
   - text: A number of other plants bearing lotus in their scientific or common names
       (see Derived terms below).
   - text: An architectural motif of ancient Egyptian temples.
+prev_word: lotto
+next_word: loued
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

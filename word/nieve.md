@@ -34,4 +34,15 @@ anagrams:
 trap:
   pattern: _IEVE
   count: 6
+prev_word: niess
+next_word: nifes
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

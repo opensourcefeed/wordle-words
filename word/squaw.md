@@ -34,4 +34,13 @@ definitions:
 - pos: noun
   defs:
   - text: A woman, wife; especially a Native American woman.
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sq/"
+  label: Starting with SQ
+- url: "/ending-with/aw/"
+  label: Ending in AW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

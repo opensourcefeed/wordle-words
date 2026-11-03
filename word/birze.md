@@ -28,4 +28,15 @@ neighbours:
 - birzz
 anagrams:
 - brize
+prev_word: birth
+next_word: birzz
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

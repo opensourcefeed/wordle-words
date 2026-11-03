@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A cuckoo of the genus Eudynamys, native to Asia, Australia and the Pacific.
+prev_word: kobos
+next_word: koffs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

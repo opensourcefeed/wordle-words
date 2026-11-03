@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: The fibre obtained from the husk of a coconut, used chiefly in making rope,
       matting and as a peat substitute.
+prev_word: coins
+next_word: coits
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

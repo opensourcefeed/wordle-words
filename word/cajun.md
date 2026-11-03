@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: Relating to the Cajun people or their culture.
   - text: Of spicy food prepared in the style of the Cajun cuisine.
+prev_word: cajon
+next_word: caked
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

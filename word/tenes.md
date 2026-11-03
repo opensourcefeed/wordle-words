@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _ENES
   count: 9
+prev_word: tendu
+next_word: tenet
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

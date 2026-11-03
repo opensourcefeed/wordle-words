@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: A Cornish souterrain, an underground, dry-stone-walled chamber open on two
       ends.
+prev_word: fogos
+next_word: fohns
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ou/"
+  label: Ending in OU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

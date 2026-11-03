@@ -29,4 +29,15 @@ neighbours:
 - atopy
 anagrams:
 - ayont
+prev_word: atone
+next_word: atopy
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

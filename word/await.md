@@ -45,4 +45,15 @@ definitions:
   - text: To serve or attend; to wait on, wait upon.
   - text: To watch, observe.
   - text: To wait; to stay in waiting.
+prev_word: avyze
+next_word: awake
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

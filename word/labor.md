@@ -59,4 +59,15 @@ definitions:
       or under a burden.
   - text: To suffer the pangs of childbirth.
   - text: To pitch or roll heavily, as a ship in a turbulent sea.
+prev_word: labne
+next_word: labra
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

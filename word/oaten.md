@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Made of oats
     example: an oaten cake
+prev_word: oasts
+next_word: oater
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oa/"
+  label: Starting with OA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

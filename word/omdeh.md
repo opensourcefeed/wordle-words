@@ -24,4 +24,13 @@ neighbours:
 - omdah
 anagrams:
 - homed
+prev_word: omdda
+next_word: omees
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/om/"
+  label: Starting with OM
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

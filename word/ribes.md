@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: RI_ES
   count: 10
+prev_word: ribby
+next_word: riced
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

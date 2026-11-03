@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 92
 neighbours:
 - gnaws
+prev_word: gnats
+next_word: gnaws
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gn/"
+  label: Starting with GN
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

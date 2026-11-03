@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: HA_TS
   count: 6
+prev_word: haere
+next_word: haffs
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -24,4 +24,15 @@ neighbours:
 - hakas
 - hakim
 - haram
+prev_word: hajji
+next_word: hakas
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

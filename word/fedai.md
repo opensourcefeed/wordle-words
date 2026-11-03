@@ -22,4 +22,15 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 21
+prev_word: fecks
+next_word: fedex
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

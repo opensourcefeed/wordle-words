@@ -27,4 +27,15 @@ neighbours:
 - fouet
 anagrams:
 - fuero
+prev_word: fouds
+next_word: fouet
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

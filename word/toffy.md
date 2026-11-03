@@ -32,4 +32,15 @@ definitions:
   - text: A small, individual piece of toffee
     example: a box of toffees
   - text: Any kind of sweets; candy
+prev_word: toffs
+next_word: tofts
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -25,4 +25,15 @@ neighbours:
 - toddy
 - toady
 - toity
+prev_word: tohos
+next_word: toile
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

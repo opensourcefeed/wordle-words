@@ -59,4 +59,15 @@ definitions:
   defs:
   - text: Of or pertaining to the tenor part or range.
     example: He has a tenor voice.
+prev_word: tenon
+next_word: tense
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

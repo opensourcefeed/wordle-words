@@ -61,4 +61,15 @@ definitions:
   - text: An item of value between two or more parties used for the exchange of goods
       or services.
   - text: A person who funds an operation.
+prev_word: moner
+next_word: mongo
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

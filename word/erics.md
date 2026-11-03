@@ -36,4 +36,15 @@ anagrams:
 - rices
 - scire
 - seric
+prev_word: erick
+next_word: ering
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

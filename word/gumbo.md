@@ -45,4 +45,15 @@ definitions:
       esculentus.
   - text: The flowering mallow plant Abelmoschus esculentus itself, now commonly grown
       in the tropics and warmer parts of the temperate zones.
+prev_word: gulpy
+next_word: gumma
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

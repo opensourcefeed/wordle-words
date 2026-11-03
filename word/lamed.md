@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: The twelfth letter of many Semitic alphabets/abjads (Phoenician, Aramaic,
       Hebrew, Syriac, Arabic and others).
+prev_word: lamby
+next_word: lamer
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

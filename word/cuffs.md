@@ -61,4 +61,15 @@ definitions:
 - pos: noun
   defs:
   - text: The scruff of the neck.
+prev_word: cuffo
+next_word: cuifs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

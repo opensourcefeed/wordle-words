@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _INGS
   count: 14
+prev_word: hinge
+next_word: hinky
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

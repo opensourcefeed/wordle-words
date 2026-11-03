@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - levin
 - liven
+prev_word: nivas
+next_word: nixed
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

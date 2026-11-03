@@ -26,4 +26,15 @@ neighbours:
 - ohone
 anagrams:
 - noose
+prev_word: osmol
+next_word: ossia
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/os/"
+  label: Starting with OS
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

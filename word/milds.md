@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: MIL_S
   count: 7
+prev_word: milch
+next_word: miler
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

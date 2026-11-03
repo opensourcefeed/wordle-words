@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - extra
 - taxer
+prev_word: retam
+next_word: retch
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ax/"
+  label: Ending in AX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

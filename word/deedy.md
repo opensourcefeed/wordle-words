@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: Industrious; active.
   - text: Earnest; serious.
+prev_word: deeds
+next_word: deely
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

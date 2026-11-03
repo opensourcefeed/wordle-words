@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 29
 neighbours:
 - alure
+prev_word: alure
+next_word: alvar
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/rk/"
+  label: Ending in RK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

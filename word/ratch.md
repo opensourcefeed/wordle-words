@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _ATCH
   count: 10
+prev_word: ratas
+next_word: rated
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

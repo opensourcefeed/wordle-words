@@ -50,4 +50,15 @@ definitions:
   - text: To slacken; to become relaxed or loose.
   - text: To become less intense; to weaken, decrease in force.
   - text: To go out; to become extinct.
+prev_word: slain
+next_word: slams
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

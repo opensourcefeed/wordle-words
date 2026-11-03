@@ -37,4 +37,15 @@ definitions:
 - pos: interjection
   defs:
   - text: Lo, there it is; see here; ta-da; presto; behold!
+prev_word: voids
+next_word: voile
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

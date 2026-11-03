@@ -23,4 +23,15 @@ neighbours:
 - bothy
 - goths
 - mothy
+prev_word: goths
+next_word: gotta
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

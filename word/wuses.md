@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _USES
   count: 8
+prev_word: wurst
+next_word: wushu
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wu/"
+  label: Starting with WU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

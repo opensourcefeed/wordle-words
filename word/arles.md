@@ -38,4 +38,15 @@ anagrams:
 - rales
 - reals
 - seral
+prev_word: arled
+next_word: armed
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

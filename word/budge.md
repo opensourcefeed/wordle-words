@@ -54,4 +54,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Brisk; stirring; jocund.
+prev_word: budes
+next_word: budis
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

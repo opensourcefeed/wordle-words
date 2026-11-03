@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: One who dyes, especially one who dyes cloth etc. as an occupation.
+prev_word: dyads
+next_word: dying
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dy/"
+  label: Starting with DY
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

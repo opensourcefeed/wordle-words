@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _URDS
   count: 6
+prev_word: hunts
+next_word: hurls
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

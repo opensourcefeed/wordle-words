@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: NA_AS
   count: 7
+prev_word: nappy
+next_word: narco
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

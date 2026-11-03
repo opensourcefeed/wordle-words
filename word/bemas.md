@@ -39,4 +39,15 @@ definitions:
   - text: A platform from which speakers addressed an assembly.
   - text: Raised area of worship in a synagogue upon which rests the Holy Ark containing
       Scrolls of Torah.
+prev_word: bemad
+next_word: bemix
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

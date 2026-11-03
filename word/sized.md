@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: Having a certain size. Usually used in combination with an adverb.
     example: A badly-sized pair of shoes.
+prev_word: sizar
+next_word: sizel
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

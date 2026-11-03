@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Alcoholic liquor, especially inferior or illicit whisky.
+prev_word: honor
+next_word: hoods
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: The unit of currency of Zaire.
+prev_word: zaidy
+next_word: zakat
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

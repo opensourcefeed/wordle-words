@@ -30,4 +30,15 @@ definitions:
     example: '1966: The sins of the father, she thought wryly. Well, they had visited
       Tony, all right — only he didn''t know it. — Jacqueline Susann, Valley of the
       Dolls (Grove Press 1997, p. 206)'
+prev_word: wryer
+next_word: wuddy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

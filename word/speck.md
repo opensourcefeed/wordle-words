@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: To mark with specks; to speckle.
     example: paper specked by impurities in the water used in its manufacture
+prev_word: speat
+next_word: specs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

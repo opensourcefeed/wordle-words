@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - dents
 - tends
+prev_word: stems
+next_word: steno
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: S_OPS
   count: 6
+prev_word: scope
+next_word: score
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

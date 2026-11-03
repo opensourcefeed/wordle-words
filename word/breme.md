@@ -32,4 +32,15 @@ anagrams:
 - ember
 - berme
 - breem
+prev_word: breis
+next_word: brens
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

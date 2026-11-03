@@ -34,4 +34,13 @@ definitions:
   defs:
   - text: A staysail that resembles a jib but extends aft beyond the mast.
   - text: Genoa cake
+prev_word: genny
+next_word: genom
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

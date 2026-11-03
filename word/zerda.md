@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - dazer
 - razed
+prev_word: zendo
+next_word: zerks
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/ze/"
+  label: Starting with ZE
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

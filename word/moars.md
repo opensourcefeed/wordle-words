@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _OARS
   count: 6
+prev_word: moany
+next_word: moats
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

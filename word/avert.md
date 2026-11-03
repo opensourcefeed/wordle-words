@@ -45,4 +45,15 @@ definitions:
     example: How can the danger be averted?
   - text: To turn away.
   - text: To turn away.
+prev_word: avers
+next_word: avgas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/av/"
+  label: Starting with AV
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

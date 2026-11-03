@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A slight depression or pit in a bone or organ.
   - text: The retinal fovea, or fovea centralis, responsible for sharp central vision.
+prev_word: fouth
+next_word: fowls
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

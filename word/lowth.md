@@ -28,4 +28,15 @@ neighbours:
 - sowth
 anagrams:
 - thowl
+prev_word: lowse
+next_word: lowts
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

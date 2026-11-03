@@ -62,4 +62,15 @@ definitions:
       from the mold-filling process. Typically removed after annealing as part of
       the finishing process (e.g. scored and snapped off)."
   - text: The metallic oxide from a blowpipe which has adhered to a glass object.
+prev_word: moile
+next_word: moira
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

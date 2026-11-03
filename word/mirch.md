@@ -30,4 +30,15 @@ neighbours:
 - mitch
 anagrams:
 - chirm
+prev_word: mirah
+next_word: mired
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

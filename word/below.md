@@ -55,4 +55,15 @@ definitions:
   - text: Unsuitable to the rank or dignity of; beneath.
     example: Such petty behavior is below me.
   - text: "(stage directions) Downstage of."
+prev_word: belon
+next_word: belts
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

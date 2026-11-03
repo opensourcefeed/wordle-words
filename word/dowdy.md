@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: Plain and unfashionable in style or dress.
   - text: Lacking stylishness or neatness; shabby.
+prev_word: dowds
+next_word: dowed
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

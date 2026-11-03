@@ -49,4 +49,15 @@ definitions:
 - pos: noun
   defs:
   - text: A nest of pheasants.
+prev_word: nided
+next_word: nidor
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

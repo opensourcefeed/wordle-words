@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ELLS
   count: 14
+prev_word: hello
+next_word: helly
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

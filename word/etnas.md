@@ -29,4 +29,15 @@ anagrams:
 - netas
 - stane
 - stean
+prev_word: etics
+next_word: etrog
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/et/"
+  label: Starting with ET
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

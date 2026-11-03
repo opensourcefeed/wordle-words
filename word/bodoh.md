@@ -26,4 +26,13 @@ definitions:
 - pos: adjective
   defs:
   - text: "(Singlish) stupid"
+prev_word: bodle
+next_word: boeps
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

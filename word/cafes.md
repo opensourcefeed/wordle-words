@@ -50,4 +50,15 @@ definitions:
       beverages, simple meals or snacks, with a facility to consume them on the premises.
   - text: A small restaurant of any genre.
     example: 1982, Joni Mitchell, Chinese Café / Unchained Melody (song)
+prev_word: caese
+next_word: caffe
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

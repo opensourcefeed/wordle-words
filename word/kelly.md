@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ELLY
   count: 11
+prev_word: kells
+next_word: kelps
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

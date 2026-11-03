@@ -28,4 +28,15 @@ neighbours:
 - plein
 anagrams:
 - eloin
+prev_word: oleic
+next_word: olent
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -48,4 +48,15 @@ definitions:
   - text: Effective.
     example: 'He is a priest now: although his ordination was contrary to the law
       of the church, it was still valid.'
+prev_word: valet
+next_word: valis
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

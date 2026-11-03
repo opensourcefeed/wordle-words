@@ -28,4 +28,15 @@ neighbours:
 - dolie
 - folie
 - molie
+prev_word: joles
+next_word: jollo
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

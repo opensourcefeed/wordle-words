@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To use a swab on something, or clean something with a swab.
     example: swab the deck of a ship
+prev_word: sutta
+next_word: swack
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

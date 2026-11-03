@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: A narrow pedestrian passageway in a residential area, between high brick
       walls, wooden fences, hedges, etc.
+prev_word: jitis
+next_word: jived
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

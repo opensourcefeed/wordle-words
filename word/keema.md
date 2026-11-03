@@ -34,4 +34,15 @@ definitions:
   - text: A traditional dish of the Indian subcontinent, typically minced-lamb curry
       with peas or potatoes and spices, sometimes used as a filling in samosas or
       naan.
+prev_word: keels
+next_word: keeno
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

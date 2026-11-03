@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: Buttocks, bottom
+prev_word: turrs
+next_word: tusks
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

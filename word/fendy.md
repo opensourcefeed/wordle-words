@@ -23,4 +23,15 @@ neighbours:
 - fends
 - fenny
 - fundy
+prev_word: fends
+next_word: fenis
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

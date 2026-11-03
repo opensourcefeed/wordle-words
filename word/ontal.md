@@ -29,4 +29,15 @@ anagrams:
 - tonal
 - notal
 - tolan
+prev_word: onset
+next_word: ontic
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

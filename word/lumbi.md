@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 78
 neighbours:
 - limbi
+prev_word: lumas
+next_word: lumen
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/bi/"
+  label: Ending in BI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

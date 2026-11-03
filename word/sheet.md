@@ -81,4 +81,15 @@ definitions:
   - text: Of rain, or other precipitation, to pour heavily.
     example: We couldn't go out because the rain was sheeting down all day long.
   - text: To trim a sail using a sheet.
+prev_word: sheer
+next_word: sheik
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

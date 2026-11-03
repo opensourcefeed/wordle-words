@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To tie or catch in a noose; to entrap or ensnare.
+prev_word: noops
+next_word: noove
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

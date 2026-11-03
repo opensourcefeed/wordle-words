@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: Any unpleasant substance or material.
   - text: A miserable person.
+prev_word: grosz
+next_word: grouf
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

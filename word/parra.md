@@ -30,4 +30,15 @@ neighbours:
 - parma
 - parrs
 - yarra
+prev_word: parps
+next_word: parrs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -26,4 +26,15 @@ definitions:
   - text: Expressing exasperation or impatience.
   - text: Expressing relief; phew, whew.
   - text: Expressing disgust; yuck, yech.
+prev_word: yeeek
+next_word: yeggs
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

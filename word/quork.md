@@ -27,4 +27,15 @@ neighbours:
 - quonk
 - quorl
 - quouk
+prev_word: quops
+next_word: quorl
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/rk/"
+  label: Ending in RK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

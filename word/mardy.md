@@ -46,4 +46,15 @@ definitions:
   - text: Sulky or whining.
     example: He's a mardy child.
   - text: Non-co-operative, bad-tempered or terse in communication.
+prev_word: mards
+next_word: mares
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

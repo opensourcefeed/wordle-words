@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A mother who is sexually attractive.
+prev_word: yummo
+next_word: yumps
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

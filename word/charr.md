@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: One of the several species of fishes of the genus Salvelinus.
     example: Among other native delicacies, they give you fresh char.
+prev_word: charm
+next_word: chars
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/rr/"
+  label: Ending in RR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -31,4 +31,15 @@ definitions:
   - text: To make stupid.
   - text: To represent as stupid.
   - text: To reduce the intellectual demands of.
+prev_word: dumbo
+next_word: dumka
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

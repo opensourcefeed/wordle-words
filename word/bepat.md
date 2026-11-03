@@ -25,4 +25,15 @@ neighbours:
 - begat
 - besat
 - repat
+prev_word: benty
+next_word: beray
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

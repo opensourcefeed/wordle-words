@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - emeus
 - meuse
+prev_word: mused
+next_word: muser
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

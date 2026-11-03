@@ -48,4 +48,15 @@ definitions:
 - pos: noun
   defs:
   - text: Nothing
+prev_word: nixer
+next_word: nixie
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

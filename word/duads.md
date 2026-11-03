@@ -37,4 +37,15 @@ definitions:
   - text: A pair or couple.
   - text: Dwadasama.
   - text: An unordered pair.
+prev_word: dsomo
+next_word: duals
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -24,4 +24,13 @@ stats:
   starter_top_percent: 76
 neighbours:
 - mieux
+prev_word: viers
+next_word: views
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

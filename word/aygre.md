@@ -24,4 +24,13 @@ stats:
 anagrams:
 - gayer
 - yager
+prev_word: ayelp
+next_word: ayins
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

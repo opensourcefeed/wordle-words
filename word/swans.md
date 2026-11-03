@@ -53,4 +53,15 @@ definitions:
 - pos: verb
   defs:
   - text: To declare (chiefly in first-person present constructions).
+prev_word: swank
+next_word: swaps
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

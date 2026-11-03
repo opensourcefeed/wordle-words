@@ -48,4 +48,15 @@ definitions:
       over the city council while a contracted city manager holds actual executive
       power.
   - text: A local VIP, a muckamuck or big shot reckoned to lead some local group.
+prev_word: mayed
+next_word: mayos
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

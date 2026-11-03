@@ -93,4 +93,15 @@ definitions:
   - text: A plank of softwood (fir or pine board).
   - text: A wooden board or plank, usually between 12 or 14 feet in length, traded
       as a commodity in shipbuilding.
+prev_word: deair
+next_word: dealt
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -102,4 +102,15 @@ definitions:
   - text: "(of quotations) Given in sixteenths rather than eighths."
   - text: "(London stock exchange) Designating ordinary stock that has been divided
       into preferred ordinary and deferred ordinary."
+prev_word: splay
+next_word: splog
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

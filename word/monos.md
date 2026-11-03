@@ -54,4 +54,15 @@ definitions:
   - text: The absence of sexual dimorphism
   - text: A morphism n such that for any other morphisms f and g, if n \circ f = n
       \circ g then f = g.
+prev_word: monks
+next_word: monpe
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

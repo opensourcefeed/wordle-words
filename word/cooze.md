@@ -36,4 +36,13 @@ definitions:
   defs:
   - text: Pussy, vagina.
   - text: A woman (often when viewed as an object of sexual desire).
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

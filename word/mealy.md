@@ -37,4 +37,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Resembling meal (the foodstuff).
+prev_word: meals
+next_word: meane
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

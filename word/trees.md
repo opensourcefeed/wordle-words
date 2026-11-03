@@ -98,4 +98,15 @@ definitions:
   - text: To place upon a tree; to fit with a tree; to stretch upon a tree.
     example: to tree a boot
   - text: To take refuge in a tree.
+prev_word: treen
+next_word: trefa
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

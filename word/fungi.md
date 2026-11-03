@@ -39,4 +39,15 @@ definitions:
       multicellular.
   - text: A spongy, abnormal excrescence, such as excessive granulation tissue formed
       in a wound.
+prev_word: fundy
+next_word: fungo
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

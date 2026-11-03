@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OLTS
   count: 9
+prev_word: polos
+next_word: polyp
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

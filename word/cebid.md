@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any member of the Cebidae.
+prev_word: ceaze
+next_word: cecal
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -25,4 +25,15 @@ stats:
 neighbours:
 - liman
 - limas
+prev_word: limas
+next_word: limba
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ax/"
+  label: Ending in AX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

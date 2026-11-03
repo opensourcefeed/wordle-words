@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 89
 neighbours:
 - bouts
+prev_word: bouts
+next_word: bovid
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/tu/"
+  label: Ending in TU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: Any small insect of the order Diptera, specifically within the suborder
       Nematocera.
+prev_word: gnash
+next_word: gnawn
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gn/"
+  label: Starting with GN
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

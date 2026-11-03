@@ -28,4 +28,15 @@ neighbours:
 - glees
 - gleet
 - greek
+prev_word: gleed
+next_word: glees
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -99,4 +99,15 @@ definitions:
   - text: To request some product or service; to secure by placing an order.
     example: to order groceries
   - text: To admit to holy orders; to ordain; to receive into the ranks of the ministry.
+prev_word: orcin
+next_word: ordie
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -42,4 +42,15 @@ definitions:
       to the surname of a Hindu man"
   - text: "(Indian English) (Originally) a Hindu gentleman employed to work as a clerk
       for the colonial administration; now, a clerk or low-ranking government official."
+prev_word: babul
+next_word: bacca
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

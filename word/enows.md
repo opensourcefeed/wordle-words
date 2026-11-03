@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - owsen
 - sowne
+prev_word: enorm
+next_word: enrol
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

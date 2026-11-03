@@ -34,4 +34,15 @@ anagrams:
 - freer
 - refer
 - frere
+prev_word: feral
+next_word: feres
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

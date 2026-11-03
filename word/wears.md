@@ -107,4 +107,15 @@ definitions:
   defs:
   - text: An adjustable dam placed across a river to regulate the flow of water downstream.
   - text: A fence placed across a river to catch fish.
+prev_word: weans
+next_word: weary
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

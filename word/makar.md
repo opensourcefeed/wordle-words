@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A poet writing in Scots.
+prev_word: makan
+next_word: makee
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

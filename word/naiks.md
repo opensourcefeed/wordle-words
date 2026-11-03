@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _AIKS
   count: 9
+prev_word: naifs
+next_word: nails
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A seaweed, Eisenia bicyclis, used in Japanese cuisine.
+prev_word: araks
+next_word: arars
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

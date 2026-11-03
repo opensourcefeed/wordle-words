@@ -35,4 +35,15 @@ definitions:
 - pos: verb
   defs:
   - text: Merchandise
+prev_word: meows
+next_word: mercs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

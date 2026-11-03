@@ -24,4 +24,15 @@ neighbours:
 - heben
 anagrams:
 - nebel
+prev_word: leaze
+next_word: leccy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

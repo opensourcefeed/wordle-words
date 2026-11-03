@@ -32,4 +32,15 @@ neighbours:
 - pened
 anagrams:
 - emend
+prev_word: mends
+next_word: menes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

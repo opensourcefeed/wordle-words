@@ -23,4 +23,15 @@ stats:
 neighbours:
 - aloud
 - almug
+prev_word: almes
+next_word: almug
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ud/"
+  label: Ending in UD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

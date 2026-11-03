@@ -29,4 +29,15 @@ anagrams:
 - nokes
 - snoek
 - snoke
+prev_word: sokah
+next_word: sokes
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

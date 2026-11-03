@@ -55,4 +55,15 @@ definitions:
 - pos: interjection
   defs:
   - text: A short inhalation sound, sometimes associated with crying.
+prev_word: snies
+next_word: snift
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

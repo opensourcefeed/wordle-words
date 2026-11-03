@@ -25,4 +25,13 @@ neighbours:
 anagrams:
 - blubs
 - bulbs
+prev_word: sloyd
+next_word: slubs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

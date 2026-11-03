@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: Reconnoiter.
+prev_word: recks
+next_word: recta
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

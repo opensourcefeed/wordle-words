@@ -46,4 +46,15 @@ definitions:
     example: One of the most widely used typefaces in the world was hewn by the English
       printer and typographer John Baskerville.
   - text: To act according to, to conform to; usually construed with to.
+prev_word: hevel
+next_word: hewer
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

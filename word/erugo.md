@@ -28,4 +28,15 @@ anagrams:
 - rogue
 - rouge
 - orgue
+prev_word: eruct
+next_word: erupt
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

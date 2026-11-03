@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 65
 neighbours:
 - nrtya
+prev_word: natty
+next_word: nauch
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ya/"
+  label: Ending in YA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

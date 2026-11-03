@@ -45,4 +45,15 @@ definitions:
     example: a Renaissance fest
   - text: "(in combination) An event in which the act denoted by the previous noun
       occurs."
+prev_word: festa
+next_word: festy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

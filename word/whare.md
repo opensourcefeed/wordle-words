@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Maori hut.
+prev_word: whaps
+next_word: wharf
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _ATTY
   count: 9
+prev_word: hathi
+next_word: hauds
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

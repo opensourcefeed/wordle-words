@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A medieval Arab condiment made from fermented barley.
+prev_word: murre
+next_word: murrs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -58,4 +58,15 @@ definitions:
 - pos: noun
   defs:
   - text: A person lacking in maturity, social skills, technical competence or intelligence
+prev_word: lamed
+next_word: lames
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -45,4 +45,13 @@ definitions:
     example: It was so funny, I snarfed my milk onto my keyboard.
   - text: To slurp (computing slang sense); to load in entirety; to copy as a whole.
     example: I snarfed the whole database into my program.
+prev_word: snare
+next_word: snark
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

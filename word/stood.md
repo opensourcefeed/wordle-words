@@ -45,4 +45,15 @@ definitions:
   - text: To remain without ruin or injury.
   - text: To stop asking for more cards; to keep one's hand as it has been dealt so
       far.
+prev_word: stony
+next_word: stook
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/od/"
+  label: Ending in OD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

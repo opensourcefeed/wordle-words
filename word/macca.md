@@ -25,4 +25,15 @@ neighbours:
 - bacca
 - macka
 - yacca
+prev_word: macaw
+next_word: maced
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

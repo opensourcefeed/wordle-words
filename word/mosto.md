@@ -33,4 +33,15 @@ anagrams:
 - smoot
 - tomos
 - tooms
+prev_word: moste
+next_word: mosts
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

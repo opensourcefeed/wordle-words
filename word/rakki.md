@@ -28,4 +28,15 @@ neighbours:
 - raksi
 anagrams:
 - rikka
+prev_word: rakis
+next_word: raksi
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ki/"
+  label: Ending in KI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

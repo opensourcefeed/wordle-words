@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: To drink excessively; to get drunk.
+prev_word: topaz
+next_word: topee
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

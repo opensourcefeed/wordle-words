@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of several passerine birds, of the family Vangidae, from Madagascar
+prev_word: vanes
+next_word: vangs
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

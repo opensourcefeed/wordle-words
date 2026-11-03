@@ -83,4 +83,15 @@ definitions:
 - pos: interjection
   defs:
   - text: Acknowledgement of success
+prev_word: scops
+next_word: scorn
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

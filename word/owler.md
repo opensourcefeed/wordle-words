@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - lower
 - rowel
+prev_word: owled
+next_word: owlet
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ow/"
+  label: Starting with OW
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

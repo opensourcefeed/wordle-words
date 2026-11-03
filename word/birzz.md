@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 96
 neighbours:
 - birze
+prev_word: birze
+next_word: bises
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/zz/"
+  label: Ending in ZZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: CUR_S
   count: 7
+prev_word: curet
+next_word: curia
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

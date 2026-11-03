@@ -49,4 +49,15 @@ definitions:
   - text: "(radar, sonar, radio telescopy etc.) To modify (a pulse of signal) so that
       it sweeps through a band of frequencies throughout its duration."
   - text: To cheer up; to make (someone) happier.
+prev_word: chiro
+next_word: chirr
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/rp/"
+  label: Ending in RP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: In entirety; entirely; wholly.
     example: I ate a fish whole!
+prev_word: whizz
+next_word: whomp
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

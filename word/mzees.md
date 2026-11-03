@@ -28,4 +28,13 @@ definitions:
 - pos: noun
   defs:
   - text: An elder (old person).
+prev_word: myxos
+next_word: naams
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

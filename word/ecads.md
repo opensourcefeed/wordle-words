@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: An organism whose form has been affected by its environment.
   - text: A non-inherited somatic modification caused by an organism's environment.
+prev_word: ebook
+next_word: ecard
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ec/"
+  label: Starting with EC
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

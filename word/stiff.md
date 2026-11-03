@@ -79,4 +79,15 @@ definitions:
   - text: 'Of an equation: for which certain numerical solving methods are numerically
       unstable, unless the step size is taken to be extremely small.'
   - text: Keeping upright.
+prev_word: sties
+next_word: stilb
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

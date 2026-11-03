@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ASTS
   count: 11
+prev_word: basto
+next_word: batch
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

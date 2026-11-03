@@ -43,4 +43,15 @@ definitions:
   - text: To fix the mind closely upon a subject; to dwell upon anything in thought;
       to muse; to ponder.
   - text: To endeavor diligently; to be zealous.
+prev_word: studs
+next_word: stuff
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

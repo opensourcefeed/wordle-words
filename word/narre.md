@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _ARRE
   count: 6
+prev_word: narra
+next_word: nasal
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

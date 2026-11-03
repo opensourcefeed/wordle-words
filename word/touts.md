@@ -63,4 +63,15 @@ definitions:
       or other improper means the secrets of the stable, for betting purposes.
   - text: To act as a tout; to give a tip on a racehorse.
   - text: To look for, try to obtain; used with for.
+prev_word: tousy
+next_word: touze
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -28,4 +28,15 @@ anagrams:
 - duals
 - lauds
 - udals
+prev_word: salty
+next_word: salue
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ud/"
+  label: Ending in UD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

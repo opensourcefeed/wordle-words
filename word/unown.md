@@ -24,4 +24,15 @@ neighbours:
 - known
 anagrams:
 - unwon
+prev_word: unold
+next_word: unpay
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

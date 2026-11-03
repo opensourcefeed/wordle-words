@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: A circle dance popular in the Balkans, Israel and Yiddish culture worldwide.
+prev_word: horal
+next_word: horde
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

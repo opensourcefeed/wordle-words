@@ -29,4 +29,15 @@ anagrams:
 - elint
 - intel
 - lenti
+prev_word: enjoy
+next_word: enmew
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

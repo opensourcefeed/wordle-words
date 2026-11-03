@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 78
 neighbours:
 - field
+prev_word: fizzy
+next_word: fjord
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

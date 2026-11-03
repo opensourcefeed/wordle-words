@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A toxic or poisonous substance produced by the biological processes of biological
       organisms.
+prev_word: toxic
+next_word: toyed
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

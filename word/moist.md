@@ -57,4 +57,15 @@ definitions:
   - text: Watery, liquid, fluid.
   - text: Characterised by the presence of pus, mucus etc.
   - text: Sexually lubricated (of the vagina); sexually aroused, turned on (of a woman).
+prev_word: moire
+next_word: moits
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

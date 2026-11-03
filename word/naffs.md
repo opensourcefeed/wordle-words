@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _AFFS
   count: 10
+prev_word: naevi
+next_word: nagar
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

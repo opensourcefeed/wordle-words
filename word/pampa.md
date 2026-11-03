@@ -25,4 +25,15 @@ neighbours:
 - yampa
 anagrams:
 - appam
+prev_word: pamby
+next_word: panax
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

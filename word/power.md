@@ -77,4 +77,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Impressive.
+prev_word: powan
+next_word: powie
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

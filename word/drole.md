@@ -33,4 +33,15 @@ neighbours:
 - prole
 anagrams:
 - older
+prev_word: droke
+next_word: droll
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

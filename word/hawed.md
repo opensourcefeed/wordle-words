@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _AWED
   count: 11
+prev_word: havoc
+next_word: hawks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

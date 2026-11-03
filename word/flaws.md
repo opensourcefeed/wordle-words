@@ -50,4 +50,15 @@ definitions:
   - text: A sudden burst or gust of wind of short duration; windflaw.
   - text: A storm of short duration.
   - text: A sudden burst of noise and disorder
+prev_word: flawn
+next_word: flawy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

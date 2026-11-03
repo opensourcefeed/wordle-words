@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A lively Andalusian dance.
   - text: The clapping that accompanies it.
+prev_word: jalap
+next_word: jalop
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/eo/"
+  label: Ending in EO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

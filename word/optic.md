@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Of, or relating to the eye or to vision.
   - text: Of, or relating to optics or optical instruments.
+prev_word: opter
+next_word: opzit
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/op/"
+  label: Starting with OP
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

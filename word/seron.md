@@ -33,4 +33,15 @@ anagrams:
 - renos
 - rones
 - senor
+prev_word: serks
+next_word: serow
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

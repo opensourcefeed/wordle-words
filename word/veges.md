@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: To vegetate; to engage in complete inactivity; to rest
     example: After working hard all week, I decided to stay home and veg on Saturday.
+prev_word: vegas
+next_word: veggo
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

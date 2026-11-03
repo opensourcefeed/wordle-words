@@ -53,4 +53,15 @@ definitions:
 - pos: adjective
   defs:
   - text: In a very close relationship.
+prev_word: bosky
+next_word: boson
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

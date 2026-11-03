@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 52
+prev_word: weals
+next_word: weans
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/mb/"
+  label: Ending in MB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

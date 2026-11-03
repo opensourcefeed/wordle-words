@@ -37,4 +37,15 @@ definitions:
   - text: An aggregation of calcium oxalate crystals found in certain plants.
   - text: A tiny yellow or white accumulation of extracellular material that builds
       up in Bruch's membrane of the eye.
+prev_word: drupe
+next_word: drusy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

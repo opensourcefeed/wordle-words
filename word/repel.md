@@ -45,4 +45,15 @@ definitions:
   - text: To force away by means of a repulsive force.
   - text: To cause repulsion or dislike in; to disgust.
   - text: To save (a shot).
+prev_word: repeg
+next_word: repen
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

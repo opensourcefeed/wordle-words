@@ -62,4 +62,15 @@ definitions:
     example: Those kids soaped my windows!
   - text: To be discreet about (a topic).
   - text: To flatter; to wheedle.
+prev_word: soaks
+next_word: soapy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

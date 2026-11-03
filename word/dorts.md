@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ORTS
   count: 10
+prev_word: dorse
+next_word: dorty
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

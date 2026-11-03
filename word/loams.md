@@ -36,4 +36,15 @@ anagrams:
 - lomas
 - moals
 - molas
+prev_word: loafs
+next_word: loamy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -28,4 +28,15 @@ neighbours:
 - fiers
 anagrams:
 - firie
+prev_word: fiere
+next_word: fiers
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

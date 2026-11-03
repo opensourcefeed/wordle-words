@@ -29,4 +29,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(of cattle or deer) Without horns."
+prev_word: mules
+next_word: mulga
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

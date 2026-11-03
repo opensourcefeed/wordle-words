@@ -24,4 +24,15 @@ neighbours:
 - oddly
 anagrams:
 - dolly
+prev_word: oldie
+next_word: olehs
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -34,4 +34,13 @@ definitions:
       at a point (in crystallography)
   - text: An original angular elevation of land around which continental growth has
       taken place (in geology)
+prev_word: coifs
+next_word: coils
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

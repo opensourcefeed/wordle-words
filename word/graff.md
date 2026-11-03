@@ -25,4 +25,15 @@ neighbours:
 - gruff
 - draff
 - griff
+prev_word: grads
+next_word: graft
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

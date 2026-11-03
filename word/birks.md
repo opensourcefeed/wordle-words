@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _IRKS
   count: 8
+prev_word: biris
+next_word: birle
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

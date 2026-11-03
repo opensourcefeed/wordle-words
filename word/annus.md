@@ -28,4 +28,15 @@ neighbours:
 - annum
 anagrams:
 - sunna
+prev_word: annum
+next_word: anoas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: MAN_S
   count: 9
+prev_word: manie
+next_word: manks
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -55,4 +55,15 @@ definitions:
   - text: "(by extension) To use (a spell or ability) rapidly and repeatedly."
     example: Stop spamming that special attack!
   - text: To post the same text repeatedly with disruptive effect; to flood.
+prev_word: spalt
+next_word: spane
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

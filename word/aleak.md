@@ -28,4 +28,15 @@ neighbours:
 - apeak
 anagrams:
 - akela
+prev_word: aldol
+next_word: aleck
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

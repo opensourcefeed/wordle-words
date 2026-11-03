@@ -53,4 +53,15 @@ definitions:
   - text: To hang on a gallows, or to choke, garotte, or strangle.
   - text: To harass;, to manhandle.
   - text: To destroy or kill.
+prev_word: scrae
+next_word: scram
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ag/"
+  label: Ending in AG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

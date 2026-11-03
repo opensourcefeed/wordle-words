@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: An artificial intelligence researcher who believes that solutions should
       be elegant, clear and provably correct. Compare scruffy.
+prev_word: neato
+next_word: nebby
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

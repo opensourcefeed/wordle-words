@@ -40,4 +40,13 @@ definitions:
 - pos: noun
   defs:
   - text: A civil judge in certain Islamic countries.
+prev_word: pzazz
+next_word: qaids
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

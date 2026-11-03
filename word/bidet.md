@@ -37,4 +37,15 @@ definitions:
       external genitalia and the anus.
   - text: A small horse formerly allowed to each trooper or dragoon for carrying his
       baggage.
+prev_word: bides
+next_word: bidis
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

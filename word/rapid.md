@@ -55,4 +55,15 @@ definitions:
 - pos: adverb
   defs:
   - text: "(archaic or colloquial) Rapidly."
+prev_word: raphe
+next_word: rapin
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

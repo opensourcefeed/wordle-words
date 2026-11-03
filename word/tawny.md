@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: Of a light brown to brownish orange color.
   - text: A sweet, fortified wine which is blended and matured in wood.
+prev_word: tawie
+next_word: tawse
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

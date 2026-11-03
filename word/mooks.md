@@ -49,4 +49,15 @@ definitions:
 - pos: noun
   defs:
   - text: A book published in the form factor of a magazine.
+prev_word: mooey
+next_word: moola
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

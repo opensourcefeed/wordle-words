@@ -30,4 +30,15 @@ neighbours:
 - socle
 - soole
 - sowle
+prev_word: soyas
+next_word: soyuz
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

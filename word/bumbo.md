@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _UMBO
   count: 6
+prev_word: bulse
+next_word: bumfs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -27,4 +27,15 @@ neighbours:
 - klong
 - krang
 - kyang
+prev_word: kiwis
+next_word: klaps
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kl/"
+  label: Starting with KL
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

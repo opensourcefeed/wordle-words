@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OWNS
   count: 6
+prev_word: lowne
+next_word: lowps
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

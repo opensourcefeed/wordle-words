@@ -28,4 +28,15 @@ neighbours:
 - nelia
 - telic
 - tenia
+prev_word: telex
+next_word: telic
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

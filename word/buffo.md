@@ -37,4 +37,13 @@ definitions:
 - pos: noun
   defs:
   - text: A comic singer, particularly in comic opera
+prev_word: buffi
+next_word: buffs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

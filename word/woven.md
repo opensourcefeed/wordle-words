@@ -54,4 +54,15 @@ definitions:
     example: Woven kevlar is tough enough to be bulletproof.
   - text: Interlaced
     example: The woven words of the sonnet were deep and moving.
+prev_word: wound
+next_word: wowed
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

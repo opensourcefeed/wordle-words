@@ -43,4 +43,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of or relating to birth.
+prev_word: natak
+next_word: natch
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

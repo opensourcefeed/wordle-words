@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _EAKS
   count: 6
+prev_word: meake
+next_word: meals
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

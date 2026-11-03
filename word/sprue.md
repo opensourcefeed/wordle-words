@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: A tropical disease causing a sore throat and tongue, and disturbed digestion;
       psilosis.
+prev_word: sprog
+next_word: sprug
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

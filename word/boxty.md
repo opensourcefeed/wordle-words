@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A traditional Irish potato pancake.
+prev_word: boxla
+next_word: boyar
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

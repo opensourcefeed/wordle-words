@@ -30,4 +30,15 @@ neighbours:
 trap:
   pattern: _IEVE
   count: 6
+prev_word: mieux
+next_word: miffs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

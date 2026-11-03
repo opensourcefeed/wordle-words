@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: SORE_
   count: 6
+prev_word: sores
+next_word: sorgo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

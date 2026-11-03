@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: "(provincial) To earn, earn by labor; earn money or one's living."
   - text: "(provincial) To thrive or grow; to ripen."
+prev_word: addio
+next_word: addra
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: The sound of a dull impact.
   - text: Republic F-105 Thunderchief jet ground attack fighter.
+prev_word: thrum
+next_word: thugs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

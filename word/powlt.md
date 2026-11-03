@@ -24,4 +24,15 @@ neighbours:
 - poult
 anagrams:
 - plowt
+prev_word: powis
+next_word: pownd
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

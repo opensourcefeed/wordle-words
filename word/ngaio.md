@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: An evergreen tree, Myoporum laetum, native to New Zealand.
+prev_word: nexus
+next_word: ngaka
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ng/"
+  label: Starting with NG
+- url: "/ending-with/io/"
+  label: Ending in IO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

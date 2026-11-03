@@ -48,4 +48,15 @@ definitions:
   - text: To stimulate (a feeling, emotion); to offend by slighting; to excite (someone)
       to action by causing resentment or jealousy.
     example: I believe this will pique your interest.
+prev_word: pipul
+next_word: piqui
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

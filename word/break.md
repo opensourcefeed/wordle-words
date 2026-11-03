@@ -165,4 +165,15 @@ definitions:
   - text: To terminate the execution of a program before normal completion.
   - text: To suspend the execution of a program during debugging so that the state
       of the program can be investigated.
+prev_word: bread
+next_word: bream
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

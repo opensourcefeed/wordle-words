@@ -32,4 +32,15 @@ neighbours:
 - redry
 anagrams:
 - ydred
+prev_word: redds
+next_word: reded
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

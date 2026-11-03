@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: "(shortening) A past attendee or graduate (of either gender) of a college,
       university or other educational institution."
+prev_word: alula
+next_word: alumy
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

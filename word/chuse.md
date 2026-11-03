@@ -25,4 +25,15 @@ neighbours:
 - chose
 - chute
 - cruse
+prev_word: churr
+next_word: chute
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

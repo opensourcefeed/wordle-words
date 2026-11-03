@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: One who copes.
+prev_word: copen
+next_word: copes
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

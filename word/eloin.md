@@ -31,4 +31,15 @@ neighbours:
 - elsin
 anagrams:
 - olein
+prev_word: elogy
+next_word: elope
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

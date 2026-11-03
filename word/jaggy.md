@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Jagged, toothed or serrated
+prev_word: jaggs
+next_word: jagir
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

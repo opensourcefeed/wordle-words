@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - eggar
 - gager
+prev_word: aggag
+next_word: aggie
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

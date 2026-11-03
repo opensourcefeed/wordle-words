@@ -31,4 +31,15 @@ definitions:
   - text: Any of a class of aromatic heterocyclic compounds containing a ring of four
       carbon atoms, two double bonds and an oxygen atom; especially the simplest one,
       C4H4O.
+prev_word: fural
+next_word: furca
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

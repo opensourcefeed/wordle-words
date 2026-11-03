@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: KIN_S
   count: 6
+prev_word: kimet
+next_word: kinda
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

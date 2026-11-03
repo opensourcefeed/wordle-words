@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 5
 anagrams:
 - aunes
+prev_word: using
+next_word: usnic
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/us/"
+  label: Starting with US
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

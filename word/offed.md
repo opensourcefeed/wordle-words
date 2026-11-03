@@ -35,4 +35,13 @@ definitions:
     example: He got in the way so I had him offed.
   - text: To switch off.
     example: Can you off the light?
+prev_word: offal
+next_word: offer
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

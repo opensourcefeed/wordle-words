@@ -37,4 +37,15 @@ definitions:
   - text: A torn-up piece of turf, especially by a golf club in making a stroke or
       by a horse's hoof.
   - text: A disruption in an otherwise smooth contour.
+prev_word: divos
+next_word: divvy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

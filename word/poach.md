@@ -50,4 +50,15 @@ definitions:
   - text: To stab; to pierce; to spear, as fish.
   - text: To force, drive, or plunge into anything.
   - text: To begin and not complete.
+prev_word: pneus
+next_word: poaka
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

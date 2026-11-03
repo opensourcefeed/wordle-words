@@ -53,4 +53,15 @@ definitions:
   - text: Any of various small deciduous trees or shrubs of genus Sorbus, belonging
       to the rose family, with pinnate leaves, corymbs of white flowers, and usually
       with orange-red berries.
+prev_word: roams
+next_word: roany
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

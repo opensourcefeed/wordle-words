@@ -26,4 +26,15 @@ neighbours:
 - moton
 - rotan
 - rotos
+prev_word: rotls
+next_word: rotor
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

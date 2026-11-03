@@ -31,4 +31,15 @@ definitions:
   - text: Courtship; flirtation.
   - text: A love affair.
   - text: A lover.
+prev_word: amort
+next_word: amove
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

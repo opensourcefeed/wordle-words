@@ -58,4 +58,15 @@ definitions:
   - text: The heartwood of trees.
   - text: Courage or assertiveness.
   - text: The stiffness of an arrow.
+prev_word: spina
+next_word: spink
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

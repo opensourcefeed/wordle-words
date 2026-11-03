@@ -21,4 +21,13 @@ stats:
 neighbours:
 - shule
 - shuls
+prev_word: shule
+next_word: shuls
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

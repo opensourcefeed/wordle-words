@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 87
 neighbours:
 - mucin
+prev_word: nucha
+next_word: nuddy
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

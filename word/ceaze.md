@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _EAZE
   count: 6
+prev_word: cease
+next_word: cebid
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

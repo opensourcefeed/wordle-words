@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: To laugh.
     example: I had to cack when you fell down the stairs.
+prev_word: cache
+next_word: cacky
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: A local open-air market held regularly.
+prev_word: haars
+next_word: habit
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

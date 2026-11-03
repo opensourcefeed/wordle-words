@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A large, round, semi-permanent tent with vertical walls and a conical roof,
       usually associated with Central Asia and Mongolia (where it is known as a ger).
+prev_word: yurta
+next_word: yuzus
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

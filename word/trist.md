@@ -31,4 +31,15 @@ neighbours:
 - trest
 anagrams:
 - ritts
+prev_word: tripy
+next_word: trite
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

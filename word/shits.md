@@ -81,4 +81,13 @@ definitions:
     example: Twelve hundred dollars!? Are you shitting me!?
   - text: To annoy.
     example: That ad shits me to tears.
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

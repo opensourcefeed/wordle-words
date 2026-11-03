@@ -27,4 +27,13 @@ neighbours:
 anagrams:
 - equip
 - pique
+prev_word: pepsi
+next_word: perae
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

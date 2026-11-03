@@ -32,4 +32,15 @@ definitions:
 - pos: verb
   defs:
   - text: To open something by ripping/tearing.
+prev_word: unrig
+next_word: unsaw
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ip/"
+  label: Ending in IP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

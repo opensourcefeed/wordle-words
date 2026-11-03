@@ -29,4 +29,15 @@ neighbours:
 - oorie
 - outie
 - owrie
+prev_word: ourey
+next_word: ousel
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

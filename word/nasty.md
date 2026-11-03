@@ -56,4 +56,15 @@ definitions:
   - text: Awkward, difficult to navigate; dangerous.
   - text: Grave or dangerous (of an accident, illness etc.).
   - text: Formidable, terrific; wicked.
+prev_word: nason
+next_word: nasus
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

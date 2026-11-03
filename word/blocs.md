@@ -38,4 +38,15 @@ definitions:
       the European Union.'
     example: Climate change a security risk for EU, say bloc's foreign policy chiefs
       (EUobserver)
+prev_word: block
+next_word: blogs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 98
 neighbours:
 - tomos
+prev_word: tomos
+next_word: tonal
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

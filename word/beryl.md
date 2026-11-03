@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of a dull bluish green colour.
+prev_word: berth
+next_word: besat
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

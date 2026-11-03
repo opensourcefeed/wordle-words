@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - diker
 - irked
+prev_word: dirge
+next_word: dirks
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

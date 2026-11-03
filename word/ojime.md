@@ -27,4 +27,13 @@ neighbours:
 - oxime
 anagrams:
 - emoji
+prev_word: oiran
+next_word: okapi
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

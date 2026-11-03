@@ -28,4 +28,13 @@ neighbours:
 - abies
 - acies
 - amies
+prev_word: aizle
+next_word: ajiva
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

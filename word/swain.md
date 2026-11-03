@@ -37,4 +37,15 @@ definitions:
   - text: A knight's servant; an attendant.
   - text: A country labourer; a countryman, a rustic.
   - text: A rural lover; a male sweetheart in a pastoral setting.
+prev_word: swail
+next_word: swale
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

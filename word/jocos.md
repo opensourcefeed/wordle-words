@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _OCOS
   count: 6
+prev_word: jocky
+next_word: jodel
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,15 @@ neighbours:
 - claim
 - flair
 - glair
+prev_word: claim
+next_word: clame
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

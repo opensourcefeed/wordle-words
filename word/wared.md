@@ -51,4 +51,15 @@ definitions:
 - pos: verb
   defs:
   - text: To wear, or veer.
+prev_word: wards
+next_word: wares
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

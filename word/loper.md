@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _OPER
   count: 7
+prev_word: loped
+next_word: lopes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

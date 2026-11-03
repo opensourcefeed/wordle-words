@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - gnome
 - emong
+prev_word: genoa
+next_word: genre
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

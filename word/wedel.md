@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 80
 neighbours:
 - bedel
+prev_word: wecht
+next_word: wedge
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

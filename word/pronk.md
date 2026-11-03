@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(of a quadruped) To jump with all four limbs at once."
+prev_word: prong
+next_word: proof
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

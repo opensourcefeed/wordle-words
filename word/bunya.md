@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: The bunya pine, Araucaria bidwillii, native to Queensland.
+prev_word: bunty
+next_word: buoys
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ya/"
+  label: Ending in YA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

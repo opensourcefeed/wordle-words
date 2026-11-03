@@ -22,4 +22,15 @@ stats:
 neighbours:
 - girth
 - gursh
+prev_word: girrs
+next_word: girth
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

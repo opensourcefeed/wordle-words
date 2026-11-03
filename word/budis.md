@@ -26,4 +26,15 @@ neighbours:
 - budes
 - budos
 - rudis
+prev_word: budge
+next_word: budos
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -48,4 +48,15 @@ definitions:
 - pos: verb
   defs:
   - text: To address as "madam".
+prev_word: madal
+next_word: madar
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

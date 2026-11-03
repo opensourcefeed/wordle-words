@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: KAI_S
   count: 7
+prev_word: kaids
+next_word: kaifs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

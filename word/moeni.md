@@ -26,4 +26,15 @@ neighbours:
 - mooni
 anagrams:
 - monie
+prev_word: modus
+next_word: moers
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ni/"
+  label: Ending in NI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

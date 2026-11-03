@@ -47,4 +47,15 @@ definitions:
   - text: A sheave.
   - text: A beam or plank of split wood.
   - text: A flat, wide cork for plugging a large hole or closing a wide-mouthed bottle.
+prev_word: shiva
+next_word: shivs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

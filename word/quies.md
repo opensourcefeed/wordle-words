@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: QUI_S
   count: 7
+prev_word: quids
+next_word: quiet
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

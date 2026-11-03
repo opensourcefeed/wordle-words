@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - aport
 - porta
+prev_word: trape
+next_word: traps
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/po/"
+  label: Ending in PO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

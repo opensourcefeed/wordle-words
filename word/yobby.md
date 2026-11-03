@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _OBBY
   count: 10
+prev_word: yobbo
+next_word: yocks
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

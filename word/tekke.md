@@ -26,4 +26,15 @@ definitions:
 - pos: noun
   defs:
   - text: A dervish or Sufi lodge or place of worship
+prev_word: teins
+next_word: telae
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -89,4 +89,15 @@ definitions:
     example: The toast was too burnt to eat.
   - text: "(of a person) Having a sunburn."
   - text: "(of a colour) Being darker than standard, especially browner."
+prev_word: burns
+next_word: buroo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

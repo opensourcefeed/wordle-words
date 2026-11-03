@@ -43,4 +43,15 @@ definitions:
   - text: "(English law) A warrant of a judge for certain processes."
   - text: "(English law) An authority for certain proceedings given by the Lord Chancellor's
       signature."
+prev_word: fiars
+next_word: fiber
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

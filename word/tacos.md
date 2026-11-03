@@ -51,4 +51,15 @@ definitions:
 - pos: verb
   defs:
   - text: To fold or cause to buckle in half, similar to the way a taco is folded.
+prev_word: tacky
+next_word: tacts
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

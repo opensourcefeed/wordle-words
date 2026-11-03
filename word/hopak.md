@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Ukrainian national dance in 2/4 time.
+prev_word: hoove
+next_word: hoped
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

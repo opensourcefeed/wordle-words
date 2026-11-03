@@ -22,4 +22,15 @@ stats:
 anagrams:
 - popsy
 - soppy
+prev_word: psych
+next_word: ptish
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ps/"
+  label: Starting with PS
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

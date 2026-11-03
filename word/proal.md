@@ -32,4 +32,15 @@ anagrams:
 - polar
 - parol
 - poral
+prev_word: prize
+next_word: proas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

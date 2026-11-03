@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: BO_ED
   count: 8
+prev_word: boyau
+next_word: boyey
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

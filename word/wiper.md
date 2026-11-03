@@ -43,4 +43,15 @@ definitions:
   - text: A movable electric contact in some devices.
   - text: A junior role in the engine room of a ship, someone who wipes down machinery
       and generally keeps it clean.
+prev_word: wiped
+next_word: wipes
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

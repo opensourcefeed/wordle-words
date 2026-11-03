@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: Cotton or rayon cloth with shaded effect
+prev_word: jasey
+next_word: jasps
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

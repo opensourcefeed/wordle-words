@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: The cloth skullcap or yarmulke traditionally worn by male Jews.
+prev_word: kiosk
+next_word: kipas
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

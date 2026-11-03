@@ -51,4 +51,15 @@ definitions:
       otherwise would be unobtainable.
     example: We'll bury them in paperwork, and game the system.
   - text: "(of males) To perform premeditated seduction strategy."
+prev_word: gambs
+next_word: gamer
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 26
 neighbours:
 - anode
+prev_word: unmix
+next_word: unold
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _URRS
   count: 8
+prev_word: durra
+next_word: durry
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

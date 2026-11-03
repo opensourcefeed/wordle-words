@@ -42,4 +42,15 @@ definitions:
       derived from Mexican cuisine
   - text: A Philippine omelette of ground meat and potatoes.
   - text: A flat heap of moist, crushed silver ore, prepared for the patio process.
+prev_word: torso
+next_word: torte
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

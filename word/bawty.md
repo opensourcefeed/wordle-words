@@ -23,4 +23,15 @@ neighbours:
 - batty
 - bawdy
 - banty
+prev_word: bawrs
+next_word: bayas
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

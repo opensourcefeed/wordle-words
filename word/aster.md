@@ -60,4 +60,15 @@ definitions:
   - text: Any of several plants of the genus Aster; one of its flowers.
   - text: A star-shaped structure formed during the mitosis of a cell.
   - text: A star.
+prev_word: assot
+next_word: astir
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

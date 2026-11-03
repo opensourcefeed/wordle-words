@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _AIDS
   count: 10
+prev_word: kaiak
+next_word: kaies
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

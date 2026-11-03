@@ -46,4 +46,15 @@ definitions:
       corresponding part in other vertebrates.
   - text: "(Roman law) The power over other people, especially that of a man over
       his wife."
+prev_word: manul
+next_word: manzo
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

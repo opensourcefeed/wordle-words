@@ -26,4 +26,15 @@ neighbours:
 - heaps
 - heaty
 - hempy
+prev_word: heaps
+next_word: heard
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

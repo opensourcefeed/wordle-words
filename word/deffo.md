@@ -34,4 +34,13 @@ definitions:
   defs:
   - text: Definitely.
     example: He told me that he's deffo going to be there tonight.
+prev_word: defer
+next_word: defis
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -28,4 +28,15 @@ neighbours:
 - mobie
 - moble
 - moree
+prev_word: mobed
+next_word: mobes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

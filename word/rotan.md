@@ -36,4 +36,15 @@ anagrams:
 - orant
 - toran
 - trona
+prev_word: rotal
+next_word: rotas
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

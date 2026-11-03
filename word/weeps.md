@@ -50,4 +50,15 @@ definitions:
   - text: To hang the branches, as if in sorrow; to be pendent; to droop; said of
       a plant or its branches.
   - text: To weep over; to bewail.
+prev_word: weeny
+next_word: weepy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

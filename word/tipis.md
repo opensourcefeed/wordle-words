@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: Alternative form of teepee
+prev_word: tinty
+next_word: tippy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

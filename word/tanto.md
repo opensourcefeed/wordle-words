@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: A common type of Japanese dagger or knife. Alternative spelling of tantō
+prev_word: tanti
+next_word: tanty
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

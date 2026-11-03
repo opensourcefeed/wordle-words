@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A mountain nymph; an anthropomorphic appearance of the spirit of a mountain.
+prev_word: ordos
+next_word: orfes
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

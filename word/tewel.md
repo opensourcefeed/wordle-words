@@ -29,4 +29,15 @@ neighbours:
 - tewed
 anagrams:
 - tweel
+prev_word: tewed
+next_word: tewit
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -22,4 +22,13 @@ stats:
 neighbours:
 - ebena
 - epene
+prev_word: ebena
+next_word: ebike
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

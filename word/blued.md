@@ -45,4 +45,15 @@ definitions:
       more resistant to rust.
   - text: "(laundry) To brighten by treating with blue (laundry aid)"
   - text: To spend (money) extravagantly; to blow.
+prev_word: bludy
+next_word: bluer
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

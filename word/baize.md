@@ -39,4 +39,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cover or line with baize.
+prev_word: baiza
+next_word: bajan
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

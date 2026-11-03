@@ -41,4 +41,15 @@ definitions:
       heathland.
   - text: Any small evergreen shrub of the family Ericaceae.
   - text: Certain butterflies and moths
+prev_word: heast
+next_word: heats
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

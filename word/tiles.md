@@ -68,4 +68,15 @@ definitions:
   defs:
   - text: To protect from the intrusion of the uninitiated.
     example: tile the door
+prev_word: tiler
+next_word: tills
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

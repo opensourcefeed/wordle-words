@@ -30,4 +30,15 @@ neighbours:
 - gombo
 - jambo
 - zambo
+prev_word: gambe
+next_word: gambs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

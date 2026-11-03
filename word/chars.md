@@ -68,4 +68,15 @@ definitions:
 - pos: noun
   defs:
   - text: A character (text element such as a letter or symbol).
+prev_word: charr
+next_word: chart
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

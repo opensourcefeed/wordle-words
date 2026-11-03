@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: MA_TS
   count: 7
+prev_word: matte
+next_word: matty
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

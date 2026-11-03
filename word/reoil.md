@@ -27,4 +27,15 @@ stats:
 anagrams:
 - oiler
 - oriel
+prev_word: rents
+next_word: reorg
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

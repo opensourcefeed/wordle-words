@@ -36,4 +36,15 @@ definitions:
       Nepal, Pakistan, the Seychelles, or Sri Lanka, often abbreviated ₨.
   - text: A silver coin circulating in India between the 16th and 20th centuries,
       weighing one tola (formerly 170–180 troy grains; from 1833, 180 troy grains).
+prev_word: ruote
+next_word: rupia
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

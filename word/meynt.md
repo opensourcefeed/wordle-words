@@ -22,4 +22,15 @@ stats:
 neighbours:
 - meant
 - meint
+prev_word: mewls
+next_word: mezes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

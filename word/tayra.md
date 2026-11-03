@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A South American omnivore, Eira barbara, allied to the grison, with a long
       thick tail.
+prev_word: taxus
+next_word: tazza
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

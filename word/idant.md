@@ -25,4 +25,15 @@ neighbours:
 - ident
 anagrams:
 - daint
+prev_word: ictus
+next_word: iddah
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/id/"
+  label: Starting with ID
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

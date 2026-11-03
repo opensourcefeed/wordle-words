@@ -51,4 +51,15 @@ definitions:
 - pos: noun
   defs:
   - text: The national currency of Georgia, divided into 100 tetri.
+prev_word: largo
+next_word: larks
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

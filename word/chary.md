@@ -44,4 +44,15 @@ definitions:
   - text: Excessively particular or fussy about details; fastidious.
   - text: Not disposed to give freely; not lavish; frugal, sparing.
   - text: Cared for, regarded as precious; cherished.
+prev_word: chart
+next_word: chase
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

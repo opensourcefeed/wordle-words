@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _AUNT
   count: 9
+prev_word: saunf
+next_word: saury
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

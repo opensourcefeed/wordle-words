@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _OXES
   count: 11
+prev_word: hoxed
+next_word: hoyas
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

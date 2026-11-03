@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: A set of moral norms or customs derived from generally accepted practices
       rather than written laws.
+prev_word: morel
+next_word: morgy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

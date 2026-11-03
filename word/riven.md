@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: Torn apart.
   - text: Broken into pieces; split asunder.
+prev_word: rivel
+next_word: river
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

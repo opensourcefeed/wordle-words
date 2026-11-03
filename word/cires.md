@@ -46,4 +46,15 @@ anagrams:
 trap:
   pattern: _IRES
   count: 8
+prev_word: circs
+next_word: cirls
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

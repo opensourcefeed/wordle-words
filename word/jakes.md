@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _AKES
   count: 11
+prev_word: jaker
+next_word: jakey
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

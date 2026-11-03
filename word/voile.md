@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A light, translucent cotton fabric used for making curtains and dresses.
+prev_word: voila
+next_word: voips
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

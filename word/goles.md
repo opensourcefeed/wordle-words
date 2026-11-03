@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _OLES
   count: 13
+prev_word: golem
+next_word: golfs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

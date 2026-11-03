@@ -59,4 +59,15 @@ definitions:
     example: Don't cheek me, you little rascal!
   - text: To pull a horse's head back toward the saddle using the cheek strap of the
       bridle.
+prev_word: cheeb
+next_word: cheep
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

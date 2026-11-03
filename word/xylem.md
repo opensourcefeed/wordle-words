@@ -27,4 +27,13 @@ definitions:
   defs:
   - text: A vascular tissue in land plants primarily responsible for the distribution
       of water and minerals taken up by the roots; also the primary component of wood.
+prev_word: xylan
+next_word: xylic
+hubs:
+- url: "/starting-with/x/"
+  label: Starting with X
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

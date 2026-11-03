@@ -45,4 +45,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of or pertaining to medicines; medical.
+prev_word: media
+next_word: medii
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

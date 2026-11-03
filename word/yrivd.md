@@ -19,4 +19,11 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 72
+prev_word: yrent
+next_word: yrneh
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

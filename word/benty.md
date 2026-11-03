@@ -30,4 +30,15 @@ neighbours:
 - bunty
 - genty
 - tenty
+prev_word: bents
+next_word: bepat
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

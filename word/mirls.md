@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _IRLS
   count: 9
+prev_word: mirky
+next_word: mirly
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

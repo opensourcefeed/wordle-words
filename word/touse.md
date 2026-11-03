@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _OUSE
   count: 9
+prev_word: tours
+next_word: tousy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

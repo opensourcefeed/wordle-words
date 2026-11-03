@@ -28,4 +28,15 @@ anagrams:
 - acton
 - canto
 - octan
+prev_word: costs
+next_word: cotch
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

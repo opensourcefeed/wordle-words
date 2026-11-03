@@ -43,4 +43,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Prudish.
+prev_word: proyn
+next_word: prune
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

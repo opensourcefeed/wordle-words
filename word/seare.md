@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _EARE
   count: 9
+prev_word: seans
+next_word: sears
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

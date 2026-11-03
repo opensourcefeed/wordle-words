@@ -33,4 +33,15 @@ neighbours:
 - tenue
 - terne
 - tonne
+prev_word: tenia
+next_word: tenno
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

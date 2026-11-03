@@ -36,4 +36,15 @@ neighbours:
 anagrams:
 - heels
 - heles
+prev_word: sheds
+next_word: sheen
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

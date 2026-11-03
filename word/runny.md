@@ -46,4 +46,15 @@ definitions:
     example: runny honey
   - text: Liable to run or drip.
     example: a runny nose
+prev_word: runic
+next_word: runos
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

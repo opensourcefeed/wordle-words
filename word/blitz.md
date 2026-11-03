@@ -46,4 +46,15 @@ definitions:
     example: To make nut roast, you have to blitz the nuts in the food processor before
       adding the parsley and breadcrumbs.
   - text: To do something quickly or in one session.
+prev_word: blits
+next_word: blive
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/tz/"
+  label: Ending in TZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

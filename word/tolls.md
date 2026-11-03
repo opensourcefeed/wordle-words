@@ -85,4 +85,15 @@ definitions:
   - text: To suspend.
     example: The statute of limitations defense was tolled as a result of the defendant’s
       wrongful conduct.
+prev_word: toles
+next_word: tolly
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

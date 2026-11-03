@@ -50,4 +50,15 @@ definitions:
       yielded by Tectona grandis (and Tectona spp.).
   - text: A tree of the species in the genus Tectona
   - text: A yellowish brown colour, like that of teak wood.
+prev_word: teaed
+next_word: teals
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

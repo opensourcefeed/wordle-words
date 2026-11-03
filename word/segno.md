@@ -23,4 +23,15 @@ stats:
 neighbours:
 - legno
 - segni
+prev_word: segni
+next_word: segol
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

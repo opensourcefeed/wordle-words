@@ -42,4 +42,15 @@ definitions:
       reasonable or appropriate.
   - text: Excited.
     example: He's hyped about getting to kiss her in the final scene of the play.
+prev_word: hyoid
+next_word: hyper
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

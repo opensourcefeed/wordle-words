@@ -62,4 +62,15 @@ definitions:
   defs:
   - text: A kind of sieve.
   - text: A drain.
+prev_word: frier
+next_word: frigs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

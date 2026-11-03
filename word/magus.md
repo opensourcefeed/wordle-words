@@ -41,4 +41,15 @@ definitions:
   - text: "(common usage) magician, and derogatorily sorcerer, trickster, conjurer,
       charlatan"
   - text: "(special usage) a Zoroastrian priest"
+prev_word: magot
+next_word: mahal
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

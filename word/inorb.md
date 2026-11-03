@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 35
 anagrams:
 - robin
+prev_word: innit
+next_word: input
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

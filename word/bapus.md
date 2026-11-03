@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Father
+prev_word: bappu
+next_word: barbe
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

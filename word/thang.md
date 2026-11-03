@@ -71,4 +71,15 @@ definitions:
   - text: That which is favoured; personal preference. (Used in possessive constructions.)
   - text: A public assembly or judicial council in a Germanic country.
   - text: A romantic relationship.
+prev_word: thane
+next_word: thank
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

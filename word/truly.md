@@ -35,4 +35,15 @@ definitions:
     example: That is truly all I know.
   - text: "(degree) Very."
     example: You are truly silly.
+prev_word: trull
+next_word: trump
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

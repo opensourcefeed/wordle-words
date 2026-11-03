@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _AIKS
   count: 9
+prev_word: pahus
+next_word: pails
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

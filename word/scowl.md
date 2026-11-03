@@ -45,4 +45,15 @@ definitions:
     example: to scowl a rival into submission
   - text: To express by a scowl.
     example: to scowl defiance
+prev_word: scout
+next_word: scowp
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/wl/"
+  label: Ending in WL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

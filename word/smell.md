@@ -62,4 +62,15 @@ definitions:
   - text: To exercise sagacity.
   - text: To detect or perceive; often with out.
   - text: To give heed to.
+prev_word: smeke
+next_word: smelt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

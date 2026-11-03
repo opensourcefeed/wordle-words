@@ -24,4 +24,15 @@ definitions:
 - pos: noun
   defs:
   - text: The currency of Eritrea, divided into 100 cents.
+prev_word: naker
+next_word: nalas
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/fa/"
+  label: Ending in FA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

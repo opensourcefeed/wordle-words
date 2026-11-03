@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _AYER
   count: 7
+prev_word: fayed
+next_word: fayne
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

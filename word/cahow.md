@@ -26,4 +26,15 @@ definitions:
   defs:
   - text: An endangered nocturnal burrowing bird, Pterodroma cahow, from Bermuda;
       the Bermuda petrel.
+prev_word: cagot
+next_word: caids
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

@@ -27,4 +27,15 @@ anagrams:
 - abeys
 - abyes
 - bayes
+prev_word: abris
+next_word: absit
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

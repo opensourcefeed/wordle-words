@@ -30,4 +30,15 @@ definitions:
   - text: To confuse, mystify (a person); to make less acute or perceptive, to cloud
       (a person’s faculties).
   - text: To obscure, make less clear (a subject, issue, etc.).
+prev_word: befit
+next_word: begad
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/og/"
+  label: Ending in OG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

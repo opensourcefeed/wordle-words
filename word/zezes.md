@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _EZES
   count: 7
+prev_word: zexes
+next_word: zhomo
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/ze/"
+  label: Starting with ZE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A flat bread roll topped with onion flakes. Instead of a hole like a bagel,
       it has a depression in the middle.
+prev_word: biali
+next_word: bibbs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

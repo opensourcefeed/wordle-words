@@ -33,4 +33,15 @@ neighbours:
 - tunes
 anagrams:
 - usnea
+prev_word: aumil
+next_word: aunts
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

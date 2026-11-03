@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To endorse (a passport, etc.).
+prev_word: virus
+next_word: vised
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

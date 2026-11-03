@@ -31,4 +31,15 @@ neighbours:
 - ormer
 anagrams:
 - rearm
+prev_word: armed
+next_word: armet
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

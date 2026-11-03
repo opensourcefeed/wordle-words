@@ -59,4 +59,15 @@ definitions:
       little quantity or particle"
   - text: "(often used affectionately) A small or naughty person, or one you take
       pity on; rascal"
+prev_word: miter
+next_word: mitey
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

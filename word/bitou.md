@@ -27,4 +27,15 @@ neighbours:
 - bitos
 anagrams:
 - oubit
+prev_word: bitos
+next_word: bitsy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ou/"
+  label: Ending in OU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

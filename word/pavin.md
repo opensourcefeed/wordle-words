@@ -32,4 +32,15 @@ neighbours:
 - pavon
 - ravin
 - savin
+prev_word: pavie
+next_word: pavis
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

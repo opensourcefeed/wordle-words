@@ -23,4 +23,13 @@ neighbours:
 - muggs
 - vuggy
 - vughs
+prev_word: vrows
+next_word: vuggy
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

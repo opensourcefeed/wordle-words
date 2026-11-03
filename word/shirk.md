@@ -47,4 +47,15 @@ definitions:
       away.
     example: If you have a job, don't shirk from it by staying off work.
   - text: To procure by petty fraud and trickery; to obtain by mean solicitation.
+prev_word: shire
+next_word: shirr
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/rk/"
+  label: Ending in RK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To insert vernacular paraphrases into (a Latin liturgy).
+prev_word: farro
+next_word: farts
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

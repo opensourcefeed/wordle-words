@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: The pubic bone; the part of the hipbone forming the front arch of the pelvis
+prev_word: pubco
+next_word: pubic
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

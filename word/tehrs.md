@@ -26,4 +26,15 @@ neighbours:
 - tahrs
 - tears
 - teers
+prev_word: tehee
+next_word: teiid
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

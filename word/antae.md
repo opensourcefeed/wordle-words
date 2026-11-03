@@ -27,4 +27,15 @@ neighbours:
 - antar
 - antas
 - antre
+prev_word: ansas
+next_word: antar
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

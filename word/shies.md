@@ -59,4 +59,15 @@ definitions:
       away from the horse.
   - text: To throw sideways with a jerk; to fling
     example: shy a slipper
+prev_word: shier
+next_word: shift
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

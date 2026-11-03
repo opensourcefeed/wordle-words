@@ -54,4 +54,15 @@ definitions:
   - text: Any of several other species with similar corms and growth habit in Colocasia,
       Alocasia etc.
   - text: Food from a taro plant.
+prev_word: tarok
+next_word: tarot
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

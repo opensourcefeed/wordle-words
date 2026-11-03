@@ -26,4 +26,15 @@ anagrams:
 - brush
 - shrub
 - bruhs
+prev_word: buhls
+next_word: buiks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

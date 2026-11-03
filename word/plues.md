@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _LUES
   count: 6
+prev_word: pluds
+next_word: pluff
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

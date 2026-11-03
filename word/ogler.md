@@ -28,4 +28,15 @@ neighbours:
 - oiler
 - oller
 - owler
+prev_word: ogled
+next_word: ogles
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/og/"
+  label: Starting with OG
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

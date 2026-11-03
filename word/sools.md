@@ -47,4 +47,15 @@ definitions:
   - text: To encourage (especially a dog) to attack.
     example: My neighbour sooled her bull mastiff onto my chihuahua, because she was
       sick of its yapping and wanted it to meet its demise.
+prev_word: soole
+next_word: sooms
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -62,4 +62,15 @@ definitions:
   defs:
   - text: A coconut with soft or gelatinous meat inside as well as the meat itself
       (which is of regular quality if the coconut is immature)
+prev_word: gelid
+next_word: gelts
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 90
 neighbours:
 - vinic
+prev_word: dingy
+next_word: dinks
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

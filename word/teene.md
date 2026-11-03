@@ -26,4 +26,15 @@ neighbours:
 - teeny
 - tenne
 - terne
+prev_word: teend
+next_word: teens
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

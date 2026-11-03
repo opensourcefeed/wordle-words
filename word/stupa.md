@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A dome-shaped Buddhist monument, used to house relics of the Lord Buddha.
+prev_word: stunt
+next_word: stupe
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

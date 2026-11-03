@@ -22,4 +22,15 @@ stats:
 neighbours:
 - disco
 - discs
+prev_word: disas
+next_word: disco
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ci/"
+  label: Ending in CI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

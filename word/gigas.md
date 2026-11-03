@@ -27,4 +27,15 @@ neighbours:
 - gilas
 - gugas
 - vigas
+prev_word: gifts
+next_word: gighe
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

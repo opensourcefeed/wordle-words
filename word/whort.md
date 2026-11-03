@@ -29,4 +29,15 @@ anagrams:
 - worth
 - rowth
 - wroth
+prev_word: whorl
+next_word: whose
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

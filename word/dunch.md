@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _UNCH
   count: 7
+prev_word: dunce
+next_word: dunes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

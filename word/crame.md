@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: CRA_E
   count: 8
+prev_word: crake
+next_word: cramp
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

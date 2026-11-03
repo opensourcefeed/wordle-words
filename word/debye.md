@@ -29,4 +29,15 @@ definitions:
   - text: The CGS unit of electric dipole moment, defined as 1 D = 10-18 statcoulomb-centimetre
       and computable from the SI unit coulomb-metre by multiplying by the factor 3.33564
       × 10-30.
+prev_word: debut
+next_word: decad
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ye/"
+  label: Ending in YE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

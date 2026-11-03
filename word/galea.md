@@ -40,4 +40,15 @@ definitions:
       a galea (helmet).
   - text: A kind of bandage for the head.
   - text: A headache extending all over the head.
+prev_word: galax
+next_word: galed
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

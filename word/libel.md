@@ -50,4 +50,15 @@ definitions:
       of libel.
     example: He libelled her when he published that.
   - text: To proceed against (a ship, goods, etc.) by filing a libel.
+prev_word: liart
+next_word: liber
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

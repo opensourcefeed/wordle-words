@@ -27,4 +27,15 @@ neighbours:
 - rains
 - ranns
 - rawns
+prev_word: rauli
+next_word: raupo
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

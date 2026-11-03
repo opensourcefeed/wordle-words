@@ -35,4 +35,15 @@ neighbours:
 - zaire
 anagrams:
 - perai
+prev_word: paips
+next_word: pairs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -31,4 +31,15 @@ anagrams:
 - ramus
 - rusma
 - umras
+prev_word: masty
+next_word: masus
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

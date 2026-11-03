@@ -54,4 +54,15 @@ definitions:
   - text: "(chiefly dialectal) To pick, select, pick out; to pick up."
   - text: "(chiefly dialectal) To glean."
   - text: "(chiefly dialectal) To glean, gather up leavings."
+prev_word: leary
+next_word: leash
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

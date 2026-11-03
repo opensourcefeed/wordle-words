@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A long, narrow depression that resembles a channel, found on the surface
       of various lunar and planetary bodies.
+prev_word: riley
+next_word: rills
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

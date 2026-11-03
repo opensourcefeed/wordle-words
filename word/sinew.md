@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To knit together or make strong with, or as if with, sinews.
+prev_word: sines
+next_word: singe
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ew/"
+  label: Ending in EW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

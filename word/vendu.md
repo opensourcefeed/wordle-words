@@ -24,4 +24,15 @@ neighbours:
 - rendu
 - tendu
 - vends
+prev_word: vends
+next_word: veney
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/du/"
+  label: Ending in DU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

@@ -58,4 +58,15 @@ definitions:
     example: to own one as a son
   - text: To claim as one's own.
   - text: To confess.
+prev_word: owlet
+next_word: owner
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ow/"
+  label: Starting with OW
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

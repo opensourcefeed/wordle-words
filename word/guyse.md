@@ -22,4 +22,15 @@ stats:
 neighbours:
 - guise
 - guyle
+prev_word: guyot
+next_word: gwine
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

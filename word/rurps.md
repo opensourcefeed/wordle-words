@@ -28,4 +28,15 @@ neighbours:
 - turps
 anagrams:
 - purrs
+prev_word: rural
+next_word: rurus
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -49,4 +49,15 @@ definitions:
       pronoun used without a following noun.
   - text: Written at the end of a letter, before the signature.
     example: Yours sincerely,  Yours faithfully,  Yours,  Sincerely yours,
+prev_word: yourn
+next_word: yourt
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

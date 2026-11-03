@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Neat, well-groomed, natty.
+prev_word: netts
+next_word: neuks
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -28,4 +28,15 @@ neighbours:
 - syncs
 - synes
 - wynds
+prev_word: syncs
+next_word: syned
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

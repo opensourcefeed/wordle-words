@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: The rhesus macaque.
+prev_word: brugh
+next_word: bruin
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

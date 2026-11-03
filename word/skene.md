@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: 'An element of ancient Greek theater: the structure at the back of the stage.'
+prev_word: skelp
+next_word: skens
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Pertaining to, or connected with, a fetus.
     example: fetal circulation
+prev_word: festy
+next_word: fetas
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

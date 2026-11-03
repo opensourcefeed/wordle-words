@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: Indian antelope; blackbuck
+prev_word: saser
+next_word: sasse
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

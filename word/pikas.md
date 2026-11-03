@@ -47,4 +47,15 @@ definitions:
   - text: Any of several small, furry mammals, similar to guinea pigs, but related
       to rabbits, of the family Ochotonidae, from the mountains of North America and
       Asia.
+prev_word: piing
+next_word: pikau
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

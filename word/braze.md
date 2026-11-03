@@ -50,4 +50,15 @@ definitions:
   - text: To join two metal pieces, without melting them, using heat and diffusion
       of a jointing alloy of capillary thickness.
   - text: To burn or temper in fire.
+prev_word: braza
+next_word: bread
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

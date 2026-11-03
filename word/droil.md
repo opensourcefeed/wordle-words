@@ -29,4 +29,15 @@ neighbours:
 - drool
 - drail
 - droid
+prev_word: droid
+next_word: droit
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

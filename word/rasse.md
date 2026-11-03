@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ASSE
   count: 6
+prev_word: raspy
+next_word: rasta
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

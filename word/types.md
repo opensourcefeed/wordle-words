@@ -82,4 +82,15 @@ definitions:
   - text: To represent by a type, model, or symbol beforehand; to prefigure.
   - text: To furnish an expression or copy of; to represent; to typify.
   - text: To categorize into types.
+prev_word: typed
+next_word: typey
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

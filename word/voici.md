@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 93
 neighbours:
 - voice
+prev_word: voice
+next_word: voids
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ci/"
+  label: Ending in CI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

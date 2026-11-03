@@ -36,4 +36,15 @@ definitions:
   - text: A console that appears to support a cornice.
   - text: The elbow.
   - text: The olecranon.
+prev_word: ancle
+next_word: andic
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

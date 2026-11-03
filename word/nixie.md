@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A female nix, a water-spirit.
+prev_word: nixes
+next_word: nizam
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

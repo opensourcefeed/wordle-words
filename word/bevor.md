@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 34
 neighbours:
 - bever
+prev_word: bever
+next_word: bevue
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

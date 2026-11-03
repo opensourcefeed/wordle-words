@@ -22,4 +22,15 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 18
+prev_word: sadza
+next_word: safed
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

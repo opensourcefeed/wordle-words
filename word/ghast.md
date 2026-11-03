@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - gaths
 - ghats
+prev_word: geyer
+next_word: ghats
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gh/"
+  label: Starting with GH
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

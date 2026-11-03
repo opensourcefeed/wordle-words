@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: To make (someone) used to; to accustom.
   - text: To be accustomed (to something), to be in the habit (of doing something).
+prev_word: wonky
+next_word: woods
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: The light-colored, orangish head of foam on a cup of espresso.
+prev_word: crein
+next_word: creme
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -33,4 +33,15 @@ anagrams:
 - atria
 - raita
 - riata
+prev_word: taint
+next_word: taish
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

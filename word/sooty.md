@@ -50,4 +50,15 @@ definitions:
   - text: Soiled with soot
   - text: Of the color of soot.
   - text: Dark-skinned; black.
+prev_word: soots
+next_word: sophs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

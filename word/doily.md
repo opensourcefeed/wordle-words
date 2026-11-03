@@ -45,4 +45,15 @@ definitions:
       from scratches by hard objects such as vases or bowls; or to decorate a plate
       of food.
   - text: An old kind of woollen material.
+prev_word: doilt
+next_word: doing
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

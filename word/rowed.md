@@ -53,4 +53,15 @@ definitions:
 - pos: verb
   defs:
   - text: To argue noisily
+prev_word: rowdy
+next_word: rowel
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

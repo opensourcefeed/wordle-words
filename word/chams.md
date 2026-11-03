@@ -55,4 +55,15 @@ definitions:
 - pos: noun
   defs:
   - text: A caravanserai; a resting-place for a travelling caravan.
+prev_word: champ
+next_word: chana
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A coconut.
+prev_word: bukes
+next_word: bulbs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

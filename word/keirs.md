@@ -33,4 +33,15 @@ anagrams:
 - kiers
 - reiks
 - siker
+prev_word: kehua
+next_word: kelep
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

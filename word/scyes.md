@@ -25,4 +25,15 @@ neighbours:
 - styes
 anagrams:
 - syces
+prev_word: scuzz
+next_word: sdayn
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

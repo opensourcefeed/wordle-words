@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Cumin
+prev_word: zedas
+next_word: zeins
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/ze/"
+  label: Starting with ZE
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

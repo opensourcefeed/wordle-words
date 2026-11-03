@@ -17,4 +17,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 80
+prev_word: kybos
+next_word: kyles
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

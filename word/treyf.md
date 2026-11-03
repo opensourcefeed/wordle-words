@@ -24,4 +24,13 @@ neighbours:
 - trayf
 - treif
 - treys
+prev_word: trews
+next_word: treys
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

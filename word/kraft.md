@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A kind of strong, smooth brown wrapping paper.
+prev_word: krabs
+next_word: krais
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

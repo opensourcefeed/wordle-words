@@ -45,4 +45,15 @@ definitions:
   - text: 'Modifies a verb, indicating a lack of certainty: it may be that...'
   - text: "(as a pro-sentence) Perhaps that is true (expressing no commitment to a
       decision or a neutral viewpoint to a statement)."
+prev_word: mayas
+next_word: mayed
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

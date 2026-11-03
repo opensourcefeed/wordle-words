@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To wind or weave into a skein.
+prev_word: skegs
+next_word: skelf
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

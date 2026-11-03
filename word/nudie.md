@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: Entertainment involving naked people, especially women.
+prev_word: nudgy
+next_word: nudzh
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

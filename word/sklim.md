@@ -23,4 +23,15 @@ neighbours:
 - sclim
 anagrams:
 - milks
+prev_word: skivy
+next_word: skoal
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

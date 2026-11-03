@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: DO_ED
   count: 9
+prev_word: douts
+next_word: doven
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

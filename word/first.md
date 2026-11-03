@@ -57,4 +57,15 @@ definitions:
     example: Clean the sink first, before you even think of starting to cook.
   - text: For the first time;
     example: I first witnessed a death when I was nine years old.
+prev_word: firry
+next_word: firth
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

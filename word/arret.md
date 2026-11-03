@@ -32,4 +32,15 @@ anagrams:
 - arter
 - rater
 - tarre
+prev_word: array
+next_word: arris
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

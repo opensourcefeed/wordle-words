@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: Any substance or antibody that can cause the destruction (by lysis) of blood
       cells, bacteria etc
+prev_word: lyses
+next_word: lysis
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -51,4 +51,15 @@ definitions:
 - pos: verb
   defs:
   - text: To entice or lure
+prev_word: wilds
+next_word: wiles
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

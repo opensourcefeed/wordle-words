@@ -24,4 +24,13 @@ stats:
 neighbours:
 - poule
 - poult
+prev_word: poule
+next_word: poult
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

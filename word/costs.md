@@ -68,4 +68,15 @@ definitions:
   defs:
   - text: A rib; a side.
   - text: A cottise.
+prev_word: coste
+next_word: cotan
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

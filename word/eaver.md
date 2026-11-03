@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _AVER
   count: 10
+prev_word: eaved
+next_word: eaves
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

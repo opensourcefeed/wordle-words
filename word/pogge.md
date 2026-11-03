@@ -26,4 +26,15 @@ neighbours:
 - poggy
 - pogue
 - porge
+prev_word: pogey
+next_word: poggy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

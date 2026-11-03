@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _INED
   count: 9
+prev_word: sinds
+next_word: sines
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

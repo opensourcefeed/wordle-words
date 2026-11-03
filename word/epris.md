@@ -31,4 +31,15 @@ anagrams:
 - ripes
 - speir
 - spier
+prev_word: eppie
+next_word: equal
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ep/"
+  label: Starting with EP
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

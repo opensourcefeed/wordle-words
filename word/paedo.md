@@ -36,4 +36,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Paedophile, paedophiliac.
+prev_word: paean
+next_word: paeon
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

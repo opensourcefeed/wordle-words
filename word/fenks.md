@@ -29,4 +29,15 @@ neighbours:
 - funks
 - penks
 - renks
+prev_word: fenis
+next_word: fenny
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

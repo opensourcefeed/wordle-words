@@ -25,4 +25,15 @@ neighbours:
 - fifes
 - finis
 - hifis
+prev_word: fifes
+next_word: fifth
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

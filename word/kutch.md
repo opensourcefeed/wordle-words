@@ -29,4 +29,15 @@ neighbours:
 trap:
   pattern: _UTCH
   count: 6
+prev_word: kutas
+next_word: kutis
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

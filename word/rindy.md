@@ -26,4 +26,15 @@ neighbours:
 - lindy
 - rinds
 - ringy
+prev_word: rinds
+next_word: rines
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

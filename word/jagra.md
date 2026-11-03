@@ -21,4 +21,15 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 88
+prev_word: jagir
+next_word: jails
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

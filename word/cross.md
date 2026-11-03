@@ -107,4 +107,15 @@ definitions:
     example: She walked cross the mountains.
   - text: Cross product of the previous vector and the following vector.
     example: The Lorentz force is q times v cross B.
+prev_word: crore
+next_word: crost
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

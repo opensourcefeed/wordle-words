@@ -56,4 +56,15 @@ definitions:
     example: a merry jest
   - text: Drunk; tipsy
     example: Some of us got a little merry at the office Christmas party.
+prev_word: merls
+next_word: merse
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -32,4 +32,15 @@ anagrams:
 trap:
   pattern: _UNDS
   count: 6
+prev_word: kunas
+next_word: kuris
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

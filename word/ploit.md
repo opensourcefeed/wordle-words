@@ -30,4 +30,15 @@ neighbours:
 - plowt
 anagrams:
 - pilot
+prev_word: plods
+next_word: plomb
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

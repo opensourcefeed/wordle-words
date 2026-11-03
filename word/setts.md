@@ -47,4 +47,15 @@ definitions:
   - text: The pattern of distinctive threads and yarns that make up the plaid of a
       Scottish tartan.
   - text: A small, square-cut piece of quarried stone used for paving and edging.
+prev_word: seton
+next_word: setup
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

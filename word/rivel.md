@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: RIVE_
   count: 6
+prev_word: rived
+next_word: riven
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

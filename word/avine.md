@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - naive
 - naevi
+prev_word: avian
+next_word: avion
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/av/"
+  label: Starting with AV
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

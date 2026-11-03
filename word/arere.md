@@ -33,4 +33,15 @@ neighbours:
 - frere
 anagrams:
 - raree
+prev_word: arepa
+next_word: arete
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

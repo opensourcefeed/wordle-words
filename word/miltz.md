@@ -24,4 +24,15 @@ stats:
 neighbours:
 - milts
 - milty
+prev_word: milty
+next_word: mimed
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/tz/"
+  label: Ending in TZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

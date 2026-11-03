@@ -24,4 +24,15 @@ neighbours:
 - kauri
 - kauru
 - saury
+prev_word: kauru
+next_word: kaval
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: To disarm, to remove the armour and weapons from.
   - text: To remove one's armour.
+prev_word: unapt
+next_word: unary
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/rm/"
+  label: Ending in RM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

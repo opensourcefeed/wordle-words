@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: CUR_S
   count: 7
+prev_word: curly
+next_word: curny
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

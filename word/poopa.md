@@ -31,4 +31,15 @@ neighbours:
 - poppa
 anagrams:
 - apoop
+prev_word: poons
+next_word: poops
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

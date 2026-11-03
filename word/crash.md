@@ -78,4 +78,15 @@ definitions:
   defs:
   - text: Quick, fast, intensive, impromptu.
     example: crash diet
+prev_word: crare
+next_word: crass
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

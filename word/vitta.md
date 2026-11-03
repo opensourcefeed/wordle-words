@@ -34,4 +34,15 @@ definitions:
   - text: A fillet, or garland for the head.
   - text: A longitudinal stripe.
   - text: An oil tube in the fruit of some plants.
+prev_word: vitro
+next_word: vivas
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

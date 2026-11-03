@@ -40,4 +40,15 @@ definitions:
   - text: A mop, especially on a ship.
   - text: A sailor; a swabby.
   - text: A naval officer's epaulet.
+prev_word: swizz
+next_word: swole
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

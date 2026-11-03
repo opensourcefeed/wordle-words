@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: GENI_
   count: 6
+prev_word: genii
+next_word: genio
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -45,4 +45,15 @@ definitions:
       International d''Unités), equal to the distance travelled by light in a vacuum
       in 1/299 792 458 seconds. The metre is equal to 39 47/127 (approximately 39.37)
       imperial inches.'
+prev_word: metol
+next_word: metro
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

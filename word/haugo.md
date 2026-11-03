@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 53
 neighbours:
 - haugh
+prev_word: haugh
+next_word: hauld
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

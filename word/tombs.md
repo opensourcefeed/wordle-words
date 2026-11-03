@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To bury.
+prev_word: tombo
+next_word: tomen
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

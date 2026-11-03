@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Rastafarian
   - text: Diminutive of rastaquouère
+prev_word: rasse
+next_word: ratal
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

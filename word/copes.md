@@ -71,4 +71,15 @@ definitions:
   - text: To make return for; to requite; to repay.
   - text: To match oneself against; to meet; to encounter.
   - text: To encounter; to meet; to have to do with.
+prev_word: coper
+next_word: copha
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _IRES
   count: 8
+prev_word: vireo
+next_word: virga
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

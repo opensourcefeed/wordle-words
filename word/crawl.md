@@ -66,4 +66,15 @@ definitions:
   - text: To visit files or web sites in order to index them for searching.
     example: Yahoo Search has updated its Slurp Crawler to crawl web sites faster
       and more efficiently.
+prev_word: crave
+next_word: craws
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/wl/"
+  label: Ending in WL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

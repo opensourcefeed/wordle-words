@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To catch with a lasso.
+prev_word: lassi
+next_word: lassu
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

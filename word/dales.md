@@ -53,4 +53,15 @@ definitions:
 - pos: noun
   defs:
   - text: A trough or spout to carry off water, as from a pump.
+prev_word: dalek
+next_word: dalis
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

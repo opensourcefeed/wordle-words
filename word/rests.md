@@ -105,4 +105,15 @@ definitions:
 - pos: verb
   defs:
   - text: To arrest.
+prev_word: resto
+next_word: resty
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

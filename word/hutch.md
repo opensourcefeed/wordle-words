@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To hoard or lay up, in a chest.
   - text: To wash (ore) in a box or jig.
+prev_word: hussy
+next_word: hutia
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -28,4 +28,13 @@ definitions:
 - pos: noun
   defs:
   - text: Any plant of the subfamily Mesembryanthemoideae, succulent groundcovers.
+prev_word: vutty
+next_word: vying
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

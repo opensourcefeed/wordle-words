@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: LEA_Y
   count: 6
+prev_word: leant
+next_word: leaps
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

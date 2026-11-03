@@ -37,4 +37,15 @@ anagrams:
 - pests
 - septs
 - steps
+prev_word: spesh
+next_word: speug
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

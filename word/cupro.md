@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: Rayon made by the cuproammonium process
+prev_word: cuppy
+next_word: curat
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

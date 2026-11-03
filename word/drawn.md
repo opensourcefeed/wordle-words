@@ -58,4 +58,15 @@ definitions:
   defs:
   - text: Appearing tired and unwell, as from stress; haggard.
   - text: 'Of a game: undecided; having no definite winner and loser.'
+prev_word: drawl
+next_word: draws
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

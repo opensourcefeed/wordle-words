@@ -25,4 +25,15 @@ neighbours:
 anagrams:
 - jamun
 - munja
+prev_word: unity
+next_word: unked
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

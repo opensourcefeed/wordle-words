@@ -34,4 +34,13 @@ definitions:
   defs:
   - text: A gold coin, minted in the Roman Empire from approximately 100 B.C.E. to
       309 C.E., equal to 25 denarii.
+prev_word: auras
+next_word: aures
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

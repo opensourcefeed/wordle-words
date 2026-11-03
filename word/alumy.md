@@ -23,4 +23,15 @@ stats:
 neighbours:
 - alums
 - plumy
+prev_word: alums
+next_word: alure
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

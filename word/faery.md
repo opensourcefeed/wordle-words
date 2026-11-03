@@ -39,4 +39,15 @@ definitions:
   - text: An enchantress, or creature of overpowering charm.
   - text: A male homosexual, especially one who is effeminate.
   - text: A member of two species of hummingbird in the genus Heliothryx.
+prev_word: faena
+next_word: faffs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

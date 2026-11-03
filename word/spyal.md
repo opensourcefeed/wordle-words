@@ -26,4 +26,15 @@ anagrams:
 - palsy
 - plays
 - splay
+prev_word: sputa
+next_word: spyre
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

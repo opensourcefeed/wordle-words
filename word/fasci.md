@@ -23,4 +23,15 @@ stats:
 neighbours:
 - farci
 - fasti
+prev_word: farts
+next_word: fasti
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ci/"
+  label: Ending in CI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Any of several trees or shrubs of the genus Alnus, belonging to the birch
       family.
+prev_word: aldea
+next_word: aldol
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

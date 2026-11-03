@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 32
 anagrams:
 - dobie
+prev_word: obias
+next_word: obiit
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ob/"
+  label: Starting with OB
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

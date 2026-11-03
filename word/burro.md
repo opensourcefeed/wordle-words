@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A small donkey
+prev_word: burra
+next_word: burrs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

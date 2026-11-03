@@ -28,4 +28,15 @@ neighbours:
 - purry
 - pursy
 - purty
+prev_word: purps
+next_word: purre
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

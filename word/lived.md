@@ -74,4 +74,15 @@ definitions:
   defs:
   - text: "(in combination) Having a specified duration of life."
     example: a short-lived recycling scheme
+prev_word: litre
+next_word: liven
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

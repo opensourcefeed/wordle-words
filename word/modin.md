@@ -25,4 +25,15 @@ neighbours:
 - medin
 - modii
 - morin
+prev_word: modii
+next_word: modoc
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

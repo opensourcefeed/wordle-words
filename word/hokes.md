@@ -95,4 +95,15 @@ definitions:
       ỏ.
   - text: A háček.
   - text: Senses relating to sports.
+prev_word: hoked
+next_word: hokey
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

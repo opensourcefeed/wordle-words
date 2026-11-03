@@ -125,4 +125,15 @@ definitions:
   defs:
   - text: "(rural) A wing."
     example: The bullet barely grazed the wild fowl's fly.
+prev_word: flier
+next_word: flimp
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

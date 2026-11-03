@@ -26,4 +26,15 @@ neighbours:
 - perle
 anagrams:
 - pleep
+prev_word: pepla
+next_word: pepon
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

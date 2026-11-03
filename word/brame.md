@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: BRA_E
   count: 6
+prev_word: braky
+next_word: brand
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

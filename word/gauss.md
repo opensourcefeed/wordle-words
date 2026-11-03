@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: The unit of magnetic field strength in CGS systems of units, equal to 0.0001
       tesla.
+prev_word: gaurs
+next_word: gauze
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -24,4 +24,15 @@ neighbours:
 - scout
 - scoog
 - scoup
+prev_word: scots
+next_word: scoup
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ug/"
+  label: Ending in UG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

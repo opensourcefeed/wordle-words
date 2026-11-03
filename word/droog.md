@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A violent young gang member or a hooligan.
+prev_word: droob
+next_word: drook
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/og/"
+  label: Ending in OG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

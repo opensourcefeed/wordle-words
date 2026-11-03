@@ -46,4 +46,15 @@ definitions:
   - text: Any molecule, cell, or tissue of an organism's own (belonging to the self),
       as opposed to a foreign (nonself) molecule, cell, or tissue (for example, infective,
       allogenic, or xenogenic).
+prev_word: seles
+next_word: selfy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

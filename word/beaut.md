@@ -43,4 +43,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Beautiful, splendid.
+prev_word: beaus
+next_word: beaux
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

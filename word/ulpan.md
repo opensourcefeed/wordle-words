@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 39
 anagrams:
 - unlap
+prev_word: ulnas
+next_word: ultra
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ul/"
+  label: Starting with UL
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

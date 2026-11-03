@@ -40,4 +40,15 @@ definitions:
   - text: Common in a boring way, to the point of being predictable; containing nothing
       new or fresh.
   - text: "(history) Relating to a type of feudal jurisdiction or service."
+prev_word: banak
+next_word: banco
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -44,4 +44,15 @@ definitions:
 - pos: numeral
   defs:
   - text: The cardinal number occurring after thirty-nine and before forty-one.
+prev_word: forts
+next_word: forum
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -31,4 +31,15 @@ neighbours:
 - shoos
 anagrams:
 - hoons
+prev_word: shool
+next_word: shoos
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

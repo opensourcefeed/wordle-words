@@ -25,4 +25,15 @@ stats:
 neighbours:
 - mezze
 - mezzo
+prev_word: mezes
+next_word: mezze
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

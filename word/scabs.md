@@ -61,4 +61,15 @@ definitions:
   - text: To act as a strikebreaker.
   - text: To beg (for), to cadge or bum.
     example: I scabbed some money off a friend.
+prev_word: sazes
+next_word: scads
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

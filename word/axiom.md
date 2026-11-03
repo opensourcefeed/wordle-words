@@ -40,4 +40,15 @@ definitions:
   - text: An established principle in some artistic practice or science that is universally
       received.
     example: The axioms of political economy cannot be considered absolute truths.
+prev_word: axing
+next_word: axion
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ax/"
+  label: Starting with AX
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

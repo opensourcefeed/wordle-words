@@ -53,4 +53,15 @@ definitions:
       in the back lower tier, or on a separate tier above the mezzanine.
   - text: An exclusive box or seating region in older theaters and opera houses, having
       wider, softer, and more widely spaced seats than in the gallery.
+prev_word: logan
+next_word: loggy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

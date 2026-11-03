@@ -36,4 +36,15 @@ neighbours:
 - rouls
 anagrams:
 - louns
+prev_word: noule
+next_word: nouns
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

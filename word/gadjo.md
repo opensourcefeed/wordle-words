@@ -24,4 +24,13 @@ stats:
 neighbours:
 - gadje
 - gadso
+prev_word: gadje
+next_word: gadso
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

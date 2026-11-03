@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: The innermost sanctuary or shrine in a temple, from where oracles were given.
   - text: "(by extension) A private chamber; a sanctum."
+prev_word: advts
+next_word: adyts
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

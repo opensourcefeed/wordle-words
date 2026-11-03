@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 84
 neighbours:
 - cuddy
+prev_word: cucks
+next_word: cuddy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

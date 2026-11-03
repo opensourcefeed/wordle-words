@@ -28,4 +28,13 @@ neighbours:
 trap:
   pattern: BUND_
   count: 6
+prev_word: bunde
+next_word: bunds
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

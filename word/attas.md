@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of wholegrain flour from the Indian subcontinent.
+prev_word: attar
+next_word: atter
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

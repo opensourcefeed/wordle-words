@@ -47,4 +47,15 @@ definitions:
   - text: Lean, angular and bony
   - text: Haggard, drawn and emaciated
   - text: Bleak, barren and desolate
+prev_word: gaumy
+next_word: gaups
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -23,4 +23,15 @@ neighbours:
 - pudsy
 - pursy
 - pussy
+prev_word: pubis
+next_word: pucan
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

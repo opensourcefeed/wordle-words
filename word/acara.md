@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: Any of a number of Central American and South American freshwater fish in
       the family Cichlidae.
+prev_word: acais
+next_word: acari
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

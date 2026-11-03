@@ -54,4 +54,15 @@ definitions:
   - text: To hit, clout, belt, wallop.
   - text: To hunt at night using a lamp; see lamping.
   - text: To hang out or chill; to do nothing in particular.
+prev_word: lammy
+next_word: lanai
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

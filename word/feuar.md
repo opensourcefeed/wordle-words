@@ -22,4 +22,15 @@ stats:
   rare: []
   starter_tier: Good
   starter_top_percent: 8
+prev_word: fetwa
+next_word: feuds
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

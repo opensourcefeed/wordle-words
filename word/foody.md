@@ -38,4 +38,15 @@ definitions:
   - text: Eatable; fit for food or consumption.
   - text: Food-bearing; fertile; fruitful.
   - text: Of, relating to, composed of, or supplying food.
+prev_word: foods
+next_word: fools
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

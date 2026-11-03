@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _OWIE
   count: 8
+prev_word: power
+next_word: powin
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

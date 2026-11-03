@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Japanese martial art using "swords" of split bamboo.
+prev_word: kench
+next_word: kenos
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

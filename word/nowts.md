@@ -33,4 +33,15 @@ anagrams:
 - stown
 - towns
 - wonts
+prev_word: nowls
+next_word: nowty
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

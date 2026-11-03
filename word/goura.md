@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Any of several crested ground-dwelling pigeons, of the genus Goura, from
       New Guinea
+prev_word: gouks
+next_word: gourd
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

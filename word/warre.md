@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: _ARRE
   count: 6
+prev_word: warps
+next_word: warst
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

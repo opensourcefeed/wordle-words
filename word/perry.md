@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A fermented alcoholic beverage made from pears; somewhat analogous to cider.
+prev_word: perps
+next_word: perse
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

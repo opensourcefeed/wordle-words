@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: The sacred fig, Ficus religiosa.
+prev_word: pioys
+next_word: pipas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -63,4 +63,15 @@ definitions:
   - text: The whole of the land which constituted the domain.
   - text: A collection of houses enclosed by fences or walls.
   - text: A farm or farmstead; also, a court or farmyard.
+prev_word: towno
+next_word: towny
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

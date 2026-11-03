@@ -24,4 +24,15 @@ neighbours:
 - farcy
 anagrams:
 - cardy
+prev_word: darbs
+next_word: dared
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

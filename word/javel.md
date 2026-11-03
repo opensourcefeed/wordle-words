@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _AVEL
   count: 7
+prev_word: javas
+next_word: jawan
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

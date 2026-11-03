@@ -38,4 +38,15 @@ definitions:
   - text: To be satisfied or receive pleasure.
     example: I enjoyed a lot.
   - text: To have sexual intercourse with.
+prev_word: eniac
+next_word: enlit
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/oy/"
+  label: Ending in OY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

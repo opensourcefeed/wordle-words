@@ -25,4 +25,15 @@ neighbours:
 - aspen
 anagrams:
 - paren
+prev_word: arpas
+next_word: arrah
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

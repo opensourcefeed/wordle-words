@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _AKER
   count: 12
+prev_word: rakee
+next_word: rakes
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

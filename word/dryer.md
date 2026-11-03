@@ -51,4 +51,15 @@ definitions:
       water or humidity.
   - text: A catalyst used to promote the drying of paints and varnishes by oxidative
       crosslinking.
+prev_word: dryas
+next_word: dryly
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

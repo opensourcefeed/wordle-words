@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: A Tibetan building which makes up a prefecture; typically a monastery or
       fortress.
+prev_word: jones
+next_word: jonty
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

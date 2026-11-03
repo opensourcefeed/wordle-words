@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A rice cake cooked by boiling or steaming rice.
+prev_word: puton
+next_word: putti
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

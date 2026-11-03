@@ -29,4 +29,15 @@ neighbours:
 - cornu
 anagrams:
 - orcin
+prev_word: corms
+next_word: corno
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ni/"
+  label: Ending in NI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

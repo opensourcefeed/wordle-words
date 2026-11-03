@@ -39,4 +39,15 @@ anagrams:
 - weils
 - wiels
 - wiles
+prev_word: swigs
+next_word: swill
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

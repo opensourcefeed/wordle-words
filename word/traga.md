@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - grata
 - targa
+prev_word: trady
+next_word: tragi
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

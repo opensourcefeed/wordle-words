@@ -38,4 +38,15 @@ definitions:
     example: The program begins at 9 o'clock on the dot.    I rushed to get to class
       on time, but the lesson had already begun.
   - text: To come into existence.
+prev_word: begum
+next_word: beige
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

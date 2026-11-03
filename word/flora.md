@@ -39,4 +39,15 @@ definitions:
       region, time, etc.
   - text: A book describing the plants of a country, region, time, etc.
   - text: The microorganisms that inhabit some part of the body
+prev_word: flops
+next_word: flore
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

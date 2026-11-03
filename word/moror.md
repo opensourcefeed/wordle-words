@@ -27,4 +27,15 @@ neighbours:
 - maror
 anagrams:
 - morro
+prev_word: moron
+next_word: morph
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

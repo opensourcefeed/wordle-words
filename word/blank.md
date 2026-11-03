@@ -97,4 +97,15 @@ definitions:
     example: The shock left his memory blank.
   - text: 'Of ammunition: having propellant but no bullets; unbulleted.'
     example: The recruits were issued with blank rounds for a training exercise.
+prev_word: bland
+next_word: blare
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

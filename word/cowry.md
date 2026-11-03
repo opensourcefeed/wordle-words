@@ -30,4 +30,15 @@ definitions:
       Indian Ocean; its shell.
   - text: "(by extension) Any gastropod of the genus Cypraea; its shell."
   - text: "(by extension) Any gastropod of the family Cypraeidae; its shell."
+prev_word: cowps
+next_word: coxae
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

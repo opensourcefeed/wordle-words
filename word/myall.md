@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: According to Aboriginal tradition; traditionally indigenous.
+prev_word: mvuli
+next_word: myals
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/my/"
+  label: Starting with MY
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

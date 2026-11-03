@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To hiccup
+prev_word: hibas
+next_word: hided
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

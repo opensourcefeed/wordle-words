@@ -60,4 +60,15 @@ definitions:
   - text: A mark or note set in the margin to call attention to something in the text,
       such as a change of subject.
   - text: An offset of 16 bytes in Intel memory architectures.
+prev_word: parae
+next_word: parch
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

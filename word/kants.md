@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ANTS
   count: 14
+prev_word: kanji
+next_word: kanzu
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -62,4 +62,15 @@ definitions:
   defs:
   - text: "(in combination) Having some specific type of nose."
     example: Rudolph the red-nosed reindeer
+prev_word: north
+next_word: noser
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

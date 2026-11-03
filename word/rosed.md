@@ -58,4 +58,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having taken on a crimson colour.
+prev_word: rosco
+next_word: roses
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

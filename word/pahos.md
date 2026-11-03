@@ -26,4 +26,15 @@ neighbours:
 - pahus
 anagrams:
 - opahs
+prev_word: pahit
+next_word: pahus
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

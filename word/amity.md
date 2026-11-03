@@ -36,4 +36,15 @@ definitions:
       to friends in times of need or crisis.
   - text: Mutual understanding and a peaceful relationship, especially between nations;
       peace; accord.
+prev_word: amiss
+next_word: amlas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

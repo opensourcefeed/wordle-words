@@ -87,4 +87,15 @@ definitions:
   defs:
   - text: A mass of iron in a pasty condition gathered into a ball for the tilt hammer
       or rolls.
+prev_word: loony
+next_word: loopy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -30,4 +30,15 @@ neighbours:
 - lowen
 - powan
 - rowan
+prev_word: lovie
+next_word: lowed
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

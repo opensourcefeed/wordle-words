@@ -24,4 +24,15 @@ stats:
 neighbours:
 - evegs
 - evens
+prev_word: every
+next_word: evhoe
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ev/"
+  label: Starting with EV
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

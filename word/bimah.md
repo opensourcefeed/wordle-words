@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: The raised platform in the front of a synagogue where the Torah is read
       on a podium.
+prev_word: billy
+next_word: bimas
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

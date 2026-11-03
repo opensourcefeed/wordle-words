@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A watch cap.
+prev_word: tuple
+next_word: turbo
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

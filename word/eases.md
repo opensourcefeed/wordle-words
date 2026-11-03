@@ -62,4 +62,15 @@ definitions:
     example: The pain eased overnight.
   - text: To proceed with little effort.
     example: The car eased onto the motorway.
+prev_word: easer
+next_word: easle
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

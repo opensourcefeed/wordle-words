@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: The worldwide Muslim community.
+prev_word: umiaq
+next_word: ummas
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/um/"
+  label: Starting with UM
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

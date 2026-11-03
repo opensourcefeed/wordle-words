@@ -25,4 +25,15 @@ neighbours:
 - polka
 - poake
 - pooka
+prev_word: poach
+next_word: poake
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

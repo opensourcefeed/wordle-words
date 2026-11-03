@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: The top of a bird's head, from the base of the bill to the nape.
+prev_word: pilch
+next_word: piled
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

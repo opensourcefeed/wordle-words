@@ -25,4 +25,15 @@ neighbours:
 - rekey
 - renay
 - veney
+prev_word: renew
+next_word: renga
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

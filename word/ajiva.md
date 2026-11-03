@@ -22,4 +22,13 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 97
+prev_word: ajies
+next_word: ajuga
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/va/"
+  label: Ending in VA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

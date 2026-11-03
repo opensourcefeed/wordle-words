@@ -41,4 +41,15 @@ definitions:
   - text: To move on skis
   - text: To travel over (a slope etc.) on skis; to travel on skis at (a place), (especially
       as a sport)
+prev_word: skids
+next_word: skier
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

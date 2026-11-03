@@ -38,4 +38,15 @@ definitions:
   - text: "(1920s) A romantic lover. (from the 1921 film The Sheik)"
   - text: An Arab, especially one dressed in traditional clothing.
   - text: An honorific for specialists in spirituality.
+prev_word: sheet
+next_word: shelf
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

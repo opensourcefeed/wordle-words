@@ -31,4 +31,13 @@ neighbours:
 trap:
   pattern: _UTTY
   count: 9
+prev_word: vulva
+next_word: vygie
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

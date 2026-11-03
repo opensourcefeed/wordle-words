@@ -52,4 +52,15 @@ definitions:
     example: Four or five of these medals are awarded every year.
   - text: To give (a person) an award.
     example: He was awarded the Nobel Prize for Literature.
+prev_word: awake
+next_word: aware
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

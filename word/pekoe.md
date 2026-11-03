@@ -27,4 +27,15 @@ definitions:
   defs:
   - text: A high-quality black tea made using young leaves, grown in Sri Lanka, India,
       Java and the Azores.
+prev_word: pekin
+next_word: pelas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/oe/"
+  label: Ending in OE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

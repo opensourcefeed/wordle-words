@@ -34,4 +34,13 @@ definitions:
   - text: The calcined ash of coarse seaweed, used for the manufacture of soda and
       iodine.
   - text: The seaweed itself; fucus; wrack.
+prev_word: vardy
+next_word: vares
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

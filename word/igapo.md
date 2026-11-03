@@ -22,4 +22,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 42
+prev_word: iftar
+next_word: igged
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/po/"
+  label: Ending in PO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

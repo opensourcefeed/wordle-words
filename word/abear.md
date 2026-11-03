@@ -29,4 +29,15 @@ neighbours:
 - afear
 - anear
 - arear
+prev_word: abeam
+next_word: abeat
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

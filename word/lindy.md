@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: LIN_Y
   count: 6
+prev_word: linds
+next_word: lined
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

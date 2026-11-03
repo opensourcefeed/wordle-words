@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _USES
   count: 8
+prev_word: nused
+next_word: nutso
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

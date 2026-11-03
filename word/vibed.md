@@ -39,4 +39,15 @@ definitions:
   - text: To relax and enjoy oneself.
   - text: To agree.
   - text: To get along; to hit it off.
+prev_word: viand
+next_word: vibes
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

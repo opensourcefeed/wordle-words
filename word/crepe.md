@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To crease (paper) in such a way to make it look like crepe paper
   - text: To frizz (the hair).
+prev_word: crena
+next_word: creps
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

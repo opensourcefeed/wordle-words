@@ -44,4 +44,15 @@ definitions:
     example: to affix a seal to an instrument
   - text: To fix or fasten figuratively; with on or upon.
     example: eyes affixed upon the ground
+prev_word: afear
+next_word: affly
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

@@ -56,4 +56,15 @@ definitions:
       or services prescribed for these, or a book containing them."
   - text: A distance that can be traveled in one hour.
     example: This place is an hour away from where I live.
+prev_word: houri
+next_word: house
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

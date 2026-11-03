@@ -32,4 +32,13 @@ definitions:
   - text: A fragile spore produced by some fungi.
   - text: The fungus Erysiphe necator (= Uncinula necator), which produces powdery
       mildew in grapes.
+prev_word: oicks
+next_word: oiled
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

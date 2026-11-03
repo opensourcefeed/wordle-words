@@ -27,4 +27,15 @@ neighbours:
 - major
 - mahoe
 - majos
+prev_word: majat
+next_word: major
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/oe/"
+  label: Ending in OE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -69,4 +69,15 @@ definitions:
   defs:
   - text: In a dirty manner.
     example: to play dirty
+prev_word: dirts
+next_word: disas
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

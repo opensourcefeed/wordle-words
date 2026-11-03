@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A jump that includes one (or more than one) complete turn and a half turn
       while in the air.
+prev_word: awork
+next_word: axial
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ax/"
+  label: Starting with AX
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

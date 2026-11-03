@@ -29,4 +29,13 @@ definitions:
 - pos: noun
   defs:
   - text: A small vehicle used in India, pulled by a single horse.
+prev_word: eking
+next_word: elain
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

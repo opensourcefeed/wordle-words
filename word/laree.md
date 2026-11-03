@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - leare
 - leear
+prev_word: lardy
+next_word: lares
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: MANG_
   count: 6
+prev_word: mange
+next_word: mango
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -27,4 +27,15 @@ neighbours:
 - urbia
 anagrams:
 - beira
+prev_word: erase
+next_word: erect
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

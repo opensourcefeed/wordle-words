@@ -33,4 +33,15 @@ definitions:
       be used as animal litter or for thatching.
   - text: An individual plant stem.
   - text: Part of a harness; a hame.
+prev_word: hauld
+next_word: hauls
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/lm/"
+  label: Ending in LM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

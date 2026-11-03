@@ -56,4 +56,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Affected by the tide; having a tide.
+prev_word: tiddy
+next_word: tides
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

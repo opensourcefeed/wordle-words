@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _AVER
   count: 10
+prev_word: favel
+next_word: faves
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

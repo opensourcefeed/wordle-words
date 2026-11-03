@@ -29,4 +29,15 @@ neighbours:
 - xeric
 anagrams:
 - cerci
+prev_word: ceria
+next_word: cerne
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

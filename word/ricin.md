@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: An extremely toxic protein extracted from the castor bean.
+prev_word: richt
+next_word: ricks
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

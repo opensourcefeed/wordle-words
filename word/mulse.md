@@ -29,4 +29,15 @@ neighbours:
 - musse
 anagrams:
 - mules
+prev_word: mulls
+next_word: mulsh
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

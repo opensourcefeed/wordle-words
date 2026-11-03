@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 74
 neighbours:
 - yokel
+prev_word: yokes
+next_word: yolks
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

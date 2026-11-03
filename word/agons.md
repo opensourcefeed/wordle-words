@@ -29,4 +29,15 @@ neighbours:
 - azons
 anagrams:
 - sango
+prev_word: agone
+next_word: agony
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

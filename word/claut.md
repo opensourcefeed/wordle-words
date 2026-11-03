@@ -26,4 +26,15 @@ neighbours:
 - clapt
 - clart
 - clast
+prev_word: clats
+next_word: clave
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

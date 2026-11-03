@@ -75,4 +75,15 @@ definitions:
   - text: "(of a duct) To reach a condition of maximum flowrate, due to the flow at
       the narrowest point of the duct becoming sonic (Ma = 1)."
   - text: To make a choke, as in a cartridge, or in the bore of the barrel of a shotgun.
+prev_word: choir
+next_word: choko
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

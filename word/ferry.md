@@ -62,4 +62,15 @@ definitions:
   - text: To carry or transport over a contracted body of water, as a river or strait,
       in a boat or other floating conveyance plying between opposite shores.
   - text: To pass over water in a boat or by ferry.
+prev_word: ferox
+next_word: fesse
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -36,4 +36,13 @@ anagrams:
 trap:
   pattern: O_ERS
   count: 6
+prev_word: oyama
+next_word: ozeki
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

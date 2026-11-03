@@ -57,4 +57,15 @@ definitions:
   - text: Any of various stiff or reedy grasses.
   - text: A grassy area, grassland.
   - text: The old dried stalks of grasses.
+prev_word: bento
+next_word: benty
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

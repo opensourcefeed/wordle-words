@@ -37,4 +37,15 @@ definitions:
   - text: Violent contest or striving.
   - text: Paroxysm of joy; keen emotion.
   - text: The last struggle of life; death struggle.
+prev_word: agons
+next_word: agood
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To hit; to strike.
+prev_word: boffo
+next_word: bogan
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

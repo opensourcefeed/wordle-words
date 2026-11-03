@@ -30,4 +30,15 @@ definitions:
 - pos: verb
   defs:
   - text: To avoid.
+prev_word: evils
+next_word: evohe
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ev/"
+  label: Starting with EV
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

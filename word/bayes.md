@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: BA_ES
   count: 8
+prev_word: bayer
+next_word: bayle
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

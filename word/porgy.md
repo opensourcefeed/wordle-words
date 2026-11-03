@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of several fish of the family Sparidae; the sea bream.
+prev_word: porge
+next_word: porin
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

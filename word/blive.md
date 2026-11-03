@@ -26,4 +26,15 @@ neighbours:
 - olive
 - blite
 - slive
+prev_word: blitz
+next_word: bloat
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: A young hawk or falcon in its first year.
   - text: A young buck in its fourth year.
+prev_word: sorer
+next_word: sorex
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

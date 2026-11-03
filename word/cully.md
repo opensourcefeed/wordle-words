@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To trick, to impose on, to dupe.
+prev_word: culls
+next_word: culms
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

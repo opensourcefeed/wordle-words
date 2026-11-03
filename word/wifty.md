@@ -27,4 +27,15 @@ neighbours:
 - rifty
 - wifey
 - wifts
+prev_word: wifts
+next_word: wigan
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

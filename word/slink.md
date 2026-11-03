@@ -52,4 +52,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Thin; lean
+prev_word: sling
+next_word: slipe
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

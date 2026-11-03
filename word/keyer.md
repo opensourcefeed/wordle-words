@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - reeky
 - rekey
+prev_word: keyed
+next_word: khadi
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

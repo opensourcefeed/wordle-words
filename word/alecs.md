@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: An anchovy or herring, especially pickled or dried.
   - text: A sauce made from alecs; alec sauce.
+prev_word: aleck
+next_word: aleem
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

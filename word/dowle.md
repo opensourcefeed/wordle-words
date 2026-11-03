@@ -33,4 +33,15 @@ anagrams:
 - dowel
 - lowed
 - owled
+prev_word: dowie
+next_word: dowls
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

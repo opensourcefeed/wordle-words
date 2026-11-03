@@ -30,4 +30,15 @@ neighbours:
 - cooer
 - woker
 - wooed
+prev_word: wooed
+next_word: woofs
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

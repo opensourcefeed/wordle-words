@@ -39,4 +39,15 @@ definitions:
   - text: Character of being unyielding or inflexible.
   - text: Shrewd questioning.
   - text: Higher level of difficulty.
+prev_word: rigol
+next_word: rikka
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

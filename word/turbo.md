@@ -43,4 +43,15 @@ definitions:
       1 = 150/300; level 2 = 200/400; etc.'
   - text: Causing or relating to increased speed.
     example: a turbo button on a controller; a PC equipped with a turbo mode
+prev_word: tuque
+next_word: turds
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A dog.
   - text: A dog of mixed breed; a mongrel.
+prev_word: pooay
+next_word: poods
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

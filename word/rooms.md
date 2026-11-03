@@ -69,4 +69,15 @@ definitions:
   - text: To reside, especially as a boarder or tenant.
     example: Doctor Watson roomed with Sherlock Holmes at Baker Street.
   - text: To assign to a room; to allocate a room to.
+prev_word: rooky
+next_word: roomy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 100
 neighbours:
 - phooo
+prev_word: phony
+next_word: phooo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

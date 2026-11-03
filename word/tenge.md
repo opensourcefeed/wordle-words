@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: The basic monetary unit of Kazakhstan; subdivided into tiyin.
+prev_word: tenet
+next_word: tenia
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

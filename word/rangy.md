@@ -44,4 +44,15 @@ definitions:
   - text: Prone to roaming around.
     example: rangy cattle
   - text: Having or permitting range or scope; roomy; commodious.
+prev_word: rangs
+next_word: ranid
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

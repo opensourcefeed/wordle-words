@@ -46,4 +46,15 @@ definitions:
   - text: Music; minstrelsy; entertainment.
   - text: An unaccompanied part song for three or more solo voices, not necessarily
       merry.
+prev_word: gleek
+next_word: gleet
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

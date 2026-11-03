@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A pear-shaped plucked lute from China.
+prev_word: pipal
+next_word: piped
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

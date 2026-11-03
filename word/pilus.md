@@ -33,4 +33,15 @@ neighbours:
 - pulus
 anagrams:
 - pulis
+prev_word: pilum
+next_word: pimas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

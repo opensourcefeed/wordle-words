@@ -29,4 +29,15 @@ neighbours:
 - wonky
 - works
 - wormy
+prev_word: works
+next_word: world
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

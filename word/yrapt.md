@@ -26,4 +26,13 @@ neighbours:
 anagrams:
 - party
 - praty
+prev_word: yoyos
+next_word: yrent
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

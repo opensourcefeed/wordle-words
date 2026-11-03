@@ -40,4 +40,15 @@ definitions:
 - pos: interjection
   defs:
   - text: A call made to chickens.
+prev_word: choof
+next_word: choom
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ok/"
+  label: Ending in OK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: PU_ES
   count: 6
+prev_word: pucer
+next_word: pucka
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

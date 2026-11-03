@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: A square-rigged vessel, differing from a brig only in that she has a trysail
       mast close abaft the mainmast, on which a large trysail is hoisted.
+prev_word: snowk
+next_word: snowy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

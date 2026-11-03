@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _AUNT
   count: 9
+prev_word: nauch
+next_word: naval
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

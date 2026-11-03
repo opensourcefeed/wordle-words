@@ -78,4 +78,15 @@ definitions:
     example: We're having a good old time. My next car will be a big old SUV.  My
       wife makes the best little old apple pie in Texas.
   - text: Excessive, abundant.
+prev_word: elchi
+next_word: eldin
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

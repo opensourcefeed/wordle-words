@@ -82,4 +82,15 @@ definitions:
 - pos: noun
   defs:
   - text: (with "the") Outer space.
+prev_word: starr
+next_word: start
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

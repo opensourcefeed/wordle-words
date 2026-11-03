@@ -26,4 +26,15 @@ stats:
 neighbours:
 - porae
 - potai
+prev_word: posts
+next_word: potai
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

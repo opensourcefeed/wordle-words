@@ -62,4 +62,15 @@ definitions:
   - text: To be deserving or worthy.
     example: They were punished as they merited.
   - text: To reward.
+prev_word: meris
+next_word: merks
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

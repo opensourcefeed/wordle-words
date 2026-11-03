@@ -25,4 +25,15 @@ stats:
 neighbours:
 - karos
 - kazoo
+prev_word: karns
+next_word: karos
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

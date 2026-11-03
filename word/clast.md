@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A fragment of rock that was broken from a larger rock or rock unit.
+prev_word: class
+next_word: clats
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

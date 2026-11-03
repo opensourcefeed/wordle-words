@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - goray
 - yorga
+prev_word: goals
+next_word: goats
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -30,4 +30,15 @@ anagrams:
 - rente
 - terne
 - treen
+prev_word: entia
+next_word: entry
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

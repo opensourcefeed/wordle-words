@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: To formally revoke the validity of.
   - text: To dissolve (a marital union) on the grounds that it is not valid.
+prev_word: annoy
+next_word: annum
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

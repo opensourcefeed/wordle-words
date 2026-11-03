@@ -66,4 +66,15 @@ definitions:
   - text: To be drawn to one side by weight or influence; to lean; to incline.
   - text: To have weight or influence.
   - text: To bear sway; to rule; to govern.
+prev_word: swayl
+next_word: sweal
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

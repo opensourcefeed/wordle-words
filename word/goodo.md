@@ -31,4 +31,15 @@ definitions:
 - pos: interjection
   defs:
   - text: Good; used to show approval or satisfaction.
+prev_word: gooby
+next_word: goods
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -29,4 +29,15 @@ neighbours:
 - chiva
 anagrams:
 - biach
+prev_word: chias
+next_word: chibs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

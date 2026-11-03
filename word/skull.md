@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: To hit in the head with a fist, a weapon, or a thrown object.
   - text: To strike the top of (the ball).
+prev_word: skulk
+next_word: skunk
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

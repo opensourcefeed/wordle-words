@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: An exposition.
   - text: An expediter; a restaurant worker who prepares food to be taken to tables.
+prev_word: expel
+next_word: extol
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

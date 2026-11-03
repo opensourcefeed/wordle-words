@@ -47,4 +47,15 @@ definitions:
     example: to plait a ruffle
   - text: To interweave the strands or locks of; to braid
     example: plaiting rope
+prev_word: plain
+next_word: planc
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

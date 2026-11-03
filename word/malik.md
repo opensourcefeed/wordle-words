@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A tribal chieftain in certain areas of Afghanistan and Pakistan, especially
       among the Pashtuns.
+prev_word: malic
+next_word: malis
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

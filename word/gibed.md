@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Alternative spelling of gybe
   - text: Alternative spelling of jibe
+prev_word: giant
+next_word: gibel
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

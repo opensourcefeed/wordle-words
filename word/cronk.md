@@ -40,4 +40,15 @@ definitions:
 - pos: verb
   defs:
   - text: To honk like a goose.
+prev_word: crone
+next_word: crons
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

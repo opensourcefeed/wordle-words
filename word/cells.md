@@ -89,4 +89,15 @@ definitions:
 - pos: noun
   defs:
   - text: A cellular phone.
+prev_word: cello
+next_word: celly
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

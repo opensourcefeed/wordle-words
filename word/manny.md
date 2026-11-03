@@ -43,4 +43,15 @@ definitions:
     example: 2006 [Perry Taylor] has popped up in supermarket tabloids as the male
       nanny – or "manny" – for Britney Spears, who has a 9-month-old son, Sean Preston
       and is pregnant. — CBS News, 9 June 2006
+prev_word: manna
+next_word: manoa
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

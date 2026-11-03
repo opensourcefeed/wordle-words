@@ -32,4 +32,13 @@ definitions:
 - pos: noun
   defs:
   - text: A unit of luminance equal to one candela per square centimetre
+prev_word: stiff
+next_word: stile
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

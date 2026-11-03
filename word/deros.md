@@ -48,4 +48,15 @@ anagrams:
 trap:
   pattern: _EROS
   count: 7
+prev_word: derny
+next_word: derpy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

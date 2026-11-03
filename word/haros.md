@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: HAR_S
   count: 9
+prev_word: harns
+next_word: harps
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

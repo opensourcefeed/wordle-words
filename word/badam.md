@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: An almond.
+prev_word: bacon
+next_word: baddy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

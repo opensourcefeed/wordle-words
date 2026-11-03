@@ -32,4 +32,15 @@ anagrams:
 trap:
   pattern: BUND_
   count: 6
+prev_word: bunco
+next_word: bundh
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

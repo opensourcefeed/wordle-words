@@ -81,4 +81,15 @@ definitions:
   - text: To be formed into rope; to draw out or extend into a filament or thread.
   - text: To commit suicide.
     example: My life is a mess; I might as well rope.
+prev_word: roper
+next_word: ropey
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -48,4 +48,15 @@ definitions:
   - text: A homosexual woman, one who is mostly or exclusively sexually or romantically
       attracted to other women.
   - text: A homosexual female animal.
+prev_word: lerps
+next_word: lesos
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

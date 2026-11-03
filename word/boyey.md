@@ -28,4 +28,15 @@ neighbours:
 - boyed
 - boyly
 - boysy
+prev_word: boyed
+next_word: boyfs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

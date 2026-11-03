@@ -55,4 +55,15 @@ definitions:
   - text: To treat with care.
     example: Favoring your sore leg will only injure the other one.
   - text: "(including) To resemble, to look like (another person)."
+prev_word: faves
+next_word: favus
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

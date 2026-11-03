@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: CAL_S
   count: 6
+prev_word: calpa
+next_word: calve
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

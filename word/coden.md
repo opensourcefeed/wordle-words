@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: CODE_
   count: 6
+prev_word: coded
+next_word: coder
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

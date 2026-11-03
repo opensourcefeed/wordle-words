@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: FLO_S
   count: 8
+prev_word: flore
+next_word: flory
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

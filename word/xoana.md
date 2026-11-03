@@ -29,4 +29,13 @@ definitions:
 - pos: noun
   defs:
   - text: A wooden statue used as a cult image in Ancient Greece.
+prev_word: xerus
+next_word: xolos
+hubs:
+- url: "/starting-with/x/"
+  label: Starting with X
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

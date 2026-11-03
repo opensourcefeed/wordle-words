@@ -39,4 +39,15 @@ anagrams:
 - opter
 - repot
 - toper
+prev_word: porta
+next_word: porth
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ATES
   count: 13
+prev_word: yarto
+next_word: yatra
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

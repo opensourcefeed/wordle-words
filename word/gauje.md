@@ -26,4 +26,13 @@ neighbours:
 - gauge
 - gauze
 - gadje
+prev_word: gauge
+next_word: gault
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

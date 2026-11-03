@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _IDED
   count: 7
+prev_word: cibol
+next_word: cider
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

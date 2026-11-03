@@ -28,4 +28,15 @@ neighbours:
 - ydrad
 anagrams:
 - addra
+prev_word: adoze
+next_word: adraw
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

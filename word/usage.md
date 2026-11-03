@@ -37,4 +37,15 @@ definitions:
   - text: The ways and contexts in which spoken and written words are used, determined
       by a lexicographer's intuition or from corpus analysis.
   - text: The treatment of someone or something.
+prev_word: urvas
+next_word: usens
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/us/"
+  label: Starting with US
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

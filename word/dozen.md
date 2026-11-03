@@ -49,4 +49,15 @@ definitions:
       many."
     example: There must have been dozens of examples just on the first page.
   - text: An old English measure of ore containing 12 hundredweight.
+prev_word: dozed
+next_word: dozer
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -29,4 +29,15 @@ neighbours:
 - roopy
 - woofy
 - woops
+prev_word: woops
+next_word: woose
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

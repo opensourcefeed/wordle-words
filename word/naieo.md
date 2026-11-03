@@ -24,4 +24,15 @@ stats:
   rare: []
   starter_tier: Excellent
   starter_top_percent: 2
+prev_word: naids
+next_word: naifs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/eo/"
+  label: Ending in EO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

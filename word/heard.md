@@ -59,4 +59,15 @@ definitions:
 - pos: adjective
   defs:
   - text: That has been heard or listened to; that has been aurally detected.
+prev_word: heapy
+next_word: heare
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: The water of life; the drink of the Hindu gods.
+prev_word: ampul
+next_word: amuck
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

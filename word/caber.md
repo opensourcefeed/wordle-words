@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: A long, thick log held upright at one end and tossed in the Highland games.
+prev_word: cabby
+next_word: cabin
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

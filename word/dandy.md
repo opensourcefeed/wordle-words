@@ -53,4 +53,15 @@ definitions:
     example: That's all fine and dandy, but how much does it cost?
   - text: Excellent; first-rate.
     example: What a dandy little laptop you have.
+prev_word: danda
+next_word: dangs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

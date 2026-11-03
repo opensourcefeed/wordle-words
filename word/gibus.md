@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: A collapsible top hat.
+prev_word: gibli
+next_word: giddy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

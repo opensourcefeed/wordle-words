@@ -35,4 +35,15 @@ definitions:
   - text: A leaf, especially a thin leaf or plate.
   - text: A curve of the third order, consisting of two infinite branches having a
       common asymptote. The curve has a double point, and a leaf-shaped loop.
+prev_word: foley
+next_word: folic
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

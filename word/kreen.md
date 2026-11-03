@@ -28,4 +28,15 @@ neighbours:
 - treen
 anagrams:
 - kerne
+prev_word: kreef
+next_word: kreep
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

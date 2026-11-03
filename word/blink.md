@@ -66,4 +66,15 @@ definitions:
   - text: To trick; to deceive.
   - text: To turn slightly sour, or blinky, as beer, milk, etc.
   - text: To teleport, mostly for short distances.
+prev_word: blini
+next_word: blins
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

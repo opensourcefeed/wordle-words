@@ -24,4 +24,15 @@ stats:
 neighbours:
 - anime
 - anima
+prev_word: anime
+next_word: anion
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/mi/"
+  label: Ending in MI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

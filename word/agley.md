@@ -37,4 +37,15 @@ definitions:
 - pos: adverb
   defs:
   - text: Wrong, awry, askew, amiss, or distortedly.
+prev_word: aglet
+next_word: agloo
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

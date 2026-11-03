@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: A classical convex moulding carved with an egg-and-dart ornament.
+prev_word: ovoli
+next_word: ovule
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ov/"
+  label: Starting with OV
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

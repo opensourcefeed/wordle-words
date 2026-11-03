@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: PAR_S
   count: 10
+prev_word: parid
+next_word: parka
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

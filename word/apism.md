@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - pimas
 - sampi
+prev_word: apish
+next_word: apnea
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/sm/"
+  label: Ending in SM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -38,4 +38,13 @@ definitions:
 - pos: verb
   defs:
   - text: To detoxify, especially from alcohol or recreational drugs.
+prev_word: deter
+next_word: deuce
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

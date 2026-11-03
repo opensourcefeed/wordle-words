@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _AVER
   count: 10
+prev_word: tavas
+next_word: tawaf
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

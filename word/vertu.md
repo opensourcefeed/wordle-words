@@ -36,4 +36,15 @@ definitions:
       requisite qualities for political or military success; vitality, determination;
       power.'
   - text: Moral worth; virtue, virtuousness.
+prev_word: verts
+next_word: verve
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/tu/"
+  label: Ending in TU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

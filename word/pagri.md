@@ -34,4 +34,15 @@ definitions:
       fabric wound around the head.
   - text: A puggry.
   - text: A payment made to secure the long-term rental of a property.
+prev_word: pagod
+next_word: pahit
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: KEE_S
   count: 6
+prev_word: keech
+next_word: keeks
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

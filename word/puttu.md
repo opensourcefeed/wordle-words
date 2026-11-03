@@ -27,4 +27,15 @@ neighbours:
 - putti
 - putto
 - putts
+prev_word: putts
+next_word: putty
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/tu/"
+  label: Ending in TU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

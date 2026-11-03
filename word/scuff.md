@@ -40,4 +40,15 @@ definitions:
   - text: To scrape the feet while walking.
   - text: To hit lightly, to brush against.
   - text: To mishit (a shot on a ball) due to poor contact with the ball.
+prev_word: scuds
+next_word: scuft
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

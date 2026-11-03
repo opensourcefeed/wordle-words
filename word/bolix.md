@@ -22,4 +22,15 @@ stats:
   - X
   starter_tier: Weak
   starter_top_percent: 80
+prev_word: bolet
+next_word: bolks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

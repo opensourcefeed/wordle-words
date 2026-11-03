@@ -41,4 +41,15 @@ definitions:
   - text: Water in which food (meat or vegetable etc) has been boiled.
   - text: A soup made from broth and other ingredients such as vegetables, herbs or
       diced meat.
+prev_word: brosy
+next_word: brown
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -53,4 +53,15 @@ definitions:
   - text: The central part or point of anything; the middle.
   - text: A navel orange.
   - text: An eye on the underside of a carronade for securing it to a carriage.
+prev_word: naved
+next_word: naves
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

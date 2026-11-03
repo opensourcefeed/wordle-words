@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _EELS
   count: 9
+prev_word: weeks
+next_word: weems
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -48,4 +48,15 @@ definitions:
   - text: Pertaining to the Sardinian language and those dialects of Catalan, spoken
       in the Balearic Islands and along the coast of Catalonia, that use definitive
       articles descended from the Latin ipse instead of the Latin ille.
+prev_word: salts
+next_word: salud
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

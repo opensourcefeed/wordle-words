@@ -62,4 +62,15 @@ definitions:
     example: The vulture wheeled above us.
   - text: To put into a rotatory motion; to cause to turn or revolve; to make or perform
       in a circle.
+prev_word: wheek
+next_word: wheen
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -38,4 +38,15 @@ definitions:
   - text: To make use of, to apply, especially of something non-material.
     example: He considered exerting his influence on John to gain an advantage for
       himself.
+prev_word: exeme
+next_word: exfil
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

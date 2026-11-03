@@ -24,4 +24,15 @@ stats:
 neighbours:
 - kapai
 - karai
+prev_word: kacks
+next_word: kades
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

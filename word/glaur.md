@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - gular
 - rugal
+prev_word: glaum
+next_word: glaze
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

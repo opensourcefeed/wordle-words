@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 34
 neighbours:
 - miaow
+prev_word: miais
+next_word: miaow
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ou/"
+  label: Ending in OU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

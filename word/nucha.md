@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 51
 anagrams:
 - nauch
+prev_word: nubia
+next_word: nucin
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

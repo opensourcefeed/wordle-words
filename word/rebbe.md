@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: The spiritual leader of a Chassidic Jewish community.
+prev_word: rebar
+next_word: rebec
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

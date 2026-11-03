@@ -26,4 +26,13 @@ neighbours:
 - fykes
 - fyles
 - syces
+prev_word: fuzzy
+next_word: fyked
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

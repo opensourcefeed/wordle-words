@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _INER
   count: 8
+prev_word: pined
+next_word: pines
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -21,4 +21,15 @@ stats:
   rare: []
   starter_tier: Good
   starter_top_percent: 8
+prev_word: geoid
+next_word: gerbe
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

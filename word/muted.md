@@ -51,4 +51,15 @@ definitions:
   - text: Not expressed strongly or openly.
   - text: "(of a sound) Quiet or soft."
   - text: "(of color) Subdued."
+prev_word: mutch
+next_word: muter
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

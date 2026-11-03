@@ -36,4 +36,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make a shrill sound, as of bagpipes.
+prev_word: skips
+next_word: skirr
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

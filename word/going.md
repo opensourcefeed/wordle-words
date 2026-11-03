@@ -129,4 +129,15 @@ definitions:
     example: The going rate for manual snow-shoveling is $25 an hour.
   - text: "(especially after a noun phrase with a superlative) Available."
     example: He has the easiest job going.
+prev_word: goier
+next_word: gojis
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

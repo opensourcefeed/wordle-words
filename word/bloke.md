@@ -38,4 +38,15 @@ definitions:
       with particular reference to discipline and punishment."
   - text: An exemplar of a certain masculine, independent male archetype.
   - text: An anglophone man.
+prev_word: blogs
+next_word: blond
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

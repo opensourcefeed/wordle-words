@@ -39,4 +39,15 @@ definitions:
       or fraud).
   - text: The jargon used by carnival workers.
   - text: A carnival.
+prev_word: carns
+next_word: carob
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -30,4 +30,15 @@ neighbours:
 - relit
 - retie
 - revie
+prev_word: relic
+next_word: relit
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

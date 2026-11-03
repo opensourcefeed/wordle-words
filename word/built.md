@@ -51,4 +51,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Well-built, muscular or toned.
+prev_word: build
+next_word: buist
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

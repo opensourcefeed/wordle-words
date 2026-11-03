@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A flat tapestry-woven carpet or rug.
+prev_word: kelep
+next_word: kells
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

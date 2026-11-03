@@ -30,4 +30,15 @@ neighbours:
 - tenge
 - venge
 - wenge
+prev_word: menes
+next_word: mengs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

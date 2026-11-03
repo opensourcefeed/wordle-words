@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ALLY
   count: 8
+prev_word: galls
+next_word: galop
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

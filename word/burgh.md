@@ -32,4 +32,15 @@ definitions:
       names).
   - text: A borough or chartered town (now only used as an official subdivision in
       Scotland).
+prev_word: burfi
+next_word: burgs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

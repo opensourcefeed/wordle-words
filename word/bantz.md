@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Banter
+prev_word: banty
+next_word: banya
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/tz/"
+  label: Ending in TZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: Any of various succulent plants, of the genus Sedum, native to temperate
       zones; the stonecrop
+prev_word: sedgy
+next_word: seeds
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

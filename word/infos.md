@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - finos
 - foins
+prev_word: infix
+next_word: infra
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

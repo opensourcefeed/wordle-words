@@ -52,4 +52,15 @@ definitions:
 - pos: noun
   defs:
   - text: A breed of pony from India; a pony of that breed.
+prev_word: tatou
+next_word: tatty
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

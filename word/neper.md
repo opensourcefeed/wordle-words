@@ -35,4 +35,15 @@ definitions:
   - text: A non-SI unit of the attenuation (or sometimes gain) of field and power
       quantities such as electronic signals; the natural logarithm of a ratio, with
       1 Np (a ratio of 2.718:1) being equivalent to 8.686 dB.
+prev_word: neoza
+next_word: nepit
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

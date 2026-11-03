@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: A young heifer.
+prev_word: whids
+next_word: whiff
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

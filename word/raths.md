@@ -53,4 +53,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Burmese carriage of state.
+prev_word: rathe
+next_word: ratio
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

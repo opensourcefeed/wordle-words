@@ -29,4 +29,15 @@ neighbours:
 - rudie
 anagrams:
 - ursid
+prev_word: rudie
+next_word: rueda
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

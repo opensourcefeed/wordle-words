@@ -33,4 +33,15 @@ definitions:
   - text: A costume or outfit, especially one that is ostentatious or otherwise unusual.
   - text: A fight or altercation.
   - text: Layout and production style, as of a magazine.
+prev_word: getas
+next_word: geums
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/up/"
+  label: Ending in UP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

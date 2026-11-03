@@ -32,4 +32,13 @@ neighbours:
 anagrams:
 - hinge
 - neigh
+prev_word: egret
+next_word: eider
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

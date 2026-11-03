@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A soft, non-cancerous growth, a form of granuloma, resulting from the tertiary
       stage of syphilis.
+prev_word: gumbo
+next_word: gummi
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -21,4 +21,13 @@ stats:
   starter_top_percent: 96
 neighbours:
 - moruk
+prev_word: murti
+next_word: murva
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

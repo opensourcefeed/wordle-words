@@ -25,4 +25,15 @@ stats:
 neighbours:
 - beton
 - seton
+prev_word: jetes
+next_word: jetty
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

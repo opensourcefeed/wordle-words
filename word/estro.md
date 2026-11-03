@@ -30,4 +30,15 @@ anagrams:
 - rotes
 - tores
 - torse
+prev_word: estop
+next_word: etage
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/es/"
+  label: Starting with ES
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

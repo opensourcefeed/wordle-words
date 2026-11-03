@@ -30,4 +30,15 @@ definitions:
 - pos: adverb
   defs:
   - text: A tempo direction equivalent to "very".
+prev_word: aspro
+next_word: assam
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

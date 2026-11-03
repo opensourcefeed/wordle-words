@@ -24,4 +24,15 @@ stats:
 neighbours:
 - enure
 - inurn
+prev_word: enure
+next_word: envoi
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

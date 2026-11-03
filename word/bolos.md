@@ -56,4 +56,15 @@ definitions:
 - pos: noun
   defs:
   - text: A request for law enforcement officers to be on the lookout for a suspect.
+prev_word: bolls
+next_word: bolts
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

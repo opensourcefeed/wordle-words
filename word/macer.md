@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A mace bearer; specifically, an officer of a court in Scotland.
+prev_word: maced
+next_word: maces
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

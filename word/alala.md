@@ -25,4 +25,15 @@ neighbours:
 - alapa
 - alata
 - alula
+prev_word: alack
+next_word: alamo
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

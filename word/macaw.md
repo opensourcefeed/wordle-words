@@ -33,4 +33,15 @@ definitions:
       Primolius and Diopsittaca of Central and South America, including the largest
       parrots and characterized by long sabre-shaped tails, curved powerful bills,
       and usually brilliant plumage.
+prev_word: macas
+next_word: macca
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/aw/"
+  label: Ending in AW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

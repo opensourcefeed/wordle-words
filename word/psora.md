@@ -30,4 +30,15 @@ anagrams:
 - rapso
 - sapor
 - sopra
+prev_word: psoas
+next_word: psych
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ps/"
+  label: Starting with PS
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

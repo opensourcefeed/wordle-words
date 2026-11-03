@@ -26,4 +26,13 @@ neighbours:
 - spays
 anagrams:
 - paysd
+prev_word: spaws
+next_word: spays
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

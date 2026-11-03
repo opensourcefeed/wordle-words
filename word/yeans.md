@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(of goats or sheep) To give birth to."
+prev_word: yealm
+next_word: yeard
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

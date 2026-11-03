@@ -34,4 +34,15 @@ definitions:
   - text: Ontological.
   - text: Pertaining to being generally, as opposed to some theory of it (which would
       be ontology).
+prev_word: ontal
+next_word: ooaas
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

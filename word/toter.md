@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: TO_ER
   count: 6
+prev_word: totem
+next_word: totes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

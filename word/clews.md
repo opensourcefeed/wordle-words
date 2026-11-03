@@ -54,4 +54,15 @@ definitions:
   - text: An object or a kind of indication which may be used as evidence.
   - text: Insight or understanding ("to have a clue [about]" or "to have clue". See
       have a clue, clue stick)
+prev_word: cleve
+next_word: click
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -36,4 +36,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Awkward, ungainly; lacking grace or dexterity in movement
+prev_word: gawks
+next_word: gawps
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

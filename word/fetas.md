@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ETAS
   count: 8
+prev_word: fetal
+next_word: fetch
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,15 @@ neighbours:
 - cokey
 - fakey
 - jakey
+prev_word: cakes
+next_word: calfs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: One who rows.
   - text: A rowing machine.
+prev_word: rowen
+next_word: rowet
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

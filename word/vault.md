@@ -60,4 +60,15 @@ definitions:
 - pos: verb
   defs:
   - text: To build as, or cover with a vault.
+prev_word: vauch
+next_word: vaunt
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

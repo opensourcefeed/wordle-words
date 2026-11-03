@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _INNY
   count: 9
+prev_word: minks
+next_word: minor
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

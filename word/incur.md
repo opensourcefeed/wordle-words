@@ -36,4 +36,15 @@ definitions:
       harmful, or onerous; to become liable or subject to
   - text: To enter or pass into
   - text: To fall within a period or scope; to occur; to run into danger
+prev_word: incog
+next_word: incus
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

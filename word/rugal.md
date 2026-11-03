@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - glaur
 - gular
+prev_word: rugae
+next_word: rugas
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

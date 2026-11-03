@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A system for determining the position of vessels lost at sea by means of
       explosive sounds.
+prev_word: sodom
+next_word: sofas
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -37,4 +37,15 @@ definitions:
   - text: Good, smart; useful or beneficial.
     example: a nifty trick for reducing your household energy bill
   - text: Stylish.
+prev_word: nifle
+next_word: nighs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

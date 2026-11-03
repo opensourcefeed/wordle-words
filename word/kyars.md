@@ -31,4 +31,15 @@ anagrams:
 - krays
 - sarky
 - yarks
+prev_word: kyang
+next_word: kyats
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

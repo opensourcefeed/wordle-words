@@ -31,4 +31,13 @@ definitions:
   defs:
   - text: Having or creating an itch, causing a person or animal to tend to want to
       scratch.
+prev_word: istle
+next_word: items
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

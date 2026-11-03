@@ -27,4 +27,13 @@ definitions:
 - pos: noun
   defs:
   - text: Big boss, important person.
+prev_word: buzzy
+next_word: bwazi
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

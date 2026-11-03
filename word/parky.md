@@ -40,4 +40,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Cold, but not excessively so.
+prev_word: parks
+next_word: parle
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

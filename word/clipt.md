@@ -28,4 +28,15 @@ neighbours:
 - clipe
 - clips
 - slipt
+prev_word: clips
+next_word: cloak
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

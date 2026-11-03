@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _OTCH
   count: 8
+prev_word: rotas
+next_word: roted
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

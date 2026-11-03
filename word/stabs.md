@@ -70,4 +70,15 @@ definitions:
   - text: To roughen a brick wall with a pick so as to hold plaster.
   - text: To pierce folded sheets, near their back edges, for the passage of thread
       or wire.
+prev_word: srsly
+next_word: stack
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

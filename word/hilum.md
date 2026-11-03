@@ -34,4 +34,15 @@ definitions:
   - text: The nucleus of a starch grain.
   - text: A depression or fissure through which ducts, nerves, or blood vessels enter
       and leave a gland or organ; a porta.
+prev_word: hilts
+next_word: hilus
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

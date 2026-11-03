@@ -36,4 +36,15 @@ anagrams:
 - keirs
 - kiers
 - siker
+prev_word: reiki
+next_word: reine
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

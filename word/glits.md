@@ -35,4 +35,15 @@ neighbours:
 - slits
 anagrams:
 - gilts
+prev_word: glisk
+next_word: glitz
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: Money that is held, exchanged and represented in electronic form, and is
       used for transactions over the Internet
+prev_word: ecard
+next_word: eched
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ec/"
+  label: Starting with EC
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

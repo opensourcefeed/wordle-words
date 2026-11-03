@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 92
 neighbours:
 - quick
+prev_word: quibs
+next_word: quick
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

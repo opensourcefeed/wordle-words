@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _ENDS
   count: 11
+prev_word: hench
+next_word: henge
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

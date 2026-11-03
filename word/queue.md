@@ -49,4 +49,15 @@ definitions:
   - text: To arrange themselves into a physical waiting queue.
   - text: To add to a queue data structure.
   - text: To fasten the hair into a queue.
+prev_word: quete
+next_word: queyn
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: A deep, narrow-mouthed vessel used in north Indian, Pakistani and Bengali
       cooking.
+prev_word: hanch
+next_word: hands
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/di/"
+  label: Ending in DI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

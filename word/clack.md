@@ -57,4 +57,15 @@ definitions:
   - text: To chatter or babble; to utter rapidly without consideration.
   - text: To cut the sheep's mark off (wool), to make the wool weigh less and thus
       yield less duty.
+prev_word: clach
+next_word: clade
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

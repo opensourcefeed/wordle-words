@@ -26,4 +26,15 @@ neighbours:
 - stimy
 anagrams:
 - amity
+prev_word: atilt
+next_word: atlas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

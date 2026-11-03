@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: MORA_
   count: 7
+prev_word: moras
+next_word: moray
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

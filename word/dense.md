@@ -56,4 +56,15 @@ definitions:
   - text: Being a subset of a topological space that approximates the space well.
       See Wikipedia article on dense sets for mathematical definition.
   - text: "(of a person) Slow to comprehend; of low intelligence."
+prev_word: denis
+next_word: dente
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

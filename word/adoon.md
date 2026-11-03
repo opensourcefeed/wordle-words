@@ -27,4 +27,15 @@ neighbours:
 - adown
 anagrams:
 - doona
+prev_word: adobo
+next_word: adopt
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

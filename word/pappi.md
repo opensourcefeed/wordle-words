@@ -33,4 +33,15 @@ definitions:
   - text: The markedly reduced sepals of an Asteraceae floret that take the form of
       trichomes or scale attached to the ovary or seed.
   - text: The first hair on the chin.
+prev_word: papey
+next_word: pappy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/pi/"
+  label: Ending in PI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

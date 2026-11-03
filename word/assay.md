@@ -54,4 +54,15 @@ definitions:
   - text: To test the abilities of (someone) in combat; to fight.
   - text: To affect.
   - text: To try tasting, as food or drink.
+prev_word: assam
+next_word: assed
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

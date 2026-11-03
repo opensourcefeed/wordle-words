@@ -40,4 +40,15 @@ definitions:
   - text: Relating to private relations among citizens, as opposed to criminal matters.
     example: a civil case
   - text: Secular.
+prev_word: civie
+next_word: civvy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

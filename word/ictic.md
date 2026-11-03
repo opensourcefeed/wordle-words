@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 96
 neighbours:
 - octic
+prev_word: ictal
+next_word: ictus
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/ic/"
+  label: Starting with IC
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -42,4 +42,15 @@ anagrams:
 - spate
 - tapes
 - tepas
+prev_word: spear
+next_word: speck
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

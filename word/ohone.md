@@ -27,4 +27,13 @@ neighbours:
 - shone
 - osone
 - rhone
+prev_word: ohmic
+next_word: oicks
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

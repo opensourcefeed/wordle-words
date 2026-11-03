@@ -49,4 +49,15 @@ definitions:
   - text: To curse; put a curse upon.
     example: That man stole my wallet. Damn him!
   - text: To invoke damnation; to curse.
+prev_word: damna
+next_word: damps
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

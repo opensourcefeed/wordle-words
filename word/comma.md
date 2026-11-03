@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: To place a comma or commas within text; to follow, precede, or surround
       a portion of text with commas.
+prev_word: comix
+next_word: comme
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

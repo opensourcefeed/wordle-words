@@ -36,4 +36,15 @@ definitions:
   - text: A young woman who attends college.
   - text: A (generally young) woman, especially on the campus of a college or other
       educational institute.
+prev_word: codon
+next_word: coffs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

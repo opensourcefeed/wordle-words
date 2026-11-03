@@ -100,4 +100,15 @@ definitions:
     example: the steady wind listed the ship
   - text: To tilt to one side.
     example: the ship listed to port
+prev_word: lisps
+next_word: litai
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

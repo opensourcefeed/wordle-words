@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - testy
 - styte
+prev_word: yetis
+next_word: yeuch
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 20
 neighbours:
 - hijra
+prev_word: hejab
+next_word: heled
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

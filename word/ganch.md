@@ -34,4 +34,15 @@ definitions:
 - pos: verb
   defs:
   - text: To drop from a high place upon sharp stakes or hooks as a punishment.
+prev_word: gamut
+next_word: gandy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

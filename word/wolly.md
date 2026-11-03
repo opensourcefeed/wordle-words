@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _OLLY
   count: 12
+prev_word: wolfs
+next_word: wolve
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

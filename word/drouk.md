@@ -23,4 +23,13 @@ stats:
 neighbours:
 - drock
 - drook
+prev_word: dross
+next_word: drove
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

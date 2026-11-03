@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: A nail one or two inches long, of iron, brass, tin, or tinner iron, with
       a hole through the flattened head, used to mark stations in underground surveying.
+prev_word: spado
+next_word: spaed
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

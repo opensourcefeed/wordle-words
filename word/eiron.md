@@ -31,4 +31,13 @@ anagrams:
 - noire
 - norie
 - rione
+prev_word: eilds
+next_word: eisel
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

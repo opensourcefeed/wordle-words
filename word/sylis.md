@@ -25,4 +25,15 @@ neighbours:
 - salis
 anagrams:
 - lysis
+prev_word: sykes
+next_word: sylph
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

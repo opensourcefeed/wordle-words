@@ -44,4 +44,15 @@ definitions:
   - text: To (cause something to) move sideways.
   - text: 'In the intransitive sense often followed by up: to (cause something to)
       advance in a coy, furtive, or unobtrusive manner.'
+prev_word: sidhe
+next_word: siege
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

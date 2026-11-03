@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A Japanese form of pseudomedicine that involves transferring chi through
       one's palms.
+prev_word: reign
+next_word: reiks
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ki/"
+  label: Ending in KI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

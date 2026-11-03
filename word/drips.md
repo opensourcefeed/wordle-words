@@ -43,4 +43,15 @@ definitions:
     example: He couldn't even summon up the courage to ask her name... what a drip!
   - text: That part of a cornice, sill course, or other horizontal member, which projects
       beyond the rest, and has a section designed to throw off rainwater.
+prev_word: drink
+next_word: dript
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

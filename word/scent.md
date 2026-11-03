@@ -63,4 +63,15 @@ definitions:
     example: Scent the air with burning sage before you begin your meditation.
   - text: To have a smell.
   - text: To hunt animals by means of the sense of smell.
+prev_word: scene
+next_word: schav
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

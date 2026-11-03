@@ -28,4 +28,15 @@ neighbours:
 - ruana
 anagrams:
 - aguna
+prev_word: guaco
+next_word: guano
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

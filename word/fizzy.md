@@ -41,4 +41,15 @@ definitions:
   - text: "(of a liquid) Containing bubbles."
   - text: Lively, vivacious.
   - text: Makes a hissing sound.
+prev_word: fixit
+next_word: fjeld
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -25,4 +25,15 @@ stats:
 neighbours:
 - alcea
 - alder
+prev_word: alcos
+next_word: alder
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -27,4 +27,15 @@ neighbours:
 - moove
 - noone
 - poove
+prev_word: noose
+next_word: nopal
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

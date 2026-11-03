@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A variety of grape grown in eastern Hungary and in eastern Slovakia.
   - text: Any of a variety of white wines made from this grape.
+prev_word: toity
+next_word: toked
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

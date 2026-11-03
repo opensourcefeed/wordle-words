@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - peril
 - piler
+prev_word: plied
+next_word: plies
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

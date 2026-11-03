@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: WA_ED
   count: 10
+prev_word: waltz
+next_word: wames
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To form a pact; to agree formally.
+prev_word: pacta
+next_word: padam
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

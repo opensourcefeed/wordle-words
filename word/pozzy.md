@@ -26,4 +26,15 @@ definitions:
 - pos: noun
   defs:
   - text: Jam.
+prev_word: poyse
+next_word: praam
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

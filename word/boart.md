@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: Poor-quality diamond, used for industrial cutting or abrasion; a poorly
       crystallized diamond.
+prev_word: boars
+next_word: boast
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

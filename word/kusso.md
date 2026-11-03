@@ -24,4 +24,15 @@ neighbours:
 - cusso
 anagrams:
 - souks
+prev_word: kurus
+next_word: kusti
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

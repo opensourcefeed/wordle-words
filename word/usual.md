@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Most commonly occurring; typical.
     example: It is becoming more usual these days to rear children as bilingual.
+prev_word: uster
+next_word: usure
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/us/"
+  label: Starting with US
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -39,4 +39,15 @@ definitions:
 - pos: verb
   defs:
   - text: To play this instrument.
+prev_word: fiest
+next_word: fifer
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

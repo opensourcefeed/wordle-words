@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To sing dirges
+prev_word: direr
+next_word: dirke
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

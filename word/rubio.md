@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 41
 neighbours:
 - rubin
+prev_word: rubin
+next_word: ruble
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/io/"
+  label: Ending in IO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -33,4 +33,13 @@ definitions:
 - pos: verb
   defs:
   - text: To tranquilize.
+prev_word: trank
+next_word: trans
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/q/"
+  label: Ending in Q
 ---

@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: Couch grass, a species of persistent grass, Elymus repens, usually considered
       a weed.
+prev_word: cotts
+next_word: coude
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

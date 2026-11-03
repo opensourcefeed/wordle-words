@@ -44,4 +44,15 @@ definitions:
   - text: To ejaculate
   - text: "(leather-working) To develop a white powder or dark crystals on the surface
       of finished leather, as a result from improper tanning."
+prev_word: spuer
+next_word: spugs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

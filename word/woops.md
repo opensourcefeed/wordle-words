@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _OOPS
   count: 11
+prev_word: woons
+next_word: woopy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

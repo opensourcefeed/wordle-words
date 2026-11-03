@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 40
 neighbours:
 - neram
+prev_word: ngoni
+next_word: ngwee
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ng/"
+  label: Starting with NG
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

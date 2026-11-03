@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: A person who attends rave parties, or who belongs to that subculture.
   - text: A person who raves or rants.
+prev_word: raven
+next_word: raves
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

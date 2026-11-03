@@ -40,4 +40,15 @@ definitions:
       molecules of water of crystallisation; sodium tetraborate.
   - text: "(sometimes attributive) Cheap or tawdry furniture or other works of industrial
       design."
+prev_word: boras
+next_word: borde
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ax/"
+  label: Ending in AX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

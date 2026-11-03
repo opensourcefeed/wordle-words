@@ -25,4 +25,15 @@ neighbours:
 - aback
 - abaca
 - abacs
+prev_word: abaca
+next_word: aback
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ci/"
+  label: Ending in CI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

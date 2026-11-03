@@ -50,4 +50,15 @@ definitions:
   - text: A plant of the genus Muscari; grape hyacinth.
   - text: The scent of human genitalia when aroused or unwashed.
     example: I was so excited I could smell my own musk.
+prev_word: musit
+next_word: musky
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

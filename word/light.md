@@ -78,4 +78,15 @@ definitions:
   - text: A traffic light, or, by extension, an intersection controlled by one or
       more that will face a traveler who is receiving instructions.
     example: To get to our house, turn right at the third light.
+prev_word: ligge
+next_word: ligne
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

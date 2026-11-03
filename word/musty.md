@@ -43,4 +43,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having a stale odor.
+prev_word: musts
+next_word: mutas
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

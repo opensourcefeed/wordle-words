@@ -60,4 +60,15 @@ definitions:
       or flatter, to court someone.
   - text: To rail at; to scold.
   - text: To flatter; to fawn on (a person).
+prev_word: clavi
+next_word: clays
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

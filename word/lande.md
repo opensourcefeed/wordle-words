@@ -31,4 +31,15 @@ anagrams:
 - eland
 - laned
 - naled
+prev_word: lanch
+next_word: lands
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

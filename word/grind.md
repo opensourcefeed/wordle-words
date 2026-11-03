@@ -68,4 +68,15 @@ definitions:
     example: Eh, brah, let's go grind.
   - text: To work or study hard; to hustle or drudge.
   - text: To annoy or irritate (a person); to grind one's gears.
+prev_word: grimy
+next_word: grins
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

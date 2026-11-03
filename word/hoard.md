@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To amass, usually for one's own private collection.
+prev_word: hoagy
+next_word: hoars
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

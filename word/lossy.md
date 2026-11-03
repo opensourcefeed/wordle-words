@@ -37,4 +37,15 @@ definitions:
   - text: "(of an algorithm for converting or compressing data) Reducing the amount
       of information in data."
     example: JPEG is a lossy image compression format.
+prev_word: loses
+next_word: lotah
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

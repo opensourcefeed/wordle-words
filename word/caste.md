@@ -48,4 +48,15 @@ definitions:
       with each other.
   - text: A class of polymorphous eusocial insects of a particular size and function
       within a colony.
+prev_word: casky
+next_word: casts
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

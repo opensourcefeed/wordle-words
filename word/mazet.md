@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: MAZE_
   count: 6
+prev_word: mazes
+next_word: mazey
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

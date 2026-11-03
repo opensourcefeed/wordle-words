@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _ARKY
   count: 6
+prev_word: larks
+next_word: larns
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -25,4 +25,13 @@ neighbours:
 - whoot
 anagrams:
 - booth
+prev_word: bhels
+next_word: bhuna
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

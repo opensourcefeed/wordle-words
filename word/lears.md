@@ -48,4 +48,15 @@ anagrams:
 trap:
   pattern: _EARS
   count: 13
+prev_word: learn
+next_word: leary
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

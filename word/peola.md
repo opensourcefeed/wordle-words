@@ -27,4 +27,15 @@ neighbours:
 - pepla
 anagrams:
 - olpae
+prev_word: pents
+next_word: peons
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

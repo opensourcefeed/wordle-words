@@ -35,4 +35,15 @@ definitions:
 - pos: verb
   defs:
   - text: To criticise for petty or frivolous reasons.
+prev_word: cavie
+next_word: cavus
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

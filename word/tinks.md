@@ -49,4 +49,15 @@ definitions:
 - pos: verb
   defs:
   - text: To unknit.
+prev_word: tings
+next_word: tinny
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

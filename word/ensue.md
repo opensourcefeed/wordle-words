@@ -36,4 +36,15 @@ definitions:
   - text: To follow (in time), to be subsequent to.
   - text: To occur afterwards, as a result or effect.
     example: Give three freshmen six bottles of wine, and hilarity will ensue.
+prev_word: ensky
+next_word: enter
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

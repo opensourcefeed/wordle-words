@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: To make into dough.
     example: The flour was doughed with a suitable quantity of water.
+prev_word: doucs
+next_word: douks
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

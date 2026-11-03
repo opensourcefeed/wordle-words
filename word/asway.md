@@ -24,4 +24,15 @@ neighbours:
 - alway
 anagrams:
 - aways
+prev_word: asura
+next_word: aswim
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

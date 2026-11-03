@@ -60,4 +60,15 @@ definitions:
   defs:
   - text: Goods or services that are for sale.
     example: The square was filled with booths, with vendors offering their wares.
+prev_word: wared
+next_word: warez
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

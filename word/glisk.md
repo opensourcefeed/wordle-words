@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 73
 neighbours:
 - flisk
+prev_word: glint
+next_word: glits
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/sk/"
+  label: Ending in SK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

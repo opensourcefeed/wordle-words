@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - terts
 - trets
+prev_word: tress
+next_word: trets
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

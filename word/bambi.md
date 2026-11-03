@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 87
 neighbours:
 - iambi
+prev_word: bamas
+next_word: bamma
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/bi/"
+  label: Ending in BI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

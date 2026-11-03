@@ -24,4 +24,15 @@ stats:
 neighbours:
 - posit
 - pokie
+prev_word: pokie
+next_word: polar
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

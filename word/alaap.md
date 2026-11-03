@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: The opening, improvised section of a Classical raga performance, before
       the formal recitation.
+prev_word: akses
+next_word: alack
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ap/"
+  label: Ending in AP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -67,4 +67,15 @@ definitions:
   - text: To protect the edge of, especially with an ornamental border; hence, to
       face or ornament with lists, laces, etc.
   - text: To fasten by binding; to gird.
+prev_word: guans
+next_word: guars
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

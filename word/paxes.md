@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _AXES
   count: 10
+prev_word: pawns
+next_word: payed
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -24,4 +24,15 @@ neighbours:
 - babus
 - bubas
 - rubus
+prev_word: bubby
+next_word: buchu
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

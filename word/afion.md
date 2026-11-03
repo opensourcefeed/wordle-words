@@ -26,4 +26,15 @@ neighbours:
 - axion
 - anion
 - avion
+prev_word: affly
+next_word: afire
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

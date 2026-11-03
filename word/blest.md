@@ -42,4 +42,15 @@ definitions:
   - text: Worthy of worship; holy.
   - text: An intensifier; damned.
     example: Not one blessed person offered to help me out.
+prev_word: bless
+next_word: blets
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

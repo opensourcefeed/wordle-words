@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A German.
+prev_word: bocci
+next_word: bocks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

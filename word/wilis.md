@@ -29,4 +29,15 @@ neighbours:
 - wiles
 - wills
 - wilts
+prev_word: wilga
+next_word: wilja
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of several birds
+prev_word: pewee
+next_word: peyse
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

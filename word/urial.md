@@ -38,4 +38,15 @@ definitions:
   - text: A bearded reddish sheep, subspecies of Ovis orientalis (including Ovis orientalis
       vignei), previously classified as Ovis vignei, being endemic to southern Asia
       and believed to be a wild ancestor of domestic sheep.
+prev_word: urges
+next_word: urine
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

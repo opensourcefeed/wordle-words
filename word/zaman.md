@@ -28,4 +28,15 @@ neighbours:
 - zamak
 anagrams:
 - namaz
+prev_word: zamak
+next_word: zambo
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

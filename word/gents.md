@@ -48,4 +48,15 @@ definitions:
 - pos: adjective
   defs:
   - text: 'Men''s: intended for use by men.'
+prev_word: genro
+next_word: genty
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

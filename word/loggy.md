@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _OGGY
   count: 8
+prev_word: loges
+next_word: logia
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

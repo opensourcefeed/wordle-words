@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: TRA_S
   count: 9
+prev_word: trass
+next_word: tratt
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

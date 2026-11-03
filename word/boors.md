@@ -48,4 +48,15 @@ definitions:
   - text: A Boer, white South African of Dutch or Huguenot descent.
   - text: A yokel, country bumpkin.
   - text: An uncultured person.
+prev_word: boord
+next_word: boose
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

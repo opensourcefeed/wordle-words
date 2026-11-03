@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _ARER
   count: 8
+prev_word: oared
+next_word: oasal
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oa/"
+  label: Starting with OA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - exfil
 - flexi
+prev_word: felid
+next_word: fella
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

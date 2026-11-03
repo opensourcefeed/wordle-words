@@ -51,4 +51,15 @@ definitions:
     example: a glade of ice
   - text: A gleam of light.
   - text: A bright patch of sky; the bright space between clouds.
+prev_word: glace
+next_word: glads
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -50,4 +50,15 @@ definitions:
       engine and a fire truck, having the ability to provide vertical access as well
       as pump water to fight a fire.
   - text: Quinte; the fifth fencer in parrying or attacking position.
+prev_word: quins
+next_word: quipo
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

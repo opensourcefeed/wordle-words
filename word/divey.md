@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Having the character of a dive, a disreputable bar or nightclub.
     example: That new restaurant is kind of divey.
+prev_word: dives
+next_word: divis
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

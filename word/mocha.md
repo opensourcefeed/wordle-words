@@ -45,4 +45,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of a dark brown colour, like that of mocha coffee.
+prev_word: mocap
+next_word: mochi
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

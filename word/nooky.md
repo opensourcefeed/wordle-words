@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: A pacifier.
+prev_word: nooks
+next_word: noone
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

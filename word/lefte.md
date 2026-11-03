@@ -28,4 +28,15 @@ neighbours:
 - wefte
 anagrams:
 - fleet
+prev_word: leeze
+next_word: lefts
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

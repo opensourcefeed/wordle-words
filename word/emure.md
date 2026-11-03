@@ -24,4 +24,15 @@ stats:
 neighbours:
 - emule
 - enure
+prev_word: emule
+next_word: emyde
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

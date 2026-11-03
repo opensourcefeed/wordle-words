@@ -55,4 +55,15 @@ definitions:
   - text: To be formed into rope; to draw out or extend into a filament or thread.
   - text: To commit suicide.
     example: My life is a mess; I might as well rope.
+prev_word: rooty
+next_word: roper
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

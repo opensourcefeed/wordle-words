@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - wield
 - wiled
+prev_word: dwelt
+next_word: dwine
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dw/"
+  label: Starting with DW
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

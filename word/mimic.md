@@ -43,4 +43,15 @@ definitions:
   - text: Mock, pretended.
   - text: Imitative; characterized by resemblance to other forms; applied to crystals
       which by twinning resemble simple forms of a higher grade of symmetry.
+prev_word: mimes
+next_word: mimis
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

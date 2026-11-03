@@ -43,4 +43,15 @@ definitions:
   - text: Cowardly.
   - text: Immature, childish.
   - text: Producing milk, lactating.
+prev_word: milks
+next_word: mille
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

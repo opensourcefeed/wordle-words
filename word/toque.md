@@ -39,4 +39,15 @@ definitions:
   - text: "(by extension) A chef."
   - text: A variety of bonnet monkey; toque macaque, Macaca sinica.
   - text: An African nominal money of account, equal to 40 cowries.
+prev_word: toppy
+next_word: torah
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

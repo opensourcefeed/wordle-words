@@ -58,4 +58,15 @@ definitions:
     example: to collapse under stress; to give in under interrogation
   - text: As, in the character of.
     example: he writes books under the name John Smith
+prev_word: undee
+next_word: undid
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

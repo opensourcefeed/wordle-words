@@ -35,4 +35,15 @@ definitions:
   - text: A digital graphic icon with a unique code point used to represent a concept
       or object, originally used in Japanese text messaging but since adopted internationally
       in other contexts such as social media.
+prev_word: emmys
+next_word: emong
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/ji/"
+  label: Ending in JI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

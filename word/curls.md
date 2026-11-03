@@ -78,4 +78,15 @@ definitions:
 - pos: noun
   defs:
   - text: Specifically, a body of curly hair on someone's head
+prev_word: curli
+next_word: curly
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

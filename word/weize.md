@@ -26,4 +26,15 @@ neighbours:
 - seize
 - peize
 - weise
+prev_word: weise
+next_word: wekas
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

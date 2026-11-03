@@ -41,4 +41,15 @@ definitions:
   - text: 'Especially of a rapid stream running over stones: to make a loud, confused
       noise.'
   - text: To pour abuse on; to scold.
+prev_word: bravo
+next_word: brawn
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/wl/"
+  label: Ending in WL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

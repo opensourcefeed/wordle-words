@@ -28,4 +28,15 @@ neighbours:
 - bykes
 - byres
 - bytes
+prev_word: byded
+next_word: byked
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/by/"
+  label: Starting with BY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -75,4 +75,15 @@ definitions:
     example: These woods are part of the Campbell property.
   - text: For chemical behavior purposes, trees in full leaf (coniferous or medium-dense
       deciduous forests).
+prev_word: wonts
+next_word: woody
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

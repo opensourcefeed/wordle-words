@@ -25,4 +25,15 @@ neighbours:
 - jukes
 - kukus
 - pukus
+prev_word: jukes
+next_word: julep
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

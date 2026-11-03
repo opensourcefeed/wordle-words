@@ -27,4 +27,15 @@ neighbours:
 - crena
 - frena
 - urent
+prev_word: ureid
+next_word: urent
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -28,4 +28,15 @@ neighbours:
 - ronne
 anagrams:
 - onery
+prev_word: royet
+next_word: royst
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

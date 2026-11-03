@@ -30,4 +30,15 @@ definitions:
   - text: A Nordic poet of the Viking Age
     example: '1913, Henry Bedford-Jones, Flamehair the Skald: A Tale of the Days of
       Hardrede, passim.'
+prev_word: skail
+next_word: skarn
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -54,4 +54,15 @@ definitions:
   - text: A piece of music written for three musicians.
   - text: A passage in the middle of a minuet, frequently in a different key.
   - text: Any cocktail made with a spirit, a liqueur, and a creamy ingredient.
+prev_word: trior
+next_word: tripe
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

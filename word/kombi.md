@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A minivan.
+prev_word: kolos
+next_word: kombu
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/bi/"
+  label: Ending in BI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

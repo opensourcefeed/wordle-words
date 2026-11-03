@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: To replace or restore the weapons or arms of a previously defeated, or disarmed
       army, country, person or other body.
+prev_word: reard
+next_word: rears
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/rm/"
+  label: Ending in RM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

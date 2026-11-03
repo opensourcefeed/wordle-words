@@ -47,4 +47,15 @@ definitions:
     example: Yes, we have seen the wrecked cars and the factories belching smoke and
       the blur of speedy automobiles crowding highways.
   - text: To be ejected or emitted (from something) with spasmodic force or noise.
+prev_word: belay
+next_word: belee
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

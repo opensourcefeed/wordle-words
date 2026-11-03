@@ -45,4 +45,15 @@ definitions:
   - text: Any of several very large pelagic rays of the genus Manta, with winglike
       pectoral fins, a long tail, and two fins resembling horns that project from
       the head.
+prev_word: manso
+next_word: mante
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

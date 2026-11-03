@@ -44,4 +44,15 @@ definitions:
   - text: "(archaic except strewn) To cover, or lie upon, by having been scattered."
     example: Leaves strewed the ground.
   - text: To spread abroad; to disseminate.
+prev_word: strep
+next_word: stria
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ew/"
+  label: Ending in EW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

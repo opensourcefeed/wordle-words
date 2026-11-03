@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: A river flood; an overflow or inundation.
   - text: "(by extension) A sudden rush or increase."
+prev_word: spasm
+next_word: spats
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

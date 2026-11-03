@@ -29,4 +29,15 @@ neighbours:
 - yrent
 anagrams:
 - tuner
+prev_word: urena
+next_word: urged
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

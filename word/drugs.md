@@ -53,4 +53,15 @@ definitions:
 - pos: noun
   defs:
   - text: A drudge.
+prev_word: drubs
+next_word: druid
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

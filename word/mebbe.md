@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 98
 neighbours:
 - rebbe
+prev_word: meaty
+next_word: mebos
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

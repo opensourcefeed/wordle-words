@@ -24,4 +24,13 @@ stats:
   starter_top_percent: 76
 neighbours:
 - appuy
+prev_word: appts
+next_word: appuy
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

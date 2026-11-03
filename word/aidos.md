@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - adios
 - dosai
+prev_word: aidoi
+next_word: aiery
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

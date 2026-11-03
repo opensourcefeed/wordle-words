@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 49
 neighbours:
 - obeys
+prev_word: osetr
+next_word: oshac
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/os/"
+  label: Starting with OS
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

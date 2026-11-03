@@ -26,4 +26,15 @@ neighbours:
 - aroma
 - araba
 - aroha
+prev_word: arnut
+next_word: aroha
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

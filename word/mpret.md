@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 20
 neighbours:
 - mbret
+prev_word: mozos
+next_word: mrads
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

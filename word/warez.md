@@ -35,4 +35,13 @@ definitions:
 - pos: verb
   defs:
   - text: "(leet) To obtain a copy of (software or other works of authorship) illegally."
+prev_word: wares
+next_word: warks
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

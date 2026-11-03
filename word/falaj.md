@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 96
 anagrams:
 - aflaj
+prev_word: fakir
+next_word: fales
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/j/"
+  label: Ending in J
 ---

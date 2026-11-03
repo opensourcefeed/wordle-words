@@ -38,4 +38,15 @@ anagrams:
 - palsa
 - plaas
 - salpa
+prev_word: paaho
+next_word: paans
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

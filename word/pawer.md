@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: PA_ER
   count: 9
+prev_word: pawed
+next_word: pawks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

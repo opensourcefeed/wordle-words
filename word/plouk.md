@@ -25,4 +25,13 @@ neighbours:
 - plonk
 - plook
 - plout
+prev_word: plotz
+next_word: plout
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

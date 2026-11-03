@@ -34,4 +34,15 @@ definitions:
 - pos: adverb
   defs:
   - text: In an ample manner.
+prev_word: ample
+next_word: ampul
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

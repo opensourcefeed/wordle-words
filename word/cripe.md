@@ -33,4 +33,15 @@ neighbours:
 - crise
 anagrams:
 - price
+prev_word: crios
+next_word: crips
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

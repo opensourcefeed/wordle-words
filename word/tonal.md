@@ -41,4 +41,15 @@ definitions:
   - text: Employing tones that have a predictable relationship to some tonic.
   - text: Employing differences in pitch (tones) to distinguish differences in the
       meaning of otherwise similar words (words which would otherwise be homophonic).
+prev_word: tomoz
+next_word: tondi
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

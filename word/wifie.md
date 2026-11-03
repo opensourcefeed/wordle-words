@@ -27,4 +27,15 @@ definitions:
   defs:
   - text: A woman, especially older woman.
   - text: One's wife.
+prev_word: wifey
+next_word: wifts
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

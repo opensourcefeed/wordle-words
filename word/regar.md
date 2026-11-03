@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - garre
 - rager
+prev_word: regal
+next_word: reges
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A woman's hairdo in which most hair is kept above the neck
+prev_word: upbye
+next_word: updry
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/up/"
+  label: Starting with UP
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

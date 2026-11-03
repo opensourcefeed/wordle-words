@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: RE_IT
   count: 6
+prev_word: rebid
+next_word: rebop
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

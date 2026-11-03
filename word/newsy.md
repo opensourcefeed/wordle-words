@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: Containing lots of news; informative.
   - text: Chatty, gossipy.
+prev_word: newly
+next_word: newts
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

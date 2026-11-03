@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A horse that shies.
+prev_word: shwas
+next_word: shyly
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

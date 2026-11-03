@@ -31,4 +31,13 @@ definitions:
 - pos: verb
   defs:
   - text: To eliminate undigested food or waste from the body (as feces).
+prev_word: egers
+next_word: eggar
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

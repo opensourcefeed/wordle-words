@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _ASSE
   count: 6
+prev_word: bason
+next_word: bassi
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

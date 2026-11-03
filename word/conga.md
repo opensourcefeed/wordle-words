@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To dance the conga.
+prev_word: confs
+next_word: conge
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -29,4 +29,13 @@ definitions:
 - pos: noun
   defs:
   - text: Flexography.
+prev_word: flexi
+next_word: fleys
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: Technical
     example: Are there any techy types around? My computer has stopped working.
+prev_word: techs
+next_word: tecta
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

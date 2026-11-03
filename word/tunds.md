@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _UNDS
   count: 6
+prev_word: tunas
+next_word: tuned
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

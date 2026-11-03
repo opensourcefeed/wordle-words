@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _OLTS
   count: 9
+prev_word: tolly
+next_word: tolus
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

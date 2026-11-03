@@ -24,4 +24,15 @@ stats:
 neighbours:
 - haems
 - riems
+prev_word: hides
+next_word: hifis
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

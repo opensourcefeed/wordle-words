@@ -87,4 +87,15 @@ definitions:
   defs:
   - text: To defile
   - text: To corrupt
+prev_word: filer
+next_word: filet
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -80,4 +80,15 @@ definitions:
   - text: One of several spicy sauces typical of the cuisine of Mexico and neighboring
       Central America, especially the sauce which contains chocolate and which is
       used in cooking main dishes, not desserts.
+prev_word: moler
+next_word: moley
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

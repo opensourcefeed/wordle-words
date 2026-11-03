@@ -26,4 +26,13 @@ definitions:
   defs:
   - text: Flair, vitality, or zest; energy; vigor.
     example: The show had a lot of pizzazz, with glittering costumes and upbeat music.
+prev_word: pyxis
+next_word: qadis
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/ending-with/zz/"
+  label: Ending in ZZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

@@ -27,4 +27,15 @@ anagrams:
 - phase
 - shape
 - heaps
+prev_word: ephah
+next_word: ephod
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ep/"
+  label: Starting with EP
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

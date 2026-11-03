@@ -46,4 +46,15 @@ definitions:
   - text: To transfer something.
   - text: To remain (behind); to stay.
   - text: To stop, desist from; to "leave off" (+ noun / gerund).
+prev_word: leats
+next_word: leavy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

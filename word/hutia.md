@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: Any of the medium-sized rodents of the family Capromyidae, which inhabit
       the Caribbean islands.
+prev_word: hutch
+next_word: huzza
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

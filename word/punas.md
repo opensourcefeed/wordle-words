@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: An alpine biological community in the central portion of the Andes in which
       short, coarse grass supports a Native American population.
+prev_word: pumpy
+next_word: punce
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

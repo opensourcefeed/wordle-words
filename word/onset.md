@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: To assault; to set upon.
   - text: To set about; to begin.
+prev_word: onsen
+next_word: ontal
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

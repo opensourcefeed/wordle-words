@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A pair royal; two royal cards (e.g. two kings, or a king and queen).
+prev_word: preys
+next_word: prian
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

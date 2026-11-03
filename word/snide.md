@@ -48,4 +48,15 @@ definitions:
     example: Don't make snide remarks to me.
   - text: Tricky; deceptive; false; spurious; contemptible.
     example: He was a snide lawyer.
+prev_word: snick
+next_word: snied
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

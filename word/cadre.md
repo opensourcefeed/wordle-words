@@ -44,4 +44,15 @@ definitions:
       officers of a regiment forming the staff.
   - text: The core of a managing group, or a member of such a group.
   - text: A small group of people specially trained for a particular purpose or profession.
+prev_word: cadis
+next_word: caeca
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

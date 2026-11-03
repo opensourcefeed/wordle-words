@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _AULT
   count: 6
+prev_word: sauls
+next_word: sauna
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

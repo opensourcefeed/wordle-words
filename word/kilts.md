@@ -53,4 +53,15 @@ definitions:
   - text: A variety of non-bifurcated garments made for men and loosely resembling
       a Scottish kilt, but most often made from different fabrics and not always with
       tartan plaid designs.
+prev_word: kilps
+next_word: kilty
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

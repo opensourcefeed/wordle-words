@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: To put in agony.
   - text: To struggle in extreme pain; to be in agony; to agonize.
+prev_word: throb
+next_word: throw
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/oe/"
+  label: Ending in OE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

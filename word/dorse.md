@@ -47,4 +47,15 @@ anagrams:
 trap:
   pattern: _ORSE
   count: 8
+prev_word: dorsa
+next_word: dorts
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

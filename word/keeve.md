@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: To set in a keeve, or tub, for fermentation.
   - text: To heave; to tilt, as a cart.
+prev_word: keets
+next_word: kefir
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

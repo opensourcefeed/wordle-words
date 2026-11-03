@@ -43,4 +43,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Lewd, vulgar, skanky.
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

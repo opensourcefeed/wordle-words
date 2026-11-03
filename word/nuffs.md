@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _UFFS
   count: 13
+prev_word: nuevo
+next_word: nugae
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -21,4 +21,15 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 37
+prev_word: himbo
+next_word: hinds
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/au/"
+  label: Ending in AU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

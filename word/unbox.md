@@ -29,4 +29,13 @@ definitions:
   - text: To remove from a box.
   - text: To retrieve (a value of a primitive type) from the object in which it is
       boxed.
+prev_word: unbid
+next_word: uncap
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

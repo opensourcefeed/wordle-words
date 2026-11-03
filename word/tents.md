@@ -84,4 +84,15 @@ definitions:
   defs:
   - text: A kind of wine of a deep red color, chiefly from Galicia or Malaga in Spain;
       called also tent wine, and tinta.
+prev_word: tenth
+next_word: tenty
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _IRRS
   count: 6
+prev_word: pirri
+next_word: pisco
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

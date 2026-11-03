@@ -44,4 +44,15 @@ definitions:
   - text: A nipple
   - text: A kitten
   - text: A sister or girl
+prev_word: titre
+next_word: titup
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

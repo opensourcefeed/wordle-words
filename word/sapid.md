@@ -31,4 +31,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Tasty, flavoursome or savoury
+prev_word: sapan
+next_word: sapor
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

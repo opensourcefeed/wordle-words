@@ -30,4 +30,13 @@ definitions:
   defs:
   - text: A measure of the rate of flow of fluid, especially through a pipeline, equal
       to one cubic metre per second (m³/s).
+prev_word: culty
+next_word: cumin
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -50,4 +50,15 @@ definitions:
 - pos: verb
   defs:
   - text: To live (in or with); to shack up.
+prev_word: sezes
+next_word: shade
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

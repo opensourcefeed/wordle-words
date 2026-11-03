@@ -28,4 +28,15 @@ neighbours:
 - ourie
 anagrams:
 - rowie
+prev_word: owres
+next_word: owsen
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ow/"
+  label: Starting with OW
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

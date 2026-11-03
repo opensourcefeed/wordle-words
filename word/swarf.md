@@ -39,4 +39,13 @@ definitions:
 - pos: verb
   defs:
   - text: To grind down.
+prev_word: sware
+next_word: swarm
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

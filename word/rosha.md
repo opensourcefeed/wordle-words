@@ -29,4 +29,15 @@ anagrams:
 - haros
 - hoars
 - horas
+prev_word: roset
+next_word: roshi
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

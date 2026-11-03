@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _USSY
   count: 6
+prev_word: musse
+next_word: musta
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

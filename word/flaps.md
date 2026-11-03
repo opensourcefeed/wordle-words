@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: FLA_S
   count: 9
+prev_word: flans
+next_word: flare
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

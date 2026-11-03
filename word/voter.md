@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: Someone who votes.
     example: In your opinion, should we allow 16 and 17 year olds to become voters?
+prev_word: voted
+next_word: votes
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

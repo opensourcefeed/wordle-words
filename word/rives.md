@@ -55,4 +55,15 @@ definitions:
 - pos: noun
   defs:
   - text: A bank or shore.
+prev_word: river
+next_word: rivet
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

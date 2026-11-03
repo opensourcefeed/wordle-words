@@ -95,4 +95,15 @@ definitions:
       and has a fundamental tone of B♭ˌ (contra B♭).
     example: Jim plays the trombone very well.
   - text: The common European bittern.
+prev_word: boner
+next_word: boney
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: A sandwich.
+prev_word: sangh
+next_word: sangs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

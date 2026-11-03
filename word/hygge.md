@@ -28,4 +28,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Cosy, convivial.
+prev_word: hyens
+next_word: hying
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

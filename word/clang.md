@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: Any periodic sound, especially one composed of a fundamental and harmonics,
       as opposed to simple periodic sounds (sine tones).
+prev_word: clams
+next_word: clank
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _OKED
   count: 8
+prev_word: rojis
+next_word: roker
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

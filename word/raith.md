@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _AITH
   count: 6
+prev_word: raita
+next_word: raits
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

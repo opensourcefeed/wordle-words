@@ -54,4 +54,15 @@ definitions:
   - text: To amaze, stun or otherwise incapacitate by awesomeness; to be awesome at
       something; to kill (slang sense).
   - text: To have sex with
+prev_word: slaid
+next_word: slake
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

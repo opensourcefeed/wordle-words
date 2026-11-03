@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: A kind of slow bodily wasting or emaciating disease, often accompanying
       a chronic disease.
+prev_word: taber
+next_word: tabid
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

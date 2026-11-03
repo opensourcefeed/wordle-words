@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A culturally assimilated Mexican-American.
   - text: Spanglish
+prev_word: poche
+next_word: pocks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ho/"
+  label: Ending in HO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

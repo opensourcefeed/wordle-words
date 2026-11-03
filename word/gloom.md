@@ -47,4 +47,15 @@ definitions:
   - text: To render gloomy or dark; to obscure; to darken.
   - text: To fill with gloom; to make sad, dismal, or sullen.
   - text: To shine or appear obscurely or imperfectly; to glimmer.
+prev_word: gloms
+next_word: gloop
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

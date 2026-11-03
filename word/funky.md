@@ -44,4 +44,15 @@ definitions:
   - text: Relating to or reminiscent of various genres of African American music,
       especially funk.
   - text: Relating to, or characterized by, great fear, or funking.
+prev_word: funks
+next_word: funny
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -72,4 +72,15 @@ definitions:
   - text: To make music upon.
   - text: To subdue or overcome by some secret power, or by that which gives pleasure;
       to allay; to soothe.
+prev_word: chark
+next_word: charr
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/rm/"
+  label: Ending in RM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -30,4 +30,15 @@ anagrams:
 - dreer
 - erred
 - reerd
+prev_word: drent
+next_word: dress
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

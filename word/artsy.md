@@ -37,4 +37,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(sometimes derogatory) Inclined towards the arts; arty."
+prev_word: artly
+next_word: aruhe
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

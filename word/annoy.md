@@ -42,4 +42,15 @@ definitions:
   - text: To do something to upset or anger someone; to be troublesome.
   - text: To molest; to harm; to injure.
     example: to annoy an army by impeding its march, or by a cannonade
+prev_word: annex
+next_word: annul
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/oy/"
+  label: Ending in OY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -28,4 +28,15 @@ neighbours:
 - yarta
 anagrams:
 - carat
+prev_word: carse
+next_word: carte
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

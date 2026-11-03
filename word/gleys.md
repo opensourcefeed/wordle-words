@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of hydric soil, sticky, greenish-blue-grey in colour and low in oxygen.
+prev_word: glent
+next_word: glial
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

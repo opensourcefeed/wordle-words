@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: A dog.
+prev_word: dogey
+next_word: doggy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _AGER
   count: 10
+prev_word: yaffs
+next_word: yages
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

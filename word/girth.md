@@ -54,4 +54,15 @@ definitions:
 - pos: verb
   defs:
   - text: To bind as if with a girth or band.
+prev_word: girsh
+next_word: girts
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

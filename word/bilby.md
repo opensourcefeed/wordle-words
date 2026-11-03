@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: Australian desert marsupial (Macrotis lagotis), with distinctive large ears
       and approximately the size of a rabbit.
+prev_word: bilbo
+next_word: biled
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -89,4 +89,15 @@ definitions:
 - pos: verb
   defs:
   - text: To divide or parcel out.
+prev_word: canto
+next_word: canty
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

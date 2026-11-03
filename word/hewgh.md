@@ -22,4 +22,15 @@ stats:
 neighbours:
 - heigh
 - heugh
+prev_word: hewer
+next_word: hexad
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

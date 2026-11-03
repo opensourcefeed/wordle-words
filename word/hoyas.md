@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any plant of the genus Hoya
+prev_word: hoxes
+next_word: hoyed
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

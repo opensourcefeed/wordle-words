@@ -49,4 +49,15 @@ definitions:
       to be.
     example: That band was ill.
   - text: Unwise; not a good idea.
+prev_word: ilium
+next_word: illth
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/il/"
+  label: Starting with IL
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

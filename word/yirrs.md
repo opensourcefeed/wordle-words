@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _IRRS
   count: 6
+prev_word: yirks
+next_word: yirth
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yi/"
+  label: Starting with YI
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

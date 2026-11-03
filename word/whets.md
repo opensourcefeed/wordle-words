@@ -40,4 +40,15 @@ definitions:
   - text: To stimulate or make more keen.
     example: to whet one's appetite or one's courage
   - text: To preen.
+prev_word: where
+next_word: whews
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

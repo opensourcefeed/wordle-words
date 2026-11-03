@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _OPPY
   count: 8
+prev_word: topos
+next_word: toque
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

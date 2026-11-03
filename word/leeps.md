@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _EEPS
   count: 12
+prev_word: leeks
+next_word: leers
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

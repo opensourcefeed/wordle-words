@@ -29,4 +29,15 @@ neighbours:
 - prese
 anagrams:
 - perve
+prev_word: preux
+next_word: prexy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

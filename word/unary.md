@@ -37,4 +37,15 @@ definitions:
       taking exactly one operand, argument, parameter or input; having domain of dimension
       1."
     example: Negation is a unary operation.
+prev_word: unarm
+next_word: unaus
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

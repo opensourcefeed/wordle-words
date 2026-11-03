@@ -25,4 +25,15 @@ neighbours:
 - begad
 - bemas
 - bemud
+prev_word: belve
+next_word: bemas
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

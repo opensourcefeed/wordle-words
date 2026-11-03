@@ -19,4 +19,13 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 91
+prev_word: zygal
+next_word: zymes
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: To tie again; to tie something that has already been tied or was tied before.
     example: She stopped walking for a moment to retie her shoe.
+prev_word: retia
+next_word: retin
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

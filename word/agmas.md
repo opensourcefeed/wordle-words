@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: The nasalized velar consonant found in such words as song or wink.
   - text: The symbol ŋ, used to represent that nasal velar consonant in IPA; eng.
+prev_word: aglus
+next_word: agoge
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

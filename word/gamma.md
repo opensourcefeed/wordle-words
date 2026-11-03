@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: A nonlinear operation used to encode and decode luminance or tristimulus
       values in video or still image systems.
+prev_word: gamin
+next_word: gamme
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

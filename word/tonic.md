@@ -56,4 +56,15 @@ definitions:
   - text: Pertaining to tension, especially of muscles.
   - text: Restorative, curative or invigorating.
     example: The arrival of the new members had a tonic effect on the team.
+prev_word: tongs
+next_word: tonka
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

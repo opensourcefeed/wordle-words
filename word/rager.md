@@ -48,4 +48,15 @@ definitions:
   - text: One who rages.
   - text: A party, particularly a large, wild party (social event).
   - text: A raging erection; a massive erection of the penis.
+prev_word: ragee
+next_word: rages
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

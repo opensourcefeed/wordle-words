@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Sesame.
     example: benne oil; benne seed
+prev_word: benji
+next_word: benni
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

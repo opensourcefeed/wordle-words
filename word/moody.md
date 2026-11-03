@@ -46,4 +46,15 @@ definitions:
   - text: Sulky or depressed.
   - text: Dour, gloomy or brooding.
   - text: Dodgy or stolen.
+prev_word: moods
+next_word: mooed
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

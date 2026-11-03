@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: "(usually with out) to reach the limit, to reach the maximum."
     example: He maxed out his odds of dating Rebecca
+prev_word: maxed
+next_word: maxim
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

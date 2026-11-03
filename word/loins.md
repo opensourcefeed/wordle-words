@@ -49,4 +49,15 @@ definitions:
 - pos: noun
   defs:
   - text: The pubic region.
+prev_word: loids
+next_word: loipe
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -100,4 +100,15 @@ definitions:
     example: I could go a beer right about now.
   - text: To urinate or defecate.
     example: Have you managed to go today, Mrs. Miggins?
+prev_word: goers
+next_word: goeth
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

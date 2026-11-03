@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _AUDS
   count: 7
+prev_word: dauby
+next_word: dault
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,15 @@ neighbours:
 - rayle
 anagrams:
 - leaky
+prev_word: kayak
+next_word: kayos
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

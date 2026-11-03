@@ -51,4 +51,15 @@ definitions:
 - pos: noun
   defs:
   - text: A locomotive.
+prev_word: locky
+next_word: locum
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

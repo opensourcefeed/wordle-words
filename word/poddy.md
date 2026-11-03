@@ -47,4 +47,15 @@ definitions:
   - text: Of or pertaining to a pod or pods.
   - text: Fat, corpulent.
   - text: "(of a young animal) Fed by hand."
+prev_word: podal
+next_word: podex
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -50,4 +50,15 @@ definitions:
 - pos: verb
   defs:
   - text: To sing; to warble a little tune.
+prev_word: ditts
+next_word: ditzy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

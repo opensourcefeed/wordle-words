@@ -56,4 +56,15 @@ definitions:
   defs:
   - text: "(in combination) Having a specified kind of sole."
     example: a rubber-soled shoe
+prev_word: solds
+next_word: solei
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -34,4 +34,15 @@ definitions:
   - text: Slightly drunk, fuddled, staggering, foolish as a result of drinking alcoholic
       beverages
   - text: "(metonymy) unsteady, askew"
+prev_word: tippy
+next_word: tipup
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

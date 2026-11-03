@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A learner under the supervision of a teacher or professor.
   - text: An orphan who is a minor and under the protection of the state.
+prev_word: pupas
+next_word: puppa
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: _OMOS
   count: 6
+prev_word: jomon
+next_word: jones
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

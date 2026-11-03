@@ -20,4 +20,15 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 98
+prev_word: muist
+next_word: mukim
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

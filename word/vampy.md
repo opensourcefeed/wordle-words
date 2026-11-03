@@ -23,4 +23,15 @@ neighbours:
 - dampy
 - vamps
 - yampy
+prev_word: vamps
+next_word: vanda
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

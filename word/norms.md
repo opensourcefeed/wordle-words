@@ -49,4 +49,15 @@ definitions:
       that maps vectors to non-negative scalars and has the following properties:'
   - text: A high level of performance in a chess tournament, several of which are
       required for a player to receive a title.
+prev_word: norma
+next_word: north
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

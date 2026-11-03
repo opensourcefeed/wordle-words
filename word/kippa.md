@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: The cloth skullcap or yarmulke traditionally worn by male Jews.
+prev_word: kipes
+next_word: kipps
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

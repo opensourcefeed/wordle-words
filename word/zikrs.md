@@ -21,4 +21,15 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 77
+prev_word: zigan
+next_word: zilas
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

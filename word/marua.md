@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: MAR_A
   count: 6
+prev_word: marts
+next_word: marvy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ua/"
+  label: Ending in UA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

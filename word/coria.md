@@ -31,4 +31,15 @@ neighbours:
 - curia
 - moria
 - noria
+prev_word: corgi
+next_word: corks
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

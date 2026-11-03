@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A measure of two hanks of linen thread.
+prev_word: hasks
+next_word: hasta
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

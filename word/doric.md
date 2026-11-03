@@ -29,4 +29,15 @@ neighbours:
 - loric
 - roric
 - toric
+prev_word: dores
+next_word: doris
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

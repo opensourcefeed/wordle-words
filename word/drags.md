@@ -118,4 +118,15 @@ definitions:
 - pos: verb
   defs:
   - text: To perform as a drag queen or drag king.
+prev_word: draft
+next_word: drail
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

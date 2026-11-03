@@ -60,4 +60,15 @@ definitions:
   - text: To furnish with or install a fuse.
   - text: To form a bicyclic compound from two similar or different types of ring
       such that two or more atoms are shared between the resulting rings
+prev_word: fusel
+next_word: fusil
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

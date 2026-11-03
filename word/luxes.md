@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: LU_ES
   count: 8
+prev_word: luxer
+next_word: lweis
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

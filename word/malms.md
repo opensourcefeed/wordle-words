@@ -46,4 +46,15 @@ definitions:
   - text: A soft, crumbly, chalky, grayish limestone.
   - text: An artificial mixture or chalk, clay, and sand, from which bricks are made.
       The resulting bricks have a light brown or yellowish color.
+prev_word: malls
+next_word: malmy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

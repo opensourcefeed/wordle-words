@@ -23,4 +23,15 @@ stats:
 anagrams:
 - lound
 - nould
+prev_word: unode
+next_word: unown
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

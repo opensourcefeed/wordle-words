@@ -21,4 +21,15 @@ neighbours:
 - spume
 anagrams:
 - yumps
+prev_word: spume
+next_word: spunk
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

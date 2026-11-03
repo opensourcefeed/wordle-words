@@ -43,4 +43,15 @@ definitions:
   - text: 'In the International System of Units, the derived unit of power; the power
       of a system in which one joule of energy is transferred per second. Symbol:
       W'
+prev_word: water
+next_word: wauff
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

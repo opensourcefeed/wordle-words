@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ONEY
   count: 6
+prev_word: bones
+next_word: bongo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

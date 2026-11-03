@@ -36,4 +36,15 @@ definitions:
       the ground, commonly appearing descending from a cloud layer.
   - text: "(measurement) A unit of length: a rod, pole or perch (5½ yards); or a unit
       of area: a square rod, pole or perch."
+prev_word: vires
+next_word: virge
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

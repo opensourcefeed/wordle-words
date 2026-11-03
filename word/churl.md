@@ -35,4 +35,15 @@ definitions:
   - text: A rough, surly, ill-bred person; a boor.
   - text: A selfish miser; an illiberal person; a niggard.
   - text: "(Theodism) A freedman, ranked below a thane but above a thrall."
+prev_word: chunk
+next_word: churn
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

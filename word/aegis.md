@@ -34,4 +34,13 @@ definitions:
       than a military shield. The aegis of Athena or Minerva is usually shown with
       a border of snakes and with the head of Medusa in the center.
   - text: 'Usually as under the aegis: guidance, protection; endorsement, sponsorship.'
+prev_word: aeger
+next_word: aeons
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

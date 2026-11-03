@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: Any of a set of signs used in early musical notation.
   - text: A sequence of notes to be sung to one syllable.
+prev_word: neuks
+next_word: neums
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

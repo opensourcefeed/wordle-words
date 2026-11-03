@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: An isolated hill with steep sides and a flat top.
+prev_word: butoh
+next_word: butts
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -84,4 +84,15 @@ definitions:
     example: Woods holed a standard three foot putt
   - text: To cut, dig, or bore a hole or holes in.
     example: to hole a post for the insertion of rails or bars
+prev_word: holed
+next_word: holey
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

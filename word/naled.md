@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ALED
   count: 8
+prev_word: nalas
+next_word: nalla
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

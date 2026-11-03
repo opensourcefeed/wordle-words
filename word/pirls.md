@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _IRLS
   count: 9
+prev_word: pirks
+next_word: pirns
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

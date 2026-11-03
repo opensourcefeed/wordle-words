@@ -29,4 +29,13 @@ anagrams:
 - reais
 - serai
 - seria
+prev_word: aeros
+next_word: aevum
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

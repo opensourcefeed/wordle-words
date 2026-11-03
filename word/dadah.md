@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Recreational drugs
+prev_word: dacks
+next_word: dadas
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

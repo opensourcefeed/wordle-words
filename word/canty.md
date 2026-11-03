@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ANTY
   count: 9
+prev_word: cants
+next_word: capas
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

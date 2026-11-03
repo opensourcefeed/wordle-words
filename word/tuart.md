@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 42
 neighbours:
 - quart
+prev_word: tuans
+next_word: tuath
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

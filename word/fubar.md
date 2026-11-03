@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 56
 neighbours:
 - tubar
+prev_word: fryer
+next_word: fubby
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -26,4 +26,15 @@ neighbours:
 - gombo
 - timbo
 - tombs
+prev_word: toman
+next_word: tombs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

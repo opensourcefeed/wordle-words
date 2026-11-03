@@ -54,4 +54,15 @@ definitions:
   - text: To fall or sink suddenly through or in, when walking on a surface, as on
       thawing snow or ice, a bog, etc.
   - text: "(slang) To cause to collapse; to hit hard; to render unsconscious; to kill."
+prev_word: sluit
+next_word: slums
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

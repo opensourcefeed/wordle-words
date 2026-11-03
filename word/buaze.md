@@ -25,4 +25,15 @@ stats:
 neighbours:
 - blaze
 - braze
+prev_word: buats
+next_word: bubal
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -25,4 +25,15 @@ anagrams:
 - dooms
 - dsomo
 - moods
+prev_word: sodic
+next_word: sofar
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

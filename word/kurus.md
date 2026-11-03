@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A subdivision of currency, equal to one hundredth of a Turkish lira
+prev_word: kurta
+next_word: kusso
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

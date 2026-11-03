@@ -65,4 +65,15 @@ definitions:
     example: She melted when she saw the romantic message in the Valentine's Day card.
   - text: To be very hot and sweat profusely.
     example: I need shade! I'm melting!
+prev_word: melos
+next_word: melty
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

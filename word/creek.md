@@ -39,4 +39,15 @@ definitions:
   - text: A stream of water (often freshwater) smaller than a river and larger than
       a brook.
   - text: Any turn or winding.
+prev_word: creed
+next_word: creel
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

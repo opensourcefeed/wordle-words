@@ -44,4 +44,15 @@ definitions:
   - text: Weird; nonstandard.
   - text: Unreliable; wonky
   - text: Snobbish; haughty
+prev_word: hings
+next_word: hinny
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

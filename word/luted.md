@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To fix or fasten something with lute.
+prev_word: lutea
+next_word: luter
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

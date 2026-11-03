@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 57
 anagrams:
 - saugh
+prev_word: aguna
+next_word: aguti
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

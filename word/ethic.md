@@ -38,4 +38,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Moral, relating to morals.
+prev_word: ether
+next_word: ethne
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/et/"
+  label: Starting with ET
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

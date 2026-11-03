@@ -23,4 +23,15 @@ stats:
 neighbours:
 - halva
 - malwa
+prev_word: malus
+next_word: malwa
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/va/"
+  label: Ending in VA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -31,4 +31,15 @@ anagrams:
 - roops
 - sopor
 - spoor
+prev_word: prose
+next_word: pross
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

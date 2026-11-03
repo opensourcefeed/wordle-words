@@ -28,4 +28,15 @@ neighbours:
 - clews
 - crems
 - ylems
+prev_word: cleik
+next_word: clepe
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

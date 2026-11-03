@@ -34,4 +34,15 @@ anagrams:
 trap:
   pattern: _ICHT
   count: 6
+prev_word: riche
+next_word: ricin
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

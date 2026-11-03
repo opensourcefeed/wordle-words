@@ -27,4 +27,15 @@ anagrams:
 - nivas
 - savin
 - vinas
+prev_word: visit
+next_word: visne
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

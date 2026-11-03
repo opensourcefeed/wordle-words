@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A measurement of the sensitivity of the value of an option to changes in
       the implied volatility of the price of the underlying asset.
+prev_word: vegan
+next_word: veges
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

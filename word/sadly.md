@@ -36,4 +36,15 @@ definitions:
       my friend.
   - text: Very much (of a desire etc.); dearly; urgently.
   - text: Deeply, completely.
+prev_word: sadis
+next_word: sados
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

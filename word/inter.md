@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: To bury in a grave.
   - text: To confine, as in a prison.
+prev_word: intel
+next_word: intil
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

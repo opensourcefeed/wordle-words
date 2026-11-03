@@ -24,4 +24,15 @@ stats:
 neighbours:
 - deuce
 - drice
+prev_word: degus
+next_word: deids
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -37,4 +37,15 @@ definitions:
   - text: The Polynesian fruit tree Morinda citrifolia.
   - text: The fruit of Morinda citrifolia, or a juice made from this fruit that is
       supposed to have healthful qualities
+prev_word: nonic
+next_word: nonna
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

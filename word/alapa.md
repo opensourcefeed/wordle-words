@@ -26,4 +26,15 @@ neighbours:
 - alata
 anagrams:
 - alaap
+prev_word: alant
+next_word: alaps
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

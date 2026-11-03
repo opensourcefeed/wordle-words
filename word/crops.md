@@ -78,4 +78,15 @@ definitions:
   - text: To yield harvest.
   - text: To cause to bear a crop.
     example: to crop a field
+prev_word: croon
+next_word: crore
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

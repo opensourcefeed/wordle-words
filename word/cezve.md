@@ -20,4 +20,15 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 97
+prev_word: cetyl
+next_word: chaap
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

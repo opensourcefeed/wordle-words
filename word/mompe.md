@@ -27,4 +27,15 @@ neighbours:
 - monpe
 anagrams:
 - pomme
+prev_word: momos
+next_word: momus
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

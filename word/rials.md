@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: The official currencies of Iran, Oman, and Yemen.
   - text: An old gold coin of England.
+prev_word: riads
+next_word: riant
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

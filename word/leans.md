@@ -75,4 +75,15 @@ definitions:
 - pos: verb
   defs:
   - text: To conceal.
+prev_word: leams
+next_word: leant
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -28,4 +28,15 @@ neighbours:
 - rudis
 - runds
 - sudds
+prev_word: rudas
+next_word: ruddy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

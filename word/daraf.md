@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 77
 anagrams:
 - farad
+prev_word: dappy
+next_word: darbs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: The univalent hydrocarbon radical, C2H5, formally derived from ethane by
       the loss of a hydrogen atom.
+prev_word: ethos
+next_word: etics
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/et/"
+  label: Starting with ET
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

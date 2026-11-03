@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: Optional singular for thrips, an insect of the order Thysanoptera.
+prev_word: thrid
+next_word: throb
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ip/"
+  label: Ending in IP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

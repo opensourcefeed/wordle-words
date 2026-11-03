@@ -26,4 +26,15 @@ neighbours:
 - clomp
 - cloot
 - gloop
+prev_word: clons
+next_word: cloot
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

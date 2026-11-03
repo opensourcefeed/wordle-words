@@ -32,4 +32,13 @@ definitions:
   defs:
   - text: A monetary pool, in which tips are collected and later shared out between
       all staff, e.g. in a restaurant.
+prev_word: trona
+next_word: trone
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -26,4 +26,15 @@ neighbours:
 - optic
 - ictic
 - ontic
+prev_word: octet
+next_word: octli
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

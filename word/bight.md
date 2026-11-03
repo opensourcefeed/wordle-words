@@ -46,4 +46,15 @@ definitions:
       than a gulf
   - text: A bend or curve in a coastline, river, or other geographical feature.
   - text: A curve in a rope
+prev_word: bigha
+next_word: bigly
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

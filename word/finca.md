@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A country estate, farm or ranch in Spain or Hispanic America.
+prev_word: final
+next_word: finch
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

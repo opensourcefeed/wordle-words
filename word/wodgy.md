@@ -24,4 +24,15 @@ neighbours:
 - podgy
 - wedgy
 - wodge
+prev_word: wodge
+next_word: woful
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

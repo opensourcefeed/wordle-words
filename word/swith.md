@@ -30,4 +30,15 @@ anagrams:
 - whits
 - wisht
 - withs
+prev_word: swiss
+next_word: swits
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

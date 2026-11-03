@@ -41,4 +41,15 @@ definitions:
   - text: To bake in a kiln.
     example: When making pottery we need to allow the bisque to dry before we kiln
       it.
+prev_word: kills
+next_word: kilos
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

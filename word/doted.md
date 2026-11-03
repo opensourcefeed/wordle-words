@@ -54,4 +54,15 @@ definitions:
   - text: Stupid; foolish
   - text: Half-rotten
     example: doted wood
+prev_word: dotal
+next_word: doter
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

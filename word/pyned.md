@@ -28,4 +28,15 @@ neighbours:
 - pyxed
 - syned
 - tyned
+prev_word: pylon
+next_word: pynes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

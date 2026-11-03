@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _AIKS
   count: 9
+prev_word: maiko
+next_word: maile
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

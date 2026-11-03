@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: Beilschmiedia tawa, a New Zealand broadleaf tree.
+prev_word: tawai
+next_word: tawed
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -26,4 +26,15 @@ definitions:
   - text: Any of four isomeric univalent hydrocarbon radicals, C4H9, formally derived
       from butane by the loss of a hydrogen atom.
   - text: A synthetic rubber made by the polymerization of isobutylene.
+prev_word: butut
+next_word: buxom
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

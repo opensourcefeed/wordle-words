@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: An Italian pasta sauce containing ground meat cooked with sautéed vegetables
       in tomato sauce or some other kind of liquid.
+prev_word: ragis
+next_word: rahed
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

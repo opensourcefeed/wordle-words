@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: "(radio telecommunications) Received (used in radio communications to acknowledge
       that a message has been received and understood)"
+prev_word: rogan
+next_word: rogue
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

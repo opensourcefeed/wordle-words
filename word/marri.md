@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: Corymbia calophylla, an Australian tree.
+prev_word: marra
+next_word: marry
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: Pieces of fabric or fibre used for stuffing; as for batting or insulation
   - text: "(usually in the plural) A shoe."
+prev_word: batta
+next_word: battu
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

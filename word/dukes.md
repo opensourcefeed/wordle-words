@@ -52,4 +52,15 @@ definitions:
   - text: To hit or beat with the fists.
   - text: To give cash to; to give a tip to.
     example: I duked him twenty dollars.
+prev_word: duked
+next_word: dukka
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

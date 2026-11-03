@@ -24,4 +24,15 @@ neighbours:
 - broch
 - brogs
 - brugh
+prev_word: brods
+next_word: brogs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

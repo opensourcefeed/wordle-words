@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A groom, or servant with responsibility for the horses.
   - text: "(Malaya) usually syce: chauffeur, driver."
+prev_word: sycee
+next_word: sycon
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

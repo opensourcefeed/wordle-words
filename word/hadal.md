@@ -30,4 +30,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of or relating to the deepest parts of the ocean.
+prev_word: hacky
+next_word: haded
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

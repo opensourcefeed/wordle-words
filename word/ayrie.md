@@ -29,4 +29,13 @@ neighbours:
 - kyrie
 anagrams:
 - aiery
+prev_word: ayres
+next_word: azans
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

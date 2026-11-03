@@ -50,4 +50,15 @@ definitions:
   - text: The sport of racing on luges.
   - text: A piece of ice, bone or other material with a channel down which a (usually
       alcoholic) drink can be poured into someone's mouth.
+prev_word: luger
+next_word: lulls
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

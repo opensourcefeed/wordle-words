@@ -54,4 +54,15 @@ definitions:
   - text: Any bird of one of several species of South American ovenbirds in the genus
       Geositta.
   - text: Software or hardware that mines, or creates new units of cryptocurrency.
+prev_word: mined
+next_word: mines
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

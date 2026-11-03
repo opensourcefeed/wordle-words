@@ -24,4 +24,15 @@ neighbours:
 anagrams:
 - whoso
 - woosh
+prev_word: howre
+next_word: howto
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

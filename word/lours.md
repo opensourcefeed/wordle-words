@@ -48,4 +48,15 @@ definitions:
   - text: 'To be dark, gloomy, and threatening, as clouds; of the sky: to be covered
       with dark and threatening clouds; to show threatening signs of approach, as
       a tempest.'
+prev_word: loure
+next_word: loury
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

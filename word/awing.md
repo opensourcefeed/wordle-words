@@ -40,4 +40,15 @@ definitions:
 - pos: adverb
   defs:
   - text: On the wing; flying; fluttering.
+prev_word: awful
+next_word: awkin
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

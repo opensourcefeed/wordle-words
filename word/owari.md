@@ -26,4 +26,15 @@ stats:
 neighbours:
 - awari
 - oware
+prev_word: oware
+next_word: owche
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ow/"
+  label: Starting with OW
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

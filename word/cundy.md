@@ -26,4 +26,15 @@ neighbours:
 - fundy
 - gundy
 - oundy
+prev_word: cumin
+next_word: cunei
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: Lieutenant.
+prev_word: loofs
+next_word: looks
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

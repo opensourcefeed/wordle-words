@@ -25,4 +25,15 @@ neighbours:
 - sighs
 anagrams:
 - hings
+prev_word: nifty
+next_word: night
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -33,4 +33,13 @@ definitions:
 - pos: noun
   defs:
   - text: A red, acidic dye commonly used in histological stains.
+prev_word: eorls
+next_word: epact
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

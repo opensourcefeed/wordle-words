@@ -27,4 +27,15 @@ neighbours:
 - glent
 anagrams:
 - lento
+prev_word: olein
+next_word: oleos
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

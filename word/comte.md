@@ -30,4 +30,15 @@ neighbours:
 - coste
 anagrams:
 - comet
+prev_word: compt
+next_word: comus
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

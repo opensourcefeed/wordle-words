@@ -27,4 +27,15 @@ neighbours:
 - weize
 anagrams:
 - weeis
+prev_word: weirs
+next_word: weize
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

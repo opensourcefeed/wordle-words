@@ -32,4 +32,15 @@ neighbours:
 - loury
 anagrams:
 - roule
+prev_word: loups
+next_word: lours
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

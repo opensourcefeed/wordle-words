@@ -62,4 +62,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Extremely cold; frozen.
+prev_word: froom
+next_word: frorn
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -73,4 +73,15 @@ definitions:
       block beckets from falling out under slack.
   - text: To navigate by means of a computer mouse.
   - text: To tear, as a cat devours a mouse.
+prev_word: mourn
+next_word: moust
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

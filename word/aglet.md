@@ -40,4 +40,15 @@ definitions:
       to a bodice.
   - text: An ornament worn on clothing, consisting of a metal tag on a fringe, or
       a small metallic plate or spangle.
+prev_word: aglee
+next_word: agley
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

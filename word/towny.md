@@ -46,4 +46,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Characteristic of a town.
+prev_word: towns
+next_word: towse
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

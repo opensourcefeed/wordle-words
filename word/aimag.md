@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - agami
 - amiga
+prev_word: ailed
+next_word: aimak
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/ag/"
+  label: Ending in AG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ARED
   count: 12
+prev_word: eards
+next_word: earls
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

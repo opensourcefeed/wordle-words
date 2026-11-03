@@ -30,4 +30,15 @@ neighbours:
 - asses
 anagrams:
 - sakes
+prev_word: aksed
+next_word: alaap
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ak/"
+  label: Starting with AK
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

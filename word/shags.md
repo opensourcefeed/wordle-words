@@ -62,4 +62,15 @@ definitions:
 - pos: noun
   defs:
   - text: Friend; mate; buddy.
+prev_word: shaft
+next_word: shahs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

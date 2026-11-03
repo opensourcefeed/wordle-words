@@ -36,4 +36,15 @@ definitions:
       etc., when flush with the surface of the water, so that the waves break over
       it); covered with water.
   - text: "(by extension) Covered, overspread (with or in something)."
+prev_word: awarn
+next_word: awato
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -24,4 +24,15 @@ neighbours:
 anagrams:
 - spiny
 - pyins
+prev_word: snips
+next_word: snirt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

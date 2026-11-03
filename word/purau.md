@@ -25,4 +25,15 @@ neighbours:
 - purao
 anagrams:
 - urupa
+prev_word: purao
+next_word: purda
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/au/"
+  label: Ending in AU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

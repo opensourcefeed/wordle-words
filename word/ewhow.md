@@ -21,4 +21,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 79
+prev_word: ewest
+next_word: ewked
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

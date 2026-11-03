@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To kill; to murder.
   - text: "(by extension) To excel in."
+prev_word: duply
+next_word: dural
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

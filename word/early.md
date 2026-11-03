@@ -59,4 +59,15 @@ definitions:
   - text: At a time before expected; sooner than usual.
     example: We finished the project an hour sooner than scheduled, so we left early.
   - text: Soon; in good time; seasonably.
+prev_word: earls
+next_word: earns
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

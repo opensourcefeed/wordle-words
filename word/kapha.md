@@ -24,4 +24,15 @@ neighbours:
 - kacha
 - kaphs
 - kasha
+prev_word: kapas
+next_word: kaphs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A low-lying meadow by the side of a river.
+prev_word: haufs
+next_word: haugo
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

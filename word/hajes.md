@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: HA_ES
   count: 9
+prev_word: haith
+next_word: hajis
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

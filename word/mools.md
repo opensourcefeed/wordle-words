@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _OOLS
   count: 10
+prev_word: mooli
+next_word: mooly
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

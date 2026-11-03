@@ -34,4 +34,15 @@ neighbours:
 - kutas
 - kuyas
 - pulas
+prev_word: kulan
+next_word: kulfi
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

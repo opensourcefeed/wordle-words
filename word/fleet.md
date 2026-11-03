@@ -44,4 +44,15 @@ definitions:
   - text: "(British Royal Navy) Any command of vessels exceeding a squadron in size,
       or a rear admiral's command, composed of five sail-of-the-line, with any number
       of smaller vessels."
+prev_word: flees
+next_word: flegs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

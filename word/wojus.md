@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 92
 neighbours:
 - sojus
+prev_word: woful
+next_word: woken
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

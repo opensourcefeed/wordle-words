@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: To hem and haw
   - text: To talk foolishly; to chatter.
+prev_word: haven
+next_word: haves
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

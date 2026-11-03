@@ -23,4 +23,13 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 60
+prev_word: oyers
+next_word: ozena
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ki/"
+  label: Ending in KI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

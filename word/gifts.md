@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: To give as a gift or donation.
   - text: To give away, to concede easily.
+prev_word: giddy
+next_word: gigas
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: Absence from school or work.
     example: Let's play hooky and go to the mall.
+prev_word: hooks
+next_word: hooly
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

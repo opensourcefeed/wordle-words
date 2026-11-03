@@ -41,4 +41,15 @@ definitions:
   - text: The genus as a whole.
   - text: A ball.
   - text: A person from Bermuda or of Bermudian descent.
+prev_word: ongon
+next_word: onium
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

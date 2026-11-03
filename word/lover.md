@@ -53,4 +53,15 @@ definitions:
     example: a lover of fine wines
   - text: (with "my") An informal term of address for any friend.
     example: All right, me lover?
+prev_word: lovee
+next_word: loves
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

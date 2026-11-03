@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A kilometer.
   - text: "(usually in the plural) Kilometres per hour."
+prev_word: klett
+next_word: klieg
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kl/"
+  label: Starting with KL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

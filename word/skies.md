@@ -67,4 +67,15 @@ definitions:
 - pos: noun
   defs:
   - text: A vibrant light blue colour, like that of the sky on a fine day.
+prev_word: skier
+next_word: skiey
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

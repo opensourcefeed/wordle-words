@@ -30,4 +30,15 @@ definitions:
   - text: A holy war undertaken by Muslims.
   - text: An aggressive campaign for an idea.
   - text: A personal spiritual struggle for self-improvement and/or against evil.
+prev_word: jeffs
+next_word: jehus
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

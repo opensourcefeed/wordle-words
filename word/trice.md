@@ -53,4 +53,15 @@ definitions:
   - text: To pull, to pull out or away, to pull sharply.
   - text: To drag or haul, especially with a rope; specifically to haul or hoist and
       tie up by means of a rope.
+prev_word: tribe
+next_word: trick
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

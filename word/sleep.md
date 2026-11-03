@@ -63,4 +63,15 @@ definitions:
     example: After a failed connection attempt, the program sleeps for 5 seconds before
       trying again.
   - text: To place into a state of hibernation.
+prev_word: sleek
+next_word: sleer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ep/"
+  label: Ending in EP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

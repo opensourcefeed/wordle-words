@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: SI_ER
   count: 6
+prev_word: sizel
+next_word: sizes
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

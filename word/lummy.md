@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _UMMY
   count: 8
+prev_word: lumme
+next_word: lumps
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

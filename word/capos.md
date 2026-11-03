@@ -45,4 +45,15 @@ definitions:
   - text: A leader in the Mafia; a caporegime.
   - text: A leader and organizer of supporters at a sporting event, particularly association
       football matches.
+prev_word: capon
+next_word: capot
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

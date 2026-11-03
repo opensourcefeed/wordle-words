@@ -37,4 +37,15 @@ definitions:
       and releases it, often into the bloodstream (endocrine gland) or into cavities
       inside the body or its outer surface (exocrine gland).
   - text: A secretory structure on the surface of an organ.
+prev_word: glams
+next_word: glans
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

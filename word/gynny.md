@@ -22,4 +22,15 @@ neighbours:
 - genny
 - ginny
 - gunny
+prev_word: gynie
+next_word: gynos
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

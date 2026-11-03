@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Money, cash.
+prev_word: mooks
+next_word: mooli
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

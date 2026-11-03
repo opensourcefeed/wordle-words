@@ -38,4 +38,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Focused on audible sound, as opposed to sight.
+prev_word: audax
+next_word: audit
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/io/"
+  label: Ending in IO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -48,4 +48,15 @@ definitions:
   - text: To drain (resources) without giving back.
     example: Bert leeched hundreds of files from the BBS, but never uploaded anything
       in return.
+prev_word: leear
+next_word: leeks
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

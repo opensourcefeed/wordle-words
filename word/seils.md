@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _EILS
   count: 8
+prev_word: seifs
+next_word: seine
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -33,4 +33,13 @@ definitions:
 - pos: interjection
   defs:
   - text: No.
+prev_word: ixias
+next_word: ixora
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

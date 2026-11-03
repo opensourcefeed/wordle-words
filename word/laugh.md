@@ -61,4 +61,15 @@ definitions:
     example: Don't laugh at my new hat, man!
   - text: To affect or influence by means of laughter or ridicule.
   - text: To express by, or utter with, laughter.
+prev_word: laufs
+next_word: laund
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

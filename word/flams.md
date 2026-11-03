@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(drumming) To play (notes as) a flam."
+prev_word: flamm
+next_word: flamy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

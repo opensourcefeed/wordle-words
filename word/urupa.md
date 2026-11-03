@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: In Māori culture, a burial ground.
+prev_word: urubu
+next_word: urvas
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

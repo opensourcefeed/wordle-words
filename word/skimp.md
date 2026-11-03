@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: To mock, deride, scorn, scold, make fun of.
     example: I thought Adie was only skimpin' me.
+prev_word: skimo
+next_word: skims
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

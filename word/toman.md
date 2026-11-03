@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - manto
 - notam
+prev_word: tolyl
+next_word: tombo
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -24,4 +24,13 @@ stats:
 neighbours:
 - vacua
 - vacui
+prev_word: vacui
+next_word: vadas
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

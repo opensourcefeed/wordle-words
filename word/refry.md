@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - ferry
 - fryer
+prev_word: refly
+next_word: regal
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

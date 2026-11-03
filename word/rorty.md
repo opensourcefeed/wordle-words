@@ -35,4 +35,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Boisterous, rowdy, saucy, dissipated, or risqué.
+prev_word: rorts
+next_word: rosal
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

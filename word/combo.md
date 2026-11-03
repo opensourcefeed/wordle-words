@@ -45,4 +45,15 @@ definitions:
       woman; a Caucasian man who lives among Aboriginal people and adopts Aboriginal
       culture
   - text: A combo box.
+prev_word: combi
+next_word: combs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -55,4 +55,15 @@ definitions:
     example: After a failed connection attempt, the program sleeps for 5 seconds before
       trying again.
   - text: To place into a state of hibernation.
+prev_word: sleet
+next_word: slews
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -25,4 +25,15 @@ neighbours:
 - duroc
 - duros
 - durry
+prev_word: duros
+next_word: durra
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/oy/"
+  label: Ending in OY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

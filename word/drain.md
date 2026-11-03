@@ -67,4 +67,15 @@ definitions:
       exhaust.
   - text: To filter.
   - text: To fall off the bottom of the playfield.
+prev_word: drail
+next_word: drake
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

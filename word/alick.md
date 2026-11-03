@@ -28,4 +28,15 @@ neighbours:
 - alack
 - aleck
 - klick
+prev_word: alibi
+next_word: alien
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

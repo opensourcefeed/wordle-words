@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A stone fruit.
+prev_word: drunk
+next_word: druse
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

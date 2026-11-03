@@ -29,4 +29,15 @@ neighbours:
 - rafty
 - riffy
 - ruffy
+prev_word: raffs
+next_word: rafik
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

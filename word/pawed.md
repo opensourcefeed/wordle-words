@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: Having (a specified kind or number of) paws.
     example: a muddy-pawed puppy
+prev_word: pawaw
+next_word: pawer
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -36,4 +36,15 @@ definitions:
   - text: A bump or protrusion on the top of the cap.
   - text: The boss of a shield, at or near the middle, and usually projecting, sometimes
       in a sharp spike.
+prev_word: umble
+next_word: umbra
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/um/"
+  label: Starting with UM
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

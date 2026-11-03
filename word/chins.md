@@ -63,4 +63,15 @@ definitions:
 - pos: noun
   defs:
   - text: A chinchilla.
+prev_word: chino
+next_word: chips
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

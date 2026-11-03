@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: To provide an alibi for.
   - text: To provide an excuse for.
+prev_word: alias
+next_word: alick
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/bi/"
+  label: Ending in BI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

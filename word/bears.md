@@ -79,4 +79,15 @@ definitions:
     example: By my readings, we're bearing due south, so we should turn about ten
       degrees east.
   - text: To gain or win.
+prev_word: beare
+next_word: beast
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

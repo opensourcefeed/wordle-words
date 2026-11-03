@@ -28,4 +28,15 @@ neighbours:
 - joram
 anagrams:
 - forma
+prev_word: footy
+next_word: foray
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

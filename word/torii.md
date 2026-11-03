@@ -32,4 +32,13 @@ definitions:
   defs:
   - text: A traditional Japanese gate at Shinto shrines, symbolically marking the
       transition from the profane to the sacred.
+prev_word: toric
+next_word: toros
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

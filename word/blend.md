@@ -45,4 +45,15 @@ definitions:
       garlic.
   - text: To be mingled or mixed.
   - text: To pollute by mixture or association; to spoil or corrupt; to blot; to stain.
+prev_word: blees
+next_word: blent
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

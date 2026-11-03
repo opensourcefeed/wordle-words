@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: Characterized by heavy bass sounds.
   - text: Of or pertaining to a financial boom, resources boom, baby boom, etc.
+prev_word: booms
+next_word: boons
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

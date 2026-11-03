@@ -66,4 +66,15 @@ definitions:
 - pos: verb
   defs:
   - text: To shoot poults.
+prev_word: pousy
+next_word: pouty
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -47,4 +47,15 @@ definitions:
   - text: To give warrant or allowance, to grant opportunity or permission (+ of).
     example: circumstances do not admit of this
   - text: To allow to enter a hospital or similar facility for treatment.
+prev_word: admin
+next_word: admix
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

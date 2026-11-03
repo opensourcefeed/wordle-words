@@ -28,4 +28,13 @@ definitions:
 - pos: noun
   defs:
   - text: Any of the genus Ixia of cormous plants native to South Africa.
+prev_word: ivory
+next_word: ixnay
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

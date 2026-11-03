@@ -30,4 +30,15 @@ anagrams:
 - potro
 - proot
 - proto
+prev_word: trope
+next_word: troth
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/po/"
+  label: Ending in PO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

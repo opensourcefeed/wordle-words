@@ -50,4 +50,15 @@ definitions:
 - pos: noun
   defs:
   - text: A tube or tubular organ.
+prev_word: tubar
+next_word: tubby
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

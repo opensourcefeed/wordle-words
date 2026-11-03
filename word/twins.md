@@ -55,4 +55,15 @@ definitions:
 - pos: noun
   defs:
   - text: A woman's breasts
+prev_word: twink
+next_word: twiny
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

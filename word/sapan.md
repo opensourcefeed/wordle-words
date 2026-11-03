@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - napas
 - paans
+prev_word: saola
+next_word: sapid
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

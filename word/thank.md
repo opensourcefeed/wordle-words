@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: An expression of appreciation; a thought.
+prev_word: thang
+next_word: thans
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

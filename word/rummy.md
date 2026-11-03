@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: A card game with many rule variants, conceptually similar to mahjong.
+prev_word: rumly
+next_word: rumor
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

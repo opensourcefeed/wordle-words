@@ -47,4 +47,15 @@ definitions:
   - text: To fill to capacity; to satisfy all demand or requirement; to sate.
     example: to glut one's appetite
   - text: To eat gluttonously or to satiety.
+prev_word: glute
+next_word: glyph
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

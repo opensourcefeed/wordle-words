@@ -44,4 +44,15 @@ definitions:
     example: a scant allowance of provisions or water; a scant pattern of cloth for
       a garment
   - text: Sparing; parsimonious; chary.
+prev_word: scans
+next_word: scapa
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

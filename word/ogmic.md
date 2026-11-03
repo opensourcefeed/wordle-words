@@ -23,4 +23,15 @@ stats:
 neighbours:
 - ohmic
 - osmic
+prev_word: ogles
+next_word: ogres
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/og/"
+  label: Starting with OG
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

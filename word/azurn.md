@@ -25,4 +25,15 @@ neighbours:
 - azure
 - aburn
 - azury
+prev_word: azure
+next_word: azury
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/az/"
+  label: Starting with AZ
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

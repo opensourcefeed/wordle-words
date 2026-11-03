@@ -81,4 +81,15 @@ definitions:
   defs:
   - text: To take root and begin to grow.
   - text: To turn up soil or dig up roots, especially an animal with the snout.
+prev_word: mooth
+next_word: moove
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

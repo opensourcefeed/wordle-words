@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 58
 neighbours:
 - aiyoh
+prev_word: aiyoh
+next_word: aizle
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

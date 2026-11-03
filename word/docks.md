@@ -90,4 +90,15 @@ definitions:
 - pos: noun
   defs:
   - text: A collection of docks, wharves, warehouses and offices
+prev_word: docht
+next_word: docos
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: Tavern; public house
+prev_word: howes
+next_word: howfs
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

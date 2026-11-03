@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _OLEY
   count: 6
+prev_word: doles
+next_word: dolia
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

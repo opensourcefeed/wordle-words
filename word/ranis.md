@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: The wife of a rajah.
   - text: A Hindu princess or female ruler in India.
+prev_word: ranid
+next_word: ranke
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

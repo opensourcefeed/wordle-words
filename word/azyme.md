@@ -25,4 +25,15 @@ neighbours:
 - azyms
 anagrams:
 - mazey
+prev_word: azygy
+next_word: azyms
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/az/"
+  label: Starting with AZ
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

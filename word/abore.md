@@ -33,4 +33,15 @@ neighbours:
 - afore
 - amore
 - ybore
+prev_word: abord
+next_word: aborn
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

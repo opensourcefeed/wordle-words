@@ -50,4 +50,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(rural) billy goat"
+prev_word: pucka
+next_word: puddy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

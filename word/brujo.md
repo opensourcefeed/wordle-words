@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 81
 neighbours:
 - bruja
+prev_word: bruja
+next_word: brule
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

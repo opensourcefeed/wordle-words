@@ -21,4 +21,13 @@ stats:
   starter_top_percent: 70
 neighbours:
 - drags
+prev_word: dazes
+next_word: deads
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -46,4 +46,15 @@ definitions:
     example: The price cut is serving as a promotion of the manufacturer's new beverage
       varieties.
   - text: Forward motion. (Contrast remotion.)
+prev_word: proll
+next_word: proms
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -47,4 +47,15 @@ definitions:
     example: The brake pedal is mushy sometimes when I step on it.
   - text: Overly sappy, corny, or cheesy; maudlin.
     example: Skip the mushy, romantic scenes and get to the action.
+prev_word: musha
+next_word: music
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

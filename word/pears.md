@@ -62,4 +62,15 @@ definitions:
   - text: Choke pear (a torture device).
   - text: Avocado, alligator pear
   - text: A desaturated chartreuse yellow colour, like that of a pear.
+prev_word: pearl
+next_word: peart
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -125,4 +125,15 @@ definitions:
   - text: A gymnastics apparatus and discipline consisting of 2 rings suspended from
       a bar.
   - text: A traditional Irish game of throwing rings onto hooks.
+prev_word: ringe
+next_word: ringy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

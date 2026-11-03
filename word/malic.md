@@ -31,4 +31,15 @@ neighbours:
 - salic
 anagrams:
 - claim
+prev_word: males
+next_word: malik
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -23,4 +23,13 @@ stats:
 neighbours:
 - mvula
 - mvule
+prev_word: mvule
+next_word: myall
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

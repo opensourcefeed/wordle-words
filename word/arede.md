@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - deare
 - eared
+prev_word: aredd
+next_word: arefy
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

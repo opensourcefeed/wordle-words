@@ -45,4 +45,15 @@ definitions:
       spirit, elf or ancestor.
   - text: A ghost, deity or other supernatural entity.
   - text: A wraith-like creature.
+prev_word: wiggy
+next_word: wikis
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

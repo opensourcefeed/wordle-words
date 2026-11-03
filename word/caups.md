@@ -33,4 +33,15 @@ neighbours:
 - yaups
 anagrams:
 - scaup
+prev_word: caums
+next_word: cauri
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

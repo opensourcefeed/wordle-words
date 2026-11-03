@@ -31,4 +31,15 @@ neighbours:
 - gowns
 - howfs
 - sowfs
+prev_word: gowds
+next_word: gowks
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

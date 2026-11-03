@@ -29,4 +29,15 @@ neighbours:
 - yores
 - yowed
 - yowls
+prev_word: yowed
+next_word: yowie
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

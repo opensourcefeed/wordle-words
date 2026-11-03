@@ -29,4 +29,15 @@ neighbours:
 - breve
 anagrams:
 - breed
+prev_word: bream
+next_word: breds
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

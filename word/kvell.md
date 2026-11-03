@@ -28,4 +28,13 @@ definitions:
 - pos: verb
   defs:
   - text: To feel delighted and proud to the point of tears; to boast; to gloat.
+prev_word: kvass
+next_word: kwaai
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

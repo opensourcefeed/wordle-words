@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: To tear apart by force; to rend; to split; to cleave.
   - text: To pierce or cleave with a weapon.
+prev_word: rivas
+next_word: rivel
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To put or keep in, or as in, a vial.
+prev_word: vezir
+next_word: viand
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

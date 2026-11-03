@@ -49,4 +49,15 @@ definitions:
   - text: To produce leaves; put forth foliage.
   - text: To divide (a vegetable) into separate leaves.
     example: The lettuce in our burgers is 100% hand-leafed.
+prev_word: leady
+next_word: leafy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

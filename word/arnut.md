@@ -21,4 +21,15 @@ stats:
   rare: []
   starter_tier: Good
   starter_top_percent: 10
+prev_word: arnis
+next_word: aroba
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -33,4 +33,15 @@ definitions:
       the outside of its lungs; only meat from a glatt animal can be kosher."
   - text: "(Yinglish, by extension, of food) Having no ingredients from animals that
       are not glatt."
+prev_word: glass
+next_word: glaum
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/tt/"
+  label: Ending in TT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -28,4 +28,15 @@ neighbours:
 - mitre
 - mixie
 - yitie
+prev_word: mitey
+next_word: mitis
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

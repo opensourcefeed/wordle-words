@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: Independent; from outside the mainstream.
     example: an indie pop group
+prev_word: india
+next_word: indol
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

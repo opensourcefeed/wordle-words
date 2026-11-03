@@ -23,4 +23,15 @@ neighbours:
 - gleba
 - glebe
 - globy
+prev_word: glebe
+next_word: glede
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

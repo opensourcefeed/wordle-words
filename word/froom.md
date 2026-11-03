@@ -25,4 +25,15 @@ neighbours:
 - groom
 - fromm
 - vroom
+prev_word: front
+next_word: frore
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

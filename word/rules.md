@@ -77,4 +77,15 @@ definitions:
 - pos: verb
   defs:
   - text: To revel.
+prev_word: ruler
+next_word: rully
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

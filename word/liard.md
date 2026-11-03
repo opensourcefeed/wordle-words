@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A small French coin, equivalent to a quarter of a sou.
+prev_word: liang
+next_word: liars
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

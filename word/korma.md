@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A curry made from various spices especially coriander and cumin; and often
       with yoghurt sauce or nuts.
+prev_word: koris
+next_word: koros
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

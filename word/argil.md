@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: Potter's clay.
+prev_word: argan
+next_word: argle
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

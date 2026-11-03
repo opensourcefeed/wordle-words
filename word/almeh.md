@@ -27,4 +27,13 @@ neighbours:
 anagrams:
 - hamel
 - hemal
+prev_word: almas
+next_word: almes
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

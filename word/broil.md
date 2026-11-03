@@ -42,4 +42,15 @@ definitions:
   - text: To cook by direct, radiant heat.
   - text: To expose to great heat.
   - text: To be exposed to great heat.
+prev_word: brogs
+next_word: broke
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

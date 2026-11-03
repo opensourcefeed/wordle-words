@@ -36,4 +36,15 @@ anagrams:
 - stile
 - teils
 - tiles
+prev_word: steik
+next_word: stein
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

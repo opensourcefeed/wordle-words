@@ -33,4 +33,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Like a dork.
+prev_word: dorks
+next_word: dorms
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

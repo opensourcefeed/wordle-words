@@ -27,4 +27,15 @@ neighbours:
 - short
 - shool
 - whorl
+prev_word: shore
+next_word: shorn
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 97
 neighbours:
 - jetes
+prev_word: jesus
+next_word: jetes
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

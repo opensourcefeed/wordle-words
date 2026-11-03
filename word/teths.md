@@ -29,4 +29,15 @@ neighbours:
 - taths
 - techs
 - tetes
+prev_word: tetes
+next_word: tetra
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

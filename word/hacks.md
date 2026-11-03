@@ -147,4 +147,15 @@ definitions:
 - pos: verb
   defs:
   - text: To play hackeysack.
+prev_word: hacek
+next_word: hacky
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

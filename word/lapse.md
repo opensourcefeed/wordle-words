@@ -59,4 +59,15 @@ definitions:
   - text: To become void.
   - text: To fall or pass from one proprietor to another, or from the original destination,
       by the omission, negligence, or failure of somebody, such as a patron or legatee.
+prev_word: lappy
+next_word: larch
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

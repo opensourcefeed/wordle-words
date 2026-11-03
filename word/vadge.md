@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: The vagina.
+prev_word: vades
+next_word: vagal
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

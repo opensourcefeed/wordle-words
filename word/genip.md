@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A succulent berry with a thick rind, the fruit of plants in the genus Genipa.
+prev_word: genio
+next_word: genny
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ip/"
+  label: Ending in IP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -66,4 +66,15 @@ definitions:
   - text: "(of a phonological rule) To destroy the environment where another phonological
       rule would have applied."
     example: Labialization bleeds palatalization.
+prev_word: blech
+next_word: bleep
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

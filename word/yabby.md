@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To search for yabbies.
+prev_word: yabba
+next_word: yacca
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

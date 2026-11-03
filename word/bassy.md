@@ -31,4 +31,15 @@ neighbours:
 - massy
 anagrams:
 - abyss
+prev_word: basso
+next_word: basta
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

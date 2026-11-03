@@ -93,4 +93,15 @@ definitions:
   - text: Stale; worthless
   - text: Covered with the eggs and larvae of flies; flyblown.
   - text: Given a hot rod blower.
+prev_word: blots
+next_word: blows
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -34,4 +34,15 @@ definitions:
     example: Sam is sad that people don't visit him at home on Shabbos because he
       lives outside the eruv.
   - text: One of the other types of eruv; an eruv tavshilin or eruv techumin.
+prev_word: erupt
+next_word: erven
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/vs/"
+  label: Ending in VS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

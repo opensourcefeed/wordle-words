@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _UFFY
   count: 6
+prev_word: ruffs
+next_word: rufus
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A cuckoo.
   - text: A fool.
+prev_word: gowfs
+next_word: gowls
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

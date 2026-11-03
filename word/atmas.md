@@ -32,4 +32,15 @@ neighbours:
 - atuas
 anagrams:
 - tamas
+prev_word: atman
+next_word: atmos
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

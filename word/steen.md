@@ -53,4 +53,15 @@ definitions:
   - text: To pelt with stones; throw stones at; stone.
   - text: To fit with stones; mend, line, pave, etc. with stones.
     example: to stean a well
+prev_word: steem
+next_word: steep
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

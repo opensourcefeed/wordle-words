@@ -29,4 +29,15 @@ anagrams:
 - dwale
 - lawed
 - waled
+prev_word: wazoo
+next_word: weals
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

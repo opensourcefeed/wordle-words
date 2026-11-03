@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _OOPS
   count: 11
+prev_word: roons
+next_word: roopy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

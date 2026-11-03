@@ -31,4 +31,15 @@ neighbours:
 - porgy
 - pungy
 - songy
+prev_word: pongs
+next_word: ponks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

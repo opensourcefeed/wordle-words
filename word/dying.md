@@ -82,4 +82,15 @@ definitions:
     example: In the dying moments of daylight I glimpsed a sail on the horizon.
   - text: Pertaining to death, or the moments before death.
     example: His dying words were of his mother.
+prev_word: dyers
+next_word: dyked
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dy/"
+  label: Starting with DY
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

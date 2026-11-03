@@ -21,4 +21,15 @@ stats:
 anagrams:
 - humps
 - sumph
+prev_word: umped
+next_word: umpie
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/um/"
+  label: Starting with UM
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

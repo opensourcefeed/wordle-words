@@ -50,4 +50,15 @@ definitions:
     example: He seems to be ill.   Her eyes seem blue.   It seems like it is going
       to rain later.   How did she seem to you?
   - text: To befit; to beseem.
+prev_word: seely
+next_word: seeps
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

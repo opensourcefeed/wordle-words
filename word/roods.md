@@ -49,4 +49,15 @@ definitions:
   - text: A crucifix, cross, especially in a church.
   - text: A measure of land area, equal to a quarter of an acre.
   - text: A measure of five and a half yards in length.
+prev_word: ronuk
+next_word: roofs
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

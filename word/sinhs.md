@@ -32,4 +32,15 @@ anagrams:
 trap:
   pattern: SIN_S
   count: 6
+prev_word: sings
+next_word: sinks
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

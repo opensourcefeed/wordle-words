@@ -33,4 +33,15 @@ definitions:
   - text: Characterized by camp or kitsch, especially when deliberate or intentional.
     example: Stu liked to watch campy B-movie horror flicks from the 1950s, not because
       they scared him, but because he found them funny.
+prev_word: camps
+next_word: camus
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

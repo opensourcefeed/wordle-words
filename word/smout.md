@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: S_OUT
   count: 6
+prev_word: smote
+next_word: smowt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

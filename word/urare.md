@@ -28,4 +28,15 @@ neighbours:
 - urari
 - urase
 - urate
+prev_word: uraos
+next_word: urari
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of several classes of (mostly heterocyclic) compounds derived from urea
+prev_word: ureic
+next_word: urena
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

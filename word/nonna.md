@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: Grandmother
+prev_word: nonis
+next_word: nonno
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A vacation.
+prev_word: vacas
+next_word: vacua
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

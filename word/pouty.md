@@ -38,4 +38,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Tending to pout; angry in a childish or cute way; showing mock anger.
+prev_word: pouts
+next_word: povos
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -35,4 +35,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having tusks, especially prominent tusks.
+prev_word: tusks
+next_word: tutee
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

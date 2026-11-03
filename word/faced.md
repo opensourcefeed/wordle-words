@@ -83,4 +83,15 @@ definitions:
   - text: "(in combination) Having a specified type or number of faces."
   - text: Having the outer surface dressed, with the front, as of a dress, covered
       ornamentally with another material.
+prev_word: fable
+next_word: facer
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

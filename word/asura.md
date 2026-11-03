@@ -33,4 +33,15 @@ definitions:
   - text: Deities among the Hindu dharma. Considered to be a group of power-seeking
       deities, sometimes referred to as devas.
   - text: The lowest class of deities and demigods of the Kāmadhātu.
+prev_word: astun
+next_word: asway
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

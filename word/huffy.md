@@ -38,4 +38,15 @@ definitions:
   - text: Haughty, arrogant
   - text: Puffed up.
     example: huffy bread
+prev_word: huffs
+next_word: huger
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

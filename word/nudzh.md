@@ -18,4 +18,13 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 96
+prev_word: nudie
+next_word: nuevo
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

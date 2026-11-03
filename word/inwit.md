@@ -23,4 +23,15 @@ stats:
 neighbours:
 - innit
 - unwit
+prev_word: inver
+next_word: iodic
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

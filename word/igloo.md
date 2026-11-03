@@ -40,4 +40,13 @@ definitions:
       hole in the sea ice.
   - text: A reinforced bunker for the storage of nuclear weapons.
   - text: "(logistics) A kind of airfreight cargo container."
+prev_word: igged
+next_word: iglus
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

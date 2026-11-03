@@ -47,4 +47,15 @@ definitions:
     example: It was such a nice day I decided to bike to the store, though it's far
       enough I usually take my car.
   - text: To transport by bicycle
+prev_word: bijou
+next_word: biker
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

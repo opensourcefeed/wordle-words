@@ -66,4 +66,15 @@ definitions:
   defs:
   - text: The (often spherical) end of the head of a hammer opposite the main hammering
       end.
+prev_word: panel
+next_word: panga
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

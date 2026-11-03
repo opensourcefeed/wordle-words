@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: A noxious or corroding worry.
   - text: The state of being filled with worry.
+prev_word: cargo
+next_word: carle
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

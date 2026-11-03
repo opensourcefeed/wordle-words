@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A saline evaporite, consisting of mixture of sodium carbonate and sodium
       bicarbonate, Na3HCO3CO3·2H2O.
+prev_word: tromp
+next_word: tronc
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

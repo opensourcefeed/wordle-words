@@ -40,4 +40,15 @@ definitions:
 - pos: verb
   defs:
   - text: To face (an embankment, etc.) with masonry, wood, or other material.
+prev_word: revel
+next_word: revie
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

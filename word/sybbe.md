@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 76
 neighbours:
 - syboe
+prev_word: swung
+next_word: sybil
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

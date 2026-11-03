@@ -25,4 +25,13 @@ stats:
 anagrams:
 - louse
 - ousel
+prev_word: euros
+next_word: evade
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

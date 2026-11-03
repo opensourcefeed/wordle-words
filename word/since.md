@@ -55,4 +55,15 @@ definitions:
   - text: Because.
     example: Since you didn't call, we left without you.
   - text: When or that.
+prev_word: simul
+next_word: sinds
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

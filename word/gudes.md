@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: _UDES
   count: 6
+prev_word: gucky
+next_word: guess
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -28,4 +28,15 @@ neighbours:
 - drook
 - drouk
 - trock
+prev_word: drive
+next_word: droid
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

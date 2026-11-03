@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _UGGY
   count: 7
+prev_word: rugby
+next_word: ruice
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

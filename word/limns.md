@@ -39,4 +39,15 @@ definitions:
   - text: To draw or paint; to delineate.
   - text: To illuminate, as a manuscript; to decorate with gold or some other bright
       colour.
+prev_word: limma
+next_word: limos
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

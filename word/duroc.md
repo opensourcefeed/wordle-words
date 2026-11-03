@@ -31,4 +31,13 @@ definitions:
 - pos: noun
   defs:
   - text: A pig of a reddish breed developed in North America.
+prev_word: durns
+next_word: duros
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

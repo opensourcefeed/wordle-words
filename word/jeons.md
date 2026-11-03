@@ -29,4 +29,15 @@ neighbours:
 - peons
 anagrams:
 - jones
+prev_word: jenny
+next_word: jerid
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

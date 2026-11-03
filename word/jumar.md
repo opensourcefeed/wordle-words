@@ -30,4 +30,15 @@ definitions:
 - pos: verb
   defs:
   - text: To climb using this device.
+prev_word: julia
+next_word: jumbo
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

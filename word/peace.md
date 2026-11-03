@@ -60,4 +60,15 @@ definitions:
   defs:
   - text: Shut up!, silence!; be quiet, be silent.
   - text: Shortened form of peace out; goodbye.
+prev_word: paysd
+next_word: peach
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

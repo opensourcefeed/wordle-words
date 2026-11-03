@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 48
 neighbours:
 - rikka
+prev_word: rikka
+next_word: riled
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

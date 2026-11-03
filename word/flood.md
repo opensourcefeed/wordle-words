@@ -51,4 +51,15 @@ definitions:
   - text: To paste numerous lines of text to (a chat system) in order to disrupt the
       conversation.
   - text: To bleed profusely, as after childbirth.
+prev_word: flong
+next_word: floor
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/od/"
+  label: Ending in OD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

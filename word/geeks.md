@@ -67,4 +67,15 @@ definitions:
 - pos: verb
   defs:
   - text: To look; to peep; to stare about intently.
+prev_word: gecks
+next_word: geeky
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

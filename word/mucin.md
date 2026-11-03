@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of several glycoproteins found in mucus
+prev_word: mucid
+next_word: mucko
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

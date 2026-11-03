@@ -56,4 +56,13 @@ definitions:
     example: an oiled machine; a person's oiled body
   - text: Drunk. Usually in conjunction with well.
     example: I got well oiled last night.
+prev_word: oidia
+next_word: oiler
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

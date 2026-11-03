@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 32
 neighbours:
 - doily
+prev_word: dohyo
+next_word: doily
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

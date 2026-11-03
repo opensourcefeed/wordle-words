@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 68
 neighbours:
 - dexes
+prev_word: dexie
+next_word: dhaba
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

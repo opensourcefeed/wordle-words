@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make this sound; to walk so as to make this sound.
+prev_word: cloot
+next_word: close
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

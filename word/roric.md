@@ -29,4 +29,15 @@ neighbours:
 - rorid
 - rorie
 - toric
+prev_word: rores
+next_word: rorid
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

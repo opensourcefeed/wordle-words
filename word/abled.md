@@ -38,4 +38,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(in combination) Having a range of physical powers as specified."
+prev_word: abjud
+next_word: abler
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

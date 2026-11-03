@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _YTES
   count: 6
+prev_word: gyrus
+next_word: gyved
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

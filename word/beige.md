@@ -38,4 +38,15 @@ definitions:
   - text: Having a slightly yellowish gray colour, as that of unbleached wool.
   - text: Comfortably dull and unadventurous, in a way that suggests middle-class
       suburbia.
+prev_word: begun
+next_word: beigy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

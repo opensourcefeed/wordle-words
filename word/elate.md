@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: Elated; exultant
   - text: Lifted up; raised; elevated.
+prev_word: elans
+next_word: elbow
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

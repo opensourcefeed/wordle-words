@@ -42,4 +42,15 @@ definitions:
     example: I need to glue the chair-leg back into place.
   - text: To cause something to adhere closely to; to follow attentively.
     example: His eyes were glued to the screen.
+prev_word: gloze
+next_word: gluer
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

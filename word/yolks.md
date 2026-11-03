@@ -44,4 +44,15 @@ definitions:
   - text: The yellow, spherical part of an egg that is surrounded by the white albumen,
       and serves as nutriment for the growing young.
   - text: The grease in a sheep's fleece.
+prev_word: yokul
+next_word: yolky
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

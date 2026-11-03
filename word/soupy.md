@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: Resembling soup; creamy.
   - text: Extravagant sentimental; slushy.
+prev_word: soups
+next_word: sours
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

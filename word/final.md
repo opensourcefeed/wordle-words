@@ -54,4 +54,15 @@ definitions:
       end in view.
   - text: "(grammar) Expressing purpose; as in the term final clause."
   - text: Word-final, occurring at the end of a word.
+prev_word: filum
+next_word: finca
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

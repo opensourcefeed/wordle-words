@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - idiom
 - modii
+prev_word: imide
+next_word: imids
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

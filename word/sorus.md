@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: Any reproductive structure, in some lichens and fungi, that produces spores.
   - text: A cluster of sporangia on the edge or underside of a fern frond.
+prev_word: sorts
+next_word: soths
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

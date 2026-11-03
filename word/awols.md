@@ -25,4 +25,15 @@ stats:
 neighbours:
 - apols
 - awdls
+prev_word: awoke
+next_word: awork
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

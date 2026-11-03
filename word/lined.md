@@ -80,4 +80,15 @@ definitions:
   - text: "(of paper) Having lines, ruled."
     example: For handwritten work Fred preferred lined paper to plain.
   - text: "(of skin) Having visible lines or wrinkles."
+prev_word: lindy
+next_word: linen
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

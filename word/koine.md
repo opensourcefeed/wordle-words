@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A lingua franca.
   - text: A regional language that becomes standard over time.
+prev_word: kohls
+next_word: koiwi
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

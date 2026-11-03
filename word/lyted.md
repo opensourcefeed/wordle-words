@@ -28,4 +28,15 @@ neighbours:
 - lysed
 - lytes
 - wyted
+prev_word: lyssa
+next_word: lytes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

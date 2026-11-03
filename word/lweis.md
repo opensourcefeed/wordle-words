@@ -28,4 +28,13 @@ anagrams:
 - weils
 - wiels
 - wiles
+prev_word: luxes
+next_word: lyams
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

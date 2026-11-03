@@ -60,4 +60,15 @@ definitions:
 - pos: verb
   defs:
   - text: To close with a hatch or hatches.
+prev_word: hasty
+next_word: hated
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

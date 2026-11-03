@@ -70,4 +70,15 @@ definitions:
   - text: To add a detectable substance, either transiently or permanently, to a biological
       substance in order to track the presence of the label-substance combination
       either in situ or in vitro
+prev_word: labda
+next_word: labia
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

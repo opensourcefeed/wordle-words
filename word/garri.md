@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A West African food made from fried mashed cassava tubers.
+prev_word: garre
+next_word: garth
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

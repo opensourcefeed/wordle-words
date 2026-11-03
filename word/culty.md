@@ -24,4 +24,15 @@ neighbours:
 - culti
 - cults
 - cutty
+prev_word: cults
+next_word: cumec
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

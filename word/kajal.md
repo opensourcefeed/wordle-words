@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: Kohl.
+prev_word: kains
+next_word: kakas
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

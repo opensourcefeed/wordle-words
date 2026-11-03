@@ -38,4 +38,15 @@ definitions:
       to develop.
   - text: To isolate (a substance) from a compound; to extract.
   - text: To cause or generate; to bring about.
+prev_word: edits
+next_word: educt
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ed/"
+  label: Starting with ED
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -49,4 +49,15 @@ definitions:
   - text: To utter with a grimace or contemptuous expression; to say sneeringly.
     example: '"Now here''s someone who should attend privilege workshops," sneered
       she.'
+prev_word: sneed
+next_word: snees
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ENTS
   count: 14
+prev_word: henry
+next_word: hepar
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: S_IVE
   count: 6
+prev_word: stirs
+next_word: stivy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

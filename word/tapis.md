@@ -46,4 +46,15 @@ definitions:
   - text: A tapestry.
   - text: Carpeting.
   - text: The cover of a council table.
+prev_word: tapir
+next_word: tappa
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

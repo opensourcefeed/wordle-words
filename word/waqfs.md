@@ -24,4 +24,15 @@ neighbours:
 - waffs
 - waifs
 - wakfs
+prev_word: wanze
+next_word: warbs
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

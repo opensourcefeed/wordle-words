@@ -26,4 +26,15 @@ neighbours:
 - rumpy
 anagrams:
 - rompu
+prev_word: rumor
+next_word: rumps
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/po/"
+  label: Ending in PO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

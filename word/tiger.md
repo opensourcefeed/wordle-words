@@ -50,4 +50,15 @@ definitions:
   - text: A tiger beetle.
   - text: A tiger butterfly in tribe Danaini, especially subtribe Danaina
   - text: A relatively small country or group of countries with a fast-growing economy.
+prev_word: tifts
+next_word: tiges
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _EALS
   count: 14
+prev_word: zazen
+next_word: zebec
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/ze/"
+  label: Starting with ZE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

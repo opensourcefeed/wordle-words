@@ -29,4 +29,15 @@ neighbours:
 - piccy
 - piley
 - ricey
+prev_word: piccy
+next_word: pichi
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -132,4 +132,15 @@ definitions:
       attractive."
     example: In my first job, I learned how to operate a till and to face the store
       to high standards.
+prev_word: facer
+next_word: facet
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

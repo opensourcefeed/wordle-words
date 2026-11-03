@@ -24,4 +24,15 @@ neighbours:
 - nikah
 - nikau
 - niqab
+prev_word: nihil
+next_word: nikah
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ab/"
+  label: Ending in AB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

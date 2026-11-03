@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A univalent organic radical (-SH) containing a sulphur and a hydrogen atom;
       a compound containing such a radical.
+prev_word: thins
+next_word: third
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

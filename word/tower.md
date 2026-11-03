@@ -68,4 +68,15 @@ definitions:
       an ill omen.
   - text: The nineteenth Lenormand card, representing structure, bureaucracy, stability
       and loneliness.
+prev_word: towel
+next_word: towie
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

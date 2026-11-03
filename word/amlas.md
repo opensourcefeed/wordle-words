@@ -31,4 +31,15 @@ anagrams:
 - almas
 - lamas
 - malas
+prev_word: amity
+next_word: amman
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

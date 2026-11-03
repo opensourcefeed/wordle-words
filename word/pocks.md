@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: A pus-filled swelling on the surface on the skin caused by an eruptive disease.
   - text: Any pit, especially one formed as a scar
+prev_word: pocho
+next_word: pocky
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

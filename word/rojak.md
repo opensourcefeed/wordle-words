@@ -22,4 +22,15 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 57
+prev_word: roist
+next_word: rojis
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

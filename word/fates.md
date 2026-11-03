@@ -62,4 +62,15 @@ definitions:
   - text: To foreordain or predetermine, to make inevitable.
     example: The oracle's prediction fated Oedipus to kill his father; not all his
       striving could change what would occur.
+prev_word: fated
+next_word: fatly
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

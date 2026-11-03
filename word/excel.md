@@ -36,4 +36,15 @@ definitions:
     example: I excelled everyone else with my exam results.
   - text: To be much better than others.
   - text: To exceed, to go beyond
+prev_word: exams
+next_word: exeat
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

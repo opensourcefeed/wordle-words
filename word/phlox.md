@@ -25,4 +25,13 @@ definitions:
 - pos: noun
   defs:
   - text: Any flowering plant of the genus Phlox.
+prev_word: phizz
+next_word: phobe
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

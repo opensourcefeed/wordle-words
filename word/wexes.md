@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _EXES
   count: 11
+prev_word: wexed
+next_word: whack
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

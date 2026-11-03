@@ -39,4 +39,15 @@ definitions:
   - text: A fabric resembling velvet, but having the nap flat and less close.
   - text: A wetland consisting of a small depression, with or without standing water,
       often in a salt marsh or other coastal wetland.
+prev_word: panna
+next_word: panni
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

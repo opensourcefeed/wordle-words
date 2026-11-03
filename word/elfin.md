@@ -40,4 +40,15 @@ definitions:
   - text: A little urchin or child.
   - text: Any of the butterflies in the subgenus Incisalia of the North American lycaenid
       genus Callophrys.
+prev_word: elfed
+next_word: eliad
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

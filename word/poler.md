@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: One who propels a boat using a pole.
   - text: A horse harnessed alongside the shaft or pole of a vehicle.
+prev_word: poled
+next_word: poles
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

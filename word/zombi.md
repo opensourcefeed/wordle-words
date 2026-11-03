@@ -25,4 +25,15 @@ neighbours:
 - combi
 - kombi
 - zimbi
+prev_word: zolle
+next_word: zonae
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/bi/"
+  label: Ending in BI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

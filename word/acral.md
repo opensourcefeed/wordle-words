@@ -26,4 +26,15 @@ neighbours:
 - aural
 anagrams:
 - craal
+prev_word: acorn
+next_word: acred
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

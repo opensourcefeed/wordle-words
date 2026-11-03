@@ -52,4 +52,15 @@ definitions:
 - pos: noun
   defs:
   - text: A valley.
+prev_word: vakil
+next_word: valet
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

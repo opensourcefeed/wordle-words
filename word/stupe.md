@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A stupid person or (rarely) thing.
     example: He thinks Santa lives at the South Pole? What a stupe!
+prev_word: stupa
+next_word: sture
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -26,4 +26,15 @@ neighbours:
 - gemma
 - germy
 - jemmy
+prev_word: gemma
+next_word: gemot
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

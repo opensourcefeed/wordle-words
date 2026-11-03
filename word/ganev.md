@@ -24,4 +24,13 @@ neighbours:
 - ganef
 anagrams:
 - vegan
+prev_word: ganef
+next_word: gangs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/v/"
+  label: Ending in V
 ---

@@ -29,4 +29,15 @@ anagrams:
 - adman
 - daman
 - damna
+prev_word: nalla
+next_word: namak
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

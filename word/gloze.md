@@ -42,4 +42,15 @@ definitions:
   - text: To use flattering language.
   - text: To smooth over; to palliate by specious explanation.
   - text: To give a shine to (something or someone).
+prev_word: glowy
+next_word: glued
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

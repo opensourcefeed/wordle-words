@@ -24,4 +24,13 @@ neighbours:
 - yclad
 anagrams:
 - decyl
+prev_word: yclad
+next_word: ycond
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

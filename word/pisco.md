@@ -30,4 +30,15 @@ definitions:
   - text: A liquor distilled from grapes (a brandy) made in wine-producing regions
       of Peru and Chile. It is the most widely consumed spirit in Argentina, Bolivia,
       Chile and Peru.
+prev_word: pirrs
+next_word: pises
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

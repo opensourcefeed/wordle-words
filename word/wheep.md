@@ -26,4 +26,15 @@ neighbours:
 - cheep
 - wheek
 - wheen
+prev_word: wheen
+next_word: wheft
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ep/"
+  label: Ending in EP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

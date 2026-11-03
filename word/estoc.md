@@ -29,4 +29,13 @@ anagrams:
 - cotes
 - escot
 - scote
+prev_word: ester
+next_word: estop
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/es/"
+  label: Starting with ES
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

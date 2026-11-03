@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _INOS
   count: 8
+prev_word: kinky
+next_word: kiore
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

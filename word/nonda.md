@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Parinari nonda, a shrub or small tree of northern Australia and New Guinea,
       with edible plum-like fruit.
+prev_word: noncy
+next_word: nondo
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

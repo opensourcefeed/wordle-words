@@ -27,4 +27,15 @@ neighbours:
 - suona
 anagrams:
 - annus
+prev_word: sunks
+next_word: sunns
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -20,4 +20,15 @@ stats:
   - Q
   starter_tier: Weak
   starter_top_percent: 94
+prev_word: fiord
+next_word: fique
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

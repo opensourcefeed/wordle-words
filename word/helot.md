@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A member of the ancient Spartan class of serfs.
   - text: A serf; a slave.
+prev_word: helos
+next_word: helps
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

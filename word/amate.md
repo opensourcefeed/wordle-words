@@ -27,4 +27,15 @@ neighbours:
 - agate
 - amaze
 - alate
+prev_word: amass
+next_word: amaut
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -41,4 +41,15 @@ anagrams:
 - rotes
 - tores
 - torse
+prev_word: roses
+next_word: rosha
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

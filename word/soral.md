@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ORAL
   count: 9
+prev_word: sopra
+next_word: soras
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

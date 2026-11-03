@@ -31,4 +31,15 @@ anagrams:
 - freer
 - refer
 - ferer
+prev_word: freon
+next_word: fresh
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

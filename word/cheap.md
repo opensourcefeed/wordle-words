@@ -63,4 +63,15 @@ definitions:
 - pos: adverb
   defs:
   - text: Cheaply.
+prev_word: chays
+next_word: cheat
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ap/"
+  label: Ending in AP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

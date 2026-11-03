@@ -59,4 +59,15 @@ definitions:
     example: Repeated failures try one's patience.
   - text: "(used with another verb) To want"
     example: I am really not trying to hear you talk about my mama like that.
+prev_word: tride
+next_word: trier
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -37,4 +37,15 @@ definitions:
   - text: A shady sitting place or pergola usually in a park or garden, surrounded
       by climbing shrubs, vines or other vegetation.
   - text: A grove of trees.
+prev_word: arbas
+next_word: arced
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

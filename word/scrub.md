@@ -48,4 +48,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Mean; dirty; contemptible; scrubby.
+prev_word: scrow
+next_word: scrum
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

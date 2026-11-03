@@ -21,4 +21,13 @@ stats:
   starter_top_percent: 87
 neighbours:
 - drusy
+prev_word: drusy
+next_word: dryad
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

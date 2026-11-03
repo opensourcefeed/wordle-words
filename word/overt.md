@@ -38,4 +38,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Open and not concealed or secret.
+prev_word: overs
+next_word: ovine
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ov/"
+  label: Starting with OV
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ERRY
   count: 11
+prev_word: derro
+next_word: derth
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

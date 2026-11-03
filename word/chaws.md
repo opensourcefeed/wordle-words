@@ -52,4 +52,15 @@ definitions:
   - text: To ruminate (about) in thought; to ponder; to consider
   - text: To steal.
     example: Some pikey's chawed my bike.
+prev_word: chawl
+next_word: chaya
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make wine from fruit
+prev_word: vinos
+next_word: vinyl
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

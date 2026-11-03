@@ -74,4 +74,15 @@ definitions:
   defs:
   - text: Done by two or more people or organisations working together.
     example: The play was a joint production between the two companies.
+prev_word: joins
+next_word: joist
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

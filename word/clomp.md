@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: To walk heavily or clumsily, as with clogs.
   - text: To make some object hit something, thereby producing a clomping sound.
+prev_word: clomb
+next_word: clone
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

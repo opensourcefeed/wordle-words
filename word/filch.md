@@ -41,4 +41,15 @@ definitions:
   - text: To illegally take possession of (especially items of low value); to pilfer,
       to steal.
     example: Hey, someone filched my wallet!
+prev_word: filar
+next_word: filed
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

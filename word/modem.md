@@ -39,4 +39,15 @@ definitions:
 - pos: verb
   defs:
   - text: To transmit by modem.
+prev_word: model
+next_word: moder
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

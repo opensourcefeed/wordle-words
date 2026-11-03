@@ -40,4 +40,15 @@ definitions:
       from the mint.
   - text: The box in which the compass is suspended; the binnacle.
   - text: Pyxis.
+prev_word: pyxed
+next_word: pyxie
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

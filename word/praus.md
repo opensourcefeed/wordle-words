@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: A sailing vessel found in the waters of Micronesia and Indonesia; it has
       a single, large outrigger and a triangular sail.
+prev_word: praty
+next_word: prawn
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

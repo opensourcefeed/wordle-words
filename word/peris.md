@@ -52,4 +52,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(Persian mythology) A sprite or supernatural being."
+prev_word: peril
+next_word: perks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

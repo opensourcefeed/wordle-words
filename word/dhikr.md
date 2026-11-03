@@ -25,4 +25,13 @@ definitions:
 - pos: noun
   defs:
   - text: An Islamic prayer whereby a phrase or expression of praise is repeated continually.
+prev_word: dhals
+next_word: dhobi
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dh/"
+  label: Starting with DH
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

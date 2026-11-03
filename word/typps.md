@@ -23,4 +23,15 @@ neighbours:
 - tymps
 - types
 - typos
+prev_word: typos
+next_word: typto
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

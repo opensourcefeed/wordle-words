@@ -33,4 +33,15 @@ definitions:
   - text: A similar unattended stand for the automatic dispensing of tickets, etc.
   - text: A public telephone booth.
   - text: A Turkish garden pavilion.
+prev_word: kiore
+next_word: kipah
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/sk/"
+  label: Ending in SK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

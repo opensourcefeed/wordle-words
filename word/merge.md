@@ -49,4 +49,15 @@ definitions:
     example: The two companies merged.
   - text: To blend gradually into something else.
     example: The lanes of traffic merged.
+prev_word: meres
+next_word: meril
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

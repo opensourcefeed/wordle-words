@@ -41,4 +41,15 @@ definitions:
       the oviscape.
   - text: The shaft of a column.
   - text: The apophyge of a shaft.
+prev_word: scapa
+next_word: scapi
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

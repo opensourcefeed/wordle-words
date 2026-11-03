@@ -31,4 +31,13 @@ definitions:
   - text: 'An ascetic or practitioner of yoga (yogi) who has given up pursuit of the
       first three Hindu goals of life: kama (enjoyment), artha (practical objectives)
       and even dharma (duty).'
+prev_word: sadhe
+next_word: sadic
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

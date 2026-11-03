@@ -33,4 +33,15 @@ neighbours:
 - tawts
 anagrams:
 - wadts
+prev_word: dawns
+next_word: dayal
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

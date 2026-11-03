@@ -28,4 +28,15 @@ neighbours:
 - rifty
 anagrams:
 - trayf
+prev_word: rafts
+next_word: ragas
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

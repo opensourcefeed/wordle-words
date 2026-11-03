@@ -64,4 +64,15 @@ definitions:
     example: The sun smiled down from a clear summer sky.
   - text: To be propitious or favourable; to countenance.
     example: The gods smiled on his labours.
+prev_word: smick
+next_word: smily
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

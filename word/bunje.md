@@ -24,4 +24,13 @@ neighbours:
 - bunce
 - bunde
 - bunjy
+prev_word: bunia
+next_word: bunjy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

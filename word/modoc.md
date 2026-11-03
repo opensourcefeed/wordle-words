@@ -21,4 +21,13 @@ stats:
   starter_top_percent: 96
 neighbours:
 - modom
+prev_word: modin
+next_word: modom
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

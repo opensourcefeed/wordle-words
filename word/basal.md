@@ -53,4 +53,15 @@ definitions:
   - text: In a phylogenetic tree, being a group, or member of a group, which diverged
       earlier. The earliest clade to branch in a larger clade.
     example: A magnolia is a basal angiosperm.
+prev_word: barye
+next_word: basan
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

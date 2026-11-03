@@ -74,4 +74,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cover with mold or soil.
+prev_word: moufs
+next_word: moule
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

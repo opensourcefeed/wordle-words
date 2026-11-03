@@ -26,4 +26,13 @@ definitions:
 - pos: noun
   defs:
   - text: A German prisoner-of-war camp for officers only.
+prev_word: offie
+next_word: often
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ag/"
+  label: Ending in AG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

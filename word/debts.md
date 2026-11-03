@@ -39,4 +39,15 @@ definitions:
       as a result of a loan or other financial transaction.
   - text: An action at law to recover a certain specified sum of money alleged to
       be due.
+prev_word: debit
+next_word: debud
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

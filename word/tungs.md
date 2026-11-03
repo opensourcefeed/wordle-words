@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _UNGS
   count: 8
+prev_word: tunes
+next_word: tunic
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

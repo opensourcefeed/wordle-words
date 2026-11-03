@@ -51,4 +51,15 @@ definitions:
   - text: Of a single, simple sound or tone; said of some vowels and the unaspirated
       consonants.
   - text: "(of sound) Without harmonics or overtones; not harsh or discordant."
+prev_word: puree
+next_word: pures
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

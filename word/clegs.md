@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A light breeze.
   - text: A blood-sucking fly of the family Tabanidae; a gadfly, a horsefly.
+prev_word: cleft
+next_word: cleik
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

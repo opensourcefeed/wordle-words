@@ -34,4 +34,13 @@ definitions:
   defs:
   - text: A broad, flat muscle that extends behind the gastrocnemius along the back
       of the calf.
+prev_word: soled
+next_word: soler
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

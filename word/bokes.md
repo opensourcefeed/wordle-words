@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: To thrust or push out; butt; poke.
   - text: To retch or vomit.
+prev_word: bokeh
+next_word: bokos
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

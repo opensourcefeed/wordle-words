@@ -38,4 +38,15 @@ neighbours:
 anagrams:
 - maist
 - mitas
+prev_word: tamin
+next_word: tammy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

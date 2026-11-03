@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: Of or relating to bole or clay; partaking of the nature and qualities of
       bole; clayey.
+prev_word: bokos
+next_word: bolas
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

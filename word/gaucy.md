@@ -26,4 +26,15 @@ neighbours:
 - gaumy
 - gauzy
 - gawcy
+prev_word: gauch
+next_word: gauds
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

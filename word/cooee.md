@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: Used to attract someone's attention.
     example: Cooee! I'm over here!
+prev_word: cooed
+next_word: cooer
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

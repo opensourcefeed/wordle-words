@@ -20,4 +20,13 @@ stats:
   starter_top_percent: 67
 anagrams:
 - chavs
+prev_word: scent
+next_word: schif
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/v/"
+  label: Ending in V
 ---

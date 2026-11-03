@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A silly or foolish person.
+prev_word: ninja
+next_word: ninon
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -24,4 +24,15 @@ neighbours:
 - tyran
 anagrams:
 - pryan
+prev_word: pyral
+next_word: pyres
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

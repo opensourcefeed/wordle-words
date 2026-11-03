@@ -41,4 +41,15 @@ definitions:
   - text: A natural number representing any of several related measures of the complexity
       of a given manifold or graph.
   - text: Within a definition, a broader category of the defined concept.
+prev_word: genua
+next_word: geode
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

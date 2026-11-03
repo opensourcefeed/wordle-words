@@ -30,4 +30,15 @@ anagrams:
 - tripe
 - piert
 - retip
+prev_word: petre
+next_word: petti
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

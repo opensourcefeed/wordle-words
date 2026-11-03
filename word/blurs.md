@@ -49,4 +49,15 @@ definitions:
   - text: To cause imperfection of vision in; to dim; to darken.
   - text: To sully; to stain; to blemish, as reputation.
   - text: To transfer the input focus away from.
+prev_word: blurb
+next_word: blurt
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

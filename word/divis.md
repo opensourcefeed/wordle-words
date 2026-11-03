@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: The dividend paid out by the Co-op
+prev_word: divey
+next_word: divna
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

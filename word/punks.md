@@ -67,4 +67,15 @@ definitions:
       or touchwood, but especially wood altered by certain fungi.
   - text: A utensil for lighting wicks or fuses (such as those of fireworks) resembling
       stick incense.
+prev_word: punka
+next_word: punky
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

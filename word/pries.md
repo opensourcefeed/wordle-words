@@ -58,4 +58,15 @@ definitions:
 - pos: verb
   defs:
   - text: To use leverage to open or widen.
+prev_word: prier
+next_word: prigs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

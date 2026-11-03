@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _ENTS
   count: 14
+prev_word: pensy
+next_word: peola
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

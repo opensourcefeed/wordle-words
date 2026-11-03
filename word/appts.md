@@ -46,4 +46,15 @@ definitions:
       of a college.
     example: to have an appointment
   - text: The allowance paid to a public officer.
+prev_word: appro
+next_word: appui
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -25,4 +25,15 @@ neighbours:
 - aleem
 anagrams:
 - edema
+prev_word: adead
+next_word: adept
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

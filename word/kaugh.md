@@ -28,4 +28,15 @@ neighbours:
 trap:
   pattern: _AUGH
   count: 6
+prev_word: katti
+next_word: kauri
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

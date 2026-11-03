@@ -47,4 +47,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Topical
+prev_word: tophs
+next_word: topis
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

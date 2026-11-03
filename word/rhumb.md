@@ -29,4 +29,15 @@ definitions:
   - text: A line which crosses successive meridians at a constant angle
   - text: One of the 32 points of the compass (compass points)
   - text: A unit of angular measure equal to 1/32 of a circle or 11.25°
+prev_word: rhone
+next_word: rhyme
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/rh/"
+  label: Starting with RH
+- url: "/ending-with/mb/"
+  label: Ending in MB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

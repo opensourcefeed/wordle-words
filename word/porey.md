@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: PO_EY
   count: 7
+prev_word: pores
+next_word: porge
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -50,4 +50,15 @@ definitions:
 - pos: verb
   defs:
   - text: To disembowel.
+prev_word: bowed
+next_word: bower
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

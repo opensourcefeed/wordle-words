@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A cap with a flat circular top and a visor, particularly associated with
       French uniforms.
+prev_word: kents
+next_word: kerbs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

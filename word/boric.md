@@ -35,4 +35,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of, pertaining to, or containing the element boron.
+prev_word: borgo
+next_word: borks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

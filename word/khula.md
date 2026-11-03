@@ -25,4 +25,15 @@ definitions:
 - pos: noun
   defs:
   - text: A form of divorce initiated by a wife.
+prev_word: khuds
+next_word: khyal
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

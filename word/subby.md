@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: _UBBY
   count: 10
+prev_word: subas
+next_word: suber
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -29,4 +29,15 @@ neighbours:
 - brose
 anagrams:
 - bosie
+prev_word: biont
+next_word: biota
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

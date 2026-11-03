@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: S_ANK
   count: 6
+prev_word: slang
+next_word: slant
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

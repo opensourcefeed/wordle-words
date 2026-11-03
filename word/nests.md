@@ -79,4 +79,15 @@ definitions:
     example: There would be much more room in the attic if you had nested all the
       empty boxes.
   - text: To hunt for birds' nests or their contents (usually "go nesting").
+prev_word: neski
+next_word: nesty
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

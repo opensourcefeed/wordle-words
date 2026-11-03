@@ -25,4 +25,15 @@ neighbours:
 - wanna
 - wants
 - wanty
+prev_word: wanna
+next_word: wants
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -23,4 +23,15 @@ neighbours:
 - banda
 - bania
 - bunya
+prev_word: bantz
+next_word: baons
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ya/"
+  label: Ending in YA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

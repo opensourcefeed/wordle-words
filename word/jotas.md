@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A traditional popular dance of the Iberian peninsula with regional variations.
   - text: The music to which this dance is set, normally of 3/4 or 6/8 time.
+prev_word: jorum
+next_word: jotty
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

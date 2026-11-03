@@ -75,4 +75,15 @@ definitions:
       and direction to by means of a sight.
     example: to sight a rifle or a cannon
   - text: To take aim at.
+prev_word: sighs
+next_word: sigil
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

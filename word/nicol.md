@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 35
 anagrams:
 - colin
+prev_word: nicky
+next_word: nidal
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -25,4 +25,15 @@ neighbours:
 - goaty
 - goeth
 - gouty
+prev_word: goeth
+next_word: gofer
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

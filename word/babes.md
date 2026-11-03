@@ -51,4 +51,15 @@ definitions:
     example: She's a real babe!
   - text: Darling (term of endearment).
     example: Hey, babe, how's about you and me getting together?
+prev_word: babel
+next_word: babka
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

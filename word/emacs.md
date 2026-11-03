@@ -28,4 +28,15 @@ anagrams:
 - cames
 - maces
 - mesca
+prev_word: elves
+next_word: email
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

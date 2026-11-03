@@ -51,4 +51,15 @@ definitions:
   - text: "(of actions) Overly bold, impetuous or rash."
   - text: "(of things) Bold, bright or showy, often in a tasteless way."
     example: brash colours; a brash perfume
+prev_word: brant
+next_word: brass
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: An unsharpened section of a knife blade in front of the guard on the blade
   - text: The indentation of a pocket-knife blade where it joins the tang
+prev_word: chogs
+next_word: choir
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

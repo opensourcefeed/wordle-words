@@ -34,4 +34,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Remarkable; wonderful; excellent; terrific.
+prev_word: bonus
+next_word: bonze
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

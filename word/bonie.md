@@ -30,4 +30,15 @@ neighbours:
 - bosie
 - bowie
 - monie
+prev_word: bongs
+next_word: bonks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

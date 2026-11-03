@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - navar
 - varna
+prev_word: vapor
+next_word: varas
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

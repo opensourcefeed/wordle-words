@@ -24,4 +24,15 @@ neighbours:
 - elbow
 - embog
 - embox
+prev_word: embog
+next_word: embox
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

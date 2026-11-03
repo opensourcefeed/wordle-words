@@ -26,4 +26,15 @@ neighbours:
 - trays
 - twaes
 - twals
+prev_word: twank
+next_word: tweak
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

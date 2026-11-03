@@ -23,4 +23,13 @@ stats:
 neighbours:
 - kreen
 - kreep
+prev_word: krays
+next_word: kreen
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -24,4 +24,15 @@ stats:
 neighbours:
 - amman
 - ammos
+prev_word: ammas
+next_word: ammos
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

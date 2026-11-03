@@ -24,4 +24,15 @@ neighbours:
 - maula
 anagrams:
 - malwa
+prev_word: mawky
+next_word: mawns
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

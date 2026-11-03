@@ -56,4 +56,15 @@ definitions:
   defs:
   - text: To supply (a business, volunteer organization, etc.) with employees or staff
       members.
+prev_word: stade
+next_word: stage
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

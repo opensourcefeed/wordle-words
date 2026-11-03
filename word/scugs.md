@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: SCU_S
   count: 7
+prev_word: scuft
+next_word: sculk
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

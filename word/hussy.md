@@ -40,4 +40,15 @@ definitions:
   - text: A cheeky or disrespectful girl; a woman showing inappropriate or improper
       behavior.
   - text: A case or bag for needles, thread, etc.
+prev_word: husos
+next_word: hutch
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

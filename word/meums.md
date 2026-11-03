@@ -25,4 +25,15 @@ neighbours:
 - geums
 - maums
 - neums
+prev_word: metta
+next_word: meuse
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

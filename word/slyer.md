@@ -40,4 +40,15 @@ definitions:
   - text: Done with, and marked by, artful and dexterous secrecy; subtle
     example: a sly trick
   - text: Light or delicate; slight; thin.
+prev_word: slush
+next_word: slyly
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

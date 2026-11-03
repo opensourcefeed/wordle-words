@@ -24,4 +24,15 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 42
+prev_word: jhils
+next_word: jibba
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

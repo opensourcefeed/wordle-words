@@ -27,4 +27,15 @@ neighbours:
 - segos
 - sughs
 - sumos
+prev_word: sughs
+next_word: suhur
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

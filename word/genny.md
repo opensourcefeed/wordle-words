@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _ENNY
   count: 8
+prev_word: genip
+next_word: genoa
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

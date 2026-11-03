@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: To invest a denture in a flask so as to produce a sectional mold.
+prev_word: flash
+next_word: flats
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/sk/"
+  label: Ending in SK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

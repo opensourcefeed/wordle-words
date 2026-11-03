@@ -64,4 +64,15 @@ definitions:
   - text: "(of language) Unrefined, crude, or insensitive, especially with reference
       to sexual matters"
   - text: Not covered; bare; bald.
+prev_word: rawdy
+next_word: rawin
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

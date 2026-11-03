@@ -26,4 +26,15 @@ neighbours:
 - teals
 - twaes
 - tways
+prev_word: twain
+next_word: twang
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

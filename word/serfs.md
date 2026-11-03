@@ -45,4 +45,15 @@ definitions:
       minimal legal or customary rights
   - text: A similar agricultural labourer in 18th and 19th century Europe
   - text: "(strategy games) a worker unit"
+prev_word: seres
+next_word: serge
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -37,4 +37,15 @@ definitions:
   - text: To put aside, avoid.
   - text: To outlaw (someone).
   - text: To abandon, give up (someone or something).
+prev_word: waits
+next_word: wakas
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: MO_IE
   count: 7
+prev_word: momes
+next_word: momma
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -31,4 +31,15 @@ neighbours:
 - sorts
 - souts
 - tofts
+prev_word: softa
+next_word: softy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

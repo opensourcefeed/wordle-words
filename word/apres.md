@@ -48,4 +48,15 @@ definitions:
 - pos: noun
   defs:
   - text: Such activities or events that occur after skiing.
+prev_word: appuy
+next_word: apron
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

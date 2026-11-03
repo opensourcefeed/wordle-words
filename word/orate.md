@@ -49,4 +49,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Competent in oracy; having good speaking skills.
+prev_word: orant
+next_word: orbat
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

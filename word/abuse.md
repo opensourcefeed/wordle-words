@@ -43,4 +43,15 @@ definitions:
   - text: Physical maltreatment; injury; cruel treatment.
   - text: Violation; defilement; rape; forcing of undesired sexual activity by one
       person on another, often on a repeated basis.
+prev_word: aburn
+next_word: abuts
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

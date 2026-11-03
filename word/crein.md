@@ -27,4 +27,15 @@ anagrams:
 - nicer
 - crine
 - rince
+prev_word: crees
+next_word: crema
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

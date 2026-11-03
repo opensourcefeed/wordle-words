@@ -40,4 +40,15 @@ definitions:
   - text: To ring a bell slowly, especially for a funeral; to toll.
   - text: To signal or proclaim something (especially a death) by ringing a bell.
   - text: To summon by, or as if by, ringing a bell.
+prev_word: knees
+next_word: knelt
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

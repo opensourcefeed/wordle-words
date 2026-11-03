@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - medic
 - decim
+prev_word: demes
+next_word: demit
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

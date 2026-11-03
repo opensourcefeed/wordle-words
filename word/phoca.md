@@ -25,4 +25,15 @@ neighbours:
 anagrams:
 - copha
 - poach
+prev_word: phobe
+next_word: phone
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

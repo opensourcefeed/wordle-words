@@ -29,4 +29,15 @@ definitions:
   - text: Any of various structurally related polypeptides of the autacoid family,
       such as bradykinin and kallikrein, that act locally to induce vasodilation and
       contraction of smooth muscle.
+prev_word: kingy
+next_word: kinks
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

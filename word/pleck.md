@@ -26,4 +26,15 @@ neighbours:
 - cleck
 - plack
 - plock
+prev_word: plebs
+next_word: pleep
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

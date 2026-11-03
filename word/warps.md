@@ -52,4 +52,15 @@ definitions:
   - text: To fertilize (low-lying land) by letting the tide, a river, or other water
       in upon it to deposit silt and alluvial matter.
   - text: "(very rare) To throw."
+prev_word: warns
+next_word: warre
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

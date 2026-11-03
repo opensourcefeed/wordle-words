@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _OURS
   count: 9
+prev_word: joule
+next_word: joust
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

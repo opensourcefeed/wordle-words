@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: STA_S
   count: 8
+prev_word: staph
+next_word: stare
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 73
 anagrams:
 - putza
+prev_word: puzel
+next_word: pwned
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

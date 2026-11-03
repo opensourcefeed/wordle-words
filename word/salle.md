@@ -33,4 +33,15 @@ neighbours:
 - selle
 anagrams:
 - sella
+prev_word: salix
+next_word: sally
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

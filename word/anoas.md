@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: Any of either Bubalus quarlesi or Bubalus depressicornis, being species
       of small Indonesian water buffalo similar in appearance to a deer.
+prev_word: annus
+next_word: anode
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -49,4 +49,15 @@ definitions:
   - text: A flat stone used to pave a pathway, such as a walkway to one's home.
     example: red brick pavers
   - text: One who paves; one who lays pavement.
+prev_word: paven
+next_word: paves
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

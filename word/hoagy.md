@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: A sandwich made on a (usually soft) long Italian roll; a submarine sandwich.
     example: I'm going to Wawa to get a hoagie for lunch.
+prev_word: hoaed
+next_word: hoard
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -44,4 +44,15 @@ definitions:
       French Republic.
   - text: The franc germinal or napoleon, a similar gold coin issued by Napoleon and
       bearing his image on the obverse, worth 20 francs.
+prev_word: louie
+next_word: louma
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

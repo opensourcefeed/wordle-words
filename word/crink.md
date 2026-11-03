@@ -30,4 +30,15 @@ neighbours:
 - cronk
 - crunk
 - prink
+prev_word: crine
+next_word: crins
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

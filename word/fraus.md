@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: FRA_S
   count: 8
+prev_word: fraud
+next_word: frays
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

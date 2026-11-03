@@ -33,4 +33,15 @@ neighbours:
 - miltz
 - misty
 - silty
+prev_word: milts
+next_word: miltz
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: Any of a family of stuffed vegetable dishes. The filling generally consists
       of rice, minced meat or grains, together with onion, herbs and spices.
+prev_word: dolly
+next_word: dolor
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _IPED
   count: 6
+prev_word: hiois
+next_word: hiper
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

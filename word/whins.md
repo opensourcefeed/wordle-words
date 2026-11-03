@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: Gorse; furze (Ulex spp.).
   - text: The plant woad-waxen (Genista tinctoria).
+prev_word: whine
+next_word: whiny
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -26,4 +26,15 @@ neighbours:
 - yamun
 anagrams:
 - meany
+prev_word: yales
+next_word: yampa
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

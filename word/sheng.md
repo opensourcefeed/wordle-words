@@ -29,4 +29,15 @@ definitions:
   - text: A Chinese wind instrument, a free-reed mouth organ consisting of 13 or more
       bamboo pipes of various lengths, which are fixed at their bases in a wind chest
       made from a dried gourd (or, more recently, wood or chrome-plated brass).
+prev_word: shend
+next_word: shent
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

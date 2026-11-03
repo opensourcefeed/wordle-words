@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: Sergeant
+prev_word: saree
+next_word: sargo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

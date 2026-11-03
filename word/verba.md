@@ -28,4 +28,15 @@ neighbours:
 - yerba
 anagrams:
 - brave
+prev_word: venus
+next_word: verbs
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -27,4 +27,15 @@ neighbours:
 - aulas
 - auloi
 - autos
+prev_word: auloi
+next_word: aumil
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

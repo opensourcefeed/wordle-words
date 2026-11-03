@@ -58,4 +58,15 @@ definitions:
   - text: To clean the area between the teeth using floss.
   - text: To show off, especially by exhibiting one's wealth or talent.
   - text: To perform the floss dance move.
+prev_word: flosh
+next_word: flota
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

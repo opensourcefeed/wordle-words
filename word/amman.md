@@ -29,4 +29,15 @@ neighbours:
 - axman
 anagrams:
 - namma
+prev_word: amlas
+next_word: ammas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

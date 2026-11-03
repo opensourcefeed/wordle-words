@@ -29,4 +29,15 @@ neighbours:
 - tapet
 anagrams:
 - paten
+prev_word: taped
+next_word: taper
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

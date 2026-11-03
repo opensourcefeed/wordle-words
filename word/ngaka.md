@@ -23,4 +23,15 @@ neighbours:
 - ngana
 anagrams:
 - kanga
+prev_word: ngaio
+next_word: ngana
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ng/"
+  label: Starting with NG
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

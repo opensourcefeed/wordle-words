@@ -25,4 +25,15 @@ neighbours:
 - plume
 - plute
 - pouke
+prev_word: plugs
+next_word: plumb
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

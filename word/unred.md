@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: UN_ED
   count: 6
+prev_word: unput
+next_word: unrid
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

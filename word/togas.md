@@ -40,4 +40,15 @@ definitions:
   - text: A loose outer garment worn by the citizens of Ancient Rome.
   - text: A loose wrap gown.
   - text: An academic gown.
+prev_word: togae
+next_word: toged
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -64,4 +64,15 @@ definitions:
   - text: To treat (a microscopic specimen) with a dye, especially one that dyes specific
       features
   - text: To cause to seem inferior or soiled by comparison.
+prev_word: staig
+next_word: stair
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

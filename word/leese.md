@@ -27,4 +27,15 @@ neighbours:
 - leeze
 - lense
 - neese
+prev_word: leery
+next_word: leets
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

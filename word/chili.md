@@ -42,4 +42,15 @@ definitions:
   - text: Powdered chili pepper, used as a spice or flavouring in cooking.
   - text: "(Indian Chinese cuisine) a spicy stew of chicken or paneer, capsicum and
       onion, eaten as an appetizer."
+prev_word: chile
+next_word: chill
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

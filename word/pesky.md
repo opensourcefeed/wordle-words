@@ -36,4 +36,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Annoying, troublesome, irritating (usually of an animal or child).
+prev_word: pesch
+next_word: pesos
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 73
 neighbours:
 - oozie
+prev_word: oozie
+next_word: opahs
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oo/"
+  label: Starting with OO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

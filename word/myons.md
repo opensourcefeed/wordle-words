@@ -23,4 +23,15 @@ neighbours:
 - moons
 - muons
 - myops
+prev_word: myoma
+next_word: myope
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/my/"
+  label: Starting with MY
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

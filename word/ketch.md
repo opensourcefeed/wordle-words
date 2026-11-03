@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A fore-and-aft rigged sailing vessel with two masts, main and mizzen, the
       mizzen being stepped forward of the rudder post.
+prev_word: ketas
+next_word: ketes
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

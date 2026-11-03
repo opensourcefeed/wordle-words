@@ -74,4 +74,15 @@ definitions:
   - text: To issue forth, as water from the earth; to flow; to spring.
   - text: To have something seep out of the surface.
     example: Her eyes welled with tears.
+prev_word: welkt
+next_word: welly
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

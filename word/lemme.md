@@ -25,4 +25,15 @@ neighbours:
 - femme
 - lemma
 - lumme
+prev_word: lemma
+next_word: lemon
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

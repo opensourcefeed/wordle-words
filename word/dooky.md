@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: Feces
+prev_word: dooks
+next_word: doole
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

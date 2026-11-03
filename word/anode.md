@@ -44,4 +44,15 @@ definitions:
       tube or gas-filled tube.
   - text: That electrode of a semiconductor device which is connected to the p-type
       material of a p-n junction.
+prev_word: anoas
+next_word: anole
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

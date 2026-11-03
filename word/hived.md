@@ -48,4 +48,15 @@ definitions:
     example: to hive a swarm of bees
   - text: To store in a hive or similarly.
   - text: To take shelter or lodgings together; to reside in a collective body.
+prev_word: hithe
+next_word: hiver
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

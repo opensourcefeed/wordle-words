@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of unleavened bread from Indian and Pakistan.
+prev_word: poopy
+next_word: poort
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

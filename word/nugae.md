@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - augen
 - genua
+prev_word: nuffs
+next_word: nujol
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

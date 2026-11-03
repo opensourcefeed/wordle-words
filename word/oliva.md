@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - viola
 - voila
+prev_word: olios
+next_word: olive
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/va/"
+  label: Ending in VA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

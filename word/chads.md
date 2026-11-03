@@ -46,4 +46,15 @@ definitions:
   - text: Small pieces of paper punched out from the edges of continuous stationery,
       or from ballot papers, paper tape, punched cards, etc.
   - text: One of these pieces of paper.
+prev_word: chado
+next_word: chafe
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

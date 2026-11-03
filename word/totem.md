@@ -43,4 +43,15 @@ definitions:
   - text: The clan whose kinship is defined in reference to such an object or creature.
   - text: An arbitrarily chosen object serving as a reminder to check whether one
       is awake or not, to aid in having lucid dreams.
+prev_word: toted
+next_word: toter
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

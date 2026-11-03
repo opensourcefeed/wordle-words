@@ -57,4 +57,15 @@ definitions:
   defs:
   - text: Easily crumbled; friable; brittle.
   - text: Weak; inconsistent; contradictory.
+prev_word: crime
+next_word: crims
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

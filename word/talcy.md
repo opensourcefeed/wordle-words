@@ -24,4 +24,15 @@ neighbours:
 - tally
 - talcs
 - talky
+prev_word: talcs
+next_word: talea
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

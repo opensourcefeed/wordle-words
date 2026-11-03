@@ -28,4 +28,15 @@ anagrams:
 - aired
 - irade
 - redia
+prev_word: deads
+next_word: deals
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

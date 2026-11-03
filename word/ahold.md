@@ -24,4 +24,15 @@ stats:
 neighbours:
 - acold
 - ahole
+prev_word: ahint
+next_word: ahole
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ah/"
+  label: Starting with AH
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

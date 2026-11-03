@@ -25,4 +25,15 @@ neighbours:
 - halma
 - halva
 - halwa
+prev_word: hales
+next_word: halfs
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/fa/"
+  label: Ending in FA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

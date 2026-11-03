@@ -24,4 +24,15 @@ neighbours:
 - whisk
 - thilk
 - whelk
+prev_word: while
+next_word: whims
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/lk/"
+  label: Ending in LK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

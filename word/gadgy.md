@@ -25,4 +25,15 @@ neighbours:
 - radgy
 anagrams:
 - daggy
+prev_word: gadge
+next_word: gadid
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

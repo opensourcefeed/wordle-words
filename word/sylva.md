@@ -22,4 +22,15 @@ stats:
 neighbours:
 - selva
 - silva
+prev_word: sylph
+next_word: symar
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/va/"
+  label: Ending in VA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

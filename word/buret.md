@@ -37,4 +37,15 @@ definitions:
   - text: A glass tube with fine gradations and a stopcock at the bottom, used in
       laboratory procedures for accurate fluid dispensing and titration.
   - text: An altar cruet.
+prev_word: burds
+next_word: burfi
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

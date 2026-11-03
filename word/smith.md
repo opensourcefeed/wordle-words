@@ -36,4 +36,15 @@ definitions:
       tools, sometimes heating the metal to make it more workable, especially a blacksmith.
   - text: "(by extension) One who makes anything; wright."
   - text: An artist.
+prev_word: smite
+next_word: smits
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

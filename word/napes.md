@@ -55,4 +55,15 @@ definitions:
 - pos: noun
   defs:
   - text: A tablecloth.
+prev_word: naped
+next_word: napoh
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

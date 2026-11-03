@@ -29,4 +29,15 @@ neighbours:
 - terre
 anagrams:
 - freet
+prev_word: teres
+next_word: terfs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/fe/"
+  label: Ending in FE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

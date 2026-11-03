@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _OOTY
   count: 8
+prev_word: zoons
+next_word: zoppa
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

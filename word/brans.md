@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: BRA_S
   count: 10
+prev_word: brank
+next_word: brant
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

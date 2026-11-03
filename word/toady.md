@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(construed with to) To behave like a toady (to someone)."
+prev_word: toads
+next_word: toast
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

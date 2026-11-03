@@ -23,4 +23,15 @@ neighbours:
 - smoke
 anagrams:
 - smeek
+prev_word: smeik
+next_word: smell
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

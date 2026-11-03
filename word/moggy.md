@@ -82,4 +82,15 @@ definitions:
   defs:
   - text: A slut, a sexually promiscuous woman.
   - text: A dirty and untidy woman.
+prev_word: mogas
+next_word: mogos
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

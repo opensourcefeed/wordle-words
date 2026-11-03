@@ -33,4 +33,15 @@ definitions:
 - pos: verb
   defs:
   - text: To whirl
+prev_word: gyral
+next_word: gyres
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _AUTS
   count: 6
+prev_word: vaute
+next_word: vawte
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

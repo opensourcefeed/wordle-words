@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 87
 anagrams:
 - potty
+prev_word: typps
+next_word: tyran
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

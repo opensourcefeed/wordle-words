@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A tree of the genus Thuja.
+prev_word: thugs
+next_word: thumb
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ja/"
+  label: Ending in JA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

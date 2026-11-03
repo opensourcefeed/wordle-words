@@ -31,4 +31,13 @@ anagrams:
 - rizas
 - sizar
 - zaris
+prev_word: izard
+next_word: izzat
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

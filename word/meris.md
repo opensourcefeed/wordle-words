@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: MER_S
   count: 6
+prev_word: meril
+next_word: merit
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

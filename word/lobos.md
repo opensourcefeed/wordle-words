@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: A wolf.
+prev_word: lobes
+next_word: lobus
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

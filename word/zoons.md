@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _OONS
   count: 12
+prev_word: zoomy
+next_word: zooty
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

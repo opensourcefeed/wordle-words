@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _OGUE
   count: 7
+prev_word: mogra
+next_word: mogul
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

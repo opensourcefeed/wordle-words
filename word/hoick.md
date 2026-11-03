@@ -37,4 +37,15 @@ definitions:
   - text: To lift (a heavy object) carelessly; hoist.
   - text: To throw something out.
   - text: To spit.
+prev_word: hohed
+next_word: hoied
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

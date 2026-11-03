@@ -81,4 +81,15 @@ definitions:
     example: The party leader's speech was all talk.
   - text: "(usually plural) Meeting to discuss a particular matter."
     example: The leaders of the G8 nations are currently in talks over nuclear weapons.
+prev_word: talik
+next_word: talky
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

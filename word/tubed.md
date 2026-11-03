@@ -42,4 +42,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Possessing a tube or tubes.
+prev_word: tubby
+next_word: tuber
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

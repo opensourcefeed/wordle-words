@@ -24,4 +24,15 @@ stats:
 neighbours:
 - canon
 - fanos
+prev_word: fanny
+next_word: fanos
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

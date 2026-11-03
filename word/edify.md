@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: To build, construct.
   - text: To instruct or improve morally or intellectually.
+prev_word: edict
+next_word: edile
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ed/"
+  label: Starting with ED
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

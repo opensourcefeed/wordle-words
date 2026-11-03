@@ -26,4 +26,15 @@ neighbours:
 - frais
 anagrams:
 - firma
+prev_word: frail
+next_word: frais
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

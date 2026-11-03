@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: An upright frame, typically on three legs, for displaying or supporting
       something, such as an artist's canvas.
+prev_word: eased
+next_word: easer
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

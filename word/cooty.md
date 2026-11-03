@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _OOTY
   count: 8
+prev_word: coots
+next_word: copal
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

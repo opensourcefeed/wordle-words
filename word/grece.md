@@ -30,4 +30,15 @@ neighbours:
 - gryce
 anagrams:
 - cerge
+prev_word: grebo
+next_word: greed
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -27,4 +27,15 @@ neighbours:
 - chavs
 - chaya
 - chiva
+prev_word: chats
+next_word: chave
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/va/"
+  label: Ending in VA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

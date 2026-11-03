@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: 'A simultaneous exhibition: one player, typically very strong, plays several
       games at the same time against different opponents, typically weaker.'
+prev_word: simps
+next_word: since
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

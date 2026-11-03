@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: Easy or unchallenging.
     example: Let’s start on the bunny slope.
+prev_word: bunns
+next_word: bunts
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

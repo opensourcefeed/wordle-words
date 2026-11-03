@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A resident of Gibraltar.
+prev_word: scorn
+next_word: scote
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/rp/"
+  label: Ending in RP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

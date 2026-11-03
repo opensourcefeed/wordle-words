@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 77
 neighbours:
 - burin
+prev_word: buyer
+next_word: buzzy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

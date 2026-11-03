@@ -34,4 +34,15 @@ definitions:
   - text: A confused mixture of sounds and voices, especially in different languages.
   - text: A place or scene of noise and confusion.
   - text: A tall, looming structure.
+prev_word: babby
+next_word: babes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -55,4 +55,15 @@ definitions:
   - text: "(by extension) To ruin or destroy by slow degrees or secret means."
   - text: To pick one's nose.
   - text: To earn new units of cryptocurrency by doing certain calculations.
+prev_word: minds
+next_word: miner
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

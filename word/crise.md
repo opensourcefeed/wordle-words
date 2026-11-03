@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _RISE
   count: 6
+prev_word: crips
+next_word: crisp
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 57
 neighbours:
 - azote
+prev_word: azote
+next_word: azuki
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/az/"
+  label: Starting with AZ
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

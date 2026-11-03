@@ -20,4 +20,15 @@ stats:
   starter_top_percent: 95
 anagrams:
 - mucus
+prev_word: cusso
+next_word: cutch
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: RAN_S
   count: 8
+prev_word: ranks
+next_word: ranny
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

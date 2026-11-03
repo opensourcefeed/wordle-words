@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: TRO_S
   count: 7
+prev_word: trows
+next_word: truce
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

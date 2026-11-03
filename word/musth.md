@@ -32,4 +32,15 @@ definitions:
   - text: A time during which male elephants exhibit increased levels of sexual activity
       and aggressiveness and often secrete leaking temporin from the sides of their
       heads.
+prev_word: musta
+next_word: musts
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

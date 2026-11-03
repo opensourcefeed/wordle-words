@@ -52,4 +52,15 @@ definitions:
   - text: To hit with one's chest (front of one's body)
   - text: To deposit in a chest.
   - text: To place in a coffin.
+prev_word: chess
+next_word: cheth
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

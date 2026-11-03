@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - fyles
 - selfy
+prev_word: flexo
+next_word: flick
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: Of or pertaining to law.
   - text: Of or pertaining to moral rights and obligations.
+prev_word: jupon
+next_word: jurat
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: In a right triangle, the ratio of the length of the side opposite an angle
       to the length of the hypotenuse.
+prev_word: sined
+next_word: sinew
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

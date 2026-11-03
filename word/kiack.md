@@ -24,4 +24,15 @@ stats:
 neighbours:
 - knack
 - kyack
+prev_word: kiaat
+next_word: kiaki
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

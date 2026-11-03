@@ -84,4 +84,15 @@ definitions:
     example: a trick knee
   - text: Stylish or cool.
     example: Wow, your new sportscar is so trick.
+prev_word: trice
+next_word: tride
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

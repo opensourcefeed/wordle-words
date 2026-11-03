@@ -26,4 +26,15 @@ neighbours:
 - ridge
 - fadge
 - kidge
+prev_word: fides
+next_word: fidos
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

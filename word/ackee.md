@@ -32,4 +32,15 @@ definitions:
   - text: The fruit of the tree, of which only the arils are edible, the remainder
       being poisonous.
     example: Ackee and saltfish is a traditional Jamaican dish.
+prev_word: acini
+next_word: acker
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

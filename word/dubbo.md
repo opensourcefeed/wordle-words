@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A foolish person.
+prev_word: duars
+next_word: dubby
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

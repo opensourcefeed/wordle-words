@@ -27,4 +27,15 @@ neighbours:
 - uraei
 - urali
 - urare
+prev_word: urare
+next_word: urase
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

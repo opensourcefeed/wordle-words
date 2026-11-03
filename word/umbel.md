@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A flat-topped or rounded flower-cluster (= inflorescence) in which the individual
       flower stalks arise from the same point, the youngest flowers being at the centre.
+prev_word: umami
+next_word: umber
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/um/"
+  label: Starting with UM
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

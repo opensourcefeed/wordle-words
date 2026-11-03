@@ -33,4 +33,15 @@ neighbours:
 - rungs
 anagrams:
 - grens
+prev_word: renga
+next_word: renig
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

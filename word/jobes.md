@@ -33,4 +33,15 @@ neighbours:
 - lobes
 - mobes
 - robes
+prev_word: jobed
+next_word: jocko
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

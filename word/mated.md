@@ -67,4 +67,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Fitted together or interlocked
+prev_word: match
+next_word: mater
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

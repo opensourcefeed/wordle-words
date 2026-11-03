@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _ENNY
   count: 8
+prev_word: henna
+next_word: henry
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _APPY
   count: 10
+prev_word: mapou
+next_word: maqam
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

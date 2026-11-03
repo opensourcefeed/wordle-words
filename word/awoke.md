@@ -38,4 +38,15 @@ definitions:
   - text: To excite or to stir up something latent.
   - text: To rouse from a state of inaction or dormancy.
   - text: To come out of a state of inaction or dormancy.
+prev_word: awner
+next_word: awols
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

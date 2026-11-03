@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Small; younger.
+prev_word: choss
+next_word: chott
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

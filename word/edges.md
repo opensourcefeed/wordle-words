@@ -62,4 +62,15 @@ definitions:
   - text: To make sharp or keen; to incite; to exasperate; to goad; to urge or egg
       on.
   - text: To delay one's orgasm so as to remain almost at the point of orgasm.
+prev_word: edger
+next_word: edict
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ed/"
+  label: Starting with ED
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

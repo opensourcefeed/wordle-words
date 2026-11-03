@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: An agogo bell, a bell used in Yoruba and Brazilian music and typically played
       in pairs
+prev_word: agoge
+next_word: agone
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

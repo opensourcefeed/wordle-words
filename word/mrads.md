@@ -29,4 +29,13 @@ neighbours:
 anagrams:
 - drams
 - mards
+prev_word: mpret
+next_word: msasa
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

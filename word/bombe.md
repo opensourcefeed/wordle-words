@@ -36,4 +36,15 @@ definitions:
   - text: "(chiefly in German cooking) A small, cylindrical or spherical chocolate-covered
       confection. (Compare truffle.)"
   - text: An electromechanical device used in early cryptanalysis.
+prev_word: bomas
+next_word: bombo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

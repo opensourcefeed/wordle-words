@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _UTTY
   count: 9
+prev_word: tutti
+next_word: tutus
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -39,4 +39,15 @@ anagrams:
 - lidos
 - sloid
 - soldi
+prev_word: lohan
+next_word: loins
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

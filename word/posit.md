@@ -64,4 +64,15 @@ definitions:
   - text: A method of solving a problem by one or two suppositions; also called the
       rule of trial and error.
   - text: The full state of a chess game at any given turn.
+prev_word: posho
+next_word: posol
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

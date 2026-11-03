@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _ANCE
   count: 6
+prev_word: ranas
+next_word: ranch
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -27,4 +27,15 @@ neighbours:
 - roupy
 anagrams:
 - roguy
+prev_word: rough
+next_word: rouks
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

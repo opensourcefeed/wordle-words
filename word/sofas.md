@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: To furnish with one or more sofas.
   - text: To seat or lay down on a sofa.
+prev_word: sofar
+next_word: softa
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

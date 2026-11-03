@@ -48,4 +48,15 @@ definitions:
   - text: The larger red property in the game of Monopoly, in contradistinction to
       houses.
   - text: The guest accommodation and dining section of a cruise ship.
+prev_word: hotch
+next_word: hoten
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

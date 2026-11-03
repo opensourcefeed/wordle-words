@@ -30,4 +30,13 @@ definitions:
 - pos: noun
   defs:
   - text: A qanat, in parts of central southern Asia.
+prev_word: karee
+next_word: karks
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

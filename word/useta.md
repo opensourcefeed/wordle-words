@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 3
 anagrams:
 - saute
+prev_word: users
+next_word: usher
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/us/"
+  label: Starting with US
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -18,4 +18,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 83
+prev_word: dykey
+next_word: dynel
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dy/"
+  label: Starting with DY
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _OWIE
   count: 8
+prev_word: tower
+next_word: towno
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -31,4 +31,15 @@ neighbours:
 - temed
 anagrams:
 - medle
+prev_word: leman
+next_word: lemel
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

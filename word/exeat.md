@@ -33,4 +33,15 @@ definitions:
   - text: A license or permit for absence from a college or a religious house (such
       as a monastery).
   - text: A permission which a bishop grants to a priest to go out of his diocese.
+prev_word: excel
+next_word: execs
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

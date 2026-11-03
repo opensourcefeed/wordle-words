@@ -47,4 +47,15 @@ definitions:
   - text: To strike, beat, or thrash.
   - text: To strike or lower in haste; to slacken suddenly
     example: Douse the topsail!
+prev_word: dowry
+next_word: dowts
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

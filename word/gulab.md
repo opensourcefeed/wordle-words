@@ -24,4 +24,15 @@ neighbours:
 - gulag
 - gular
 - gulas
+prev_word: guise
+next_word: gulag
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ab/"
+  label: Ending in AB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

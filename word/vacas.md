@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: Vacation.
+prev_word: uvula
+next_word: vacay
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 66
 anagrams:
 - abohm
+prev_word: ablow
+next_word: abnet
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ho/"
+  label: Ending in HO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -25,4 +25,15 @@ stats:
 neighbours:
 - didis
 - dixie
+prev_word: diddy
+next_word: didis
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -55,4 +55,15 @@ definitions:
 - pos: verb
   defs:
   - text: To punish (someone) by putting them in a cucking stool.
+prev_word: cubit
+next_word: cudda
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

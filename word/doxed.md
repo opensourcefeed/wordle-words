@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To publish personal information (of an individual) on the Internet.
+prev_word: dowts
+next_word: doxes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

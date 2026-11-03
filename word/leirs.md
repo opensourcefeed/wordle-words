@@ -39,4 +39,15 @@ anagrams:
 - riles
 - siler
 - slier
+prev_word: lehua
+next_word: leish
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -29,4 +29,15 @@ neighbours:
 - lurks
 - murks
 - turks
+prev_word: gurge
+next_word: gurls
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

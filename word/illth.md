@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 77
 anagrams:
 - thill
+prev_word: iller
+next_word: image
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/il/"
+  label: Starting with IL
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

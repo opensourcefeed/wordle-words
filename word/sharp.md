@@ -127,4 +127,15 @@ definitions:
   - text: In a higher pitch than is correct or desirable.
     example: I didn't enjoy the concert much because the tenor kept going sharp on
       the high notes.
+prev_word: sharn
+next_word: shart
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/rp/"
+  label: Ending in RP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

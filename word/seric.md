@@ -38,4 +38,15 @@ anagrams:
 - icers
 - rices
 - scire
+prev_word: seria
+next_word: serif
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -34,4 +34,15 @@ anagrams:
 trap:
   pattern: _AULT
   count: 6
+prev_word: dauds
+next_word: daunt
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

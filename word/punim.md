@@ -26,4 +26,15 @@ definitions:
 - pos: noun
   defs:
   - text: The face (front part of the head).
+prev_word: pungy
+next_word: punji
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

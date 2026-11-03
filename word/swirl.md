@@ -43,4 +43,15 @@ definitions:
     example: I swirled my brush around in the paint.
   - text: To be arranged in a twist, spiral or whorl.
   - text: To circulate.
+prev_word: swire
+next_word: swish
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

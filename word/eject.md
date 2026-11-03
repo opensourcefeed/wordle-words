@@ -45,4 +45,13 @@ definitions:
     example: Press that button to eject the video tape.
   - text: To come out of a machine.
     example: I can't get this cassette to  eject.
+prev_word: eisel
+next_word: ejido
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -41,4 +41,15 @@ definitions:
   - text: "(In Turkish or Muslim Asian contexts) A palace."
   - text: A seraglio.
   - text: A caravanserai; an inn.
+prev_word: serac
+next_word: seral
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

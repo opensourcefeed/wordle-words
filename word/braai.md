@@ -36,4 +36,15 @@ definitions:
 - pos: verb
   defs:
   - text: To grill meat over an open flame.
+prev_word: bozos
+next_word: brace
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

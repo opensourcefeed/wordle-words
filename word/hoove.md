@@ -25,4 +25,15 @@ neighbours:
 - moove
 - noove
 - poove
+prev_word: hooty
+next_word: hopak
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

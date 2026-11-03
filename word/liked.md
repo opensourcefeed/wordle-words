@@ -69,4 +69,15 @@ definitions:
 - pos: verb
   defs:
   - text: To be likely.
+prev_word: ligne
+next_word: liken
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

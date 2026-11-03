@@ -25,4 +25,15 @@ stats:
 neighbours:
 - talon
 - taxon
+prev_word: taunt
+next_word: taupe
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

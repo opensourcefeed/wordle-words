@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: To or on one side so as to be out of the way.
     example: Move aside, please, so that these people can come through.
+prev_word: ashet
+next_word: asity
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

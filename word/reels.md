@@ -75,4 +75,15 @@ definitions:
   - text: To have a whirling sensation; to be giddy.
   - text: To be in shock.
   - text: To roll.
+prev_word: reeky
+next_word: reely
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

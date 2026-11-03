@@ -40,4 +40,15 @@ definitions:
   - text: The lip of a labiate corolla.
   - text: The lip against which pressured air is driven to produce sound in a recorder
       and in a pipe organ with flue pipes.
+prev_word: label
+next_word: labis
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

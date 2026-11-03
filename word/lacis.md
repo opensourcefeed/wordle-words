@@ -33,4 +33,15 @@ anagrams:
 - laics
 - salic
 - scail
+prev_word: lacey
+next_word: lacka
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

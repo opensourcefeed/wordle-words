@@ -23,4 +23,15 @@ stats:
 neighbours:
 - alata
 - anana
+prev_word: anana
+next_word: ancho
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

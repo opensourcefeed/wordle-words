@@ -34,4 +34,15 @@ anagrams:
 trap:
   pattern: _EINS
   count: 7
+prev_word: zeera
+next_word: zendo
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/ze/"
+  label: Starting with ZE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

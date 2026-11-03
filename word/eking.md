@@ -34,4 +34,13 @@ definitions:
   - text: The act or process of adding.
   - text: That which is added.
   - text: A supplementary piece of timber used to lengthen another.
+prev_word: ekdam
+next_word: ekkas
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

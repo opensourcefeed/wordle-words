@@ -26,4 +26,15 @@ neighbours:
 - tigon
 anagrams:
 - tomin
+prev_word: timid
+next_word: timps
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

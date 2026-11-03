@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: RO_ER
   count: 7
+prev_word: robed
+next_word: robes
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

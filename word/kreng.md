@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 37
 neighbours:
 - krang
+prev_word: kreep
+next_word: krewe
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

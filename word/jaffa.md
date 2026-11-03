@@ -29,4 +29,15 @@ definitions:
   - text: An impotent or infertile male.
   - text: A ball that is very difficult for the batsman to hit because it moves erratically
       either through the air or off the pitch
+prev_word: jafas
+next_word: jagas
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/fa/"
+  label: Ending in FA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

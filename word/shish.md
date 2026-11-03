@@ -29,4 +29,15 @@ neighbours:
 - shist
 - slish
 - whish
+prev_word: shirt
+next_word: shiso
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -59,4 +59,15 @@ definitions:
       motion.
   - text: A television series aired at the same time daily (or at least on Mondays
       to Fridays), so that it appears as a strip straight across the weekly schedule.
+prev_word: strim
+next_word: strop
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ip/"
+  label: Ending in IP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

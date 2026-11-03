@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - flyer
 - refly
+prev_word: feria
+next_word: fermi
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

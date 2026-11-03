@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of savoury doughnut eaten as a snack in south Asia.
+prev_word: vacuo
+next_word: vaded
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

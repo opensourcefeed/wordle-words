@@ -56,4 +56,15 @@ definitions:
   - text: A variety of non-bifurcated garments made for men and loosely resembling
       a Scottish kilt, but most often made from different fabrics and not always with
       tartan plaid designs.
+prev_word: kelpy
+next_word: kelty
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 84
 neighbours:
 - neems
+prev_word: neele
+next_word: neems
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/mb/"
+  label: Ending in MB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

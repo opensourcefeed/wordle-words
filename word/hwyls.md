@@ -18,4 +18,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 81
+prev_word: huzzy
+next_word: hydel
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

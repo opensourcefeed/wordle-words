@@ -38,4 +38,15 @@ definitions:
   - text: A period of 30 days, 31 days, or some alternation thereof.
     example: We went on holiday for two months.
   - text: "(in the plural) A woman's period; menstrual discharge."
+prev_word: monte
+next_word: monty
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

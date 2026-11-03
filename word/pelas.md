@@ -46,4 +46,15 @@ anagrams:
 trap:
   pattern: PEL_S
   count: 6
+prev_word: pekoe
+next_word: pelau
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of the four original castes in Hinduism, or the system of such castes
+prev_word: varix
+next_word: varus
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

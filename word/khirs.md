@@ -27,4 +27,15 @@ neighbours:
 - whirs
 anagrams:
 - shirk
+prev_word: khets
+next_word: khoja
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

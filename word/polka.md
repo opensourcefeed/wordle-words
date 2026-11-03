@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To dance the polka.
+prev_word: polje
+next_word: polks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

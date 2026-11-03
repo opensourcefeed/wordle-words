@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A horizontal band across the middle of the shield.
+prev_word: ferry
+next_word: festa
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

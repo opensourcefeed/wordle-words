@@ -34,4 +34,15 @@ definitions:
       treatment.
   - text: An opening to the enemy; a weak spot that provides an advantage for one's
       opponent.
+prev_word: sukhs
+next_word: sukuk
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

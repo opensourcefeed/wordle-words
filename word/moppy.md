@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _OPPY
   count: 8
+prev_word: mopey
+next_word: mopsy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: The cessation of breathing.
+prev_word: apism
+next_word: apode
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

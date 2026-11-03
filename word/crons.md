@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: CRO_S
   count: 6
+prev_word: cronk
+next_word: crony
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

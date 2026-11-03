@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: A group of Zulu (or other Bantu) warriors; a detachment of armed men.
+prev_word: impel
+next_word: imply
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

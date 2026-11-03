@@ -31,4 +31,15 @@ neighbours:
 - lotic
 - roric
 - toric
+prev_word: lores
+next_word: loris
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

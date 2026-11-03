@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _OWIE
   count: 8
+prev_word: yowes
+next_word: yowls
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

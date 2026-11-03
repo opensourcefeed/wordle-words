@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: LI_ES
   count: 8
+prev_word: lifer
+next_word: lifey
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

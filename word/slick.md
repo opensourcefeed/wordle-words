@@ -76,4 +76,15 @@ definitions:
   - text: Extraordinarily great or special.
     example: 'That is one slick bicycle: it has all sorts of features!'
   - text: Sleek; smooth
+prev_word: slice
+next_word: slide
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

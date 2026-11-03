@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _AVEL
   count: 7
+prev_word: havan
+next_word: haven
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

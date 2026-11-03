@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: Utter a yowl.
   - text: Express by yowling; utter with a yowl.
+prev_word: yowie
+next_word: yowsa
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

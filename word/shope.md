@@ -32,4 +32,15 @@ neighbours:
 - stope
 anagrams:
 - hopes
+prev_word: shoot
+next_word: shops
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

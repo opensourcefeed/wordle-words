@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: The pubic bone; the part of the hipbone forming the front arch of the pelvis
+prev_word: pubic
+next_word: pubsy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

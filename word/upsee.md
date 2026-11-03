@@ -24,4 +24,15 @@ neighbours:
 - upset
 - unsee
 - upsey
+prev_word: uprun
+next_word: upset
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/up/"
+  label: Starting with UP
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: SLA_S
   count: 8
+prev_word: slave
+next_word: slays
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

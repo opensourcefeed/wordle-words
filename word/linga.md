@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: "(Shaivism) The aniconic representation traditionally worshipped as a symbol
       of or in connection with Shiva."
+prev_word: liney
+next_word: lingo
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

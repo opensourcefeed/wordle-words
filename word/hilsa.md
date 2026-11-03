@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: Tenualosa ilisha, a fish in the herring family, and a popular food fish
       in South Asia.
+prev_word: hilly
+next_word: hilts
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A region or province in Russia (край).
+prev_word: kranz
+next_word: kreef
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: A small wild cat of Central Asia, Felis manul, syn, Otocolobus manul.
+prev_word: manty
+next_word: manus
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

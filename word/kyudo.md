@@ -24,4 +24,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Japanese form of archery.
+prev_word: kythe
+next_word: laarf
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

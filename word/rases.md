@@ -52,4 +52,15 @@ definitions:
   - text: A slight wound; a scratch
   - text: A way of measuring in which the commodity measured was made even with the
       top of the measuring vessel by rasing, or striking off, all that was above it
+prev_word: raser
+next_word: rasps
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

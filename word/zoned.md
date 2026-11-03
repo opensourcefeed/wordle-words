@@ -45,4 +45,15 @@ definitions:
     example: Everyone just put their goddamn heads together and zoned. (Byron Coley,
       liner notes for the album "Piece for Jetsun Dolma" by Thurston Moore)
   - text: To girdle or encircle.
+prev_word: zonda
+next_word: zoner
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

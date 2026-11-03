@@ -29,4 +29,15 @@ neighbours:
 - loves
 - lovey
 - lovie
+prev_word: loved
+next_word: lover
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

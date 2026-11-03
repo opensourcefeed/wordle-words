@@ -31,4 +31,15 @@ anagrams:
 - adorb
 - bardo
 - dobra
+prev_word: dorad
+next_word: dorbs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

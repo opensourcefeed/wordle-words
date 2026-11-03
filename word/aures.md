@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _URES
   count: 8
+prev_word: aurei
+next_word: auric
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

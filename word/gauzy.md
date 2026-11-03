@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Having the qualities of gauze; light, thin, transparent, hazy.
   - text: Light; giving the effect of haze.
+prev_word: gauze
+next_word: gavel
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -50,4 +50,15 @@ definitions:
   - text: An autorickshaw.
     example: "... users are often unable to note down the number of the taxi or the
       auto as the driver will just zoom past."
+prev_word: aurum
+next_word: auxin
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

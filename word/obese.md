@@ -29,4 +29,15 @@ definitions:
   - text: 'Extremely overweight, especially: weighing more than 20% (for men) or 25%
       (for women) over their ideal weight determined by height and build; or, having
       a body mass index over 30 kg/m2.'
+prev_word: obeli
+next_word: obeys
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ob/"
+  label: Starting with OB
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -26,4 +26,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any crustacean of the family Mysidae.
+prev_word: myrrh
+next_word: mysie
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/my/"
+  label: Starting with MY
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

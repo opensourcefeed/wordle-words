@@ -46,4 +46,15 @@ anagrams:
 trap:
   pattern: _ORIS
   count: 7
+prev_word: norie
+next_word: norks
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 30
 neighbours:
 - mysid
+prev_word: mysid
+next_word: mythi
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/my/"
+  label: Starting with MY
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: An icicle.
+prev_word: icker
+next_word: icons
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/ic/"
+  label: Starting with IC
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

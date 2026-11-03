@@ -34,4 +34,15 @@ neighbours:
 - arete
 anagrams:
 - ranee
+prev_word: arena
+next_word: arepa
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -44,4 +44,15 @@ definitions:
     example: The criminal has been wreaked by the Judge to spend a year in prison.
   - text: To inflict or take vengeance on.
   - text: To take vengeance for.
+prev_word: wrawl
+next_word: wreck
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

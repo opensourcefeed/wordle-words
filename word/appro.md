@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 49
 neighbours:
 - aspro
+prev_word: apply
+next_word: appts
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

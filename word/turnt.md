@@ -46,4 +46,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Energetic, happy, or excited, especially as a result of alcohol or drugs
+prev_word: turns
+next_word: turon
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

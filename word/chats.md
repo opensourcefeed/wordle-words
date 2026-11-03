@@ -75,4 +75,15 @@ definitions:
 - pos: noun
   defs:
   - text: A louse (small, parasitic insect).
+prev_word: chasm
+next_word: chava
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

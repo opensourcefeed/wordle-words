@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ONER
   count: 8
+prev_word: zoned
+next_word: zones
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

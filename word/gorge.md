@@ -35,4 +35,15 @@ neighbours:
 anagrams:
 - grego
 - reggo
+prev_word: gores
+next_word: goris
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -30,4 +30,15 @@ anagrams:
 - irone
 - noire
 - norie
+prev_word: rioja
+next_word: riots
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

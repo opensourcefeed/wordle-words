@@ -33,4 +33,15 @@ definitions:
       and the abdomen with a common function.
   - text: A military unit of battalion or regiment size, in the Byzantine empire of
       the 8th - 11th centuries.
+prev_word: taggy
+next_word: tagua
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

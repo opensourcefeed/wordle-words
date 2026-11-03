@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: Father, dad.
+prev_word: dadah
+next_word: daddy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

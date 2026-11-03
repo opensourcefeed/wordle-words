@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: The magpie.
+prev_word: pieta
+next_word: piety
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: Any of various birds, of the order Gaviiformes, of North America and Europe
       that dive for fish and have a short tail, webbed feet and a yodeling cry.
+prev_word: looms
+next_word: loony
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: To strip skin off
   - text: To lash
+prev_word: flaxy
+next_word: fleam
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

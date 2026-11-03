@@ -27,4 +27,15 @@ neighbours:
 - batta
 - batts
 - pattu
+prev_word: batts
+next_word: batty
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/tu/"
+  label: Ending in TU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

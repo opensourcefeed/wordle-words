@@ -30,4 +30,15 @@ anagrams:
 - mails
 - malis
 - salmi
+prev_word: mirza
+next_word: misch
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -59,4 +59,15 @@ definitions:
     example: That's a canny big horse, man!
   - text: Gently, quietly; carefully, skilfully.
     example: drive canny
+prev_word: canns
+next_word: canoe
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

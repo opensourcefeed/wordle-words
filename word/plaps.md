@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _LAPS
   count: 6
+prev_word: plant
+next_word: plash
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -74,4 +74,15 @@ definitions:
       changing the writing or printing in which the sum payable is specified.
   - text: To throw (an exception).
     example: A division by zero will raise an exception.
+prev_word: raird
+next_word: raita
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

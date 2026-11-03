@@ -45,4 +45,15 @@ definitions:
   - text: Urge forward; drive briskly.
   - text: Jog along; move or work briskly.
   - text: Weird out or disturb someone.
+prev_word: whift
+next_word: while
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

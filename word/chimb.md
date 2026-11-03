@@ -36,4 +36,15 @@ definitions:
   - text: The edge or rim of a cask, etc., formed by the projecting ends of the staves;
       the chamfered end of a stave.
   - text: The back of the blade on a scythe.
+prev_word: chill
+next_word: chime
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/mb/"
+  label: Ending in MB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

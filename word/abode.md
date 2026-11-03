@@ -56,4 +56,15 @@ definitions:
   - text: Stay or continuance in a place; sojourn.
   - text: A residence, dwelling or habitation.
     example: of no fixed abode
+prev_word: abnet
+next_word: abohm
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

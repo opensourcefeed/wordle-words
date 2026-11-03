@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _UKES
   count: 7
+prev_word: buist
+next_word: bukos
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

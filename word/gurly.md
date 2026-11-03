@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _URLY
   count: 6
+prev_word: gurls
+next_word: gurns
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

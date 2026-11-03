@@ -40,4 +40,15 @@ definitions:
 - pos: verb
   defs:
   - text: To reinforce with bars of this kind.
+prev_word: rebab
+next_word: rebbe
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -37,4 +37,15 @@ anagrams:
 - aping
 - gnapi
 - ngapi
+prev_word: piney
+next_word: pinge
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

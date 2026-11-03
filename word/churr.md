@@ -39,4 +39,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make the low vocal sound of some birds.
+prev_word: churn
+next_word: chuse
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/rr/"
+  label: Ending in RR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

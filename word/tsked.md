@@ -23,4 +23,13 @@ stats:
 neighbours:
 - asked
 - toked
+prev_word: tsars
+next_word: tsuba
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

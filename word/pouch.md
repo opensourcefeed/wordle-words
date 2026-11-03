@@ -54,4 +54,15 @@ definitions:
   - text: "(of fowls and fish) To swallow."
   - text: To pout.
   - text: To pocket; to put up with.
+prev_word: pouce
+next_word: pouff
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

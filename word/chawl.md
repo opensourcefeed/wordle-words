@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A type of residential tenement building found in India, typically for poor
       working-class people.
+prev_word: chawk
+next_word: chaws
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/wl/"
+  label: Ending in WL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -32,4 +32,15 @@ definitions:
 - pos: verb
   defs:
   - text: To seize property in this manner
+prev_word: poilu
+next_word: point
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

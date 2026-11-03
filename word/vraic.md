@@ -25,4 +25,13 @@ neighbours:
 - craic
 anagrams:
 - vicar
+prev_word: vozhd
+next_word: vrils
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

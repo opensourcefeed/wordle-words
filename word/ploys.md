@@ -42,4 +42,15 @@ definitions:
       pitch.
   - text: Sport; frolic.
   - text: Employment.
+prev_word: ploye
+next_word: pluck
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

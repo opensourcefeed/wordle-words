@@ -27,4 +27,15 @@ neighbours:
 - sunks
 - sunna
 - sunts
+prev_word: sunna
+next_word: sunny
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

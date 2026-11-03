@@ -46,4 +46,15 @@ definitions:
   - text: To learn.
   - text: To teach.
     example: Larn yersel te taalk propa like!
+prev_word: larky
+next_word: larnt
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

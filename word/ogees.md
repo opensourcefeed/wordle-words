@@ -39,4 +39,15 @@ definitions:
   - text: "(distillation) The bubble-shaped chamber of a pot still that connects the
       swan neck to the pot and allows distillate to expand, condense, and fall back
       into the pot."
+prev_word: ogeed
+next_word: oggin
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/og/"
+  label: Starting with OG
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -28,4 +28,15 @@ neighbours:
 - legno
 - reggo
 - veggo
+prev_word: legge
+next_word: leggy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

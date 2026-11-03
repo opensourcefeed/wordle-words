@@ -45,4 +45,15 @@ definitions:
   - text: To accomplish a task with little effort.
     example: Don't worry about the interview — you'll waltz it.
   - text: To move with fanfare.
+prev_word: walty
+next_word: wamed
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/tz/"
+  label: Ending in TZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

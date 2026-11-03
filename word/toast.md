@@ -54,4 +54,15 @@ definitions:
     example: If I ever get my hands on the guy that stole my wallet, he’s toast!
   - text: Extemporaneous narrative poem or rap.
   - text: A transient, informational pop-up window.
+prev_word: toady
+next_word: toaze
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

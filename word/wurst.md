@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A German- or Austrian-style sausage.
+prev_word: wunga
+next_word: wuses
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wu/"
+  label: Starting with WU
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

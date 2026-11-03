@@ -32,4 +32,15 @@ neighbours:
 - lollo
 - mollo
 - pollo
+prev_word: holla
+next_word: holly
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

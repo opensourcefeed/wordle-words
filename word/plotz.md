@@ -31,4 +31,15 @@ definitions:
   - text: To flop down wearily.
   - text: To faint.
   - text: To fall down dead.
+prev_word: plots
+next_word: plouk
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/tz/"
+  label: Ending in TZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

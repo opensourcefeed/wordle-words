@@ -27,4 +27,13 @@ neighbours:
 - umiak
 anagrams:
 - maqui
+prev_word: umiak
+next_word: ummah
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/um/"
+  label: Starting with UM
+- url: "/ending-with/q/"
+  label: Ending in Q
 ---

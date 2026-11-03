@@ -56,4 +56,15 @@ definitions:
     example: The theme of this piece constantly migrates between the three voice parts.
   - text: "(IRC) A flag associated with a user on a channel, determining whether or
       not they can send messages to the channel."
+prev_word: vogue
+next_word: voici
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

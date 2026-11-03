@@ -29,4 +29,13 @@ definitions:
 - pos: noun
   defs:
   - text: An idiot; a fool; an imbecile.
+prev_word: educt
+next_word: eensy
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -58,4 +58,15 @@ definitions:
   - text: Any of various small freshwater ducks of the genus Anas that are brightly
       coloured and have short necks.
   - text: A dark, somewhat bluish-green colour; a dark cyan.
+prev_word: teaks
+next_word: teams
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

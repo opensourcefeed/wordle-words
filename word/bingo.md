@@ -63,4 +63,15 @@ definitions:
   - text: Used when finding what one has been looking for or trying to recall, or
       on successful completion of a task.
   - text: Used to declare "You've just made my point!" or "My point exactly!"
+prev_word: binge
+next_word: bings
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

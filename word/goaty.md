@@ -33,4 +33,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Like a goat, goatlike or redolent of goats.
+prev_word: goats
+next_word: goave
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

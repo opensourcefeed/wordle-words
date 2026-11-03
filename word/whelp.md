@@ -40,4 +40,13 @@ definitions:
   - text: One of several wooden strips to prevent wear on a windlass on a clipper-era
       ship.
   - text: A tooth on a sprocket wheel (compare sprocket and cog).
+prev_word: whelm
+next_word: whens
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

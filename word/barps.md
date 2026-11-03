@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: BAR_S
   count: 8
+prev_word: baron
+next_word: barra
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

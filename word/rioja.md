@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: The wine (mostly red) of that region
+prev_word: rinse
+next_word: rione
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ja/"
+  label: Ending in JA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

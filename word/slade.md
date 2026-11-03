@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: A valley, a flat grassy area, a glade.
   - text: The sole of a plough.
+prev_word: slack
+next_word: slaes
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

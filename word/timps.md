@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _IMPS
   count: 8
+prev_word: timon
+next_word: tinas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

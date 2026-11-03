@@ -94,4 +94,15 @@ definitions:
     example: to stem a tide
   - text: To move the feet apart and point the tips of the skis inward in order to
       slow down the speed or to facilitate a turn.
+prev_word: steme
+next_word: stend
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

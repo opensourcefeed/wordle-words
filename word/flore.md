@@ -33,4 +33,15 @@ neighbours:
 - plore
 anagrams:
 - forel
+prev_word: flora
+next_word: flors
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

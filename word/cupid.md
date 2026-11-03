@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 80
 anagrams:
 - pudic
+prev_word: cupel
+next_word: cuppa
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

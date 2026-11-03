@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: Easily irritated or offended.
   - text: Particular; fussy.
+prev_word: miffs
+next_word: mifty
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _OXES
   count: 11
+prev_word: gowns
+next_word: goyim
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

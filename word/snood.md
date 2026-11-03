@@ -40,4 +40,15 @@ definitions:
 - pos: verb
   defs:
   - text: To keep the hair in place with a snood.
+prev_word: snoke
+next_word: snook
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/od/"
+  label: Ending in OD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

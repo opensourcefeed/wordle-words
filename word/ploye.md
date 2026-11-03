@@ -29,4 +29,15 @@ neighbours:
 - ploys
 anagrams:
 - poley
+prev_word: plowt
+next_word: ploys
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ye/"
+  label: Ending in YE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

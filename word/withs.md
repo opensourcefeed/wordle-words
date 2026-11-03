@@ -32,4 +32,15 @@ anagrams:
 - whist
 - whits
 - wisht
+prev_word: withe
+next_word: withy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

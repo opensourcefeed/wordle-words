@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: HAL_S
   count: 6
+prev_word: halfa
+next_word: halid
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

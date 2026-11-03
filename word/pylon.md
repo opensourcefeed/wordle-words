@@ -41,4 +41,15 @@ definitions:
   - text: An orange marker designating one of the four corners of the end zone in
       American football.
   - text: A rigid prosthesis for the lower leg.
+prev_word: pyins
+next_word: pyned
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

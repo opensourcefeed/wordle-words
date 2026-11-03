@@ -47,4 +47,15 @@ definitions:
   - text: To refuse to do something, as beneath oneself.
     example: She scorned to show weakness.
   - text: To scoff, to express contempt.
+prev_word: score
+next_word: scorp
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

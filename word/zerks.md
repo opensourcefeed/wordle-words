@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _ERKS
   count: 8
+prev_word: zerda
+next_word: zeros
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/ze/"
+  label: Starting with ZE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

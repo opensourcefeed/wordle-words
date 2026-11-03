@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A firefighter.
+prev_word: fires
+next_word: firks
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

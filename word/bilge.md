@@ -46,4 +46,15 @@ definitions:
   - text: To spring a leak in the bilge.
   - text: To bulge or swell.
   - text: To break open the bilge(s) of.
+prev_word: biles
+next_word: bilgy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

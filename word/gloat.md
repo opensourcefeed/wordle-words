@@ -44,4 +44,15 @@ definitions:
   - text: To exhibit a conspicuous (sometimes malevolent) pleasure or sense of self-satisfaction,
       often at an adversary's misfortune.
   - text: To triumph, crow, relish, glory, revel.
+prev_word: gloam
+next_word: globe
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

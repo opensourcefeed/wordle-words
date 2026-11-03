@@ -49,4 +49,15 @@ definitions:
 - pos: interjection
   defs:
   - text: Used as an oath and in expressions of wonder, anger, etc.
+prev_word: sharp
+next_word: shash
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

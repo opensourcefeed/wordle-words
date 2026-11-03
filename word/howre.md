@@ -24,4 +24,15 @@ stats:
 neighbours:
 - howbe
 - powre
+prev_word: howls
+next_word: howso
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -26,4 +26,15 @@ neighbours:
 - ryots
 anagrams:
 - rioty
+prev_word: rynds
+next_word: ryots
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ry/"
+  label: Starting with RY
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

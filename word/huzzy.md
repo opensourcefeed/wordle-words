@@ -24,4 +24,15 @@ neighbours:
 - buzzy
 - huzza
 - muzzy
+prev_word: huzza
+next_word: hwyls
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

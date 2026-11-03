@@ -40,4 +40,13 @@ definitions:
   - text: To put (something) in someone's inbox.
     example: I just inboxed you the presentation.
   - text: To communicate with (a person) by writing to their electronic inbox.
+prev_word: inarm
+next_word: inbye
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

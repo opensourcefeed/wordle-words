@@ -65,4 +65,15 @@ definitions:
 - pos: verb
   defs:
   - text: To haggle in trading.
+prev_word: hubby
+next_word: hudna
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

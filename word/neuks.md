@@ -27,4 +27,15 @@ neighbours:
 - yeuks
 anagrams:
 - nukes
+prev_word: netty
+next_word: neume
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

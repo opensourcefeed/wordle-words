@@ -25,4 +25,15 @@ neighbours:
 - agley
 - agued
 - agues
+prev_word: agues
+next_word: aguna
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A Hebrew nikud vowel sign written as two vertical dots beneath a letter,
       indicating either the phoneme /ə/ or the complete absence of a vowel.
+prev_word: shets
+next_word: shewn
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/va/"
+  label: Ending in VA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

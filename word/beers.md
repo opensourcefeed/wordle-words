@@ -58,4 +58,15 @@ definitions:
 - pos: noun
   defs:
   - text: One who is or exists.
+prev_word: beeps
+next_word: beery
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

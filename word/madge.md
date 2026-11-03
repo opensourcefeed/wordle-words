@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _ADGE
   count: 8
+prev_word: maddy
+next_word: madid
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: GRO_S
   count: 6
+prev_word: groma
+next_word: grone
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

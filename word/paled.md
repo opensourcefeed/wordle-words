@@ -58,4 +58,15 @@ definitions:
   defs:
   - text: Striped.
   - text: Enclosed with a paling.
+prev_word: palea
+next_word: paler
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -27,4 +27,15 @@ neighbours:
 - agons
 - axons
 - azans
+prev_word: azole
+next_word: azote
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/az/"
+  label: Starting with AZ
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

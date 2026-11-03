@@ -73,4 +73,15 @@ definitions:
   defs:
   - text: A very long time.
     example: It took years for the bus to come.
+prev_word: yearn
+next_word: yeast
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

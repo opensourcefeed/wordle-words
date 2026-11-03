@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _URRS
   count: 8
+prev_word: furos
+next_word: furry
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

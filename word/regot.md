@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - ergot
 - etrog
+prev_word: regos
+next_word: regur
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -68,4 +68,15 @@ definitions:
       merchandise.
   - text: To set a zero value on an instrument (usually a balance) that discounts
       the starting point.
+prev_word: tared
+next_word: targa
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

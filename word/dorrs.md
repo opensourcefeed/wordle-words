@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: DOR_S
   count: 8
+prev_word: dorps
+next_word: dorsa
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

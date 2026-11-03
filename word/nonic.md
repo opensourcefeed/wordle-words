@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _ONIC
   count: 7
+prev_word: nongs
+next_word: nonis
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

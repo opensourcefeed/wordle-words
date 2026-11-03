@@ -24,4 +24,15 @@ neighbours:
 - thrip
 anagrams:
 - third
+prev_word: threw
+next_word: thrip
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -26,4 +26,15 @@ neighbours:
 - ouphe
 - owche
 - ruche
+prev_word: oubit
+next_word: oucht
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

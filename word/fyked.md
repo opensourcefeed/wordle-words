@@ -26,4 +26,13 @@ neighbours:
 - fiked
 - fykes
 - ryked
+prev_word: fyces
+next_word: fykes
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

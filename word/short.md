@@ -117,4 +117,15 @@ definitions:
     example: He's short common sense.
   - text: Having a negative position in.
     example: I don’t want to be short the market going into the weekend.
+prev_word: shorn
+next_word: shote
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

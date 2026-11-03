@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A street market, particularly in Arabic- and Somali-speaking countries;
       a place where people buy and sell goods.
+prev_word: sujee
+next_word: sukis
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

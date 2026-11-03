@@ -34,4 +34,15 @@ definitions:
   - text: Resembling or characteristic of a wasp; wasplike.
   - text: Infested with wasps.
     example: a waspy apple
+prev_word: wasps
+next_word: waste
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -58,4 +58,15 @@ definitions:
   - text: To criticize by ranting.
   - text: To speak extravagantly, as in merriment.
   - text: To dance rant steps.
+prev_word: ranse
+next_word: ranty
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -34,4 +34,15 @@ anagrams:
 trap:
   pattern: _ENSE
   count: 7
+prev_word: lenos
+next_word: lenti
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

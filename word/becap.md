@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 31
 neighbours:
 - recap
+prev_word: bebop
+next_word: becke
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ap/"
+  label: Ending in AP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

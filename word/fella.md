@@ -57,4 +57,15 @@ definitions:
   - text: A person who was a fellow attendee at one's school.
     example: 'I''ve lost touch with all my old schoolmates: I only see them at class
       reunions.'
+prev_word: felix
+next_word: fells
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

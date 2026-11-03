@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ONNE
   count: 6
+prev_word: ronin
+next_word: ronte
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

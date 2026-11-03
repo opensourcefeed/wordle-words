@@ -21,4 +21,15 @@ stats:
 neighbours:
 - kynde
 - tynde
+prev_word: hymns
+next_word: hyoid
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

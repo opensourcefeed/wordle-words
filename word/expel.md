@@ -36,4 +36,15 @@ definitions:
   - text: To remove from membership.
     example: He was expelled from school multiple times.
   - text: To deport.
+prev_word: expat
+next_word: expos
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - agita
 - taiga
+prev_word: gairs
+next_word: gaits
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

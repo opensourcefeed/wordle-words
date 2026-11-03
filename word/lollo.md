@@ -28,4 +28,15 @@ neighbours:
 - lolly
 - mollo
 - pollo
+prev_word: loled
+next_word: lolls
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

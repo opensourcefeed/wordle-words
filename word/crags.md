@@ -48,4 +48,15 @@ definitions:
 - pos: noun
   defs:
   - text: The neck or throat.
+prev_word: craft
+next_word: craic
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

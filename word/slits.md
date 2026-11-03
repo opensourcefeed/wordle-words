@@ -55,4 +55,15 @@ definitions:
     example: He slit the bag open and the rice began pouring out.
   - text: To split into strips by lengthwise cuts.
   - text: To cut; to sever; to divide.
+prev_word: slish
+next_word: slive
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

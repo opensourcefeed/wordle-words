@@ -38,4 +38,15 @@ definitions:
   - text: A composition for such a group of musicians.
   - text: 'A byte of eight bits. Abbreviation: o'
   - text: A group of three bits, representing any of eight possible values.
+prev_word: octas
+next_word: octic
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

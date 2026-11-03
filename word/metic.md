@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: In Ancient Greek city-states, a resident alien who did not have the rights
       of a citizen and who paid a tax for the right to live there.
+prev_word: methy
+next_word: metif
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

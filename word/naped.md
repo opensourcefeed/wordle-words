@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _APED
   count: 7
+prev_word: napas
+next_word: napes
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

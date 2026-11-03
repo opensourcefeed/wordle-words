@@ -44,4 +44,15 @@ definitions:
       reveals details of subsurface structures.
   - text: A conclusion (of a statement or event, for example), final portion, tail
       end.
+prev_word: cocus
+next_word: codec
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

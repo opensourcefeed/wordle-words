@@ -55,4 +55,15 @@ definitions:
   - text: To alter a film by cutting and splicing frames.
   - text: To cut short or otherwise alter an improvised scene.
   - text: To lend itself to editing in a certain way.
+prev_word: edile
+next_word: educe
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ed/"
+  label: Starting with ED
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

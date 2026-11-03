@@ -30,4 +30,15 @@ definitions:
 - pos: verb
   defs:
   - text: To bathe; to steep.
+prev_word: embar
+next_word: embed
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -58,4 +58,15 @@ definitions:
   - text: To break a computer so everything needs to be reinstalled; to wipe all files.
   - text: To cause an unfair disadvantage to a player or team through poor officiating;
       especially, to cause a player or team to lose the game with an incorrect call.
+prev_word: hoser
+next_word: hosey
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

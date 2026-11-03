@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _ETES
   count: 9
+prev_word: netas
+next_word: netop
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -38,4 +38,15 @@ definitions:
   - text: To select and take or approve.
     example: These resolutions were adopted.
   - text: To win ten consecutive games against an opponent
+prev_word: adoon
+next_word: adorb
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

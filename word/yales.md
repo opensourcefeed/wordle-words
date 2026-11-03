@@ -47,4 +47,15 @@ definitions:
   - text: A mythical beast in European mythology and heraldry, usually portrayed as
       an antelope- or goat-like four-legged creature with large horns that it can
       swivel in any direction.
+prev_word: yakow
+next_word: yamen
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - lolas
 - salol
+prev_word: olive
+next_word: ollav
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

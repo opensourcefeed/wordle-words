@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: A container for frying food.
   - text: A young chicken suitable for frying; a pullet
+prev_word: frust
+next_word: fubar
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

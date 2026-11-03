@@ -63,4 +63,15 @@ definitions:
 - pos: noun
   defs:
   - text: A woman's breasts.
+prev_word: girlf
+next_word: girly
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

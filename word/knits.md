@@ -55,4 +55,15 @@ definitions:
   - text: To form into a knot, or into knots; to tie together, as cord; to fasten
       by tying.
   - text: To draw together; to contract into wrinkles.
+prev_word: knish
+next_word: knive
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

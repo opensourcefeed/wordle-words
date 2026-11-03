@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A traditional Moroccan house or palace with an interior garden.
+prev_word: rhyta
+next_word: rials
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -86,4 +86,15 @@ definitions:
   - text: To remove or trim part of a seam allowance from a finished seam so as to
       reduce bulk and make the finished piece more even when turned right side out.
   - text: To pass imperceptibly from one grade into another.
+prev_word: grace
+next_word: grads
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

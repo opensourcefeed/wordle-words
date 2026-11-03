@@ -21,4 +21,15 @@ stats:
 neighbours:
 - spews
 - stewy
+prev_word: spews
+next_word: spial
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/wy/"
+  label: Ending in WY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ADDY
   count: 10
+prev_word: laddu
+next_word: laded
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -28,4 +28,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of or relating to the vagus nerve.
+prev_word: vadge
+next_word: vague
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

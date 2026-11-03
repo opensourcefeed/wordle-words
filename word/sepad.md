@@ -25,4 +25,15 @@ neighbours:
 anagrams:
 - spade
 - spaed
+prev_word: senza
+next_word: sepal
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

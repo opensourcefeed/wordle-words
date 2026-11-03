@@ -45,4 +45,15 @@ definitions:
       acid, the carboxamides or acid amides
   - text: Any ionic derivative of ammonia in which a hydrogen atom has been replaced
       with a metal cation (R-NH- or R2N-)
+prev_word: amici
+next_word: amido
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

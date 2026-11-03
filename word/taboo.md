@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: Excluded or forbidden from use, approach or mention.
   - text: Culturally forbidden.
+prev_word: tabls
+next_word: tabor
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

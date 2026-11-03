@@ -39,4 +39,15 @@ definitions:
     example: I was loath to return to the office without the Henderson file.
   - text: Angry, hostile.
   - text: Loathsome, unpleasant.
+prev_word: loast
+next_word: loave
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

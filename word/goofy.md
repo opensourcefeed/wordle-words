@@ -44,4 +44,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Silly, quirky
+prev_word: goofs
+next_word: googs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

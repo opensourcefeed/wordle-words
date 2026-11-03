@@ -25,4 +25,15 @@ stats:
 neighbours:
 - ideas
 - idles
+prev_word: ideas
+next_word: ident
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/id/"
+  label: Starting with ID
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

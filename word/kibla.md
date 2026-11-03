@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: The direction in which Muslims face while praying, currently determined
       as the direction of the Kaaba in Mecca.
+prev_word: kibes
+next_word: kicks
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

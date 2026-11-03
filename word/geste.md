@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - egest
 - geest
+prev_word: gesso
+next_word: gests
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -31,4 +31,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of, befitting, pertaining to, or characteristic of a wife.
+prev_word: wifes
+next_word: wifie
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

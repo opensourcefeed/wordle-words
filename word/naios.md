@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: NAI_S
   count: 7
+prev_word: nains
+next_word: naira
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

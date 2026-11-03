@@ -40,4 +40,15 @@ definitions:
 - pos: verb
   defs:
   - text: To crush or grind food into a puree.
+prev_word: pured
+next_word: purer
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

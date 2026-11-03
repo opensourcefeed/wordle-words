@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: FRA_S
   count: 8
+prev_word: foyne
+next_word: frack
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

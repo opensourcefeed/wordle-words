@@ -27,4 +27,15 @@ neighbours:
 - globs
 - glowy
 - gooby
+prev_word: globs
+next_word: glode
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

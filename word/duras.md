@@ -37,4 +37,15 @@ anagrams:
 - daurs
 - duars
 - rudas
+prev_word: dural
+next_word: dured
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

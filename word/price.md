@@ -52,4 +52,15 @@ definitions:
   - text: To set a price on; to value; to prize.
   - text: To ask the price of.
     example: to price eggs
+prev_word: prian
+next_word: prick
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

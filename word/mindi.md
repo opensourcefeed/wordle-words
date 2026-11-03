@@ -24,4 +24,15 @@ neighbours:
 - mandi
 - minds
 - mingi
+prev_word: mincy
+next_word: minds
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/di/"
+  label: Ending in DI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

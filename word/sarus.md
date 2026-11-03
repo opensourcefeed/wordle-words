@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - rusas
 - suras
+prev_word: saros
+next_word: sarvo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

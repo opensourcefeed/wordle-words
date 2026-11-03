@@ -40,4 +40,15 @@ anagrams:
 - speat
 - tapes
 - tepas
+prev_word: pesos
+next_word: pesto
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 20
 neighbours:
 - preta
+prev_word: pruny
+next_word: pryan
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

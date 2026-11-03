@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A small sled, used for man-hauling supplies across snow and ice.
+prev_word: pulka
+next_word: pulli
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

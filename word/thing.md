@@ -75,4 +75,15 @@ definitions:
 - pos: verb
   defs:
   - text: To express as a thing; to reify.
+prev_word: thine
+next_word: think
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

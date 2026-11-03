@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A round picture or other work of art.
+prev_word: tondi
+next_word: toned
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -56,4 +56,15 @@ definitions:
 - pos: noun
   defs:
   - text: Battle; contest.
+prev_word: marsh
+next_word: marua
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

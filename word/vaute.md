@@ -28,4 +28,15 @@ neighbours:
 - faute
 - vauts
 - vawte
+prev_word: vaunt
+next_word: vauts
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

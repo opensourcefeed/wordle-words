@@ -28,4 +28,15 @@ neighbours:
 - helve
 anagrams:
 - bevel
+prev_word: belts
+next_word: bemad
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

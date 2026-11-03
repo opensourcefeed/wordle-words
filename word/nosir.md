@@ -31,4 +31,15 @@ anagrams:
 - ornis
 - roins
 - rosin
+prev_word: noshi
+next_word: notal
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

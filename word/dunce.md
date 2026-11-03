@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: An unintelligent person.
+prev_word: dunam
+next_word: dunch
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

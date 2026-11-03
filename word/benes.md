@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _ENES
   count: 9
+prev_word: bendy
+next_word: benet
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -34,4 +34,15 @@ definitions:
   - text: Ilex paraguariensis, a species of holly native to southern South America;
       or the dried leaves and twigs of this plant, used to make the caffeine-rich
       beverage mate.
+prev_word: yente
+next_word: yerds
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: A person who sets tiles.
   - text: A doorkeeper or attendant at a lodge of Freemasons.
+prev_word: tiled
+next_word: tiles
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

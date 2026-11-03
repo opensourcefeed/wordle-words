@@ -35,4 +35,15 @@ definitions:
   - text: Any of various body parts of non-parasitic bees that serve to carry pollen.
       In parasitic Hymenoptera it refers to a local patch of hairs, regardless of
       function.
+prev_word: scoot
+next_word: scope
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

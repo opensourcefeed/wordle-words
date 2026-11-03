@@ -41,4 +41,15 @@ definitions:
   - text: To use light, idle language by way of fun or ridicule; to banter.
   - text: To make fun of; to turn into ridicule by addressing in ironical or bantering
       language; to quiz.
+prev_word: chafe
+next_word: chaft
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

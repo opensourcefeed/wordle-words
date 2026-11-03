@@ -39,4 +39,15 @@ definitions:
   - text: A resinous product of the kauri tree, found in the form of yellow or brown
       lumps in the ground where the trees have grown. It is used for making varnish,
       and as a substitute for amber.
+prev_word: kaugh
+next_word: kauru
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

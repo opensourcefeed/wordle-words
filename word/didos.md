@@ -39,4 +39,15 @@ definitions:
   - text: A fuss, a row.
   - text: A shrewd trick; an antic; a caper.
     example: to cut a dido
+prev_word: didis
+next_word: didst
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

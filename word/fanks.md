@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ANKS
   count: 12
+prev_word: fangs
+next_word: fanny
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

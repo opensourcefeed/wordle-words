@@ -41,4 +41,15 @@ anagrams:
 - tales
 - teals
 - tesla
+prev_word: setae
+next_word: seter
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -26,4 +26,15 @@ neighbours:
 - plips
 - plugs
 - prigs
+prev_word: plies
+next_word: plims
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

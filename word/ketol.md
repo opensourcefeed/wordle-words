@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 18
 neighbours:
 - metol
+prev_word: ketes
+next_word: kevel
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

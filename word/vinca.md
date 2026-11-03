@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of several evergreen shrubs, of the genus Vinca, including the periwinkle
+prev_word: vinas
+next_word: vined
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _ROGS
   count: 6
+prev_word: croft
+next_word: cromb
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

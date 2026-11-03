@@ -79,4 +79,15 @@ definitions:
     example: He was a man of great parts but little virtue.
   - text: "(usually with “these”) Vicinity, region."
   - text: The genitals, short for private parts.
+prev_word: parti
+next_word: party
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

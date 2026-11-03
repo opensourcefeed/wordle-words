@@ -29,4 +29,15 @@ neighbours:
 - mouls
 - mousy
 - souly
+prev_word: moult
+next_word: mound
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

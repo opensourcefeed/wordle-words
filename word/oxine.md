@@ -29,4 +29,15 @@ neighbours:
 - oxide
 - exine
 - oxime
+prev_word: oxims
+next_word: oxlip
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ox/"
+  label: Starting with OX
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

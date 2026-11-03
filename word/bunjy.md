@@ -24,4 +24,13 @@ neighbours:
 - bungy
 - bunje
 - bunty
+prev_word: bunje
+next_word: bunko
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

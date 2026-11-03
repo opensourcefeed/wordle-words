@@ -48,4 +48,15 @@ definitions:
       or other edit will take place. Also called a cursor.
   - text: A circumflex, ⟨ ＾ ⟩.
   - text: A háček, ⟨ ˇ ⟩.
+prev_word: cares
+next_word: carex
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

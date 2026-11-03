@@ -35,4 +35,15 @@ definitions:
   - text: The dorsal portion of the midbrain of vertebrates; in mammals, containing
       the superior colliculus and inferior colliculus
   - text: The interconnected outer surface of a spore.
+prev_word: techy
+next_word: tecum
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

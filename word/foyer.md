@@ -42,4 +42,15 @@ definitions:
   - text: The crucible or basin in a furnace which receives the molten metal.
   - text: A hostel offering accommodation and work opportunities to homeless young
       people.
+prev_word: foxie
+next_word: foyle
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

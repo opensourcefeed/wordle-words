@@ -49,4 +49,15 @@ definitions:
       of a protein; locus.
     example: A change in a gene is reflected in the protein or RNA molecule that it
       codes for.
+prev_word: genas
+next_word: genet
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

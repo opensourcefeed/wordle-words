@@ -23,4 +23,15 @@ neighbours:
 - munga
 - punga
 - wonga
+prev_word: wulls
+next_word: wurst
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wu/"
+  label: Starting with WU
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

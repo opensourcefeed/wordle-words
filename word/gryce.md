@@ -26,4 +26,15 @@ neighbours:
 - gryde
 - gryke
 - grype
+prev_word: grunt
+next_word: gryde
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

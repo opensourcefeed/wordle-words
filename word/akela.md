@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: The leader of a pack of Cub Scouts.
+prev_word: akees
+next_word: akene
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ak/"
+  label: Starting with AK
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

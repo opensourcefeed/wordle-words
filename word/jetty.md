@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To jut out; to project.
+prev_word: jeton
+next_word: jeune
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

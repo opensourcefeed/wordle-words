@@ -58,4 +58,15 @@ definitions:
   - text: "(ditransitive) To actively produce as a result, by means of force or authority."
     example: His dogged determination caused the fundraising to be successful.
   - text: To assign or show cause; to give a reason; to make excuse.
+prev_word: causa
+next_word: cavas
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

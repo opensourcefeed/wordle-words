@@ -26,4 +26,15 @@ neighbours:
 - goths
 - moths
 - soths
+prev_word: cotes
+next_word: cotta
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

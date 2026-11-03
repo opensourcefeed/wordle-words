@@ -36,4 +36,15 @@ definitions:
   - text: A support person, usually female, who may not have medical or midwifery
       training, who provides emotional and practical assistance to a pregnant mother
       or couple before, during or after childbirth.
+prev_word: douks
+next_word: douma
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

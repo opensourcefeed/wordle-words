@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: A basal, membranous, outer sterile husk or bract in the flowers of grasses
       (Poaceae) and sedges (Cyperaceae).
+prev_word: glugs
+next_word: glums
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

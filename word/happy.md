@@ -65,4 +65,15 @@ definitions:
   - text: "(in combination) Favoring or inclined to use."
     example: slaphappy, trigger-happy
   - text: (of people, often followed by "at" or "in") Dexterous, ready, skilful.
+prev_word: happi
+next_word: hapus
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

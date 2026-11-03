@@ -75,4 +75,15 @@ definitions:
   - text: To shoot a bullet into something with a gun.
   - text: To have sex with, penetrate sexually.
     example: I'd love to plug him.
+prev_word: pluff
+next_word: pluke
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

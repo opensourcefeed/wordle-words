@@ -83,4 +83,15 @@ definitions:
 - pos: noun
   defs:
   - text: Feelings, emotions
+prev_word: feeds
+next_word: feely
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

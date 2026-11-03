@@ -42,4 +42,15 @@ definitions:
   - text: A smoking-room.
   - text: A collection of poems, especially one written by one author in Arabic or
       Persian.
+prev_word: ditzy
+next_word: divas
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

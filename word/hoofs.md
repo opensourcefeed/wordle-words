@@ -53,4 +53,15 @@ definitions:
   - text: To dance, especially as a professional.
   - text: "(football (soccer)) To kick, especially to kick a football a long way downfield
       with little accuracy."
+prev_word: hooey
+next_word: hoogo
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

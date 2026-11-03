@@ -36,4 +36,15 @@ definitions:
   - text: A stringed instrument related to the violin family, but held in the lap
       between the legs like a cello, usually with C-holes, a flat back, a fretted
       neck and six strings, played with an underhanded bow hold.
+prev_word: viold
+next_word: viper
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

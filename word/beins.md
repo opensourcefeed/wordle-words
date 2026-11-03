@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _EINS
   count: 7
+prev_word: being
+next_word: beira
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

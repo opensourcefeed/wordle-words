@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 8
 neighbours:
 - siren
+prev_word: syrah
+next_word: syrup
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

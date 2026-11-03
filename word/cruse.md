@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: A small jar used to hold liquid, such as oil or water.
   - text: An oil lamp or similar emblem.
+prev_word: crura
+next_word: crush
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

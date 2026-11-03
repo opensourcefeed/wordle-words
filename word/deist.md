@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _EIST
   count: 6
+prev_word: deism
+next_word: deity
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

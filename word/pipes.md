@@ -73,4 +73,15 @@ definitions:
   - text: A single pipe organ.
   - text: One's vocal capacity.
   - text: Biceps.
+prev_word: piper
+next_word: pipet
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

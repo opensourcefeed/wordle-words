@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: A gradation in a character or phenotype within a species or other group.
   - text: Any graduated continuum.
+prev_word: clime
+next_word: cling
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

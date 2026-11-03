@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 74
 neighbours:
 - pique
+prev_word: fiqhs
+next_word: fired
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

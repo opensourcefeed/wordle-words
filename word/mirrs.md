@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _IRRS
   count: 6
+prev_word: mirrl
+next_word: mirth
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

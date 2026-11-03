@@ -32,4 +32,15 @@ neighbours:
 - gluts
 - plums
 - slums
+prev_word: glume
+next_word: gluon
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

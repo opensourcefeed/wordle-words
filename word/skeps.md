@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: A basket.
   - text: A beehive made of straw or wicker.
+prev_word: skeos
+next_word: skerm
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

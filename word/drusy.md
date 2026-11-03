@@ -27,4 +27,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having a druse.
+prev_word: druse
+next_word: druxy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

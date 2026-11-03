@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To stare at (someone or something), especially impertinently, amorously,
       or covetously.
+prev_word: ogler
+next_word: ogmic
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/og/"
+  label: Starting with OG
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

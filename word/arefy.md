@@ -25,4 +25,15 @@ anagrams:
 - faery
 - fayer
 - fayre
+prev_word: arede
+next_word: areic
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

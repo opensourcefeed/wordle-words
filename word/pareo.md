@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A wraparound garment, worn by men or women, similar to a Malaysian sarong.
+prev_word: paren
+next_word: parer
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/eo/"
+  label: Ending in EO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

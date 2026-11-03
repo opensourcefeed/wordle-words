@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: Surly; annoyed; displeased; disgruntled.
   - text: Stupid; churlish
+prev_word: chufa
+next_word: chugs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

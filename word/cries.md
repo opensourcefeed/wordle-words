@@ -77,4 +77,15 @@ definitions:
       especially things lost or found, goods to be sold, etc.
     example: to cry goods
   - text: Hence, to publish the banns of, as for marriage.
+prev_word: crier
+next_word: crime
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

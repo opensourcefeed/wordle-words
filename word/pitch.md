@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: To cover or smear with pitch.
   - text: To darken; to blacken; to obscure.
+prev_word: pitas
+next_word: piths
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

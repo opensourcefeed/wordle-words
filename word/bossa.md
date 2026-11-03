@@ -29,4 +29,15 @@ anagrams:
 - basso
 - sabos
 - sobas
+prev_word: boson
+next_word: bossy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

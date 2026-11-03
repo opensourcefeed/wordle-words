@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - amban
 - nabam
+prev_word: maars
+next_word: mabes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

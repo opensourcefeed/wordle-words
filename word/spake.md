@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: Quiet; tame.
   - text: Ready; prompt.
+prev_word: spait
+next_word: spald
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -52,4 +52,15 @@ definitions:
   - text: A tool like a soldering iron for making poker drawings.
   - text: One who pokes.
   - text: A kind of duck, the pochard.
+prev_word: poked
+next_word: pokes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

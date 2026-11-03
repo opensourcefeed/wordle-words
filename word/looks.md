@@ -49,4 +49,15 @@ definitions:
   - text: One's appearance or attractiveness.
     example: His charm and good looks accounted for much of his popularity in the
       polls.
+prev_word: looie
+next_word: looky
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

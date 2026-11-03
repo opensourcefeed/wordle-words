@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _AUDS
   count: 7
+prev_word: hatty
+next_word: haufs
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

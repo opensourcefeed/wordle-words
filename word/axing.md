@@ -66,4 +66,15 @@ definitions:
 - pos: noun
   defs:
   - text: An assault carried out with an axe.
+prev_word: axils
+next_word: axiom
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ax/"
+  label: Starting with AX
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

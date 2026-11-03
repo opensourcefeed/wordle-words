@@ -23,4 +23,15 @@ stats:
 neighbours:
 - gabba
 - yabba
+prev_word: daals
+next_word: daces
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -20,4 +20,15 @@ stats:
   starter_top_percent: 82
 neighbours:
 - lamby
+prev_word: palus
+next_word: pampa
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

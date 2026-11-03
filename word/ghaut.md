@@ -24,4 +24,15 @@ neighbours:
 - ghast
 anagrams:
 - aught
+prev_word: ghats
+next_word: ghazi
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gh/"
+  label: Starting with GH
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

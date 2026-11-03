@@ -67,4 +67,15 @@ definitions:
     example: The police grilled him about his movements at the time of the crime.
   - text: To feel very hot; to swelter.
   - text: To stamp or mark with a grill.
+prev_word: grike
+next_word: grime
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -40,4 +40,15 @@ definitions:
   - text: Tough, robust.
   - text: Undeveloped, unskilled, basic.
   - text: Hearty, vigorous; found particularly in the phrase rude health.
+prev_word: ruddy
+next_word: rudes
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

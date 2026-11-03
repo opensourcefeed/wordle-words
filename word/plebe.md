@@ -36,4 +36,15 @@ definitions:
   - text: The plebs, the plebeian class.
   - text: The similar lower class of any area.
   - text: A freshman cadet at a military academy.
+prev_word: pleat
+next_word: plebs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

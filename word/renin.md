@@ -42,4 +42,15 @@ definitions:
   - text: A circulating enzyme released by mammalian kidneys that converts angiotensinogen
       to angiotensin-I. Because its activity ultimately leads to formation of angiotensin-II
       and aldosterone, this hormone plays a role in maintaining blood pressure.
+prev_word: renig
+next_word: renks
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A leg of lamb or mutton.
   - text: Short for gigot sleeve.
+prev_word: gighe
+next_word: gigue
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

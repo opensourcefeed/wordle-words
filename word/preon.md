@@ -31,4 +31,15 @@ neighbours:
 - prion
 anagrams:
 - prone
+prev_word: prent
+next_word: preop
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

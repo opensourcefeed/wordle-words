@@ -37,4 +37,15 @@ anagrams:
 - noter
 - toner
 - trone
+prev_word: ronne
+next_word: ronts
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

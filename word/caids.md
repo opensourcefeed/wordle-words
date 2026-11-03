@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _AIDS
   count: 10
+prev_word: cahow
+next_word: cains
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

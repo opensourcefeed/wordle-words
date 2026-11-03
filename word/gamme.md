@@ -30,4 +30,15 @@ neighbours:
 - kamme
 anagrams:
 - gemma
+prev_word: gamma
+next_word: gammy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

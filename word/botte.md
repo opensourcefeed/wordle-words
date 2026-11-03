@@ -32,4 +32,15 @@ neighbours:
 - lotte
 - motte
 - rotte
+prev_word: botos
+next_word: botts
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

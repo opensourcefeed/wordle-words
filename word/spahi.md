@@ -33,4 +33,15 @@ definitions:
   - text: "(history) A soldier in a mainly Arab-recruited cavalry (originally horse,
       later light armored) regiment in French colonial service in (former/ in name
       still) Ottoman North African provinces"
+prev_word: spags
+next_word: spail
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -64,4 +64,15 @@ definitions:
   defs:
   - text: Involving or resembling honey.
   - text: Of a pale yellow to brownish-yellow colour, like most types of honey.
+prev_word: hones
+next_word: hongi
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

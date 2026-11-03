@@ -96,4 +96,15 @@ definitions:
 - pos: verb
   defs:
   - text: To bewilder; confuse.
+prev_word: mashy
+next_word: mason
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

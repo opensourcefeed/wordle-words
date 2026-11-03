@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: SPI_S
   count: 8
+prev_word: spiff
+next_word: spike
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

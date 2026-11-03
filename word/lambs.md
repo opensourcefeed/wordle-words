@@ -47,4 +47,15 @@ definitions:
   - text: Of a sheep, to give birth.
   - text: To assist (sheep) to give birth.
     example: The shepherd was up all night, lambing her young ewes.
+prev_word: lamas
+next_word: lamby
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

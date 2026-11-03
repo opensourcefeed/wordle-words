@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(Scotland and northern UK) A magpie; a water ouzel."
+prev_word: pyoid
+next_word: pyral
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

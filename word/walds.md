@@ -35,4 +35,15 @@ neighbours:
 - wolds
 anagrams:
 - awdls
+prev_word: waldo
+next_word: waled
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

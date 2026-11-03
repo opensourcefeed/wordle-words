@@ -30,4 +30,15 @@ anagrams:
 - hants
 - snath
 - thans
+prev_word: tangy
+next_word: tania
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

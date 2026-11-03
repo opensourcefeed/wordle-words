@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: A small shield
   - text: A tassel or pendant
+prev_word: targa
+next_word: tarka
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

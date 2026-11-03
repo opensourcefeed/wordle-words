@@ -27,4 +27,15 @@ neighbours:
 - pling
 - plonk
 - plung
+prev_word: plomb
+next_word: plonk
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

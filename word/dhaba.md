@@ -25,4 +25,15 @@ definitions:
   defs:
   - text: A roadside restaurant in India or Pakistan.
   - text: "(by extension) Any restaurant that serves Punjabi food."
+prev_word: dexys
+next_word: dhaks
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dh/"
+  label: Starting with DH
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

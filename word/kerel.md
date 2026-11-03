@@ -24,4 +24,15 @@ stats:
 neighbours:
 - kevel
 - merel
+prev_word: kerbs
+next_word: kerfs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

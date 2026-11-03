@@ -31,4 +31,13 @@ anagrams:
 - adred
 - dared
 - readd
+prev_word: areca
+next_word: arede
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

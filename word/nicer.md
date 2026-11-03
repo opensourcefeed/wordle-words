@@ -57,4 +57,15 @@ definitions:
   defs:
   - text: Nicely.
     example: Children, play nice.
+prev_word: niced
+next_word: nicey
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

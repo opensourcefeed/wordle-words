@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To wet with, or as if with, dew; to moisten.
+prev_word: dewax
+next_word: dexes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: TRA_S
   count: 9
+prev_word: trade
+next_word: trady
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

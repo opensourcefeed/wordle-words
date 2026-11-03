@@ -27,4 +27,15 @@ neighbours:
 - annas
 anagrams:
 - tanna
+prev_word: annas
+next_word: annex
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

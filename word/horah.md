@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A branch of traditional Indian astrology, dealing with the finer points
       of predictive methods.
+prev_word: hoppy
+next_word: horal
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

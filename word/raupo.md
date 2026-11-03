@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 19
 anagrams:
 - purao
+prev_word: rauns
+next_word: raved
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/po/"
+  label: Ending in PO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

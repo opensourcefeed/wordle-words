@@ -81,4 +81,15 @@ definitions:
   defs:
   - text: "(mildly derogatory) A bodyboarder."
     example: Watch the local boogers charge it!
+prev_word: boggy
+next_word: bogle
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

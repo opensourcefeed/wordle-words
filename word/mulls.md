@@ -61,4 +61,15 @@ definitions:
   - text: A promontory.
     example: the Mull of Kintyre
   - text: A snuffbox made of the small end of a horn.
+prev_word: mulla
+next_word: mulse
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - pyins
 - snipy
+prev_word: spins
+next_word: spire
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

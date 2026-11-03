@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A police officer assigned to a university campus.
+prev_word: campi
+next_word: camps
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/po/"
+  label: Ending in PO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

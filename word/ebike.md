@@ -21,4 +21,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 84
+prev_word: ebene
+next_word: ebons
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

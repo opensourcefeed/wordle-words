@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A level area which habitually fills with water that evaporates entirely.
+prev_word: plavs
+next_word: plays
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ya/"
+  label: Ending in YA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

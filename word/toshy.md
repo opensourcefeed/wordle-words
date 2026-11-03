@@ -22,4 +22,15 @@ stats:
 neighbours:
 - tossy
 - tushy
+prev_word: toses
+next_word: tossy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

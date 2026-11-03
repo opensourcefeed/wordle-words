@@ -36,4 +36,15 @@ definitions:
   - text: A single individual (such as a pollen grain) that is free from others, not
       united in a group.
   - text: A monoid object in the category of endofunctors of a fixed category.
+prev_word: momus
+next_word: monal
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

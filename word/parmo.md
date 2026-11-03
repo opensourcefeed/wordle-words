@@ -35,4 +35,15 @@ definitions:
   - text: "(chiefly Teesside) A north-eastern English dish of deep-fried breaded chicken
       topped with béchamel sauce and cheese, sometimes served like a pizza with additional
       toppings."
+prev_word: parma
+next_word: parms
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

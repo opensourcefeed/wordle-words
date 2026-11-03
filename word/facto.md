@@ -25,4 +25,15 @@ neighbours:
 - facta
 - facts
 - facty
+prev_word: facta
+next_word: facts
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

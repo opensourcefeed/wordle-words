@@ -29,4 +29,15 @@ anagrams:
 - brace
 - acerb
 - caber
+prev_word: caboc
+next_word: cacao
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

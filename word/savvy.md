@@ -40,4 +40,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Shrewd, well-informed and perceptive.
+prev_word: savoy
+next_word: sawah
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

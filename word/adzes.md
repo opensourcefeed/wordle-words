@@ -36,4 +36,15 @@ definitions:
 - pos: verb
   defs:
   - text: To shape a material using an adze.
+prev_word: adzed
+next_word: aecia
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -43,4 +43,15 @@ definitions:
       especially a computer program or machinery.
   - text: To remove a hidden electronic surveillance device from (somewhere).
   - text: To remove insects from (somewhere), especially lice.
+prev_word: debud
+next_word: debur
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ug/"
+  label: Ending in UG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

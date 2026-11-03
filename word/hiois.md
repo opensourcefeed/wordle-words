@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 78
 neighbours:
 - hifis
+prev_word: hints
+next_word: hiped
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

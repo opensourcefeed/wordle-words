@@ -37,4 +37,15 @@ definitions:
   - text: To make (a bill) into law
   - text: To act the part of; to play
   - text: To do; to effect
+prev_word: emyds
+next_word: enarm
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

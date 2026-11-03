@@ -35,4 +35,13 @@ definitions:
       etc.
   - text: A dead body; carrion.
   - text: That which is thrown away as worthless or unfit for use; refuse; rubbish.
+prev_word: ofays
+next_word: offed
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -32,4 +32,15 @@ definitions:
       pinned.
     example: to unpin a program from the Taskbar
   - text: To get out of a pin
+prev_word: unpen
+next_word: unply
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

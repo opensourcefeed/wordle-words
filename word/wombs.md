@@ -36,4 +36,15 @@ definitions:
   - text: The stomach of a person or creature.
   - text: A place where something is made or formed.
   - text: Any cavity containing and enveloping anything.
+prev_word: womas
+next_word: womby
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

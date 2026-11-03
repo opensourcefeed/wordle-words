@@ -28,4 +28,15 @@ neighbours:
 - wairs
 - wauks
 - wauls
+prev_word: wauls
+next_word: waved
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

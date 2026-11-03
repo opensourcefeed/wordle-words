@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To engage in a spree.
+prev_word: spred
+next_word: sprew
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

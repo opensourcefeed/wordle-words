@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: PA_ER
   count: 9
+prev_word: pareo
+next_word: pares
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

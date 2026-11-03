@@ -58,4 +58,15 @@ definitions:
   - text: To make known by writing; to record; to prove by one's own written testimony;
       often used reflexively.
   - text: To sell (an option or other derivative).
+prev_word: wroot
+next_word: wroth
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

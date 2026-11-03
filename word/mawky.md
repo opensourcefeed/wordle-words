@@ -24,4 +24,15 @@ neighbours:
 - manky
 - mawks
 - pawky
+prev_word: mawks
+next_word: mawla
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -27,4 +27,15 @@ neighbours:
 - ascus
 anagrams:
 - scaur
+prev_word: arcos
+next_word: ardeb
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

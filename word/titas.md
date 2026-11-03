@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ITAS
   count: 6
+prev_word: titar
+next_word: titch
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

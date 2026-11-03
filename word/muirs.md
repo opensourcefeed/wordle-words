@@ -29,4 +29,15 @@ neighbours:
 - murrs
 anagrams:
 - rimus
+prev_word: muils
+next_word: muiry
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

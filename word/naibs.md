@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: NAI_S
   count: 7
+prev_word: naiad
+next_word: naice
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -42,4 +42,15 @@ definitions:
     example: The downed pilot is very lucky to be alive.
   - text: Producing, or resulting in, good fortune
     example: a lucky cast
+prev_word: lucks
+next_word: lucre
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

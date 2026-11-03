@@ -39,4 +39,15 @@ definitions:
       a superior.
   - text: Something over which one has rights or exercises control.
   - text: An area of dominion, especially in a corporate or governmental bureaucracy.
+prev_word: fidus
+next_word: field
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

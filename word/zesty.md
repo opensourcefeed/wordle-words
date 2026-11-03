@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ESTY
   count: 7
+prev_word: zests
+next_word: zetas
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/ze/"
+  label: Starting with ZE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

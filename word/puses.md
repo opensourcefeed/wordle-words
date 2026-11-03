@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _USES
   count: 8
+prev_word: purty
+next_word: pushy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

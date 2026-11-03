@@ -26,4 +26,15 @@ neighbours:
 - neche
 anagrams:
 - leech
+prev_word: leccy
+next_word: ledes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

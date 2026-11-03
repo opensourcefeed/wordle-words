@@ -48,4 +48,15 @@ definitions:
   - text: "(acoustics) a subjective unit of loudness for an average listener equal
       to the loudness of a 1000-hertz sound that has an intensity 40 decibels above
       the listener's own threshold of hearing"
+prev_word: sonde
+next_word: songo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

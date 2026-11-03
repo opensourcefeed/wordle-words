@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 97
 neighbours:
 - accra
+prev_word: accas
+next_word: accoy
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

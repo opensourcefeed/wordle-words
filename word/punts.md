@@ -78,4 +78,15 @@ definitions:
   defs:
   - text: The Irish pound, used as the unit of currency of Ireland until it was replaced
       by the euro in 2002.
+prev_word: punto
+next_word: punty
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

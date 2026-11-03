@@ -38,4 +38,15 @@ anagrams:
 - patel
 - pelta
 - tepal
+prev_word: pales
+next_word: palis
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 62
 neighbours:
 - exies
+prev_word: exfil
+next_word: exies
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -39,4 +39,15 @@ definitions:
   - text: To hide, especially in a mean or cowardly manner.
   - text: "(with on) To inform an authority of another's misdemeanours."
     example: If you sneak on me I'll bash you!
+prev_word: snubs
+next_word: snuff
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

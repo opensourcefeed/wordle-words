@@ -50,4 +50,15 @@ definitions:
     example: Your dog’s been worrying sheep again.
   - text: To touch repeatedly, to fiddle with.
   - text: To strangle.
+prev_word: wormy
+next_word: worse
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

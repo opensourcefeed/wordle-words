@@ -64,4 +64,15 @@ definitions:
   - text: To splice together the ends of slivers of wool, for subsequent drawing.
   - text: To pose for a photograph while lying rigid, face down, arms at side, in
       an unusual place.
+prev_word: planh
+next_word: plans
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

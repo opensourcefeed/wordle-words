@@ -35,4 +35,15 @@ definitions:
   - text: To devour; to gobble; to eat (something) voraciously.
   - text: To make amorous advances to many women; to hit on women; to cruise for sex.
   - text: To hunt for wolves.
+prev_word: wolds
+next_word: wolly
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

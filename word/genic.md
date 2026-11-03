@@ -35,4 +35,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of, relating to, produced by, or being a gene
+prev_word: genet
+next_word: genie
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

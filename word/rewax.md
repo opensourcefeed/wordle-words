@@ -29,4 +29,15 @@ neighbours:
 - rewan
 anagrams:
 - waxer
+prev_word: rewan
+next_word: rewed
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ax/"
+  label: Ending in AX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

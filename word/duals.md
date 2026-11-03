@@ -51,4 +51,15 @@ definitions:
   - text: Of a vector in an inner product space, the linear functional corresponding
       to taking the inner product with that vector. The set of all duals is a vector
       space called the dual space.
+prev_word: duads
+next_word: duans
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

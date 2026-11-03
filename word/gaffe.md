@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A foolish and embarrassing error, especially one made in public.
+prev_word: gadso
+next_word: gaffs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/fe/"
+  label: Ending in FE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

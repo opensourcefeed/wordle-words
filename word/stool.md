@@ -61,4 +61,15 @@ definitions:
   - text: 'To produce stool: to defecate.'
   - text: To cut down (a plant) until its main stem is close to the ground, resembling
       a stool, to promote new growth.
+prev_word: stook
+next_word: stoop
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

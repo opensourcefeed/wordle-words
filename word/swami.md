@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(used as a title) A Hindu ascetic or religious teacher."
+prev_word: swaly
+next_word: swamp
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/mi/"
+  label: Ending in MI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

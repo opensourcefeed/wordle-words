@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - mikos
 - skimo
+prev_word: mokey
+next_word: mokky
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

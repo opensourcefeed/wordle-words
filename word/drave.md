@@ -33,4 +33,15 @@ neighbours:
 - trave
 anagrams:
 - raved
+prev_word: drats
+next_word: drawl
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

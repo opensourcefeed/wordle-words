@@ -57,4 +57,15 @@ definitions:
   - text: To answer or discharge (a claim, debt, legal demand, etc.); to give compensation
       for.
     example: to satisfy a claim or an execution
+prev_word: satin
+next_word: satyr
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

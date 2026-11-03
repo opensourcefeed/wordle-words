@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ENSE
   count: 7
+prev_word: penny
+next_word: pensy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

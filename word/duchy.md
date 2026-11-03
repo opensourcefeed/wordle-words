@@ -31,4 +31,15 @@ definitions:
   - text: A dominion or region ruled by a duke or duchess. (A grand duchy may be a
       self-governing state. A simple duchy tends to be a part of a larger kingdom
       or empire.)
+prev_word: duces
+next_word: ducks
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: In the same manner, form, or degree; in common; equally.
     example: We are all alike concerned in religion.
+prev_word: align
+next_word: alims
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

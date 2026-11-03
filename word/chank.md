@@ -31,4 +31,15 @@ neighbours:
 - chang
 - chark
 - chawk
+prev_word: chang
+next_word: chant
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

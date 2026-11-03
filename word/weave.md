@@ -48,4 +48,15 @@ definitions:
   - text: To unite by close connection or intermixture.
   - text: To compose creatively and intricately; to fabricate.
     example: to weave the plot of a story
+prev_word: weary
+next_word: webby
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

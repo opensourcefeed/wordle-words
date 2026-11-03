@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _LATE
   count: 6
+prev_word: oktas
+next_word: olden
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

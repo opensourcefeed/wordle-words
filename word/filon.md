@@ -25,4 +25,15 @@ neighbours:
 - felon
 - filos
 - pilon
+prev_word: filmy
+next_word: filos
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

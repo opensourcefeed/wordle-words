@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ERES
   count: 11
+prev_word: ferer
+next_word: feria
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

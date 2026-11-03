@@ -25,4 +25,13 @@ stats:
   starter_top_percent: 70
 neighbours:
 - aquas
+prev_word: aptly
+next_word: aquas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

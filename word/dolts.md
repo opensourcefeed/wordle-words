@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A stupid person; a blockhead or dullard.
+prev_word: dolos
+next_word: domal
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

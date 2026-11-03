@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - conus
 - uncos
+prev_word: oncet
+next_word: ondes
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

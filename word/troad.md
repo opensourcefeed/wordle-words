@@ -30,4 +30,15 @@ neighbours:
 - troat
 anagrams:
 - tardo
+prev_word: trite
+next_word: troak
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

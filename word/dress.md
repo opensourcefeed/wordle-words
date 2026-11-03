@@ -78,4 +78,15 @@ definitions:
       commonly to adjust to a straight line and at proper distance; to align."
     example: Right, dress!
   - text: To break and train for use, as a horse or other animal.
+prev_word: drere
+next_word: drest
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

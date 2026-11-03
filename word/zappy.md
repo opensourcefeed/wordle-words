@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Lively or energetic.
+prev_word: zanze
+next_word: zarda
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

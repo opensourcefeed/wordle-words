@@ -35,4 +35,13 @@ definitions:
   defs:
   - text: To secure by a wharf.
   - text: To place on a wharf.
+prev_word: whare
+next_word: whata
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

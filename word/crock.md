@@ -60,4 +60,15 @@ definitions:
   - text: To cover the drain holes of a planter with stones or similar material, in
       order to ensure proper drainage.
   - text: To put or store (something) in a crock or pot.
+prev_word: croci
+next_word: crocs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

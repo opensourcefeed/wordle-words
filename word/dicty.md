@@ -38,4 +38,15 @@ definitions:
   - text: Stylish and respectable; high-class
   - text: Striving to seem stylish and respectable; pretentious
   - text: Snobbish and uptight
+prev_word: dictu
+next_word: diddy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -20,4 +20,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 84
+prev_word: mgals
+next_word: miais
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/rr/"
+  label: Ending in RR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

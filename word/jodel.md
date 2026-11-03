@@ -27,4 +27,15 @@ neighbours:
 - yodel
 anagrams:
 - joled
+prev_word: jocos
+next_word: joeys
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -33,4 +33,15 @@ neighbours:
 - wisps
 anagrams:
 - priss
+prev_word: risky
+next_word: rists
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

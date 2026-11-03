@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: Having prominent lips.
   - text: Having a tendency to talk back in a cheeky or impertinent manner.
+prev_word: lipos
+next_word: liras
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

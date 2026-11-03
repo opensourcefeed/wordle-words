@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Gnarled, knotty, twisted.
+prev_word: gnapi
+next_word: gnarr
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gn/"
+  label: Starting with GN
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

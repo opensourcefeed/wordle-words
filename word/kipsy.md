@@ -33,4 +33,15 @@ definitions:
 - pos: verb
   defs:
   - text: To board, to reside.
+prev_word: kipps
+next_word: kirby
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

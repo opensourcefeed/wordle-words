@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: A Hindu or Sikh spiritual teacher.
   - text: "(sometimes humorous) An influential advisor or mentor."
+prev_word: gursh
+next_word: gushy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

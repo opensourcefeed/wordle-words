@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: A leathery-leaved North American shrub, Gaultheria shallon, with edible
       sepals and leaves.
+prev_word: salad
+next_word: salas
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -30,4 +30,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Characteristic of a mum; motherly.
+prev_word: mumps
+next_word: mumus
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: Any of various small, herring-like, marine fish in the genus Sprattus, in
       the family Clupeidae.
+prev_word: sprag
+next_word: spray
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

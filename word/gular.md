@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: 'Particularly of an animal: of, pertaining to, or located at the gula or
       the throat.'
+prev_word: gulag
+next_word: gulas
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _OOSE
   count: 7
+prev_word: woopy
+next_word: woosh
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

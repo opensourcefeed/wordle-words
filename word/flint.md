@@ -48,4 +48,15 @@ definitions:
 - pos: verb
   defs:
   - text: To furnish or decorate an object with flint.
+prev_word: fling
+next_word: flips
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -62,4 +62,15 @@ definitions:
   - text: To be affected with the parasitic fungus called rust.
   - text: To (cause to) degenerate in idleness; to make or become dull or impaired
       by inaction.
+prev_word: russe
+next_word: rusty
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

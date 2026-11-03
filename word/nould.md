@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - lound
 - unold
+prev_word: nouja
+next_word: noule
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

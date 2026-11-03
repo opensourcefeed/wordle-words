@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Gushing; effusive and often emotional.
   - text: Tending to gush, to produce a large flow of liquid.
+prev_word: gurus
+next_word: gusla
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

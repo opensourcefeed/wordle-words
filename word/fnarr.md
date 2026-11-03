@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 67
 neighbours:
 - gnarr
+prev_word: flyte
+next_word: foals
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/ending-with/rr/"
+  label: Ending in RR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

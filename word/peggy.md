@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of several small warblers, the whitethroat, etc.
+prev_word: peevo
+next_word: peghs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

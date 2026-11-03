@@ -49,4 +49,15 @@ definitions:
 - pos: noun
   defs:
   - text: A tarpaulin.
+prev_word: tarot
+next_word: tarre
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

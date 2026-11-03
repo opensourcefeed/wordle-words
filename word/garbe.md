@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - barge
 - begar
+prev_word: garba
+next_word: garbo
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

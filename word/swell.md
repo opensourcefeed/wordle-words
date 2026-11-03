@@ -59,4 +59,15 @@ definitions:
     example: swelling words  a swelling style
   - text: To protuberate; to bulge out.
     example: A cask swells in the middle.
+prev_word: sweir
+next_word: swelt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

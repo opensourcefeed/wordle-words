@@ -48,4 +48,15 @@ definitions:
   - text: The smallest part or particle imaginable; an iota.
     example: He worked tirelessly to collect and wind a ball of string eight feet
       around, and it matters not one whit.
+prev_word: white
+next_word: whity
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 96
 neighbours:
 - kawas
+prev_word: kawas
+next_word: kawed
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/au/"
+  label: Ending in AU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

@@ -32,4 +32,15 @@ definitions:
       sparrow.
   - text: The common reed bunting (Emberiza schoeniclus), a bird found in Europe and
       much of the Palearctic.
+prev_word: jumpy
+next_word: junks
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

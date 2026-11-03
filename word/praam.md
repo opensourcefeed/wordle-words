@@ -31,4 +31,15 @@ definitions:
   - text: A similar barge used as platform for cannons in shallow waters which seagoing
       warships cannot enter.
   - text: A type of dinghy with a flat bow.
+prev_word: pozzy
+next_word: prads
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

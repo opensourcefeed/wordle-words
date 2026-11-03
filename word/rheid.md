@@ -24,4 +24,15 @@ stats:
 anagrams:
 - hider
 - hired
+prev_word: rheas
+next_word: rheme
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/rh/"
+  label: Starting with RH
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

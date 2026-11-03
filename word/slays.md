@@ -56,4 +56,15 @@ definitions:
   - text: To amaze, stun or otherwise incapacitate by awesomeness; to be awesome at
       something; to kill (slang sense).
   - text: To have sex with
+prev_word: slaws
+next_word: slebs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

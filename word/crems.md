@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: CRE_S
   count: 6
+prev_word: creme
+next_word: crena
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

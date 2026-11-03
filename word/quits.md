@@ -63,4 +63,15 @@ definitions:
   defs:
   - text: On equal monetary terms; neither owing or being owed.
     example: Here's the last of the money you lent me. We're quits now, right?
+prev_word: quite
+next_word: quoad
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

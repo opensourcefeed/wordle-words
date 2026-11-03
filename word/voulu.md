@@ -21,4 +21,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 93
+prev_word: vouge
+next_word: vowed
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

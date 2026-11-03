@@ -40,4 +40,15 @@ definitions:
   - text: (with "out") To play a song or a portion of a song, usually on a percussion
       instrument such as a piano.
   - text: To take part in the sport of plinking.
+prev_word: pling
+next_word: plips
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

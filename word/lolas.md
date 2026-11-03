@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _OLAS
   count: 7
+prev_word: lokum
+next_word: loled
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

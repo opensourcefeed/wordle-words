@@ -42,4 +42,15 @@ anagrams:
 - ramse
 - reams
 - resam
+prev_word: marry
+next_word: marsh
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

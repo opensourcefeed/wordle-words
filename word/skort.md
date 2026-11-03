@@ -38,4 +38,15 @@ definitions:
     example: Always feminine, Faith preferred to wear a skirt when possible, but for
       reasons of modesty she compromised by wearing a skort to amusement parks where
       boys might see her from below if she rode the Ferris wheel.
+prev_word: skool
+next_word: skosh
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

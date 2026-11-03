@@ -36,4 +36,15 @@ definitions:
 - pos: verb
   defs:
   - text: To demobilize; to release someone from military service.
+prev_word: demit
+next_word: demoi
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ob/"
+  label: Ending in OB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

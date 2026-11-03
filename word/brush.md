@@ -76,4 +76,15 @@ definitions:
   - text: To touch with a sweeping motion, or lightly in passing.
     example: Her scarf brushed his skin.
   - text: To clean one's teeth by brushing them.
+prev_word: brunt
+next_word: brusk
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

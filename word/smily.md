@@ -26,4 +26,15 @@ neighbours:
 - soily
 anagrams:
 - slimy
+prev_word: smile
+next_word: smirk
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

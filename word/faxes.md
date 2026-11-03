@@ -49,4 +49,15 @@ definitions:
 - pos: verb
   defs:
   - text: To send a document via a fax machine.
+prev_word: faxed
+next_word: fayed
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

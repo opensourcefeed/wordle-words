@@ -63,4 +63,15 @@ definitions:
   - text: The actual use of language in concrete situations by native speakers of
       a language, as opposed to the system of linguistic knowledge they possess (competence),
       cf. :w:linguistic performance.
+prev_word: peres
+next_word: peril
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

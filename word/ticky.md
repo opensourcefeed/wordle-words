@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ICKY
   count: 9
+prev_word: ticks
+next_word: tidal
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

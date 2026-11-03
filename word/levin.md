@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: Lightning; a bolt of lightning; also, a bright flame or light.
+prev_word: leves
+next_word: levis
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

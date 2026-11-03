@@ -91,4 +91,15 @@ definitions:
   - text: To beat or strike; pound
   - text: To dash or throw
   - text: To dash, rush
+prev_word: flask
+next_word: flava
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

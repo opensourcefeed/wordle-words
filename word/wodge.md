@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A bulk quantity, usually of small items, particularly money; a wad.
+prev_word: wocks
+next_word: wodgy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

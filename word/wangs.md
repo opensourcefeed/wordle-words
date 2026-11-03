@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _ANGS
   count: 15
+prev_word: waney
+next_word: wanle
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

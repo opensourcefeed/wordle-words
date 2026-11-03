@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: The act of renewing.
   - text: An offensive action made immediately after a parried one.
+prev_word: rendu
+next_word: reney
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ew/"
+  label: Ending in EW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

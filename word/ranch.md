@@ -46,4 +46,15 @@ definitions:
     example: Formally the widow still ranches, but in fact she leaves all ranching
       to the foreman.
   - text: To work on a ranch
+prev_word: rance
+next_word: rando
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

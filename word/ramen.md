@@ -49,4 +49,15 @@ definitions:
 - pos: adverb
   defs:
   - text: "(Pastafarianism) amen"
+prev_word: ramee
+next_word: rames
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

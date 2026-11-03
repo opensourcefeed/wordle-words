@@ -21,4 +21,15 @@ stats:
   - Q
   starter_tier: Weak
   starter_top_percent: 85
+prev_word: usnic
+next_word: ustad
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/us/"
+  label: Starting with US
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

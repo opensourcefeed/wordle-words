@@ -48,4 +48,15 @@ definitions:
   - text: To list the source(s) from which one took information, words or literary
       or verbal context.
   - text: To summon officially or authoritatively to appear in court.
+prev_word: cital
+next_word: citee
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

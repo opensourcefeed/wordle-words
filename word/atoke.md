@@ -28,4 +28,15 @@ neighbours:
 - awoke
 - stoke
 - atoks
+prev_word: atocs
+next_word: atoks
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

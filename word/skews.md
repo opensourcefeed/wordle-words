@@ -66,4 +66,15 @@ definitions:
   - text: The coping of a gable.
   - text: One of the stones placed over the end of a gable, or forming the coping
       of a gable.
+prev_word: skets
+next_word: skids
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

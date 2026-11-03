@@ -23,4 +23,15 @@ stats:
 neighbours:
 - cinch
 - tinct
+prev_word: cinch
+next_word: cines
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

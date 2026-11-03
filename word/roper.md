@@ -56,4 +56,15 @@ definitions:
   - text: A crafty fellow; one fit to be hanged.
   - text: A person hired by a gambling establishment to locate potential customers
       and bring them in.
+prev_word: roped
+next_word: ropes
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

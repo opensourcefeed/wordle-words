@@ -34,4 +34,15 @@ definitions:
       history as the patriarchs of other countries, constituting a peculiar class
       of beings in the early mythical system, as distinct from Asuras, Devas and mortal
       men."
+prev_word: rises
+next_word: risks
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

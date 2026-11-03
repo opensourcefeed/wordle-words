@@ -26,4 +26,15 @@ neighbours:
 - doura
 - goura
 - kokra
+prev_word: kotow
+next_word: kraal
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

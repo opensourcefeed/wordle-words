@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: Any approximately spherical bacterium.
   - text: One of the carpels or seed-vessels of a dry fruit.
+prev_word: cocas
+next_word: cocco
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ci/"
+  label: Ending in CI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

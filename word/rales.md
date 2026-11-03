@@ -60,4 +60,15 @@ definitions:
   defs:
   - text: Abnormal clicking, rattling or crackling sound heard from the lungs, often
       audible only with a stethoscope.
+prev_word: rakus
+next_word: ralli
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

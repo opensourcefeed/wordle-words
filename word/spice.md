@@ -59,4 +59,15 @@ definitions:
   defs:
   - text: To add spice or spices to; season.
   - text: To spice up.
+prev_word: spica
+next_word: spicy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

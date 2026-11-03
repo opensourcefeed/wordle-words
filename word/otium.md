@@ -26,4 +26,13 @@ neighbours:
 - opium
 - odium
 - onium
+prev_word: othyl
+next_word: ottar
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

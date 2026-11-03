@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _EANS
   count: 11
+prev_word: weamb
+next_word: wears
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

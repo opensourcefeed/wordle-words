@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A camisole.
+prev_word: cames
+next_word: camos
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

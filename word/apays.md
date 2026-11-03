@@ -26,4 +26,15 @@ neighbours:
 - apayd
 - aways
 - spays
+prev_word: apayd
+next_word: apeak
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

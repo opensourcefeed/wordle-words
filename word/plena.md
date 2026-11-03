@@ -29,4 +29,15 @@ anagrams:
 - panel
 - penal
 - plane
+prev_word: plein
+next_word: plene
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -24,4 +24,15 @@ stats:
 neighbours:
 - griff
 - trifa
+prev_word: trifa
+next_word: trigo
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

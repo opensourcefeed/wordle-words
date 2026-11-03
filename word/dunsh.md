@@ -19,4 +19,15 @@ stats:
   starter_top_percent: 75
 neighbours:
 - dunch
+prev_word: dunny
+next_word: dunts
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -25,4 +25,15 @@ neighbours:
 - laugh
 - laich
 - laith
+prev_word: laids
+next_word: laika
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

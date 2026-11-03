@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A solemn injunction
+prev_word: gears
+next_word: geats
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

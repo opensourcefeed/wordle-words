@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To make a quip.
   - text: To taunt; to treat with quips.
+prev_word: quipo
+next_word: quipu
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

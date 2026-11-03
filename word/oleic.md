@@ -27,4 +27,15 @@ neighbours:
 - olein
 anagrams:
 - locie
+prev_word: olehs
+next_word: olein
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

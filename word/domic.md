@@ -25,4 +25,15 @@ neighbours:
 - demic
 - doric
 - nomic
+prev_word: domes
+next_word: donah
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

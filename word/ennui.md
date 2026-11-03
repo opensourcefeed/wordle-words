@@ -34,4 +34,13 @@ definitions:
 - pos: verb
   defs:
   - text: To make bored or listless; to weary.
+prev_word: ennog
+next_word: enoki
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Made from the wood of the oak tree. Also in metaphorical uses, suggesting
       robustness.
+prev_word: oaked
+next_word: oaker
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oa/"
+  label: Starting with OA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

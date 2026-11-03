@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _OUPS
   count: 7
+prev_word: mount
+next_word: mourn
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

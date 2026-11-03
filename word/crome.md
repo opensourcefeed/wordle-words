@@ -33,4 +33,15 @@ neighbours:
 - drome
 anagrams:
 - comer
+prev_word: cromb
+next_word: crone
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

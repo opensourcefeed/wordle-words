@@ -26,4 +26,13 @@ stats:
 neighbours:
 - chias
 - obias
+prev_word: ohelo
+next_word: ohing
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

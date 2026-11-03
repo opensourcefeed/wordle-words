@@ -35,4 +35,15 @@ definitions:
       or kicking the ball between goalposts and over a crossbar."
     example: The scrum is a distinctive element of rugby.
   - text: A loose fitting shirt with a collar, as worn by rugby players.
+prev_word: rugas
+next_word: ruggy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

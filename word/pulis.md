@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: PUL_S
   count: 7
+prev_word: pulik
+next_word: pulka
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

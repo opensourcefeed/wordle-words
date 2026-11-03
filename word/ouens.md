@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A fellow, guy, bloke.
+prev_word: oueds
+next_word: ought
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

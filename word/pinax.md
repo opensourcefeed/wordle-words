@@ -24,4 +24,15 @@ stats:
 neighbours:
 - panax
 - pinas
+prev_word: pinas
+next_word: pince
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ax/"
+  label: Ending in AX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

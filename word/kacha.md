@@ -25,4 +25,15 @@ neighbours:
 - kapha
 - kasha
 - pacha
+prev_word: kabob
+next_word: kacks
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

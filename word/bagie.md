@@ -26,4 +26,15 @@ neighbours:
 - bogie
 anagrams:
 - bigae
+prev_word: baghs
+next_word: bagsy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

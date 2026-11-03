@@ -25,4 +25,13 @@ neighbours:
 - egged
 - igged
 - urged
+prev_word: ugali
+next_word: uhlan
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

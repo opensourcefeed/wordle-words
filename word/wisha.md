@@ -24,4 +24,15 @@ neighbours:
 - wisht
 anagrams:
 - washi
+prev_word: wises
+next_word: wisht
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

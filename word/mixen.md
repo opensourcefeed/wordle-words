@@ -27,4 +27,15 @@ neighbours:
 - mixer
 - mixes
 - mizen
+prev_word: mixed
+next_word: mixer
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -32,4 +32,13 @@ definitions:
 - pos: noun
   defs:
   - text: A style of dance which combines salsa with jive and rock and roll.
+prev_word: cerne
+next_word: ceros
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

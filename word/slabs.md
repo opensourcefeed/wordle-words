@@ -62,4 +62,15 @@ definitions:
   defs:
   - text: A car that has been modified with equipment such as loudspeakers, lights,
       special paint, hydraulics, and other accessories.
+prev_word: skyte
+next_word: slack
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

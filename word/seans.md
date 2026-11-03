@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _EANS
   count: 11
+prev_word: seamy
+next_word: seare
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

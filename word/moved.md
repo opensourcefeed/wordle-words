@@ -82,4 +82,15 @@ definitions:
   - text: Emotionally affected; touched.
     example: What happened to that girl in the film was so awful - I was extremely
       moved.
+prev_word: mouth
+next_word: mover
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

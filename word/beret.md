@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A type of round, brimless cap with a soft top and a headband to secure it
       to the head; usually culturally associated with France.
+prev_word: beres
+next_word: bergs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

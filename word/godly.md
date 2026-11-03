@@ -39,4 +39,15 @@ definitions:
   - text: In a godly manner; piously; devoutly; righteously.
     example: All that will live godly in Christ Jesus shall suffer persecution. —
       2. Tim. iii. 12.
+prev_word: godet
+next_word: godso
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

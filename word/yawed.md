@@ -50,4 +50,15 @@ definitions:
       a boat; to go out of the line of course.
   - text: To rise in blisters, breaking in white froth, as cane juice in the clarifiers
       in sugar works.
+prev_word: yaups
+next_word: yawey
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

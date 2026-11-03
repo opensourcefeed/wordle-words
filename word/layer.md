@@ -65,4 +65,15 @@ definitions:
   - text: To cut or divide (something) into layers
   - text: To arrange (something) in layers.
     example: Layer the ribbons on top of one another to make an attractive pattern.
+prev_word: layed
+next_word: layin
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

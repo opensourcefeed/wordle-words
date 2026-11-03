@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _OKER
   count: 8
+prev_word: roked
+next_word: rokes
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

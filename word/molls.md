@@ -48,4 +48,15 @@ definitions:
   - text: A girlfriend of a surfie; blends with pejorative sense.
   - text: A female fan of extreme metal, grunge or hardcore punk, especially the girlfriend
       of a musician of those aforementioned genres.
+prev_word: mollo
+next_word: molly
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

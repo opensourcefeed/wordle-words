@@ -24,4 +24,15 @@ neighbours:
 - ached
 - eches
 - iched
+prev_word: ecash
+next_word: eches
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ec/"
+  label: Starting with EC
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

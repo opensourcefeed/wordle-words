@@ -24,4 +24,15 @@ stats:
 neighbours:
 - graft
 - goafs
+prev_word: goafs
+next_word: goals
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

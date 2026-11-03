@@ -46,4 +46,15 @@ definitions:
   - text: A building or part of a building which houses students, soldiers, monks
       etc. who sleep there and use communal further facilities.
   - text: A dormitory town.
+prev_word: dorky
+next_word: dormy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

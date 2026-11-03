@@ -68,4 +68,15 @@ definitions:
       electronic messaging equivalent of oral shouting.
     example: Please don't shout in the chat room.
   - text: To treat with shouts or clamor.
+prev_word: shoud
+next_word: shove
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

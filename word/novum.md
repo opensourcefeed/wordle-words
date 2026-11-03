@@ -22,4 +22,15 @@ stats:
 neighbours:
 - nodum
 - notum
+prev_word: novio
+next_word: noway
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

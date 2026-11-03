@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ADES
   count: 10
+prev_word: vaded
+next_word: vadge
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

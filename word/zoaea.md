@@ -26,4 +26,15 @@ stats:
   starter_top_percent: 56
 neighbours:
 - zooea
+prev_word: zloty
+next_word: zobos
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

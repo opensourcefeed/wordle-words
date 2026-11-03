@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cover with, or as if with, an apron.
+prev_word: apres
+next_word: apses
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -26,4 +26,13 @@ definitions:
 - pos: noun
   defs:
   - text: A small hill or mound (especially on the African veld).
+prev_word: kophs
+next_word: koppa
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

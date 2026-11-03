@@ -29,4 +29,15 @@ neighbours:
 - halid
 anagrams:
 - alcid
+prev_word: calfs
+next_word: calif
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A motorcyclist who is a member of a club; a biker.
+prev_word: bikes
+next_word: bikky
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

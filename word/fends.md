@@ -42,4 +42,15 @@ definitions:
   - text: To take care of oneself; to take responsibility for one's own well-being.
   - text: (except as "fend for oneself") To defend, to take care of (typically construed
       with for); to block or push away (typically construed with off).
+prev_word: fence
+next_word: fendy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

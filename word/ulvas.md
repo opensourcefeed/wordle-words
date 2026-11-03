@@ -24,4 +24,15 @@ stats:
 neighbours:
 - ulnas
 - urvas
+prev_word: ultra
+next_word: ulyie
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ul/"
+  label: Starting with UL
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

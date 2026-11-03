@@ -25,4 +25,15 @@ neighbours:
 - evets
 anagrams:
 - veges
+prev_word: evade
+next_word: evens
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ev/"
+  label: Starting with EV
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

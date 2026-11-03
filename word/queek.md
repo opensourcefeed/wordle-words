@@ -26,4 +26,15 @@ neighbours:
 - queer
 - queck
 - queem
+prev_word: queck
+next_word: queem
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

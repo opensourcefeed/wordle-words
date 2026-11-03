@@ -27,4 +27,15 @@ neighbours:
 - lauds
 anagrams:
 - sulfa
+prev_word: lauds
+next_word: laugh
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

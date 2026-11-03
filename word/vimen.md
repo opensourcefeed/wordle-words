@@ -23,4 +23,15 @@ stats:
 neighbours:
 - vixen
 - limen
+prev_word: vills
+next_word: vinal
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

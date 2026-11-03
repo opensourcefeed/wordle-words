@@ -44,4 +44,15 @@ definitions:
   - text: To lose all energy, enthusiasm or happiness; to flag.
   - text: To allow to droop or sink.
   - text: To proceed downward, or toward a close; to decline.
+prev_word: drool
+next_word: drops
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

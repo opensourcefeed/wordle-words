@@ -52,4 +52,15 @@ definitions:
 - pos: verb
   defs:
   - text: To desire in a greedy manner, or to act on such a desire.
+prev_word: grece
+next_word: greek
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

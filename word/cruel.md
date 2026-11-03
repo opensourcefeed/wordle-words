@@ -50,4 +50,15 @@ definitions:
 - pos: adverb
   defs:
   - text: To a great degree; terribly.
+prev_word: crudy
+next_word: crues
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

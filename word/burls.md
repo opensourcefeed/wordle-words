@@ -49,4 +49,15 @@ definitions:
 - pos: verb
   defs:
   - text: To remove the knots in cloth.
+prev_word: burks
+next_word: burly
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

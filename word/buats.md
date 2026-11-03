@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: B_ATS
   count: 6
+prev_word: bruvs
+next_word: buaze
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

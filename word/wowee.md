@@ -31,4 +31,15 @@ definitions:
 - pos: interjection
   defs:
   - text: Wow; expressing astonishment, surprise or excitement
+prev_word: wowed
+next_word: wowse
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

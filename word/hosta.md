@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of several herbaceous Asiatic plants of the genus Hosta.
+prev_word: hosey
+next_word: hosts
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

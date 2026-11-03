@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - garam
 - marga
+prev_word: graip
+next_word: grame
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

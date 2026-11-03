@@ -30,4 +30,15 @@ neighbours:
 - terai
 anagrams:
 - paire
+prev_word: perae
+next_word: perce
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

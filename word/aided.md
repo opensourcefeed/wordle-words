@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: To provide support to; to further the progress of; to help; to assist.
   - text: To climb with the use of aids such as pitons.
+prev_word: aidas
+next_word: aider
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

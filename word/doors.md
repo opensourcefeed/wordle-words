@@ -65,4 +65,15 @@ definitions:
   defs:
   - text: To cause a collision by opening the door of a vehicle in front of an oncoming
       cyclist or pedestrian.
+prev_word: doorn
+next_word: doozy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

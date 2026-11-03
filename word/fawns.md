@@ -55,4 +55,15 @@ definitions:
   - text: To seek favour by flattery and obsequious behaviour (with on or upon).
   - text: "(of a dog) To show devotion or submissiveness by wagging its tail, nuzzling,
       licking, etc."
+prev_word: favus
+next_word: fawny
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

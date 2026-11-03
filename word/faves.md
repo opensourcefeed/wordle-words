@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: Favorite (US) or favourite (UK)
+prev_word: faver
+next_word: favor
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

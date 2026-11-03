@@ -31,4 +31,15 @@ definitions:
   - text: The structure in a plant that develops into a seed after fertilization;
       the megasporangium of a seed plant with its enclosing integuments.
   - text: An immature ovum in mammals.
+prev_word: ovolo
+next_word: oware
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ov/"
+  label: Starting with OV
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

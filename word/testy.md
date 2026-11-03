@@ -49,4 +49,15 @@ definitions:
   - text: Easily annoyed, irritable.
   - text: Marked by impatience or ill humor.
     example: He made testy remarks.
+prev_word: tests
+next_word: tetes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

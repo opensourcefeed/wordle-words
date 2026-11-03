@@ -26,4 +26,15 @@ neighbours:
 - gloam
 anagrams:
 - comal
+prev_word: cloak
+next_word: clock
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

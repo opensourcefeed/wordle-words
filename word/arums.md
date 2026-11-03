@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A flower or plant in the genus Arum
+prev_word: aruhe
+next_word: arval
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

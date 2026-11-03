@@ -33,4 +33,15 @@ definitions:
     example: The reviewer was worried that, were a certain host hired for the game
       show, he would begin giving away dreck for prizes instead of the good stuff
       they did for years.
+prev_word: drear
+next_word: dreed
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

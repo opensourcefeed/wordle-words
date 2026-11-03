@@ -25,4 +25,13 @@ neighbours:
 - bourn
 anagrams:
 - robug
+prev_word: bourd
+next_word: bourn
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

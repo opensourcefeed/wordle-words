@@ -23,4 +23,15 @@ neighbours:
 - blude
 - bluds
 - bluey
+prev_word: bluds
+next_word: blued
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

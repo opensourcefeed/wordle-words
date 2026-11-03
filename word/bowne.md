@@ -27,4 +27,15 @@ neighbours:
 - bowse
 - lowne
 - sowne
+prev_word: bowls
+next_word: bowrs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

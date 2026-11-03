@@ -31,4 +31,15 @@ definitions:
   - text: A letter of the Middle English alphabet (capital Ȝ, small ȝ), in form derived
       from the Old English shape of the letter g, and used to represent various palatal
       and velar sounds.
+prev_word: yogee
+next_word: yogic
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

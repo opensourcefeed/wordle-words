@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A merchant or trader.
+prev_word: bangs
+next_word: banjo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

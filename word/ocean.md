@@ -41,4 +41,15 @@ definitions:
   - text: An immense expanse; any vast space or quantity without apparent limits.
     example: an ocean of affairs
   - text: A blue colour, like that of the ocean (also called ocean blue).
+prev_word: occur
+next_word: ocher
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -25,4 +25,15 @@ neighbours:
 - sculs
 anagrams:
 - lucks
+prev_word: scugs
+next_word: scull
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/lk/"
+  label: Ending in LK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: Bos frontalis, a Southern Asiatic species of wild cattle.
+prev_word: gawsy
+next_word: gayer
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -41,4 +41,15 @@ definitions:
   - text: To record something; to make a note of something.
   - text: To send someone a note about something, for the record.
     example: I made sure to memo him about the client's complaints.
+prev_word: memic
+next_word: menad
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

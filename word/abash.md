@@ -36,4 +36,15 @@ definitions:
       exciting suddenly a consciousness of guilt, mistake, or inferiority; to disconcert;
       to discomfit.
   - text: To lose self-possession; to become ashamed.
+prev_word: abase
+next_word: abask
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

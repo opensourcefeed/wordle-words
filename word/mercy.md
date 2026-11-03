@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: Expressing surprise or alarm.
     example: Mercy! Look at the state of you!
+prev_word: mercs
+next_word: merde
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

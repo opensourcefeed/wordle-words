@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _ACKY
   count: 8
+prev_word: cacks
+next_word: cacti
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

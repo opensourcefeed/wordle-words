@@ -32,4 +32,15 @@ definitions:
   - text: Sexually aroused.
     example: That girl makes me feel horny.
   - text: Sexually arousing.
+prev_word: horns
+next_word: horse
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

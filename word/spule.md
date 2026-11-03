@@ -31,4 +31,15 @@ anagrams:
 - plues
 - pules
 - pusle
+prev_word: spugs
+next_word: spume
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

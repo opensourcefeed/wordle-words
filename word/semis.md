@@ -40,4 +40,15 @@ definitions:
   - text: A semitrailer; a tractor-trailer; an eighteen-wheeler; an artic.
   - text: A semifinal.
   - text: A partial erection.
+prev_word: semie
+next_word: senas
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -65,4 +65,15 @@ definitions:
       sweets.
   - text: To place an object into an orbit around a planet.
     example: A rocket was used to orbit the satellite.
+prev_word: orbic
+next_word: orcas
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

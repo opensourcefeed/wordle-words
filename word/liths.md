@@ -32,4 +32,15 @@ neighbours:
 - withs
 anagrams:
 - hilts
+prev_word: litho
+next_word: litie
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -51,4 +51,15 @@ definitions:
       on one side take a step together alternating with the legs on the other side;
       as opposed to a trotter.
   - text: A pacemaker.
+prev_word: paced
+next_word: paces
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

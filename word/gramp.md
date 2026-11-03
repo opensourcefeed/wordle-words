@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: Grandpa, grandfather.
+prev_word: grame
+next_word: grams
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

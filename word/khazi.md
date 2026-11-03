@@ -31,4 +31,13 @@ definitions:
   defs:
   - text: 'An outhouse or lavatory: a place used for urination and defecation.'
   - text: 'A toilet: a fixture used for urination and defecation .'
+prev_word: khaya
+next_word: kheda
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

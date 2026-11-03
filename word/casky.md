@@ -23,4 +23,15 @@ neighbours:
 - casks
 anagrams:
 - yacks
+prev_word: casks
+next_word: caste
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

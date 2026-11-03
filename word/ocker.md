@@ -34,4 +34,15 @@ definitions:
 - pos: verb
   defs:
   - text: To increase (in price); add to.
+prev_word: ochry
+next_word: ocote
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

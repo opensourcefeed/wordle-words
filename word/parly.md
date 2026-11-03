@@ -32,4 +32,15 @@ neighbours:
 - patly
 anagrams:
 - pyral
+prev_word: parle
+next_word: parma
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

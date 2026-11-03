@@ -49,4 +49,15 @@ definitions:
 - pos: noun
   defs:
   - text: A boundary or border, especially of the Roman Empire.
+prev_word: limen
+next_word: limey
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -40,4 +40,15 @@ definitions:
   - text: To cut out the balls of the feet of (dogs) so as to render them unfit for
       hunting.
   - text: To walk lame; limp.
+prev_word: hamed
+next_word: hames
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: GRI_E
   count: 7
+prev_word: grits
+next_word: groan
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

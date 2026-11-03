@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 7
 neighbours:
 - awato
+prev_word: aweel
+next_word: awful
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

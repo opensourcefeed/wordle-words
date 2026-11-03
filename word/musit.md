@@ -27,4 +27,15 @@ anagrams:
 - muist
 - mutis
 - tuism
+prev_word: music
+next_word: musks
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

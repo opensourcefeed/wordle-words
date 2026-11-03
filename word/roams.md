@@ -44,4 +44,15 @@ definitions:
       comparable usage from any of them.
   - text: To range or wander over.
     example: Gangs of thugs roamed the streets.
+prev_word: roaky
+next_word: roans
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

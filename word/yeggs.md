@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: A person who breaks open safes; a burglar.
     example: 1904, Edwin S. Porter (director), Capture of the ‘Yegg’ Bank Burglars
+prev_word: yeesh
+next_word: yelks
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

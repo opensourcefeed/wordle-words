@@ -25,4 +25,13 @@ neighbours:
 - quark
 - quank
 - quaws
+prev_word: quats
+next_word: quaws
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

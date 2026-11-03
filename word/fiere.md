@@ -28,4 +28,15 @@ neighbours:
 - fieri
 - fiers
 - frere
+prev_word: fient
+next_word: fieri
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

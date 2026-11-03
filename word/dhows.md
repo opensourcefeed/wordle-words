@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A traditional sailing vessel used along the coasts of Arabia, East Africa,
       and the Indian Ocean, generally having a single mast and a lateen sail.
+prev_word: dhoti
+next_word: dhuti
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dh/"
+  label: Starting with DH
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

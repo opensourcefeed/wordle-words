@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _ONES
   count: 11
+prev_word: pondy
+next_word: poney
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

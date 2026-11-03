@@ -30,4 +30,15 @@ neighbours:
 trap:
   pattern: _UMBO
   count: 6
+prev_word: mulsh
+next_word: mumms
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -24,4 +24,13 @@ stats:
   starter_top_percent: 62
 neighbours:
 - obole
+prev_word: oking
+next_word: okras
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -39,4 +39,15 @@ definitions:
     example: Jack cannot run, making him unfit for the track team.
   - text: Not fit, not having a good physical demeanor.
     example: I've become so unfit after stopping cycling to town.
+prev_word: unfed
+next_word: unfix
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

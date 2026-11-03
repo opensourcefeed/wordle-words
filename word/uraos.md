@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 8
 neighbours:
 - praos
+prev_word: urali
+next_word: urare
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

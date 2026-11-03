@@ -66,4 +66,15 @@ definitions:
   - text: To make a loud noise in breathing, as horses do when they have a certain
       disease.
   - text: "(North Midlands) to cry"
+prev_word: roany
+next_word: roary
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -29,4 +29,15 @@ neighbours:
 - gibes
 - jiber
 - liber
+prev_word: gibel
+next_word: gibes
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

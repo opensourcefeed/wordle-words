@@ -36,4 +36,15 @@ definitions:
       meat is yellowish or pale green to pink in color.
   - text: A medium reddish-pink colour, like that of guava flesh (also called guava
       pink).
+prev_word: guars
+next_word: gubba
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/va/"
+  label: Ending in VA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

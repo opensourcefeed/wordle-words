@@ -52,4 +52,15 @@ definitions:
 - pos: verb
   defs:
   - text: To father; to sire.
+prev_word: dadas
+next_word: dadis
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -74,4 +74,13 @@ definitions:
     example: crisp hair
   - text: Curled by the ripple of water.
   - text: Not using fuzzy logic; based on a binary distinction between true and false.
+prev_word: crise
+next_word: criss
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

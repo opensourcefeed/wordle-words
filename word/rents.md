@@ -66,4 +66,15 @@ definitions:
   defs:
   - text: A tear or rip in some surface.
   - text: A division or schism.
+prev_word: rente
+next_word: reoil
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

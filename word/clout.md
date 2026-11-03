@@ -54,4 +54,15 @@ definitions:
   - text: To stud with nails, as a timber, or a boot sole.
   - text: To guard with an iron plate, as an axletree.
   - text: To join or patch clumsily.
+prev_word: clous
+next_word: clove
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

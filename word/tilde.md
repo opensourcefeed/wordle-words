@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: The grapheme of character ~.
   - text: The character used to represent negation, usually ~ or ¬.
+prev_word: tilak
+next_word: tiled
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

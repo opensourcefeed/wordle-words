@@ -32,4 +32,15 @@ definitions:
   - text: Prison
   - text: A station, as for collection of customs, for palanquin bearers, police,
       etc.
+prev_word: choko
+next_word: chola
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - chimo
 - ohmic
+prev_word: mocha
+next_word: mochs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

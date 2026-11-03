@@ -24,4 +24,15 @@ neighbours:
 - curse
 - curli
 - curst
+prev_word: curse
+next_word: curst
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/si/"
+  label: Ending in SI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

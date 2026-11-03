@@ -54,4 +54,15 @@ definitions:
   - text: To arrange.
   - text: To dress, array (someone).
   - text: To stain or soil; to defile.
+prev_word: rayas
+next_word: rayle
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

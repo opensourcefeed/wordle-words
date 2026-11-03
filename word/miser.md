@@ -52,4 +52,15 @@ definitions:
   - text: A person who hoards money rather than spending it; one who is cheap or extremely
       parsimonious.
   - text: A kind of earth auger, typically large-bored and often hand-operated.
+prev_word: misdo
+next_word: mises
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

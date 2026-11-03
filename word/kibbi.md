@@ -23,4 +23,15 @@ stats:
 neighbours:
 - kibbe
 - kibei
+prev_word: kibbe
+next_word: kibei
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/bi/"
+  label: Ending in BI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

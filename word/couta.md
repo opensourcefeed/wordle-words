@@ -26,4 +26,15 @@ neighbours:
 - costa
 - cotta
 - couth
+prev_word: court
+next_word: couth
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

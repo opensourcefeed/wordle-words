@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: Sexually aroused; full of sexual lust.
   - text: Rude or coarse in manner.
+prev_word: rands
+next_word: raned
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

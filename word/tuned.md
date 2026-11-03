@@ -58,4 +58,15 @@ definitions:
   defs:
   - text: Adjusted in pitch or resonance.
     example: The tuned wind chimes sounded almost like they were playing a melody.
+prev_word: tunds
+next_word: tuner
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -30,4 +30,15 @@ neighbours:
 - peppy
 - seepy
 - weepy
+prev_word: peeps
+next_word: peers
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -50,4 +50,15 @@ definitions:
 - pos: verb
   defs:
   - text: To send a sext.
+prev_word: sexto
+next_word: seyen
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

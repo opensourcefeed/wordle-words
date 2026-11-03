@@ -42,4 +42,15 @@ definitions:
     example: He trued the spokes of the bicycle wheel.
   - text: To make even, level, symmetrical, or accurate, align; adjust.
     example: We spent all night truing up the report.
+prev_word: truer
+next_word: trugo
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

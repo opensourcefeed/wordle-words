@@ -26,4 +26,15 @@ neighbours:
 - taboo
 - baloo
 - bazoo
+prev_word: babka
+next_word: babul
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

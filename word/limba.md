@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: A large African tree, Terminalia superba, whose hard wood is used for furniture,
       table tennis paddles and musical instruments.
+prev_word: limax
+next_word: limbi
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

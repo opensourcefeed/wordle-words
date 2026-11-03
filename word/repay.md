@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: To pay back.
     example: I finally repaid my student loans, just before sending my kids to college.
+prev_word: repat
+next_word: repeg
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

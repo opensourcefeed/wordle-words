@@ -91,4 +91,15 @@ definitions:
   - text: To secure (a cow) by placing its head in a bail for milking.
   - text: To keep (a traveller) detained in order to rob them; to corner (a wild animal);
       loosely, to detain, hold up. (Usually with up.)
+prev_word: baile
+next_word: bairn
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -61,4 +61,15 @@ definitions:
     example: a broad compliment; a broad joke; broad humour
   - text: "(of an accent) Strongly regional."
   - text: "(Gaelic languages) Velarized, i.e. not palatalized."
+prev_word: brize
+next_word: broch
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

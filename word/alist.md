@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - litas
 - tails
+prev_word: alios
+next_word: alive
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

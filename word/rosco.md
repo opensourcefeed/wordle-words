@@ -25,4 +25,15 @@ neighbours:
 anagrams:
 - corso
 - scroo
+prev_word: rosal
+next_word: rosed
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

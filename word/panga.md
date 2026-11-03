@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A large broad-bladed knife.
+prev_word: panes
+next_word: pangs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

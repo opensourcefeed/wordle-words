@@ -26,4 +26,15 @@ neighbours:
 - jotty
 - monty
 - ponty
+prev_word: jongs
+next_word: jooks
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

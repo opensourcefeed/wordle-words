@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - perry
 - pryer
+prev_word: ryots
+next_word: rypin
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ry/"
+  label: Starting with RY
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

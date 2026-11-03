@@ -24,4 +24,15 @@ neighbours:
 - scobe
 anagrams:
 - bokes
+prev_word: skoal
+next_word: skody
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

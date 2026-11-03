@@ -29,4 +29,15 @@ neighbours:
 - monte
 - motty
 - ponty
+prev_word: month
+next_word: moobs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

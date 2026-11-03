@@ -34,4 +34,15 @@ definitions:
 - pos: preposition
   defs:
   - text: Out of.
+prev_word: outro
+next_word: ouzel
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

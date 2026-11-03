@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: "(Afro-Caribbean) posh; classy or stylish"
   - text: "(Afro-Caribbean) snobbish"
+prev_word: sturt
+next_word: styed
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

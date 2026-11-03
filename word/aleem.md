@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 39
 neighbours:
 - adeem
+prev_word: alecs
+next_word: alefs
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

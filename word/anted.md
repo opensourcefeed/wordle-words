@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: To pay the ante in poker. Often used as ante up.
   - text: To make an investment in money, effort, or time before knowing one's chances.
+prev_word: antas
+next_word: antes
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

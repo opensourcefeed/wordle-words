@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: Of a woman, whether actually lesbian or not, having stereotypically lesbian
       characteristics; that looks like a dyke.
+prev_word: dyked
+next_word: dykon
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dy/"
+  label: Starting with DY
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

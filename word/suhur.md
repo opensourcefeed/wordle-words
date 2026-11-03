@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 79
 neighbours:
 - sohur
+prev_word: sugos
+next_word: suids
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -30,4 +30,15 @@ anagrams:
 - lymes
 - mesyl
 - ylems
+prev_word: yells
+next_word: yelps
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

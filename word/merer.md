@@ -28,4 +28,15 @@ neighbours:
 - merel
 - meres
 - serer
+prev_word: merel
+next_word: meres
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

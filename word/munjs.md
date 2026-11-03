@@ -25,4 +25,13 @@ neighbours:
 - munis
 - munja
 - munts
+prev_word: munja
+next_word: munts
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

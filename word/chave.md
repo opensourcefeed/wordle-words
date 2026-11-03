@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: CHA_E
   count: 6
+prev_word: chava
+next_word: chavs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

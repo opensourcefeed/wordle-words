@@ -32,4 +32,15 @@ neighbours:
 - arene
 - arere
 - arete
+prev_word: aread
+next_word: areal
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

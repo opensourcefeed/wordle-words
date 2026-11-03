@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Of or like a worm or worms; shaped like a worm or worms.
   - text: Infested with worms.
+prev_word: worms
+next_word: worry
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -33,4 +33,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cry weakly with a soft, high-pitched sound; to whimper; to whine.
+prev_word: mewed
+next_word: meynt
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

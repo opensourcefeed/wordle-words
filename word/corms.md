@@ -43,4 +43,15 @@ definitions:
   - text: A short, vertical, swollen underground stem of a plant (usually one of the
       monocots) that serves as a storage organ to enable the plant to survive winter
       or other adverse conditions such as drought.
+prev_word: corky
+next_word: corni
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

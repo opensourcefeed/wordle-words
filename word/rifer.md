@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: RI_ER
   count: 7
+prev_word: rieve
+next_word: riffs
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

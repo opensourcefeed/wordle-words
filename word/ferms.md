@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ERMS
   count: 7
+prev_word: fermi
+next_word: ferns
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

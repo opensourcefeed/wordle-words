@@ -28,4 +28,15 @@ neighbours:
 - pikis
 - pilis
 - pipis
+prev_word: physa
+next_word: piani
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -23,4 +23,15 @@ stats:
 neighbours:
 - donor
 - honor
+prev_word: ponks
+next_word: ponto
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

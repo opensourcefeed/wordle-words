@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 86
 neighbours:
 - iddat
+prev_word: iddat
+next_word: ideal
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/id/"
+  label: Starting with ID
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

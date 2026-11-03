@@ -44,4 +44,15 @@ definitions:
     example: You kids had better shoo before your parents get a call.
   - text: To usher someone.
     example: Shoo the visitor in.
+prev_word: shoon
+next_word: shoot
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

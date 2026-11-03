@@ -49,4 +49,15 @@ definitions:
       passengers.
   - text: A swelling on the back part of the hind leg of a horse, just behind the
       lowest part of the hock joint, generally causing lameness.
+prev_word: curat
+next_word: curch
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -31,4 +31,15 @@ anagrams:
 trap:
   pattern: _AUCH
   count: 6
+prev_word: natya
+next_word: naunt
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A civilian; someone who is not in the military.
+prev_word: civil
+next_word: clach
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

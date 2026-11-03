@@ -23,4 +23,15 @@ stats:
 neighbours:
 - bubba
 - bubby
+prev_word: bubba
+next_word: bubby
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -27,4 +27,15 @@ neighbours:
 - munia
 anagrams:
 - nubia
+prev_word: bungy
+next_word: bunje
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A small mound or rounded hill.
+prev_word: knock
+next_word: knoop
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

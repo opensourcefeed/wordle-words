@@ -35,4 +35,15 @@ definitions:
     example: She knelt the doll to fit it into the box.
   - text: To rest on (one's) knees
     example: He knelt him down to pray.
+prev_word: knell
+next_word: knick
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

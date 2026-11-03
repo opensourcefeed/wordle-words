@@ -56,4 +56,15 @@ definitions:
   - text: "(sometimes figurative) That has lost some of its former colour or intensity."
     example: a faded rock star of the 1970s
   - text: High on drugs; stoned
+prev_word: faddy
+next_word: fader
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

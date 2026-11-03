@@ -29,4 +29,15 @@ neighbours:
 - homme
 anagrams:
 - homer
+prev_word: horks
+next_word: horns
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: S_UGS
   count: 6
+prev_word: skuas
+next_word: skulk
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

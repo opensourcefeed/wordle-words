@@ -30,4 +30,13 @@ neighbours:
 - cusec
 anagrams:
 - secco
+prev_word: corso
+next_word: cosed
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: "(1980s, usually plural) Testicles."
     example: The soccer ball hit me right in the nards!
+prev_word: narcs
+next_word: nares
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

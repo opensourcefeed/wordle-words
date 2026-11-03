@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: To jeer at.
   - text: To jeer.
+prev_word: gipsy
+next_word: girlf
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

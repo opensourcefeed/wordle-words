@@ -48,4 +48,15 @@ definitions:
   - text: "(noun adjunct) Used attributively, with figurative indication of a person's
       upbringing, or professional activities, taking place by the side of the road;
       third-rate."
+prev_word: heder
+next_word: hedgy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

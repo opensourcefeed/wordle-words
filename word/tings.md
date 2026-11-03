@@ -50,4 +50,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(Caribbean creoles) Thing, person."
+prev_word: tinge
+next_word: tinks
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

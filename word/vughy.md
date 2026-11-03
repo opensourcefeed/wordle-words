@@ -20,4 +20,13 @@ stats:
 neighbours:
 - vuggy
 - vughs
+prev_word: vughs
+next_word: vulgo
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A round picture or other work of art.
+prev_word: tonal
+next_word: tondo
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/di/"
+  label: Ending in DI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

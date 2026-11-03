@@ -30,4 +30,15 @@ neighbours:
 trap:
   pattern: VER_E
   count: 6
+prev_word: verbs
+next_word: verge
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

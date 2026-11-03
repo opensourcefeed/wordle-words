@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A period of 4.32 billion years (1000 yugas).
+prev_word: kalis
+next_word: kalua
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

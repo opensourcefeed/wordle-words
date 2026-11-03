@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: CHAR_
   count: 9
+prev_word: chare
+next_word: charm
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/rk/"
+  label: Ending in RK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

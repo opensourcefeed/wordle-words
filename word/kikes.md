@@ -48,4 +48,13 @@ definitions:
   - text: A contemptible person, especially one who is stingy.
     example: That greedy kike would not give me any money when I was starving and
       needed food.
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

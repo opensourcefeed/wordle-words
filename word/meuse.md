@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - emeus
 - musee
+prev_word: meums
+next_word: meved
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

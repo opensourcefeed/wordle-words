@@ -54,4 +54,15 @@ definitions:
     example: I think the boat is sinking; we'd better radio for help. / I radioed
       him already. / Radio the coordinates this time. / OK. I radioed them the coordinates.
   - text: To order or assist (to a location), using telecommunications.
+prev_word: radii
+next_word: radix
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/io/"
+  label: Ending in IO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

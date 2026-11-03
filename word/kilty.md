@@ -28,4 +28,15 @@ neighbours:
 - lilty
 - milty
 - silty
+prev_word: kilts
+next_word: kimbo
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

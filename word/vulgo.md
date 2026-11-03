@@ -20,4 +20,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 82
+prev_word: vughy
+next_word: vulns
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

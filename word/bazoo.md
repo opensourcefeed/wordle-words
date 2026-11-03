@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A simple wind instrument, such as a kazoo or tin horn.
   - text: A person's mouth.
+prev_word: bazas
+next_word: bball
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

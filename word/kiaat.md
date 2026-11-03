@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Pterocarpus angolensis, African teak.
+prev_word: khyal
+next_word: kiack
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - mural
 - larum
+prev_word: rully
+next_word: rumba
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

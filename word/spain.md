@@ -33,4 +33,15 @@ anagrams:
 - pians
 - pinas
 - spina
+prev_word: spail
+next_word: spait
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

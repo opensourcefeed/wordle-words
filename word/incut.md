@@ -29,4 +29,15 @@ anagrams:
 - tunic
 - cunit
 - cutin
+prev_word: incus
+next_word: indew
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

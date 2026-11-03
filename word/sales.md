@@ -63,4 +63,15 @@ definitions:
     example: 'He''s likable and motivated: perfect for a career in sales.'
   - text: The amount or value of goods and services sold.
     example: Sales were up 12% over last year.
+prev_word: salep
+next_word: salet
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

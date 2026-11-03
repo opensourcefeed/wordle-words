@@ -41,4 +41,15 @@ definitions:
   - text: The liturgical creed (usually the Nicene Creed), or a musical arrangement
       of it for use in church services.
     example: Credo III is so beautiful!
+prev_word: cream
+next_word: creds
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

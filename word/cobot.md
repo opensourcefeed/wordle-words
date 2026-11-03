@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 89
 neighbours:
 - robot
+prev_word: coble
+next_word: cobra
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

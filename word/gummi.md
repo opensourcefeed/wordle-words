@@ -23,4 +23,15 @@ stats:
 neighbours:
 - gummy
 - gumma
+prev_word: gumma
+next_word: gummy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/mi/"
+  label: Ending in MI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

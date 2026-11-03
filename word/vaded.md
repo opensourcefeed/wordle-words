@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _ADED
   count: 6
+prev_word: vadas
+next_word: vades
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

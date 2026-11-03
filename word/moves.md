@@ -99,4 +99,15 @@ definitions:
   defs:
   - text: A good ability to dance.
     example: Check out the guy on the dancefloor, he's got seriously good moves.
+prev_word: mover
+next_word: movie
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

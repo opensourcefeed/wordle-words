@@ -52,4 +52,15 @@ definitions:
   - text: To come; to offer itself.
   - text: To be lifted, or capable of being lifted, from the imposing stone without
       dropping any of the type; said of a form.
+prev_word: riqqs
+next_word: riser
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

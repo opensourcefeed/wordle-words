@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _URED
   count: 6
+prev_word: purdy
+next_word: puree
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

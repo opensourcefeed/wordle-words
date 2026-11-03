@@ -86,4 +86,15 @@ definitions:
   - text: To place (aircraft) into a holding pattern.
   - text: To collect precious metal in the form of various small objects such as coins
       and bars.
+prev_word: stabs
+next_word: stade
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -28,4 +28,15 @@ neighbours:
 - toper
 - topes
 - tupek
+prev_word: topee
+next_word: toper
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

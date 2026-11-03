@@ -104,4 +104,15 @@ definitions:
   - text: To sail on the wind, as from one point of tacking to another, or with the
       wind nearly abeam.
   - text: To experience a vomiting reflex; to gag; to retch.
+prev_word: razor
+next_word: react
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -24,4 +24,15 @@ stats:
 neighbours:
 - acara
 - accha
+prev_word: accoy
+next_word: acedy
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

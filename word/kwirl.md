@@ -23,4 +23,13 @@ stats:
 neighbours:
 - swirl
 - twirl
+prev_word: kwink
+next_word: kyack
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

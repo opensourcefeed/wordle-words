@@ -24,4 +24,13 @@ neighbours:
 - ethyl
 anagrams:
 - hotly
+prev_word: other
+next_word: otium
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

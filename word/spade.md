@@ -56,4 +56,15 @@ definitions:
 - pos: verb
   defs:
   - text: To turn over soil with a spade to loosen the ground for planting.
+prev_word: spacy
+next_word: spado
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

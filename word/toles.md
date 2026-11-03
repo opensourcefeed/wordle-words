@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _OLES
   count: 13
+prev_word: toled
+next_word: tolls
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -64,4 +64,15 @@ definitions:
       copied or cut from somewhere else.
   - text: To strike or beat someone or something.
   - text: To defeat decisively or by a large margin.
+prev_word: pasta
+next_word: pasts
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

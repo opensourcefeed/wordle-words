@@ -29,4 +29,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Musty; mouldy; slimy; mucous
+prev_word: mucic
+next_word: mucin
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

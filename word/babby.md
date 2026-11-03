@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: Baby (human infant).
+prev_word: babas
+next_word: babel
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

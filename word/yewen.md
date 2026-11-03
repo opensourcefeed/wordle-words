@@ -24,4 +24,15 @@ neighbours:
 - yeven
 anagrams:
 - weeny
+prev_word: yeves
+next_word: yexed
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -44,4 +44,15 @@ definitions:
   - text: To cover with crumbs.
   - text: To break into crumbs or small pieces with the fingers; to crumble.
     example: to crumb bread
+prev_word: cruft
+next_word: crump
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/mb/"
+  label: Ending in MB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

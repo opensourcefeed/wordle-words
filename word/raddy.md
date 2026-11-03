@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ADDY
   count: 10
+prev_word: raddi
+next_word: radge
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

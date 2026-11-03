@@ -70,4 +70,15 @@ definitions:
     example: I'd flip if anyone broke my phone.
   - text: To buy an asset (usually a house), improve it and sell it quickly for profit.
   - text: To invert a bit (binary digit), changing it from 0 to 1 or from 1 to 0.
+prev_word: flint
+next_word: flirs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,15 @@ neighbours:
 - copal
 - cowan
 - coxal
+prev_word: covin
+next_word: cowan
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

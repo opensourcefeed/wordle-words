@@ -49,4 +49,15 @@ definitions:
   - text: A lyre-shaped sheet music holder that attaches to a wind instrument when
       a music stand is impractical.
   - text: A composer of lyric poetry.
+prev_word: lynes
+next_word: lyric
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: Brassica rapa subsp. pekinensis, a kind of Chinese cabbage.
+prev_word: napoo
+next_word: nappe
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

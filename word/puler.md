@@ -32,4 +32,15 @@ neighbours:
 - puled
 - pules
 - puter
+prev_word: puled
+next_word: pules
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -31,4 +31,15 @@ definitions:
       decisions.
   - text: A Jew who is or is qualified to be the leader of a Jewish congregation.
   - text: "(police) A senior officer who acts as a mentor."
+prev_word: rabat
+next_word: rabic
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/bi/"
+  label: Ending in BI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

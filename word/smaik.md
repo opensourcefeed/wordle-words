@@ -29,4 +29,15 @@ anagrams:
 - kamis
 - maiks
 - makis
+prev_word: smack
+next_word: small
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

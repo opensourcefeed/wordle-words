@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having a sharp, pungent flavor
+prev_word: tangs
+next_word: tanhs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

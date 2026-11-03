@@ -25,4 +25,15 @@ neighbours:
 - slung
 - pling
 - plong
+prev_word: plumy
+next_word: plunk
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

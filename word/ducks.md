@@ -53,4 +53,15 @@ definitions:
       heard more clearly.
   - text: To enter a place for a short moment.
     example: I'm just going to duck into the loo for a minute, can you hold my bag?
+prev_word: duchy
+next_word: ducky
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -25,4 +25,15 @@ neighbours:
 - pavan
 - paven
 - pavin
+prev_word: pavis
+next_word: pavvy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

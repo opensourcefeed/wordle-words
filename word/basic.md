@@ -48,4 +48,15 @@ definitions:
     example: The Hotel Sparta’s accommodation is very basic.
   - text: Of or pertaining to a base; having a pH greater than 7.
   - text: Unremarkable or uninteresting; boring; uncool.
+prev_word: basho
+next_word: basij
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

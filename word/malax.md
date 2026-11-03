@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: MALA_
   count: 6
+prev_word: malas
+next_word: maleo
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ax/"
+  label: Ending in AX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

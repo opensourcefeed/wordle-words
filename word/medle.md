@@ -24,4 +24,15 @@ neighbours:
 - merle
 anagrams:
 - lemed
+prev_word: medin
+next_word: meech
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -27,4 +27,15 @@ neighbours:
 - nonic
 anagrams:
 - monic
+prev_word: nomes
+next_word: nomoi
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

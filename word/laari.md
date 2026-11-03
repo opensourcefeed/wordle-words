@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 30
 neighbours:
 - laarf
+prev_word: laarf
+next_word: labda
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

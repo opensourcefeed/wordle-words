@@ -49,4 +49,15 @@ definitions:
 - pos: noun
   defs:
   - text: A member of an androgynous class of priests of the Sumerian goddess Inanna.
+prev_word: galah
+next_word: galax
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -25,4 +25,15 @@ stats:
 neighbours:
 - cedis
 - pedis
+prev_word: jebel
+next_word: jeels
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

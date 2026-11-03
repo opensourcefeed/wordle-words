@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _RONE
   count: 7
+prev_word: groms
+next_word: groof
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

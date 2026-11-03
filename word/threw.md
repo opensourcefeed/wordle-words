@@ -86,4 +86,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(said of animals) To give birth to."
+prev_word: three
+next_word: thrid
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ew/"
+  label: Ending in EW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

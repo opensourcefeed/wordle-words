@@ -23,4 +23,15 @@ neighbours:
 - hyena
 - hymns
 - syens
+prev_word: hyena
+next_word: hygge
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

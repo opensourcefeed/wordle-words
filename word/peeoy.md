@@ -26,4 +26,15 @@ neighbours:
 - peely
 - peepy
 - peery
+prev_word: peent
+next_word: peepe
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/oy/"
+  label: Ending in OY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

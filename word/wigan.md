@@ -26,4 +26,15 @@ neighbours:
 - zigan
 anagrams:
 - awing
+prev_word: wifty
+next_word: wiggy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

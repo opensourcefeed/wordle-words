@@ -44,4 +44,15 @@ definitions:
   - text: The emotion usually following humour and accompanied by laughter; merriment;
       jollity; gaiety.
   - text: That which causes merriment.
+prev_word: mirrs
+next_word: mirvs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

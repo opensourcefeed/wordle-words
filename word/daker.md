@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _AKER
   count: 12
+prev_word: daisy
+next_word: daled
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

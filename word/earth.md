@@ -65,4 +65,15 @@ definitions:
     example: That noise is because the amplifier is not properly earthed.
   - text: To bury.
   - text: To burrow.
+prev_word: earst
+next_word: eased
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

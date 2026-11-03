@@ -27,4 +27,15 @@ neighbours:
 - ogled
 anagrams:
 - geode
+prev_word: ogams
+next_word: ogees
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/og/"
+  label: Starting with OG
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

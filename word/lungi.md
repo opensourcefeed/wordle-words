@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A garment worn around the waist, especially by men, in Southern India, Bangladesh,
       Burma, and Pakistan.
+prev_word: lunge
+next_word: lungs
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

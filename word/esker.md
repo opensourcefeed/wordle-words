@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A long, narrow, sinuous ridge created by deposits from a stream running
       beneath a glacier.
+prev_word: eskar
+next_word: esnes
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/es/"
+  label: Starting with ES
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

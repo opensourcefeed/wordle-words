@@ -29,4 +29,15 @@ neighbours:
 - emove
 anagrams:
 - voema
+prev_word: amour
+next_word: amowt
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -28,4 +28,15 @@ neighbours:
 - licit
 anagrams:
 - telic
+prev_word: libri
+next_word: lichi
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

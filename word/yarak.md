@@ -27,4 +27,15 @@ definitions:
   defs:
   - text: A super-alert state where the bird is hungry, but not weak, with a trance
       like state of alertness and ready to hunt.
+prev_word: yappy
+next_word: yarco
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

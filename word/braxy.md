@@ -33,4 +33,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Sick with braxy
+prev_word: braws
+next_word: brays
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

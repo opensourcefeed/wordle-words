@@ -40,4 +40,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Of or relating to any reaction in which oxidation and reduction occur simultaneously.
+prev_word: redos
+next_word: redry
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

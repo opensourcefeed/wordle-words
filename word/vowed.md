@@ -51,4 +51,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Undertaken in accordance with a vow; solemnly promised.
+prev_word: voulu
+next_word: vowel
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

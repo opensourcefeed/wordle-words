@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: Resembling or characteristic of pork.
   - text: Rather fat; chubby.
+prev_word: porks
+next_word: porns
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -32,4 +32,15 @@ neighbours:
 - conns
 - janns
 - ranns
+prev_word: canna
+next_word: canny
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

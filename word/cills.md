@@ -59,4 +59,15 @@ definitions:
 - pos: noun
   defs:
   - text: The shaft or thill of a carriage.
+prev_word: cilia
+next_word: cimar
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: Any of many classes of enzyme that catalyze the breaking of a specific form
       of bond
+prev_word: lyart
+next_word: lycea
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

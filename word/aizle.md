@@ -26,4 +26,15 @@ stats:
   starter_top_percent: 16
 neighbours:
 - aisle
+prev_word: aiyoo
+next_word: ajies
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

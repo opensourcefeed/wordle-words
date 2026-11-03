@@ -59,4 +59,15 @@ definitions:
   - text: A familial relationship established by childbirth.
     example: Her birth father left when she was a baby; she was raised by her mother
       and stepfather.
+prev_word: birsy
+next_word: birze
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

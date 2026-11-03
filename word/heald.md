@@ -45,4 +45,15 @@ definitions:
   - text: An inclination; a cant.
   - text: An incline; slope.
   - text: A decline; decrease; wane.
+prev_word: heady
+next_word: heals
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

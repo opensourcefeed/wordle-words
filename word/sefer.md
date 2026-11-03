@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: SE_ER
   count: 7
+prev_word: seers
+next_word: segar
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

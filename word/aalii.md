@@ -23,4 +23,11 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 83
+prev_word: aahed
+next_word: aapas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

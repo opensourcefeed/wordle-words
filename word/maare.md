@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - arame
 - marae
+prev_word: maaed
+next_word: maars
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

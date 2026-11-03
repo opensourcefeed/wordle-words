@@ -29,4 +29,13 @@ definitions:
   defs:
   - text: A person who is clumsy, oafish, or socially awkward, or unattractive or
       unkempt.
+prev_word: shlep
+next_word: shmek
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

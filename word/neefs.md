@@ -33,4 +33,15 @@ neighbours:
 - reefs
 anagrams:
 - feens
+prev_word: needy
+next_word: neeld
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: Azadirachta indica, a large, mostly evergreen tree from India, whose seeds
       yield the insecticide azadirachtin.
+prev_word: neemb
+next_word: neeps
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

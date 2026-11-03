@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: Life force, according to Maori beliefs
+prev_word: maunt
+next_word: mausy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

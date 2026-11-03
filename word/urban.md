@@ -39,4 +39,15 @@ definitions:
   - text: Related to the (or any) city.
   - text: Characteristic of city life.
   - text: Relating to contemporary African American culture.
+prev_word: urate
+next_word: urbex
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

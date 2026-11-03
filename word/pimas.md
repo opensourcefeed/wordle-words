@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: PI_AS
   count: 6
+prev_word: pilus
+next_word: pimps
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

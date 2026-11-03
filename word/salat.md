@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: The obligatory prayer that Muslims are called to perform five times a day.
+prev_word: salas
+next_word: salep
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

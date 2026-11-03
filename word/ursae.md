@@ -26,4 +26,15 @@ anagrams:
 - aures
 - urase
 - ureas
+prev_word: urped
+next_word: ursid
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

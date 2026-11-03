@@ -50,4 +50,15 @@ definitions:
   - text: To indicate or suggest something; used with of.
     example: Her reckless behavior smacks of pride.
   - text: To have a particular taste; used with of.
+prev_word: smaak
+next_word: smaik
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

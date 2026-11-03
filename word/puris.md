@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: In Bali and other parts of Indonesia, a palace, or other residence of a
       member of the royal family or ruling class.
+prev_word: purin
+next_word: purls
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

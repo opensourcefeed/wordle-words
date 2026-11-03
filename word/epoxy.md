@@ -36,4 +36,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Derived from an epoxide.
+prev_word: epopt
+next_word: eppie
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ep/"
+  label: Starting with EP
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

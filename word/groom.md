@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A man who is about to marry.
+prev_word: groof
+next_word: grope
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

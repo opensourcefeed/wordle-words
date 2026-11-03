@@ -46,4 +46,15 @@ anagrams:
 trap:
   pattern: _EILS
   count: 8
+prev_word: teiid
+next_word: teind
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

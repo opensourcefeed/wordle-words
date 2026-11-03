@@ -47,4 +47,15 @@ definitions:
   - text: Sharp in taste
   - text: Curt
   - text: Parsimonious
+prev_word: nipet
+next_word: niqab
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

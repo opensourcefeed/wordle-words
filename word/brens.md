@@ -40,4 +40,15 @@ definitions:
 - pos: verb
   defs:
   - text: To burn (to set ablaze).
+prev_word: breme
+next_word: brent
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

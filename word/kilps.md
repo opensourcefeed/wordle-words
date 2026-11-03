@@ -27,4 +27,15 @@ neighbours:
 - kilos
 - kilts
 - kipps
+prev_word: kilos
+next_word: kilts
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

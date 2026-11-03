@@ -24,4 +24,15 @@ neighbours:
 - hokum
 - kokum
 - locum
+prev_word: lokey
+next_word: lolas
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

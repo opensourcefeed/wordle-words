@@ -48,4 +48,15 @@ definitions:
   - text: "(slang) A semester, in the context of a course of study which should be
       enjoyable as opposed to required work."
     example: The new hosel will be using the format suggested by students.
+prev_word: hosed
+next_word: hosen
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

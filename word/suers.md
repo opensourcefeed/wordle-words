@@ -35,4 +35,15 @@ anagrams:
 - russe
 - sures
 - users
+prev_word: suent
+next_word: suete
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

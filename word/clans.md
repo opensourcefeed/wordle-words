@@ -47,4 +47,15 @@ definitions:
   - text: Any group defined by family ties with some sort of political unity.
   - text: A group of players who habitually play on the same team in multiplayer games.
   - text: A badger colony.
+prev_word: clank
+next_word: claps
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

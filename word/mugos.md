@@ -25,4 +25,15 @@ neighbours:
 - muggs
 - musos
 - sugos
+prev_word: mugil
+next_word: muhly
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

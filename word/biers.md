@@ -49,4 +49,15 @@ definitions:
   - text: A litter to transport the corpse of a dead person.
   - text: A platform or stand where a body or coffin is placed.
   - text: A count of forty threads in the warp or chain of woollen cloth.
+prev_word: bield
+next_word: biffo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

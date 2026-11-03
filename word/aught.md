@@ -32,4 +32,15 @@ definitions:
 - pos: pronoun
   defs:
   - text: Anything whatsoever, any part.
+prev_word: auges
+next_word: augur
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

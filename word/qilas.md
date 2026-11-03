@@ -27,4 +27,13 @@ neighbours:
 - gilas
 - nilas
 - zilas
+prev_word: qibla
+next_word: qipao
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

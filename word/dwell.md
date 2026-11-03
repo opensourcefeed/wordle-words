@@ -46,4 +46,15 @@ definitions:
   - text: To linger (on) a particular thought, idea etc.; to remain fixated (on).
   - text: To be in a given state.
   - text: To abide; to remain; to continue.
+prev_word: dweeb
+next_word: dwelt
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dw/"
+  label: Starting with DW
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

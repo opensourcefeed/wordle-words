@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: To make merry; to have a happy, lively time.
   - text: To take delight (in something).
+prev_word: reuse
+next_word: revet
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

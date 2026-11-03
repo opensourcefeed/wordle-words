@@ -26,4 +26,15 @@ definitions:
   defs:
   - text: A staple food in parts of Africa, a kind of porridge made from ground maize
       or sorghum flour.
+prev_word: sados
+next_word: saeta
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

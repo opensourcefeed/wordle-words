@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - enema
 - meane
+prev_word: amend
+next_word: amens
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

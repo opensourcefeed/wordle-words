@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A body that provides counsel to a leader
+prev_word: shunt
+next_word: shush
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

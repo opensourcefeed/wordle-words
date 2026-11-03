@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: Mighty; powerful.
   - text: Possible.
+prev_word: miggs
+next_word: migma
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

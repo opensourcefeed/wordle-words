@@ -24,4 +24,15 @@ neighbours:
 - bongo
 - forgo
 - sorgo
+prev_word: bores
+next_word: boric
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

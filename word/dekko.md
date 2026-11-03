@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A look; a glance.
+prev_word: dekes
+next_word: delay
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

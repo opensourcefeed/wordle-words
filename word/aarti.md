@@ -31,4 +31,13 @@ anagrams:
 - raita
 - riata
 - taira
+prev_word: aargh
+next_word: abaca
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

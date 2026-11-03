@@ -31,4 +31,13 @@ definitions:
   defs:
   - text: The chemical element (symbol Xe) with an atomic number of 54. It is a colorless,
       odorless, unreactive noble gas, used notably in camera flash technology.
+prev_word: xenic
+next_word: xeric
+hubs:
+- url: "/starting-with/x/"
+  label: Starting with X
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

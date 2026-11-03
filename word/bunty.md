@@ -31,4 +31,15 @@ neighbours:
 - busty
 - butty
 - punty
+prev_word: bunts
+next_word: bunya
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

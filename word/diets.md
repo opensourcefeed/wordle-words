@@ -66,4 +66,15 @@ definitions:
   - text: The proceedings under a criminal libel.
   - text: A clerical or ecclesiastical function in Scotland.
     example: a diet of worship
+prev_word: diene
+next_word: diffs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

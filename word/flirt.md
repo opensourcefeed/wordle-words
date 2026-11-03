@@ -50,4 +50,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Pert; wanton
+prev_word: flirs
+next_word: flisk
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

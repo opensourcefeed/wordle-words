@@ -48,4 +48,15 @@ anagrams:
 trap:
   pattern: _OTES
   count: 10
+prev_word: poted
+next_word: potin
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

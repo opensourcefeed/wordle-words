@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A type of round, flat bread baked in a tandoor popular in South and Central
       Asian cuisine.
+prev_word: naams
+next_word: naats
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

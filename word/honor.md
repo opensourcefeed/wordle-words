@@ -67,4 +67,15 @@ definitions:
     example: Ten members of the profession were honored at the ceremony.
   - text: To make payment in respect of (a cheque, banker's draft, etc.)
     example: I'm sorry Sir, but the bank did not honour your cheque.
+prev_word: honks
+next_word: hooch
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

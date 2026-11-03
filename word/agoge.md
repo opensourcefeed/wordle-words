@@ -26,4 +26,15 @@ stats:
 neighbours:
 - agogo
 - agone
+prev_word: agmas
+next_word: agogo
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

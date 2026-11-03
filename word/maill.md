@@ -26,4 +26,15 @@ neighbours:
 - maile
 - mailo
 - mails
+prev_word: maile
+next_word: mailo
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

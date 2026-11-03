@@ -38,4 +38,15 @@ definitions:
       visor, and a plume.
   - text: A bearskin or busby.
   - text: The squilla or mantis shrimp.
+prev_word: shake
+next_word: shakt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -56,4 +56,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of a grayish green color, that of an unripe olive.
+prev_word: oliva
+next_word: ollas
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

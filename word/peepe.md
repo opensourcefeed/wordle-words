@@ -25,4 +25,15 @@ neighbours:
 - peeps
 - peepy
 - peeve
+prev_word: peeoy
+next_word: peeps
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

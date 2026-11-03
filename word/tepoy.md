@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 23
 neighbours:
 - sepoy
+prev_word: tepid
+next_word: terai
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/oy/"
+  label: Ending in OY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

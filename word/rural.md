@@ -47,4 +47,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Relating to the countryside or to agriculture.
+prev_word: rupia
+next_word: rurps
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

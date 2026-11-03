@@ -71,4 +71,15 @@ definitions:
       and passing the puck in a loop from the boards near the goal up the side boards
       and passing to back to the boards near the goal
     example: They have their cycling game going tonight.
+prev_word: cycas
+next_word: cyclo
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cy/"
+  label: Starting with CY
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

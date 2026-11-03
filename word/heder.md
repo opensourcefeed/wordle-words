@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: An elementary school in which students are taught to read Hebrew texts.
+prev_word: hecks
+next_word: hedge
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

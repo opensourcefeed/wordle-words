@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A socialist who is not wholly communist.
+prev_word: pings
+next_word: pinks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

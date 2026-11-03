@@ -31,4 +31,15 @@ neighbours:
 - conte
 - coste
 - roate
+prev_word: coast
+next_word: coati
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

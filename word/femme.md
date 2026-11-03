@@ -40,4 +40,15 @@ definitions:
   - text: Effeminate (of a man).
   - text: Characteristic of a feminine lesbian or queer woman.
     example: Her style was more femme than butch.
+prev_word: femic
+next_word: femmy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

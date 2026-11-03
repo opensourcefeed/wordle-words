@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _UTES
   count: 6
+prev_word: cuter
+next_word: cutey
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

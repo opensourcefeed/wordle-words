@@ -43,4 +43,15 @@ definitions:
     example: Try speaking aloud rather than whispering.
   - text: Audibly, as opposed to silently/quietly.
     example: speaking aloud rather than thinking thoughts privately
+prev_word: alose
+next_word: alowe
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ud/"
+  label: Ending in UD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

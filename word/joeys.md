@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: A person with cerebal palsy.
   - text: A stupid person.
+prev_word: jodel
+next_word: johns
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

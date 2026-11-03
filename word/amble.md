@@ -43,4 +43,15 @@ definitions:
   - text: To stroll or walk slowly and leisurely.
   - text: 'Of a quadruped: to move along by using both legs on one side, and then
       the other.'
+prev_word: ambit
+next_word: ambos
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

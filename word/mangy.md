@@ -42,4 +42,15 @@ definitions:
   - text: Afflicted with mange.
   - text: "(by extension) Worn and squalid-looking; bedraggled or decrepit."
     example: We stayed in a really mangy hotel in New York.
+prev_word: mangs
+next_word: mania
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

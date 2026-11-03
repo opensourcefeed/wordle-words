@@ -27,4 +27,15 @@ neighbours:
 - wheal
 anagrams:
 - whare
+prev_word: wheal
+next_word: wheat
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

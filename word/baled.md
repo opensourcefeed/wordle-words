@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: To remove water from a boat with buckets etc.
+prev_word: baldy
+next_word: baler
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

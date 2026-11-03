@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Mud from the thermal springs at Battaglia in Italy, used to treat certain
       medical complaints such as gout and rheumatism.
+prev_word: fanga
+next_word: fangs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

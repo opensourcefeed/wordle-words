@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: To use a winch
     example: Winch in those sails, lad!
+prev_word: wince
+next_word: winds
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

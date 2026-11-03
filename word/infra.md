@@ -29,4 +29,15 @@ definitions:
 - pos: adverb
   defs:
   - text: Discussed later.
+prev_word: infos
+next_word: ingan
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

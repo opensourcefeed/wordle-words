@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: To invite; bid; ask.
+prev_word: latex
+next_word: lathi
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

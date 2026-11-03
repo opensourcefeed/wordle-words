@@ -25,4 +25,13 @@ definitions:
   defs:
   - text: Okay; an expression of acknowledgment or affirmation, now sometimes used
       in an ironic or condescending sense.
+prev_word: mizzy
+next_word: mneme
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

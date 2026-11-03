@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 12
 neighbours:
 - loupe
+prev_word: loins
+next_word: loirs
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

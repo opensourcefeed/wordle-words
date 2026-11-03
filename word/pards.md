@@ -49,4 +49,15 @@ definitions:
 - pos: noun
   defs:
   - text: Partner; fellow; Used as a friendly appellation
+prev_word: pardi
+next_word: pardy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

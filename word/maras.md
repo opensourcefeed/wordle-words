@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: Any caviid rodent of genus Dolichotis, common in the Patagonian steppes
       of Argentina.
+prev_word: maran
+next_word: maray
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

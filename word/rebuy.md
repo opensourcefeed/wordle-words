@@ -26,4 +26,13 @@ neighbours:
 - rebud
 anagrams:
 - buyer
+prev_word: rebut
+next_word: recal
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

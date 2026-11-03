@@ -25,4 +25,15 @@ neighbours:
 - matra
 - matzo
 - motza
+prev_word: matty
+next_word: matzo
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

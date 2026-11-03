@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A smell; especially a pleasant spicy or fragrant one.
     example: I love the aroma of cinnamon.
+prev_word: aroid
+next_word: arose
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

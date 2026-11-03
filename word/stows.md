@@ -48,4 +48,15 @@ definitions:
   - text: To store or pack something in a space-saving manner and over a long time.
   - text: To arrange, pack, or fill something tightly or closely.
   - text: To dispose, lodge, or hide somebody somewhere.
+prev_word: stowp
+next_word: strad
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

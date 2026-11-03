@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: Any savory snack, sold from a roadside stall in India, or served as a starter
       in an Indian restaurant
+prev_word: chaap
+next_word: chace
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

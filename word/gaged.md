@@ -54,4 +54,15 @@ definitions:
   - text: To draw into equidistant gathers by running a thread through it.
   - text: To mix (a quantity of ordinary plaster) with a quantity of plaster of Paris.
   - text: To chip, hew or polish (stones, bricks, etc) to a standard size and/or shape.
+prev_word: gaffs
+next_word: gager
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

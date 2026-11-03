@@ -42,4 +42,15 @@ definitions:
   - text: A table or similar flat-topped structure used for religious rites.
   - text: A raised area around an altar in a church; the sanctuary.
   - text: Anything that is worshipped or sacrificed to.
+prev_word: alpha
+next_word: alter
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

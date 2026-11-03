@@ -70,4 +70,15 @@ definitions:
 - pos: noun
   defs:
   - text: The act of winding or turning; a turn; a bend; a twist.
+prev_word: winch
+next_word: windy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

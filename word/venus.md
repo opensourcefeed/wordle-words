@@ -29,4 +29,15 @@ neighbours:
 - vents
 anagrams:
 - nevus
+prev_word: venue
+next_word: verba
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

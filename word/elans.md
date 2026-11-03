@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _LANS
   count: 7
+prev_word: eland
+next_word: elate
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

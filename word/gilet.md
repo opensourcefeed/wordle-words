@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A sleeveless jacket similar to a waistcoat.
+prev_word: gilds
+next_word: gilia
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

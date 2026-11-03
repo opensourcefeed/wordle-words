@@ -69,4 +69,15 @@ definitions:
   defs:
   - text: A rainy season.
     example: The rains came early this year.
+prev_word: raine
+next_word: rainy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -45,4 +45,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(of a landscape) Abundant in hills; having many hills."
+prev_word: hills
+next_word: hilsa
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

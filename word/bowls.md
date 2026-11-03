@@ -76,4 +76,15 @@ definitions:
       side, and called bowls) closer to a smaller white ball (the jack or kitty) than
       one's opponent is able to do.
   - text: A ball used in the game of bowls
+prev_word: bowie
+next_word: bowne
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

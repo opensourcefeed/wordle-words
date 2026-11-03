@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: SCA_S
   count: 8
+prev_word: scaur
+next_word: sceat
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

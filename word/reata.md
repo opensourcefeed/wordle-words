@@ -27,4 +27,15 @@ neighbours:
 - reate
 - recta
 - riata
+prev_word: reast
+next_word: reate
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -26,4 +26,15 @@ neighbours:
 - diram
 anagrams:
 - mirza
+prev_word: zippy
+next_word: zitis
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

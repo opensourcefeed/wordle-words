@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - biros
 - brios
+prev_word: soras
+next_word: sorbo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/bi/"
+  label: Ending in BI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

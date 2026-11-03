@@ -46,4 +46,15 @@ definitions:
 - pos: interjection
   defs:
   - text: A cry used to indicate surrender.
+prev_word: uncia
+next_word: uncos
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

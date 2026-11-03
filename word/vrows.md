@@ -32,4 +32,13 @@ neighbours:
 trap:
   pattern: _ROWS
   count: 8
+prev_word: vrouw
+next_word: vuggs
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

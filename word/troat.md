@@ -34,4 +34,15 @@ anagrams:
 - ottar
 - rotta
 - torta
+prev_word: troak
+next_word: trock
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

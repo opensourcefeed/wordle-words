@@ -41,4 +41,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Tall, slim, and rather ungraceful or awkward.
+prev_word: lanks
+next_word: lants
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

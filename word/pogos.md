@@ -48,4 +48,15 @@ definitions:
 - pos: noun
   defs:
   - text: A corndog on a stick.
+prev_word: poggy
+next_word: pogue
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

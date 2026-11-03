@@ -28,4 +28,15 @@ neighbours:
 trap:
   pattern: _AUGH
   count: 6
+prev_word: wauff
+next_word: wauks
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

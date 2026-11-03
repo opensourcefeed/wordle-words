@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: To beat, to strike.
   - text: To defeat thoroughly.
+prev_word: whump
+next_word: whyda
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

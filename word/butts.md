@@ -69,4 +69,15 @@ definitions:
   defs:
   - text: A heavy two-wheeled cart.
   - text: A three-wheeled cart resembling a wheelbarrow.
+prev_word: butte
+next_word: butty
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

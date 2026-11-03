@@ -52,4 +52,15 @@ definitions:
   - text: Of a person, to complain.
     example: The last thing we need is to hear them bleating to us about organizational
       problems.
+prev_word: blear
+next_word: blebs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

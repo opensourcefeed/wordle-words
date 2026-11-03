@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _AKAS
   count: 6
+prev_word: vajra
+next_word: vakil
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

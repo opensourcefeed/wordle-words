@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - litho
 - thiol
+prev_word: thole
+next_word: thong
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

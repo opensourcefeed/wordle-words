@@ -31,4 +31,15 @@ neighbours:
 - ploot
 - plout
 - plowt
+prev_word: plish
+next_word: ploce
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

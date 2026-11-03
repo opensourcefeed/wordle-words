@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: The counting of the omer, that is, the period of 49 days between Passover
       and Shavuot.
+prev_word: gombo
+next_word: gompa
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -66,4 +66,15 @@ definitions:
   defs:
   - text: "(Japanese fiction) An active or dominant male character in a same-sex relationship;
       a top."
+prev_word: semen
+next_word: semie
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

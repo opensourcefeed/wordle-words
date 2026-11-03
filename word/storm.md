@@ -43,4 +43,15 @@ definitions:
   - text: A wind scale for very strong wind, stronger than a gale, less than a hurricane
       (10 or higher on the Beaufort scale).
   - text: A violent assault on a stronghold or fortified position.
+prev_word: stork
+next_word: story
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/rm/"
+  label: Ending in RM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

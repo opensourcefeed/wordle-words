@@ -64,4 +64,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Relating to or like a siren.
+prev_word: siree
+next_word: sires
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

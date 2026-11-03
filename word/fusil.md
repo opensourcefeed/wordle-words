@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A bearing of a rhomboidal figure, originally representing a spindle in shape,
       longer than a heraldic lozenge.
+prev_word: fuses
+next_word: fusks
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

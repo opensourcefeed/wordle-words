@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A circle of light; a halo.
   - text: A gray rain cloud.
+prev_word: nills
+next_word: nimbs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/bi/"
+  label: Ending in BI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

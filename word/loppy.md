@@ -41,4 +41,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Somewhat lop; inclined to lop.
+prev_word: lopes
+next_word: loral
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

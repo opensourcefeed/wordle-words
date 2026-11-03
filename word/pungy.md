@@ -30,4 +30,15 @@ neighbours:
 - pungo
 - pungs
 - punky
+prev_word: pungs
+next_word: punim
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

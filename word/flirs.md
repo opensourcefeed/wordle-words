@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: FLI_S
   count: 6
+prev_word: flips
+next_word: flirt
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

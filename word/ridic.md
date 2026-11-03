@@ -26,4 +26,15 @@ definitions:
   defs:
   - text: Ridiculous.
     example: That's so ridic!
+prev_word: ridgy
+next_word: riels
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

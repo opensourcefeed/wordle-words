@@ -30,4 +30,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Shrewd, sly; often also characterised by a sarcastic sense of humour.
+prev_word: pawks
+next_word: pawls
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

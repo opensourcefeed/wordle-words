@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ITCH
   count: 11
+prev_word: gists
+next_word: gites
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

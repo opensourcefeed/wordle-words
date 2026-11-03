@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ENES
   count: 9
+prev_word: lends
+next_word: lengs
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

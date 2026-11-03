@@ -63,4 +63,15 @@ definitions:
   - text: Suspicious; inspiring doubt.
     example: I don't trust him; his claims seem fishy to me.
   - text: 'Of drag queens: appearing feminine.'
+prev_word: fisho
+next_word: fisks
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

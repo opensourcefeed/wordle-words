@@ -35,4 +35,15 @@ anagrams:
 - ronte
 - toner
 - trone
+prev_word: noted
+next_word: notes
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

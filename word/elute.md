@@ -38,4 +38,15 @@ definitions:
       cleanse.
     example: A mixture of isooctane and ethyl acetate can be used to elute triglycerides
       from a complex lipid solution.
+prev_word: elude
+next_word: elvan
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: Of a substance, slightly sticky.
     example: This paint isn't dry yet; it's still a bit tacky.
+prev_word: tacks
+next_word: tacos
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

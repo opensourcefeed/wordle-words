@@ -39,4 +39,15 @@ definitions:
       States, having deeply furrowed bark, pinnately compound leaves, and edible nuts.
   - text: A smooth, thin-shelled, edible oval nut of this tree.
   - text: A half of the edible portion of the inside of this nut.
+prev_word: pebas
+next_word: pechs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

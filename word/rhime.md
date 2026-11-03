@@ -26,4 +26,15 @@ neighbours:
 - rhyme
 - rheme
 - rhine
+prev_word: rhies
+next_word: rhine
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/rh/"
+  label: Starting with RH
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

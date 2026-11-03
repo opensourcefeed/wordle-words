@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 42
 anagrams:
 - unagi
+prev_word: nigre
+next_word: nihil
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ua/"
+  label: Ending in UA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -20,4 +20,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 88
+prev_word: mbret
+next_word: mbuga
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -29,4 +29,13 @@ neighbours:
 - pries
 anagrams:
 - preif
+prev_word: pried
+next_word: prier
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

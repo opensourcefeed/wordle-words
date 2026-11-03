@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A rich stew or ragout, especially of game.
+prev_word: sally
+next_word: salol
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/mi/"
+  label: Ending in MI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

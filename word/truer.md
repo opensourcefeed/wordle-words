@@ -54,4 +54,15 @@ definitions:
   - text: Fair, unbiased, not loaded.
   - text: "(Of a literary genre) based on actual historical events."
     example: true crime
+prev_word: trued
+next_word: trues
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

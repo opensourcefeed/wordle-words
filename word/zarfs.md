@@ -26,4 +26,15 @@ neighbours:
 - larfs
 - zaris
 - zurfs
+prev_word: zarda
+next_word: zaris
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

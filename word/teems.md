@@ -62,4 +62,15 @@ definitions:
 - pos: verb
   defs:
   - text: To think fit.
+prev_word: teels
+next_word: teend
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: The back; the dorsal aspect of the thorax in insects.
+prev_word: notes
+next_word: nougs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

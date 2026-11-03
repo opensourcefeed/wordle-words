@@ -25,4 +25,15 @@ anagrams:
 - marsh
 - harms
 - mahrs
+prev_word: ramse
+next_word: ramus
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

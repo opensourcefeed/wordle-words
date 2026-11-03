@@ -25,4 +25,15 @@ neighbours:
 - duomo
 anagrams:
 - odium
+prev_word: dunts
+next_word: duomo
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/mi/"
+  label: Ending in MI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

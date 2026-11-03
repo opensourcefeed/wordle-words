@@ -41,4 +41,15 @@ definitions:
   - text: To reveal (a secret).
     example: A Brazilian company outed the new mobile phone design.
   - text: To come or go out; to get out or away; to become public or apparent.
+prev_word: outdo
+next_word: outen
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

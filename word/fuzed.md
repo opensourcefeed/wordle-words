@@ -36,4 +36,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Being equipped with a fuze
+prev_word: futon
+next_word: fuzee
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

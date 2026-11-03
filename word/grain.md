@@ -83,4 +83,15 @@ definitions:
   - text: "(tanning) To remove the hair or fat from a skin."
   - text: "(tanning) To soften leather."
   - text: To yield fruit.
+prev_word: grail
+next_word: graip
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -31,4 +31,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Mad; crazy
+prev_word: bergs
+next_word: berks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

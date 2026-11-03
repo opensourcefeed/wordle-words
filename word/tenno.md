@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: The emperor of Japan as her head of state and the head of the Japanese imperial
       family.
+prev_word: tenne
+next_word: tenny
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

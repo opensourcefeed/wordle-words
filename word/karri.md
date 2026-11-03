@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: The tree Eucalyptus diversicolor, native to south-western Western Australia.
   - text: The hard timber of the karri tree.
+prev_word: karos
+next_word: karst
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

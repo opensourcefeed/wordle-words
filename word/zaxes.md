@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: A tool, similar to a hatchet, used to prepare slate for roofing.
+prev_word: zawns
+next_word: zayde
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

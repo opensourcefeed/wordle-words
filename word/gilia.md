@@ -26,4 +26,15 @@ neighbours:
 - cilia
 - galia
 - milia
+prev_word: gilet
+next_word: gills
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

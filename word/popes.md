@@ -73,4 +73,15 @@ definitions:
   defs:
   - text: The whippoorwill (Caprimulgus vociferus).
   - text: The nighthawk (Chordeiles minor).
+prev_word: poovy
+next_word: popia
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

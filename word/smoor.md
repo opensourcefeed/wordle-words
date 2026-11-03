@@ -32,4 +32,15 @@ definitions:
 - pos: verb
   defs:
   - text: To suffocate or smother.
+prev_word: smolt
+next_word: smoot
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

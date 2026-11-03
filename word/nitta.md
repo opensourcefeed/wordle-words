@@ -35,4 +35,15 @@ anagrams:
 - taint
 - titan
 - tanti
+prev_word: nitry
+next_word: nitto
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

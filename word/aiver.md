@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _IVER
   count: 11
+prev_word: aitus
+next_word: aixes
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

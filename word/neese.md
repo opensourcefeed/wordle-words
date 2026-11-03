@@ -25,4 +25,15 @@ neighbours:
 - leese
 - neele
 - neeze
+prev_word: neeps
+next_word: neeze
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

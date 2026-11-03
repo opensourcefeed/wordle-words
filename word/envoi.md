@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A short stanza at the end of a poem, used either to address a person or
       to comment on the preceding body of the poem.
+prev_word: enurn
+next_word: envoy
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/oi/"
+  label: Ending in OI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

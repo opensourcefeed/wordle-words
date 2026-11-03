@@ -53,4 +53,15 @@ definitions:
     example: Don't ask them to the wedding.
   - text: To publish in church for marriage; said of both the banns and the persons.
   - text: To take (a person's situation) as an example.
+prev_word: askar
+next_word: asker
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

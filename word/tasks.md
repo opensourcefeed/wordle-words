@@ -49,4 +49,15 @@ definitions:
     example: On my first day in the office, I was tasked with sorting a pile of invoices.
   - text: To oppress with severe or excessive burdens; to tax.
   - text: To charge, as with a fault.
+prev_word: tases
+next_word: tassa
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _EERS
   count: 10
+prev_word: meeps
+next_word: meets
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

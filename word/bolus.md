@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: To take a dose of insulin at a mealtime in order to control one's blood
       glucose level in diabetes.
+prev_word: bolts
+next_word: bomas
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

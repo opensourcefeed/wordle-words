@@ -52,4 +52,15 @@ definitions:
   - text: To make into a frill.
   - text: To become wrinkled.
   - text: To provide or decorate with a frill or frills; to turn back in crimped plaits.
+prev_word: frigs
+next_word: frise
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

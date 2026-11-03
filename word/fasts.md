@@ -54,4 +54,15 @@ definitions:
       other things, in various manners (totally, temporally, by avoiding particular
       items), often for religious or medical reasons.
     example: Muslims fast during Ramadan and Catholics during Lent.
+prev_word: fasti
+next_word: fatal
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

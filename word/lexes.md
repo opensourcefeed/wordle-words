@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _EXES
   count: 11
+prev_word: lewis
+next_word: lexis
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -34,4 +34,15 @@ definitions:
       requisite qualities for political or military success; vitality, determination;
       power.'
   - text: Moral worth; virtue, virtuousness.
+prev_word: virls
+next_word: virus
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/tu/"
+  label: Ending in TU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

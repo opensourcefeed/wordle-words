@@ -21,4 +21,13 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 92
+prev_word: jewie
+next_word: jheel
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

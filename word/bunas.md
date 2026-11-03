@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _UNAS
   count: 6
+prev_word: bumpy
+next_word: bunce
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

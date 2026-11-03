@@ -39,4 +39,15 @@ definitions:
   - text: A board game invented by George Howard Monks in which the players' men jump
       over those in adjacent squares.
   - text: In the Greek pentathlon, the long jump with weights in the hands.
+prev_word: halls
+next_word: halms
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

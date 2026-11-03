@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: A spicy noodle stew from Indonesia or Malaysia.
+prev_word: lakin
+next_word: laldy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -27,4 +27,15 @@ neighbours:
 - allin
 anagrams:
 - nalla
+prev_word: alkyl
+next_word: allay
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

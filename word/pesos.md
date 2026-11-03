@@ -42,4 +42,15 @@ definitions:
       the Spanish dollar.
   - text: The currency of various countries, including but not limited to Argentina,
       Chile, Mexico and the Philippines.
+prev_word: pesky
+next_word: pesta
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

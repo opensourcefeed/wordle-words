@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A church.
+prev_word: kirby
+next_word: kirns
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

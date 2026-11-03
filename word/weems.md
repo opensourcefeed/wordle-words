@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: WEE_S
   count: 8
+prev_word: weels
+next_word: weens
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

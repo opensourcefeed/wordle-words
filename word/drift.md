@@ -70,4 +70,15 @@ definitions:
   - text: To enlarge or shape, as a hole, with a drift.
   - text: To oversteer a vehicle, causing loss of traction, while maintaining control
       from entry to exit of a corner. See Drifting (motorsport).
+prev_word: dries
+next_word: drill
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

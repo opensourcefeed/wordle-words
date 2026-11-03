@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To microphone; to place one or more microphones (mikes) on.
   - text: To measure using a micrometer.
+prev_word: mikan
+next_word: mikes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

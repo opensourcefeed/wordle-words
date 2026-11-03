@@ -47,4 +47,15 @@ definitions:
   - text: To develop a crick (cramp, spasm).
   - text: To cause to develop a crick; to create a crick in.
   - text: To twist, bend, or contort, especially in a way that produces strain.
+prev_word: cribs
+next_word: cried
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

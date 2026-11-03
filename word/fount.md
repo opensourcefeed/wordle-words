@@ -36,4 +36,15 @@ definitions:
   - text: A device from which poultry may drink.
   - text: That from which something flows or proceeds; a source.
     example: He is a real fount of knowledge!
+prev_word: found
+next_word: fours
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

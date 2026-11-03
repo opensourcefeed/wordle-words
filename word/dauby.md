@@ -23,4 +23,15 @@ neighbours:
 - daube
 - daubs
 - mauby
+prev_word: daubs
+next_word: dauds
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

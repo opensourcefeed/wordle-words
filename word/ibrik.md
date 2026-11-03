@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 92
 anagrams:
 - briki
+prev_word: iambs
+next_word: icers
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

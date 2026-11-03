@@ -115,4 +115,15 @@ definitions:
 - pos: noun
   defs:
   - text: A beatnik.
+prev_word: beath
+next_word: beaty
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

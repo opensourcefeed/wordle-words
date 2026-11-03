@@ -24,4 +24,13 @@ anagrams:
 - andic
 - canid
 - nicad
+prev_word: clype
+next_word: coach
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

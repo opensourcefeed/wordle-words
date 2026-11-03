@@ -72,4 +72,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of a reddish pink colour.
+prev_word: roufs
+next_word: rough
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

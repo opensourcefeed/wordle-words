@@ -55,4 +55,15 @@ definitions:
     example: The deposit is caved by knocking out the posts.
   - text: To work over tailings to dress small pieces of marketable ore.
   - text: To dwell in a cave.
+prev_word: cavas
+next_word: cavel
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

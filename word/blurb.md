@@ -38,4 +38,13 @@ definitions:
   defs:
   - text: To write or quote in a blurb.
   - text: To supply with a blurb.
+prev_word: blunt
+next_word: blurs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

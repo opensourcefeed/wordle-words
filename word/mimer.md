@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: MI_ER
   count: 6
+prev_word: mimeo
+next_word: mimes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

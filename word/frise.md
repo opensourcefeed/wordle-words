@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _RISE
   count: 6
+prev_word: frill
+next_word: frisk
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

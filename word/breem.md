@@ -30,4 +30,15 @@ anagrams:
 - ember
 - berme
 - breme
+prev_word: breed
+next_word: breer
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

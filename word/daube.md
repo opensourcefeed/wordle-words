@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A stew of braised meat, usually beef.
+prev_word: datum
+next_word: daubs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

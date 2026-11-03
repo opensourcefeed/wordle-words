@@ -26,4 +26,13 @@ neighbours:
 - kibes
 anagrams:
 - bikie
+prev_word: kibbi
+next_word: kibes
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

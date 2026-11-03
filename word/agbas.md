@@ -26,4 +26,15 @@ neighbours:
 - agmas
 - albas
 - arbas
+prev_word: agaze
+next_word: agene
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

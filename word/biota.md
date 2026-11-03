@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: The living organisms of a region.
   - text: Platycladus orientalis (syn. Biota orientalis, Oriental arborvitae).
+prev_word: biose
+next_word: biped
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

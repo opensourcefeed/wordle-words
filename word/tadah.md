@@ -23,4 +23,15 @@ stats:
 neighbours:
 - dadah
 - tavah
+prev_word: tacts
+next_word: taels
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

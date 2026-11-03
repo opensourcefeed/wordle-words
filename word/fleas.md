@@ -51,4 +51,15 @@ definitions:
 - pos: verb
   defs:
   - text: To remove fleas from (an animal).
+prev_word: fleam
+next_word: fleck
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

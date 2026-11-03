@@ -35,4 +35,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(usually imperative) to delete"
+prev_word: delay
+next_word: deles
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

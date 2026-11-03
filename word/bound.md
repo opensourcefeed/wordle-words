@@ -84,4 +84,15 @@ definitions:
   - text: Constipated; costive.
   - text: Confined or restricted to a certain place; e.g. railbound.
   - text: Unable to move in certain conditions; e.g. snowbound.
+prev_word: boult
+next_word: bouns
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

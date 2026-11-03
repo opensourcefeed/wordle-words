@@ -60,4 +60,15 @@ definitions:
     example: Dorothy Day was a living saint.
   - text: One of the blessed in heaven.
   - text: A holy object.
+prev_word: sains
+next_word: sairs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -43,4 +43,15 @@ definitions:
   - text: Legitimately; within the law.
   - text: Honestly; truly; seriously.
     example: He legit thinks he can pass the test on zero sleep.
+prev_word: leggy
+next_word: legno
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

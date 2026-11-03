@@ -50,4 +50,15 @@ definitions:
   - text: The comber, a fish of the species Serranus cabrilla.
   - text: The fish Champsodon capensis
   - text: An inexperienced skier.
+prev_word: gaped
+next_word: gapes
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

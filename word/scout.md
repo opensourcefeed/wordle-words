@@ -62,4 +62,15 @@ definitions:
   - text: To explore a wide terrain, as if on a search; to reconnoiter.
   - text: To observe, watch, or look for, as a scout; to follow for the purpose of
       observation, as a scout.
+prev_word: scour
+next_word: scowl
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

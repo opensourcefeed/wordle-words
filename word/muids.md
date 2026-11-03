@@ -29,4 +29,15 @@ neighbours:
 - munds
 - quids
 - suids
+prev_word: muhly
+next_word: muils
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

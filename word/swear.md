@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: To take an oath, to promise.
   - text: To use offensive, profane, or obscene language.
+prev_word: sweal
+next_word: sweat
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

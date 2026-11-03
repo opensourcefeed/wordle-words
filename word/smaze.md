@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: Smoky haze in the air.
+prev_word: smash
+next_word: smear
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

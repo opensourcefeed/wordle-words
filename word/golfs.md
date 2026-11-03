@@ -40,4 +40,15 @@ definitions:
   - text: To play the game of golf.
   - text: To write something in as few characters as possible (e.g. in code golf,
       regex golf)
+prev_word: goles
+next_word: golly
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

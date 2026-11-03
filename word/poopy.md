@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: POO_Y
   count: 8
+prev_word: poops
+next_word: poori
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

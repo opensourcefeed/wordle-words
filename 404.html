@@ -6,84 +6,19 @@ sitemap: false
 ---
 
 <div class="intro not-found">
-  <h1 id="nf-title">Page not found</h1>
-  <p id="nf-result" class="result">The page you asked for doesn't exist.</p>
-  <div id="nf-suggest"></div>
+  <h1 id="checker-title">Page not found</h1>
+  <p id="checker-result" class="result" aria-live="polite">The page you asked for doesn't exist.</p>
+  <div id="checker-suggest"></div>
 
-  <form id="nf-form" role="search">
-    <label for="nf-input" class="visually-hidden">Check a word</label>
-    <input id="nf-input" class="form-control" type="text" maxlength="15" autocomplete="off"
+  <form class="checker" role="search" data-checker data-from-path
+    data-words="{{ '/assets/words.json' | relative_url }}" data-base="{{ '/word/' | relative_url }}">
+    <label for="checker-input" class="visually-hidden">Check a word</label>
+    <input id="checker-input" class="form-control" type="text" maxlength="15" autocomplete="off"
       placeholder="Is it a Wordle word?" autocapitalize="none" spellcheck="false">
     <button class="btn btn-primary" type="submit">Check</button>
   </form>
 
-  <p><a href="{{ '/' | relative_url }}">Browse all Wordle words</a></p>
+  <p><a href="{{ '/' | relative_url }}">Check a word</a> · <a href="{{ '/browse/' | relative_url }}">Browse all Wordle words</a></p>
 </div>
 
-<script>
-(function () {
-  const base = {{ '/word/' | relative_url | jsonify }};
-  const result = document.getElementById('nf-result');
-  const title = document.getElementById('nf-title');
-  const suggest = document.getElementById('nf-suggest');
-  const esc = s => s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  let words = null;
-
-  function load() {
-    if (!words) {
-      words = fetch({{ '/assets/words.json' | relative_url | jsonify }})
-        .then(r => r.json())
-        .then(list => new Set(list.map(String)));
-    }
-    return words;
-  }
-
-  // Valid words that differ from `w` by exactly one letter.
-  function neighbours(w, set) {
-    const out = [];
-    for (let i = 0; i < 5; i++) {
-      for (const c of 'abcdefghijklmnopqrstuvwxyz') {
-        const n = w.slice(0, i) + c + w.slice(i + 1);
-        if (n !== w && set.has(n)) out.push(n);
-      }
-    }
-    return out.slice(0, 12);
-  }
-
-  function check(raw) {
-    const w = raw.trim().toLowerCase();
-    if (!w) return;
-    load().then(set => {
-      const W = esc(w.toUpperCase());
-      suggest.innerHTML = '';
-      if (set.has(w)) {
-        title.textContent = 'Yes, ' + w.toUpperCase() + ' is a Wordle word';
-        result.innerHTML = '<a href="' + base + w + '">See ' + W + ' – meaning and Wordle stats</a>';
-        return;
-      }
-      title.textContent = 'Is ' + w.toUpperCase() + ' a Wordle word?';
-      if (!/^[a-z]+$/.test(w)) {
-        result.innerHTML = '<strong>No.</strong> Wordle words use only the letters A to Z.';
-      } else if (w.length !== 5) {
-        result.innerHTML = '<strong>No.</strong> ' + W + ' has ' + w.length + ' letters, and Wordle only accepts 5-letter words.';
-      } else {
-        result.innerHTML = '<strong>No.</strong> ' + W + ' is not in the list of words Wordle accepts.';
-        const near = neighbours(w, set);
-        if (near.length) {
-          suggest.innerHTML = '<p>Valid words one letter away:</p><ul class="word-chips" style="justify-content:center">' +
-            near.map(n => '<li><a href="' + base + n + '">' + n.toUpperCase() + '</a></li>').join('') + '</ul>';
-        }
-      }
-    });
-  }
-
-  // /wordle-words/word/xyzzq → check "xyzzq"
-  const m = location.pathname.match(/\/word\/([^/]+?)(?:\.html)?\/?$/);
-  if (m) check(decodeURIComponent(m[1]));
-
-  document.getElementById('nf-form').addEventListener('submit', e => {
-    e.preventDefault();
-    check(document.getElementById('nf-input').value);
-  });
-})();
-</script>
+<script src="{{ '/assets/checker.js' | relative_url }}" defer></script>

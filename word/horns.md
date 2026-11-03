@@ -74,4 +74,15 @@ definitions:
   - text: "(of an animal) To assault with the horns."
   - text: To furnish with horns.
   - text: To cuckold.
+prev_word: horme
+next_word: horny
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

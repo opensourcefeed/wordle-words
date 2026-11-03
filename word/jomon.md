@@ -23,4 +23,15 @@ stats:
 neighbours:
 - jamon
 - jomos
+prev_word: jolty
+next_word: jomos
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

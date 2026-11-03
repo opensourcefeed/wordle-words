@@ -58,4 +58,15 @@ definitions:
   - text: To run down or gutter, as a candle.
   - text: To hang or flap down.
   - text: To wash.
+prev_word: laver
+next_word: lavra
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

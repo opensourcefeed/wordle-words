@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: PER_S
   count: 11
+prev_word: perne
+next_word: perog
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

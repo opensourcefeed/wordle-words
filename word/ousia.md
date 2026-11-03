@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 15
 neighbours:
 - ossia
+prev_word: ousel
+next_word: ousts
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

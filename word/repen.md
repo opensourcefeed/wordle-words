@@ -31,4 +31,15 @@ anagrams:
 - preen
 - neper
 - perne
+prev_word: repel
+next_word: repin
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

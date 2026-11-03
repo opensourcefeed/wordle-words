@@ -24,4 +24,15 @@ neighbours:
 - naams
 anagrams:
 - mynas
+prev_word: nyala
+next_word: nying
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ny/"
+  label: Starting with NY
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

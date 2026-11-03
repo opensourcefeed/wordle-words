@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: To insert mortar between tiles.
     example: I spent the whole afternoon grouting the kitchen floor.
+prev_word: group
+next_word: grove
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

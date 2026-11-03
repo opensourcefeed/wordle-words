@@ -44,4 +44,15 @@ definitions:
   - text: "(of a pun) Funny."
   - text: Involving the use of a pun.
   - text: "(of a person) Who makes puns."
+prev_word: punky
+next_word: punto
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

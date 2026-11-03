@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 26
 neighbours:
 - rigor
+prev_word: rigmo
+next_word: rigor
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

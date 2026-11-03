@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - baron
 - aborn
+prev_word: borms
+next_word: borne
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

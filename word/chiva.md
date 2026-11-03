@@ -29,4 +29,15 @@ neighbours:
 - chivs
 - chivy
 - shiva
+prev_word: chits
+next_word: chive
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/va/"
+  label: Ending in VA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

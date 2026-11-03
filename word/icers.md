@@ -32,4 +32,15 @@ anagrams:
 - rices
 - scire
 - seric
+prev_word: ibrik
+next_word: iched
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/ic/"
+  label: Starting with IC
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _INGY
   count: 8
+prev_word: lings
+next_word: linin
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

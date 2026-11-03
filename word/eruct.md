@@ -36,4 +36,15 @@ definitions:
 - pos: verb
   defs:
   - text: To burp or belch.
+prev_word: erses
+next_word: erugo
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

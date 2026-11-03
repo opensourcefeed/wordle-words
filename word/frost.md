@@ -54,4 +54,15 @@ definitions:
     example: I think the boss's decision frosted him a bit.
   - text: To sharpen (the points of a horse's shoe) to prevent it from slipping on
       ice.
+prev_word: frosh
+next_word: froth
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

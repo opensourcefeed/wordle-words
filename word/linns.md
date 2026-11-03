@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A waterfall or cataract, or a ravine down which its water rushes.
+prev_word: linky
+next_word: linny
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

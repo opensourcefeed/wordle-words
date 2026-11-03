@@ -27,4 +27,15 @@ neighbours:
 - cleep
 anagrams:
 - peple
+prev_word: pleck
+next_word: plein
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ep/"
+  label: Ending in EP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

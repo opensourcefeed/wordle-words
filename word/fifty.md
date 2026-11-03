@@ -41,4 +41,15 @@ definitions:
 - pos: numeral
   defs:
   - text: The cardinal number occurring after forty-nine and before fifty-one.
+prev_word: fifth
+next_word: figgy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

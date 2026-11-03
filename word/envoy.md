@@ -39,4 +39,15 @@ definitions:
   - text: A representative.
   - text: A diplomat.
   - text: A messenger.
+prev_word: envoi
+next_word: enzym
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/oy/"
+  label: Ending in OY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

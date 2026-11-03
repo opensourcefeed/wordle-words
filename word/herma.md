@@ -27,4 +27,15 @@ neighbours:
 - kerma
 anagrams:
 - harem
+prev_word: herls
+next_word: herms
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -18,4 +18,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 47
+prev_word: sents
+next_word: senza
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

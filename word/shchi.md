@@ -24,4 +24,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of soup from Russia made from cabbage.
+prev_word: shays
+next_word: sheaf
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

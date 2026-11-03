@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A region or province in Russia (край).
+prev_word: kraft
+next_word: krait
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

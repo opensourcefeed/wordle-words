@@ -24,4 +24,15 @@ neighbours:
 - pical
 - pikul
 - pipul
+prev_word: picra
+next_word: piece
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

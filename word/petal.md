@@ -50,4 +50,15 @@ definitions:
       but not necessarily only, when the corolla consists of separate parts, that
       is when the petals are not connately fused. Petals are often brightly colored.
   - text: Term of endearment.
+prev_word: pesty
+next_word: petar
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

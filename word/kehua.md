@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 33
 neighbours:
 - lehua
+prev_word: kefir
+next_word: keirs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ua/"
+  label: Ending in UA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -23,4 +23,15 @@ neighbours:
 - nonce
 - nonny
 - poncy
+prev_word: nonce
+next_word: nonda
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

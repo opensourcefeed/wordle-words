@@ -41,4 +41,15 @@ definitions:
   - text: Mildly insane or eccentric; often, senile.
     example: My nan has got dottier and dottier since passing the age of eighty.
   - text: Having an unsteady gait.
+prev_word: dotes
+next_word: douar
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

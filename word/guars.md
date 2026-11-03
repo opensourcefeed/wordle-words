@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: An annual legume (Cyamopsis tetragonoloba), used as a food for cattle and
       humans.
+prev_word: guard
+next_word: guava
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -87,4 +87,15 @@ definitions:
     example: That new movie was chill, man.
   - text: Okay, not a problem.
     example: '"Sorry about that." "It''s chill."'
+prev_word: chili
+next_word: chimb
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

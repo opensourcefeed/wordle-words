@@ -26,4 +26,15 @@ stats:
 neighbours:
 - podia
 - poppa
+prev_word: popes
+next_word: popos
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

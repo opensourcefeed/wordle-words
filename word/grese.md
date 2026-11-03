@@ -34,4 +34,15 @@ anagrams:
 - grees
 - reges
 - serge
+prev_word: greps
+next_word: greve
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -31,4 +31,13 @@ definitions:
   - text: The anniversary of the day on which something is created.
   - text: The date on which someone is born or something is created, more commonly
       called birthdate or date of birth.
+prev_word: bball
+next_word: beach
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

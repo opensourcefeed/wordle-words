@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: An assistant.
   - text: An officer who acts as assistant to a more senior one; an aide-de-camp.
+prev_word: aider
+next_word: aidoi
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

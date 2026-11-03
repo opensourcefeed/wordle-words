@@ -38,4 +38,15 @@ definitions:
   - text: Of or pertaining to slime
   - text: Resembling, of the nature of, covered or daubed with, or abounding in slime
   - text: Friendly in a false, calculating way; underhanded; sneaky; slick; smarmy.
+prev_word: slims
+next_word: sling
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

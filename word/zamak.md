@@ -27,4 +27,15 @@ neighbours:
 - zaman
 anagrams:
 - mazak
+prev_word: zamac
+next_word: zaman
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

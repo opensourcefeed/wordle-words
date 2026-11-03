@@ -27,4 +27,15 @@ definitions:
   - text: Wine produced from a mixture of several grape varieties.
   - text: "(especially of champagne) The first (and highest quality) grape juice to
       be produced, from a given batch of gently pressed grapes."
+prev_word: cutup
+next_word: cuzes
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -31,4 +31,13 @@ definitions:
   defs:
   - text: A subjective aesthetic quality of out-of-focus areas of an image projected
       by a camera lens.
+prev_word: boked
+next_word: bokes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

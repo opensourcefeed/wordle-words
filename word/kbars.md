@@ -29,4 +29,13 @@ anagrams:
 - barks
 - braks
 - krabs
+prev_word: kazoo
+next_word: kcals
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

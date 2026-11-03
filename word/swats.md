@@ -53,4 +53,15 @@ definitions:
 - pos: verb
   defs:
   - text: To illegitimately provoke a SWAT assault upon (someone).
+prev_word: swath
+next_word: swayl
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -28,4 +28,15 @@ neighbours:
 - lotte
 - motte
 - rotte
+prev_word: hotly
+next_word: hotty
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

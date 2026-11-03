@@ -42,4 +42,15 @@ definitions:
   - text: To kill.
   - text: To be subdued or abated; to diminish.
   - text: To die.
+prev_word: queer
+next_word: queme
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

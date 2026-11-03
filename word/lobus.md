@@ -29,4 +29,15 @@ neighbours:
 - zobus
 anagrams:
 - bolus
+prev_word: lobos
+next_word: local
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

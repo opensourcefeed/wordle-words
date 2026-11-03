@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: Energetic and lively.
   - text: Quick, speedy.
+prev_word: zippo
+next_word: ziram
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

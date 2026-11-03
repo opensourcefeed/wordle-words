@@ -28,4 +28,13 @@ definitions:
 - pos: noun
   defs:
   - text: Edible kelp (from the class Phaeophyceae) used in East Asian cuisine.
+prev_word: kombi
+next_word: konbu
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

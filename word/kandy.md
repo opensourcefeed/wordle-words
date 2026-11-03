@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _ANDY
   count: 11
+prev_word: kanat
+next_word: kaneh
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

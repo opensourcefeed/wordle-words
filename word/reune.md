@@ -28,4 +28,15 @@ neighbours:
 - renne
 anagrams:
 - enure
+prev_word: retry
+next_word: reups
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

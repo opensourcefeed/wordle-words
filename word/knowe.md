@@ -27,4 +27,13 @@ neighbours:
 - knows
 anagrams:
 - woken
+prev_word: knowd
+next_word: known
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

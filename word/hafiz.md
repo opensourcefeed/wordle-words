@@ -27,4 +27,13 @@ definitions:
 - pos: noun
   defs:
   - text: A Muslim who has memorized the whole Qur'an
+prev_word: haffs
+next_word: hafta
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

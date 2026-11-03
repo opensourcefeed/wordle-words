@@ -52,4 +52,15 @@ definitions:
   - text: Any of several flat-bottomed sailing boats used for fishing or for carrying
       bulk goods.
   - text: Troll.
+prev_word: trove
+next_word: troys
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

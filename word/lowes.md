@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: A flame; fire; blaze.
+prev_word: lower
+next_word: lowly
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

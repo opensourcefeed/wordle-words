@@ -90,4 +90,15 @@ definitions:
 - pos: noun
   defs:
   - text: A fog or mist at sea, or coming inland from the sea.
+prev_word: fresh
+next_word: friar
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -23,4 +23,13 @@ neighbours:
 - kombu
 anagrams:
 - bunko
+prev_word: kombu
+next_word: kondo
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

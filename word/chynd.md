@@ -16,4 +16,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 85
+prev_word: chyme
+next_word: cibol
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -52,4 +52,15 @@ definitions:
   - text: To render (a ballot paper) invalid by deliberately defacing it.
   - text: To reveal the ending or major events of (a story etc.); to ruin (a surprise)
       by exposing it ahead of time.
+prev_word: spods
+next_word: spoke
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

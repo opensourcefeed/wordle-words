@@ -28,4 +28,15 @@ anagrams:
 - perts
 - prest
 - strep
+prev_word: persp
+next_word: perts
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

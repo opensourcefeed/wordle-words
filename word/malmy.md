@@ -31,4 +31,15 @@ neighbours:
 - palmy
 anagrams:
 - lammy
+prev_word: malms
+next_word: malts
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

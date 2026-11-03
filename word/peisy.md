@@ -26,4 +26,15 @@ neighbours:
 - pensy
 anagrams:
 - yipes
+prev_word: peise
+next_word: peize
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

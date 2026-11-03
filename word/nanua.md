@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 93
 neighbours:
 - nanna
+prev_word: nanty
+next_word: napas
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ua/"
+  label: Ending in UA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

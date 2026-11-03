@@ -51,4 +51,15 @@ definitions:
 - pos: verb
   defs:
   - text: To apply a parge on to a surface.
+prev_word: parev
+next_word: pargo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

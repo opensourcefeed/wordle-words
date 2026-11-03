@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A marinade made from various aromatic spices usually with a yoghurt base;
       often used in Indian cuisine prior to grilling in a tandoor.
+prev_word: tikis
+next_word: tilak
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

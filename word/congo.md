@@ -31,4 +31,15 @@ neighbours:
 - songo
 anagrams:
 - cogon
+prev_word: conge
+next_word: conia
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

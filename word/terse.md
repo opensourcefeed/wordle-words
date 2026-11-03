@@ -54,4 +54,15 @@ definitions:
   - text: "(by extension) Of speech or style: brief, concise, to the point."
   - text: "(by extension) Of manner or speech: abruptly or brusquely short; curt."
   - text: Burnished, polished; fine, smooth; neat, spruce.
+prev_word: terry
+next_word: terts
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

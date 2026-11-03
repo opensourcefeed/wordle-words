@@ -26,4 +26,15 @@ neighbours:
 - unsee
 anagrams:
 - seine
+prev_word: inrun
+next_word: inset
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -28,4 +28,11 @@ definitions:
 - pos: noun
   defs:
   - text: One with an obsessive interest in something, particularly anime or manga.
+prev_word: ostia
+next_word: otary
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

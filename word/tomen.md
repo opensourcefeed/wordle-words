@@ -32,4 +32,15 @@ anagrams:
 - mento
 - monte
 - moten
+prev_word: tombs
+next_word: tomes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

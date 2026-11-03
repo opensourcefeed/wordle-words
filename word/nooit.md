@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 65
 neighbours:
 - noois
+prev_word: noois
+next_word: nooks
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

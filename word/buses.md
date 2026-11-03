@@ -56,4 +56,15 @@ definitions:
   - text: "(food service) To work at clearing the remains of meals from tables or
       counters; to work as a busboy."
     example: He’s been bussing for minimum wage.
+prev_word: bused
+next_word: bushy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

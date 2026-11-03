@@ -49,4 +49,15 @@ definitions:
   - text: The system of ownership by which such condominiums operate
   - text: A unit or apartment in such a complex.
   - text: The legal tenure involved.
+prev_word: conch
+next_word: coned
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

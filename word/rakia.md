@@ -27,4 +27,15 @@ neighbours:
 - sakia
 anagrams:
 - karai
+prev_word: rakhi
+next_word: rakis
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

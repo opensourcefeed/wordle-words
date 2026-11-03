@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _OGUE
   count: 7
+prev_word: toges
+next_word: tohos
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

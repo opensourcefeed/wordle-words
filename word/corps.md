@@ -46,4 +46,15 @@ definitions:
   - text: A battlefield formation composed of two or more divisions.
   - text: An organized group of people united by a common purpose.
     example: White House press corps
+prev_word: corny
+next_word: corse
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

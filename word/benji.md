@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 64
 neighbours:
 - benni
+prev_word: benis
+next_word: benne
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ji/"
+  label: Ending in JI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

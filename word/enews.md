@@ -26,4 +26,15 @@ anagrams:
 - ensew
 - sewen
 - weens
+prev_word: enemy
+next_word: enfix
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

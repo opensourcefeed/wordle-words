@@ -37,4 +37,15 @@ anagrams:
 - heals
 - selah
 - sheal
+prev_word: halos
+next_word: halsh
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

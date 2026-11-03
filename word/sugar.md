@@ -75,4 +75,15 @@ definitions:
   defs:
   - text: Used in place of shit!
     example: Oh, sugar!
+prev_word: sugan
+next_word: sughs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

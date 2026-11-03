@@ -56,4 +56,15 @@ definitions:
   - text: To glut.
   - text: To put flesh on; to fatten.
   - text: To remove the flesh from the skin during the making of leather.
+prev_word: fleme
+next_word: fleur
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

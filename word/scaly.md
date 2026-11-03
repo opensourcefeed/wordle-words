@@ -49,4 +49,15 @@ definitions:
   - text: Resembling scales, laminae, or layers.
   - text: Low, mean.
     example: a scaly fellow
+prev_word: scalp
+next_word: scamp
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

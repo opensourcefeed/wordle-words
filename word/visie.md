@@ -26,4 +26,15 @@ neighbours:
 - visne
 anagrams:
 - ivies
+prev_word: vises
+next_word: visit
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

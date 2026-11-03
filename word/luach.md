@@ -28,4 +28,15 @@ neighbours:
 - ruach
 anagrams:
 - lauch
+prev_word: lozen
+next_word: luaus
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

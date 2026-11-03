@@ -69,4 +69,15 @@ definitions:
       group, exclusive to a center; especially a center of influence being near a
       center especially of influence.
     example: inner circle;  inner council
+prev_word: inned
+next_word: innie
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

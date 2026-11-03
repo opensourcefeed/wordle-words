@@ -117,4 +117,15 @@ definitions:
   defs:
   - text: Of or pertaining to the front cover of a book or magazine.
   - text: Of, pertaining to, or consisting of cover versions.
+prev_word: coven
+next_word: coves
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

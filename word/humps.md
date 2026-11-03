@@ -61,4 +61,15 @@ definitions:
   - text: To prepare for a great exertion; to put forth effort.
   - text: To vex or annoy.
   - text: To shunt wagons / freight cars over the hump in a hump yard.
+prev_word: humph
+next_word: humpy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -94,4 +94,15 @@ definitions:
 - pos: verb
   defs:
   - text: To skip or trip along smartly; to go quickly.
+prev_word: linin
+next_word: linky
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

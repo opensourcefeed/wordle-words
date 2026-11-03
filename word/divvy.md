@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: To divide into portions.
     example: We divvied the money into equal portions to split between us.
+prev_word: divot
+next_word: diwan
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

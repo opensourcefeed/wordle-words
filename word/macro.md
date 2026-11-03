@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of the elements required in large amounts by all living things.
+prev_word: macon
+next_word: macte
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

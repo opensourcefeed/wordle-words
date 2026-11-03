@@ -52,4 +52,15 @@ definitions:
   - text: 'Often in reference to a word or phrase: used so many times that it is commonplace,
       or no longer interesting or effective; worn out, hackneyed.'
   - text: 'So well established as to be beyond debate: trite law.'
+prev_word: trist
+next_word: troad
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

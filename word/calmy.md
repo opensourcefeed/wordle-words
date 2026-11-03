@@ -24,4 +24,15 @@ neighbours:
 - calms
 - malmy
 - palmy
+prev_word: calms
+next_word: calos
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

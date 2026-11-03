@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ALIS
   count: 8
+prev_word: valid
+next_word: valli
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

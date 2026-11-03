@@ -42,4 +42,15 @@ anagrams:
 - rapes
 - reaps
 - repas
+prev_word: apeek
+next_word: apert
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

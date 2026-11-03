@@ -56,4 +56,15 @@ definitions:
   - text: To make the cry of an owl, a hoo.
   - text: To assail with contemptuous cries or shouts; to follow with derisive shouts.
   - text: To sound the horn of a vehicle
+prev_word: hoosh
+next_word: hooty
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

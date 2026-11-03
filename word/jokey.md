@@ -40,4 +40,15 @@ definitions:
 - pos: adjective
   defs:
   - text: In the nature of a joke; jocular
+prev_word: jokes
+next_word: jokol
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

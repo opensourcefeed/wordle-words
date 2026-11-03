@@ -52,4 +52,15 @@ definitions:
       is not true.
   - text: To make up; to devise, and speak of, as true or real; to tell of falsely;
       to recount in the form of a fable.
+prev_word: fabby
+next_word: faced
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

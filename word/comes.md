@@ -73,4 +73,15 @@ definitions:
   - text: "(of grain) To germinate."
   - text: To pretend to be; to behave in the manner of.
     example: Don't come the innocent victim. We all know who's to blame here.
+prev_word: comer
+next_word: comet
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

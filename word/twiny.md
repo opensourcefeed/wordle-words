@@ -32,4 +32,15 @@ definitions:
     example: a plant with a twiny stem
   - text: Made of twine; having the appearance of twine.
   - text: "(North Country) fretful; uneasy"
+prev_word: twins
+next_word: twire
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of stiff, blue clay, sometimes used for making bricks.
+prev_word: gauje
+next_word: gaums
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

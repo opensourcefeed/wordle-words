@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Shaped like an egg.
   - text: "(of leaves) With the broadest extremity near the base."
+prev_word: ovary
+next_word: ovels
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ov/"
+  label: Starting with OV
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

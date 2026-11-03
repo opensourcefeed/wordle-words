@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: Executive, executive officer
+prev_word: exeat
+next_word: exeem
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

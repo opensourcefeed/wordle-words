@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Pertaining to the blood or blood vessels.
   - text: Ventral rather than neural.
+prev_word: helve
+next_word: hemes
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

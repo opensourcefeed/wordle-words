@@ -76,4 +76,15 @@ definitions:
     example: Repeated failures try one's patience.
   - text: "(used with another verb) To want"
     example: I am really not trying to hear you talk about my mama like that.
+prev_word: trier
+next_word: trifa
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

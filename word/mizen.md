@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Mizzenmast.
   - text: A fore-and-aft sail set on a mizzenmast.
+prev_word: miyas
+next_word: mizes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

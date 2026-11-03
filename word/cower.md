@@ -50,4 +50,15 @@ definitions:
       came in and shot him, or until the war was over.
   - text: To crouch in general.
   - text: To cause to cower; to frighten into submission.
+prev_word: cowed
+next_word: cowks
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

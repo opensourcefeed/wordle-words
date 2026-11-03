@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _EELS
   count: 9
+prev_word: jedis
+next_word: jeely
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

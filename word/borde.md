@@ -31,4 +31,15 @@ anagrams:
 - bored
 - orbed
 - robed
+prev_word: borax
+next_word: bords
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

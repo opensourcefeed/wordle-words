@@ -53,4 +53,15 @@ definitions:
   - text: Victuals got by begging, or vagrancy; victuals of any kind; food; supplies.
   - text: A vagrant beggar; a tramp.
   - text: A pointed instrument.
+prev_word: profs
+next_word: proin
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

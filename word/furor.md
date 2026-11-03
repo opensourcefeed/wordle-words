@@ -33,4 +33,15 @@ definitions:
   - text: A general uproar or commotion
   - text: Violent anger or frenzy
   - text: A state of intense excitement
+prev_word: furol
+next_word: furos
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: Sandwich.
+prev_word: sanes
+next_word: sangh
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

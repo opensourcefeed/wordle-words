@@ -24,4 +24,15 @@ neighbours:
 - bousy
 - boyey
 - boyly
+prev_word: boyos
+next_word: bozos
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

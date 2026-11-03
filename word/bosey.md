@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: A googly.
+prev_word: bortz
+next_word: bosie
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -58,4 +58,15 @@ definitions:
 - pos: noun
   defs:
   - text: A hill; a mountain.
+prev_word: reefy
+next_word: reeky
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -44,4 +44,15 @@ definitions:
   - text: Of or relating to musical drama and opera
   - text: Melodious
   - text: Of or relating to the lyre (or sometimes the harp)
+prev_word: lyres
+next_word: lysed
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

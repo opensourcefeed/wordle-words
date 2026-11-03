@@ -47,4 +47,15 @@ definitions:
   - text: A disease characterized by purulent skin eruptions that may leave pockmarks.
   - text: Syphilis.
   - text: A curse.
+prev_word: poxed
+next_word: poyas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ definitions:
   - text: A group or a household dedicated to the pagan faith Heathenry.
   - text: A location or sacred space, in ritual and poetry in modern Heathenry.
   - text: A dam or weir for catching fish.
+prev_word: garri
+next_word: garum
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _AULS
   count: 6
+prev_word: saugh
+next_word: sault
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

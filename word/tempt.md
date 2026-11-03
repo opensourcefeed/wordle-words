@@ -38,4 +38,15 @@ definitions:
     example: Its glossy skin tempted me.
   - text: To provoke something; to court.
     example: It would be tempting fate.
+prev_word: temps
+next_word: temse
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

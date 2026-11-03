@@ -28,4 +28,15 @@ anagrams:
 - plout
 - pluot
 - poult
+prev_word: plute
+next_word: pluty
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

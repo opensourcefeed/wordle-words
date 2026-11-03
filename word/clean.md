@@ -78,4 +78,15 @@ definitions:
   defs:
   - text: Fully and completely.
     example: He was stabbed clean through.
+prev_word: clays
+next_word: clear
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

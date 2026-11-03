@@ -48,4 +48,15 @@ definitions:
   - text: Any of a number of large freshwater sedges of western North America formerly
       classified in the genus Scirpus, but now mostly as Schoenoplectus
   - text: A type of chinook salmon which spawns in the Columbia River basin
+prev_word: tuktu
+next_word: tulip
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

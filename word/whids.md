@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: WHI_S
   count: 10
+prev_word: which
+next_word: whies
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

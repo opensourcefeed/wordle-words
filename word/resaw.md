@@ -35,4 +35,15 @@ anagrams:
 - sware
 - wares
 - wears
+prev_word: resat
+next_word: resay
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/aw/"
+  label: Ending in AW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

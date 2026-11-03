@@ -62,4 +62,15 @@ definitions:
   defs:
   - text: To cut with a laser
   - text: To throw with laser-like precision
+prev_word: lased
+next_word: lases
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

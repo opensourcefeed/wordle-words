@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: VER_E
   count: 6
+prev_word: verst
+next_word: verts
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

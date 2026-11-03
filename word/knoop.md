@@ -22,4 +22,15 @@ stats:
 neighbours:
 - snoop
 - knosp
+prev_word: knoll
+next_word: knops
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

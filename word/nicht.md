@@ -30,4 +30,15 @@ neighbours:
 trap:
   pattern: _ICHT
   count: 6
+prev_word: niche
+next_word: nicks
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

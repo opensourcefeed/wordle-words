@@ -24,4 +24,15 @@ neighbours:
 - ember
 - ameer
 - emmer
+prev_word: emcee
+next_word: emend
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ANTY
   count: 9
+prev_word: rants
+next_word: raped
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

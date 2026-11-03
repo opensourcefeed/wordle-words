@@ -34,4 +34,15 @@ neighbours:
 - grize
 anagrams:
 - birze
+prev_word: britt
+next_word: broad
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

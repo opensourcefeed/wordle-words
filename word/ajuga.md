@@ -29,4 +29,13 @@ definitions:
   defs:
   - text: Any plant in the genus Ajuga, especially the ornamental ground cover Ajuga
       reptans.
+prev_word: ajiva
+next_word: ajupa
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

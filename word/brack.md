@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: Salty or brackish water.
+prev_word: brach
+next_word: bract
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

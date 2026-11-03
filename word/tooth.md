@@ -56,4 +56,15 @@ definitions:
   - text: To indent; to jag.
     example: to tooth a saw
   - text: To lock into each other, like gear wheels.
+prev_word: toons
+next_word: toots
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

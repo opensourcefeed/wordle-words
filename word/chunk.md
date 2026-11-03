@@ -47,4 +47,15 @@ definitions:
   - text: To break into large pieces or chunks.
   - text: To break down (language, etc.) into conceptual pieces of manageable size.
   - text: To throw.
+prev_word: chums
+next_word: churl
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

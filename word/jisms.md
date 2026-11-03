@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: Spirit or energy.
   - text: Semen.
+prev_word: jirre
+next_word: jitis
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

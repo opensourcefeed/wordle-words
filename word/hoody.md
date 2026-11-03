@@ -57,4 +57,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Characteristic of inner-city life, especially that of crime-ridden ghettos.
+prev_word: hoods
+next_word: hooey
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

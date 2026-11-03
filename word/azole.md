@@ -31,4 +31,15 @@ neighbours:
 - azote
 anagrams:
 - zoeal
+prev_word: azoic
+next_word: azons
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/az/"
+  label: Starting with AZ
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To pin; fasten.
+prev_word: preem
+next_word: prees
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

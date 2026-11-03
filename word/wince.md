@@ -50,4 +50,15 @@ definitions:
   - text: To wash (cloth), dip it in dye, etc., with the use of a wince.
   - text: To kick or flounce when unsteady or impatient.
     example: A horse winces.
+prev_word: wimpy
+next_word: winch
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

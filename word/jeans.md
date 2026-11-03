@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: A pair of trousers made from denim cotton.
     example: Traditionally most jeans are dyed dark blue.
+prev_word: jazzy
+next_word: jeats
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

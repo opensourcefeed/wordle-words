@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: A motherless calf in a range herd of cattle; a calf separated from its cow.
+prev_word: doggy
+next_word: dogly
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

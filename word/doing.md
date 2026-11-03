@@ -96,4 +96,15 @@ definitions:
   defs:
   - text: A deed or action, especially when somebody is held responsible for it.
     example: This is his doing. (= "He did it.")
+prev_word: doily
+next_word: doits
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

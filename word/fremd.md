@@ -21,4 +21,13 @@ stats:
   starter_top_percent: 49
 neighbours:
 - freed
+prev_word: freit
+next_word: frena
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

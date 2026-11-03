@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 95
 neighbours:
 - zebus
+prev_word: zebra
+next_word: zebus
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/ze/"
+  label: Starting with ZE
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

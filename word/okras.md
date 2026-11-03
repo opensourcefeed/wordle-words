@@ -27,4 +27,13 @@ neighbours:
 anagrams:
 - karos
 - koras
+prev_word: okole
+next_word: okrug
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

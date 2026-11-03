@@ -42,4 +42,15 @@ definitions:
 - pos: adjective
   defs:
   - text: 'Filled with doom and gloom: depressing or pessimistic'
+prev_word: dooms
+next_word: doona
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

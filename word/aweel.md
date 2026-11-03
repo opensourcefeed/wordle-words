@@ -25,4 +25,15 @@ stats:
 neighbours:
 - sweel
 - tweel
+prev_word: awdls
+next_word: aweto
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

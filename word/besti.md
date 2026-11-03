@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - besit
 - bites
+prev_word: besot
+next_word: bests
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

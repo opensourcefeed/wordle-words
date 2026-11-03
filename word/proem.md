@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: An introduction, preface or preamble.
+prev_word: prods
+next_word: profs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

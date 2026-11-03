@@ -36,4 +36,15 @@ definitions:
       organism or one cell of a multicelled organism). These structures serve either
       for locomotion by moving or as sensors.
   - text: One of the fine hairs along an insect's wing.
+prev_word: ciggy
+next_word: cills
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

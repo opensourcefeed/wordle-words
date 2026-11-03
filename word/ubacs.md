@@ -29,4 +29,13 @@ definitions:
 - pos: noun
   defs:
   - text: The shady side of a mountain.
+prev_word: tzars
+next_word: ubity
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

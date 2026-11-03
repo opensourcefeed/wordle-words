@@ -26,4 +26,15 @@ neighbours:
 - roost
 - roose
 - rossa
+prev_word: roopy
+next_word: roose
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

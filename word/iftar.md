@@ -33,4 +33,13 @@ definitions:
   defs:
   - text: The evening meal (of dates) that breaks each day's fast during Ramadan.
     example: Iftars can be social events, where people congregate to eat and socialize.
+prev_word: idyls
+next_word: igapo
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -35,4 +35,15 @@ neighbours:
 - wiver
 anagrams:
 - wrier
+prev_word: wired
+next_word: wires
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

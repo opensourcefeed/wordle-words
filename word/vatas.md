@@ -35,4 +35,15 @@ neighbours:
 anagrams:
 - avast
 - tavas
+prev_word: vasty
+next_word: vatha
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

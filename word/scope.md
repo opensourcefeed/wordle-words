@@ -69,4 +69,15 @@ definitions:
     example: The entomologist explained that he could not tell what species of springtail
       we were looking at without scoping it.
   - text: To observe a bird using a spotting scope.
+prev_word: scopa
+next_word: scops
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

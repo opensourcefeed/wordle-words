@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: A public holiday or feast day in Italy, Portugal, etc.
+prev_word: fesse
+next_word: fests
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

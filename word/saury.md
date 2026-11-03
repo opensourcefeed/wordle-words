@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A marine epipelagic fish of the family Scomberesocidae, with beaklike jaws
       and a row of small finlets behind the dorsal and anal fins.
+prev_word: saunt
+next_word: saute
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

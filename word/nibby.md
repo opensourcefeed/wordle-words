@@ -26,4 +26,15 @@ neighbours:
 - nobby
 - nubby
 - ribby
+prev_word: ngwee
+next_word: nicad
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To sweep.
+prev_word: besit
+next_word: besot
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

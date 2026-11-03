@@ -27,4 +27,13 @@ neighbours:
 anagrams:
 - games
 - mages
+prev_word: egger
+next_word: egret
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

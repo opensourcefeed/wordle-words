@@ -48,4 +48,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cause to have great pain or suffering; to torment, to torture.
+prev_word: panga
+next_word: panic
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

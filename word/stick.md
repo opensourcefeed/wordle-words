@@ -61,4 +61,15 @@ definitions:
   - text: To compose; to set, or arrange, in a composing stick.
     example: to stick type
   - text: To furnish or set with sticks.
+prev_word: stich
+next_word: stied
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

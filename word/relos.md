@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: A relative.
+prev_word: rello
+next_word: reman
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

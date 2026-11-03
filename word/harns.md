@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _ARNS
   count: 10
+prev_word: harms
+next_word: haros
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

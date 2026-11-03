@@ -45,4 +45,15 @@ definitions:
   - text: A flat apothecium with no rim.
   - text: A crescent-shaped sheet of microtubules that encircles the base of the flagella
       of a protozoan.
+prev_word: pelsh
+next_word: pelts
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

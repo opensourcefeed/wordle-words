@@ -45,4 +45,15 @@ definitions:
   - text: A young owl; owling.
   - text: One of a species of small owls, such as Athene noctua.
   - text: An owlet moth.
+prev_word: owler
+next_word: owned
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ow/"
+  label: Starting with OW
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

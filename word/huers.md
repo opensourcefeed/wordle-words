@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - usher
 - erhus
+prev_word: hudud
+next_word: huffs
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

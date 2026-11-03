@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _IKES
   count: 11
+prev_word: fiked
+next_word: filar
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

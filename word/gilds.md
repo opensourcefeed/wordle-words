@@ -41,4 +41,15 @@ definitions:
   - text: To decorate with a golden surface appearance.
   - text: To give a bright or pleasing aspect to.
   - text: To make appear drunk.
+prev_word: gilas
+next_word: gilet
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

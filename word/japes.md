@@ -51,4 +51,15 @@ definitions:
   - text: To jest; play tricks.
   - text: To mock; deride.
   - text: To have sexual intercourse with.
+prev_word: japer
+next_word: jarks
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

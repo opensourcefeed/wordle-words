@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To daub, smear, or spread, especially with mud, etc.; to dirty.
+prev_word: claro
+next_word: clary
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

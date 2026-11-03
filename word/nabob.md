@@ -32,4 +32,15 @@ definitions:
   - text: An Indian ruler within the Mogul empire.
   - text: "(by extension) Someone of great wealth or importance."
   - text: "(by extension) A person with a grandiose style or manner."
+prev_word: nabla
+next_word: nache
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ob/"
+  label: Ending in OB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

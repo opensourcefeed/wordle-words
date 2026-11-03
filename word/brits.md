@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: Brit milah
+prev_word: brith
+next_word: britt
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: The crab plover, Dromas ardeola, of North Africa.
+prev_word: droll
+next_word: drone
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

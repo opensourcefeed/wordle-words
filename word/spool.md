@@ -57,4 +57,15 @@ definitions:
   - text: To wind on a spool or spools.
   - text: To send files to a device or a program (a spooler or a daemon that puts
       them in a queue for processing at a later time).
+prev_word: spook
+next_word: spoom
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

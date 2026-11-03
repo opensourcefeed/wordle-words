@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _UNTS
   count: 11
+prev_word: lunks
+next_word: lupin
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -42,4 +42,15 @@ definitions:
   - text: "(originally Japan) Popular entertainer; usually young, captivating, attractive;
       and often female, with an image of being close to fans."
   - text: An eidolon or phantom; something misleading or elusive.
+prev_word: idola
+next_word: idyll
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/id/"
+  label: Starting with ID
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

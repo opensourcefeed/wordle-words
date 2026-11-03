@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _UDDY
   count: 9
+prev_word: pucks
+next_word: pudge
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

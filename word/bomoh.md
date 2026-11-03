@@ -22,4 +22,13 @@ stats:
 neighbours:
 - bodoh
 - bomor
+prev_word: bombs
+next_word: bomor
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

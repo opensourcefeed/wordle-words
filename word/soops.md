@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OOPS
   count: 11
+prev_word: sooms
+next_word: soote
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

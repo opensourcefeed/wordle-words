@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 34
 neighbours:
 - douma
+prev_word: louis
+next_word: lound
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

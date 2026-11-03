@@ -25,4 +25,15 @@ neighbours:
 - speak
 - aleak
 - apeek
+prev_word: apays
+next_word: apeek
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

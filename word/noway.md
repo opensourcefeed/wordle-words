@@ -29,4 +29,15 @@ definitions:
 - pos: adverb
   defs:
   - text: In no manner or degree; not at all; nowise; no way.
+prev_word: novum
+next_word: nowds
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

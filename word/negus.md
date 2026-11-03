@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A drink of wine, lemon, sugar, nutmeg and hot water.
+prev_word: negri
+next_word: neifs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

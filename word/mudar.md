@@ -26,4 +26,15 @@ neighbours:
 - musar
 anagrams:
 - mudra
+prev_word: mucus
+next_word: muddy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

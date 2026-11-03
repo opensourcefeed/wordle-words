@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: To make (a sound) with a tabor.
   - text: To strike lightly and frequently.
+prev_word: taboo
+next_word: tabos
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

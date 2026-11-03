@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: A person who writes poems.
   - text: A person with a creative or romantic imagination.
+prev_word: poete
+next_word: pogey
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

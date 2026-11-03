@@ -30,4 +30,13 @@ definitions:
   - text: A Gypsy.
   - text: An Egyptian.
   - text: Gravy.
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/po/"
+  label: Ending in PO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

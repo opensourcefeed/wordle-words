@@ -26,4 +26,15 @@ definitions:
   defs:
   - text: A road that is not frequently travelled
   - text: "(by extension) an unpopular or arcane field of study"
+prev_word: bytes
+next_word: caaed
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/by/"
+  label: Starting with BY
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

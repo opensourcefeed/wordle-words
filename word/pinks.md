@@ -70,4 +70,15 @@ definitions:
   defs:
   - text: Flowers in the family Caryophyllaceae, sometimes called carnations.
   - text: The traditional scarlet jacket(s) worn by fox-hunters in the United Kingdom.
+prev_word: pinko
+next_word: pinky
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

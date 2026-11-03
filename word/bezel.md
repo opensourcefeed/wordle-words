@@ -41,4 +41,15 @@ definitions:
       each drive bay that can be removed to install a removable drive that requires
       external access, such as a CD/DVD-ROM drive, which usually has its own preinstalled
       bezel.
+prev_word: bewig
+next_word: bezes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

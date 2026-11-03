@@ -28,4 +28,15 @@ neighbours:
 - drent
 - orant
 - trant
+prev_word: drank
+next_word: drape
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

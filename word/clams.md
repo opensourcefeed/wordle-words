@@ -71,4 +71,15 @@ definitions:
   defs:
   - text: To be moist or glutinous; to stick; to adhere.
   - text: To clog, as with glutinous or viscous matter.
+prev_word: clamp
+next_word: clang
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

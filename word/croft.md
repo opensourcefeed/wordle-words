@@ -39,4 +39,15 @@ definitions:
   - text: To do agricultural work on one or more crofts.
   - text: To place (cloth, etc.) on the ground in the open air in order to sun and
       bleach it.
+prev_word: crocs
+next_word: crogs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

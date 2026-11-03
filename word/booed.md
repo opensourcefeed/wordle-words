@@ -47,4 +47,15 @@ definitions:
     example: When he took the podium, the crowd booed.
   - text: To shout extended boos at, as a form of derision.
     example: The protesters loudly booed the visiting senator.
+prev_word: boody
+next_word: boofy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -30,4 +30,15 @@ neighbours:
 - stott
 anagrams:
 - toits
+prev_word: stoic
+next_word: stoke
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

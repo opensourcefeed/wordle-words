@@ -52,4 +52,15 @@ definitions:
       l, L, ℓ'
     example: You should be able to fill four cups with one litre of water.
   - text: A measure of volume equivalent to a litre.
+prev_word: litem
+next_word: lites
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

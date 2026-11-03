@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _AINS
   count: 12
+prev_word: caids
+next_word: caird
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

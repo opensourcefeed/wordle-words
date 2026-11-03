@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 57
 neighbours:
 - piums
+prev_word: pittu
+next_word: piums
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

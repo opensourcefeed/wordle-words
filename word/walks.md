@@ -102,4 +102,15 @@ definitions:
   - text: A cheque drawn on a bank that was not a member of the London Clearing and
       whose sort code was allocated on a one-off basis; they had to be "walked" (hand-delivered
       by messengers).
+prev_word: walis
+next_word: walla
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

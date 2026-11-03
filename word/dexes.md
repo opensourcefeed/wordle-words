@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: An order or factor of ten.
+prev_word: dewed
+next_word: dexie
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

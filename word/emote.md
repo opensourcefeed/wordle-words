@@ -38,4 +38,15 @@ definitions:
   - text: To induce an emotion in.
   - text: To perform a virtual action, presented to other users as reported speech,
       rather than sending a direct message.
+prev_word: emong
+next_word: emove
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

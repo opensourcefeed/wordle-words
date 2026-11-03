@@ -33,4 +33,15 @@ definitions:
   - text: Hold fast!; desist!; stay!.
   - text: "(in imitation of pirates) listen!; pay attention!"
     example: Avast, ye landlubbers!
+prev_word: avant
+next_word: avels
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/av/"
+  label: Starting with AV
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

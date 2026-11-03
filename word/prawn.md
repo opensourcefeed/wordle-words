@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To fish for prawns.
+prev_word: praus
+next_word: prays
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

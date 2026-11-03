@@ -66,4 +66,15 @@ definitions:
   - text: Short for turnpike.
     example: There is heavy traffic on the Mass Pike
   - text: A gypsy, itinerant tramp, or traveller from any ethnic background; a pikey.
+prev_word: piker
+next_word: pikis
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

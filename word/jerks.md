@@ -65,4 +65,15 @@ definitions:
   defs:
   - text: To cure (meat) by cutting it into strips and drying it, originally in the
       sun.
+prev_word: jerid
+next_word: jerky
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

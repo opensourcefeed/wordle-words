@@ -38,4 +38,13 @@ anagrams:
 trap:
   pattern: _ICKS
   count: 12
+prev_word: ohone
+next_word: oidia
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -52,4 +52,15 @@ definitions:
   - text: A building housing an ice rink.
   - text: A team in a competition.
     example: The Schmirler rink won the Silver Broom.
+prev_word: ringy
+next_word: rinse
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

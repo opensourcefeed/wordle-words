@@ -89,4 +89,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having the properties of a slice knot.
+prev_word: sleys
+next_word: slick
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

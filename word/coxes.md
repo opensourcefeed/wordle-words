@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A coxswain of a boat, especially of a racing crew.
+prev_word: coxed
+next_word: coxib
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

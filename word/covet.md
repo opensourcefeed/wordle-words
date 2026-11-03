@@ -45,4 +45,15 @@ definitions:
   - text: To long for inordinately or unlawfully; to hanker after (something forbidden).
   - text: To yearn; to have or indulge an inordinate desire, especially for another's
       possession.
+prev_word: coves
+next_word: covey
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

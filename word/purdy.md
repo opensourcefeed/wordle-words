@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Pretty.
     example: Why, you got a purdy mouth boy.
+prev_word: purda
+next_word: pured
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

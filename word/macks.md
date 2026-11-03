@@ -52,4 +52,15 @@ definitions:
   - text: An element of a ship's superstructure which places the function of a ship's
       mast on its exhaust stack, adding the skeletal supporting structure to the smokestack
       to support the mast's complement of functions.
+prev_word: macka
+next_word: macle
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

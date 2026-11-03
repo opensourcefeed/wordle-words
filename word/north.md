@@ -60,4 +60,15 @@ definitions:
   defs:
   - text: Toward the north; northward; northerly.
     example: Switzerland is north of Italy.
+prev_word: norms
+next_word: nosed
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

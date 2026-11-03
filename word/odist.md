@@ -26,4 +26,15 @@ neighbours:
 - ovist
 anagrams:
 - doits
+prev_word: odism
+next_word: odium
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/od/"
+  label: Starting with OD
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

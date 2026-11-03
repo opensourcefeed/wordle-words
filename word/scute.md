@@ -41,4 +41,15 @@ definitions:
       formation of many larval and adult sense organs
   - text: A small shield.
   - text: An old French gold coin.
+prev_word: scuta
+next_word: scuts
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -26,4 +26,15 @@ neighbours:
 - pinna
 - wanna
 - winns
+prev_word: winky
+next_word: winns
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

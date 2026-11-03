@@ -29,4 +29,15 @@ neighbours:
 - ronin
 anagrams:
 - nonic
+prev_word: conic
+next_word: conks
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

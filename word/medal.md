@@ -47,4 +47,15 @@ definitions:
   - text: To win a medal.
     example: He medalled twice at the Olympics.
   - text: To award a medal to.
+prev_word: mecum
+next_word: media
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

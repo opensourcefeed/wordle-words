@@ -43,4 +43,15 @@ definitions:
   - text: To stupefy; to knock unconscious.
   - text: To bewilder; to stupefy; to bring into a maze.
   - text: To terrify, to fill with panic.
+prev_word: amaut
+next_word: amban
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

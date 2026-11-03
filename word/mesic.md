@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: "(of a habitat) Moist."
   - text: "(of an organism) Adapted to a moist habitat."
+prev_word: mesia
+next_word: mesne
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

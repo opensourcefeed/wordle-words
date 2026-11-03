@@ -35,4 +35,15 @@ anagrams:
 - coats
 - costa
 - tacos
+prev_word: octan
+next_word: octet
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -37,4 +37,15 @@ anagrams:
 - balas
 - balsa
 - sabal
+prev_word: baaed
+next_word: baaps
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

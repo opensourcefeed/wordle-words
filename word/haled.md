@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To drag or pull, especially forcibly.
+prev_word: haldi
+next_word: haler
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -50,4 +50,15 @@ definitions:
     example: Jim was munching on a biscotti.
   - text: To eat vigorously or with excitement.
     example: Watching old Bill munch his pancakes makes me hungry!
+prev_word: mumus
+next_word: munds
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

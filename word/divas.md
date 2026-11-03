@@ -44,4 +44,15 @@ definitions:
   - text: A person who may be considered or who considers herself (or by extension
       himself) much more important than others, has high expectations of others and
       who is extremely demanding and fussy when it comes to personal privileges.
+prev_word: divan
+next_word: dived
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

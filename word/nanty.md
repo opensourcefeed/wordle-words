@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ANTY
   count: 9
+prev_word: nants
+next_word: nanua
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

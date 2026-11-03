@@ -54,4 +54,15 @@ definitions:
   - text: A fixed position on a chromosome that may be occupied by one or more genes.
   - text: "(chiefly in the plural) A passage in writing, especially in a collection
       of ancient sacred writings arranged according to a theme."
+prev_word: locum
+next_word: loden
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

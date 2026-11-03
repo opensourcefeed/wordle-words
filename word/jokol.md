@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 99
 neighbours:
 - sokol
+prev_word: jokey
+next_word: joled
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

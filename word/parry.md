@@ -54,4 +54,15 @@ definitions:
 - pos: verb
   defs:
   - text: To avoid, deflect, or ward off (an attack, a blow, an argument, etc.).
+prev_word: parrs
+next_word: parse
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

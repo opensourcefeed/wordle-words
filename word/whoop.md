@@ -40,4 +40,15 @@ definitions:
   - text: To shout, to yell.
   - text: To cough or breathe with a sonorous inspiration, as in whooping cough.
   - text: To insult with shouts; to chase with derision.
+prev_word: whoof
+next_word: whoot
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

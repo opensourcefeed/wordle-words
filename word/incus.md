@@ -36,4 +36,15 @@ definitions:
   - text: A small anvil-shaped bone in the middle ear.
   - text: An accessory cloud, in the shape of an anvil which forms by spreading at
       the top of a cumulonimbus.
+prev_word: incur
+next_word: incut
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

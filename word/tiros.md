@@ -48,4 +48,15 @@ definitions:
 - pos: noun
   defs:
   - text: A newly recruited soldier.
+prev_word: tirls
+next_word: tirrs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

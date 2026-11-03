@@ -47,4 +47,15 @@ definitions:
       nets, and the like; a small cord or string.
   - text: The act of twining or winding round.
   - text: Intimate and suggestive dance gyrations.
+prev_word: twilt
+next_word: twink
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

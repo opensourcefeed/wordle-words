@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A border of an anatomical part, such as the edge of the cornea.
+prev_word: limba
+next_word: limbo
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/bi/"
+  label: Ending in BI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

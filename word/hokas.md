@@ -33,4 +33,15 @@ anagrams:
 - kohas
 - shako
 - sokah
+prev_word: hoist
+next_word: hoked
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - swath
 - thaws
+prev_word: whata
+next_word: whaup
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

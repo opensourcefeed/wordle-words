@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 99
 neighbours:
 - onion
+prev_word: onery
+next_word: onion
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

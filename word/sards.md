@@ -48,4 +48,15 @@ definitions:
 - pos: verb
   defs:
   - text: To have sexual intercourse with (a woman).
+prev_word: saran
+next_word: sared
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

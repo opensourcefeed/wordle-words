@@ -44,4 +44,15 @@ definitions:
   - text: Of or relating to royalty.
     example: regal authority;   the regal title
   - text: Befitting a king, queen, emperor, or empress.
+prev_word: refry
+next_word: regar
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

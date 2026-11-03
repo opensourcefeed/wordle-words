@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _OOLY
   count: 7
+prev_word: mools
+next_word: moong
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

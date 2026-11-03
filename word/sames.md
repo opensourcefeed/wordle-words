@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _AMES
   count: 13
+prev_word: samen
+next_word: samey
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

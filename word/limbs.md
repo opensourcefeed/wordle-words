@@ -61,4 +61,15 @@ definitions:
   - text: "(on a measuring instrument) The graduated edge of a circle or arc."
   - text: The border or upper spreading part of a monopetalous corolla, or of a petal
       or sepal; blade.
+prev_word: limbo
+next_word: limby
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 95
 neighbours:
 - morro
+prev_word: morin
+next_word: morna
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

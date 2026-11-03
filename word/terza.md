@@ -28,4 +28,15 @@ neighbours:
 - terga
 anagrams:
 - razet
+prev_word: terts
+next_word: tesla
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

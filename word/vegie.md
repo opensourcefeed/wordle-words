@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A vegetable.
   - text: A vegetarian.
+prev_word: veggo
+next_word: vegos
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

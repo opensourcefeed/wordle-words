@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A hood, or cape with a hood, made of or lined with grey fur, formerly worn
       by the clergy.
+prev_word: amias
+next_word: amici
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

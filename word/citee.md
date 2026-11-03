@@ -26,4 +26,15 @@ neighbours:
 - cited
 - citer
 - cites
+prev_word: cited
+next_word: citer
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

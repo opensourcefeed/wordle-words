@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To put pitons into a rock/ice to facilitate climbing.
+prev_word: pithy
+next_word: pitot
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

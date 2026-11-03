@@ -35,4 +35,13 @@ neighbours:
 trap:
   pattern: _OLOS
   count: 10
+prev_word: xoana
+next_word: xrays
+hubs:
+- url: "/starting-with/x/"
+  label: Starting with X
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

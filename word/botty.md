@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: Bottom
+prev_word: botts
+next_word: bouge
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: A person with poor judgment and taste.
     example: Danny is such a doofus!
+prev_word: duffs
+next_word: duing
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

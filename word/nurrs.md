@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _URRS
   count: 8
+prev_word: nurls
+next_word: nurse
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

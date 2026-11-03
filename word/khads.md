@@ -29,4 +29,15 @@ neighbours:
 - shads
 anagrams:
 - dhaks
+prev_word: khadi
+next_word: khafs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

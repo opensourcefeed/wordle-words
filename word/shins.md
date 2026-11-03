@@ -57,4 +57,15 @@ definitions:
   defs:
   - text: 'The twenty-first letter of many Semitic alphabets/abjads (Phoenician, Aramaic,
       Hebrew, Syriac, Arabic and others): Shin (letter)'
+prev_word: shine
+next_word: shiny
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

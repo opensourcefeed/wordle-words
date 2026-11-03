@@ -45,4 +45,15 @@ definitions:
       screen which when clicked performs some function.)
   - text: A word, character, or sign whose form reflects and is determined by the
       referent; onomatopoeic words are necessarily all icons.
+prev_word: ickle
+next_word: ictal
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/ic/"
+  label: Starting with IC
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

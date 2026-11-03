@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: In blazon, of the colour red.
     example: The symbol of the Red Cross is a cross gules.
+prev_word: gulch
+next_word: gulet
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -70,4 +70,15 @@ definitions:
       etc.).
     example: entered according to act of Congress
   - text: To initiate; to introduce favourably.
+prev_word: ensue
+next_word: entia
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

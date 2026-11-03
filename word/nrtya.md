@@ -26,4 +26,13 @@ neighbours:
 anagrams:
 - ranty
 - tyran
+prev_word: nrtta
+next_word: nsima
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/ending-with/ya/"
+  label: Ending in YA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

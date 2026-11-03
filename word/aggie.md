@@ -23,4 +23,15 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 39
+prev_word: agger
+next_word: aggri
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

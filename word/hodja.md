@@ -21,4 +21,15 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 76
+prev_word: hodad
+next_word: hoers
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ja/"
+  label: Ending in JA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

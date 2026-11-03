@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To thrust or push out; butt; poke.
   - text: To retch or vomit.
+prev_word: boite
+next_word: bokeh
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

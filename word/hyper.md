@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Hyperactive
   - text: Energetic; overly diligent
+prev_word: hyped
+next_word: hypes
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

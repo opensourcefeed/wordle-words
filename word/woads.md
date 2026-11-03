@@ -30,4 +30,15 @@ neighbours:
 - wolds
 - woods
 - words
+prev_word: wizzo
+next_word: woady
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

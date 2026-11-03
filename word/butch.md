@@ -40,4 +40,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(originally Polari) Very masculine, with a masculine appearance or attitude."
+prev_word: busty
+next_word: buteo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

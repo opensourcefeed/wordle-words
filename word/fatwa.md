@@ -34,4 +34,13 @@ definitions:
 - pos: verb
   defs:
   - text: To make somebody the subject of a fatwa, especially a ban or death sentence.
+prev_word: fatty
+next_word: fauch
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

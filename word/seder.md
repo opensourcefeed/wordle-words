@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: The ceremonial meal held on the first night or two nights of Passover.
   - text: One of the 54 parts into which the Torah is divided.
+prev_word: sedan
+next_word: sedes
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

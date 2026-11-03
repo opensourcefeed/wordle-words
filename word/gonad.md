@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A sex organ that produces gametes; specifically, a testicle or ovary.
   - text: "(chiefly in the plural) The testicles."
+prev_word: gompa
+next_word: gonch
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: To form curd; to curdle.
   - text: To cause to coagulate or thicken; to cause to congeal; to curdle.
+prev_word: curch
+next_word: curdy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

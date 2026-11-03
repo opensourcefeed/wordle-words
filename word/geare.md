@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _EARE
   count: 9
+prev_word: geans
+next_word: gears
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

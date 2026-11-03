@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A sheer fabric of silk, rayon, or nylon made in a variety of tight smooth
       weaves or open lacy patterns.
+prev_word: ninny
+next_word: ninta
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

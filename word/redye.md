@@ -24,4 +24,15 @@ neighbours:
 - bedye
 anagrams:
 - reedy
+prev_word: redux
+next_word: reeaf
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ye/"
+  label: Ending in YE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

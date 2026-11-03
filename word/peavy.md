@@ -34,4 +34,15 @@ definitions:
   - text: A tool used to manipulate logs, having a thick wooden handle, a steel point,
       and a curved hooked arm. Similar to a cant-hook, but shorter and stouter, and
       with a pointed end.
+prev_word: peaty
+next_word: peaze
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

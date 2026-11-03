@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ITES
   count: 12
+prev_word: kiter
+next_word: kithe
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

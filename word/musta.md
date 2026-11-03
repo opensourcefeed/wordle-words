@@ -31,4 +31,15 @@ anagrams:
 - matsu
 - mauts
 - mutas
+prev_word: mussy
+next_word: musth
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

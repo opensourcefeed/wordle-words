@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A kind of silk lace or light netting, used for clothing, veils, etc.
+prev_word: tulip
+next_word: tulpa
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

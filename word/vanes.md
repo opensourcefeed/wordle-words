@@ -55,4 +55,15 @@ definitions:
   - text: A sight on a sextant or compass
   - text: One of the metal guidance or stabilizing fins attached to the tail of a
       bomb or other missile
+prev_word: vaned
+next_word: vanga
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

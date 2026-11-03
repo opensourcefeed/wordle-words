@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A chamber pot.
+prev_word: jerky
+next_word: jesse
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

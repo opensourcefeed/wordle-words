@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: One who dates.
   - text: A date-stamping device.
+prev_word: dated
+next_word: dates
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

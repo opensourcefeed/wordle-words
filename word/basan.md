@@ -26,4 +26,15 @@ neighbours:
 - basas
 - basen
 - bason
+prev_word: basal
+next_word: basas
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

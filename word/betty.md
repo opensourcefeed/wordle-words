@@ -32,4 +32,15 @@ neighbours:
 - butty
 - letty
 - netty
+prev_word: betta
+next_word: bevan
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - divan
 - viand
+prev_word: divis
+next_word: divos
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

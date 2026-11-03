@@ -55,4 +55,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Being a fixed limit game.
+prev_word: limey
+next_word: limma
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

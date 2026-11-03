@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A thick, padded quilt used instead of blankets.
   - text: A cover for a quilt or comforter.
+prev_word: dutch
+next_word: duxes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

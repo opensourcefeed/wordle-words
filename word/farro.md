@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: Emmer wheat (Triticum turgidum).
+prev_word: faros
+next_word: farse
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

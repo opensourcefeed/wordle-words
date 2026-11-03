@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - lathe
 - ethal
+prev_word: thaim
+next_word: thali
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

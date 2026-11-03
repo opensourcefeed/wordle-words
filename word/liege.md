@@ -42,4 +42,15 @@ definitions:
       to be faithful and loyal to a superior, such as a vassal to his lord; faithful.
     example: a liege man; a liege subject
   - text: Full; perfect; complete; pure.
+prev_word: liefs
+next_word: liens
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

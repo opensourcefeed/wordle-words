@@ -54,4 +54,15 @@ definitions:
       a fixed position, such as for photography or painting.
   - text: A poseur; someone who affects some behaviour, style, attitude or other condition,
       often to impress or influence others.
+prev_word: posed
+next_word: poses
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

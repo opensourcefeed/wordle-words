@@ -33,4 +33,15 @@ neighbours:
 - roven
 anagrams:
 - devon
+prev_word: doved
+next_word: dover
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

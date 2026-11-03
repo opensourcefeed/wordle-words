@@ -30,4 +30,15 @@ neighbours:
 - vanda
 anagrams:
 - aband
+prev_word: bancs
+next_word: bandh
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: That occurs every day, or at least every working day
   - text: Diurnal, by daylight, as opposed to nightly
+prev_word: daiko
+next_word: daine
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

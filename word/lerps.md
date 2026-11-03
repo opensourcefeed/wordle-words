@@ -29,4 +29,15 @@ neighbours:
 - perps
 anagrams:
 - perls
+prev_word: leres
+next_word: leses
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

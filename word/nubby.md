@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Knobbly; covered with small knobs.
   - text: Nub-like, resembling a small bump or protrusion; stubby.
+prev_word: nsima
+next_word: nubia
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

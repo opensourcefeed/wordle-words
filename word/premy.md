@@ -26,4 +26,15 @@ neighbours:
 - primy
 anagrams:
 - permy
+prev_word: prems
+next_word: prent
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

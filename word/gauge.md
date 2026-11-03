@@ -69,4 +69,15 @@ definitions:
   - text: To draw into equidistant gathers by running a thread through it.
   - text: To mix (a quantity of ordinary plaster) with a quantity of plaster of Paris.
   - text: To chip, hew or polish (stones, bricks, etc) to a standard size and/or shape.
+prev_word: gaudy
+next_word: gauje
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

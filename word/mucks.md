@@ -54,4 +54,15 @@ definitions:
   - text: To do a dirty job.
   - text: To pass, to fold without showing one's cards, often done when a better hand
       has already been revealed.
+prev_word: mucko
+next_word: mucky
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: The vena cava.
+prev_word: cause
+next_word: caved
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

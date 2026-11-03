@@ -24,4 +24,15 @@ neighbours:
 - houfs
 - howff
 - pouff
+prev_word: hotty
+next_word: houfs
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -82,4 +82,15 @@ definitions:
       to rest.
   - text: To become firm, so as to resist volatilization; to cease to flow or be fluid;
       to congeal; to become hard and malleable, as a metallic substance.
+prev_word: fixer
+next_word: fixie
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

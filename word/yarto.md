@@ -27,4 +27,15 @@ neighbours:
 - yarta
 anagrams:
 - otary
+prev_word: yarta
+next_word: yates
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

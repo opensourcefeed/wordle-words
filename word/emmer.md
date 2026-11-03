@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A species of wheat, Triticum dicoccon, one of a group of hulled wheats that
       are important food grains.
+prev_word: emmas
+next_word: emmet
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

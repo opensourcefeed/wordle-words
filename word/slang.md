@@ -50,4 +50,15 @@ definitions:
 - pos: verb
   defs:
   - text: To vocally abuse, or shout at.
+prev_word: slane
+next_word: slank
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

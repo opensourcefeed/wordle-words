@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 90
 neighbours:
 - novia
+prev_word: novia
+next_word: novum
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/io/"
+  label: Ending in IO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

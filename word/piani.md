@@ -24,4 +24,15 @@ stats:
 neighbours:
 - piano
 - pians
+prev_word: piais
+next_word: piano
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ni/"
+  label: Ending in NI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

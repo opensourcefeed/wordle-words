@@ -70,4 +70,15 @@ definitions:
       images.
     example: They branded the new detergent "Suds-O", with a nature scene inside a
       green O on the muted-colored recycled-cardboard box.
+prev_word: brame
+next_word: brane
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

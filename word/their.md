@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - ither
 - rithe
+prev_word: thein
+next_word: thelf
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

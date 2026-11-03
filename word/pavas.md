@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: PA_AS
   count: 9
+prev_word: pavan
+next_word: paved
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

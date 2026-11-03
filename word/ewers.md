@@ -34,4 +34,13 @@ definitions:
 - pos: noun
   defs:
   - text: A kind of widemouthed pitcher or jug with a shape like a vase and a handle.
+prev_word: evoke
+next_word: ewest
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

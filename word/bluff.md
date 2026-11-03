@@ -52,4 +52,15 @@ definitions:
       pass. Is it truly ready to do so, or is it bluffing?
   - text: To take advantage by bluffing.
     example: We bluffed our way past the guards.
+prev_word: bluey
+next_word: bluid
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

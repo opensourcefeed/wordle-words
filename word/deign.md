@@ -35,4 +35,13 @@ definitions:
       far beneath him.
   - text: To condescend to give; to do something.
   - text: To esteem worthy; to consider worth notice.
+prev_word: deify
+next_word: deils
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

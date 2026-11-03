@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Maori canoe.
+prev_word: waive
+next_word: waked
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

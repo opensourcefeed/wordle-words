@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A mass or lump of fat rolled up by the butcher.
+prev_word: kedgy
+next_word: keefs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

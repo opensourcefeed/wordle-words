@@ -30,4 +30,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having one or more bulges; bulging
+prev_word: bulge
+next_word: bulks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

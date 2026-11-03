@@ -27,4 +27,15 @@ neighbours:
 - steek
 anagrams:
 - smeke
+prev_word: smear
+next_word: smees
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

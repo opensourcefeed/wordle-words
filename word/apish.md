@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Resembling or characteristic of an ape
+prev_word: apiol
+next_word: apism
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

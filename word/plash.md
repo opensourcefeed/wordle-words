@@ -44,4 +44,15 @@ definitions:
   - text: To cause a splash.
   - text: To splash or sprinkle with colouring matter.
     example: to plash a wall in imitation of granite
+prev_word: plaps
+next_word: plasm
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

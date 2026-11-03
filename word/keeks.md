@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: To peek; peep.
     example: The man keeked over the fence.
+prev_word: keefs
+next_word: keels
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

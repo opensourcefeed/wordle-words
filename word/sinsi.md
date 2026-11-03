@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 95
 neighbours:
 - sensi
+prev_word: sinky
+next_word: sinus
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/si/"
+  label: Ending in SI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

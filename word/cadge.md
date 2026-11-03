@@ -53,4 +53,15 @@ definitions:
   - text: To carry, as a burden.
   - text: To hawk or peddle, as fish, poultry, etc.
   - text: To intrude or live on another meanly; to beg.
+prev_word: cadet
+next_word: cadgy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

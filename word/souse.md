@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: To immerse in liquid; to steep or drench.
   - text: To steep in brine; to pickle.
+prev_word: sours
+next_word: south
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: To act in a silly or playful fashion.
   - text: To ridicule.
+prev_word: clove
+next_word: clows
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

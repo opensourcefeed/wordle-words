@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: Something which holds the greatest attention; the chief point of interest.
+prev_word: clour
+next_word: clout
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

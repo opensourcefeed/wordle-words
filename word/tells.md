@@ -83,4 +83,15 @@ definitions:
   defs:
   - text: A hill or mound, originally and especially in the Middle East, over or consisting
       of the ruins of ancient settlements.
+prev_word: telic
+next_word: telly
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

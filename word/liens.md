@@ -44,4 +44,15 @@ definitions:
   - text: A tendon.
   - text: A right to take possession of a debtor’s property as security until a debt
       or duty is discharged.
+prev_word: liege
+next_word: liers
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: DAR_S
   count: 8
+prev_word: daric
+next_word: darks
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: "(Jewish) grandfather"
   - text: "(Jewish) elderly man (as a term of respect)"
+prev_word: zaxes
+next_word: zayin
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

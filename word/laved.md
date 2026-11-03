@@ -48,4 +48,15 @@ definitions:
   - text: To run down or gutter, as a candle.
   - text: To hang or flap down.
   - text: To wash.
+prev_word: lavas
+next_word: laver
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

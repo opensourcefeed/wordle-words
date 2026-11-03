@@ -26,4 +26,15 @@ neighbours:
 - kinin
 - likin
 - lipin
+prev_word: lingy
+next_word: links
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

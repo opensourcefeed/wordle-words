@@ -66,4 +66,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Being the object of love.
+prev_word: lovat
+next_word: lovee
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

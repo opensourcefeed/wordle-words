@@ -40,4 +40,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of a dark green colour, like that of loden cloth.
+prev_word: locus
+next_word: lodes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

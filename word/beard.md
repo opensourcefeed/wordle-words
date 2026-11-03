@@ -72,4 +72,15 @@ definitions:
   - text: To deprive (an oyster or similar shellfish) of the gills.
   - text: 'Of a gay man or woman: to accompany a gay person of the opposite sex in
       order to give the impression that they are heterosexual.'
+prev_word: beany
+next_word: beare
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

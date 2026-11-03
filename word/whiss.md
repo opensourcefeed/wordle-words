@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: WHI_S
   count: 10
+prev_word: whisk
+next_word: whist
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

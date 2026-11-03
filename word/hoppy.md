@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _OPPY
   count: 8
+prev_word: hopes
+next_word: horah
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -29,4 +29,13 @@ definitions:
 - pos: noun
   defs:
   - text: A reorganization.
+prev_word: reoil
+next_word: repas
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

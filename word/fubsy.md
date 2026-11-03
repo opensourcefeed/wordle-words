@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: Short and stout; low and wide
     example: a fubsy sofa
+prev_word: fubby
+next_word: fucus
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

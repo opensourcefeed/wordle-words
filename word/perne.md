@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: PER_E
   count: 6
+prev_word: permy
+next_word: perns
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

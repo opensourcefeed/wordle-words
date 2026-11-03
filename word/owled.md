@@ -32,4 +32,15 @@ anagrams:
 - dowel
 - dowle
 - lowed
+prev_word: owing
+next_word: owler
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ow/"
+  label: Starting with OW
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

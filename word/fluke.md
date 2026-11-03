@@ -43,4 +43,15 @@ definitions:
     example: I fluked a pass in the multiple-choice exam.
   - text: To fortuitously pot a ball in an unintended way.
     example: He fluked the other red into the middle pocket, despite the double kiss.
+prev_word: fluid
+next_word: fluky
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

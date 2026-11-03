@@ -53,4 +53,15 @@ definitions:
 - pos: noun
   defs:
   - text: A trumpet with long curved tube, used for calling cattle, etc.
+prev_word: lurer
+next_word: lurex
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

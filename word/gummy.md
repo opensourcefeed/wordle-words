@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: A species of shark, Mustelus antarcticus, endemic to southern and south-eastern
       Australia, the meat of which is sold as flake.
+prev_word: gummi
+next_word: gumps
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

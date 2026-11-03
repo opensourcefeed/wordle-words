@@ -48,4 +48,15 @@ definitions:
   - text: An enforcer or fighter.
   - text: "(WWII, PoW slang) A German guard in a prisoner-of-war camp."
   - text: A member of the comedy web site Something Awful.
+prev_word: goomy
+next_word: goony
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

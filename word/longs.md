@@ -69,4 +69,15 @@ definitions:
 - pos: noun
   defs:
   - text: Long trousers/pants, as opposed to shorts.
+prev_word: longe
+next_word: looby
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

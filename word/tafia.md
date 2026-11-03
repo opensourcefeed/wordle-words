@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A variety of rum.
+prev_word: taffy
+next_word: taggy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

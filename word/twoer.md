@@ -30,4 +30,15 @@ anagrams:
 - tower
 - wrote
 - rowet
+prev_word: twocs
+next_word: twonk
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

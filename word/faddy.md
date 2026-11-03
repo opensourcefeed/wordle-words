@@ -40,4 +40,15 @@ definitions:
   - text: Having characteristics of a fad.
   - text: Fussy, having particular tastes or whims
     example: He's a faddy eater.
+prev_word: facty
+next_word: faded
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

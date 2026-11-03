@@ -31,4 +31,15 @@ neighbours:
 - souce
 anagrams:
 - coupe
+prev_word: potty
+next_word: pouch
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

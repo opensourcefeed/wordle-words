@@ -57,4 +57,15 @@ definitions:
   defs:
   - text: Making the sound of a bounce
   - text: To bounce
+prev_word: bingo
+next_word: bingy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

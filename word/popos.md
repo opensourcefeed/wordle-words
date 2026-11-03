@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(;) the police"
+prev_word: popia
+next_word: poppa
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

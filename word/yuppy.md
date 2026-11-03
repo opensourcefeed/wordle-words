@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A young upwardly mobile urban professional person with an affluent lifestyle.
+prev_word: yupon
+next_word: yurta
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

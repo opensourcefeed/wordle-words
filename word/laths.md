@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: A thin, narrow strip, fastened to the rafters, studs, or floor beams of
       a building, for the purpose of supporting a covering of tiles, plastering, etc.
+prev_word: lathi
+next_word: lathy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

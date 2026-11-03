@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - chirt
 - richt
+prev_word: criss
+next_word: crits
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

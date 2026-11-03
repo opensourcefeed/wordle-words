@@ -28,4 +28,15 @@ neighbours:
 - allen
 - aller
 - allyl
+prev_word: allee
+next_word: allen
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

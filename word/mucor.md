@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 53
 anagrams:
 - mucro
+prev_word: mucky
+next_word: mucro
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Any of a number of autoimmune diseases, the most common of which is systemic
       lupus erythematosus.
+prev_word: lupin
+next_word: lurch
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

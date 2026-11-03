@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: By the length of; in a line with the length of; lengthwise next to.
   - text: In a line with, with a progressive motion on; onward on; forward on.
+prev_word: alone
+next_word: aloof
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

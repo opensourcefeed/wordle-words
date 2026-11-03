@@ -54,4 +54,15 @@ definitions:
 - pos: noun
   defs:
   - text: A snare; a gin.
+prev_word: grind
+next_word: griot
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

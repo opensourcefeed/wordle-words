@@ -75,4 +75,15 @@ definitions:
   - text: "(film production) To move a camera parallel to the movement of the subject."
   - text: To fight or otherwise physically engage with.
   - text: To run over or through a tackler in American football.
+prev_word: truce
+next_word: trued
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

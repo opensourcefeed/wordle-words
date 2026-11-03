@@ -18,4 +18,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 70
+prev_word: ycled
+next_word: ydrad
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

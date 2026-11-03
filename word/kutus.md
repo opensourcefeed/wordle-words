@@ -28,4 +28,15 @@ neighbours:
 - kutis
 - kuzus
 - tutus
+prev_word: kutis
+next_word: kuyas
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

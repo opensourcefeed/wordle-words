@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: The public treasury of Rome.
   - text: Any state treasury or exchequer.
+prev_word: firth
+next_word: fisho
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

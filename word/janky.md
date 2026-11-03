@@ -40,4 +40,15 @@ definitions:
   - text: Of poor quality.
   - text: Strange, odd.
   - text: Unresponsive (of a software application’s user interface), sluggish.
+prev_word: janes
+next_word: janns
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

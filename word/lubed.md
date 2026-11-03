@@ -41,4 +41,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having had a lubricant applied.
+prev_word: luaus
+next_word: lubes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

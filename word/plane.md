@@ -61,4 +61,15 @@ definitions:
 - pos: adjective
   defs:
   - text: 'Of a surface: flat or level.'
+prev_word: planc
+next_word: planh
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

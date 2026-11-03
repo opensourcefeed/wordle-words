@@ -56,4 +56,15 @@ definitions:
     example: A dense fog bathed the city streets.
   - text: To sunbathe.
     example: The women bathed in the sun.
+prev_word: bates
+next_word: baths
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

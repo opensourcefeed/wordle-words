@@ -25,4 +25,15 @@ neighbours:
 - drack
 anagrams:
 - corda
+prev_word: drack
+next_word: draff
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

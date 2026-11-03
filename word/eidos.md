@@ -34,4 +34,13 @@ definitions:
 - pos: noun
   defs:
   - text: Form; essence; type; species.
+prev_word: eider
+next_word: eight
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

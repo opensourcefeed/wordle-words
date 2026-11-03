@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: An iced cappuccino.
+prev_word: frape
+next_word: frass
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

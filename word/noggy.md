@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: A dark-skinned person; nig-nog.
   - text: A Vietnamese person.
+prev_word: noggs
+next_word: nohow
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

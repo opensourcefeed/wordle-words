@@ -26,4 +26,15 @@ neighbours:
 - melic
 anagrams:
 - kelim
+prev_word: melic
+next_word: mells
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

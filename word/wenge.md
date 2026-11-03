@@ -28,4 +28,15 @@ neighbours:
 - winge
 anagrams:
 - ngwee
+prev_word: wends
+next_word: wenny
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

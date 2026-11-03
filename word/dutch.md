@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: Wife
+prev_word: dusty
+next_word: duvet
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

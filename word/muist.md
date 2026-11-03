@@ -29,4 +29,15 @@ anagrams:
 - musit
 - mutis
 - tuism
+prev_word: muiry
+next_word: mujik
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

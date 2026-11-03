@@ -34,4 +34,15 @@ definitions:
   - text: The pulverized rhizome of the turmeric plant, used for flavoring and to
       add a bright yellow color to food.
   - text: A yellow to reddish-brown dye extracted from the turmeric plant.
+prev_word: halal
+next_word: haled
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/di/"
+  label: Ending in DI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

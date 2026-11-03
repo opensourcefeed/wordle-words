@@ -44,4 +44,13 @@ definitions:
   defs:
   - text: Made of ivory.
   - text: Resembling or having the colour of ivory.
+prev_word: ivies
+next_word: ixias
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

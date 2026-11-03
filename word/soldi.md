@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: An Italian coin, formerly one-twentieth of a lira.
+prev_word: solde
+next_word: soldo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/di/"
+  label: Ending in DI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -23,4 +23,15 @@ neighbours:
 - mashy
 - messy
 - methy
+prev_word: meses
+next_word: mesia
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Short for foreign exchange.
+prev_word: fores
+next_word: forge
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

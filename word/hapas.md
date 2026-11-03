@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: A mesh cage-like structure placed in the water to hold fish.
+prev_word: haoma
+next_word: hapax
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

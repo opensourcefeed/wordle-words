@@ -35,4 +35,15 @@ definitions:
   - text: To inure; to make accustomed or desensitized to something unpleasant due
       to constant exposure.
   - text: To take effect, to be operative; used with to.
+prev_word: entry
+next_word: enurn
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

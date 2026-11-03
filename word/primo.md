@@ -46,4 +46,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Best; first-class.
+prev_word: primi
+next_word: primp
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

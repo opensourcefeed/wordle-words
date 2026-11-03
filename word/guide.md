@@ -46,4 +46,15 @@ definitions:
   - text: A spirit believed to speak through a medium.
   - text: A member of a group marching in formation who sets the pattern of movement
       or alignment for the rest.
+prev_word: guggl
+next_word: guido
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

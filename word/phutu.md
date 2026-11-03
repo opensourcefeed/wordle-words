@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 95
 neighbours:
 - phuts
+prev_word: phuts
+next_word: phwat
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/tu/"
+  label: Ending in TU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

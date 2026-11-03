@@ -69,4 +69,15 @@ definitions:
     example: Smith fouled within the first minute of the quarter.
   - text: To hit a ball outside of the baselines.
     example: Jones fouled for strike one.
+prev_word: foule
+next_word: found
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

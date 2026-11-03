@@ -54,4 +54,15 @@ definitions:
   - text: An element of a set that is not itself a set; an urelement.
   - text: (usually capitalised as "Atom") A member of an age group division in hockey
       for ten- to 11-year-olds.
+prev_word: atoll
+next_word: atomy
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -37,4 +37,15 @@ definitions:
   - text: The back or dorsal region on the surface of an animal.
   - text: "(astrogeology) A ridge on a hill, or on the surface of a planet or moon."
   - text: Theta Capricorni, a star on the back of the Goat
+prev_word: dorrs
+next_word: dorse
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

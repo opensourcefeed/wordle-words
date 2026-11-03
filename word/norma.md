@@ -35,4 +35,15 @@ anagrams:
 - morna
 - ramon
 - roman
+prev_word: norks
+next_word: norms
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

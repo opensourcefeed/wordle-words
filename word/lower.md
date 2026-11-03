@@ -129,4 +129,15 @@ definitions:
   - text: To fall; to sink; to grow less; to diminish; to decrease
     example: The river lowered as rapidly as it rose.
   - text: To decrease in value, amount, etc.
+prev_word: lowen
+next_word: lowes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

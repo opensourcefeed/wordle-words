@@ -31,4 +31,15 @@ definitions:
     example: The castle was huge.
   - text: Distinctly interesting, significant, important, likeable, well regarded.
     example: Our next album is going to be huge!  In our league our coach is huge!
+prev_word: huffy
+next_word: huggy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

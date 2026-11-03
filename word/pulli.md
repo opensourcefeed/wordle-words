@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A chick; a young bird in the downy stage.
+prev_word: pulks
+next_word: pulls
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

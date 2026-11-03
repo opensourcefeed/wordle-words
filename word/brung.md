@@ -22,4 +22,15 @@ neighbours:
 - bring
 - brunt
 - wrung
+prev_word: brume
+next_word: brunt
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

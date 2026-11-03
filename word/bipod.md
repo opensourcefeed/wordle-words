@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A two-legged stand.
+prev_word: biped
+next_word: bippy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/od/"
+  label: Ending in OD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

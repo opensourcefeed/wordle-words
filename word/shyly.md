@@ -30,4 +30,15 @@ definitions:
 - pos: adverb
   defs:
   - text: In a shy manner.
+prev_word: shyer
+next_word: sials
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

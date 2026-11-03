@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - amyls
 - lyams
+prev_word: myall
+next_word: mylar
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/my/"
+  label: Starting with MY
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

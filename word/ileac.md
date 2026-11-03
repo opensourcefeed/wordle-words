@@ -26,4 +26,15 @@ stats:
 neighbours:
 - iliac
 - ileal
+prev_word: ikons
+next_word: ileal
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/il/"
+  label: Starting with IL
+- url: "/ending-with/ac/"
+  label: Ending in AC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

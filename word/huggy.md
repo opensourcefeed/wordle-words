@@ -28,4 +28,15 @@ neighbours:
 trap:
   pattern: _UGGY
   count: 7
+prev_word: huger
+next_word: huhus
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

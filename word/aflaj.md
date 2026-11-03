@@ -25,4 +25,13 @@ neighbours:
 - aflap
 anagrams:
 - falaj
+prev_word: afizz
+next_word: aflap
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/j/"
+  label: Ending in J
 ---

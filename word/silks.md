@@ -57,4 +57,15 @@ definitions:
 - pos: verb
   defs:
   - text: To remove the silk from (corn).
+prev_word: silex
+next_word: silky
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

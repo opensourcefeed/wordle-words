@@ -39,4 +39,13 @@ definitions:
 - pos: verb
   defs:
   - text: To treat with ozone.
+prev_word: ozena
+next_word: ozzie
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

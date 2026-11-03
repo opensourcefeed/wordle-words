@@ -65,4 +65,15 @@ definitions:
   defs:
   - text: To catch or hold, especially with a loop.
   - text: To ensnare.
+prev_word: snaps
+next_word: snarf
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

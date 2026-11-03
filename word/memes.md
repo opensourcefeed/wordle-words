@@ -51,4 +51,15 @@ definitions:
   - text: A myth circulating as truth; something ineffective presented as effective,
       or similar.
     example: it’s a meme degree
+prev_word: melty
+next_word: memic
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

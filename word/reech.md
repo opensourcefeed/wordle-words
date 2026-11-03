@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - cheer
 - chere
+prev_word: reeaf
+next_word: reede
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

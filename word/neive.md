@@ -27,4 +27,15 @@ neighbours:
 - reive
 anagrams:
 - nieve
+prev_word: neist
+next_word: nelia
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

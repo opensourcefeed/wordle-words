@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: PILE_
   count: 6
+prev_word: piles
+next_word: pilin
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

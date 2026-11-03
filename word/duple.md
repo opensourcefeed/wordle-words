@@ -33,4 +33,15 @@ definitions:
   - text: Double.
   - text: Having two beats, or a multiple of two beats, in each measure.
   - text: Having two beats in each foot.
+prev_word: dupes
+next_word: duply
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -23,4 +23,15 @@ stats:
 neighbours:
 - goban
 - koran
+prev_word: koaps
+next_word: kobos
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

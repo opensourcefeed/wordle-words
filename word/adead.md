@@ -26,4 +26,15 @@ neighbours:
 - ahead
 - adrad
 - aread
+prev_word: addra
+next_word: adeem
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

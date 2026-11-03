@@ -46,4 +46,15 @@ definitions:
   - text: "(of a room, house) of small volume, cramped"
   - text: Slow
   - text: "(of a car) fast"
+prev_word: pokes
+next_word: pokie
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

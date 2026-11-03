@@ -21,4 +21,13 @@ stats:
   starter_top_percent: 45
 neighbours:
 - proin
+prev_word: proxy
+next_word: prude
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

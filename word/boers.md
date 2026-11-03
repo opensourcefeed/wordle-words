@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _OERS
   count: 6
+prev_word: boeps
+next_word: boeti
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

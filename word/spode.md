@@ -32,4 +32,15 @@ anagrams:
 - dopes
 - pedos
 - posed
+prev_word: splog
+next_word: spods
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

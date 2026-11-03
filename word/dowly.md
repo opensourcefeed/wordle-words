@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: DO_LY
   count: 6
+prev_word: dowls
+next_word: downa
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

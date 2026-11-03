@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - fairs
 - frais
+prev_word: fezzy
+next_word: fiats
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -32,4 +32,15 @@ anagrams:
 - raves
 - saver
 - vares
+prev_word: verry
+next_word: verse
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

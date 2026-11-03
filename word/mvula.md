@@ -25,4 +25,13 @@ neighbours:
 - mvule
 - mvuli
 - uvula
+prev_word: muzzy
+next_word: mvule
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

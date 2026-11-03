@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: An aspen tree.
+prev_word: apron
+next_word: apsis
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

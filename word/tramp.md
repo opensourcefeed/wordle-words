@@ -56,4 +56,15 @@ definitions:
       fabric stretched over a steel frame using many coiled springs as anchors.
   - text: Any of a variety of looping or jumping instructions in specific programming
       languages
+prev_word: trait
+next_word: trams
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

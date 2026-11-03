@@ -27,4 +27,15 @@ neighbours:
 - vealy
 anagrams:
 - leave
+prev_word: vaxes
+next_word: veals
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

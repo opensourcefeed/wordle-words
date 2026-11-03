@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A computer.
+prev_word: putas
+next_word: putid
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

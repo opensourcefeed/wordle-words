@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: The angle or point of divergence between the upper side of a branch, leaf,
       or petiole, and the stem or branch from which it springs.
+prev_word: axile
+next_word: axing
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ax/"
+  label: Starting with AX
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

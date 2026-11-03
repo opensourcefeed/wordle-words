@@ -27,4 +27,15 @@ neighbours:
 - reput
 anagrams:
 - prune
+prev_word: repro
+next_word: reput
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

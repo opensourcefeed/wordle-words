@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A minke whale, one of two species of baleen whales within Balaenoptera,
       the northern-dwelling species of which is often seen in coastal waters.
+prev_word: minis
+next_word: minks
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

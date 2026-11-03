@@ -25,4 +25,15 @@ stats:
 neighbours:
 - oligo
 - trigo
+prev_word: oriel
+next_word: orixa
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

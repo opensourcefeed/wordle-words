@@ -43,4 +43,15 @@ definitions:
   - text: Illegal and/or banned performance-enhancing steroids used by athletes and
       others.
   - text: Hemorrhoids.
+prev_word: rohus
+next_word: roils
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

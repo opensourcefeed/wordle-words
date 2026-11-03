@@ -23,4 +23,15 @@ stats:
 neighbours:
 - gruff
 - grume
+prev_word: grues
+next_word: gruff
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/fe/"
+  label: Ending in FE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -37,4 +37,15 @@ definitions:
   - text: To walk or move slowly and heavily or laboriously (+ on, through, over).
   - text: To trudge over or through.
   - text: To toil; to drudge; especially, to study laboriously and patiently.
+prev_word: plock
+next_word: ploit
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

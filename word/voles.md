@@ -52,4 +52,15 @@ definitions:
 - pos: noun
   defs:
   - text: A deal in a card game, écarté, that draws all the tricks.
+prev_word: voled
+next_word: volet
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

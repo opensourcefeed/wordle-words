@@ -34,4 +34,15 @@ definitions:
       immorally.
   - text: The practice of lending money at such rates.
   - text: The practice of lending money at interest.
+prev_word: usurp
+next_word: uteri
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/us/"
+  label: Starting with US
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

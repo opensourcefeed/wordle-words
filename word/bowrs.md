@@ -29,4 +29,15 @@ neighbours:
 - bowls
 anagrams:
 - brows
+prev_word: bowne
+next_word: bowse
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

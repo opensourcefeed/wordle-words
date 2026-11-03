@@ -26,4 +26,13 @@ definitions:
 - pos: noun
   defs:
   - text: A celebrity; a famous person.
+prev_word: ceils
+next_word: cella
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

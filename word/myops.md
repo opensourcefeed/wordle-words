@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - mopsy
 - yomps
+prev_word: myope
+next_word: myopy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/my/"
+  label: Starting with MY
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

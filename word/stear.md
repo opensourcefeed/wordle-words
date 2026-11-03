@@ -50,4 +50,15 @@ anagrams:
 trap:
   pattern: S_EAR
   count: 6
+prev_word: stean
+next_word: stedd
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

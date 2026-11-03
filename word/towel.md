@@ -50,4 +50,15 @@ definitions:
   - text: To block up (a door, etc.) with a towel, to conceal the fumes of a recreational
       drug.
   - text: To beat with a stick.
+prev_word: towed
+next_word: tower
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

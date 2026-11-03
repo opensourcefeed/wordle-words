@@ -23,4 +23,13 @@ neighbours:
 - whoop
 - choof
 - whoot
+prev_word: whomp
+next_word: whoop
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

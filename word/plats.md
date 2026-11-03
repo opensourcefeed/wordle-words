@@ -60,4 +60,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(obsolete except regional England) To braid, to plait."
+prev_word: plate
+next_word: platt
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

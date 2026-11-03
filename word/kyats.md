@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: The official currency of Myanmar.
+prev_word: kyars
+next_word: kybos
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

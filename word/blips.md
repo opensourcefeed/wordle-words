@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: To change state abruptly, such as between off and on or dark and light,
       sometimes implying motion.
+prev_word: bliny
+next_word: bliss
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

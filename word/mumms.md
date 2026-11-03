@@ -23,4 +23,15 @@ neighbours:
 - mummy
 - mumps
 - mumus
+prev_word: mumbo
+next_word: mummy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

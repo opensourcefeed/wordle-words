@@ -52,4 +52,15 @@ definitions:
   - text: A gear; a tackle.
   - text: "(in the plural) An assemblage or combination of tackles, for hoisting or
       lowering the yards of a ship."
+prev_word: jeera
+next_word: jeeze
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

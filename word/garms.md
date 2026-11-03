@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: Clothing
+prev_word: garis
+next_word: garni
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

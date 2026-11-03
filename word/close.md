@@ -58,4 +58,15 @@ definitions:
   - text: "(social) To finish, to terminate."
   - text: To come or gather around; to enclose; to encompass; to confine.
   - text: To have a vector sum of 0; that is, to form a closed polygon.
+prev_word: clops
+next_word: clote
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

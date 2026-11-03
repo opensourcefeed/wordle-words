@@ -40,4 +40,15 @@ definitions:
   - text: Inclined to vomit; sick.
   - text: Vile; contemptible.
   - text: Disgusting.
+prev_word: barfs
+next_word: barge
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -22,4 +22,15 @@ stats:
 neighbours:
 - chyle
 - phyla
+prev_word: phyla
+next_word: phyma
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

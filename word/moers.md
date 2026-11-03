@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _OERS
   count: 6
+prev_word: moeni
+next_word: mofos
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

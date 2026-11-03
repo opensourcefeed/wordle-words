@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _ICKY
   count: 9
+prev_word: nicks
+next_word: nicol
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

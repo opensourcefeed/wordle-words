@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: The leaf of a fern, especially a compound leaf.
   - text: Any fern-like leaf or other object resembling a fern leaf.
+prev_word: fromm
+next_word: frons
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

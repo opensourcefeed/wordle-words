@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Fraud, deception.
+prev_word: covey
+next_word: cowal
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

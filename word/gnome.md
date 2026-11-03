@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A brief reflection or maxim; a pithy saying.
+prev_word: gnaws
+next_word: gnows
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gn/"
+  label: Starting with GN
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

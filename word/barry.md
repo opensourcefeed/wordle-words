@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: A field divided transversely into several equal parts, and consisting of
       two different tinctures interchangeably disposed.
+prev_word: barro
+next_word: barye
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

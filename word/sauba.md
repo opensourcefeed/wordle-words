@@ -25,4 +25,15 @@ neighbours:
 - scuba
 - samba
 - shuba
+prev_word: satyr
+next_word: sauce
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

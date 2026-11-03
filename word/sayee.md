@@ -27,4 +27,15 @@ neighbours:
 - sayed
 - sayer
 - sayne
+prev_word: sayed
+next_word: sayer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

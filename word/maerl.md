@@ -26,4 +26,15 @@ anagrams:
 - realm
 - lamer
 - marle
+prev_word: maedi
+next_word: mafia
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 64
 neighbours:
 - vibex
+prev_word: vitas
+next_word: vitro
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

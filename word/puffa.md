@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A kind of shiny padded jacket.
+prev_word: puers
+next_word: puffs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/fa/"
+  label: Ending in FA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

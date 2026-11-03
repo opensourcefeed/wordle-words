@@ -46,4 +46,15 @@ definitions:
   - text: Bound as though by an oath.
   - text: Ardent, devout.
     example: a sworn foe
+prev_word: swore
+next_word: swots
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

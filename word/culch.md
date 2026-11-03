@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: To prepare an oyster bed with such (culch) attachments.
   - text: To accumulate small household items of little value.
+prev_word: cukes
+next_word: culet
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

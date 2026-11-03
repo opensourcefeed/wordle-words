@@ -53,4 +53,15 @@ definitions:
   - text: The lemon balm, Melissa officinalis
   - text: Any of a number of other aromatic herbs with a similar citrus-like scent,
       such as bee balm and horse balm.
+prev_word: bally
+next_word: balmy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

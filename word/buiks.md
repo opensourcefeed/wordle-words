@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: BU_KS
   count: 6
+prev_word: buhrs
+next_word: build
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

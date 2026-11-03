@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 96
 neighbours:
 - xylyl
+prev_word: xylic
+next_word: xylyl
+hubs:
+- url: "/starting-with/x/"
+  label: Starting with X
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

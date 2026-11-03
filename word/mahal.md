@@ -40,4 +40,15 @@ definitions:
   - text: A territorial division of pre-independence India.
   - text: A division of a farm.
   - text: A division of a hunting preserve.
+prev_word: magus
+next_word: mahem
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -54,4 +54,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(racial slur) A person of Native American descent."
+prev_word: chuff
+next_word: chump
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

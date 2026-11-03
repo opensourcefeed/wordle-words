@@ -26,4 +26,15 @@ neighbours:
 - mazas
 anagrams:
 - zamac
+prev_word: mayst
+next_word: mazak
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ac/"
+  label: Ending in AC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

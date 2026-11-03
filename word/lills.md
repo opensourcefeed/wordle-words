@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _ILLS
   count: 19
+prev_word: lilac
+next_word: lilos
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

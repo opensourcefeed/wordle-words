@@ -25,4 +25,15 @@ neighbours:
 - pekan
 - pelau
 - pikau
+prev_word: pekan
+next_word: pekea
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/au/"
+  label: Ending in AU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

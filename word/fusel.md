@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - flues
 - fuels
+prev_word: fusee
+next_word: fuses
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

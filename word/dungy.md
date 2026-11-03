@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - gundy
 - nudgy
+prev_word: dungs
+next_word: dunks
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

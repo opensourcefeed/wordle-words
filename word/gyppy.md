@@ -23,4 +23,15 @@ neighbours:
 - gypsy
 - gappy
 - gippy
+prev_word: gypes
+next_word: gypsy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

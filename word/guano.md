@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Dung from a sea bird or from a bat.
   - text: A variety of seabird.
+prev_word: guana
+next_word: guans
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

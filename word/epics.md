@@ -39,4 +39,15 @@ definitions:
   - text: A series of events considered appropriate to an epic.
     example: The book was an epic in four volumes.
   - text: In software development, a large or extended user story.
+prev_word: ephor
+next_word: epoch
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ep/"
+  label: Starting with EP
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

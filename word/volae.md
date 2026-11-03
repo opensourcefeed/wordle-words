@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - laevo
 - loave
+prev_word: voips
+next_word: volar
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

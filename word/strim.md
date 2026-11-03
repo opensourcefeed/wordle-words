@@ -33,4 +33,15 @@ definitions:
 - pos: verb
   defs:
   - text: To use a strimmer/string trimmer
+prev_word: strig
+next_word: strip
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

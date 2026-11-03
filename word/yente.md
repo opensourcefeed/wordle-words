@@ -28,4 +28,15 @@ neighbours:
 - yenta
 anagrams:
 - teeny
+prev_word: yenta
+next_word: yerba
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

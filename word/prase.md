@@ -49,4 +49,15 @@ definitions:
 - pos: noun
   defs:
   - text: A variety of cryptocrystalline of a leek-green colour.
+prev_word: praps
+next_word: prate
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

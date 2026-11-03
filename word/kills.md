@@ -96,4 +96,15 @@ definitions:
 - pos: noun
   defs:
   - text: A kiln.
+prev_word: kilim
+next_word: kilns
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

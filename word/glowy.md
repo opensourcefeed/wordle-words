@@ -30,4 +30,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Characteristic of a glow or glowing
+prev_word: glows
+next_word: gloze
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/wy/"
+  label: Ending in WY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

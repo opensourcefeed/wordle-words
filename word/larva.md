@@ -41,4 +41,15 @@ definitions:
   - text: An animal in the aforementioned stage.
   - text: A form of a recently born or hatched animal that is quite different from
       its adult stage.
+prev_word: larum
+next_word: lased
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/va/"
+  label: Ending in VA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

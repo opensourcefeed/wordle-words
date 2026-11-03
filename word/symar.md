@@ -22,4 +22,15 @@ stats:
 neighbours:
 - cymar
 - simar
+prev_word: sylva
+next_word: synch
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

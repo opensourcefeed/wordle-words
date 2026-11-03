@@ -45,4 +45,15 @@ definitions:
   - text: To stab someone with a shiv.
   - text: "(by extension) To stab someone with anything not normally used as a stabbing
       weapon."
+prev_word: shive
+next_word: shlep
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/vs/"
+  label: Ending in VS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

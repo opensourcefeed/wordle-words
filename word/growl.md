@@ -47,4 +47,15 @@ definitions:
     example: The old man growled his displeasure at the postman.
   - text: To play a wind instrument in a way that produces a low-pitched rumbling
       sound.
+prev_word: grovy
+next_word: grown
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/wl/"
+  label: Ending in WL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: A leaf or leaf-like structure from the axil out of which a stalk of a flower
       or an inflorescence arises.
+prev_word: brack
+next_word: brads
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

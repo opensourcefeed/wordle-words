@@ -23,4 +23,13 @@ neighbours:
 - knoud
 - knowe
 - knows
+prev_word: knout
+next_word: knowe
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

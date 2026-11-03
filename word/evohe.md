@@ -25,4 +25,15 @@ neighbours:
 - evoke
 anagrams:
 - evhoe
+prev_word: evite
+next_word: evoke
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ev/"
+  label: Starting with EV
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

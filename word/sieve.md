@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: To strain, sift or sort using a sieve.
   - text: To concede; let in
+prev_word: sieur
+next_word: sifts
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

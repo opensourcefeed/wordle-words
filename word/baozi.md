@@ -28,4 +28,13 @@ definitions:
 - pos: noun
   defs:
   - text: A Chinese steamed stuffed bun.
+prev_word: baons
+next_word: bappu
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

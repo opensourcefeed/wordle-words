@@ -30,4 +30,15 @@ anagrams:
 - aptly
 - platy
 - typal
+prev_word: patka
+next_word: patsy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

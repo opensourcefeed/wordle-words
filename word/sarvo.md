@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: Short for "this arvo."
+prev_word: sarus
+next_word: saser
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/vo/"
+  label: Ending in VO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

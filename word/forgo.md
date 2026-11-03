@@ -40,4 +40,15 @@ definitions:
   - text: To refrain from, to abstain from, to pass up, to withgo.
     example: I wouldn't forgo something, unless I'm convinced that it's detrimental
       in some way or another.
+prev_word: forge
+next_word: forks
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

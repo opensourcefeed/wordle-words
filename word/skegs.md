@@ -48,4 +48,15 @@ definitions:
   - text: A sort of wild plum (Prunus spinosa or Prunus domestica subsp. insititia
       (syn. Prunus institia)).
   - text: A kind of oat.
+prev_word: skegg
+next_word: skein
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

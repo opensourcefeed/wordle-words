@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A steep shaft in a mine which joins two levels.
+prev_word: winos
+next_word: wiped
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

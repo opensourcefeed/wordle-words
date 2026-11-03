@@ -74,4 +74,15 @@ definitions:
   defs:
   - text: Having been cooked by roasting.
   - text: Subjected to roasting, bantered, severely criticized.
+prev_word: roary
+next_word: roate
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

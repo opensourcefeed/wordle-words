@@ -29,4 +29,15 @@ definitions:
   - text: A class of plant growth substance (often called phytohormones or plant hormones)
       which play an essential role in coordination of many growth and behavioral processes
       in the plant life cycle.
+prev_word: autos
+next_word: avail
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

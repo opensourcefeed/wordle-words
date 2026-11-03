@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: An embroidery trim made of a series of small loops.
+prev_word: picon
+next_word: picra
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

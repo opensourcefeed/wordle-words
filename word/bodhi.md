@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: The state of enlightenment that finally ends the cycle of death and rebirth
       and leads to nirvana.
+prev_word: bodgy
+next_word: bodle
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

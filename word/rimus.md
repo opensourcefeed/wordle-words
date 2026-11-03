@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A large evergreen conifer native to New Zealand, Dacrydium cupressinum.
+prev_word: rimon
+next_word: rince
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -58,4 +58,15 @@ definitions:
 - pos: verb
   defs:
   - text: To assign a title to; to entitle.
+prev_word: titis
+next_word: titre
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

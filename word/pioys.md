@@ -26,4 +26,15 @@ neighbours:
 - pious
 - pioye
 - ploys
+prev_word: pioye
+next_word: pipal
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

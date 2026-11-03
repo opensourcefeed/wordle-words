@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - chaps
 - pasch
+prev_word: capex
+next_word: capiz
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

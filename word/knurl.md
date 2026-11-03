@@ -34,4 +34,15 @@ definitions:
 - pos: verb
   defs:
   - text: To roll or press a pattern of ridges or indentations into a part for grip.
+prev_word: knule
+next_word: knurr
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

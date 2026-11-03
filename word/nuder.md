@@ -29,4 +29,15 @@ anagrams:
 - runed
 - unred
 - urned
+prev_word: nuddy
+next_word: nudes
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

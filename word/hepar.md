@@ -24,4 +24,15 @@ stats:
 anagrams:
 - phare
 - raphe
+prev_word: hents
+next_word: herbs
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

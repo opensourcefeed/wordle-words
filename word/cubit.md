@@ -37,4 +37,15 @@ definitions:
       man's elbow to his fingertips, standardized in different places and times at
       values between 35 and 60 cm.
   - text: The ulna.
+prev_word: cubic
+next_word: cucks
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

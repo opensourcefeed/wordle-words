@@ -25,4 +25,15 @@ neighbours:
 - golps
 anagrams:
 - pelog
+prev_word: golly
+next_word: golps
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

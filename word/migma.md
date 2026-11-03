@@ -24,4 +24,15 @@ stats:
 neighbours:
 - magma
 - sigma
+prev_word: might
+next_word: migod
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

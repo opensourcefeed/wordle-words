@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: An ant.
   - text: "(Cornish dialect) A tourist."
+prev_word: emmer
+next_word: emmew
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

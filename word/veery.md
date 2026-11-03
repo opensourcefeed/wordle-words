@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: An American thrush (Catharus fuscescens) common in the Northern United States
       and Canada.
+prev_word: veers
+next_word: vegan
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

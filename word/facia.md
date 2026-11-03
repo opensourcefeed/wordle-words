@@ -42,4 +42,15 @@ definitions:
       skin; the stronger layer of connective tissue covering and investing all muscles;
       an aponeurosis.
   - text: The signboard above a shop or other location open to the public.
+prev_word: facey
+next_word: facie
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _ENNY
   count: 8
+prev_word: wenge
+next_word: wents
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -29,4 +29,15 @@ neighbours:
 - putti
 anagrams:
 - petit
+prev_word: petri
+next_word: petto
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

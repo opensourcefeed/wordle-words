@@ -19,4 +19,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 93
+prev_word: schwa
+next_word: scind
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: MI_ES
   count: 9
+prev_word: mizen
+next_word: mizzy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

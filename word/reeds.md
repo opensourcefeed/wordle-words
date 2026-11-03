@@ -71,4 +71,15 @@ definitions:
 - pos: noun
   defs:
   - text: The fourth stomach of a ruminant; rennet.
+prev_word: reede
+next_word: reedy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

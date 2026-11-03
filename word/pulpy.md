@@ -38,4 +38,15 @@ definitions:
   - text: Having the characteristics of pulp fiction; thus, having a garish focus
       on sex and violence
     example: a pulpy TV thriller
+prev_word: pulps
+next_word: pulse
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

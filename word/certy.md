@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 10
 neighbours:
 - certs
+prev_word: certs
+next_word: cesse
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

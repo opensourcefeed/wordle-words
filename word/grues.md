@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - surge
 - urges
+prev_word: gruel
+next_word: grufe
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -26,4 +26,15 @@ neighbours:
 - poori
 anagrams:
 - iroko
+prev_word: kooky
+next_word: kopek
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

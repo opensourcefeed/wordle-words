@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: A bud; an asexual reproductive structure, as found in liverworts and hydra,
       able to produce new individuals from a cluster of cells.
+prev_word: gemel
+next_word: gemmy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

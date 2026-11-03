@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - besti
 - bites
+prev_word: beset
+next_word: besom
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

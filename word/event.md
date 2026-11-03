@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: To occur, take place.
+prev_word: evens
+next_word: evert
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ev/"
+  label: Starting with EV
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

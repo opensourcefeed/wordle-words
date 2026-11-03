@@ -42,4 +42,15 @@ definitions:
   - text: To lead into danger by artifice; to lure into a net or snare; to entrap.
     example: to decoy troops into an ambush; to decoy ducks into a net
   - text: To act as, or use, a decoy.
+prev_word: decos
+next_word: decry
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/oy/"
+  label: Ending in OY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

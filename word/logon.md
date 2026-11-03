@@ -34,4 +34,15 @@ definitions:
     example: Using the same logon for different systems can be a security risk.
   - text: The process of logging on.
     example: The user's desktop is displayed shortly after logon.
+prev_word: logoi
+next_word: logos
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

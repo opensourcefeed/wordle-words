@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _ARKS
   count: 14
+prev_word: japes
+next_word: jarls
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

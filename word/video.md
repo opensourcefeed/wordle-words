@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: To record using a video camera, to videotape
   - text: To record a television program
+prev_word: vicus
+next_word: viers
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/eo/"
+  label: Ending in EO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

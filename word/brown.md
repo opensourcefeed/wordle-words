@@ -69,4 +69,15 @@ definitions:
   - text: Gloomy.
   - text: "(sometimes capitalized) Of or relating to any of various ethnic groups
       having dark pigmentation of the skin."
+prev_word: broth
+next_word: brows
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

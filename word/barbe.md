@@ -32,4 +32,15 @@ neighbours:
 - garbe
 anagrams:
 - rebab
+prev_word: bapus
+next_word: barbs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

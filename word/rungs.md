@@ -49,4 +49,15 @@ definitions:
   - text: One of the stakes of a cart; a spar; a heavy staff.
   - text: One of the radial handles projecting from the rim of a steering wheel.
   - text: One of the pins or trundles of a lantern wheel.
+prev_word: runes
+next_word: runic
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -37,4 +37,15 @@ anagrams:
 - spate
 - speat
 - tapes
+prev_word: tepal
+next_word: tepee
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

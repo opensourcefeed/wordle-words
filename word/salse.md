@@ -36,4 +36,15 @@ anagrams:
 - sales
 - seals
 - slaes
+prev_word: salsa
+next_word: salto
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

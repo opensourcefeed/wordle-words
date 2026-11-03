@@ -27,4 +27,15 @@ anagrams:
 - posit
 - opsit
 - topis
+prev_word: pitot
+next_word: pitsu
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

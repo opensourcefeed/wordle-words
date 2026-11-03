@@ -50,4 +50,15 @@ definitions:
       or any sticky adhesive substance.
   - text: Anything that binds two things or people together.
   - text: Birdlime.
+prev_word: gluer
+next_word: gluey
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

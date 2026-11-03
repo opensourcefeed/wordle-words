@@ -38,4 +38,15 @@ definitions:
   - text: Easy, making few demands, comfortable.
     example: This is a really cushy job. Mostly I just sit around drinking tea.
   - text: Comfortable; often in a way that will suit a person's body.
+prev_word: cusec
+next_word: cusks
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

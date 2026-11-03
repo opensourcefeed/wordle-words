@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A plant whose seedlings have two cotyledons, a dicotyledon.
+prev_word: dicky
+next_word: dicta
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

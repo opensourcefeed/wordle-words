@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _ITHE
   count: 7
+prev_word: kites
+next_word: kiths
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

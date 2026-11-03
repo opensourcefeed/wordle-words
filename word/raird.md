@@ -29,4 +29,15 @@ neighbours:
 - yaird
 anagrams:
 - ardri
+prev_word: rainy
+next_word: raise
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -33,4 +33,15 @@ anagrams:
 - daurs
 - duars
 - duras
+prev_word: rucks
+next_word: rudds
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

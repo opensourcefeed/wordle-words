@@ -68,4 +68,15 @@ definitions:
     example: He shopped his mates in to the police.
   - text: To imprison.
   - text: To photoshop; to digitally edit a picture or photograph.
+prev_word: shope
+next_word: shore
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

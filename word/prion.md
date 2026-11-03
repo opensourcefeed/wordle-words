@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: A self-propagating misfolded conformer of a protein that is responsible
       for a number of diseases that affect the brain and other neural tissue.
+prev_word: print
+next_word: prior
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

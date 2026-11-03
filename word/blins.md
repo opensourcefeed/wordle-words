@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: BLIN_
   count: 6
+prev_word: blink
+next_word: bliny
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

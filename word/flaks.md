@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: FLA_S
   count: 9
+prev_word: flake
+next_word: flaky
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

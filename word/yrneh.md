@@ -22,4 +22,11 @@ stats:
 anagrams:
 - henry
 - rhyne
+prev_word: yrivd
+next_word: ysame
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

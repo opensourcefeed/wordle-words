@@ -33,4 +33,15 @@ definitions:
       representing the Egyptian triliteral ꜥnḫ and often used as an amulet or charm
       for this concept.
   - text: Tau cross
+prev_word: anker
+next_word: ankle
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

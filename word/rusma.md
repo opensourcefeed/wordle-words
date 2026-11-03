@@ -27,4 +27,15 @@ anagrams:
 - musar
 - ramus
 - umras
+prev_word: rusky
+next_word: russe
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

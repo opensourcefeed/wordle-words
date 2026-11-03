@@ -39,4 +39,15 @@ definitions:
       cultivated in Spain, Malta, etc., for its carminative and aromatic seeds, which
       are used as a spice. It has a licorice scent.
   - text: (often qualified as "sweet anise" or "wild anise") Fennel, Foeniculum vulgare.
+prev_word: anion
+next_word: anker
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

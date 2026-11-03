@@ -71,4 +71,15 @@ definitions:
       who are about to give birth, are giving birth, or have recently given birth
       or miscarried or aborted.
   - text: Lymphangitis in a horse.
+prev_word: wedgy
+next_word: weedy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

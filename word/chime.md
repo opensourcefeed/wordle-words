@@ -69,4 +69,15 @@ definitions:
     example: The other lab's results chimed with mine, so I knew we were on the right
       track with the research.
   - text: To make a rude correspondence of sounds; to jingle, as in rhyming.
+prev_word: chimb
+next_word: chimo
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

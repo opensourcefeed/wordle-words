@@ -29,4 +29,15 @@ neighbours:
 - yawps
 anagrams:
 - puyas
+prev_word: yauld
+next_word: yawed
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

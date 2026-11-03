@@ -35,4 +35,15 @@ anagrams:
 - rames
 - ramse
 - reams
+prev_word: rerun
+next_word: resat
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

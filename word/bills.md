@@ -95,4 +95,15 @@ definitions:
 - pos: noun
   defs:
   - text: The bell, or boom, of the bittern.
+prev_word: bilks
+next_word: billy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

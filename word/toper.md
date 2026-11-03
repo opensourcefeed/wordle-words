@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _OPER
   count: 7
+prev_word: topek
+next_word: topes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

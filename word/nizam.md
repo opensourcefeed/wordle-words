@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: The hereditary sovereign of Hyderabad, a former state of India.
+prev_word: nixie
+next_word: njirl
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

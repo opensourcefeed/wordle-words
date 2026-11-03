@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A kind of heat-resistant glass.
+prev_word: pyres
+next_word: pyric
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

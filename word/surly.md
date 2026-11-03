@@ -46,4 +46,15 @@ definitions:
 - pos: adverb
   defs:
   - text: In an arrogant or supercilious manner.
+prev_word: surgy
+next_word: surra
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -45,4 +45,13 @@ definitions:
   - text: To take hold of; to grasp; to grab tightly.
     example: They clasped hands and parted as friends.
   - text: To shut or fasten together with, or as if with, a clasp.
+prev_word: clash
+next_word: class
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

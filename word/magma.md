@@ -42,4 +42,15 @@ definitions:
       operation.
   - text: Any soft doughy mass.
   - text: The residuum after expressing the juice from fruits.
+prev_word: magic
+next_word: magna
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

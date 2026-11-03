@@ -24,4 +24,15 @@ stats:
 neighbours:
 - devil
 - kevel
+prev_word: kevel
+next_word: kexes
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -40,4 +40,13 @@ definitions:
   - text: A unit of thickness in masonry construction defined by the quantity of masonry
       units 4" or greater.
     example: That wall has to be at least three wythes of brick to support your load.
+prev_word: wytes
+next_word: xebec
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

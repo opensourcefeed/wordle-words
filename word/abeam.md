@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: Alongside.
     example: She came abeam the crippled ship.
+prev_word: abcee
+next_word: abear
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

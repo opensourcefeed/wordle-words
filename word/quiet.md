@@ -66,4 +66,15 @@ definitions:
   defs:
   - text: Be quiet.
     example: Quiet! The children are sleeping.
+prev_word: quies
+next_word: quiff
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

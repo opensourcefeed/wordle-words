@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Astronotus ocellatus, a cichlid fish, native to South America, sometimes
       kept in aquariums.
+prev_word: osars
+next_word: osetr
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/os/"
+  label: Starting with OS
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

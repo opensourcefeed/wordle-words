@@ -44,4 +44,15 @@ definitions:
     example: I wish these pissy rain showers would either build up into a storm or
       go away.
   - text: Angry, in a bad mood (see pissed off)
+prev_word: pisos
+next_word: piste
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - avert
 - taver
+prev_word: tratt
+next_word: trawl
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -26,4 +26,15 @@ neighbours:
 - ondol
 anagrams:
 - dinlo
+prev_word: indie
+next_word: indow
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

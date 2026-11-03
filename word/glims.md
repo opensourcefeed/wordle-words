@@ -43,4 +43,15 @@ definitions:
   - text: A look; a glimpse.
   - text: Gonorrhea
   - text: Fake documents claiming the loss of property by fire (for use in begging).
+prev_word: glime
+next_word: glint
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

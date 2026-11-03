@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - goary
 - yorga
+prev_word: goras
+next_word: gorbs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

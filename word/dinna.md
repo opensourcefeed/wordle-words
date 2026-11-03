@@ -27,4 +27,15 @@ neighbours:
 - donna
 - pinna
 - winna
+prev_word: dinlo
+next_word: dinos
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

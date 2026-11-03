@@ -35,4 +35,15 @@ definitions:
       of something, such as a jug or bottle.
   - text: The amount of liquid issued when the "glug" sound is heard.
     example: Pour a glug of bleach into the toilet.
+prev_word: glugg
+next_word: glume
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

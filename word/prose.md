@@ -60,4 +60,15 @@ definitions:
 - pos: verb
   defs:
   - text: To write or repeat in a dull, tedious, or prosy way.
+prev_word: prore
+next_word: proso
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

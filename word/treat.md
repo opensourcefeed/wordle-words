@@ -75,4 +75,15 @@ definitions:
       result in mind.
     example: He treated the substance with sulphuric acid.
   - text: To provide something special and pleasant.
+prev_word: tread
+next_word: treck
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

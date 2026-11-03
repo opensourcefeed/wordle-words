@@ -110,4 +110,15 @@ definitions:
       similar.
     example: Tails, I win.
   - text: Tailings; waste
+prev_word: taiko
+next_word: tains
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

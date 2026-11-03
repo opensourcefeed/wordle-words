@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 82
 neighbours:
 - dwalm
+prev_word: dwarf
+next_word: dweeb
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dw/"
+  label: Starting with DW
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -32,4 +32,15 @@ definitions:
       and rigid leaves at the top of a woody stem, and bearing a large panicle of
       showy white blossoms.
   - text: The yuca (cassava).
+prev_word: yucas
+next_word: yucch
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

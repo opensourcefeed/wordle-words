@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 53
 neighbours:
 - glair
+prev_word: glady
+next_word: glair
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

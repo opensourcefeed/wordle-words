@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: A child of noble birth.
   - text: The cognomen given to the oldest son prior to his taking his father's title.
+prev_word: chiks
+next_word: chile
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

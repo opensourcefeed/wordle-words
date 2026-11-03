@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ULLY
   count: 10
+prev_word: pulls
+next_word: pulmo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

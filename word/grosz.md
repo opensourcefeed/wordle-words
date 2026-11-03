@@ -27,4 +27,13 @@ definitions:
 - pos: noun
   defs:
   - text: A subdivision of currency, equal to one hundredth of a Polish zloty.
+prev_word: gross
+next_word: grots
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

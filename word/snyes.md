@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - syens
 - synes
+prev_word: snush
+next_word: soaks
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

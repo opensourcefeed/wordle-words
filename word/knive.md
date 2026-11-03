@@ -24,4 +24,15 @@ neighbours:
 - knave
 - knife
 - snive
+prev_word: knits
+next_word: knobs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

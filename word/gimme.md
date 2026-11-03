@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: That which is easily obtained, or certain to occur.
     example: It's a gimme.
+prev_word: gimel
+next_word: gimps
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

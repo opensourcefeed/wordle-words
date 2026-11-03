@@ -24,4 +24,15 @@ stats:
 neighbours:
 - calif
 - kalis
+prev_word: kales
+next_word: kalis
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/if/"
+  label: Ending in IF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

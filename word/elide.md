@@ -38,4 +38,15 @@ definitions:
   - text: To leave out or omit (something).
   - text: To cut off, as a vowel or a syllable.
   - text: To conflate; to smear together; to blur the distinction between.
+prev_word: eliad
+next_word: elint
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

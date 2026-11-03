@@ -62,4 +62,15 @@ definitions:
   defs:
   - text: Becoming elderly.
     example: The aging artist could no longer steadily hold the brush.
+prev_word: agile
+next_word: agios
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

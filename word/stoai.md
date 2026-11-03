@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - iotas
 - ostia
+prev_word: stoae
+next_word: stoas
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

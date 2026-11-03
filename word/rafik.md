@@ -25,4 +25,15 @@ neighbours:
 - rafiq
 anagrams:
 - fakir
+prev_word: raffy
+next_word: rafiq
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

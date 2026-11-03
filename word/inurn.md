@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: To place (the remains of a person who has died) in an urn or other container.
   - text: To hold or contain (the remains of a person who has died).
+prev_word: inure
+next_word: inust
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

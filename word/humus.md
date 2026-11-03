@@ -32,4 +32,15 @@ definitions:
   - text: A large group of natural organic compounds, found in the soil, formed from
       the chemical and biological decomposition of plant and animal residues and from
       the synthetic activity of microorganisms
+prev_word: humpy
+next_word: hunch
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -37,4 +37,15 @@ definitions:
       faith, set forth authoritatively by a religious organization or leader.
     example: In the Catholic Church, new dogmas can only be declared by the pope after
       the extremely rare procedure ex cathedra to make them part of the official faith.
+prev_word: dogly
+next_word: dohyo
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

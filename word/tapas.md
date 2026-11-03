@@ -49,4 +49,15 @@ definitions:
   - text: A variety of Spanish small food items or snacks, originally served with
       sherry.
   - text: "(by extension) Small food items generally."
+prev_word: tanty
+next_word: taped
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

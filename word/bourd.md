@@ -28,4 +28,15 @@ neighbours:
 - bourg
 - bourn
 - courd
+prev_word: bouns
+next_word: bourg
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -33,4 +33,15 @@ definitions:
   - text: An orthochromatic plate.
   - text: "(imaging) An orthophoto."
   - text: Orthopedics.
+prev_word: ortet
+next_word: orval
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/ho/"
+  label: Ending in HO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

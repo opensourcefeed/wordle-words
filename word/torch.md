@@ -48,4 +48,15 @@ definitions:
   - text: To set fire to, especially by use of a torch (flaming stick).
     example: Some hoodlums had torched a derelict automobile, which emitted a ghastly
       pall of thick, black smoke that filled the street.
+prev_word: toras
+next_word: torcs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

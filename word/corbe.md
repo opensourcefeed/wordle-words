@@ -25,4 +25,15 @@ neighbours:
 - combe
 - corby
 - corse
+prev_word: coram
+next_word: corby
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

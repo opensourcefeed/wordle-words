@@ -20,4 +20,15 @@ stats:
   starter_top_percent: 98
 neighbours:
 - undue
+prev_word: undue
+next_word: uneth
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ug/"
+  label: Ending in UG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

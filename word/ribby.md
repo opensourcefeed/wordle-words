@@ -31,4 +31,15 @@ definitions:
   - text: Pertaining to or having ribs; ribbed.
   - text: Specifically, thin so as to have prominent ribs; emaciated.
   - text: Shabby, in poor condition.
+prev_word: ribas
+next_word: ribes
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

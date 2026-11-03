@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: A type of Asian ungulate ruminant, now defined as any of the four species
       of the genus Naemorhedus.
+prev_word: gopik
+next_word: goras
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

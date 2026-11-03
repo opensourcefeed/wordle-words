@@ -24,4 +24,15 @@ neighbours:
 - abeam
 - abray
 - abrim
+prev_word: above
+next_word: abray
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

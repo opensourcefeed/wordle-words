@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _IEVE
   count: 6
+prev_word: lieus
+next_word: lifer
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

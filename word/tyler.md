@@ -24,4 +24,15 @@ stats:
 neighbours:
 - taler
 - tiler
+prev_word: tykes
+next_word: tymps
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

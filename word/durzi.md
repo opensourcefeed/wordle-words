@@ -29,4 +29,13 @@ definitions:
 - pos: noun
   defs:
   - text: A tailor, especially a personal one.
+prev_word: durum
+next_word: dusks
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

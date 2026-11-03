@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: Not capricious or impulsive; sedate, serious, sober.
   - text: Always fixed in the same location; stationary.
+prev_word: stagy
+next_word: staig
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

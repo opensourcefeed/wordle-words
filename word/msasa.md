@@ -31,4 +31,13 @@ definitions:
 - pos: noun
   defs:
   - text: A tree of Southern Africa, Brachystegia spiciformis.
+prev_word: mrads
+next_word: mtepe
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -36,4 +36,15 @@ definitions:
   - text: Idealistic, implying over-optimism
     example: a lofty goal
   - text: Extremely proud; arrogant; haughty
+prev_word: lofts
+next_word: logan
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: To move in the manner of a gecko; to attach to a vertical or upside-down
       surface.
+prev_word: gebur
+next_word: gecks
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

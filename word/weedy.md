@@ -50,4 +50,15 @@ definitions:
     example: a weedy lad
   - text: Lacking power or effectiveness.
     example: a weedy attempt
+prev_word: weeds
+next_word: weeis
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -33,4 +33,15 @@ anagrams:
 - ideal
 - ailed
 - eliad
+prev_word: laics
+next_word: laids
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

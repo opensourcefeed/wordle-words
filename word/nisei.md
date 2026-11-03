@@ -27,4 +27,13 @@ definitions:
 - pos: noun
   defs:
   - text: An American or Canadian whose parents were Japanese immigrants
+prev_word: nirly
+next_word: nisin
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

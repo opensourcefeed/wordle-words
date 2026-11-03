@@ -27,4 +27,15 @@ neighbours:
 - esile
 anagrams:
 - elide
+prev_word: edify
+next_word: edits
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ed/"
+  label: Starting with ED
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

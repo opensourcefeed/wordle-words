@@ -83,4 +83,15 @@ definitions:
       Compare black.
   - text: Characterised by the presence of snow.
     example: a white Christmas
+prev_word: whist
+next_word: whits
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

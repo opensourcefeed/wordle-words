@@ -46,4 +46,15 @@ definitions:
   - text: To break into fragments or small pieces.
   - text: To reduce, as irregular blocks of stone, to an approximately level surface
       by hammering.
+prev_word: spale
+next_word: spalt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

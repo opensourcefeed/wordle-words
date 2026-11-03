@@ -42,4 +42,15 @@ definitions:
   - text: The poisonous dried tips of this plant, with anthelmintic properties, used
       as a drug.
   - text: The eastern red cedar, Juniperus virginiana, of eastern North America.
+prev_word: savey
+next_word: savor
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

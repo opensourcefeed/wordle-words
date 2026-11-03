@@ -47,4 +47,15 @@ definitions:
   - text: Sheepskin leather.
   - text: "(speech recognition) A person who is easily understood by a speech recognition
       system; contrasted with goat."
+prev_word: sheen
+next_word: sheer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ep/"
+  label: Ending in EP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

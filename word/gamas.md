@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _AMAS
   count: 8
+prev_word: galvo
+next_word: gamay
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

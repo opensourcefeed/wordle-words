@@ -43,4 +43,15 @@ definitions:
       (something else)."
     example: The physics teacher likened the effect of mass on space to an indentation
       in a sheet of rubber.
+prev_word: liked
+next_word: liker
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

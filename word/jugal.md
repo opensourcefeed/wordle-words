@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Relating to a yoke or marriage.
   - text: Pertaining to the jugal bone.
+prev_word: judos
+next_word: jugum
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -23,4 +23,15 @@ stats:
 neighbours:
 - nertz
 - nurts
+prev_word: nurts
+next_word: nused
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/tz/"
+  label: Ending in TZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

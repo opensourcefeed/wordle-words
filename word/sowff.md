@@ -22,4 +22,15 @@ stats:
 neighbours:
 - howff
 - sowfs
+prev_word: sower
+next_word: sowfs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

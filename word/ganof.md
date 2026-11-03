@@ -25,4 +25,13 @@ neighbours:
 - gonof
 anagrams:
 - fango
+prev_word: ganks
+next_word: gants
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

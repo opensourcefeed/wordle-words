@@ -82,4 +82,15 @@ definitions:
   - text: In or near, as in mental faculties or in the possession of; under the control
       of; at one's command; in one's makeup.
     example: He has his wits about him.
+prev_word: abort
+next_word: above
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

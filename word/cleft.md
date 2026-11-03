@@ -43,4 +43,15 @@ definitions:
   - text: To syntactically separate a prominent constituent from the rest of the clause
       that concerns it, such as threat in "The threat which I saw but which he didn't
       see, was his downfall."
+prev_word: clefs
+next_word: clegs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

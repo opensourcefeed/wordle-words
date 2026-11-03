@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _INGY
   count: 8
+prev_word: bings
+next_word: binit
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

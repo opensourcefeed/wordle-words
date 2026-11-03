@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _URES
   count: 8
+prev_word: jurel
+next_word: juris
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

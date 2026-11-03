@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 39
 neighbours:
 - debur
+prev_word: geats
+next_word: gecko
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

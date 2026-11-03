@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 84
 neighbours:
 - blond
+prev_word: blond
+next_word: blood
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

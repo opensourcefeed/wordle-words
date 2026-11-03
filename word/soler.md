@@ -43,4 +43,15 @@ anagrams:
 - resol
 - roles
 - sorel
+prev_word: solei
+next_word: soles
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

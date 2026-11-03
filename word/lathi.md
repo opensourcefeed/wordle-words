@@ -38,4 +38,15 @@ definitions:
   - text: A heavy stick or club, usually used by policemen.
   - text: A martial art based on stick fighting originally practiced in India.
     example: Lathi shares its basic principles with other martial arts.
+prev_word: lathe
+next_word: laths
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

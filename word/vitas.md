@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A curriculum vitae.
+prev_word: vital
+next_word: vitex
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

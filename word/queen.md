@@ -58,4 +58,15 @@ definitions:
   - text: To provide with a new queen.
   - text: To be the queen of a colony.
   - text: "(BDSM, of a female) To sit on the face of (a partner) to receive oral sex."
+prev_word: queem
+next_word: queer
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

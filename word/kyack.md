@@ -22,4 +22,15 @@ stats:
 neighbours:
 - knack
 - kiack
+prev_word: kwirl
+next_word: kyaks
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -60,4 +60,15 @@ definitions:
   - text: In a vertical direction; perpendicularly.
   - text: Squarely, directly; completely.
     example: It hit him plumb in the middle of his face.
+prev_word: pluke
+next_word: plume
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/mb/"
+  label: Ending in MB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

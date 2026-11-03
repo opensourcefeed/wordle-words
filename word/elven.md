@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A female elf, a fairy, nymph; (by extension) any elf.
+prev_word: elvan
+next_word: elver
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

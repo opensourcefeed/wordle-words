@@ -61,4 +61,15 @@ definitions:
   - text: To cascade in an overlapping sequence.
   - text: To move (data) from one storage medium to another as an optimization, based
       on how frequently it is accessed.
+prev_word: tiefs
+next_word: tiffs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

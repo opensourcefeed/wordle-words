@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any rodent in the family Muridae.
+prev_word: murgi
+next_word: murks
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

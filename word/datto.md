@@ -25,4 +25,15 @@ stats:
 neighbours:
 - ditto
 - natto
+prev_word: datos
+next_word: datum
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

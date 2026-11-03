@@ -44,4 +44,15 @@ definitions:
   - text: A person whose lifestyle is centered on motorcycles, sometimes a member
       of a motorcycle club.
   - text: Cyclist
+prev_word: biked
+next_word: bikes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

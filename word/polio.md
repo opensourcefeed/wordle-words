@@ -37,4 +37,15 @@ definitions:
   - text: Acute infection by the poliovirus, especially of the motor neurons in the
       spinal cord and brainstem, leading to muscle weakness, paralysis and sometimes
       deformity.
+prev_word: poley
+next_word: polis
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/io/"
+  label: Ending in IO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

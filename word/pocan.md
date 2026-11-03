@@ -26,4 +26,15 @@ neighbours:
 - pucan
 anagrams:
 - capon
+prev_word: poboy
+next_word: poche
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -26,4 +26,15 @@ neighbours:
 - ovism
 anagrams:
 - misdo
+prev_word: odeum
+next_word: odist
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/od/"
+  label: Starting with OD
+- url: "/ending-with/sm/"
+  label: Ending in SM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

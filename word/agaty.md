@@ -23,4 +23,15 @@ stats:
 neighbours:
 - agate
 - agamy
+prev_word: agate
+next_word: agave
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -62,4 +62,15 @@ definitions:
     example: Would you like to nurse the puppy?
   - text: To strike (billiard balls) gently, so as to keep them in good position during
       a series of shots.
+prev_word: nurrs
+next_word: nurts
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

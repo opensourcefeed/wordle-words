@@ -26,4 +26,15 @@ neighbours:
 - tragi
 anagrams:
 - aight
+prev_word: thack
+next_word: thaim
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

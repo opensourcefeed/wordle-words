@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A blow; a hit; a variation of whop.
   - text: The curlew.
+prev_word: whang
+next_word: whare
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

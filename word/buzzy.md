@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Having a buzzing sound.
   - text: Being the subject of cultural buzz.
+prev_word: buyin
+next_word: bwana
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

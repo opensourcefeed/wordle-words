@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To laugh out loud.
+prev_word: lolas
+next_word: lollo
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: The outer layer of a pollen grain or spore; the exosporium
+prev_word: exile
+next_word: exing
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

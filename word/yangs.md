@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _ANGS
   count: 15
+prev_word: yandy
+next_word: yanks
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

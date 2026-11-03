@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 91
 neighbours:
 - unfix
+prev_word: unmew
+next_word: unode
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

@@ -28,4 +28,15 @@ anagrams:
 - psora
 - sapor
 - sopra
+prev_word: rappe
+next_word: rared
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

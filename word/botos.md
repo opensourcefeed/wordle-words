@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: Inia geoffrensis, a species of freshwater dolphin endemic to the Amazon
       river system
+prev_word: bothy
+next_word: botte
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

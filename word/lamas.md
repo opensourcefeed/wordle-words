@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: A South American mammal of the camel family, Lama glama, used as a domestic
       beast of burden and a source of wool and meat.
+prev_word: lalls
+next_word: lambs
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

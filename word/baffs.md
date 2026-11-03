@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _AFFS
   count: 10
+prev_word: baels
+next_word: baffy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

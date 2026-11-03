@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A bilateral meeting.
+prev_word: bilal
+next_word: bilbo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

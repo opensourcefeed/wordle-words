@@ -36,4 +36,13 @@ neighbours:
 trap:
   pattern: _INTS
   count: 9
+prev_word: oinks
+next_word: oiran
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

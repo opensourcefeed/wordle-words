@@ -31,4 +31,15 @@ neighbours:
 - moats
 - mokis
 - motis
+prev_word: mneme
+next_word: moaky
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

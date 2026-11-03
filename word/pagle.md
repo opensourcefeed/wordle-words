@@ -28,4 +28,15 @@ neighbours:
 - parle
 anagrams:
 - plage
+prev_word: pages
+next_word: pagne
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

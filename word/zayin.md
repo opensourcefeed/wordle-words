@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: The seventh letter of many Semitic alphabets (Phoenician, Aramaic, Hebrew,
       Syriac, Arabic and others).
+prev_word: zayde
+next_word: zazen
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of certain trees in the mallow family, native to the Caribbean.
+prev_word: mahis
+next_word: mahrs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/oe/"
+  label: Ending in OE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

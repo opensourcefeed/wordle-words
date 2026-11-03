@@ -24,4 +24,15 @@ neighbours:
 - dabba
 - gabba
 - yabby
+prev_word: yabas
+next_word: yabby
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

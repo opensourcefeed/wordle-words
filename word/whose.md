@@ -41,4 +41,15 @@ definitions:
   - text: "(relative) That or those of whom or belonging to whom."
     example: This car is blocking the way, but Mr Smith, whose it is, will be here
       shortly.
+prev_word: whort
+next_word: whoso
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

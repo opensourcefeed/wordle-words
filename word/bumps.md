@@ -79,4 +79,15 @@ definitions:
   - text: To pick (a lock) with a repeated striking motion that dislodges the pins.
   - text: To make a loud, heavy, or hollow noise; to boom.
   - text: To spread out material so as to fill any desired number of pages.
+prev_word: bumph
+next_word: bumpy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -34,4 +34,15 @@ anagrams:
 - reing
 - renig
 - ringe
+prev_word: grego
+next_word: grens
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 5
 anagrams:
 - naice
+prev_word: enfix
+next_word: enjoy
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/ac/"
+  label: Ending in AC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

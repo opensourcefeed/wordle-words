@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: To pyrolyze or burn food until the color begins to change to a light brown,
       but not as dark as browning
+prev_word: gokes
+next_word: goldy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

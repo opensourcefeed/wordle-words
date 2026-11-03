@@ -49,4 +49,15 @@ definitions:
     example: The best-known example of a pome is the apple.
   - text: A ball of silver or other metal, filled with hot water and used by a Roman
       Catholic priest in cold weather to warm his hands during the service.
+prev_word: pombe
+next_word: pomme
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

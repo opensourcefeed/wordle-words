@@ -27,4 +27,15 @@ anagrams:
 - doley
 - odyle
 - yodel
+prev_word: yodhs
+next_word: yogas
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

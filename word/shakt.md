@@ -29,4 +29,13 @@ neighbours:
 - shart
 anagrams:
 - khats
+prev_word: shako
+next_word: shaky
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

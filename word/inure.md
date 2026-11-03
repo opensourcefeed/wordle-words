@@ -38,4 +38,15 @@ definitions:
       property to get to the water. That right of way is said, cryptically, "to inure
       to the benefit of Jim".
   - text: To commit.
+prev_word: inula
+next_word: inurn
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

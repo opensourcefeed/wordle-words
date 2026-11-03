@@ -47,4 +47,15 @@ definitions:
   - text: To carry oneself in a depressed, lackadaisical manner; to give oneself up
       to low spirits; to pout, sulk.
   - text: To make spiritless and stupid.
+prev_word: moper
+next_word: mopey
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

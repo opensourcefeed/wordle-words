@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To be part of a clade; to form a clade.
+prev_word: clack
+next_word: clads
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

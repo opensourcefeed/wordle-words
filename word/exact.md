@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: Exactly
     example: She's wearing the exact same sweater as I am!
+prev_word: ewked
+next_word: exalt
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

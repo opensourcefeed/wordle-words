@@ -24,4 +24,15 @@ neighbours:
 - purge
 - punga
 - purda
+prev_word: pures
+next_word: purge
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

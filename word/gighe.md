@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 74
 neighbours:
 - gigue
+prev_word: gigas
+next_word: gigot
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

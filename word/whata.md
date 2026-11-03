@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 85
 neighbours:
 - whats
+prev_word: wharf
+next_word: whats
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

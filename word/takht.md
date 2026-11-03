@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 85
 neighbours:
 - takhi
+prev_word: takhi
+next_word: takin
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

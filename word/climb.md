@@ -47,4 +47,15 @@ definitions:
   - text: To jump high
   - text: To move to a higher position on the social ladder.
   - text: Of plants, to grow upwards by clinging to something.
+prev_word: clift
+next_word: clime
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/mb/"
+  label: Ending in MB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

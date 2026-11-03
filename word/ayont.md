@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 20
 anagrams:
 - atony
+prev_word: aymag
+next_word: ayres
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

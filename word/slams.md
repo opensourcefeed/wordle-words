@@ -63,4 +63,15 @@ definitions:
 - pos: verb
   defs:
   - text: To defeat by winning all the tricks of a deal or a hand.
+prev_word: slake
+next_word: slane
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -25,4 +25,15 @@ neighbours:
 - capot
 - capul
 - kaput
+prev_word: capul
+next_word: carap
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

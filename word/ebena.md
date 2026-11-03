@@ -24,4 +24,13 @@ stats:
 neighbours:
 - ebene
 - epena
+prev_word: ebbet
+next_word: ebene
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

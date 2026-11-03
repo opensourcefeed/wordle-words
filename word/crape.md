@@ -62,4 +62,15 @@ definitions:
     example: The policeman wore crepe-soled shoes.
   - text: A death notice printed on white card with a background of black crepe paper
       or cloth, placed on the door of a residence or business.
+prev_word: crans
+next_word: craps
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

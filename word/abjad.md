@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 99
 neighbours:
 - abjud
+prev_word: abius
+next_word: abjud
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

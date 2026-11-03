@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OUND
   count: 9
+prev_word: louma
+next_word: louns
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

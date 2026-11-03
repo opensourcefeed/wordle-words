@@ -26,4 +26,15 @@ neighbours:
 - towny
 - towse
 - towzy
+prev_word: towse
+next_word: towts
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Maori club / pounder
+prev_word: patty
+next_word: pauas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

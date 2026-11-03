@@ -100,4 +100,15 @@ definitions:
       in the blood and tissues, because of too rapid decompression, seen especially
       in deep-sea divers ascending rapidly from a dive. It is characterized by severe
       pains in the joints and chest, skin irritation, cramps, nausea, and paralysis.
+prev_word: bench
+next_word: bendy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

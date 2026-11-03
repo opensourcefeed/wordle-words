@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: Injured, or not functioning properly (with respect to legs).
     example: I have got a gammy leg, and can't walk far.
+prev_word: gamme
+next_word: gamps
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -39,4 +39,15 @@ neighbours:
 trap:
   pattern: AL_OS
   count: 6
+prev_word: aline
+next_word: alist
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

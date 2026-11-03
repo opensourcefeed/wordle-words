@@ -31,4 +31,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Much; a great deal of
+prev_word: mtepe
+next_word: mucic
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ho/"
+  label: Ending in HO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

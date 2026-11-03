@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A male gypsy.
+prev_word: chalk
+next_word: champ
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

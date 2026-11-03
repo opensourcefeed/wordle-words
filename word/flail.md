@@ -44,4 +44,15 @@ definitions:
   - text: To thresh.
   - text: To move like a flail.
     example: He was flailing wildly, but didn't land a blow.
+prev_word: flags
+next_word: flair
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

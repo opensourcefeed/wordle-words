@@ -55,4 +55,15 @@ definitions:
 - pos: noun
   defs:
   - text: The currency of Ethiopia, divided into 100 santims.
+prev_word: biros
+next_word: birse
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

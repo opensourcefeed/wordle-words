@@ -32,4 +32,15 @@ neighbours:
 - zolle
 anagrams:
 - cello
+prev_word: colin
+next_word: colls
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

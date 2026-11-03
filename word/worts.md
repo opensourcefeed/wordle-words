@@ -49,4 +49,15 @@ definitions:
   - text: A plant; herb; vegetable.
   - text: Any of various plants or herbs, used in combination to refer to specific
       plants such as St. John's wort, or on its own as a generic term.
+prev_word: worth
+next_word: would
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

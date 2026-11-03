@@ -56,4 +56,15 @@ definitions:
 - pos: verb
   defs:
   - text: To imprison.
+prev_word: jagra
+next_word: jaker
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

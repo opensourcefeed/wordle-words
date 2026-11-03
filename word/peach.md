@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: Of or pertaining to the color peach.
   - text: Particularly pleasing or agreeable.
+prev_word: peace
+next_word: peage
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

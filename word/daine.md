@@ -30,4 +30,15 @@ neighbours:
 - saine
 anagrams:
 - diane
+prev_word: daily
+next_word: daint
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

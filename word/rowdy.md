@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Loud and disorderly; riotous; boisterous.
+prev_word: rowan
+next_word: rowed
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

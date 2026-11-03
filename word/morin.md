@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - minor
 - rimon
+prev_word: moria
+next_word: mormo
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

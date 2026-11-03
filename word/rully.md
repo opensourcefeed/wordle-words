@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ULLY
   count: 10
+prev_word: rules
+next_word: rumal
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -31,4 +31,15 @@ anagrams:
 - snail
 - nails
 - nilas
+prev_word: anile
+next_word: anima
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

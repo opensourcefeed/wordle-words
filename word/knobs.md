@@ -47,4 +47,15 @@ definitions:
   - text: A dollop, an amount just larger than a spoonful (usually referring to butter).
   - text: A chunky branch-like piece, especially of a ginger rhizome.
   - text: A bulb of the garlic plant consisting of multiple cloves.
+prev_word: knive
+next_word: knock
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

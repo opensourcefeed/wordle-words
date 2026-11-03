@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: Small portions of starters typical of Turkish and Greek cuisine (equivalent
       to Spanish tapas or Hawaiian pu pu) often served as a light meal with pita.
+prev_word: meynt
+next_word: mezza
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

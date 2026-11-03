@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Any of several varieties of red grape used for making Beaujolais and other
       red wines.
+prev_word: gamas
+next_word: gamba
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

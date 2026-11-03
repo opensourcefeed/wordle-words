@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(Chicano) Hispanic youth; guy; dude"
+prev_word: vatje
+next_word: vatus
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

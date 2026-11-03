@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _OUKS
   count: 10
+prev_word: pouke
+next_word: poule
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

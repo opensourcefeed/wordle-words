@@ -42,4 +42,15 @@ definitions:
       and hence pitch, of a string.
   - text: The component of an audio system that receives radio broadcasts.
   - text: One who sings or makes music.
+prev_word: tuned
+next_word: tunes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

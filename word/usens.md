@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - nuses
 - sensu
+prev_word: usage
+next_word: users
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/us/"
+  label: Starting with US
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

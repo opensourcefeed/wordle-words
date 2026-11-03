@@ -53,4 +53,15 @@ definitions:
 - pos: noun
   defs:
   - text: A metal wind instrument of 19th-century China, resembling the oboe.
+prev_word: lants
+next_word: lapel
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

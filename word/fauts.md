@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _AUTS
   count: 6
+prev_word: faute
+next_word: fauve
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

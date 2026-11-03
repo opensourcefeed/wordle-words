@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _OBBY
   count: 10
+prev_word: poalo
+next_word: poboy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

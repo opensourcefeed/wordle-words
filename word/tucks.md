@@ -80,4 +80,15 @@ definitions:
 - pos: noun
   defs:
   - text: The beat of a drum.
+prev_word: tubes
+next_word: tufas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

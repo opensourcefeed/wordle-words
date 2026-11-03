@@ -41,4 +41,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of a rich reddish-brown colour.
+prev_word: henge
+next_word: henny
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

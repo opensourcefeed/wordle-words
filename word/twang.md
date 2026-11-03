@@ -48,4 +48,15 @@ definitions:
   - text: To have a nasal sound.
   - text: To have a trace of a regional or foreign accent.
   - text: To play a stringed musical instrument by plucking and snapping.
+prev_word: twals
+next_word: twank
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -38,4 +38,15 @@ definitions:
   - text: Dryly humorous; sardonic or bitterly ironic.
   - text: Twisted, bent, crooked.
   - text: Deviating from the right direction; misdirected; out of place.
+prev_word: wrung
+next_word: wryly
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

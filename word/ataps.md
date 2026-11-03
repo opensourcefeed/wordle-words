@@ -28,4 +28,15 @@ anagrams:
 - pasta
 - patas
 - tapas
+prev_word: asyla
+next_word: ataxy
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

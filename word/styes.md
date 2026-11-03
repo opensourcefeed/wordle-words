@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A bacterial infection in the eyelash or eyelid.
+prev_word: styed
+next_word: style
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

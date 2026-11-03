@@ -79,4 +79,15 @@ definitions:
   - text: To drive (a coach or other vehicle).
   - text: To carry or convey in a coach or other vehicle.
   - text: To travel in a vehicle; to ride or drive.
+prev_word: tonus
+next_word: tooms
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

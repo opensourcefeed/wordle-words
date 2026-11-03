@@ -57,4 +57,15 @@ definitions:
     example: The ash trees are dying off due to emerald ash borer.
   - text: The wood of this tree.
   - text: The traditional name for the ae ligature (æ), as used in Old English.
+prev_word: ashen
+next_word: ashet
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

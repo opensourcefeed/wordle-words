@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Any North American freshwater fish of certain species of the genus Coregonus
       that live in cold-water lakes.
+prev_word: cirri
+next_word: cissy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

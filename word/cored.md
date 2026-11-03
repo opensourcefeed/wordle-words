@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: To remove the core of an apple or other fruit.
   - text: To extract a sample with a drill.
+prev_word: cords
+next_word: corer
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

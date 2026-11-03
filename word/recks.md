@@ -43,4 +43,15 @@ definitions:
   - text: To make account of; to care for; to heed, regard, consider.
   - text: To concern, to be important or earnest.
   - text: To think.
+prev_word: recit
+next_word: recon
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

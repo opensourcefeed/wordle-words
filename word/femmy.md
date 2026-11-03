@@ -23,4 +23,15 @@ neighbours:
 - femme
 - gemmy
 - jemmy
+prev_word: femme
+next_word: femur
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

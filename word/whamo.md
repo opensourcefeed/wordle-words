@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 70
 neighbours:
 - whams
+prev_word: whale
+next_word: whams
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

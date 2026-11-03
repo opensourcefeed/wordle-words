@@ -31,4 +31,15 @@ neighbours:
 - pions
 anagrams:
 - bison
+prev_word: biome
+next_word: biont
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

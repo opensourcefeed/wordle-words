@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _IDDY
   count: 7
+prev_word: tidal
+next_word: tided
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

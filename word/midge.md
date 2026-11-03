@@ -40,4 +40,15 @@ definitions:
       or non-biting midges, the family Chaoboridae or phantom midges, and the family
       Ceratopogonidae or biting midges, all belonging to the order Diptera
   - text: Any bait or lure designed to resemble a midge
+prev_word: middy
+next_word: midgy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

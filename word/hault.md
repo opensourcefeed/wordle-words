@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _AULT
   count: 6
+prev_word: hauls
+next_word: hauns
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A protein important in the contraction of striated muscle tissues.
+prev_word: tithi
+next_word: titir
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

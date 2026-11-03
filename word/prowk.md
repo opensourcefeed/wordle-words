@@ -24,4 +24,13 @@ neighbours:
 - pronk
 - prook
 - prows
+prev_word: prove
+next_word: prowl
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

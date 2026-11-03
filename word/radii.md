@@ -40,4 +40,13 @@ definitions:
   - text: The length of this line segment.
   - text: Anything resembling a radius, such as the spoke of a wheel, the movable
       arm of a sextant, or one of the radiating lines of a spider's web.
+prev_word: radif
+next_word: radio
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

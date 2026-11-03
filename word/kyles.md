@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A narrow channel between islands in Scotland.
+prev_word: kydst
+next_word: kylie
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -78,4 +78,15 @@ definitions:
   defs:
   - text: A sudden and rapid flow of tide occuring in certain rivers and estuaries
       which rolls up as a wave.
+prev_word: borer
+next_word: borgo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

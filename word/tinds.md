@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _INDS
   count: 11
+prev_word: tinct
+next_word: tinea
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

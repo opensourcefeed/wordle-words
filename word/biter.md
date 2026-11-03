@@ -72,4 +72,15 @@ definitions:
   - text: One who copies someone else's work, style or techniques, especially in hip-hop.
   - text: A cheat or fraudster.
   - text: A zombie.
+prev_word: bison
+next_word: bites
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

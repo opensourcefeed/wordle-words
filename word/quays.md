@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: A stone or concrete structure on navigable water used for loading and unloading
       vessels; a wharf.
+prev_word: quayd
+next_word: qubit
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

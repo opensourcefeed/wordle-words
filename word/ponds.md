@@ -42,4 +42,15 @@ definitions:
       than by a river.
   - text: The Atlantic Ocean. Especially in across the pond.
     example: I haven't been back home across the pond in twenty years.
+prev_word: poncy
+next_word: pondy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

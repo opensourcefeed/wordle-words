@@ -28,4 +28,13 @@ definitions:
 - pos: noun
   defs:
   - text: A residential area beyond the suburbs.
+prev_word: exult
+next_word: eyass
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

@@ -45,4 +45,15 @@ definitions:
   - text: Of an action such as a look, showing no warmth of emotion.
     example: She gave him a stony reception.
   - text: 'Short for stony broke: without any money.'
+prev_word: stonn
+next_word: stood
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

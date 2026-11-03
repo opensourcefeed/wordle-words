@@ -31,4 +31,15 @@ neighbours:
 - torse
 - touse
 - towse
+prev_word: toing
+next_word: toits
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

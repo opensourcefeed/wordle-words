@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A spicy and salty pickle in Indian cuisine.
+prev_word: aceta
+next_word: ached
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

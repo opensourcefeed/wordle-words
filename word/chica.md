@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Latin-American girl; a Latina.
+prev_word: chibs
+next_word: chich
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

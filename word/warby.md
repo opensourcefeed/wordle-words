@@ -24,4 +24,15 @@ neighbours:
 - barby
 - carby
 - warbs
+prev_word: warbs
+next_word: wards
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

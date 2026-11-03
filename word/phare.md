@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Beacon
   - text: Lighthouse
+prev_word: phang
+next_word: pharm
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

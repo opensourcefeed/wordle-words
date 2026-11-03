@@ -22,4 +22,15 @@ neighbours:
 - buffs
 - bumps
 - humfs
+prev_word: bumbo
+next_word: bumph
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

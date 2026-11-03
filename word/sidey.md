@@ -24,4 +24,15 @@ neighbours:
 - sided
 - sider
 - sides
+prev_word: sides
+next_word: sidha
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

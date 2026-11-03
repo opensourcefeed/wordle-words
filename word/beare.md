@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _EARE
   count: 9
+prev_word: beard
+next_word: bears
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -25,4 +25,15 @@ stats:
 neighbours:
 - krill
 - triol
+prev_word: krill
+next_word: krona
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

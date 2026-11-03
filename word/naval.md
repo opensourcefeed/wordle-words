@@ -41,4 +41,15 @@ definitions:
   - text: Of or relating to a navy.
   - text: Of or relating to ships in general.
     example: naval architect
+prev_word: naunt
+next_word: navar
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

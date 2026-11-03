@@ -31,4 +31,15 @@ definitions:
 - pos: verb
   defs:
   - text: To act as an umpire.
+prev_word: ummed
+next_word: umphs
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/um/"
+  label: Starting with UM
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

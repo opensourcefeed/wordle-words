@@ -45,4 +45,15 @@ definitions:
       it.
   - text: To send a private message to (a user on IRC).
   - text: To send out a query letter.
+prev_word: quern
+next_word: queso
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

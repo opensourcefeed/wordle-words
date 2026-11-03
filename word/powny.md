@@ -24,4 +24,15 @@ neighbours:
 - powns
 - powsy
 - towny
+prev_word: powns
+next_word: powre
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

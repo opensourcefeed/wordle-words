@@ -29,4 +29,15 @@ neighbours:
 - anion
 anagrams:
 - novia
+prev_word: avine
+next_word: avise
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/av/"
+  label: Starting with AV
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

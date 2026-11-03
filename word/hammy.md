@@ -42,4 +42,15 @@ definitions:
   - text: One of the great tendons situated in each side of the ham, or space back
       of the knee, and connected with the muscles of the back of the thigh.
   - text: The biceps femoris, semimembranosus, and semitendinosus muscles.
+prev_word: hames
+next_word: hamza
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

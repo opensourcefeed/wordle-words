@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A magician, wizard or sorcerer.
+prev_word: magas
+next_word: maggs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -33,4 +33,15 @@ definitions:
 - pos: verb
   defs:
   - text: Of a cat, to make its cry.
+prev_word: miaou
+next_word: miasm
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

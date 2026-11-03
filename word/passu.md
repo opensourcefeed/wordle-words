@@ -23,4 +23,13 @@ stats:
 neighbours:
 - lassu
 - passe
+prev_word: passe
+next_word: pasta
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

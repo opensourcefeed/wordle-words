@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _ALES
   count: 15
+prev_word: ealed
+next_word: eaned
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

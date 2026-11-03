@@ -38,4 +38,15 @@ anagrams:
 - reing
 - renig
 - ringe
+prev_word: erics
+next_word: erned
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

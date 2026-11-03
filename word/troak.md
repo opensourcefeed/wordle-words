@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - korat
 - tarok
+prev_word: troad
+next_word: troat
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

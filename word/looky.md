@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(sometimes humorous) Look."
+prev_word: looks
+next_word: looms
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

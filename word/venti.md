@@ -34,4 +34,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(of a cup of coffee) larger than grande, usually 20 ounces"
+prev_word: venom
+next_word: vents
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

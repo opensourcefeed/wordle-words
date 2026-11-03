@@ -26,4 +26,15 @@ definitions:
 - pos: noun
   defs:
   - text: Curlew
+prev_word: whats
+next_word: whaur
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/up/"
+  label: Ending in UP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

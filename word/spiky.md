@@ -35,4 +35,15 @@ definitions:
   - text: Hostile; standoffish
     example: a spiky personality
   - text: Of hair, erect, resembling spikes.
+prev_word: spike
+next_word: spile
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -21,4 +21,15 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 21
+prev_word: turnt
+next_word: turps
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

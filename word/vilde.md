@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - devil
 - lived
+prev_word: vigor
+next_word: viler
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

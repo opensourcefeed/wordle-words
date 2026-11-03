@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _OTCH
   count: 8
+prev_word: koses
+next_word: kotos
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

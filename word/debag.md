@@ -34,4 +34,15 @@ definitions:
   - text: To remove from a bag.
   - text: To pull down the trousers quickly without consent of, as a prank.
   - text: To perform blepharoplasty to remove eyebags.
+prev_word: deawy
+next_word: debar
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ag/"
+  label: Ending in AG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

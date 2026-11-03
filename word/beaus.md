@@ -46,4 +46,15 @@ definitions:
   - text: A male lover; a boyfriend.
   - text: A male escort.
   - text: A suitor of a lady.
+prev_word: beaty
+next_word: beaut
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -28,4 +28,13 @@ definitions:
 - pos: noun
   defs:
   - text: A French infantryman during the First World War
+prev_word: pohed
+next_word: poind
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

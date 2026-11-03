@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of various snakes in the genus Drymarchon.
+prev_word: crias
+next_word: cribs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

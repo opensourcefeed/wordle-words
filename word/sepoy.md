@@ -34,4 +34,15 @@ definitions:
   - text: A native soldier of the East Indies, employed in the service of a European
       colonial power, notably the British India army (first under the British-chartered
       East India Company, later in the crown colony), but also France and Portugal.
+prev_word: sepic
+next_word: seppo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/oy/"
+  label: Ending in OY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

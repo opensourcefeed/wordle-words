@@ -68,4 +68,15 @@ definitions:
   defs:
   - text: Very much, a lot
     example: I love him heaps.
+prev_word: heame
+next_word: heapy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

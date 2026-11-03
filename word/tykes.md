@@ -48,4 +48,15 @@ definitions:
   - text: A crude uncouth ill-bred person lacking culture or refinement
   - text: A person from Yorkshire; a Yorkshireman or Yorkshirewoman
   - text: A Roman Catholic
+prev_word: tyiyn
+next_word: tyler
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

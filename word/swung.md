@@ -58,4 +58,15 @@ definitions:
   - text: To put (a door, gate, etc.) on hinges so that it can swing or turn.
   - text: To turn round by action of wind or tide when at anchor.
     example: A ship swings with the tide.
+prev_word: swoun
+next_word: sybbe
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -25,4 +25,15 @@ neighbours:
 - skofs
 anagrams:
 - koffs
+prev_word: skody
+next_word: skofs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

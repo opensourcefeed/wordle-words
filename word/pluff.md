@@ -25,4 +25,15 @@ neighbours:
 - pouff
 - pyuff
 - sluff
+prev_word: plues
+next_word: plugs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

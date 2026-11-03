@@ -26,4 +26,15 @@ neighbours:
 - vibes
 - vibey
 - vitex
+prev_word: vibes
+next_word: vibey
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

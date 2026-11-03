@@ -24,4 +24,13 @@ stats:
 neighbours:
 - offer
 - effed
+prev_word: effed
+next_word: efits
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

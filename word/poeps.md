@@ -34,4 +34,15 @@ anagrams:
 - pepos
 - popes
 - seppo
+prev_word: poena
+next_word: poesy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

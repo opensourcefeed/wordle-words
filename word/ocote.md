@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 44
 neighbours:
 - scote
+prev_word: ocker
+next_word: ocrea
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

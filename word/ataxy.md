@@ -27,4 +27,13 @@ definitions:
   defs:
   - text: Ataxia
   - text: Disorder; irregularity
+prev_word: ataps
+next_word: atigi
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

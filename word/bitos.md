@@ -32,4 +32,15 @@ neighbours:
 - botos
 anagrams:
 - obits
+prev_word: bitey
+next_word: bitou
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

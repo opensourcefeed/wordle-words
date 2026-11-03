@@ -25,4 +25,15 @@ neighbours:
 - waist
 - waifs
 - whift
+prev_word: waifs
+next_word: wails
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

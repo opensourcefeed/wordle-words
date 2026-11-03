@@ -25,4 +25,15 @@ neighbours:
 - pikul
 anagrams:
 - pulka
+prev_word: pakua
+next_word: palak
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -82,4 +82,15 @@ definitions:
   - text: Solidly.
   - text: Without spaces or hyphens.
     example: Many long-established compounds are set solid.
+prev_word: soles
+next_word: solon
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

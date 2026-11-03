@@ -55,4 +55,15 @@ definitions:
   - text: The elevation of the hand, or that part of the bar at which it is raised,
       in beating time; the weak or unaccented part of the bar, opposed to the thesis.
   - text: The elevation of the voice to a higher pitch in speaking.
+prev_word: arsed
+next_word: arsey
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

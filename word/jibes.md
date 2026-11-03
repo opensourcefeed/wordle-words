@@ -59,4 +59,15 @@ definitions:
 - pos: verb
   defs:
   - text: Alternative spelling of gybe
+prev_word: jiber
+next_word: jiffs
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -23,4 +23,15 @@ stats:
   rare: []
   starter_tier: Good
   starter_top_percent: 10
+prev_word: kinos
+next_word: kiosk
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

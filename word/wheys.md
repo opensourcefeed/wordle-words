@@ -23,4 +23,15 @@ neighbours:
 - whens
 - whets
 - whews
+prev_word: whews
+next_word: which
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

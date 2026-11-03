@@ -32,4 +32,15 @@ neighbours:
 - moths
 anagrams:
 - schmo
+prev_word: mochi
+next_word: mochy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

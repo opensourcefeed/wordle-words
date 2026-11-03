@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - burst
 - brust
+prev_word: brute
+next_word: bruvs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

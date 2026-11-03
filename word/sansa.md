@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: The mbira or thumb piano.
+prev_word: sanko
+next_word: santo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

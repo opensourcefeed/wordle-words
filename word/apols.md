@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Apologies.
+prev_word: apods
+next_word: apoop
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

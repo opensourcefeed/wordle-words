@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: PRO_S
   count: 9
+prev_word: proso
+next_word: prost
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

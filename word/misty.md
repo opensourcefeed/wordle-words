@@ -43,4 +43,15 @@ definitions:
     example: a misty memory of his childhood
   - text: With tears in the eyes; dewy-eyed.
     example: Her eyes grew misty the night her long-time friend passed away.
+prev_word: mists
+next_word: mitas
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -25,4 +25,15 @@ neighbours:
 - frore
 - frorn
 - frowy
+prev_word: frorn
+next_word: frosh
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

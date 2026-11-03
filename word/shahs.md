@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Ukrainian monetary unit.
+prev_word: shags
+next_word: shaka
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

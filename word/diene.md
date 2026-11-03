@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: An organic compound, especially a hydrocarbon, containing two double bonds.
+prev_word: diels
+next_word: diets
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

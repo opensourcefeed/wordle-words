@@ -31,4 +31,15 @@ anagrams:
 - deans
 - saned
 - snead
+prev_word: danny
+next_word: dants
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

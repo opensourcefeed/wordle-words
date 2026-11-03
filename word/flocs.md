@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: A floccule; a soft or fluffy particle suspended in a liquid, or the fluffy
       mass of suspended particles so formed.
+prev_word: flock
+next_word: floes
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

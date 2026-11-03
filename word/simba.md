@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - bimas
 - iambs
+prev_word: simas
+next_word: simis
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -38,4 +38,15 @@ definitions:
   - text: A perennial plant, Allium schoenoprasum, related to the onion.
   - text: "(in the plural) The leaves of this plant used as a herb."
   - text: The style and stigma of a flower, especially saffron.
+prev_word: chiva
+next_word: chivs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

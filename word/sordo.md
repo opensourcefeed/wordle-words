@@ -33,4 +33,15 @@ anagrams:
 - odors
 - ordos
 - roods
+prev_word: sorda
+next_word: sords
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -49,4 +49,15 @@ definitions:
     example: I lunged at the police officer and made a grab for her gun.
   - text: 'To longe or work a horse in a circle around a handler (present participle:
       lunging or lungeing).'
+prev_word: lunet
+next_word: lungi
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

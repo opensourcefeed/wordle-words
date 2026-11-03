@@ -21,4 +21,13 @@ stats:
   - X
   starter_tier: Weak
   starter_top_percent: 89
+prev_word: coxes
+next_word: coyau
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

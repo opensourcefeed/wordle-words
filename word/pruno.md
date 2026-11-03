@@ -24,4 +24,15 @@ neighbours:
 - prune
 - prunt
 - pruny
+prev_word: prune
+next_word: prunt
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

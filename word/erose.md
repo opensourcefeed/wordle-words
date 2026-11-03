@@ -30,4 +30,15 @@ neighbours:
 - brose
 anagrams:
 - soree
+prev_word: erode
+next_word: erred
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To draw and twist fibers in order to prepare them for spinning.
+prev_word: slubb
+next_word: slued
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

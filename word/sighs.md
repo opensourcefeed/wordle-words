@@ -51,4 +51,15 @@ definitions:
     example: She sighed a sigh that was nearly a groan.
   - text: To express by sighs; to utter in or with sighs.
     example: '"I guess I have no choice," she sighed.'
+prev_word: sifts
+next_word: sight
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

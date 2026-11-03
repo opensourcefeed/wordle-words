@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: The hootchy-kootchy, a type of erotic dance.
   - text: "(chiefly US) The vagina or vulva."
+prev_word: convo
+next_word: cooed
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

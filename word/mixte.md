@@ -25,4 +25,15 @@ stats:
 neighbours:
 - mixie
 - sixte
+prev_word: mixis
+next_word: mixup
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

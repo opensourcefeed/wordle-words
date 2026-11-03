@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _OOEY
   count: 8
+prev_word: sonsy
+next_word: sooks
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

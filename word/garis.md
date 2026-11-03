@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _ARIS
   count: 7
+prev_word: gares
+next_word: garms
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

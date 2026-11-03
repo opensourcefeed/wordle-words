@@ -53,4 +53,15 @@ definitions:
       as opposed to law.
   - text: A vast chasm or abyss.
   - text: A given medium; a space in which something exists or lives; an environment.
+prev_word: chant
+next_word: chape
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

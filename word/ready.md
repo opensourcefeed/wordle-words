@@ -58,4 +58,15 @@ definitions:
   - text: Not slow or hesitating; quick in action or perception of any kind.
     example: a ready apprehension
   - text: Offering itself at once; at hand; opportune; convenient.
+prev_word: reads
+next_word: reais
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

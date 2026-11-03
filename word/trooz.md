@@ -24,4 +24,13 @@ stats:
   starter_top_percent: 83
 neighbours:
 - troop
+prev_word: troop
+next_word: trope
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

@@ -27,4 +27,15 @@ neighbours:
 - jibba
 - jibes
 - sibbs
+prev_word: jibba
+next_word: jibed
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

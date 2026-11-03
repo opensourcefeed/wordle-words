@@ -41,4 +41,15 @@ definitions:
   - text: To throw or spin rapidly.
   - text: To urinate.
     example: We whizzed in the bushes.
+prev_word: whity
+next_word: whole
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/zz/"
+  label: Ending in ZZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

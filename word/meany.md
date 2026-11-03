@@ -39,4 +39,15 @@ definitions:
   - text: A mean (unkind or miserly) person; a killjoy.
     example: Teacher kept me in after school again. What a meanie!
   - text: A villain.
+prev_word: meant
+next_word: meare
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

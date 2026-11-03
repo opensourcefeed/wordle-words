@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: MALA_
   count: 6
+prev_word: makos
+next_word: malai
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

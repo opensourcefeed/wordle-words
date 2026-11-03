@@ -65,4 +65,15 @@ definitions:
   - text: To construct, develop something (like a skilled craftsman).
     example: state crafting; the process of crafting global policing
   - text: To combine multiple items to form a new item, such as armour or medicine.
+prev_word: crack
+next_word: crags
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

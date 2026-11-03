@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: TA_TS
   count: 6
+prev_word: tacos
+next_word: tadah
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

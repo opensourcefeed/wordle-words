@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: GOR_S
   count: 6
+prev_word: gormy
+next_word: gorse
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -45,4 +45,15 @@ definitions:
       to a strap.
   - text: The transverse guard of a sword or dagger.
   - text: The lower metallic cap of a sword's scabbard.
+prev_word: chaos
+next_word: chaps
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

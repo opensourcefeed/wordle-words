@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A beanfeast; any noisy celebration, a party.
   - text: Any home-made gas or indigestion remedy.
+prev_word: beamy
+next_word: beans
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -25,4 +25,15 @@ neighbours:
 - rowdy
 - raddy
 - rawly
+prev_word: ravin
+next_word: rawer
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

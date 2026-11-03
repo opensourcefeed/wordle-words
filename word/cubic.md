@@ -40,4 +40,15 @@ definitions:
   - text: Of a class of polynomial of the form ax^3 + bx^2 + cx + d
   - text: Having three equal axes and all angles 90°.
     example: cubic cleavage
+prev_word: cubes
+next_word: cubit
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

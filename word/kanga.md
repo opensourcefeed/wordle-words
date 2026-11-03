@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A comb, required to be worn at all times by Sikhs, one of the five Ks.
+prev_word: kanes
+next_word: kangs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

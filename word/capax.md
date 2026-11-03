@@ -24,4 +24,15 @@ neighbours:
 - capas
 - capex
 - hapax
+prev_word: capas
+next_word: caped
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ax/"
+  label: Ending in AX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

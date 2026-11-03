@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: LEA_Y
   count: 6
+prev_word: leave
+next_word: leaze
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

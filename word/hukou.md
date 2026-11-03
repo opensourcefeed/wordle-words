@@ -27,4 +27,15 @@ definitions:
   defs:
   - text: "(Taiwan) A household registration record that identifies a person as a
       local resident."
+prev_word: huies
+next_word: hulas
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ou/"
+  label: Ending in OU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

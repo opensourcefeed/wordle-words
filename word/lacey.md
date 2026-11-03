@@ -32,4 +32,15 @@ neighbours:
 - pacey
 anagrams:
 - lycea
+prev_word: lacet
+next_word: lacis
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

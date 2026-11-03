@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _IKER
   count: 6
+prev_word: diked
+next_word: dikes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

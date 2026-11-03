@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: _EVER
   count: 6
+prev_word: bevel
+next_word: bevor
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

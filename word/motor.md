@@ -61,4 +61,15 @@ definitions:
     example: Motor insurance is expensive for youngsters.
   - text: Propelled by an internal combustion engine (as opposed to a steam engine
       or turbine).
+prev_word: moton
+next_word: motte
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

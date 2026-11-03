@@ -35,4 +35,13 @@ definitions:
 - pos: interjection
   defs:
   - text: Said to wish a final farewell; goodbye.
+prev_word: adhoc
+next_word: adios
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

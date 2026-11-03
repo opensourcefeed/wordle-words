@@ -88,4 +88,15 @@ definitions:
   - text: To introduce and establish the principles or seeds of.
     example: to plant Christianity among the heathen
   - text: To set up; to install; to instate.
+prev_word: plans
+next_word: plaps
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

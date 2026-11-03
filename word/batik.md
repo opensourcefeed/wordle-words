@@ -32,4 +32,15 @@ definitions:
 - pos: verb
   defs:
   - text: To dye fabric using the wax-resist method.
+prev_word: baths
+next_word: baton
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

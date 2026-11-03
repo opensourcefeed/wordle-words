@@ -26,4 +26,15 @@ neighbours:
 - powny
 - rownd
 - sownd
+prev_word: powlt
+next_word: powns
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

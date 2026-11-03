@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _INNY
   count: 9
+prev_word: vinic
+next_word: vinos
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

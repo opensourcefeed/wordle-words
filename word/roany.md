@@ -30,4 +30,15 @@ neighbours:
 - rodny
 anagrams:
 - rayon
+prev_word: roans
+next_word: roars
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

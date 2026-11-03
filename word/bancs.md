@@ -30,4 +30,15 @@ neighbours:
 trap:
   pattern: BAN_S
   count: 7
+prev_word: banco
+next_word: banda
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

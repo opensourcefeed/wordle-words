@@ -62,4 +62,15 @@ definitions:
   defs:
   - text: The vertical edge of a square sail.
   - text: The aft edge of a triangular sail.
+prev_word: lazzo
+next_word: leads
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

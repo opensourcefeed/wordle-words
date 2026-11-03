@@ -54,4 +54,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Mawkishly good; weakly benevolent or pious.
+prev_word: goods
+next_word: gooey
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

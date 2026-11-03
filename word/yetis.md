@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: An unidentified humanoid animal said to live in the Himalayas
+prev_word: yesty
+next_word: yetts
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

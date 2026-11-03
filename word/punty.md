@@ -40,4 +40,15 @@ definitions:
       rod, which is tipped with a wad of hot glass, is attached to the bottom of the
       vessel to hold it while the top is finalized. It often leaves an irregular or
       ring-shaped scar on the base when removed called the "pontil mark".
+prev_word: punts
+next_word: pupae
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

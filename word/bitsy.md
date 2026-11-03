@@ -24,4 +24,15 @@ neighbours:
 - birsy
 - bitey
 - ditsy
+prev_word: bitou
+next_word: bitte
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

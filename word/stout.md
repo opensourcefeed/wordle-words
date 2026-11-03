@@ -63,4 +63,15 @@ definitions:
   - text: Materially strong, enduring.
     example: Campers prefer stout vessels, sticks and cloth.
   - text: Obstinate.
+prev_word: stour
+next_word: stove
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

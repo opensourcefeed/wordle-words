@@ -44,4 +44,15 @@ definitions:
   - text: The smallest administrative unit of land in feudal England, corresponding
       to the Anglo-Saxon tithing and the modern parish.
   - text: A villa; a country residence.
+prev_word: villi
+next_word: vimen
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

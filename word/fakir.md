@@ -37,4 +37,15 @@ definitions:
       or apparent magic."
   - text: Someone who takes advantage of the gullible through fakery, especially of
       a spiritual or religious nature.
+prev_word: fakie
+next_word: falaj
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - bazar
 - braza
+prev_word: yuzus
+next_word: zacks
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

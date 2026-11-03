@@ -41,4 +41,15 @@ definitions:
   - text: Eccentric, strange, or foolish; crazy or insane; kookish.
     example: His kooky behavior seemed charming at first, but soon got on our nerves.
   - text: Behaving like a kook (a person with poor style or skill); kook-like.
+prev_word: kooks
+next_word: koori
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

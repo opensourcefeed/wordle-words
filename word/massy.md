@@ -84,4 +84,15 @@ definitions:
     example: Psalms 40:11 Do not withhold Your tender mercies from me, O Lord
   - text: A blessing; something to be thankful for.
     example: It was a mercy that we were not inside when the roof collapsed
+prev_word: masse
+next_word: masts
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

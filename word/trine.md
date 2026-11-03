@@ -60,4 +60,15 @@ definitions:
   defs:
   - text: Triple; threefold.
   - text: Denoting the aspect of two celestial bodies which are 120° apart.
+prev_word: trims
+next_word: trins
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

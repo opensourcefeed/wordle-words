@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - chide
 - chedi
+prev_word: icers
+next_word: iches
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/ic/"
+  label: Starting with IC
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

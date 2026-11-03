@@ -28,4 +28,15 @@ anagrams:
 - ridge
 - gride
 - redig
+prev_word: deres
+next_word: derma
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ig/"
+  label: Ending in IG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

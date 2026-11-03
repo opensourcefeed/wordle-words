@@ -38,4 +38,15 @@ definitions:
   - text: Similar reverence to one's parents and family or to one's country.
   - text: A devout act or thought.
   - text: A belief that is accepted unthinkingly and with undue reverence.
+prev_word: piets
+next_word: piezo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

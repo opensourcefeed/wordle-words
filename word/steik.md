@@ -32,4 +32,15 @@ anagrams:
 - kites
 - skite
 - tikes
+prev_word: steez
+next_word: steil
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -63,4 +63,15 @@ definitions:
 - pos: adverb
   defs:
   - text: In a fancy manner; fancily.
+prev_word: fanal
+next_word: fands
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

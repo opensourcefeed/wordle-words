@@ -58,4 +58,15 @@ definitions:
       fish.
   - text: To cause to glide.
   - text: To pass with a glide, as the voice.
+prev_word: glibs
+next_word: gliff
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -60,4 +60,15 @@ definitions:
 - pos: noun
   defs:
   - text: One who tames or subdues.
+prev_word: tamed
+next_word: tames
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

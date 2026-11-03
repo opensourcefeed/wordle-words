@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 12
 neighbours:
 - orgic
+prev_word: organ
+next_word: orgic
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

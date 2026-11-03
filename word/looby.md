@@ -28,4 +28,15 @@ neighbours:
 - looey
 - looky
 - loony
+prev_word: longs
+next_word: looed
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -45,4 +45,15 @@ definitions:
   - text: Force on a pedal or increase to any fuel or power for an engine or motor.
   - text: Force or effort.
     example: Come on! Put some welly into it!
+prev_word: wells
+next_word: welsh
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -28,4 +28,15 @@ neighbours:
 - resus
 anagrams:
 - reuse
+prev_word: resty
+next_word: resus
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -30,4 +30,15 @@ neighbours:
 - timed
 anagrams:
 - meted
+prev_word: telos
+next_word: temes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

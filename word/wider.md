@@ -77,4 +77,15 @@ definitions:
     example: A few shots were fired but they all went wide.
   - text: So as to leave or have a great space between the sides; so as to form a
       large opening.
+prev_word: widen
+next_word: wides
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

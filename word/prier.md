@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _RIER
   count: 7
+prev_word: prief
+next_word: pries
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

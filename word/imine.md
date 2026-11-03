@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: Any of a class of organic nitrogen compounds having the general formula
       R2C=NR; they are tautomeric with enamines.
+prev_word: imids
+next_word: imino
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -32,4 +32,15 @@ neighbours:
 - sered
 anagrams:
 - elder
+prev_word: lepta
+next_word: leres
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

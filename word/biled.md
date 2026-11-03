@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ILED
   count: 9
+prev_word: bilby
+next_word: biles
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

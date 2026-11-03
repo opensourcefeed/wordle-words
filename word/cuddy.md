@@ -46,4 +46,15 @@ definitions:
   - text: A blockhead; a lout.
   - text: A lever mounted on a tripod for lifting stones, leveling up railroad ties,
       etc.
+prev_word: cudda
+next_word: cueca
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

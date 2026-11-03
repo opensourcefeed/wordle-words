@@ -26,4 +26,15 @@ neighbours:
 - murgh
 - murri
 - murti
+prev_word: murgh
+next_word: murid
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

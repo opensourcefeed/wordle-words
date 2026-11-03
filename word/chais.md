@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: CHA_S
   count: 11
+prev_word: chair
+next_word: chalk
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

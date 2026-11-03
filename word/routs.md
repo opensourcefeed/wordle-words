@@ -91,4 +91,15 @@ definitions:
 - pos: noun
   defs:
   - text: The brent goose.
+prev_word: routh
+next_word: roved
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

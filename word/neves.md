@@ -36,4 +36,15 @@ anagrams:
 - seven
 - eevns
 - evens
+prev_word: never
+next_word: nevis
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

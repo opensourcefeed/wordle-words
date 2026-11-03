@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Maori funeral.
+prev_word: tanga
+next_word: tango
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

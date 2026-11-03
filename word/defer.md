@@ -41,4 +41,15 @@ definitions:
       second half a team's choice of whether to kick off or receive (and to allow
       the opposing team to make this choice at the start of the first half).
   - text: To delay, to wait.
+prev_word: defat
+next_word: deffo
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

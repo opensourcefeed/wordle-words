@@ -79,4 +79,15 @@ definitions:
   - text: A count; declaration.
   - text: A number of things considered as an aggregate; sum.
   - text: A report of any matter; a relation; a version.
+prev_word: taler
+next_word: talik
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

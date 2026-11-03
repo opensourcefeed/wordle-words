@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - yearn
 - rayne
+prev_word: renal
+next_word: rends
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To bejewel; to decorate or bedeck with jewels or gems.
+prev_word: jeune
+next_word: jewie
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

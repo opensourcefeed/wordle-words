@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any aldehyde or ketone having a hydroxy group in the beta- position
+prev_word: alder
+next_word: aleak
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

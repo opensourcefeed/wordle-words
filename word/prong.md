@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To pierce or poke with, or as if with, a prong
+prev_word: prone
+next_word: pronk
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

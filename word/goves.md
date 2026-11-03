@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OVES
   count: 7
+prev_word: goved
+next_word: gowan
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

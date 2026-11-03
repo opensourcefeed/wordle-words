@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: To make cloth denser and firmer by soaking, beating and pressing, to waulk,
       walk
+prev_word: fulla
+next_word: fully
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

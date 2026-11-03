@@ -43,4 +43,15 @@ definitions:
       varying other ingredients such as bacon, onions, cheese, apples or fresh herbs.
     example: The border between German- and French-speaking Switzerland is known as
       the “Röstigraben” because only the first traditionally serves rösti at breakfast.
+prev_word: rosso
+next_word: rosts
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

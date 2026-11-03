@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: A weblog designed to look authentic, but actually developed as part of a
       commercial marketing strategy to promote some product or service.
+prev_word: floes
+next_word: flong
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

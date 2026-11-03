@@ -43,4 +43,15 @@ definitions:
     example: Get yourself some jiggy gear.
   - text: Having fun, enjoying oneself totally; losing one's inhibitions, especially
       when dancing or performing to music.
+prev_word: jiffy
+next_word: jigot
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

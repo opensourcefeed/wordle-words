@@ -30,4 +30,15 @@ anagrams:
 - afret
 - feart
 - frate
+prev_word: trees
+next_word: treif
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/fa/"
+  label: Ending in FA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

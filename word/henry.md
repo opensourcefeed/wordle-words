@@ -32,4 +32,15 @@ definitions:
   - text: 'In the International System of Units, the derived unit of electrical inductance;
       the inductance induced in a circuit by a rate of change of current of one ampere
       per second and a resulting electromotive force of one volt. Symbol: H'
+prev_word: henny
+next_word: hents
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

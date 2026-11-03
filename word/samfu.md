@@ -27,4 +27,13 @@ definitions:
   defs:
   - text: A type of suit worn in China, consisting of a shirt with a high neckline
       bound down the middle with tassels, and trousers
+prev_word: samfi
+next_word: sammy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

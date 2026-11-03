@@ -59,4 +59,15 @@ definitions:
     example: I would like some Concord press with my meal tonight.
   - text: A commission to force men into public service, particularly into the navy.
   - text: A crowd.
+prev_word: prese
+next_word: prest
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

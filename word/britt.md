@@ -25,4 +25,15 @@ neighbours:
 - brith
 - brits
 - fritt
+prev_word: brits
+next_word: brize
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/tt/"
+  label: Ending in TT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

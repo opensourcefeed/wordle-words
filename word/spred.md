@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: S_RED
   count: 7
+prev_word: spray
+next_word: spree
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

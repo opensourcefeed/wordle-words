@@ -24,4 +24,15 @@ stats:
 anagrams:
 - bobos
 - boobs
+prev_word: obang
+next_word: obeah
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ob/"
+  label: Starting with OB
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

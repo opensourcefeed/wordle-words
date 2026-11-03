@@ -50,4 +50,15 @@ definitions:
       severe affliction; torment.
   - text: A vulgar epithet.
   - text: (usually with "the") A woman's menses.
+prev_word: curry
+next_word: cursi
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

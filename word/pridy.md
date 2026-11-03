@@ -25,4 +25,15 @@ neighbours:
 - predy
 - pricy
 - primy
+prev_word: pride
+next_word: pried
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

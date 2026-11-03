@@ -38,4 +38,15 @@ definitions:
   - text: A style of Greek sandwich commonly filled with grilled meat, tomato, onions,
       and tzatziki sauce.
     example: I'll have a gyro, please.
+prev_word: gyron
+next_word: gyrus
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

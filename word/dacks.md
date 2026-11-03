@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ACKS
   count: 15
+prev_word: dacha
+next_word: dadah
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

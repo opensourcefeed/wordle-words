@@ -33,4 +33,15 @@ definitions:
   - text: Using an unconventional, exaggerated and highly subjective style, often
       when the reporter takes part in the events of the story.
   - text: Unconventional, bizarre, crazy.
+prev_word: gonys
+next_word: gooby
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/zo/"
+  label: Ending in ZO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

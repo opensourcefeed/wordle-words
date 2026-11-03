@@ -28,4 +28,15 @@ anagrams:
 - abort
 - boart
 - tabor
+prev_word: orate
+next_word: orbed
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

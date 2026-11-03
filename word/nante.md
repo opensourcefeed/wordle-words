@@ -35,4 +35,15 @@ anagrams:
 - anent
 - neant
 - nenta
+prev_word: nanos
+next_word: nanti
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

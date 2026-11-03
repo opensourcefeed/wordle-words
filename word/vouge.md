@@ -27,4 +27,15 @@ neighbours:
 - bouge
 anagrams:
 - vogue
+prev_word: vouch
+next_word: voulu
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

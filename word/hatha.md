@@ -26,4 +26,15 @@ neighbours:
 - jatha
 - ratha
 - vatha
+prev_word: hates
+next_word: hathi
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

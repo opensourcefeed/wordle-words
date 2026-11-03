@@ -33,4 +33,15 @@ anagrams:
 - drake
 - daker
 - raked
+prev_word: arith
+next_word: arled
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

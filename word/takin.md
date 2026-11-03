@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A goat-antelope, species Budorcas taxicolor.
+prev_word: takht
+next_word: takis
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

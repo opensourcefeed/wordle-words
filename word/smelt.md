@@ -39,4 +39,15 @@ definitions:
   - text: Any small anadromous fish of the family Osmeridae, found in the Atlantic
       and Pacific Oceans and in lakes in North America and northern part of Europe.
   - text: A fool; a simpleton.
+prev_word: smell
+next_word: smerk
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

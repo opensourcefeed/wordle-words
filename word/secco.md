@@ -36,4 +36,15 @@ definitions:
     example: Secco painting, or painting in secco, is painting on dry plaster, as
       distinguished from fresco painting, on wet or fresh plaster.
   - text: Dry – sparse accompaniment, staccato, without resonance
+prev_word: sebum
+next_word: sechs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

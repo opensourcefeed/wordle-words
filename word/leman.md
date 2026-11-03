@@ -34,4 +34,15 @@ definitions:
   - text: One beloved; a lover, a sweetheart of either sex (especially a secret lover,
       gallant, or mistress).
   - text: "(often negative) A paramour."
+prev_word: leish
+next_word: lemed
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

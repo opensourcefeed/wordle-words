@@ -42,4 +42,15 @@ definitions:
       of other items."
     example: The answers intelligence services seek are often drowned in the flood
       of information they can now gather.
+prev_word: drove
+next_word: drows
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

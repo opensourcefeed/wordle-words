@@ -65,4 +65,15 @@ definitions:
 - pos: noun
   defs:
   - text: A liver spot, especially an irregular or feathery one.
+prev_word: motey
+next_word: mothy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

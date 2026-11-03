@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Foolish, silly.
+prev_word: deros
+next_word: derro
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

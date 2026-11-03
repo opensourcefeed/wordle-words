@@ -30,4 +30,15 @@ definitions:
   - text: Toilet paper.
   - text: Useless papers; now especially official documents, standardized forms, sales
       and marketing print material, etc.
+prev_word: bumfs
+next_word: bumps
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ph/"
+  label: Ending in PH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

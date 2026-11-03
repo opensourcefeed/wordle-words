@@ -30,4 +30,13 @@ definitions:
   defs:
   - text: An underground conduit, between vertical shafts, that leads water from the
       interior of a hill to villages in the valley
+prev_word: qajaq
+next_word: qapik
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

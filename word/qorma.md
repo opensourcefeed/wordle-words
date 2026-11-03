@@ -26,4 +26,13 @@ neighbours:
 - forma
 - korma
 - norma
+prev_word: qophs
+next_word: quabs
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

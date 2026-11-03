@@ -78,4 +78,15 @@ definitions:
   defs:
   - text: The totality of the sailing rig.
     example: Her yards were bare and cockabill.
+prev_word: yarco
+next_word: yarer
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

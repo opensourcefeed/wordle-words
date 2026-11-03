@@ -49,4 +49,15 @@ definitions:
   - text: The stem of a barb of a feather, from which the barbules extend.
   - text: A bony projection, particularly of the jaw, but also in the groin area,
       both subject to the maturing process of symphysis.
+prev_word: ramsh
+next_word: ranas
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

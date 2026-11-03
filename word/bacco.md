@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - bocca
 - caboc
+prev_word: bacca
+next_word: baccy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

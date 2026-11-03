@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: Trousers
   - text: Underpants
+prev_word: kebob
+next_word: kedge
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

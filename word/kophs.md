@@ -24,4 +24,15 @@ neighbours:
 - qophs
 - sophs
 - tophs
+prev_word: kopek
+next_word: kopje
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

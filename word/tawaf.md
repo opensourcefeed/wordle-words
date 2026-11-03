@@ -25,4 +25,13 @@ neighbours:
 - tawas
 anagrams:
 - fatwa
+prev_word: taver
+next_word: tawai
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -53,4 +53,15 @@ definitions:
       medicine. The produced vapor condensates into fine aerosols, forming a mist
       inside the device, to be inhaled by the patient for delivery of the medicine
       into the lungs.
+prev_word: vaper
+next_word: vapid
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -67,4 +67,15 @@ definitions:
 - pos: adverb
   defs:
   - text: Before the wind.
+prev_word: larga
+next_word: largo
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 44
 neighbours:
 - ulyie
+prev_word: ulyie
+next_word: umami
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ul/"
+  label: Starting with UL
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

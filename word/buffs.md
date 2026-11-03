@@ -68,4 +68,15 @@ definitions:
 - pos: noun
   defs:
   - text: A buffalo, or the meat of a buffalo.
+prev_word: buffo
+next_word: buffy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _OCKS
   count: 14
+prev_word: toaze
+next_word: tocky
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A slow-moving, often stagnant creek or river.
   - text: A swamp, a marshy (stagnant) body of water.
+prev_word: bayle
+next_word: bayts
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ou/"
+  label: Ending in OU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

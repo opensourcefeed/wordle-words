@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: To cause to be more lively, or to become more lively.
     example: Let's liven up this party!
+prev_word: lived
+next_word: liver
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: To flow like goo or goop, to move in a slushy way.
   - text: To cover someone in gloop or goo.
+prev_word: gloom
+next_word: glops
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

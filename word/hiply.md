@@ -23,4 +23,15 @@ neighbours:
 - hilly
 - hippy
 - haply
+prev_word: hipes
+next_word: hippo
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

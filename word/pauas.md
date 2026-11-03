@@ -42,4 +42,15 @@ definitions:
       is used to make jewelry.
   - text: The shell of this mollusc.
   - text: A fish hook made from this shell.
+prev_word: patus
+next_word: pauls
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

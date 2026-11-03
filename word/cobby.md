@@ -44,4 +44,15 @@ definitions:
   - text: Stout; hearty; lively
   - text: Obstinate; headstrong
   - text: Arrogant
+prev_word: cobbs
+next_word: cobia
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

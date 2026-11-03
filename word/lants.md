@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ANTS
   count: 14
+prev_word: lanky
+next_word: lapas
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

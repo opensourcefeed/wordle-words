@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _ICKY
   count: 9
+prev_word: wicks
+next_word: widdy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

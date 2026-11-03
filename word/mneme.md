@@ -20,4 +20,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 94
+prev_word: mmkay
+next_word: moais
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

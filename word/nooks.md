@@ -58,4 +58,15 @@ definitions:
   defs:
   - text: To withdraw into a nook.
   - text: To situate in a nook.
+prev_word: nooit
+next_word: nooky
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

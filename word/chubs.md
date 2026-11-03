@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: Term of address for a fat person.
+prev_word: chows
+next_word: chuck
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

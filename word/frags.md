@@ -49,4 +49,15 @@ definitions:
   - text: To hit with the explosion of a fragmentation grenade.
   - text: To kill.
     example: I fragged him but he fell off the ledge afterwards.
+prev_word: fract
+next_word: frail
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

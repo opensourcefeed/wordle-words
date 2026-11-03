@@ -54,4 +54,15 @@ definitions:
       radiation (especially of microwave frequency) by the use of excitation energy
       in resonant atomic or molecular systems
   - text: Any celestial object that generates microwaves using the same method
+prev_word: mased
+next_word: mases
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

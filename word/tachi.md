@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A pre-katana style Japanese sword
+prev_word: tache
+next_word: tacho
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

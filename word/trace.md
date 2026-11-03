@@ -76,4 +76,15 @@ definitions:
   - text: "(grammar) An empty category occupying a position in the syntactic structure
       from which something has been moved, used to explain constructions such as wh-movement
       and the passive."
+prev_word: trabs
+next_word: track
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

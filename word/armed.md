@@ -60,4 +60,15 @@ definitions:
   - text: "(of a weapon) Prepared for use; loaded."
   - text: Furnished with whatever serves to add strength, force, or efficiency.
   - text: Having prickles or thorns.
+prev_word: arles
+next_word: armer
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

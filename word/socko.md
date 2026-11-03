@@ -30,4 +30,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Superb, excellent, stunning.
+prev_word: socia
+next_word: socks
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -29,4 +29,15 @@ neighbours:
 - jowar
 - sewar
 - sofar
+prev_word: souts
+next_word: sowce
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

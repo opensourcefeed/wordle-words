@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _OOTY
   count: 8
+prev_word: roots
+next_word: roped
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -55,4 +55,15 @@ definitions:
     example: to stove feathers
   - text: To keep warm, in a house or room, by artificial heat.
     example: to stove orange trees
+prev_word: stout
+next_word: stown
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

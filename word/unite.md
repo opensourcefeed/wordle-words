@@ -45,4 +45,15 @@ definitions:
     example: I hope this song can unite people from all different cultures.
   - text: To come together as one.
     example: If we want to win, we will need to unite.
+prev_word: unios
+next_word: units
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

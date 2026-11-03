@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: Coalfish, Pollachius virens
+prev_word: coles
+next_word: colic
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

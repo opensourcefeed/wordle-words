@@ -43,4 +43,15 @@ definitions:
       upon the intellect, emotions or creativity.
     example: The trip was an inspiration to her for writing a book.
   - text: A new idea, especially one which arises suddenly and is clever or creative.
+prev_word: inset
+next_word: intel
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/po/"
+  label: Ending in PO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

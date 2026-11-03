@@ -26,4 +26,15 @@ neighbours:
 - foyne
 - rayne
 - sayne
+prev_word: fayer
+next_word: fayre
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

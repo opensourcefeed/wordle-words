@@ -49,4 +49,15 @@ definitions:
       typically made of brass.
   - text: A person who switches loyalties, especially from one political party to
       another.
+prev_word: lotah
+next_word: lotes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

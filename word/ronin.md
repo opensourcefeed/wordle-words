@@ -36,4 +36,15 @@ definitions:
       school or university of their choice: if the student does not wish to take the
       exam the following year or is unable to, the student becomes a ronin, assuming
       full responsibility for their own training and survival."
+prev_word: rones
+next_word: ronne
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

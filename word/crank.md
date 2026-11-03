@@ -92,4 +92,15 @@ definitions:
   defs:
   - text: A highly addictive phenethylamine stimulant drug, similar to cocaine. Its
       systematic (IUPAC) name is (S)-N-methyl-1-phenylpropan-2-amine.
+prev_word: crane
+next_word: crans
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -46,4 +46,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Dust-coloured; of the colour of dust.
+prev_word: khafs
+next_word: khana
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/ki/"
+  label: Ending in KI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

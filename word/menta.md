@@ -34,4 +34,15 @@ anagrams:
 - ament
 - manet
 - mante
+prev_word: mensh
+next_word: mento
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

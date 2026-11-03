@@ -54,4 +54,15 @@ definitions:
   - text: To dig or scoop (something) out with or as if with a gouge; in particular,
       to use a thumb to push or try to push the eye (of a person) out of its socket.
   - text: To use a gouge.
+prev_word: gouch
+next_word: gouks
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

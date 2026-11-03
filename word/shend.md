@@ -28,4 +28,15 @@ neighbours:
 - stend
 anagrams:
 - hends
+prev_word: shell
+next_word: sheng
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

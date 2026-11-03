@@ -62,4 +62,15 @@ definitions:
       a specific opinion or cause.
     example: For years, pro-life groups have continued to lobby hard for restrictions
       on abortion.
+prev_word: lobar
+next_word: lobed
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

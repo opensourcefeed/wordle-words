@@ -24,4 +24,15 @@ neighbours:
 - tacky
 - talky
 - tanky
+prev_word: takis
+next_word: talak
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

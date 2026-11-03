@@ -41,4 +41,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of or relating to an hour, or to hours.
+prev_word: horah
+next_word: horas
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

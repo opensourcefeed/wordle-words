@@ -25,4 +25,13 @@ neighbours:
 - clave
 anagrams:
 - cavil
+prev_word: clave
+next_word: claws
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

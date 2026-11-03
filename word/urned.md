@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: Placed in an urn.
     example: urned ashes
+prev_word: urnal
+next_word: urped
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

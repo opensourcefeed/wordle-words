@@ -31,4 +31,15 @@ definitions:
   - text: Theatrical
   - text: Unnaturally showy
   - text: Melodramatic; sensationalized
+prev_word: stags
+next_word: staid
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

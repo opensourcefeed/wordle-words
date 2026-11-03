@@ -41,4 +41,15 @@ definitions:
 - pos: interjection
   defs:
   - text: An indication of astonishment or admiration.
+prev_word: zowee
+next_word: zulus
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

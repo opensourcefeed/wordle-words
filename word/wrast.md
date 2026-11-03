@@ -30,4 +30,15 @@ anagrams:
 - swart
 - warst
 - warts
+prev_word: wrapt
+next_word: wrate
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

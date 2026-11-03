@@ -53,4 +53,15 @@ definitions:
   - text: To smear with slushy liquid or grease.
   - text: To slosh or splash; to move as, or through, a slushy or liquid substance.
   - text: To paint with a mixture of white lead and lime.
+prev_word: sluse
+next_word: slyer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

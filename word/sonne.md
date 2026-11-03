@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ONNE
   count: 6
+prev_word: sonly
+next_word: sonny
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

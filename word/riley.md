@@ -35,4 +35,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Angry, upset.
+prev_word: riles
+next_word: rille
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

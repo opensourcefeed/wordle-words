@@ -70,4 +70,15 @@ definitions:
   - text: To ask (someone) questions; to interrogate.
   - text: To puzzle, non-plus, or embarrass with difficult questions.
   - text: To perplex or confuse (someone).
+prev_word: poser
+next_word: poset
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

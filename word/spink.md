@@ -31,4 +31,15 @@ neighbours:
 - swink
 anagrams:
 - pinks
+prev_word: spine
+next_word: spins
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

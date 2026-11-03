@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: COM_S
   count: 6
+prev_word: comte
+next_word: conch
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

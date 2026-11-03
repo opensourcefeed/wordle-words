@@ -43,4 +43,15 @@ definitions:
 - pos: preposition
   defs:
   - text: "(Australian Aboriginal) Belonging to; of, in, at, to."
+prev_word: loner
+next_word: longe
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

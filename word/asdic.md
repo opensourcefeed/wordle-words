@@ -28,4 +28,15 @@ anagrams:
 - cadis
 - caids
 - sadic
+prev_word: ascus
+next_word: ashed
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

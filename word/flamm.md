@@ -24,4 +24,13 @@ neighbours:
 - flame
 - flams
 - flamy
+prev_word: flame
+next_word: flams
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

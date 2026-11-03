@@ -30,4 +30,15 @@ neighbours:
 - lollo
 - mollo
 - pollo
+prev_word: jolie
+next_word: jolls
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

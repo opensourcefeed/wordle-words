@@ -72,4 +72,15 @@ definitions:
       inclined forward, the piece being held by the right hand near the middle.
   - text: To flatten (grass, etc.) by walking through it; to tread down.
   - text: To take advantage of the ignorance of; to impose upon.
+prev_word: traik
+next_word: train
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

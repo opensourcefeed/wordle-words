@@ -35,4 +35,15 @@ definitions:
   - text: A pit, groove, cavity, or depression.
   - text: A long, narrow, shallow depression on the body of an extraterrestrial body,
       such as a planet or moon.
+prev_word: forze
+next_word: fosse
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

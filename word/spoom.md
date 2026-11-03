@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: SPOO_
   count: 7
+prev_word: spool
+next_word: spoon
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

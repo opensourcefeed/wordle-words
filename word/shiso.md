@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: Any of several varieties of the herb Perilla frutescens, related to basil
       and mint, used in Japanese cooking.
+prev_word: shish
+next_word: shist
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

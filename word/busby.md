@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A fur hat, usually with a plume in the front, worn by certain members of
       the military or brass bands.
+prev_word: burst
+next_word: bused
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

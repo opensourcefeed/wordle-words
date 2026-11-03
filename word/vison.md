@@ -25,4 +25,15 @@ neighbours:
 - visor
 anagrams:
 - vinos
+prev_word: visne
+next_word: visor
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -54,4 +54,15 @@ definitions:
 - pos: verb
   defs:
   - text: To bend, bow, stoop.
+prev_word: lousy
+next_word: lovat
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

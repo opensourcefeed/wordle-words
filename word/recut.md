@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cut again
+prev_word: recur
+next_word: redan
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

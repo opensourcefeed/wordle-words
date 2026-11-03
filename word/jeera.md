@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: Cumin
+prev_word: jeeps
+next_word: jeers
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

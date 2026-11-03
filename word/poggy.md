@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _OGGY
   count: 8
+prev_word: pogge
+next_word: pogos
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

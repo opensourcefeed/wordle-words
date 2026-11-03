@@ -41,4 +41,15 @@ definitions:
   - text: A digging fork with three broad prongs.
   - text: A tool, similar to a spade, used for digging out weeds etc.
   - text: A barking spud; a long-handled tool for removing bark from logs.
+prev_word: sprug
+next_word: spued
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

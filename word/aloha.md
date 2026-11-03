@@ -38,4 +38,15 @@ definitions:
 - pos: interjection
   defs:
   - text: Expressing good wishes when greeting or parting from someone; hello; goodbye.
+prev_word: aloft
+next_word: aloin
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

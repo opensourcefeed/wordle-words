@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A chained iron collar once used in churches to expose sinners to public
       scorn
+prev_word: joual
+next_word: jouks
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

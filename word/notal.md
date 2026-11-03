@@ -38,4 +38,15 @@ anagrams:
 - tonal
 - ontal
 - tolan
+prev_word: nosir
+next_word: notam
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -30,4 +30,15 @@ neighbours:
 - vexes
 - vives
 - yeves
+prev_word: veuve
+next_word: vexed
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

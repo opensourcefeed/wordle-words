@@ -51,4 +51,15 @@ definitions:
       other countries.
   - text: A comic in manga style, regardless of the country of origin.
     example: Lately I've been reading a Brazilian manga.
+prev_word: manet
+next_word: mange
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

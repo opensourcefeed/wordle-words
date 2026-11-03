@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: FI_ER
   count: 7
+prev_word: fired
+next_word: fires
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

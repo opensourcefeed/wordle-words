@@ -32,4 +32,15 @@ neighbours:
 - bells
 - jello
 - rello
+prev_word: belli
+next_word: bells
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

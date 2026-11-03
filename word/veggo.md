@@ -33,4 +33,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Vegetarian; suitable for vegetarians.
+prev_word: veges
+next_word: vegie
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

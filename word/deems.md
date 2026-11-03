@@ -55,4 +55,15 @@ definitions:
     example: She deemed his efforts insufficient.
   - text: To think, judge, or have or hold as an opinion; to decide or believe on
       consideration; to suppose.
+prev_word: deely
+next_word: deens
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -74,4 +74,15 @@ definitions:
   defs:
   - text: Very. Intensifier.
     example: It is balls cold out there.
+prev_word: ballo
+next_word: bally
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

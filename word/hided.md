@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _IDED
   count: 7
+prev_word: hicks
+next_word: hider
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

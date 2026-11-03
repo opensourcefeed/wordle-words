@@ -29,4 +29,15 @@ neighbours:
 - fribs
 anagrams:
 - birds
+prev_word: dreys
+next_word: drice
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

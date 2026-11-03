@@ -32,4 +32,15 @@ neighbours:
 - fisks
 - lisks
 - risks
+prev_word: bises
+next_word: bisom
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

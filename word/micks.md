@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: An Irishman
   - text: A Catholic, particularly of Irish descent.
+prev_word: micht
+next_word: micky
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

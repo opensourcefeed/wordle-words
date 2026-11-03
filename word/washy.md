@@ -38,4 +38,15 @@ definitions:
     example: washy resolutions
   - text: Not firm or hardy; liable to sweat profusely with labour.
     example: a washy horse
+prev_word: washi
+next_word: wasms
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

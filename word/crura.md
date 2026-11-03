@@ -27,4 +27,15 @@ definitions:
   defs:
   - text: The shin (tibia and fibula)
   - text: A leglike part; shank
+prev_word: cruor
+next_word: cruse
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

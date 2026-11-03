@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - ledge
 - gleed
+prev_word: gleby
+next_word: gleds
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

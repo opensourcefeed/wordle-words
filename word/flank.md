@@ -61,4 +61,15 @@ definitions:
       can sustain without excessive engine wear or risk of damage), now frequently
       used interchangeably. Typically used in an emergency or during an attack."
     example: All ahead flank!
+prev_word: flane
+next_word: flans
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

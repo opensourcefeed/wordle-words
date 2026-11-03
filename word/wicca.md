@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 83
 neighbours:
 - ticca
+prev_word: whyda
+next_word: wicks
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

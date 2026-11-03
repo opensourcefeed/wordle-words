@@ -47,4 +47,15 @@ definitions:
       of hard substances.
   - text: To produce a creaking sound with.
   - text: To suffer from strain or old age.
+prev_word: crazy
+next_word: cream
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

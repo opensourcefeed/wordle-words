@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A place where apes are kept.
   - text: The practice of aping; an apish action.
+prev_word: apert
+next_word: apgar
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

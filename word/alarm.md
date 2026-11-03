@@ -54,4 +54,15 @@ definitions:
   - text: To surprise with apprehension of danger; to fill with anxiety in regard
       to threatening evil; to excite with sudden fear.
   - text: To keep in excitement; to disturb.
+prev_word: alaps
+next_word: alary
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/rm/"
+  label: Ending in RM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

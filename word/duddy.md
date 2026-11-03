@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _UDDY
   count: 9
+prev_word: ducts
+next_word: duded
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -22,4 +22,15 @@ stats:
 anagrams:
 - amban
 - maban
+prev_word: naats
+next_word: nabby
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

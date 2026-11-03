@@ -27,4 +27,15 @@ neighbours:
 - gombo
 - robbo
 - yobbo
+prev_word: gobbi
+next_word: gobby
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

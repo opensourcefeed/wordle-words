@@ -28,4 +28,15 @@ anagrams:
 - goner
 - ergon
 - grone
+prev_word: genre
+next_word: gents
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

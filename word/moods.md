@@ -62,4 +62,15 @@ definitions:
   - text: "(grammar) A verb form that depends on how its containing clause relates
       to the speaker’s or writer’s wish, intent, or assertion about reality."
     example: The most common mood in English is the indicative.
+prev_word: mooch
+next_word: moody
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

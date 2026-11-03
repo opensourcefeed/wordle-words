@@ -34,4 +34,15 @@ anagrams:
 - nigre
 - reing
 - ringe
+prev_word: rengs
+next_word: renin
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ig/"
+  label: Ending in IG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

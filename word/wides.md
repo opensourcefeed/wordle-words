@@ -47,4 +47,15 @@ definitions:
   - text: A ball that passes so far from the batsman that the umpire deems it unplayable;
       the arm signal used by an umpire to signal a wide; the extra run added to the
       batting side's score
+prev_word: wider
+next_word: widow
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

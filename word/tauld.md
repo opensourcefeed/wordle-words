@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - adult
 - dault
+prev_word: taube
+next_word: taunt
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

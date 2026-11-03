@@ -35,4 +35,15 @@ definitions:
 - pos: verb
   defs:
   - text: To apply the Rolfing massage technique to.
+prev_word: roles
+next_word: rolls
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

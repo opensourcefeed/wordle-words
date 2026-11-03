@@ -52,4 +52,15 @@ definitions:
 - pos: noun
   defs:
   - text: A cluster of buds on a cannabis plant.
+prev_word: cokey
+next_word: colby
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

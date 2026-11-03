@@ -22,4 +22,15 @@ stats:
 neighbours:
 - fecht
 - hecht
+prev_word: weber
+next_word: wedel
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

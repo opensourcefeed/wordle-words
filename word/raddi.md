@@ -26,4 +26,15 @@ neighbours:
 - radii
 - gaddi
 - raddy
+prev_word: radar
+next_word: raddy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/di/"
+  label: Ending in DI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

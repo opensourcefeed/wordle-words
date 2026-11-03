@@ -27,4 +27,15 @@ neighbours:
 - drere
 anagrams:
 - reede
+prev_word: deeps
+next_word: deers
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

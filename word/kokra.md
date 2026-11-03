@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 59
 neighbours:
 - koura
+prev_word: koker
+next_word: kokum
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

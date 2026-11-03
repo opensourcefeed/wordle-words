@@ -127,4 +127,15 @@ definitions:
   - text: To separate the lighter (feathers or down) from the heavier, by exposing
       them to a current of air.
   - text: To be the dominant party in a sex act.
+prev_word: dript
+next_word: drock
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A manufactured regenerated cellulosic fiber.
+prev_word: rayne
+next_word: razai
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

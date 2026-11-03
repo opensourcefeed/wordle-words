@@ -30,4 +30,15 @@ definitions:
   - text: Lucky
   - text: Unstable, prone to rapid and unpredictable changes
     example: We would have got to Spain already if it wasn't for the flukey wind.
+prev_word: fluke
+next_word: flume
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

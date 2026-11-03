@@ -51,4 +51,15 @@ definitions:
       of textile yarns. Sometimes it is referred to as 'Raw Silk', although this is
       somewhat of a misnomer.
     example: The silk noil was slightly nubby with random flecks in an off-white colour.
+prev_word: noias
+next_word: noily
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

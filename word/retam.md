@@ -33,4 +33,15 @@ anagrams:
 - mater
 - ramet
 - trema
+prev_word: retag
+next_word: retax
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

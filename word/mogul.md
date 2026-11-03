@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A rich or powerful person; a magnate.
     example: a Silicon Valley tech mogul
+prev_word: mogue
+next_word: mohar
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

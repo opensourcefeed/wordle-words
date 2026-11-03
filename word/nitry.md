@@ -25,4 +25,15 @@ neighbours:
 - nitre
 - nitro
 - nitty
+prev_word: nitro
+next_word: nitta
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

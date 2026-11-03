@@ -80,4 +80,15 @@ definitions:
   - text: To dress in, or decorate with, a veil.
   - text: To conceal as with a veil.
     example: The forest fire was veiled by smoke, but I could hear it clearly.
+prev_word: vaids
+next_word: vaire
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

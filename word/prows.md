@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: The front part of a vessel
   - text: A vessel
+prev_word: prowl
+next_word: proxy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

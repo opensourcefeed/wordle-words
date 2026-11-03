@@ -26,4 +26,15 @@ neighbours:
 - thein
 anagrams:
 - ethic
+prev_word: thegn
+next_word: thein
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -27,4 +27,13 @@ definitions:
 - pos: noun
   defs:
   - text: A bird, the scarlet honeycreeper (Drepanis coccinea).
+prev_word: ihram
+next_word: ikans
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

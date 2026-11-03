@@ -51,4 +51,15 @@ definitions:
 - pos: verb
   defs:
   - text: To operate a taser or electroshock stun gun, by using it against a subject
+prev_word: taser
+next_word: tasks
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

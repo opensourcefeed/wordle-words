@@ -26,4 +26,15 @@ neighbours:
 - fogle
 - fugie
 - fugly
+prev_word: fugis
+next_word: fugly
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ANTY
   count: 9
+prev_word: bantu
+next_word: bantz
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -29,4 +29,15 @@ neighbours:
 - yeuks
 anagrams:
 - sykes
+prev_word: yeses
+next_word: yests
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _AFFS
   count: 10
+prev_word: haets
+next_word: hafiz
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

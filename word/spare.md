@@ -87,4 +87,15 @@ definitions:
     example: The poor girl is going spare, stuck in the house all day with the kids
       like that.
   - text: Slow.
+prev_word: spard
+next_word: spark
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

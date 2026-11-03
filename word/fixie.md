@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A fixed-gear bicycle.
+prev_word: fixes
+next_word: fixit
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

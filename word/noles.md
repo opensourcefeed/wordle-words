@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _OLES
   count: 13
+prev_word: nokes
+next_word: nolle
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

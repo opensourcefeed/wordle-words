@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - aglus
 - gulas
+prev_word: gushy
+next_word: gusle
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

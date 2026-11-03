@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OOPS
   count: 11
+prev_word: moony
+next_word: moors
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

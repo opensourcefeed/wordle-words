@@ -43,4 +43,13 @@ definitions:
   - text: Inspiration, a mental leap, an extraordinary creative process.
     example: a work of genius.
   - text: The tutelary deity or spirit of a place or person.
+prev_word: genie
+next_word: genin
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

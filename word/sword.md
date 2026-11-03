@@ -40,4 +40,15 @@ definitions:
   - text: A card of this suit.
   - text: One of the end bars by which the lay of a hand loom is suspended.
   - text: The weapon, often used as a heraldic charge.
+prev_word: swopt
+next_word: swore
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

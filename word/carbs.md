@@ -53,4 +53,15 @@ definitions:
       and other carbohydrates into volatile fatty acids (VFAs).
   - text: "(by extension, metonym) Any food rich in starch or other carbohydrates."
     example: I'm cutting down on carbohydrates like bread and pasta.
+prev_word: carbo
+next_word: carby
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

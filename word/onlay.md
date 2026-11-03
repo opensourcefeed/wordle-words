@@ -25,4 +25,15 @@ neighbours:
 - inlay
 - onlap
 - unlay
+prev_word: onlap
+next_word: onmun
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

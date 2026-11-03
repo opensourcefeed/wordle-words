@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: Command, injunction.
+prev_word: hesps
+next_word: hetes
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

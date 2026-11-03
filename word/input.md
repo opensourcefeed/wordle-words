@@ -44,4 +44,15 @@ definitions:
   - text: To enter data.
     example: The user inputs his date of birth and the computer displays his age.
   - text: To accept data that is entered.
+prev_word: inorb
+next_word: inros
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

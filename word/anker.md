@@ -31,4 +31,15 @@ anagrams:
 - naker
 - nerka
 - ranke
+prev_word: anise
+next_word: ankhs
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

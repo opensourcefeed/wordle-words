@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A milkman or milkwoman
+prev_word: milia
+next_word: milks
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

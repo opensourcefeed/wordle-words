@@ -70,4 +70,15 @@ definitions:
       or through neglect.
   - text: Material derived by mechanical and chemical erosion from the land, carried
       by streams to the sea.
+prev_word: waspy
+next_word: wasts
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

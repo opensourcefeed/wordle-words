@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: Having large breasts.
     example: a busty blonde
+prev_word: busts
+next_word: butch
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

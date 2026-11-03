@@ -77,4 +77,15 @@ definitions:
     example: The deposit is caved by knocking out the posts.
   - text: To work over tailings to dress small pieces of marketable ore.
   - text: To dwell in a cave.
+prev_word: caver
+next_word: cavie
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

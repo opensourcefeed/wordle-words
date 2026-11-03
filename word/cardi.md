@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A cardigan.
+prev_word: carby
+next_word: cards
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/di/"
+  label: Ending in DI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

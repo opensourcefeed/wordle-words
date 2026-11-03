@@ -30,4 +30,15 @@ neighbours:
 - oozle
 - ozzie
 - tozie
+prev_word: oozes
+next_word: oozle
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oo/"
+  label: Starting with OO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

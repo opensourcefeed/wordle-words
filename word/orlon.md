@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 53
 neighbours:
 - orlop
+prev_word: orles
+next_word: orlop
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

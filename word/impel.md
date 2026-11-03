@@ -35,4 +35,15 @@ definitions:
       motivation.
   - text: To drive forward; to propel an object, to provide an impetus for motion
       or action.
+prev_word: imped
+next_word: impis
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

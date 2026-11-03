@@ -34,4 +34,13 @@ definitions:
   - text: A male lover; a boyfriend.
   - text: A male escort.
   - text: A suitor of a lady.
+prev_word: beaut
+next_word: bebop
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

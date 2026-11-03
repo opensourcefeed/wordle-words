@@ -38,4 +38,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Relating to reconnaissance.
+prev_word: recap
+next_word: recco
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

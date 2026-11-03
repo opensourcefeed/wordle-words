@@ -50,4 +50,15 @@ definitions:
       number than the number of likes the post receives."
     example: The schoolchildren ganged up to ratio the school catering over its shamefully
       undemocratic inclusion of vegetables in meals.
+prev_word: raths
+next_word: ratoo
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/io/"
+  label: Ending in IO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

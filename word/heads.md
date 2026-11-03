@@ -83,4 +83,15 @@ definitions:
 - pos: interjection
   defs:
   - text: A shouted warning that something is falling from above, mind your heads.
+prev_word: hazle
+next_word: heady
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _INOS
   count: 8
+prev_word: vinny
+next_word: vints
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

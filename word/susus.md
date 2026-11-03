@@ -24,4 +24,15 @@ neighbours:
 - lusus
 - sulus
 - suses
+prev_word: sushi
+next_word: sutor
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

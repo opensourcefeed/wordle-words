@@ -50,4 +50,15 @@ definitions:
   - text: To corrupt or damage.
     example: She tried to sully her rival’s reputation with a suggestive comment.
   - text: "(intransitive ) To become soiled or tarnished."
+prev_word: sulls
+next_word: sulph
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

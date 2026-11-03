@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: Any of four unstable subatomic particles, mesons, they are a combination
       of a strange quark or antiquark and either an up or down quark or antiquark
+prev_word: kanzu
+next_word: kapai
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

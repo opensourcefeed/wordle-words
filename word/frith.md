@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: Peace; security.
   - text: Sanctuary, asylum.
+prev_word: frite
+next_word: frits
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

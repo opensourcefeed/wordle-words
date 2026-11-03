@@ -45,4 +45,15 @@ anagrams:
 trap:
   pattern: _ATES
   count: 13
+prev_word: sater
+next_word: satin
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -59,4 +59,15 @@ definitions:
   defs:
   - text: Made of coral.
   - text: Having the yellowish pink colour of coral.
+prev_word: coqui
+next_word: coram
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

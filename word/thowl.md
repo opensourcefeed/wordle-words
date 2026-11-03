@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 63
 anagrams:
 - lowth
+prev_word: thous
+next_word: thrae
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/wl/"
+  label: Ending in WL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

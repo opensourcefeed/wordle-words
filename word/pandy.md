@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _ANDY
   count: 11
+prev_word: pands
+next_word: paned
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

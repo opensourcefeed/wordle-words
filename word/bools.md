@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _OOLS
   count: 10
+prev_word: booky
+next_word: booms
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

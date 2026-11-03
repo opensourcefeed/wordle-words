@@ -29,4 +29,15 @@ neighbours:
 - alios
 anagrams:
 - fails
+prev_word: alien
+next_word: align
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _AVEL
   count: 7
+prev_word: caved
+next_word: caver
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

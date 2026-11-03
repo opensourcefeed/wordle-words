@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _AWED
   count: 11
+prev_word: dawds
+next_word: dawen
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

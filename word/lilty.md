@@ -29,4 +29,15 @@ neighbours:
 - silty
 anagrams:
 - tilly
+prev_word: lilts
+next_word: liman
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -28,4 +28,15 @@ neighbours:
 - skyey
 anagrams:
 - yikes
+prev_word: skies
+next_word: skiff
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

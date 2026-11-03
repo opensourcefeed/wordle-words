@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: Use; utilization
+prev_word: usher
+next_word: usnea
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/us/"
+  label: Starting with US
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

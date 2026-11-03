@@ -45,4 +45,15 @@ definitions:
       of a guiding principle; a maxim.
   - text: A paper packet containing a sweetmeat, cracker, etc., together with a scrap
       of paper bearing a motto.
+prev_word: motte
+next_word: motts
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

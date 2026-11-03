@@ -42,4 +42,15 @@ definitions:
   - text: A liquor made from the sap of nipa palm.
   - text: The leaves of the nipa palm, when used as a material for thatching, basketry
       or other uses.
+prev_word: nioza
+next_word: nipet
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

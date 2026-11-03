@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A plant of the genus Agave, which includes the maguey or century plant (Agave
       americana), which produces a gigantic flower stem at maturity.
+prev_word: agaty
+next_word: agaze
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -55,4 +55,15 @@ definitions:
 - pos: noun
   defs:
   - text: Fox terrier
+prev_word: foxes
+next_word: foyer
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

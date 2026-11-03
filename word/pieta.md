@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A sculpture or painting of the Virgin Mary holding and mourning the dead
       body of Jesus.
+prev_word: piert
+next_word: piets
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

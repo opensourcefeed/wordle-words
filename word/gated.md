@@ -56,4 +56,15 @@ definitions:
   - text: Capable of being switched on and off (normally by means of a signal).
   - text: Have a gate or other restricted access.
     example: a gated community;  a source control system with gated check-ins
+prev_word: gatch
+next_word: gater
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

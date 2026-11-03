@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: Used to express acclaim, especially to a performer.
     example: Bravo, you have done a brilliant job!
+prev_word: bravi
+next_word: brawl
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/vo/"
+  label: Ending in VO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

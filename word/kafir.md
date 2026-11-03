@@ -35,4 +35,13 @@ definitions:
   defs:
   - text: 'A disbeliever, a denier: someone who denies the truths from Allah; or more
       broadly any non-Muslim.'
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

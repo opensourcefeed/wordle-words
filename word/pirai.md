@@ -25,4 +25,15 @@ stats:
 neighbours:
 - perai
 - pirri
+prev_word: piqui
+next_word: pirks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

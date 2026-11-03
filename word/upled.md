@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - duple
 - puled
+prev_word: uplay
+next_word: uplit
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/up/"
+  label: Starting with UP
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

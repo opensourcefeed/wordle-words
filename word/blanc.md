@@ -30,4 +30,13 @@ definitions:
   - text: A white cosmetic.
   - text: A white sauce of fat, broth, and vegetables, used especially for braised
       meat.
+prev_word: blams
+next_word: bland
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -61,4 +61,15 @@ definitions:
 - pos: noun
   defs:
   - text: A metal ring at the top of the hand-rest on a spear.
+prev_word: burro
+next_word: burry
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

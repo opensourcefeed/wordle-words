@@ -59,4 +59,15 @@ definitions:
   defs:
   - text: To form into a ridge
   - text: To extend in ridges
+prev_word: rides
+next_word: ridgy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -33,4 +33,15 @@ anagrams:
 - saros
 - soars
 - soras
+prev_word: rosps
+next_word: rosso
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

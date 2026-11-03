@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OMAS
   count: 8
+prev_word: polys
+next_word: pombe
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

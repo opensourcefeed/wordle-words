@@ -41,4 +41,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Soaked with moisture or other liquid.
+prev_word: soger
+next_word: sohur
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

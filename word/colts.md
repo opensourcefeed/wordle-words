@@ -53,4 +53,15 @@ definitions:
   - text: To horse; to get with young.
   - text: To befool.
   - text: To frisk or frolic like a colt; to act licentiously or wantonly.
+prev_word: color
+next_word: colza
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

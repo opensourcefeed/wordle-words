@@ -40,4 +40,15 @@ anagrams:
 - tains
 - tians
 - tinas
+prev_word: nates
+next_word: natto
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

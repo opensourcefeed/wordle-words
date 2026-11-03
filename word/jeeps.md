@@ -54,4 +54,15 @@ definitions:
   - text: (corrosion) A device for detecting discontinuity in a protective coating,
       also called a "holiday detector"
   - text: A covered shopping cart, also called a "shopping stroller".
+prev_word: jeely
+next_word: jeera
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

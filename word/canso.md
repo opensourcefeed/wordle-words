@@ -27,4 +27,15 @@ neighbours:
 - manso
 anagrams:
 - ascon
+prev_word: canon
+next_word: canst
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

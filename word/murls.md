@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _URLS
   count: 8
+prev_word: murky
+next_word: murly
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

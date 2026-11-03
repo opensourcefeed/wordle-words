@@ -31,4 +31,15 @@ neighbours:
 - ferer
 - feyer
 - hewer
+prev_word: fever
+next_word: feyed
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -19,4 +19,13 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 76
+prev_word: envoy
+next_word: eolid
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

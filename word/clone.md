@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: To create a clone of.
     example: The scientists were able to clone a sheep.
+prev_word: clomp
+next_word: clonk
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

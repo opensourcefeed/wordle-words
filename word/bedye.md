@@ -23,4 +23,15 @@ neighbours:
 - redye
 anagrams:
 - debye
+prev_word: bedim
+next_word: beech
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ye/"
+  label: Ending in YE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

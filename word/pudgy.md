@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: Fat, overweight (pertaining particularly to children), plump; chubby.
     example: The pudgy child had a difficult time running the mile.
+prev_word: pudge
+next_word: pudic
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

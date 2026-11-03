@@ -48,4 +48,15 @@ definitions:
       eye, but who may also appear in animal or human form.
   - text: A fictional magical being that is typically bound to obey the commands of
       a mortal possessing its container.
+prev_word: genic
+next_word: genii
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

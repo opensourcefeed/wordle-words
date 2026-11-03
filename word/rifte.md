@@ -31,4 +31,15 @@ anagrams:
 - freit
 - frite
 - treif
+prev_word: rifle
+next_word: rifts
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

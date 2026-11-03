@@ -25,4 +25,15 @@ neighbours:
 - appay
 anagrams:
 - pampa
+prev_word: appal
+next_word: appay
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -61,4 +61,15 @@ definitions:
     example: In an emergency dial 999.
   - text: To use a dial or a telephone.
     example: Please be careful when dialling.
+prev_word: diact
+next_word: diana
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

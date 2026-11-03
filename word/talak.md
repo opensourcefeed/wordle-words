@@ -31,4 +31,15 @@ neighbours:
 - tilak
 anagrams:
 - katal
+prev_word: takky
+next_word: talaq
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

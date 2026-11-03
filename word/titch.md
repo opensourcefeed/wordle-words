@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: A very small person; a small child.
     example: I ain't afraid of a titch like you.
+prev_word: titas
+next_word: titer
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

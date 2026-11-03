@@ -44,4 +44,15 @@ definitions:
   - text: A deliberately superior person; a person who demonstrates an exaggerated
       conformity or propriety, especially in an irritatingly arrogant or smug manner.
   - text: A conceited dandy; a fop.
+prev_word: pries
+next_word: prill
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

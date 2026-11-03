@@ -27,4 +27,15 @@ neighbours:
 - pamby
 anagrams:
 - balmy
+prev_word: lambs
+next_word: lamed
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

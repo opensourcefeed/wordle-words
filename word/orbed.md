@@ -28,4 +28,15 @@ anagrams:
 - borde
 - bored
 - robed
+prev_word: orbat
+next_word: orbic
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

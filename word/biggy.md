@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _IGGY
   count: 6
+prev_word: biggs
+next_word: bigha
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

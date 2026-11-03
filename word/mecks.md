@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ECKS
   count: 10
+prev_word: mechs
+next_word: mecum
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

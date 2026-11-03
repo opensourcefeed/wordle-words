@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: To extol in psalms; to make music; to sing
     example: to psalm his praises.
+prev_word: pryse
+next_word: pseud
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ps/"
+  label: Starting with PS
+- url: "/ending-with/lm/"
+  label: Ending in LM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

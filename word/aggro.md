@@ -46,4 +46,15 @@ definitions:
   - text: Angry.
   - text: "(MMORPG slang) Liable to attack without being attacked first (said of monsters)."
   - text: Hardcore, aggressive.
+prev_word: aggri
+next_word: aggry
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

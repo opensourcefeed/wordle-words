@@ -38,4 +38,13 @@ definitions:
 - pos: noun
   defs:
   - text: A type of fish-trap consisting of tubular nets that are supported by hoops.
+prev_word: fyked
+next_word: fyles
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -46,4 +46,15 @@ definitions:
   - text: Historically, any public announcement of a coming event.
     example: The Banes which are reade beefore the beginninge of the playes of Chester,
       4 June, 1600.
+prev_word: banky
+next_word: bants
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

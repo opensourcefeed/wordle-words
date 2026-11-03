@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 86
 neighbours:
 - yeuks
+prev_word: yeuks
+next_word: yeven
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

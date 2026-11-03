@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: In motion; characterized by motion.
   - text: Out of bed; up and about.
+prev_word: aster
+next_word: astun
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -29,4 +29,15 @@ neighbours:
 - whies
 anagrams:
 - hipes
+prev_word: phial
+next_word: phish
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,15 @@ anagrams:
 - sakti
 - takis
 - tikas
+prev_word: sithe
+next_word: situp
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

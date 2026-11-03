@@ -31,4 +31,15 @@ neighbours:
 - plats
 - platy
 - pratt
+prev_word: plats
+next_word: platy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/tt/"
+  label: Ending in TT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

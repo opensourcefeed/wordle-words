@@ -26,4 +26,15 @@ neighbours:
 - sordo
 anagrams:
 - droog
+prev_word: gorbs
+next_word: gored
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

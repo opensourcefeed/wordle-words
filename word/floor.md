@@ -79,4 +79,15 @@ definitions:
   - text: To finish or make an end of.
     example: I've floored my little-go work — ed Hughes
   - text: To set a lower bound.
+prev_word: flood
+next_word: flops
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

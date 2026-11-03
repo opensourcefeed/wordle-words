@@ -33,4 +33,13 @@ definitions:
 - pos: noun
   defs:
   - text: The guard at the end of the grip of a sword.
+prev_word: tsked
+next_word: tsubo
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

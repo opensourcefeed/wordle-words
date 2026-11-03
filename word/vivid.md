@@ -37,4 +37,15 @@ definitions:
   - text: "(of perception) Clear, detailed or powerful."
   - text: "(of an image) Bright, intense or colourful."
   - text: Full of life, strikingly alive.
+prev_word: vives
+next_word: vivos
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -38,4 +38,15 @@ definitions:
   - text: To throw; to wince; to flounce.
   - text: To utter abusive language; to sneer.
     example: The scold began to flout and fling.
+prev_word: flump
+next_word: flunk
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

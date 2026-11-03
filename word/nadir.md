@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: To extend (a beehive) by adding an empty box at the base.
+prev_word: nadas
+next_word: naeve
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

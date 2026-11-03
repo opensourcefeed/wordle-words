@@ -36,4 +36,13 @@ definitions:
       player in a sporting team, etc.
   - text: The quality of being emergent; sudden or unexpected appearance; an unforeseen
       occurrence.
+prev_word: emend
+next_word: emery
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

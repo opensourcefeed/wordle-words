@@ -53,4 +53,15 @@ definitions:
   - text: A foot (body part).
   - text: A horse, considered in reference to its gait.
     example: a safe goer
+prev_word: goels
+next_word: goest
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

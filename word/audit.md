@@ -55,4 +55,15 @@ definitions:
       and to recommend any necessary changes
   - text: To counsel spiritually.
   - text: To attend an academic class on a not-for-academic-credit basis.
+prev_word: audio
+next_word: augen
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

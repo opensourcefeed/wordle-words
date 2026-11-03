@@ -55,4 +55,13 @@ definitions:
 - pos: verb
   defs:
   - text: To make a note of.
+prev_word: itchy
+next_word: ither
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -51,4 +51,15 @@ definitions:
     example: A hawk swoops a chicken.
   - text: To seize; to catch up; to take with a sweep.
   - text: To pass with pomp; to sweep.
+prev_word: swoon
+next_word: swops
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

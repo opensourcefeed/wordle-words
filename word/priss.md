@@ -33,4 +33,15 @@ neighbours:
 - pross
 anagrams:
 - risps
+prev_word: prism
+next_word: prius
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

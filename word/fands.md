@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ANDS
   count: 9
+prev_word: fancy
+next_word: fanes
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

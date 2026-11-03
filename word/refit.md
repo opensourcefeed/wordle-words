@@ -53,4 +53,15 @@ definitions:
   - text: To fit out or supply again (with something).
   - text: To prepare a vessel for use again (e.g. by replenishing depleted supplies
       or doing maintenance or repair work); (of a vessel) to be prepared for use again.
+prev_word: refis
+next_word: refix
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

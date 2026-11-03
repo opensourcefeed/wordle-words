@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: The water opossum (Chironectes minimus)
+prev_word: yanks
+next_word: yapon
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ok/"
+  label: Ending in OK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

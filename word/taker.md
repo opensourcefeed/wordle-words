@@ -50,4 +50,15 @@ definitions:
       of a taker.
   - text: One who is willing to participate in, or buy, something.
     example: Are there any takers for helping me clean the garage this weekend?
+prev_word: taken
+next_word: takes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

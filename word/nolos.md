@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _OLOS
   count: 10
+prev_word: nolls
+next_word: nomad
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

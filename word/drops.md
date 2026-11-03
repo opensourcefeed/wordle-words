@@ -149,4 +149,15 @@ definitions:
     example: to drop a lamb
   - text: To cover with drops; to variegate; to bedrop.
   - text: "(of the testicles) To hang lower and begin producing sperm due to puberty."
+prev_word: droop
+next_word: dropt
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

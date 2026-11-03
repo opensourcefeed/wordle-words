@@ -25,4 +25,15 @@ neighbours:
 - tabla
 anagrams:
 - banal
+prev_word: nabks
+next_word: nabob
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

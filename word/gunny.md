@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: A coarse heavy fabric made of jute or hemp.
   - text: A gunny sack.
+prev_word: gunky
+next_word: guppy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

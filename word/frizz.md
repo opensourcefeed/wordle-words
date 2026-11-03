@@ -35,4 +35,15 @@ definitions:
   - text: To make (leather) soft and of even thickness by rubbing, as with pumice
       stone or a blunt instrument.
   - text: To fry, cook, or sear with a sizzling noise; to sizzle.
+prev_word: frize
+next_word: frock
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/zz/"
+  label: Ending in ZZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

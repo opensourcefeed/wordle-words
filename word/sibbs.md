@@ -25,4 +25,15 @@ neighbours:
 - bibbs
 - dibbs
 - jibbs
+prev_word: sials
+next_word: sibia
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

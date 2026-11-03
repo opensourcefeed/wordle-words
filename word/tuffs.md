@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _UFFS
   count: 13
+prev_word: tuffe
+next_word: tufts
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

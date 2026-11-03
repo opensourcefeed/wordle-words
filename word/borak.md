@@ -27,4 +27,15 @@ neighbours:
 - boral
 - boras
 - borek
+prev_word: boppy
+next_word: boral
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -94,4 +94,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cover, ornament, line, or stuff with down.
+prev_word: downa
+next_word: downy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

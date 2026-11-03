@@ -64,4 +64,15 @@ definitions:
   defs:
   - text: To form a kink or twist.
   - text: To be formed into a kink or twist.
+prev_word: kinin
+next_word: kinky
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

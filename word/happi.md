@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A loose, informal Japanese coat normally decorated with a distinctive crest.
+prev_word: haply
+next_word: happy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/pi/"
+  label: Ending in PI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

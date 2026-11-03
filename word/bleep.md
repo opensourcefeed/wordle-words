@@ -47,4 +47,15 @@ definitions:
     example: The robot bleeped to acknowledge its new instructions.
   - text: To edit out inappropriate spoken language in a broadcast by replacing offending
       words with bleeps.
+prev_word: bleed
+next_word: blees
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ep/"
+  label: Ending in EP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

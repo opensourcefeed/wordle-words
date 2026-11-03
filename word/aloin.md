@@ -28,4 +28,15 @@ neighbours:
 - alkin
 - allin
 - eloin
+prev_word: aloha
+next_word: alone
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

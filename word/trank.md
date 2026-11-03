@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: An oblong piece of skin from which the pieces for a glove are cut.
+prev_word: trams
+next_word: tranq
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

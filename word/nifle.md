@@ -25,4 +25,15 @@ neighbours:
 - rifle
 anagrams:
 - elfin
+prev_word: niffy
+next_word: nifty
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

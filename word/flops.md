@@ -75,4 +75,15 @@ definitions:
   defs:
   - text: One floating-point operation per second, a unit of measure of processor
       speed.
+prev_word: floor
+next_word: flora
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

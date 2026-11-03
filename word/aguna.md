@@ -24,4 +24,15 @@ neighbours:
 - abuna
 anagrams:
 - guana
+prev_word: aguey
+next_word: agush
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

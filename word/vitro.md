@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 35
 neighbours:
 - nitro
+prev_word: vitex
+next_word: vitta
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -41,4 +41,15 @@ definitions:
   - text: A distinctive sensation.
   - text: Sense of smell; power to scent, or trace by scent.
   - text: Pleasure; appreciation; relish.
+prev_word: savin
+next_word: savoy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -32,4 +32,15 @@ neighbours:
 - ritts
 anagrams:
 - tifts
+prev_word: fitte
+next_word: fiver
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

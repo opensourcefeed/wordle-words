@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - bosey
 - obeys
+prev_word: sybil
+next_word: sybow
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/oe/"
+  label: Ending in OE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

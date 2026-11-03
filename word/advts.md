@@ -40,4 +40,15 @@ definitions:
   - text: Notoriety.
   - text: In gin rummy, the discarding of a card of one's preferred suit so as to
       mislead the opponent into thinking you do not want it.
+prev_word: advew
+next_word: adyta
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

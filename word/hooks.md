@@ -118,4 +118,15 @@ definitions:
   - text: To seize or pierce with the points of the horns, as cattle in attacking
       enemies; to gore.
   - text: To move or go with a sudden turn.
+prev_word: hooka
+next_word: hooky
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

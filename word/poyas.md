@@ -29,4 +29,15 @@ neighbours:
 - soyas
 anagrams:
 - soapy
+prev_word: poxes
+next_word: poynt
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

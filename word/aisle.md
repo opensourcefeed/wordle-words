@@ -45,4 +45,15 @@ definitions:
     example: Do you want to seat window or aisle?
   - text: An idiomatic divide between the Republican Party and the Democratic Party,
       who are said to be on two sides of the aisle.
+prev_word: airts
+next_word: aitch
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

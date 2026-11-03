@@ -25,4 +25,15 @@ neighbours:
 - pelon
 - pepon
 - redon
+prev_word: pedis
+next_word: pedos
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

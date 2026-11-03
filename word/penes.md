@@ -59,4 +59,15 @@ definitions:
       male and some other mammals is also used for urination; the tubular portion
       of the male genitalia (excluding the scrotum).
     example: The female clitoris is homologous to the male penis.
+prev_word: pened
+next_word: pengo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

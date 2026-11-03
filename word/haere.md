@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 21
 anagrams:
 - heare
+prev_word: haems
+next_word: haets
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

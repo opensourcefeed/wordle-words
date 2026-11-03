@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To wield.
+prev_word: welch
+next_word: welke
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

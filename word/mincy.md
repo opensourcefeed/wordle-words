@@ -25,4 +25,15 @@ neighbours:
 - minny
 - minxy
 - zincy
+prev_word: mince
+next_word: mindi
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

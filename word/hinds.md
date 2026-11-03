@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: A servant, especially an agricultural labourer.
+prev_word: hinau
+next_word: hinge
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

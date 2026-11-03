@@ -46,4 +46,15 @@ definitions:
       or upset, particularly among women."
   - text: Resembling or characteristic of a cat.
     example: a catty smell
+prev_word: cates
+next_word: cauda
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

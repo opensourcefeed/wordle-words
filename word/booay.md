@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: BOO_Y
   count: 9
+prev_word: booai
+next_word: boobs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

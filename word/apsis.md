@@ -39,4 +39,15 @@ definitions:
       an apse.
   - text: Either of the points in the elliptical orbit of a planet or comet where
       it is closest or furthest from the sun; perihelion or aphelion; an apside
+prev_word: apses
+next_word: apsos
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

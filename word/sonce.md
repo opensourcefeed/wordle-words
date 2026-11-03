@@ -34,4 +34,15 @@ anagrams:
 - scone
 - cones
 - onces
+prev_word: sonar
+next_word: sonde
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -63,4 +63,15 @@ definitions:
   defs:
   - text: Triglycerides.
     example: high trigs
+prev_word: trigo
+next_word: trike
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

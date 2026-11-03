@@ -29,4 +29,13 @@ definitions:
   defs:
   - text: A Scandinavian version of vin chaud or mulled wine; a hot punch made of
       red wine, brandy and sherry flavoured with almonds, raisins and orange peel.
+prev_word: glode
+next_word: gloms
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

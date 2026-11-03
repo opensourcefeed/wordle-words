@@ -30,4 +30,15 @@ neighbours:
 - parmo
 - parvo
 - sargo
+prev_word: parge
+next_word: parid
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

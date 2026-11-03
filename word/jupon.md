@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 89
 neighbours:
 - yupon
+prev_word: jupes
+next_word: jural
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

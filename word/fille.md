@@ -29,4 +29,15 @@ neighbours:
 - mille
 - rille
 - ville
+prev_word: filks
+next_word: fillo
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

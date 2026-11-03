@@ -24,4 +24,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Hydroelectric
+prev_word: hwyls
+next_word: hydra
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

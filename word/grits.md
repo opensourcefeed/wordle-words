@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: "(usually in the plural) Husked but unground oats."
   - text: "(usually in the plural) Coarsely ground corn or hominy used as porridge."
+prev_word: grith
+next_word: grize
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

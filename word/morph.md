@@ -33,4 +33,15 @@ definitions:
       a recurrent distinctive sound or sequence of sounds."
   - text: 'An allomorph: one of a set of realizations that a morpheme can have in
       different contexts.'
+prev_word: moror
+next_word: morra
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ph/"
+  label: Ending in PH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A lesson on a topic in the Torah.
+prev_word: shist
+next_word: shiva
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

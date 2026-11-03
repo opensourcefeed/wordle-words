@@ -32,4 +32,13 @@ neighbours:
 trap:
   pattern: CHI_O
   count: 6
+prev_word: chewy
+next_word: chias
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

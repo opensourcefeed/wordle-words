@@ -56,4 +56,15 @@ definitions:
   defs:
   - text: To cut through the backbone of; to cut into chine pieces.
   - text: To chamfer the ends of a stave and form the chine.
+prev_word: china
+next_word: ching
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

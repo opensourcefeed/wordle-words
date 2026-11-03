@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: Helicopter
+prev_word: helms
+next_word: helot
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

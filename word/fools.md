@@ -58,4 +58,15 @@ definitions:
   defs:
   - text: To trick; to deceive
   - text: To act in an idiotic manner; to act foolishly
+prev_word: foody
+next_word: foots
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -40,4 +40,15 @@ definitions:
 - pos: pronoun
   defs:
   - text: Singular second person possessive pronoun; yours
+prev_word: thill
+next_word: thing
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

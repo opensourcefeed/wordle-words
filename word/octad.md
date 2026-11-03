@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A group of eight things.
   - text: Hundred million = myriad myriad; 100,000,000 = 108
+prev_word: ocrea
+next_word: octal
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

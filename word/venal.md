@@ -37,4 +37,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Venous; pertaining to veins.
+prev_word: venae
+next_word: venas
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

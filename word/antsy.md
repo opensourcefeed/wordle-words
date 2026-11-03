@@ -30,4 +30,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Restless, apprehensive and fidgety
+prev_word: antre
+next_word: anura
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

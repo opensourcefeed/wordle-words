@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _ANNY
   count: 8
+prev_word: danks
+next_word: danse
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

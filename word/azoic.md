@@ -30,4 +30,15 @@ definitions:
   - text: Destitute of any vestige of organic life, or at least of animal life
   - text: Anterior to the existence of animal life
   - text: Formed when there was no animal life on the globe
+prev_word: azlon
+next_word: azole
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/az/"
+  label: Starting with AZ
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

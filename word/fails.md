@@ -86,4 +86,15 @@ definitions:
 - pos: noun
   defs:
   - text: A piece of turf cut from grassland.
+prev_word: faiks
+next_word: faine
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

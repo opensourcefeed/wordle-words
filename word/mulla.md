@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A religious scholar and teacher of sharia law.
+prev_word: mulie
+next_word: mulls
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

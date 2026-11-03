@@ -46,4 +46,15 @@ definitions:
     example: I felt the ground quaking beneath my feet.
   - text: To be in a state of fear, shock, amazement, etc., such as might cause one
       to tremble.
+prev_word: quais
+next_word: quaky
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

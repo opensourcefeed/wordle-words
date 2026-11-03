@@ -28,4 +28,15 @@ neighbours:
 - steik
 anagrams:
 - mikes
+prev_word: smees
+next_word: smeke
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

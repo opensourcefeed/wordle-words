@@ -47,4 +47,15 @@ definitions:
   - text: Any of various melodic forms used in Indian classical music, or a piece
       of music composed in such a form.
   - text: Passion, love, lust.
+prev_word: rafty
+next_word: ragde
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

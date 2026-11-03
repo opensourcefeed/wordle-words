@@ -36,4 +36,15 @@ definitions:
       daughter of one's brother ("fraternal niece"), or of one's sister ("sororal
       niece").
     example: My niece just celebrated her 15th birthday.
+prev_word: nidus
+next_word: niefs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

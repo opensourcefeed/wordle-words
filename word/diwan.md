@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: A holder of any of various offices in various (usually Islamic) countries,
       usually some sort of councillor.
+prev_word: divvy
+next_word: dixie
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

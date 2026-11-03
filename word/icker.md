@@ -28,4 +28,15 @@ neighbours:
 - ocker
 anagrams:
 - erick
+prev_word: icing
+next_word: ickle
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/ic/"
+  label: Starting with IC
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

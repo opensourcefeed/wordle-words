@@ -30,4 +30,15 @@ neighbours:
 - pally
 - palsa
 - walla
+prev_word: palki
+next_word: palls
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

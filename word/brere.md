@@ -31,4 +31,15 @@ neighbours:
 - frere
 anagrams:
 - breer
+prev_word: brent
+next_word: brers
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

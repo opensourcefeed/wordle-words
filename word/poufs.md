@@ -70,4 +70,15 @@ definitions:
   - text: A portion of fabric gathered up so as to be left full in the middle.
     example: a sleeve with a puff at the shoulder
   - text: A region of a chromosome exhibiting a local increase in diameter.
+prev_word: pouff
+next_word: poufy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 34
 neighbours:
 - welly
+prev_word: wetas
+next_word: wexed
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

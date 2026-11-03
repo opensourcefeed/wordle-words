@@ -38,4 +38,15 @@ definitions:
   - text: A very bad mistake or error.
   - text: A fixed allowance paid to a legislator in lieu of reimbursement for actual
       expenses.
+prev_word: lulls
+next_word: lumas
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

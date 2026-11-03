@@ -25,4 +25,15 @@ neighbours:
 - kebar
 anagrams:
 - bakra
+prev_word: kabab
+next_word: kabob
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

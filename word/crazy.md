@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: Very, extremely.
     example: That trick was crazy good.
+prev_word: craze
+next_word: creak
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

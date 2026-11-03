@@ -27,4 +27,15 @@ neighbours:
 - quois
 - quops
 - quoys
+prev_word: quoad
+next_word: quoif
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

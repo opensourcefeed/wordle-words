@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - lures
 - rules
+prev_word: lurve
+next_word: lushy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

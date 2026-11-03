@@ -53,4 +53,15 @@ definitions:
   - text: "(of a material specimen) To pass the material's yield point and undergo
       plastic deformation."
   - text: To admit to be true; to concede; to allow.
+prev_word: yfere
+next_word: yiked
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yi/"
+  label: Starting with YI
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

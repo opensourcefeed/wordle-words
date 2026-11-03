@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - ledge
 - glede
+prev_word: gleds
+next_word: gleek
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

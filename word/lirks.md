@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _IRKS
   count: 8
+prev_word: liras
+next_word: lirot
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -24,4 +24,15 @@ stats:
 neighbours:
 - genin
 - renin
+prev_word: venge
+next_word: venom
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

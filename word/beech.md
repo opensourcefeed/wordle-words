@@ -38,4 +38,15 @@ definitions:
   - text: A tree of the genus Fagus having a smooth, light grey trunk, oval, pointed
       leaves and many branches.
   - text: The wood of the beech tree.
+prev_word: bedye
+next_word: beedi
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

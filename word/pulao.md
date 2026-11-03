@@ -33,4 +33,13 @@ definitions:
   defs:
   - text: A dish made by browning grain, typically rice, in oil and then cooking it
       with a seasoned broth, to which meat and/or vegetables may be added.
+prev_word: pukus
+next_word: pulas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

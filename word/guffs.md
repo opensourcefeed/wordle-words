@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: To fart.
   - text: To mislead.
+prev_word: guest
+next_word: gugas
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A sword.
+prev_word: bronc
+next_word: brood
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

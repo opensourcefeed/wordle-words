@@ -36,4 +36,15 @@ definitions:
   - text: An accompanied dramatic recitative, interspersed with passages of melody,
       or followed by a full aria.
   - text: The stage of an ancient theatre.
+prev_word: sceat
+next_word: scend
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

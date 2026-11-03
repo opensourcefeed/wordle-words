@@ -54,4 +54,15 @@ definitions:
   - text: To operate as a laser, to release coherent light due to stimulation.
     example: Once enough of the gas particles are in a higher energy state, they will
       begin to lase and give off a coherent beam.
+prev_word: larva
+next_word: laser
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

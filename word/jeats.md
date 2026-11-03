@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _EATS
   count: 11
+prev_word: jeans
+next_word: jebel
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

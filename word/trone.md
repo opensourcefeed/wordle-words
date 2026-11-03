@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _RONE
   count: 7
+prev_word: tronc
+next_word: tronk
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

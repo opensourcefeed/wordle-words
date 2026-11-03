@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: To distribute in small amounts; to share out small portions of a meager
       resource.
+prev_word: dolee
+next_word: doley
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

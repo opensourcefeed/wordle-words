@@ -45,4 +45,15 @@ anagrams:
 trap:
   pattern: _ARDS
   count: 13
+prev_word: eaned
+next_word: eared
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A broad volcanic crater, usually filled with water to form a lake.
+prev_word: maare
+next_word: maban
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

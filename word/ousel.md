@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: The Eurasian blackbird, Turdus merula.
   - text: The water ouzel, an aquatic perching bird, Cinclus mexicanus.
+prev_word: ourie
+next_word: ousia
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

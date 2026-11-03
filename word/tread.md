@@ -54,4 +54,15 @@ definitions:
   - text: To crush under the foot; to trample in contempt or hatred; to subdue.
   - text: To copulate; said of (especially male) birds.
   - text: "(of a male bird) To copulate with."
+prev_word: trays
+next_word: treat
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

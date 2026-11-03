@@ -23,4 +23,15 @@ neighbours:
 - savvy
 - lavvy
 - navvy
+prev_word: pavon
+next_word: pawas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

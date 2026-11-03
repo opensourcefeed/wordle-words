@@ -20,4 +20,13 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 83
+prev_word: soyle
+next_word: sozin
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

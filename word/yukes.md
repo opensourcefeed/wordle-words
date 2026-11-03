@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _UKES
   count: 7
+prev_word: yuked
+next_word: yukky
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

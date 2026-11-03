@@ -29,4 +29,15 @@ neighbours:
 - takin
 anagrams:
 - alkin
+prev_word: lakhs
+next_word: laksa
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

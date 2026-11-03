@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: _AITH
   count: 6
+prev_word: hairy
+next_word: hajes
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

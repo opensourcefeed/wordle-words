@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A plant of the genus Geum, especially Geum urbanum, or herb bennet.
   - text: A plant of the genus Dryas.
+prev_word: avels
+next_word: avers
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/av/"
+  label: Starting with AV
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

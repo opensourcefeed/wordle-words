@@ -25,4 +25,15 @@ neighbours:
 anagrams:
 - aking
 - kiang
+prev_word: kaims
+next_word: kains
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

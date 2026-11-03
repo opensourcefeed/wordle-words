@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A cross between a male tiger and a lioness.
+prev_word: tight
+next_word: tikas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

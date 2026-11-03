@@ -27,4 +27,13 @@ definitions:
   defs:
   - text: In early Anglo-Saxon times, an army that was mobilized from freemen to defend
       their shire, or from select representatives to join a royal expedition.
+prev_word: fyles
+next_word: fytte
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

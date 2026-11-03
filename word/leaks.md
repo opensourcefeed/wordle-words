@@ -73,4 +73,15 @@ definitions:
   - text: To disclose secret information surreptitiously or anonymously.
     example: Someone must have leaked it to our competitors that the new product will
       be out soon.
+prev_word: leafy
+next_word: leaky
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

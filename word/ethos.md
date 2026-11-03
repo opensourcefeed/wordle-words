@@ -42,4 +42,15 @@ definitions:
       character, as influenced by the ethos (character or fundamental values) of a
       people, rather than realistic or emotional situations or individual character
       in a narrow sense; opposed to pathos."
+prev_word: ethne
+next_word: ethyl
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/et/"
+  label: Starting with ET
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

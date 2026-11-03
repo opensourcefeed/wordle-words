@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _EERS
   count: 10
+prev_word: deere
+next_word: deets
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

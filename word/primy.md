@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: PRIM_
   count: 7
+prev_word: prims
+next_word: pring
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

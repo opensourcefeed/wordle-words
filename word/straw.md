@@ -64,4 +64,15 @@ definitions:
   - text: Imaginary, but presented as real.
     example: A straw enemy built up in the media to seem like a real threat, which
       then collapses like a balloon.
+prev_word: strap
+next_word: stray
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/aw/"
+  label: Ending in AW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

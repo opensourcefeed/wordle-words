@@ -36,4 +36,15 @@ anagrams:
 - riels
 - riles
 - siler
+prev_word: slide
+next_word: slily
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OUKS
   count: 10
+prev_word: rougy
+next_word: rouky
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

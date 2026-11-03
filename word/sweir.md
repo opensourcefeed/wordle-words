@@ -31,4 +31,15 @@ anagrams:
 - weirs
 - wires
 - wries
+prev_word: sweet
+next_word: swell
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -29,4 +29,15 @@ neighbours:
 - humps
 - kemps
 - temps
+prev_word: hemin
+next_word: hempy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -24,4 +24,15 @@ stats:
 neighbours:
 - masut
 - mazet
+prev_word: mazey
+next_word: mbari
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

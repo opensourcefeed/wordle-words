@@ -26,4 +26,15 @@ neighbours:
 - redry
 - reely
 - refly
+prev_word: redip
+next_word: redon
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

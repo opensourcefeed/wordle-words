@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: FLO_S
   count: 8
+prev_word: float
+next_word: flock
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

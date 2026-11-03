@@ -27,4 +27,15 @@ neighbours:
 - beira
 anagrams:
 - abies
+prev_word: beira
+next_word: bekah
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

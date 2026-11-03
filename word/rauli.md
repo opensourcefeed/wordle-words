@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - urali
 - urial
+prev_word: ratus
+next_word: rauns
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

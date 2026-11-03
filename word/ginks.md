@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: "(originally United States slang) A guy, a fellow, especially a foolish,
       unworldly, or socially inept man."
+prev_word: gings
+next_word: ginny
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

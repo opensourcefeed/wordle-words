@@ -66,4 +66,15 @@ definitions:
   - text: To develop and add hints to a font.
     example: The typographer worked all day on hinting her new font so it would look
       good on computer screens.
+prev_word: hinny
+next_word: hiois
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

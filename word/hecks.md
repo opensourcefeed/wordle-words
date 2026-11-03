@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ECKS
   count: 10
+prev_word: hecht
+next_word: heder
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

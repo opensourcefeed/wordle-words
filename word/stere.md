@@ -50,4 +50,15 @@ definitions:
 - pos: noun
   defs:
   - text: A measure of volume used e.g. for cut wood, equal to one cubic metre.
+prev_word: stept
+next_word: stern
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

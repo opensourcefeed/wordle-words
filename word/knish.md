@@ -25,4 +25,15 @@ definitions:
   defs:
   - text: An Eastern European Jewish, or Yiddish, snack food consisting of a dumpling
       covered with a shell of baked or fried dough
+prev_word: knife
+next_word: knits
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

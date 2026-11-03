@@ -47,4 +47,15 @@ definitions:
   - text: To express by the use of simple, childlike language.
   - text: To speak with reserve or concealment; to utter timidly or confidentially.
     example: to lisp treason
+prev_word: lisle
+next_word: lists
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

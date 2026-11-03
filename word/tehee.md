@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 87
 neighbours:
 - tepee
+prev_word: tegus
+next_word: tehrs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

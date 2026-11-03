@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A hill, a mountain (especially in the Middle East or North Africa).
+prev_word: jeats
+next_word: jedis
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

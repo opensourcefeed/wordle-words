@@ -29,4 +29,15 @@ neighbours:
 - acone
 - agone
 - axons
+prev_word: axoid
+next_word: axons
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ax/"
+  label: Starting with AX
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

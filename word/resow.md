@@ -35,4 +35,15 @@ anagrams:
 - owres
 - serow
 - weros
+prev_word: resol
+next_word: resto
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

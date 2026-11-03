@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: SLA_S
   count: 8
+prev_word: slade
+next_word: slags
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

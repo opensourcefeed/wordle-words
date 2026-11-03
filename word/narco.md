@@ -37,4 +37,15 @@ definitions:
   - text: Narcotics.
   - text: A South American drug baron.
   - text: A police officer specializing in drug crimes
+prev_word: naras
+next_word: narcs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

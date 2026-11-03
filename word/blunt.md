@@ -51,4 +51,15 @@ definitions:
     example: the blunt admission that he had never liked my company
   - text: Hard to impress or penetrate.
   - text: 'Slow or deficient in feeling: insensitive.'
+prev_word: blunk
+next_word: blurb
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

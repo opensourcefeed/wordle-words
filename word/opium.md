@@ -34,4 +34,15 @@ definitions:
       unripe pods of the opium poppy, Papaver somniferum, and containing alkaloids
       such as morphine, codeine, and papaverine.
   - text: Anything that numbs or stupefies.
+prev_word: oping
+next_word: oppos
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/op/"
+  label: Starting with OP
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

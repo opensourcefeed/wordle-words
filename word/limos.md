@@ -49,4 +49,15 @@ definitions:
       or driven by a chauffeur.
   - text: An automobile for transportation to or from an airport, including sedans,
       vans, and buses.
+prev_word: limns
+next_word: limpa
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

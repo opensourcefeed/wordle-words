@@ -26,4 +26,15 @@ neighbours:
 - inner
 - inked
 - onned
+prev_word: inlet
+next_word: inner
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

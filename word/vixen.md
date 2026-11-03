@@ -36,4 +36,15 @@ definitions:
   - text: A malicious, quarrelsome or temperamental woman.
   - text: A racy or salacious woman.
   - text: A wife who has sex with other men with her husband's consent.
+prev_word: vivre
+next_word: vizir
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

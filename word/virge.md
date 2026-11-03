@@ -28,4 +28,15 @@ neighbours:
 - virgo
 anagrams:
 - giver
+prev_word: virga
+next_word: virgo
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -27,4 +27,15 @@ neighbours:
 - maril
 anagrams:
 - limma
+prev_word: mamie
+next_word: mamma
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

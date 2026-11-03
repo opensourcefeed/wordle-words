@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - strut
 - trust
+prev_word: sture
+next_word: stush
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

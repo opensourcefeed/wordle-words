@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - owner
 - rowen
+prev_word: rewin
+next_word: rewth
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

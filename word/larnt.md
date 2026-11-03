@@ -24,4 +24,15 @@ stats:
 neighbours:
 - earnt
 - larns
+prev_word: larns
+next_word: larum
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

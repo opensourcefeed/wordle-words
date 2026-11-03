@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: An egg.
+prev_word: goofy
+next_word: gooky
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

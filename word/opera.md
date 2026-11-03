@@ -42,4 +42,15 @@ definitions:
   - text: A company dedicated to performing such works.
   - text: "(by extension) Any showy, melodramatic or unrealistic production resembling
       an opera."
+prev_word: opepe
+next_word: opery
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/op/"
+  label: Starting with OP
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

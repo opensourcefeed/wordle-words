@@ -29,4 +29,13 @@ neighbours:
 anagrams:
 - hance
 - nache
+prev_word: caned
+next_word: caner
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

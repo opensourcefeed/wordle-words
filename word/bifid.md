@@ -24,4 +24,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Cleft; divided into two lobes.
+prev_word: biffy
+next_word: bigae
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

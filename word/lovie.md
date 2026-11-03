@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - olive
 - voile
+prev_word: lovey
+next_word: lowan
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

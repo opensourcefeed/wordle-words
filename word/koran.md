@@ -32,4 +32,15 @@ neighbours:
 - toran
 anagrams:
 - krona
+prev_word: korai
+next_word: koras
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

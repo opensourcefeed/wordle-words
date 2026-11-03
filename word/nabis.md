@@ -35,4 +35,15 @@ anagrams:
 - basin
 - naibs
 - sabin
+prev_word: nabes
+next_word: nabks
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

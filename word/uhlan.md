@@ -27,4 +27,13 @@ definitions:
   defs:
   - text: A lancer, a soldier armed with a lance in a former light cavalry unit of
       the Polish, Prussian/German, Austrian, and Russian armies.
+prev_word: ugged
+next_word: uhuru
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

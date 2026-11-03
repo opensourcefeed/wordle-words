@@ -25,4 +25,15 @@ neighbours:
 - clipe
 - flype
 - slype
+prev_word: clunk
+next_word: cnida
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

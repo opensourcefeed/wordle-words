@@ -34,4 +34,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(stative) to be; have existence; have being or reality"
+prev_word: exing
+next_word: exite
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

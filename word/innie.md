@@ -33,4 +33,15 @@ definitions:
   - text: A navel that is formed of a hollow in the abdomen (as opposed to one that
       protrudes from the abdomen).
   - text: A vagina with inner labia minora
+prev_word: inner
+next_word: innit
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

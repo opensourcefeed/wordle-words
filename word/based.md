@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: Founded on; having a basis; often used in combining forms.
     example: That was a soundly based argument.
+prev_word: basas
+next_word: basen
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

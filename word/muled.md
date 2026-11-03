@@ -33,4 +33,15 @@ neighbours:
 - ruled
 anagrams:
 - ledum
+prev_word: mulct
+next_word: mules
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -102,4 +102,15 @@ definitions:
   defs:
   - text: To demolish; to level to the ground.
   - text: To scrape as if with a razor.
+prev_word: racer
+next_word: rache
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

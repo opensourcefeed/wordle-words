@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: A crotchety or surly person.
   - text: A stingy man; a miser.
+prev_word: hundo
+next_word: hunky
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

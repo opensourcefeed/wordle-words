@@ -41,4 +41,15 @@ definitions:
   - text: "(British slang) A brothel-owner's husband or lover."
   - text: "(British slang) A ponce; a man employed by a prostitute to find clients,
       and who may also act as a bodyguard or equivalent to a bouncer."
+prev_word: abbey
+next_word: abcee
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

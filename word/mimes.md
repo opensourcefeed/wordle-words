@@ -56,4 +56,15 @@ definitions:
   - text: To mimic.
   - text: To act without words.
   - text: To represent an action or object through gesture, without the use of sound.
+prev_word: mimer
+next_word: mimic
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

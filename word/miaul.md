@@ -33,4 +33,15 @@ definitions:
 - pos: verb
   defs:
   - text: To give the cry of a cat.
+prev_word: miasm
+next_word: micas
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -120,4 +120,15 @@ definitions:
 - pos: adverb
   defs:
   - text: Lots, much, plenty, a great deal.
+prev_word: loach
+next_word: loafs
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

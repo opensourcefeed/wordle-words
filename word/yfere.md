@@ -23,4 +23,13 @@ stats:
 anagrams:
 - feyer
 - reefy
+prev_word: yexes
+next_word: yield
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

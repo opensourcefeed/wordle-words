@@ -88,4 +88,15 @@ definitions:
   defs:
   - text: Multiplied by
     example: Four times five is twenty.
+prev_word: timer
+next_word: timid
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

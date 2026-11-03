@@ -25,4 +25,13 @@ definitions:
 - pos: noun
   defs:
   - text: An administrative division of some Slavic states.
+prev_word: okras
+next_word: oktas
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ug/"
+  label: Ending in UG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

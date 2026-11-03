@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: To waste time on an unproductive activity.
     example: I decided to stop faffing about and get some work done.
+prev_word: faery
+next_word: faffy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

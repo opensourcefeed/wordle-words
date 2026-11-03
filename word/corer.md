@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: CO_ER
   count: 8
+prev_word: cored
+next_word: cores
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _ARER
   count: 8
+prev_word: fared
+next_word: fares
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

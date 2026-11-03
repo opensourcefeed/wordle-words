@@ -80,4 +80,15 @@ definitions:
   defs:
   - text: To attest (a document) legally, and date it.
   - text: To make a testament, or will.
+prev_word: teste
+next_word: testy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

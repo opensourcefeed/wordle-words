@@ -45,4 +45,15 @@ definitions:
   - text: Expressive of fatigue.
     example: He gave me a weary smile.
   - text: Causing weariness; tiresome.
+prev_word: wears
+next_word: weave
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

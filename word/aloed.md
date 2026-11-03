@@ -27,4 +27,15 @@ stats:
 neighbours:
 - aloud
 - aloes
+prev_word: alods
+next_word: aloes
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

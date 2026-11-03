@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 85
 anagrams:
 - going
+prev_word: ogees
+next_word: ogham
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/og/"
+  label: Starting with OG
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

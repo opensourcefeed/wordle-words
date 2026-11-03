@@ -20,4 +20,15 @@ stats:
   starter_top_percent: 66
 neighbours:
 - skody
+prev_word: scobe
+next_word: scoff
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

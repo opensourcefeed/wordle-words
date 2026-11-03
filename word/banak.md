@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 93
 neighbours:
 - banal
+prev_word: bammy
+next_word: banal
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

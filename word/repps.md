@@ -31,4 +31,15 @@ anagrams:
 - perps
 - persp
 - preps
+prev_word: repot
+next_word: repro
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

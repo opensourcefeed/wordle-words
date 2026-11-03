@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _IDER
   count: 8
+prev_word: bided
+next_word: bides
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

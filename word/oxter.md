@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To hug with the arms, or support by taking the arm of.
+prev_word: oxmen
+next_word: oyama
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ox/"
+  label: Starting with OX
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

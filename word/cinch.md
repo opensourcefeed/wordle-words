@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: To bring to certain conclusion.
   - text: To tighten down.
+prev_word: cimex
+next_word: cinct
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

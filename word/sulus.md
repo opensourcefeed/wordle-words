@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: An all-purpose skirt-like garment worn by men and women in Fiji.
+prev_word: sulph
+next_word: sumac
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

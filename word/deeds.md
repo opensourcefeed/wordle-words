@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To transfer real property by deed.
     example: He deeded over the mineral rights to some fellas from Denver.
+prev_word: dedal
+next_word: deedy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

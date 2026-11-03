@@ -25,4 +25,15 @@ stats:
 neighbours:
 - jinni
 - jinns
+prev_word: jinks
+next_word: jinni
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

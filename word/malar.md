@@ -50,4 +50,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Pertaining to the cheek.
+prev_word: malam
+next_word: malas
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

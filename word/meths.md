@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: Methylated spirits.
+prev_word: metho
+next_word: methy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

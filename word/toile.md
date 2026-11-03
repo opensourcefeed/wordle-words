@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: Plain or simple twilled fabric
+prev_word: toidy
+next_word: toils
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

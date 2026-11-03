@@ -31,4 +31,15 @@ anagrams:
 - bride
 - bider
 - rebid
+prev_word: brees
+next_word: breis
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

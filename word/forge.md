@@ -42,4 +42,15 @@ definitions:
   - text: Furnace or hearth where metals are heated prior to hammering them into shape.
   - text: Workshop in which metals are shaped by heating and hammering them.
   - text: The act of beating or working iron or steel.
+prev_word: forex
+next_word: forgo
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

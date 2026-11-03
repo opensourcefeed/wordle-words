@@ -62,4 +62,15 @@ definitions:
   defs:
   - text: To cover (the bottom of a vessel, a seam, a spar, etc.) with tar or pitch,
       or a waterproof composition of tallow, resin, etc.; to smear.
+prev_word: paxes
+next_word: payee
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

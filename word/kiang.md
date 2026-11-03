@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A large wild ass, Equus kiang, native to the Tibetan Plateau.
+prev_word: kiaki
+next_word: kiasu
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

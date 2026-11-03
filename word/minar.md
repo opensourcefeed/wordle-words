@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - inarm
 - ramin
+prev_word: minae
+next_word: minas
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

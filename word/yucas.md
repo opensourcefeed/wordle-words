@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: Cassava
   - text: Cassava root
+prev_word: yuans
+next_word: yucca
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

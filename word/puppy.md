@@ -52,4 +52,15 @@ definitions:
 - pos: verb
   defs:
   - text: To bring forth whelps or give birth to pups.
+prev_word: puppa
+next_word: pupus
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

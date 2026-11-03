@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 92
 neighbours:
 - hooka
+prev_word: hoogo
+next_word: hooka
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

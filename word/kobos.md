@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _OBOS
   count: 7
+prev_word: koban
+next_word: koels
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

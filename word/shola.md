@@ -28,4 +28,15 @@ anagrams:
 - shoal
 - halos
 - solah
+prev_word: shojo
+next_word: shone
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

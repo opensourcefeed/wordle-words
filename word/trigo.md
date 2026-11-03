@@ -28,4 +28,15 @@ neighbours:
 - trugo
 anagrams:
 - griot
+prev_word: triff
+next_word: trigs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

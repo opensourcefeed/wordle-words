@@ -33,4 +33,15 @@ neighbours:
 - porus
 - powns
 - sorns
+prev_word: porky
+next_word: porta
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

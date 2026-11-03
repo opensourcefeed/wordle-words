@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: "(of a person) Talkative or loquacious"
   - text: "(of a book etc.) Containing a great deal of dialogue or talking in general"
+prev_word: talks
+next_word: talls
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

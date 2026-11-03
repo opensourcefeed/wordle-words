@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A unit of currency in former British India equal to 12 pies or 1/16 rupee.
+prev_word: annan
+next_word: annat
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

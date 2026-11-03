@@ -27,4 +27,15 @@ neighbours:
 - kieve
 anagrams:
 - skive
+prev_word: kieve
+next_word: kight
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/vs/"
+  label: Ending in VS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -26,4 +26,15 @@ neighbours:
 - gulfy
 - gulph
 - gulps
+prev_word: gulps
+next_word: gumbo
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

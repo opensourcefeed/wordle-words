@@ -36,4 +36,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(in combination) Having (a specified kind or number of) ends."
+prev_word: enate
+next_word: ender
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

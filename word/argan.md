@@ -36,4 +36,15 @@ definitions:
   - text: A tree (Argania spinosa) of southwestern Morocco, particularly prized for
       its oil.
   - text: The fruit of this tree.
+prev_word: argal
+next_word: argil
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

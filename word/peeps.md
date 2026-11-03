@@ -68,4 +68,15 @@ definitions:
 - pos: noun
   defs:
   - text: Person.
+prev_word: peepe
+next_word: peepy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

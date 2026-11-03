@@ -21,4 +21,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 97
+prev_word: koine
+next_word: kojis
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

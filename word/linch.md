@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _INCH
   count: 6
+prev_word: linac
+next_word: linds
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

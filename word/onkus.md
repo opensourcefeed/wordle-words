@@ -28,4 +28,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Inferior; unpleasant; unacceptably bad.
+prev_word: onium
+next_word: onlap
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

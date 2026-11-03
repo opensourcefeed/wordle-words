@@ -27,4 +27,13 @@ neighbours:
 anagrams:
 - hibas
 - sahib
+prev_word: bezzy
+next_word: bhaji
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

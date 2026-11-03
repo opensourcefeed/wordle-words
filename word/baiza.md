@@ -25,4 +25,15 @@ stats:
 neighbours:
 - baisa
 - baize
+prev_word: baits
+next_word: baize
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

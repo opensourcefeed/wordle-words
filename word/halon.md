@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A hydrocarbon in which one or more hydrogen atoms have been replaced by
       halogens
+prev_word: halms
+next_word: halos
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

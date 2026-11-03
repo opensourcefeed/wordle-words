@@ -26,4 +26,15 @@ neighbours:
 - gutty
 - outta
 - sutta
+prev_word: gutsy
+next_word: gutty
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

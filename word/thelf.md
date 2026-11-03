@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 36
 neighbours:
 - shelf
+prev_word: their
+next_word: thema
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

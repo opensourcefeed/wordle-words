@@ -34,4 +34,15 @@ definitions:
   - text: A moulding of the cornice, wavelike in form, whose outline consists of a
       concave and a convex line; an ogee.
   - text: A cyme.
+prev_word: cymar
+next_word: cymes
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cy/"
+  label: Starting with CY
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

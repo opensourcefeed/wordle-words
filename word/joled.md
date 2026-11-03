@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _OLED
   count: 10
+prev_word: jokol
+next_word: joles
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

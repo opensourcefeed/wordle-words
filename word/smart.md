@@ -49,4 +49,15 @@ definitions:
   - text: To cause a smart or sting in.
   - text: To feel a pungent pain of mind; to feel sharp pain or grief; be punished
       severely; to feel the sting of evil.
+prev_word: smarm
+next_word: smash
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -56,4 +56,15 @@ definitions:
 - pos: verb
   defs:
   - text: To plead; to argue.
+prev_word: plead
+next_word: pleat
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

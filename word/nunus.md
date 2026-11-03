@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: A weevil (or similar insect)
+prev_word: nunny
+next_word: nuque
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -61,4 +61,15 @@ definitions:
   - text: Characterized by strong drum-beats and distorted guitars.
   - text: Having the emotional or social characteristics associated with metal music;
       brash, bold, frank, unyielding, etc.
+prev_word: mesyl
+next_word: metas
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

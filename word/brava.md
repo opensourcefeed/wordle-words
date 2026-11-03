@@ -26,4 +26,15 @@ neighbours:
 - bhava
 - bravi
 - braza
+prev_word: brats
+next_word: brave
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/va/"
+  label: Ending in VA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

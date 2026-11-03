@@ -34,4 +34,15 @@ neighbours:
 - puros
 anagrams:
 - sudor
+prev_word: duroc
+next_word: duroy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

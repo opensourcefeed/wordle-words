@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - tidal
 - dital
+prev_word: dates
+next_word: datos
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - apsis
 - aspis
+prev_word: pshut
+next_word: psion
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ps/"
+  label: Starting with PS
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

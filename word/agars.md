@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - ragas
 - sagar
+prev_word: agape
+next_word: agasp
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

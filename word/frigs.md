@@ -54,4 +54,15 @@ definitions:
     example: Be sensible, you’re just frigging about now.
   - text: To make a temporary alteration to something, to fudge, to manipulate
     example: The system wasn't working but I've frigged the data and it's usable now.
+prev_word: fries
+next_word: frill
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

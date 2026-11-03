@@ -31,4 +31,15 @@ definitions:
 - pos: interjection
   defs:
   - text: Exclamation of dismay.
+prev_word: wires
+next_word: wirri
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

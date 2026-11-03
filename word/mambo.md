@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To perform this dance.
+prev_word: mamba
+next_word: mambu
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

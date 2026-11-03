@@ -87,4 +87,15 @@ definitions:
   defs:
   - text: "(Cambridge University) One who does not try for honors at university, but
       is content to take a degree merely; a passman."
+prev_word: pollo
+next_word: polly
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

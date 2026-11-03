@@ -75,4 +75,15 @@ definitions:
 - pos: verb
   defs:
   - text: To apply glue or other primer to a surface which is to be painted.
+prev_word: sizer
+next_word: skags
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

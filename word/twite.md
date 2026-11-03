@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: A small passerine bird, Linaria flavirostris (syn. Carduelis flavirostris),
       that breeds in northern Europe and across central Asia.
+prev_word: twist
+next_word: twits
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

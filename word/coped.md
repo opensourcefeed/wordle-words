@@ -60,4 +60,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Clad in a cope.
+prev_word: copay
+next_word: copen
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

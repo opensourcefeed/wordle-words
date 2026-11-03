@@ -39,4 +39,15 @@ definitions:
   - text: A hod for mortar.
   - text: An old measure of wheat equal to two thirds of a bushel.
   - text: A concubine; a harlot.
+prev_word: trugo
+next_word: trull
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

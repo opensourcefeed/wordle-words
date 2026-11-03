@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: An orange-haired or red-haired person.
+prev_word: ranes
+next_word: range
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

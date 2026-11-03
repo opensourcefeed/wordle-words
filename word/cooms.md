@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _OOMS
   count: 8
+prev_word: coomb
+next_word: coomy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

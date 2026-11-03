@@ -44,4 +44,15 @@ definitions:
       step-by-step plan for a computational procedure that possibly begins with an
       input value and yields an output value in a finite number of steps.
   - text: Calculation with Arabic numerals; algorism.
+prev_word: algor
+next_word: algum
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -55,4 +55,15 @@ definitions:
   - text: To behave stupidly; to act like a booby.
   - text: To install a booby trap on or at (something); to attack (someone) with a
       booby trap.
+prev_word: boobs
+next_word: boody
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

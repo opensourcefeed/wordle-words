@@ -25,4 +25,15 @@ neighbours:
 anagrams:
 - broom
 - bromo
+prev_word: bomoh
+next_word: bonce
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

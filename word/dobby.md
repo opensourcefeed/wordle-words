@@ -43,4 +43,15 @@ definitions:
   - text: An evil or mischievous fairy or ghost sometimes said to haunt a building
       or household.
   - text: A dotard.
+prev_word: doats
+next_word: dobes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

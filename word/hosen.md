@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: HOSE_
   count: 6
+prev_word: hosel
+next_word: hoser
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -29,4 +29,15 @@ neighbours:
 - commy
 - corby
 - womby
+prev_word: combs
+next_word: comer
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

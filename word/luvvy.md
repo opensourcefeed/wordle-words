@@ -29,4 +29,15 @@ definitions:
     example: Don't cry luvvy, everything will be OK.
   - text: "(sometimes derogatory) an actor or actress, especially a narcissistic and
       pretentious one."
+prev_word: lutes
+next_word: luxed
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

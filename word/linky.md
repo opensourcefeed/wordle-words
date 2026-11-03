@@ -42,4 +42,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of or pertaining to hyperlinks.
+prev_word: links
+next_word: linns
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

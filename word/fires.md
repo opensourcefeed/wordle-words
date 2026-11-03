@@ -105,4 +105,15 @@ definitions:
   - text: To cauterize.
   - text: To catch fire; to be kindled.
   - text: To be irritated or inflamed with passion.
+prev_word: firer
+next_word: firie
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

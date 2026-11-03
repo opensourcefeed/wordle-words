@@ -28,4 +28,15 @@ neighbours:
 - wamus
 anagrams:
 - manus
+prev_word: namma
+next_word: nanas
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

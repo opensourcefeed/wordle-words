@@ -24,4 +24,15 @@ neighbours:
 - cymae
 - cymas
 - symar
+prev_word: cymae
+next_word: cymas
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cy/"
+  label: Starting with CY
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

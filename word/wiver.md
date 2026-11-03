@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _IVER
   count: 11
+prev_word: wived
+next_word: wives
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -51,4 +51,15 @@ definitions:
   - text: A machine (rather like a rotating pestle and mortar) used to refine the
       flavour and texture of chocolate by warming and grinding.
   - text: A person who operates such a machine.
+prev_word: comus
+next_word: condo
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

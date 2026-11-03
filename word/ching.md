@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: A pair of small bowl-shaped finger cymbals made of thick and heavy bronze,
       used in the music of Thailand and Cambodia.
+prev_word: chine
+next_word: chino
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

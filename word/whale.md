@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: To hunt for whales.
+prev_word: whack
+next_word: whamo
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

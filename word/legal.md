@@ -49,4 +49,15 @@ definitions:
   - text: Above the age of consent or the legal drinking age.
   - text: "(of paper or document layouts) Measuring 8½ in × 14 in (215.9 mm × 355.6
       mm) (also legal-size)."
+prev_word: lefty
+next_word: leger
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

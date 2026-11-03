@@ -23,4 +23,13 @@ neighbours:
 - dsomo
 anagrams:
 - doobs
+prev_word: dryly
+next_word: dsomo
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

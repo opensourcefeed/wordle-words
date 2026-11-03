@@ -24,4 +24,15 @@ neighbours:
 - cavus
 - favas
 - faves
+prev_word: favor
+next_word: fawns
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

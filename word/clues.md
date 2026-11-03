@@ -56,4 +56,15 @@ definitions:
   - text: To provide someone with information which he or she lacks (often used with
       "in" or "up").
     example: Smith, clue Jones in on what's been happening.
+prev_word: clued
+next_word: cluey
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

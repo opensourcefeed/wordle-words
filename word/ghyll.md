@@ -23,4 +23,15 @@ definitions:
 - pos: noun
   defs:
   - text: A ravine.
+prev_word: ghusl
+next_word: giant
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gh/"
+  label: Starting with GH
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _ELLS
   count: 14
+prev_word: veles
+next_word: velum
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

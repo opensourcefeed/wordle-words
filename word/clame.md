@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - camel
 - macle
+prev_word: clair
+next_word: clamp
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

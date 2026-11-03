@@ -76,4 +76,15 @@ definitions:
   - text: "(by extension) A shotgun (synecdoche for 12 gauge shotgun, the most common
       chambering for combat and hunting shotguns)."
   - text: A tunnel-like ear piercing consisting of a hollow ring embedded in the lobe.
+prev_word: gager
+next_word: gaids
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

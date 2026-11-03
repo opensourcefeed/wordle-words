@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: The Hawaiian goose, Branta sandvicensis, which was designated the state
       bird of Hawaii in 1957.
+prev_word: nempt
+next_word: nenta
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

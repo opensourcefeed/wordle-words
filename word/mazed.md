@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: To amaze, astonish, bewilder
   - text: To daze, stupefy, or confuse
+prev_word: mazas
+next_word: mazel
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - meuse
 - musee
+prev_word: emery
+next_word: emics
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

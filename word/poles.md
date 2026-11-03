@@ -88,4 +88,15 @@ definitions:
 - pos: verb
   defs:
   - text: To induce piezoelectricity in (a substance) by aligning the dipoles.
+prev_word: poler
+next_word: poley
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

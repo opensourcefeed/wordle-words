@@ -26,4 +26,13 @@ stats:
   starter_top_percent: 26
 anagrams:
 - ixora
+prev_word: origo
+next_word: orles
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

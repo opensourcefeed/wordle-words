@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - inlay
 - layin
+prev_word: nails
+next_word: nains
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

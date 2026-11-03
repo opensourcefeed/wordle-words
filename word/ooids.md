@@ -28,4 +28,15 @@ neighbours:
 - oxids
 - roids
 - voids
+prev_word: oohed
+next_word: oojah
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oo/"
+  label: Starting with OO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

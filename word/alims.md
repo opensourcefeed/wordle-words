@@ -37,4 +37,15 @@ anagrams:
 - malis
 - misal
 - salmi
+prev_word: alike
+next_word: aline
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

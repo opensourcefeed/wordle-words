@@ -45,4 +45,15 @@ definitions:
   - text: "(surf culture and/or Southern California) Of large magnitude, either good
       or bad, and sometimes both."
     example: That wave was burly! (i.e. large, dangerous and difficult to ride)
+prev_word: burls
+next_word: burns
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

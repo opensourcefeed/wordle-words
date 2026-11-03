@@ -24,4 +24,15 @@ neighbours:
 - agasp
 - agist
 - avast
+prev_word: agasp
+next_word: agate
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

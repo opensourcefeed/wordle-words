@@ -26,4 +26,15 @@ anagrams:
 - aptly
 - patly
 - platy
+prev_word: tynes
+next_word: typed
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

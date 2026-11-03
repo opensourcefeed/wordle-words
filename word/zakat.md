@@ -26,4 +26,15 @@ definitions:
 - pos: noun
   defs:
   - text: Almsgiving, one of the five pillars of Islam.
+prev_word: zaire
+next_word: zamac
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

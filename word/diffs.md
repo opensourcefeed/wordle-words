@@ -80,4 +80,15 @@ definitions:
       that of the other.
   - text: A form of conductor used for dividing and distributing the current to a
       series of electric lamps so as to maintain equal action in all.
+prev_word: diets
+next_word: dight
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

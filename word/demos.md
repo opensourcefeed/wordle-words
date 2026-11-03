@@ -59,4 +59,15 @@ definitions:
     example: The target demo of the new show will be children between 6 and 8 years
       old.
   - text: Demolition.
+prev_word: demon
+next_word: demot
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

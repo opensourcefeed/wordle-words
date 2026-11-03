@@ -42,4 +42,15 @@ definitions:
       compound flowers, such as the sunflower.
   - text: A pendulous process of the skin on the throat of a bird, as in the turkey;
       a dewlap.
+prev_word: palay
+next_word: paled
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

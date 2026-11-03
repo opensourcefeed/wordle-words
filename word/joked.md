@@ -49,4 +49,15 @@ definitions:
     example: Relax, man, I'm just joking with you.
   - text: To make merry with; to make jokes upon; to rally.
     example: to joke a comrade
+prev_word: joist
+next_word: joker
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

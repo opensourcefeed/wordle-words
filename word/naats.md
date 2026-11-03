@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - antas
 - tanas
+prev_word: naans
+next_word: nabam
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

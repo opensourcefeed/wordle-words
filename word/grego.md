@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - gorge
 - reggo
+prev_word: grege
+next_word: grein
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -54,4 +54,15 @@ definitions:
     example: Our networking is organized in silos, and employees lose time manually
       transferring data.
   - text: A self-enclosed group of like-minded individuals.
+prev_word: silly
+next_word: silts
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

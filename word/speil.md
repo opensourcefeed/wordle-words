@@ -36,4 +36,15 @@ anagrams:
 - plies
 - slipe
 - spile
+prev_word: speer
+next_word: speir
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

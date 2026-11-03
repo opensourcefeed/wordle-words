@@ -41,4 +41,15 @@ definitions:
   - text: To punish with a stick, bundle of twigs, or rod made of birch wood.
   - text: To punish as though one were using a stick, bundle of twigs, or rod made
       of birch wood.
+prev_word: bippy
+next_word: birdo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

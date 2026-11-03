@@ -21,4 +21,15 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 77
+prev_word: gynos
+next_word: gypes
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

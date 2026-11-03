@@ -27,4 +27,15 @@ neighbours:
 - puker
 - puler
 - puter
+prev_word: pucan
+next_word: puces
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

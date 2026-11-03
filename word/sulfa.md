@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of or containing sulfonamide or sulfanilamide.
+prev_word: sulci
+next_word: sulfo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/fa/"
+  label: Ending in FA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

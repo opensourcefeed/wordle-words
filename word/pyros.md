@@ -38,4 +38,15 @@ definitions:
   - text: Pyrotechnician
   - text: Pyrotechnics
   - text: Pyrogallic acid
+prev_word: pyric
+next_word: pyrus
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

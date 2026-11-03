@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - nrtya
 - ranty
+prev_word: typto
+next_word: tyred
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

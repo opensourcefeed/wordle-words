@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - macro
 - carom
+prev_word: coral
+next_word: corbe
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

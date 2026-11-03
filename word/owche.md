@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 50
 neighbours:
 - ouche
+prev_word: owari
+next_word: owers
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ow/"
+  label: Starting with OW
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

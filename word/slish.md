@@ -27,4 +27,15 @@ neighbours:
 - swish
 - plish
 - shish
+prev_word: slipt
+next_word: slits
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

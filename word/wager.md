@@ -58,4 +58,15 @@ definitions:
     example: I'd wager my boots on it.
   - text: To suppose; to dare say.
     example: I'll wager that Johnson knows something about all this.
+prev_word: waged
+next_word: wages
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

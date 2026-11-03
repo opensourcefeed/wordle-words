@@ -26,4 +26,15 @@ neighbours:
 - maumy
 - mausy
 - mauvy
+prev_word: mauvy
+next_word: maven
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

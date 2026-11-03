@@ -28,4 +28,15 @@ neighbours:
 - pavis
 anagrams:
 - vapid
+prev_word: paves
+next_word: pavie
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

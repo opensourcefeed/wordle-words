@@ -74,4 +74,15 @@ definitions:
   defs:
   - text: "(urban) pills; drugs in pill form"
   - text: Testes
+prev_word: beano
+next_word: beany
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

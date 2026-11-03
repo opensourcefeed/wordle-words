@@ -44,4 +44,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Without horns; polled.
+prev_word: poles
+next_word: polio
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

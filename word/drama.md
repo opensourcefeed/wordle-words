@@ -44,4 +44,15 @@ definitions:
   - text: Rumor, lying or exaggerated reaction to life or online events; melodrama;
       an angry dispute or scene; a situation made more complicated or worse than it
       should be; intrigue or spiteful interpersonal maneuvering.
+prev_word: drake
+next_word: drams
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

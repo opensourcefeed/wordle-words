@@ -32,4 +32,15 @@ definitions:
   - text: An Italian noble family, which became the ruling (hereditary) dynasty of
       Sardinia and later of Italy
   - text: A member of the Savoy noble family
+prev_word: savor
+next_word: savvy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/oy/"
+  label: Ending in OY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

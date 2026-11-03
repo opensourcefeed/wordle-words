@@ -38,4 +38,15 @@ definitions:
       protrusion on the outer wall.
   - text: A gallery for minstrels.
   - text: A small apartment next to a hall, used for dining.
+prev_word: oribi
+next_word: origo
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

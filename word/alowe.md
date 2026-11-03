@@ -26,4 +26,13 @@ stats:
 neighbours:
 - alone
 - alose
+prev_word: aloud
+next_word: alpha
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: Of, pertaining to, or constructed of turf.
   - text: Relating to or involved with horses or horse-racing.
+prev_word: turfs
+next_word: turks
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -27,4 +27,13 @@ definitions:
 - pos: noun
   defs:
   - text: Madhuca longifolia, an Indian tropical tree.
+prev_word: mahua
+next_word: maids
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

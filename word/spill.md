@@ -74,4 +74,15 @@ definitions:
   - text: To reveal information to an uninformed party.
     example: He spilled his guts out to his new psychologist.
   - text: "(of a knot). To come undone."
+prev_word: spile
+next_word: spilt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

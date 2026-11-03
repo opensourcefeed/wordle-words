@@ -40,4 +40,15 @@ definitions:
       thirteen, that are stretched over a convex wooden sounding board and are plucked
       with three plectra, worn on the thumb, index finger, and middle finger of one
       hand.
+prev_word: kotch
+next_word: kotow
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

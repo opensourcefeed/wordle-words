@@ -40,4 +40,15 @@ definitions:
   - text: "(often with 'on') To tell lies about; inform against (someone)."
   - text: To be loquacious; tattle; gossip.
   - text: To report; relate; tell.
+prev_word: clepe
+next_word: clerk
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

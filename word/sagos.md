@@ -38,4 +38,15 @@ definitions:
   - text: A powdered starch obtained from certain palms used as a food thickener.
   - text: A similar starch obtained from a palm-like cycad, Cycas revoluta
   - text: Any of the palms from which sago is extracted.
+prev_word: saggy
+next_word: sagum
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

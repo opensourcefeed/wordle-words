@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: To ride a wave, usually on a surfboard.
   - text: To browse the Internet, television, etc.
+prev_word: sures
+next_word: surfy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

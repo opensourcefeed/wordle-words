@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: S_ENT
   count: 6
+prev_word: siens
+next_word: sieth
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

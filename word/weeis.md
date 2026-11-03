@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: WEE_S
   count: 8
+prev_word: weedy
+next_word: weeke
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

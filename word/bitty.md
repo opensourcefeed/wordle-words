@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: Containing bits; fragmented.
   - text: Very small.
+prev_word: bitts
+next_word: bivia
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

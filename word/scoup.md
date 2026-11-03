@@ -30,4 +30,15 @@ neighbours:
 - stoup
 anagrams:
 - coups
+prev_word: scoug
+next_word: scour
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/up/"
+  label: Ending in UP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

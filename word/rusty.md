@@ -51,4 +51,15 @@ definitions:
       skill or activity.
   - text: 'Of clothing, especially dark clothing: worn, shabby.'
   - text: Affected with the fungal plant disease called rust.
+prev_word: rusts
+next_word: ruths
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

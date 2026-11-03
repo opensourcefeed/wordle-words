@@ -100,4 +100,15 @@ definitions:
   - text: Any of various European monetary units, especially the base unit of currency
       of Germany between 1948 and 2002, equal to 100 pfennigs.
   - text: A coin worth one mark.
+prev_word: marka
+next_word: marle
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

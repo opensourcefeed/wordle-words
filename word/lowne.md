@@ -29,4 +29,15 @@ neighbours:
 - sowne
 anagrams:
 - lowen
+prev_word: lownd
+next_word: lowns
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

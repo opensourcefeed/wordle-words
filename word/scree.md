@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To traverse scree downhill.
+prev_word: scray
+next_word: screw
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

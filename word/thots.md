@@ -46,4 +46,15 @@ definitions:
       no such thing as public liberty without freedom of speech.
   - text: A way of thinking (associated with a group, nation or region).
     example: Traditional eastern thought differs markedly from that of the west.
+prev_word: those
+next_word: thous
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -30,4 +30,13 @@ definitions:
   defs:
   - text: 'A member of the equestrian order (Latin: ordo equester), the lower of the
       two aristocratic classes of Ancient Rome, ranking below the patricians.'
+prev_word: equal
+next_word: equid
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

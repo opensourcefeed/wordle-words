@@ -27,4 +27,15 @@ neighbours:
 - fries
 - frigs
 - frits
+prev_word: friar
+next_word: fried
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

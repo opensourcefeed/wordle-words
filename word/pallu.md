@@ -31,4 +31,13 @@ definitions:
 - pos: noun
   defs:
   - text: The usually decorated end of a sari that hangs loose when worn.
+prev_word: palls
+next_word: pally
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

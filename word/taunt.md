@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: To make fun of (someone); to goad (a person) into responding, often in an
       aggressive manner.
+prev_word: tauld
+next_word: tauon
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

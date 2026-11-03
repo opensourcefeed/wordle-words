@@ -40,4 +40,13 @@ definitions:
   - text: The ninth letter of the Greek alphabet.
     example: As a Greek numeral, iota represents ten.
   - text: A jot; a very small, insignificant quantity.
+prev_word: ioras
+next_word: ippon
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

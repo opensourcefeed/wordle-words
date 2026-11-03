@@ -33,4 +33,15 @@ definitions:
   - text: Negligence or fault, as distinguishable from dolus (deceit, fraud), which
       implies intent, culpa being imputable to defect of intellect, dolus to defect
       of heart.
+prev_word: culms
+next_word: culti
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

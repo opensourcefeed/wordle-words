@@ -27,4 +27,15 @@ neighbours:
 - flite
 - flits
 - fritt
+prev_word: flits
+next_word: float
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/tt/"
+  label: Ending in TT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

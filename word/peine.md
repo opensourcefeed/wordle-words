@@ -31,4 +31,15 @@ neighbours:
 - seine
 anagrams:
 - penie
+prev_word: pegos
+next_word: peins
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

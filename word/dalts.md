@@ -33,4 +33,15 @@ neighbours:
 - halts
 - malts
 - salts
+prev_word: dally
+next_word: daman
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

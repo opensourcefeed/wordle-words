@@ -40,4 +40,15 @@ definitions:
     example: to sue a ship
   - text: To court.
   - text: To follow.
+prev_word: suids
+next_word: suint
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -49,4 +49,15 @@ definitions:
       sugar.
     example: The beet is a hardy species.
   - text: A beetroot, a swollen root of such a plant.
+prev_word: beery
+next_word: befit
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,15 @@ neighbours:
 - novio
 anagrams:
 - avion
+prev_word: novel
+next_word: novio
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

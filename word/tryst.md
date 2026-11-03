@@ -39,4 +39,15 @@ definitions:
   - text: To make a tryst; to agree to meet at a place.
   - text: To arrange or appoint (a meeting time etc.).
   - text: To keep a tryst, to meet at an agreed place and time.
+prev_word: tryps
+next_word: tsade
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: To close or lock as if with a latch.
   - text: To catch; lay hold of.
+prev_word: latah
+next_word: lated
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -49,4 +49,15 @@ anagrams:
 trap:
   pattern: _OWER
   count: 10
+prev_word: sowed
+next_word: sowff
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

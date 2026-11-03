@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: GOO_Y
   count: 11
+prev_word: goops
+next_word: goors
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

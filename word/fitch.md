@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: The European polecat, Mustela putorius.
   - text: The skin of the polecat
+prev_word: fisty
+next_word: fitly
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

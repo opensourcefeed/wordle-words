@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: A pair of nines.
     example: He drew nines from the deck.
+prev_word: niner
+next_word: ninja
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

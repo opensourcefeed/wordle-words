@@ -34,4 +34,15 @@ definitions:
       or on a raised, foldable frame as a bed.
   - text: A round cushion used for Zen meditation, traditionally made of woven bulrush
       leaves.
+prev_word: fusty
+next_word: fuzed
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

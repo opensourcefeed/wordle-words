@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: The ability to speak, and to understand spoken language
   - text: A measure of this ability
+prev_word: orach
+next_word: orals
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

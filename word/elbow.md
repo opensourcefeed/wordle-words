@@ -48,4 +48,15 @@ definitions:
   - text: To push with the elbow.
     example: He elbowed his way through the crowd.
   - text: "(by extension) To nudge, jostle or push."
+prev_word: elate
+next_word: elchi
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

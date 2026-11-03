@@ -59,4 +59,15 @@ definitions:
 - pos: noun
   defs:
   - text: One who acts in place of a superior.
+prev_word: viced
+next_word: vichy
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

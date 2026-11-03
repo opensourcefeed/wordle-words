@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _OOEY
   count: 8
+prev_word: zooea
+next_word: zooid
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

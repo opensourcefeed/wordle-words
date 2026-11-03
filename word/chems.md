@@ -30,4 +30,15 @@ neighbours:
 - crems
 anagrams:
 - mechs
+prev_word: chemo
+next_word: chere
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

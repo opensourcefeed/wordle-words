@@ -45,4 +45,15 @@ anagrams:
 trap:
   pattern: _EALS
   count: 14
+prev_word: beaky
+next_word: beams
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: A low-circulation, non-commercial publication of original or appropriated
       texts and images, especially one of minority interest.
+prev_word: zineb
+next_word: zings
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

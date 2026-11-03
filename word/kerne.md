@@ -40,4 +40,15 @@ definitions:
       in archaic contexts often used as a term of contempt.
   - text: A boor; a low person.
   - text: An idler; a vagabond.
+prev_word: kerma
+next_word: kerns
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

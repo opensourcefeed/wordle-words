@@ -29,4 +29,15 @@ anagrams:
 - anent
 - nante
 - nenta
+prev_word: neals
+next_word: neaps
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

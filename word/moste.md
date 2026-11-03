@@ -33,4 +33,15 @@ anagrams:
 - mesto
 - motes
 - tomes
+prev_word: mossy
+next_word: mosto
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

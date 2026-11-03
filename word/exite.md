@@ -30,4 +30,15 @@ neighbours:
 - evite
 - exine
 - exits
+prev_word: exist
+next_word: exits
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

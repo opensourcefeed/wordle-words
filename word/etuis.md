@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A small, ornamental bag or rigid container used for holding articles such
       as needles.
+prev_word: etude
+next_word: etwee
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/et/"
+  label: Starting with ET
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

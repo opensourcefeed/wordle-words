@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A large Mediterranean food fish Umbrina cirrosa
+prev_word: omber
+next_word: ombus
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/om/"
+  label: Starting with OM
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

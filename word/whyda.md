@@ -24,4 +24,15 @@ definitions:
   defs:
   - text: Any of various black and white African weaverbirds with distinctive drooping
       long tailfeathers on males in mating season, suitable as cage birds.
+prev_word: whups
+next_word: wicca
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

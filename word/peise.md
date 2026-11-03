@@ -34,4 +34,15 @@ neighbours:
 - prise
 - seise
 - weise
+prev_word: peins
+next_word: peisy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

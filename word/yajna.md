@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A ritual of sacrifice to the Devas.
+prev_word: yaird
+next_word: yakka
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

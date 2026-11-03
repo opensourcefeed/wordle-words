@@ -32,4 +32,15 @@ neighbours:
 - lobed
 - mobed
 - robed
+prev_word: jnana
+next_word: jobes
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

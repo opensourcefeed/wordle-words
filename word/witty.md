@@ -50,4 +50,15 @@ definitions:
     example: His frequent quips mark him as particularly witty.
   - text: Quick of mind; insightful; in possession of wits.
     example: She may have grown older, but she has grown no less witty.
+prev_word: withy
+next_word: wived
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

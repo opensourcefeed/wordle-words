@@ -29,4 +29,15 @@ definitions:
 - pos: interjection
   defs:
   - text: Expressing surprise.
+prev_word: lumen
+next_word: lummy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

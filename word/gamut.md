@@ -33,4 +33,15 @@ definitions:
   - text: A (normally) complete range.
   - text: All the notes in the musical scale.
   - text: All the colours available to a device such as a monitor or printer.
+prev_word: gamps
+next_word: ganch
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

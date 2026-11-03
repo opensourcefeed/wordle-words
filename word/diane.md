@@ -28,4 +28,15 @@ neighbours:
 - liane
 anagrams:
 - daine
+prev_word: diana
+next_word: diary
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

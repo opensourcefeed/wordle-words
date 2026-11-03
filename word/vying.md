@@ -47,4 +47,13 @@ definitions:
 - pos: noun
   defs:
   - text: The act of one who vies; rivalry.
+prev_word: vygie
+next_word: waacs
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

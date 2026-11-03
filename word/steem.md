@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: STEE_
   count: 8
+prev_word: steel
+next_word: steen
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -26,4 +26,15 @@ anagrams:
 - abash
 - basha
 - sabha
+prev_word: sagum
+next_word: saheb
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ab/"
+  label: Ending in AB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

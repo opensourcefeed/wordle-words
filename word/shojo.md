@@ -31,4 +31,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Being in the style of shōjo manga or anime.
+prev_word: shoji
+next_word: shola
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

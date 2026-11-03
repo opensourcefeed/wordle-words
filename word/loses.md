@@ -68,4 +68,15 @@ definitions:
   - text: To fail to catch with the mind or senses; to miss.
     example: I lost a part of what he said.
   - text: To cause to part with; to deprive of.
+prev_word: loser
+next_word: lossy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

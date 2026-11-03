@@ -55,4 +55,15 @@ definitions:
       not the dancing) from the ballet The Nutcracker, and the Carmen Suite is the
       instrumental music (but not the singing and dancing) from the opera Carmen.
   - text: A group of related computer programs distributed together.
+prev_word: suint
+next_word: suits
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

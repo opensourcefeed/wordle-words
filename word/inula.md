@@ -22,4 +22,15 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 20
+prev_word: intro
+next_word: inure
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

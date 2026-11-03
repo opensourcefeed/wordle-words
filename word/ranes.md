@@ -46,4 +46,15 @@ anagrams:
 trap:
   pattern: RA_ES
   count: 14
+prev_word: ranee
+next_word: ranga
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

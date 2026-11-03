@@ -78,4 +78,15 @@ definitions:
 - pos: noun
   defs:
   - text: A rent or long aperture; a chink; a fissure; a crack.
+prev_word: rimer
+next_word: rimon
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

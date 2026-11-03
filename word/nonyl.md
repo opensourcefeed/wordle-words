@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: Any of very many isomeric univalent hydrocarbon radicals, C9H19, formally
       derived from nonane by the loss of a hydrogen atom.
+prev_word: nonny
+next_word: noobs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

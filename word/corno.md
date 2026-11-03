@@ -28,4 +28,15 @@ neighbours:
 - corso
 anagrams:
 - croon
+prev_word: corni
+next_word: corns
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

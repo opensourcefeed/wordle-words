@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _OOKS
   count: 14
+prev_word: zooid
+next_word: zooms
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

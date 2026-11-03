@@ -26,4 +26,15 @@ stats:
   starter_top_percent: 16
 neighbours:
 - oxers
+prev_word: oxbow
+next_word: oxers
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ox/"
+  label: Starting with OX
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

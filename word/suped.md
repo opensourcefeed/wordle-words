@@ -33,4 +33,15 @@ anagrams:
 - dupes
 - pseud
 - spued
+prev_word: suona
+next_word: super
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

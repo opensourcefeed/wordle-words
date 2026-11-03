@@ -32,4 +32,15 @@ definitions:
   - text: Any of several formal symbolic hand postures used in classical dance of
       India and in Hindu and Buddhist iconography.
   - text: Any of the formal body positions and postures used in yoga and meditation.
+prev_word: mudir
+next_word: muffs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

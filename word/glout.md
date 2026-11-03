@@ -28,4 +28,15 @@ neighbours:
 - grout
 - glost
 - plout
+prev_word: glost
+next_word: glove
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

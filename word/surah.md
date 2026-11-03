@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of the 114 chapters of the Qur'an.
+prev_word: supra
+next_word: sural
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

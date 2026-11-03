@@ -21,4 +21,15 @@ stats:
 neighbours:
 - stimy
 - styme
+prev_word: styme
+next_word: styre
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

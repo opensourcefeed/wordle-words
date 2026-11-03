@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 72
 neighbours:
 - wilga
+prev_word: wilis
+next_word: wills
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ja/"
+  label: Ending in JA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

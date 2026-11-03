@@ -30,4 +30,15 @@ anagrams:
 - meare
 - ramee
 - reame
+prev_word: ameba
+next_word: amend
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

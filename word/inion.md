@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A small protuberance on the external surface of the back of the skull near
       the neck; the external occipital protuberance.
+prev_word: ingot
+next_word: inked
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

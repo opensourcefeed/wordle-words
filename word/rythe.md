@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _YTHE
   count: 7
+prev_word: rypin
+next_word: ryugi
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ry/"
+  label: Starting with RY
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

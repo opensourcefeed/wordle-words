@@ -43,4 +43,15 @@ definitions:
 - pos: interjection
   defs:
   - text: The short, high-pitched sound made by a small bird.
+prev_word: cheek
+next_word: cheer
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ep/"
+  label: Ending in EP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

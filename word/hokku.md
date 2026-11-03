@@ -25,4 +25,13 @@ definitions:
 - pos: noun
   defs:
   - text: A type of Japanese poem.
+prev_word: hokis
+next_word: hokum
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

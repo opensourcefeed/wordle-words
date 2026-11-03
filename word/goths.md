@@ -39,4 +39,15 @@ definitions:
   - text: A style of punk rock influenced by glam rock; gothic rock.
   - text: A person who is part of the goth subculture.
     example: We saw a solitary goth hanging out on the steps of the train station.
+prev_word: gotch
+next_word: gothy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

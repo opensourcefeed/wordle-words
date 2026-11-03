@@ -31,4 +31,15 @@ neighbours:
 - miggs
 - muggs
 - raggs
+prev_word: mages
+next_word: magic
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

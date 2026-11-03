@@ -32,4 +32,15 @@ definitions:
 - pos: verb
   defs:
   - text: Expect
+prev_word: specs
+next_word: speed
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

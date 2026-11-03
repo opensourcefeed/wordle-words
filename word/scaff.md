@@ -26,4 +26,15 @@ neighbours:
 - scuff
 anagrams:
 - caffs
+prev_word: scads
+next_word: scags
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

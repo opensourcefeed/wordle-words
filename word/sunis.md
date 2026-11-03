@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - nisus
 - sinus
+prev_word: sumps
+next_word: sunks
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

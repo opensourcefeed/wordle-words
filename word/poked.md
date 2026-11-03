@@ -54,4 +54,15 @@ definitions:
   - text: To thrust (something) in a particular direction such as the tongue.
   - text: To penetrate in sexual intercourse.
     example: If she smokes, she pokes.
+prev_word: pokal
+next_word: poker
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

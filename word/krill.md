@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: Any of several small marine crustacean species of plankton in the order
       Euphausiacea in the class Malacostraca.
+prev_word: krewe
+next_word: kriol
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

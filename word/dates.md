@@ -93,4 +93,15 @@ definitions:
       become less appealing or attractive, etc.
     example: The comedian dated himself by making quips about bands from the 1960s.
   - text: "(with from) To have beginning; to begin; to be dated or reckoned."
+prev_word: dater
+next_word: datil
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -30,4 +30,15 @@ anagrams:
 - acrid
 - caird
 - cardi
+prev_word: dargs
+next_word: daris
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

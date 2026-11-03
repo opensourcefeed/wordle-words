@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: To reproach, blame; to ridicule or tease.
   - text: To ignore or killfile (a user on a bulletin board system).
+prev_word: twite
+next_word: twixt
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

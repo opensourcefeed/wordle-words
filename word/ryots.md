@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A farmer or tiller of the soil.
+prev_word: ryoti
+next_word: ryper
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ry/"
+  label: Starting with RY
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

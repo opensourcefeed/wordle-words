@@ -25,4 +25,15 @@ neighbours:
 - funic
 anagrams:
 - incur
+prev_word: rungs
+next_word: runny
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

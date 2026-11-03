@@ -52,4 +52,15 @@ definitions:
     example: You shouldn’t have said that. The microphone was on and we were taping.
   - text: "(passive) To understand, figure out."
     example: I've finally got this thing taped.
+prev_word: tapas
+next_word: tapen
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

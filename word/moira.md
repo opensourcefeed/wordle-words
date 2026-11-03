@@ -31,4 +31,15 @@ neighbours:
 - mowra
 anagrams:
 - moria
+prev_word: moils
+next_word: moire
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

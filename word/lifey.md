@@ -27,4 +27,15 @@ neighbours:
 - limey
 - liney
 - wifey
+prev_word: lifes
+next_word: lifts
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

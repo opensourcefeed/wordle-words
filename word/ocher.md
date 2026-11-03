@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cover or tint with ochre.
+prev_word: ocean
+next_word: oches
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

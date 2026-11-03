@@ -44,4 +44,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Oddly humorous; whimsical, amusing in a quaint way; waggish.
+prev_word: drole
+next_word: drome
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

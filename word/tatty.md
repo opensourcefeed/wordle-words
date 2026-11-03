@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: Potato
+prev_word: tatts
+next_word: tatus
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

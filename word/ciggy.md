@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A cigarette.
+prev_word: cigar
+next_word: cilia
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

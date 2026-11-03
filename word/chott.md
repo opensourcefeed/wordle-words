@@ -24,4 +24,15 @@ neighbours:
 - chota
 - chout
 - shott
+prev_word: chota
+next_word: chout
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/tt/"
+  label: Ending in TT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

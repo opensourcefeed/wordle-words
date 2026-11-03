@@ -29,4 +29,13 @@ neighbours:
 trap:
   pattern: PLAN_
   count: 6
+prev_word: plane
+next_word: plank
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

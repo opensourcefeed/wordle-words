@@ -35,4 +35,15 @@ anagrams:
 - ottar
 - torta
 - troat
+prev_word: rotos
+next_word: rotte
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

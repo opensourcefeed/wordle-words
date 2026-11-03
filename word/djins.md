@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 83
 neighbours:
 - djinn
+prev_word: djinn
+next_word: doabs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

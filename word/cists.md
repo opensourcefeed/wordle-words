@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: A crypt cut into rock, chalk, or a tree trunk, especially a coffin formed
       by placing stone slabs on edge and topping them with a horizontal slab or slabs.
+prev_word: cissy
+next_word: cital
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

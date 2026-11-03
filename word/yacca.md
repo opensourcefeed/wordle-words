@@ -25,4 +25,15 @@ neighbours:
 - macca
 - yacka
 - yucca
+prev_word: yabby
+next_word: yacht
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

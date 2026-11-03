@@ -48,4 +48,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Melancholic, dejected.
+prev_word: moove
+next_word: moper
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

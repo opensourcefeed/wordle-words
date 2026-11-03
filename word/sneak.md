@@ -67,4 +67,15 @@ definitions:
     example: The company gave us a sneak look at their new electronic devices.
   - text: In a stealthy or surreptitious manner.
     example: I was able to get a sneak peek at the guest list.
+prev_word: snead
+next_word: sneap
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

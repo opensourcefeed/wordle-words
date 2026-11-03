@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _AUCH
   count: 6
+prev_word: gator
+next_word: gaucy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

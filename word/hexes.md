@@ -53,4 +53,15 @@ definitions:
   - text: A hexagonal space on a game board.
   - text: A hexagon-shaped item of rock climbing equipment intended to be wedged into
       a crack or other opening in the rock.
+prev_word: hexer
+next_word: hexyl
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 70
 neighbours:
 - newie
+prev_word: neeze
+next_word: negri
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

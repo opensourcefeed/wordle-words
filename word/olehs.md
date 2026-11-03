@@ -30,4 +30,15 @@ anagrams:
 - holes
 - hosel
 - sheol
+prev_word: oldly
+next_word: oleic
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

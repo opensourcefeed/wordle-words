@@ -54,4 +54,15 @@ definitions:
 - pos: noun
   defs:
   - text: Taste; relish
+prev_word: gourd
+next_word: gouty
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

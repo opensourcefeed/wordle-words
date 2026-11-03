@@ -122,4 +122,15 @@ definitions:
       sexual or romantic relationship. As the phrase implies, the relationship lasts
       for only one night.
   - text: Either of the two partners involved in such a single sexual encounter.
+prev_word: jumby
+next_word: jumpy
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

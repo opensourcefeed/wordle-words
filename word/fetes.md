@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(usually in the passive) To celebrate (a person)."
+prev_word: feted
+next_word: fetid
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

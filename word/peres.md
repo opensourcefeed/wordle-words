@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _ERES
   count: 11
+prev_word: perea
+next_word: perfs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

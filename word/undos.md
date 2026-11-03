@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: An operation that reverses a previous action.
     example: How many undos does this program support?
+prev_word: undid
+next_word: undue
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

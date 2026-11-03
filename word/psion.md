@@ -26,4 +26,15 @@ anagrams:
 - inspo
 - opsin
 - pions
+prev_word: psias
+next_word: psoae
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ps/"
+  label: Starting with PS
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

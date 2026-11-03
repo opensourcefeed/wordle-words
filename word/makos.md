@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: Mako shark
+prev_word: makis
+next_word: malae
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

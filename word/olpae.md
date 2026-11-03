@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 4
 anagrams:
 - peola
+prev_word: olona
+next_word: olpes
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

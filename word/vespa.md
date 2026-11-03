@@ -25,4 +25,15 @@ neighbours:
 anagrams:
 - paves
 - vapes
+prev_word: verve
+next_word: vesta
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

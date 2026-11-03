@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: A coarse mould for holding the clay while being worked on a whirler, lathe
       or manually.
+prev_word: chump
+next_word: chunk
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

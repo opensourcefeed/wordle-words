@@ -71,4 +71,15 @@ definitions:
   - text: Of meat or fish, having had the bones removed before cooking.
   - text: Of a garment such as a corset or basque, fitted with bones.
   - text: Having the legs straightened during a trick
+prev_word: bonds
+next_word: boner
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

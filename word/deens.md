@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _EENS
   count: 7
+prev_word: deems
+next_word: deeps
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

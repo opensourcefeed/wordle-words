@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - caphs
 - chaps
+prev_word: pasar
+next_word: paseo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

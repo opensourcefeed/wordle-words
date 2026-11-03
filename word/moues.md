@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: A pout, especially as expressing mock-annoyance or flirtatiousness.
+prev_word: mouch
+next_word: moufs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: A secluded and narrow valley, especially one with a river running through
       it; a dale; a depression between hills.
+prev_word: gleis
+next_word: glent
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

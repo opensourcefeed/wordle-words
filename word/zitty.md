@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _ITTY
   count: 8
+prev_word: zitis
+next_word: zizel
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -39,4 +39,15 @@ definitions:
 - pos: verb
   defs:
   - text: Alternative spelling of jibe
+prev_word: gyans
+next_word: gybes
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

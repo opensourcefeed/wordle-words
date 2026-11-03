@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _EWED
   count: 9
+prev_word: newbs
+next_word: newel
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

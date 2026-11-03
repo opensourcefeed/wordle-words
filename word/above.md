@@ -82,4 +82,15 @@ definitions:
     example: The owner was above taking more than a token salary.
   - text: Beyond; on the other side.
   - text: Upstage of.
+prev_word: about
+next_word: abram
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

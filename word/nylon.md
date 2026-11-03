@@ -38,4 +38,15 @@ definitions:
   - text: "(in the plural) A stocking originally fabricated from nylon; also used
       generically for any long, sheer stocking worn on a woman's legs."
     example: I tore a hole in my nylons while walking home through the woods.
+prev_word: nying
+next_word: nymph
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ny/"
+  label: Starting with NY
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

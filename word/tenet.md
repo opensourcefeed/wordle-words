@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: An opinion, belief, or principle that is held as absolute truth by someone
       or especially an organization.
+prev_word: tenes
+next_word: tenge
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

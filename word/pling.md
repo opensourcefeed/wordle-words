@@ -29,4 +29,15 @@ neighbours:
 - plong
 - plung
 - pring
+prev_word: plims
+next_word: plink
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

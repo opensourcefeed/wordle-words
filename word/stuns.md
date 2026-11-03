@@ -52,4 +52,15 @@ definitions:
   - text: To hit the cue ball so that it slides without topspin or backspin (and with
       or without sidespin) and continues at a natural angle after contact with the
       object ball
+prev_word: stunk
+next_word: stunt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

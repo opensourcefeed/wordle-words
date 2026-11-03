@@ -46,4 +46,15 @@ definitions:
       is used in Norse-influenced place-names. See also holme."
   - text: Rich flat land near a river, prone to being completely flooded; a river-meadow;
       bottomland.
+prev_word: holme
+next_word: holon
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

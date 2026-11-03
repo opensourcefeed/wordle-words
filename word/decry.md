@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: To denounce as harmful.
   - text: To blame for ills.
+prev_word: decoy
+next_word: decyl
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

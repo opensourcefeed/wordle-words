@@ -27,4 +27,15 @@ anagrams:
 - nodes
 - nosed
 - sonde
+prev_word: oncus
+next_word: ondol
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

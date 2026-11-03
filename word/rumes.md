@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: RU_ES
   count: 6
+prev_word: rumen
+next_word: rumly
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

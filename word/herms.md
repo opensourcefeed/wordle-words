@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(sometimes derogatory) A hermaphrodite."
+prev_word: herma
+next_word: herns
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

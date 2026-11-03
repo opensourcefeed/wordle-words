@@ -24,4 +24,15 @@ neighbours:
 - lathe
 - lathi
 - laths
+prev_word: laths
+next_word: latke
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

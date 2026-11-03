@@ -39,4 +39,15 @@ anagrams:
 - amirs
 - mairs
 - simar
+prev_word: ramin
+next_word: rammy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

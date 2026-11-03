@@ -43,4 +43,15 @@ definitions:
   - text: To make repeated attacks on an enemy.
   - text: To strip, lay waste, ravage.
   - text: To harass, bother or distress with demands, threats, or criticism.
+prev_word: harpy
+next_word: harsh
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

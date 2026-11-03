@@ -51,4 +51,15 @@ definitions:
   - text: A realm in which events take place; an area of interest, study, behaviour,
       etc.
     example: The company was a player in the maritime insurance arena.
+prev_word: areic
+next_word: arene
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -22,4 +22,15 @@ neighbours:
 - gimps
 - gumps
 - tymps
+prev_word: gyeld
+next_word: gynae
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

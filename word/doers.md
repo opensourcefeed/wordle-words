@@ -51,4 +51,15 @@ definitions:
 - pos: noun
   defs:
   - text: Someone who does, performs, or executes; an active person, an agent.
+prev_word: doeks
+next_word: doest
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

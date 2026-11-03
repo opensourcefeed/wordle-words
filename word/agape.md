@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: In a state of astonishment, wonder, expectation, or eager attention.
   - text: Open wide.
+prev_word: agamy
+next_word: agars
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

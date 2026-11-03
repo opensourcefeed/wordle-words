@@ -56,4 +56,15 @@ definitions:
   - text: A citation
     example: We used the number of cites as a rough measure of the significance of
       each published paper.
+prev_word: citer
+next_word: cives
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

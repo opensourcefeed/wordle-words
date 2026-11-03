@@ -25,4 +25,15 @@ neighbours:
 - phota
 - phots
 - pooty
+prev_word: phots
+next_word: phpht
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

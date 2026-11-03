@@ -55,4 +55,15 @@ definitions:
     example: He loped along, hour after hour, not fast but steady and covering much
       ground.
   - text: To jump, leap.
+prev_word: loper
+next_word: loppy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

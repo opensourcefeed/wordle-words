@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - deles
 - ledes
+prev_word: seeks
+next_word: seels
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

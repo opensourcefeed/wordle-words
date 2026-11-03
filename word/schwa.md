@@ -28,4 +28,13 @@ definitions:
   - text: An indeterminate central vowel sound as the "a" in "about", represented
       as /ə/ in IPA.
   - text: The character ə.
+prev_word: schul
+next_word: scifi
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

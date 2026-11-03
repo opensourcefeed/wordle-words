@@ -29,4 +29,15 @@ neighbours:
 - wrens
 anagrams:
 - shewn
+prev_word: whelp
+next_word: where
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

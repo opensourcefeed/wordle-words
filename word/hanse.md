@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: That part of an elliptical or many-centred arch which has the shorter radius
       and immediately adjoins the impost.
+prev_word: hansa
+next_word: hants
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

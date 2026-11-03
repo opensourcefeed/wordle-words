@@ -29,4 +29,15 @@ definitions:
 - pos: adjective
   defs:
   - text: That carries germs.
+prev_word: germs
+next_word: gerne
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

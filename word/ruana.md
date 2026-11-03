@@ -25,4 +25,15 @@ neighbours:
 - guana
 anagrams:
 - anura
+prev_word: ruach
+next_word: rubai
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

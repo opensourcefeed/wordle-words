@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: The Islamic marriage ceremony
+prev_word: nikab
+next_word: nikau
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

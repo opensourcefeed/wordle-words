@@ -37,4 +37,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Pertaining to or shaped like a torus, or a section of a torus; toroidal.
+prev_word: tores
+next_word: torii
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

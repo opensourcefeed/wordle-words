@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Great; wonderful; delightful; pleasurable
+prev_word: shiny
+next_word: ships
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ok/"
+  label: Ending in OK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A initiation ceremony for males among the Aborigines of New South Wales.
+prev_word: boral
+next_word: borax
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

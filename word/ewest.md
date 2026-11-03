@@ -26,4 +26,13 @@ anagrams:
 - sweet
 - weest
 - weets
+prev_word: ewers
+next_word: ewhow
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -52,4 +52,15 @@ definitions:
   - text: Strike with the beak.
   - text: Seize with the beak.
   - text: To play truant.
+prev_word: beady
+next_word: beaky
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

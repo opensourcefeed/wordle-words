@@ -26,4 +26,15 @@ neighbours:
 - sexer
 - vexed
 - vexes
+prev_word: vexed
+next_word: vexes
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - brain
 - bairn
+prev_word: abrim
+next_word: abris
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

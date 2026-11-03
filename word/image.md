@@ -55,4 +55,15 @@ definitions:
   - text: To reflect, mirror.
   - text: To create an image of.
   - text: To create a complete backup copy of a file system or other entity.
+prev_word: illth
+next_word: imago
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

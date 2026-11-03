@@ -53,4 +53,15 @@ definitions:
 - pos: noun
   defs:
   - text: A division of land in India, usually a (small) subdivision of a pargana.
+prev_word: terfe
+next_word: terga
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

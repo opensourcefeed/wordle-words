@@ -74,4 +74,15 @@ definitions:
   - text: A mass of crystals, aggregated in arborescent forms, obtained by precipitation
       of a metal from solution.
   - text: The fifth Lenormand card.
+prev_word: treed
+next_word: trees
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

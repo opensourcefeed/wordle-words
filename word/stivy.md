@@ -23,4 +23,15 @@ neighbours:
 - skivy
 - stimy
 - stive
+prev_word: stive
+next_word: stoae
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -3,9 +3,13 @@ layout: default
 ---
 {% assign up = page.word | upcase %}
 {% assign home = '/' | relative_url %}
+{% assign word_base = '/word/' | relative_url %}
 <div class="word-details">
         <nav class="crumbs" aria-label="Breadcrumb">
-            <a href="{{ home }}">All Wordle Words</a> <span aria-hidden="true">›</span> <span aria-current="page">{{ up }}</span>
+            {%- assign first = page.word | slice: 0 | upcase %}
+            <a href="{{ home }}">All Wordle Words</a> <span aria-hidden="true">›</span>
+            <a href="{{ page.hubs[0].url | relative_url }}">{{ first }}</a> <span aria-hidden="true">›</span>
+            <span aria-current="page">{{ up }}</span>
         </nav>
 
         <article>
@@ -35,20 +39,7 @@ layout: default
             </section>
 
             {% unless page.sensitive %}
-            <div class="ad-slot">
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6380671811722843"
-                    crossorigin="anonymous"></script>
-                <!-- Wordle Words - Word Info -->
-                <ins class="adsbygoogle"
-                    style="display:block"
-                    data-ad-client="ca-pub-6380671811722843"
-                    data-ad-slot="2490361185"
-                    data-ad-format="auto"
-                    data-full-width-responsive="true"></ins>
-                <script>
-                    (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
-            </div>
+            <div class="ad-slot">{% include ad.html %}</div>
             {% endunless %}
 
             {% if page.definitions %}
@@ -112,17 +103,28 @@ layout: default
                 {% if page.neighbours %}
                 <h2>Words one letter away from {{ up }}</h2>
                 <ul class="word-chips">
-                    {% for w in page.neighbours %}<li><a href="{{ '/word/' | append: w | relative_url }}">{{ w | upcase }}</a></li>{% endfor %}
+                    {% for w in page.neighbours %}<li><a href="{{ word_base }}{{ w }}">{{ w | upcase }}</a></li>{% endfor %}
                 </ul>
                 {% endif %}
                 {% if page.anagrams %}
                 <h2>Anagrams of {{ up }}</h2>
                 <ul class="word-chips">
-                    {% for w in page.anagrams %}<li><a href="{{ '/word/' | append: w | relative_url }}">{{ w | upcase }}</a></li>{% endfor %}
+                    {% for w in page.anagrams %}<li><a href="{{ word_base }}{{ w }}">{{ w | upcase }}</a></li>{% endfor %}
                 </ul>
                 {% endif %}
             </section>
             {% endif %}
+
+            <section class="card-section browse-more">
+                <h2>Browse similar words</h2>
+                <ul class="hub-links">
+                    {% for h in page.hubs %}<li><a href="{{ h.url | relative_url }}">{{ h.label }}</a></li>{% endfor %}
+                </ul>
+                <nav class="prev-next" aria-label="Alphabetical">
+                    {% if page.prev_word %}<a rel="prev" href="{{ word_base }}{{ page.prev_word }}">&larr; {{ page.prev_word | upcase }}</a>{% else %}<span></span>{% endif %}
+                    {% if page.next_word %}<a rel="next" href="{{ word_base }}{{ page.next_word }}">{{ page.next_word | upcase }} &rarr;</a>{% endif %}
+                </nav>
+            </section>
 
             <section class="card-section play">
                 <h2>Practice with {{ up }}</h2>
@@ -142,7 +144,8 @@ layout: default
     "@type": "BreadcrumbList",
     "itemListElement": [
       {"@type": "ListItem", "position": 1, "name": "All Wordle Words", "item": {{ '/' | absolute_url | jsonify }}},
-      {"@type": "ListItem", "position": 2, "name": {{ up | jsonify }}, "item": {{ page.url | absolute_url | jsonify }}}
+      {"@type": "ListItem", "position": 2, "name": {{ first | jsonify }}, "item": {{ page.hubs[0].url | absolute_url | jsonify }}},
+      {"@type": "ListItem", "position": 3, "name": {{ up | jsonify }}, "item": {{ page.url | absolute_url | jsonify }}}
     ]
   },
   {

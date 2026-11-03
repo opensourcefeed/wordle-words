@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: _OGOS
   count: 6
+prev_word: gogga
+next_word: goier
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

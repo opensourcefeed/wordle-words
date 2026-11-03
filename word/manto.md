@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ANTO
   count: 6
+prev_word: mante
+next_word: mants
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

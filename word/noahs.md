@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 25
 anagrams:
 - nasho
+prev_word: nmols
+next_word: nobby
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -61,4 +61,13 @@ definitions:
   - text: "(of an African American) To play the dated stereotype of a black fool for
       an audience, particularly including Caucasians."
   - text: To steal.
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: CA_ER
   count: 8
+prev_word: caneh
+next_word: canes
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

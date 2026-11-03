@@ -34,4 +34,15 @@ definitions:
       a spongy, fibrous interior; the dishcloth gourd
   - text: The dried fibrous interior used as a sponge for bathing
   - text: Any bathing sponge
+prev_word: looey
+next_word: loofs
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/fa/"
+  label: Ending in FA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

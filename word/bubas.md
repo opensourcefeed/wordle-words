@@ -34,4 +34,15 @@ neighbours:
 - tubas
 anagrams:
 - babus
+prev_word: bubal
+next_word: bubba
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A pathetic or socially inept person; a nerd.
+prev_word: sacre
+next_word: saddy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -24,4 +24,15 @@ stats:
 neighbours:
 - jagas
 - javas
+prev_word: jades
+next_word: jaffa
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -36,4 +36,15 @@ anagrams:
 - vales
 - valse
 - veals
+prev_word: avast
+next_word: avens
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/av/"
+  label: Starting with AV
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

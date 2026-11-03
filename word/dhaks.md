@@ -23,4 +23,15 @@ neighbours:
 - dhals
 anagrams:
 - khads
+prev_word: dhaba
+next_word: dhals
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dh/"
+  label: Starting with DH
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

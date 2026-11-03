@@ -62,4 +62,15 @@ definitions:
     example: He crooked his finger toward me.
   - text: To become bent or hooked.
   - text: To turn from the path of rectitude; to pervert; to misapply; to twist.
+prev_word: crony
+next_word: crool
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ok/"
+  label: Ending in OK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

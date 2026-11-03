@@ -28,4 +28,15 @@ definitions:
     example: She was so hyphy outside the club Saturday night, she nearly punched
       a cop!
   - text: Of or relating to the hyphy subgenre of rap music
+prev_word: hypha
+next_word: hypos
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

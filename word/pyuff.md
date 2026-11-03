@@ -23,4 +23,15 @@ neighbours:
 - pouff
 anagrams:
 - puffy
+prev_word: pyrus
+next_word: pyxed
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -26,4 +26,15 @@ neighbours:
 - unlap
 anagrams:
 - nopal
+prev_word: onkus
+next_word: onlay
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/ap/"
+  label: Ending in AP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

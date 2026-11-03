@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ELTS
   count: 10
+prev_word: yelps
+next_word: yenta
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

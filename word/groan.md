@@ -48,4 +48,15 @@ definitions:
   - text: To make a groan.
     example: The wooden table groaned under the weight of the banquet.
   - text: To strive after earnestly, as if with groans.
+prev_word: grize
+next_word: groat
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

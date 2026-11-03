@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - snyes
 - synes
+prev_word: syeds
+next_word: syker
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -47,4 +47,15 @@ definitions:
   - text: To weigh anchor.
   - text: To bear up; to raise; to lift into the air; to swing up.
   - text: To consider as worthy of notice; to regard.
+prev_word: weids
+next_word: weils
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

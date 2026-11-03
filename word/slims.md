@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To lose weight in order to achieve slimness.
   - text: To make slimmer; to reduce in size.
+prev_word: slime
+next_word: slimy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

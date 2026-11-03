@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 88
 neighbours:
 - folio
+prev_word: fones
+next_word: fonly
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/io/"
+  label: Ending in IO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

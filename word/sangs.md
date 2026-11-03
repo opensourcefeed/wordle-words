@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _ANGS
   count: 15
+prev_word: sango
+next_word: sanko
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

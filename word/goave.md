@@ -26,4 +26,15 @@ neighbours:
 - grave
 - loave
 - soave
+prev_word: goaty
+next_word: goban
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

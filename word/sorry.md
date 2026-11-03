@@ -52,4 +52,15 @@ definitions:
     example: Sorry? What was that? The phone cut out.
   - text: Used to correct oneself in speech.
     example: There are four — sorry, five — branches of the store locally.
+prev_word: sorra
+next_word: sorta
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

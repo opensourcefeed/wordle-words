@@ -24,4 +24,15 @@ neighbours:
 - hokum
 - kokam
 - lokum
+prev_word: kokra
+next_word: kolas
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

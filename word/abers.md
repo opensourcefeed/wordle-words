@@ -36,4 +36,15 @@ anagrams:
 - braes
 - saber
 - sabre
+prev_word: abeng
+next_word: abets
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -28,4 +28,13 @@ neighbours:
 anagrams:
 - amari
 - maria
+prev_word: minxy
+next_word: mirah
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

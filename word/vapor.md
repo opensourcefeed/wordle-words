@@ -48,4 +48,15 @@ definitions:
   - text: To emit vapor or fumes.
   - text: To use insubstantial language; to boast or bluster.
   - text: To give (someone) the vapors; to depress, to bore.
+prev_word: vapid
+next_word: varan
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

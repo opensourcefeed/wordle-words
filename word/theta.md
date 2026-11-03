@@ -43,4 +43,15 @@ definitions:
       having a frequency of between four and seven cycles per second (associated with
       drowsiness in adults).
   - text: The voiceless dental fricative represented by θ.
+prev_word: thesp
+next_word: thete
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

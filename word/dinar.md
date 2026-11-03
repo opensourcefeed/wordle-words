@@ -37,4 +37,15 @@ definitions:
   - text: The official currency of several countries, including Algeria, Bahrain,
       Iraq, Jordan, Kuwait, Libya, Serbia and Tunisia.
   - text: An ancient Arab gold coin of 65 grains in weight.
+prev_word: dimps
+next_word: dined
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

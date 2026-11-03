@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 61
 anagrams:
 - linum
+prev_word: ulema
+next_word: ulmos
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ul/"
+  label: Starting with UL
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

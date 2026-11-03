@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 65
 neighbours:
 - jesus
+prev_word: jehad
+next_word: jelab
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

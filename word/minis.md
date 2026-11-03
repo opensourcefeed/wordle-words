@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: A miniskirt.
   - text: A minicomputer.
+prev_word: minim
+next_word: minke
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

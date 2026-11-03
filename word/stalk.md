@@ -45,4 +45,15 @@ definitions:
   - text: The peduncle of the eyes of decapod crustaceans.
   - text: An iron bar with projections inserted in a core to strengthen it; a core
       arbor.
+prev_word: stale
+next_word: stall
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/lk/"
+  label: Ending in LK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

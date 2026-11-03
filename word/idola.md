@@ -27,4 +27,15 @@ neighbours:
 - idols
 anagrams:
 - dolia
+prev_word: idlis
+next_word: idols
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/id/"
+  label: Starting with ID
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

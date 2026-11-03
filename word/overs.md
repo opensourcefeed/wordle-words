@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: A shore, riverbank.
     example: The sea's over.
+prev_word: ovens
+next_word: overt
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ov/"
+  label: Starting with OV
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

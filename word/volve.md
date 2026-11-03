@@ -30,4 +30,15 @@ neighbours:
 - volte
 - volva
 - wolve
+prev_word: volva
+next_word: vomer
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

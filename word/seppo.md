@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: An American.
+prev_word: sepoy
+next_word: septa
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/po/"
+  label: Ending in PO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

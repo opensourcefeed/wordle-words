@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _RATE
   count: 8
+prev_word: frass
+next_word: frati
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

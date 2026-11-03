@@ -59,4 +59,15 @@ definitions:
   - text: To persuade, smooth talk or trick another into doing something for your
       benefit.
     example: I pimped her out of $2,000 and she paid for the entire stay at the Bahamas.
+prev_word: pimas
+next_word: pinas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

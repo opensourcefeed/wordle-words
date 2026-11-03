@@ -38,4 +38,13 @@ definitions:
   - text: "(Southern Africa) A shallow wetlands or minor lake, generally a seasonal
       one, or the lowland where such a wetlands appears seasonally."
   - text: A wetland or marsh.
+prev_word: vlast
+next_word: vlies
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

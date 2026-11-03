@@ -28,4 +28,13 @@ neighbours:
 - asses
 anagrams:
 - sazes
+prev_word: asset
+next_word: assot
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

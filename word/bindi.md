@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: The “holy dot” traditionally worn on the forehead of married Hindu women.
   - text: Makeup or jewellery worn in imitation of such a dot.
+prev_word: binal
+next_word: binds
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/di/"
+  label: Ending in DI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

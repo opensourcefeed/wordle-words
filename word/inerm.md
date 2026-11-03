@@ -26,4 +26,15 @@ neighbours:
 - inarm
 anagrams:
 - miner
+prev_word: inept
+next_word: inert
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/rm/"
+  label: Ending in RM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

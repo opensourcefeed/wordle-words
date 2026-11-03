@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: To fish for sharks.
+prev_word: share
+next_word: sharn
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/rk/"
+  label: Ending in RK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

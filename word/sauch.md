@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _AUCH
   count: 6
+prev_word: sauce
+next_word: saucy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -23,4 +23,15 @@ neighbours:
 - khads
 - khans
 - khats
+prev_word: khads
+next_word: khaki
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

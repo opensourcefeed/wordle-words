@@ -67,4 +67,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Cream-coloured; having a yellowish white colour.
+prev_word: creak
+next_word: credo
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

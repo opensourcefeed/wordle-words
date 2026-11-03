@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: To emit a burp.
   - text: To cause someone (such as a baby) to burp.
+prev_word: buroo
+next_word: burqa
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

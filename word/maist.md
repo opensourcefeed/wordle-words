@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - mitas
 - tamis
+prev_word: maise
+next_word: maize
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

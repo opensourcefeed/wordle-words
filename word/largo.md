@@ -43,4 +43,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Strong and stately
+prev_word: large
+next_word: laris
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

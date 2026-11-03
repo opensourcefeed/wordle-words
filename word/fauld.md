@@ -27,4 +27,15 @@ neighbours:
 - hauld
 - tauld
 - yauld
+prev_word: faugh
+next_word: fault
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

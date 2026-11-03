@@ -23,4 +23,15 @@ stats:
 neighbours:
 - cecum
 - mecum
+prev_word: tecta
+next_word: teddy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

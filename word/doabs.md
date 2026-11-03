@@ -27,4 +27,15 @@ neighbours:
 - doobs
 - dorbs
 - drabs
+prev_word: djins
+next_word: doats
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

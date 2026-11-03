@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 25
 neighbours:
 - mpret
+prev_word: mbira
+next_word: mbube
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

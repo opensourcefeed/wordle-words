@@ -35,4 +35,13 @@ definitions:
   - text: One who steals another person's property, especially by stealth and without
       using force or violence.
   - text: A waster in the snuff of a candle.
+prev_word: thick
+next_word: thigh
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

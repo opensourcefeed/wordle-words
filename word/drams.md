@@ -57,4 +57,15 @@ definitions:
 - pos: noun
   defs:
   - text: The currency of Armenia, divided into 100 luma.
+prev_word: drama
+next_word: drank
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

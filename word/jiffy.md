@@ -42,4 +42,15 @@ definitions:
   - text: The time taken for light to travel a specified distance in a vacuum, usually
       one centimetre, but sometimes one foot or the width of a nucleon.
   - text: Short for jiffy bag, a padded envelope.
+prev_word: jiffs
+next_word: jiggy
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

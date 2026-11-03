@@ -33,4 +33,15 @@ neighbours:
 - plops
 - plups
 - slips
+prev_word: plink
+next_word: plish
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -51,4 +51,15 @@ definitions:
     example: He acted in good faith to restore broken diplomatic ties after defeating
       the incumbent.
   - text: Credibility or truth.
+prev_word: fairy
+next_word: faked
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

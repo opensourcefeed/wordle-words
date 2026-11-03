@@ -32,4 +32,15 @@ neighbours:
 - nasus
 anagrams:
 - ascus
+prev_word: casts
+next_word: catch
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

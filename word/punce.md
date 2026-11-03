@@ -29,4 +29,15 @@ neighbours:
 - pince
 - ponce
 - runce
+prev_word: punas
+next_word: punch
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

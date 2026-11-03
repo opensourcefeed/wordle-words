@@ -54,4 +54,15 @@ definitions:
     example: The timber saws smoothly.
   - text: To form or produce (something) by cutting with a saw.
     example: to saw boards or planks (i.e. to saw logs or timber into boards or planks)
+prev_word: sawah
+next_word: sawer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -28,4 +28,15 @@ neighbours:
 - tooth
 - mooch
 - moots
+prev_word: moose
+next_word: moots
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

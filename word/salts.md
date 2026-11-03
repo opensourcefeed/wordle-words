@@ -71,4 +71,15 @@ definitions:
   - text: To include colorful language in.
   - text: To add filler bytes before encrypting, in order to make brute-force decryption
       more resource-intensive.
+prev_word: salto
+next_word: salty
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

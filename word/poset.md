@@ -39,4 +39,15 @@ anagrams:
 - stoep
 - stope
 - topes
+prev_word: poses
+next_word: posey
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

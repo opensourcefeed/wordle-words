@@ -29,4 +29,15 @@ neighbours:
 - ponty
 - potto
 - punto
+prev_word: ponor
+next_word: ponts
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

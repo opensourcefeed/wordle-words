@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A framework upon which laundry is aired; a clotheshorse.
+prev_word: aired
+next_word: airns
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

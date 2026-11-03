@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: Less common variant of poof (male homosexual).
+prev_word: pooty
+next_word: poovy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

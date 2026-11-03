@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: "(acoustics) A unit of apparent loudness, equal in number to the intensity
       in decibels of a 1,000-hertz tone judged to be as loud as the sound being measured."
+prev_word: phono
+next_word: phony
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

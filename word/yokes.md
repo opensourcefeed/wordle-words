@@ -49,4 +49,15 @@ definitions:
   - text: To link or to join.
   - text: To unite, to connect.
   - text: To enslave; to bring into bondage; to restrain; to confine.
+prev_word: yoker
+next_word: yokul
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

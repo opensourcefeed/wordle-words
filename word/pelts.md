@@ -57,4 +57,15 @@ definitions:
   - text: To beat or hit, especially repeatedly.
   - text: To move rapidly, especially in or on a conveyance.
   - text: To throw out words.
+prev_word: pelta
+next_word: pelus
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

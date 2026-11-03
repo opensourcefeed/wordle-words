@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: Potassium tartrate
+prev_word: argle
+next_word: argon
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

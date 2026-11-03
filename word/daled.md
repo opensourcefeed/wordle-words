@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _ALED
   count: 8
+prev_word: daker
+next_word: dalek
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

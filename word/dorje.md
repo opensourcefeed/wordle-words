@@ -25,4 +25,13 @@ stats:
 neighbours:
 - doree
 - dorse
+prev_word: doris
+next_word: dorks
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

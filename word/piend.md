@@ -24,4 +24,15 @@ neighbours:
 - fiend
 anagrams:
 - pined
+prev_word: pieds
+next_word: piers
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

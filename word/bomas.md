@@ -51,4 +51,15 @@ definitions:
   - text: "(East African) A military or police post or magistracy."
   - text: A type of fertilizer rich in animal dung.
   - text: A method of composting.
+prev_word: bolus
+next_word: bombe
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

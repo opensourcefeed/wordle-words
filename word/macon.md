@@ -25,4 +25,15 @@ neighbours:
 - mason
 - maron
 - racon
+prev_word: macle
+next_word: macro
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

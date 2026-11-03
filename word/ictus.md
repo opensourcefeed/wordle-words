@@ -36,4 +36,15 @@ definitions:
   - text: The stress of voice laid upon an accented syllable of a word. Compare arsis.
   - text: In conducting, the indication of a musical event, most often the beat of
       the tempo or the entry of a section of the orchestra.
+prev_word: ictic
+next_word: idant
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/ic/"
+  label: Starting with IC
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

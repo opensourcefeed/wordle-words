@@ -60,4 +60,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of the colour of liver (dark brown, tinted with red and gray).
+prev_word: liven
+next_word: lives
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

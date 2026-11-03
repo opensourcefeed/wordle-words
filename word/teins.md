@@ -46,4 +46,15 @@ anagrams:
 trap:
   pattern: _EINS
   count: 7
+prev_word: teind
+next_word: tekke
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

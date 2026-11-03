@@ -28,4 +28,13 @@ neighbours:
 anagrams:
 - their
 - rithe
+prev_word: items
+next_word: ivied
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

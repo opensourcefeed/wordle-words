@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A nerve fibre which is a long slender projection of a nerve cell, and which
       conducts nerve impulses away from the body of the cell to a synapse.
+prev_word: axone
+next_word: ayahs
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ax/"
+  label: Starting with AX
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

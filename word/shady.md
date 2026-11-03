@@ -40,4 +40,15 @@ definitions:
     example: He is a shady character.
   - text: Mean, cruel.
     example: Don't be shady, give us a go.
+prev_word: shads
+next_word: shaft
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

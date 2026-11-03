@@ -25,4 +25,15 @@ neighbours:
 anagrams:
 - ahing
 - hangi
+prev_word: angst
+next_word: anile
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

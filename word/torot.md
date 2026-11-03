@@ -27,4 +27,15 @@ neighbours:
 - toros
 anagrams:
 - rotto
+prev_word: toros
+next_word: torrs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

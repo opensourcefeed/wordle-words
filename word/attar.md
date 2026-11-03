@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: An essential oil extracted from flowers.
   - text: A perfume made from this oil.
+prev_word: attap
+next_word: attas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

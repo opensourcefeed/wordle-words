@@ -61,4 +61,15 @@ definitions:
       or earned by a player such as by taking a mark."
   - text: The usual means of restarting play after a foul is committed, where the
       non-offending team restarts from where the foul was committed.
+prev_word: freer
+next_word: freet
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

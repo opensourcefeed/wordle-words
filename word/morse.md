@@ -48,4 +48,15 @@ definitions:
 - pos: noun
   defs:
   - text: A clasp or fastening used to fasten a cope in the front, usually decorative.
+prev_word: morro
+next_word: morts
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

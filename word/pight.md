@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _IGHT
   count: 15
+prev_word: piggy
+next_word: pigly
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

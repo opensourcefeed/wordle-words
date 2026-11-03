@@ -61,4 +61,15 @@ definitions:
 - pos: noun
   defs:
   - text: 'Alternative form of jakes: an outhouse or lavatory.'
+prev_word: jacet
+next_word: jacky
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

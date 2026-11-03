@@ -52,4 +52,15 @@ definitions:
     example: He raved about her beauty.
   - text: To rush wildly or furiously.
   - text: To attend a rave (dance party).
+prev_word: raupo
+next_word: ravel
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: The sound made by something solid landing.
   - text: The supposed sound of adding a user to one's killfile.
+prev_word: plong
+next_word: plook
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -30,4 +30,15 @@ definitions:
   - text: Temptation.
   - text: Strife; social unrest or civil war among Muslims, especially from the 7th
       to the 9th century.
+prev_word: fitly
+next_word: fitte
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

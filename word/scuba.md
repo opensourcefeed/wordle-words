@@ -39,4 +39,15 @@ definitions:
 - pos: verb
   defs:
   - text: To perform scuba diving.
+prev_word: scrum
+next_word: scudi
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

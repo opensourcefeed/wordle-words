@@ -26,4 +26,15 @@ neighbours:
 - kreen
 anagrams:
 - preke
+prev_word: kreen
+next_word: kreng
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/ep/"
+  label: Ending in EP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To convert a word to a noun.
+prev_word: nouls
+next_word: nouny
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

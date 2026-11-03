@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - sappy
 - yapps
+prev_word: pasmo
+next_word: passe
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

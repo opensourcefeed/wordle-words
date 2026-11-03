@@ -29,4 +29,15 @@ anagrams:
 - groma
 - margo
 - mogar
+prev_word: mogos
+next_word: mogue
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

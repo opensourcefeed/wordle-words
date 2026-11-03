@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _OWED
   count: 13
+prev_word: jowar
+next_word: jowls
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

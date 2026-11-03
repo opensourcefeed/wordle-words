@@ -44,4 +44,15 @@ definitions:
       host's expenses.
   - text: Female genitals. (Euphemistic form of pussy.)
   - text: A set of additional cards dealt face down in some games.
+prev_word: kitke
+next_word: kitul
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -50,4 +50,15 @@ definitions:
 - pos: verb
   defs:
   - text: To supply with an organ or organs; to fit with organs.
+prev_word: orful
+next_word: orgia
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

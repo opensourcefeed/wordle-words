@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _IGHT
   count: 15
+prev_word: kievs
+next_word: kikay
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

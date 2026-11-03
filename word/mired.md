@@ -50,4 +50,15 @@ definitions:
   - text: To sink into mud.
   - text: To weigh down.
   - text: To soil with mud or foul matter.
+prev_word: mirch
+next_word: mires
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

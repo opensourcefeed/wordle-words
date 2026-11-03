@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: The droppings or excrement of insects.
+prev_word: fraps
+next_word: frate
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

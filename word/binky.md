@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(rabbit behavior) To perform a high hop, as when happy."
+prev_word: binks
+next_word: bints
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

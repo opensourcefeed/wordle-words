@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: An anise-flavoured aperitif, originating in Greece.
   - text: A serving of this drink.
+prev_word: ouzel
+next_word: ovals
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

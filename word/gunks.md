@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _UNKS
   count: 10
+prev_word: gungy
+next_word: gunky
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

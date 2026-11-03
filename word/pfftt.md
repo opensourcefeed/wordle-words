@@ -19,4 +19,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 100
+prev_word: peyse
+next_word: phage
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/ending-with/tt/"
+  label: Ending in TT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

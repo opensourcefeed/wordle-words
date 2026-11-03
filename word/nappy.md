@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: To put a nappy on.
     example: The mother nappied the baby.
+prev_word: nappe
+next_word: naras
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

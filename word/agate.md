@@ -49,4 +49,15 @@ definitions:
       agate fixed in it for burnishing.
   - text: A marble made from agate.
   - text: "(usually in the plural) A testicle."
+prev_word: agast
+next_word: agaty
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

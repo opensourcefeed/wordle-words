@@ -24,4 +24,13 @@ stats:
 neighbours:
 - embog
 - embow
+prev_word: embow
+next_word: embus
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

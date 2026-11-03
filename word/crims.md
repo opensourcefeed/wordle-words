@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A criminal.
+prev_word: crimp
+next_word: crine
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

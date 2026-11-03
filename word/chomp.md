@@ -36,4 +36,15 @@ definitions:
     example: The dog chomped on the treat and swallowed it in one gulp.
   - text: "(Perl) To remove the final character from (a text string) if it is a newline
       (or, less commonly, some other programmer-specified character)."
+prev_word: cholo
+next_word: chons
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

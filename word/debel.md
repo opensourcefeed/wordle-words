@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - bleed
 - bedel
+prev_word: debby
+next_word: debes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

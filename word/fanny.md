@@ -48,4 +48,15 @@ definitions:
     example: get some fanny tonight
   - text: Women viewed as sexual objects.
     example: This club is full of fanny.
+prev_word: fanks
+next_word: fanon
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

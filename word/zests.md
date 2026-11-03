@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To scrape the zest from a fruit.
   - text: To make more zesty.
+prev_word: zeros
+next_word: zesty
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/ze/"
+  label: Starting with ZE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

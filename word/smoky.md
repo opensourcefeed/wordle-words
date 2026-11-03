@@ -44,4 +44,15 @@ definitions:
   - text: Giving off steam or vapour.
   - text: Obscuring or insubstantial like smoke.
   - text: Suspicious; open to suspicion; jealous.
+prev_word: smoko
+next_word: smolt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

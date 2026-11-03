@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To bind with withes.
   - text: To beat with withes.
+prev_word: wites
+next_word: withs
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

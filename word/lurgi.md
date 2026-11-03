@@ -25,4 +25,15 @@ neighbours:
 - lungi
 - lurgy
 - murgi
+prev_word: lurex
+next_word: lurgy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

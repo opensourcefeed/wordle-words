@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: "(plants) A plant of various species, chiefly cruciferous. The leaves have
       a moderately pungent taste, and are used as a salad and antiscorbutic."
+prev_word: crepy
+next_word: crest
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

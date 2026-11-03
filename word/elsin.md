@@ -33,4 +33,15 @@ anagrams:
 - lines
 - nelis
 - silen
+prev_word: elpee
+next_word: elude
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -26,4 +26,13 @@ definitions:
   defs:
   - text: A sailing vessel found in the waters of Micronesia and Indonesia; it has
       a single, large outrigger and a triangular sail.
+prev_word: prags
+next_word: prams
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

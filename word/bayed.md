@@ -51,4 +51,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having a bay or bays.
+prev_word: bayas
+next_word: bayer
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

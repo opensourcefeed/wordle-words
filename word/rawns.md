@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _AWNS
   count: 10
+prev_word: rawly
+next_word: raxed
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

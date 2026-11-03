@@ -48,4 +48,15 @@ definitions:
   - text: To encourage or stimulate.
   - text: To incite or provoke.
     example: goading a boy to fight
+prev_word: gnows
+next_word: goafs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

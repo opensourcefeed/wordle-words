@@ -38,4 +38,15 @@ definitions:
     example: the axial bones
   - text: In the same direction as the axis, parallel to the axis.
     example: The secondary xylem usually consists of axial and radial elements.
+prev_word: axels
+next_word: axile
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ax/"
+  label: Starting with AX
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

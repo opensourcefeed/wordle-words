@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: An obsolete unit of length equal to one femtometer or femtometre (10−15
       m).
+prev_word: ferly
+next_word: ferms
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/mi/"
+  label: Ending in MI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A long jacket with a hood which protects the wearer against rain and wind.
+prev_word: paris
+next_word: parki
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

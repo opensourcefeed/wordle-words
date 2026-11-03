@@ -40,4 +40,15 @@ definitions:
   - text: To expand like a blimp or balloon; to become fat.
     example: After college, she started blimping and could no longer wear her favorite
       little black dress.
+prev_word: bleys
+next_word: blimy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

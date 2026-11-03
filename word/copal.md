@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A resinous exudation from various tropical trees, especially Hymenaea courbaril
       and Schinus terebinthifolia, used chiefly in making varnishes and printing ink.
+prev_word: cooty
+next_word: copay
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

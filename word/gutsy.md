@@ -32,4 +32,15 @@ definitions:
   - text: Marked by courage and determination in the face of difficulties or danger;
       having guts
   - text: Not showing due respect
+prev_word: gusty
+next_word: gutta
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

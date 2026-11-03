@@ -43,4 +43,15 @@ definitions:
   - text: Any significant number of women together as a group; a bevy.
   - text: A genre of anime and manga in which a man is the love interest of three
       or more women.
+prev_word: hared
+next_word: hares
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

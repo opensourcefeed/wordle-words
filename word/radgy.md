@@ -27,4 +27,15 @@ neighbours:
 - raggy
 - rangy
 - ridgy
+prev_word: radge
+next_word: radif
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

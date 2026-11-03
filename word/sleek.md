@@ -54,4 +54,15 @@ definitions:
 - pos: adverb
   defs:
   - text: With ease and dexterity.
+prev_word: sleds
+next_word: sleep
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

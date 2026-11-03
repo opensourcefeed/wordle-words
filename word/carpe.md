@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: CAR_E
   count: 6
+prev_word: caron
+next_word: carpi
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

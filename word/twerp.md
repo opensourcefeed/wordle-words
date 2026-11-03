@@ -35,4 +35,15 @@ definitions:
     example: Get out of my way, you little twerp!
   - text: A person who can be bullied playfully, or easily teased. Sometimes used
       as a pet-name (often for a younger sibling).
+prev_word: twerk
+next_word: twice
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/rp/"
+  label: Ending in RP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

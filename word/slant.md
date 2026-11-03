@@ -85,4 +85,15 @@ definitions:
   - text: The period of a transitory breeze.
   - text: An interval of good weather.
   - text: The loose part of a rope; slack.
+prev_word: slank
+next_word: slaps
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

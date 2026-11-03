@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: "(of a person) Insane."
   - text: "(of a thing) Very silly, absurd."
+prev_word: loons
+next_word: loops
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

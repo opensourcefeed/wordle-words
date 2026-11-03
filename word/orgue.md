@@ -28,4 +28,15 @@ anagrams:
 - rogue
 - rouge
 - erugo
+prev_word: orgic
+next_word: oribi
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

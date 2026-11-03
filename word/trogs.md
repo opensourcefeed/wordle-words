@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: A hooligan, lout.
+prev_word: trods
+next_word: trois
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

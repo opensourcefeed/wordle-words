@@ -81,4 +81,15 @@ definitions:
 - pos: verb
   defs:
   - text: To stand; to tolerate.
+prev_word: tanka
+next_word: tanky
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

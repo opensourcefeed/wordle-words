@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - heils
 - leish
+prev_word: shied
+next_word: shier
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

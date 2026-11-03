@@ -26,4 +26,15 @@ neighbours:
 - canso
 - canto
 - rando
+prev_word: canal
+next_word: candy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

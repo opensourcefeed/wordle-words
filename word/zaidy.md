@@ -24,4 +24,15 @@ stats:
 neighbours:
 - zaida
 - zaide
+prev_word: zaide
+next_word: zaire
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

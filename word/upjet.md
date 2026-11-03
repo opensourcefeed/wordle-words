@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 64
 neighbours:
 - upset
+prev_word: upful
+next_word: uplay
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/up/"
+  label: Starting with UP
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

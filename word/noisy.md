@@ -39,4 +39,15 @@ definitions:
     example: a noisy bar
   - text: Unpleasant-looking and causing unwanted attention
     example: noisy clothes
+prev_word: noise
+next_word: nokes
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

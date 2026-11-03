@@ -30,4 +30,15 @@ neighbours:
 - anile
 - axils
 - axite
+prev_word: axial
+next_word: axils
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ax/"
+  label: Starting with AX
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

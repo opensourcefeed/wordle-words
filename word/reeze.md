@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _EEZE
   count: 6
+prev_word: reeve
+next_word: refan
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

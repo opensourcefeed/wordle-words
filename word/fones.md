@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _ONES
   count: 11
+prev_word: fondu
+next_word: fonio
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

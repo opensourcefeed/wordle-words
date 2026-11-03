@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: TO_OS
   count: 8
+prev_word: toyon
+next_word: tozed
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

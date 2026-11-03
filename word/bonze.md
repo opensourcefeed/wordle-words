@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Buddhist monk or priest in East Asia.
+prev_word: bonza
+next_word: booai
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

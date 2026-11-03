@@ -40,4 +40,15 @@ definitions:
       and metatarsus.
   - text: A musical instrument of the flute kind, originally made of the leg bone
       of an animal.
+prev_word: tiars
+next_word: tical
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

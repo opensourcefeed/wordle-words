@@ -40,4 +40,15 @@ anagrams:
 - sorta
 - taros
 - toras
+prev_word: ratoo
+next_word: ratti
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

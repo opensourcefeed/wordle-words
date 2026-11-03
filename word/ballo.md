@@ -28,4 +28,15 @@ neighbours:
 - baloo
 - bello
 - hallo
+prev_word: balky
+next_word: balls
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

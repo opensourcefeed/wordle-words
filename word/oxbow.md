@@ -28,4 +28,15 @@ definitions:
   - text: A U-shaped piece of wood used as a collar for an ox, the upper parts fastened
       to its yoke
   - text: A meander in a river; the land enclosed by such a loop
+prev_word: owsen
+next_word: oxeas
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ox/"
+  label: Starting with OX
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

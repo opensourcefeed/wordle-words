@@ -36,4 +36,15 @@ definitions:
   - text: To take on, to take the form of.
   - text: To put on (a piece of clothing); to clothe (someone with something).
   - text: To invest (someone) with a given quality, property etc.; to endow.
+prev_word: endow
+next_word: enema
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -38,4 +38,15 @@ definitions:
     example: His favorite part of making preserves with his mother was when he got
       to smush the raw fruit with the pestle.
   - text: To engage in intimate contact, especially sexual relations.
+prev_word: smurs
+next_word: smuts
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

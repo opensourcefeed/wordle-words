@@ -32,4 +32,15 @@ neighbours:
 - sowms
 anagrams:
 - swops
+prev_word: sowne
+next_word: sowse
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

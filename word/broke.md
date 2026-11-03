@@ -127,4 +127,15 @@ definitions:
     example: If it ain't broke, don't fix it.
   - text: Demoted, deprived of a commission.
     example: He was broke and rendered unfit to serve His Majesty at sea.
+prev_word: broil
+next_word: brome
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

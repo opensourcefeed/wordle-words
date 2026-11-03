@@ -26,4 +26,15 @@ neighbours:
 - stush
 anagrams:
 - shuns
+prev_word: snugs
+next_word: snyes
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -35,4 +35,15 @@ anagrams:
 - reups
 - sprue
 - spuer
+prev_word: pudus
+next_word: puffa
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -28,4 +28,15 @@ neighbours:
 - muids
 - quids
 - suids
+prev_word: guido
+next_word: guild
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

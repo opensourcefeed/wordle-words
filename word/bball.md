@@ -21,4 +21,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 95
+prev_word: bazoo
+next_word: bdays
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

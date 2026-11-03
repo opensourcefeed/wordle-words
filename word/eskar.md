@@ -32,4 +32,15 @@ anagrams:
 - reaks
 - saker
 - skear
+prev_word: esile
+next_word: esker
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/es/"
+  label: Starting with ES
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

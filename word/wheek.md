@@ -35,4 +35,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(of a guinea pig) To make a squeaking sound."
+prev_word: wheat
+next_word: wheel
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -26,4 +26,15 @@ neighbours:
 - mings
 - muggs
 - riggs
+prev_word: mifty
+next_word: might
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -34,4 +34,15 @@ anagrams:
 - sails
 - salis
 - sisal
+prev_word: shyly
+next_word: sibbs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

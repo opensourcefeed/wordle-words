@@ -32,4 +32,15 @@ neighbours:
 - honks
 - hoods
 - ponds
+prev_word: honda
+next_word: honed
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

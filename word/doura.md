@@ -30,4 +30,15 @@ neighbours:
 - koura
 anagrams:
 - douar
+prev_word: doups
+next_word: douse
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

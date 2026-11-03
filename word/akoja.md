@@ -25,4 +25,15 @@ stats:
 neighbours:
 - akoia
 - akoya
+prev_word: akoia
+next_word: akoya
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ak/"
+  label: Starting with AK
+- url: "/ending-with/ja/"
+  label: Ending in JA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -54,4 +54,15 @@ definitions:
 - pos: noun
   defs:
   - text: The name of the Latin-script letter H.
+prev_word: acher
+next_word: achey
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

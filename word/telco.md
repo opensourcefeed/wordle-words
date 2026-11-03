@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A telecommunications company, a telecom.
+prev_word: telae
+next_word: teles
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

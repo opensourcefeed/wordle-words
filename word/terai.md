@@ -40,4 +40,15 @@ definitions:
   - text: A belt of marshy land, which lies between the foothills of the Himalayas
       and the plains.
   - text: A terai hat.
+prev_word: tepoy
+next_word: teras
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

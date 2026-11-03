@@ -31,4 +31,15 @@ neighbours:
 - vouge
 anagrams:
 - bogue
+prev_word: botty
+next_word: bough
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

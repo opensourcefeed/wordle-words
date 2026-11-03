@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: An old saying which has obtained credit by long use
   - text: An old saying which has been overused or considered a cliché; a trite maxim
+prev_word: acyls
+next_word: adapt
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

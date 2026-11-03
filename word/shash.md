@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: S_ASH
   count: 6
+prev_word: shart
+next_word: shaul
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

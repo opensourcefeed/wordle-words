@@ -34,4 +34,15 @@ anagrams:
 - perst
 - perts
 - strep
+prev_word: press
+next_word: preta
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

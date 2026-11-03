@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 81
 neighbours:
 - leben
+prev_word: heavy
+next_word: hecht
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

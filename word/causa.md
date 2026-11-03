@@ -23,4 +23,15 @@ stats:
 neighbours:
 - cause
 - cauda
+prev_word: cauri
+next_word: cause
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

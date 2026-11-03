@@ -26,4 +26,15 @@ definitions:
   defs:
   - text: Any of many isomeric univalent hydrocarbon radicals, C6H13, formally derived
       from hexane by the loss of a hydrogen atom
+prev_word: hexes
+next_word: heyed
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

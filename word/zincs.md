@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: To electroplate with zinc.
   - text: To coat with sunblock incorporating zinc oxide.
+prev_word: zinco
+next_word: zincy
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

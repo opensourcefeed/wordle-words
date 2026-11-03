@@ -32,4 +32,15 @@ neighbours:
 - seaze
 anagrams:
 - mease
+prev_word: seals
+next_word: seams
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

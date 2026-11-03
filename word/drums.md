@@ -49,4 +49,15 @@ definitions:
   - text: A social gathering or assembly held in the evening.
   - text: A person's home; a house or other building, especially when insalubrious;
       a tavern, a brothel.
+prev_word: druid
+next_word: drunk
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

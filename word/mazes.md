@@ -49,4 +49,15 @@ definitions:
       the aim of which is to find one's way.
   - text: Something made up of many confused or conflicting elements; a tangle.
   - text: Confusion of thought; state of bewilderment.
+prev_word: mazer
+next_word: mazet
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

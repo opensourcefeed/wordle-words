@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: To make a strong effort for a short period of time.
     example: The bullion market spurted on Thursday.
+prev_word: spire
+next_word: spiry
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

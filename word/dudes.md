@@ -55,4 +55,15 @@ definitions:
   - text: To address someone as dude.
   - text: To take a vacation in a dude ranch.
   - text: 'Usually followed by up: to dress up, to wear smart or special clothes.'
+prev_word: duded
+next_word: duels
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

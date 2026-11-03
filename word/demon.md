@@ -45,4 +45,15 @@ definitions:
     example: He’s a demon at the card tables.
   - text: A form of patience (known as Canfield in the US).
   - text: Any of various hesperiid butterflies of the genera Notocrypta and Udaspes.
+prev_word: demoi
+next_word: demos
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

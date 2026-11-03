@@ -40,4 +40,13 @@ definitions:
   - text: To dress up; to array; to clothe.
   - text: To prepare (someone) with a skill.
   - text: To equip oneself with (an item).
+prev_word: equid
+next_word: erase
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ip/"
+  label: Ending in IP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

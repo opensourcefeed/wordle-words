@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: A girl of boyish appearance.
+prev_word: birle
+next_word: biros
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

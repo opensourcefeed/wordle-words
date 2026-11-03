@@ -38,4 +38,15 @@ definitions:
       something previously mentioned."
     example: He had to leave, which was very difficult.
   - text: "(relative) Used of people (now generally who, whom or that)."
+prev_word: wheys
+next_word: whids
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

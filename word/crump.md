@@ -37,4 +37,15 @@ definitions:
 - pos: verb
   defs:
   - text: To produce such a sound.
+prev_word: crumb
+next_word: crunk
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

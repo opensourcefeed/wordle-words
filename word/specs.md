@@ -139,4 +139,15 @@ definitions:
       to the pool of stakes.
   - text: The process of anticipating which branch of code will be chosen and executing
       it in advance.
+prev_word: speck
+next_word: spect
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

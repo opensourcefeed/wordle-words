@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - veena
 - venae
+prev_word: nadir
+next_word: naevi
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

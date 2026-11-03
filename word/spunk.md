@@ -41,4 +41,15 @@ definitions:
   - text: To catch fire; flame up.
   - text: To ejaculate.
     example: He spunked into the condom.
+prev_word: spumy
+next_word: spurn
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

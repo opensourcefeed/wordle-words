@@ -73,4 +73,15 @@ definitions:
   - text: "(of a country, person, etc) To give influence to."
   - text: To suit; to be adjusted or conformable.
   - text: To imagine; to conceive.
+prev_word: shans
+next_word: shaps
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

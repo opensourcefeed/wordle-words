@@ -32,4 +32,15 @@ definitions:
       but also a chamber pot or outhouse.'
   - text: A Western man traveling in East Asia.
   - text: A male mule.
+prev_word: joeys
+next_word: joins
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

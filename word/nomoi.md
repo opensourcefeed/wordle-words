@@ -25,4 +25,15 @@ neighbours:
 - nomos
 anagrams:
 - mooni
+prev_word: nomic
+next_word: nomos
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/oi/"
+  label: Ending in OI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

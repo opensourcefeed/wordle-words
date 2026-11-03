@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: To construct a quilt.
   - text: To construct something, such as clothing, using the same technique.
+prev_word: quill
+next_word: quina
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

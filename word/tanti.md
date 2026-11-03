@@ -33,4 +33,15 @@ anagrams:
 - taint
 - titan
 - nitta
+prev_word: tante
+next_word: tanto
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

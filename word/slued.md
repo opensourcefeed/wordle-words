@@ -45,4 +45,15 @@ definitions:
   - text: To turn something sharply.
   - text: To rotate on an axis; to pivot.
   - text: To slide off course; to skid.
+prev_word: slubs
+next_word: slues
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

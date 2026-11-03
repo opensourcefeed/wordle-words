@@ -51,4 +51,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Very large.
+prev_word: ghyll
+next_word: gibed
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

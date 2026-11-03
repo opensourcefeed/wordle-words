@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _EWED
   count: 9
+prev_word: rewax
+next_word: rewet
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -43,4 +43,15 @@ definitions:
   - text: (plural "villas") A family house, often semi-detached, in a middle class
       street.
   - text: (plural "villae") A country house, with farm buildings around a courtyard.
+prev_word: viler
+next_word: ville
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

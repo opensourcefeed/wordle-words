@@ -27,4 +27,15 @@ neighbours:
 - villi
 anagrams:
 - villa
+prev_word: valis
+next_word: valor
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

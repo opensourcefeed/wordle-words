@@ -52,4 +52,15 @@ definitions:
       nasal passages and sometimes fever.
     example: I caught a miserable cold and had to stay home for a week
   - text: Rheum, sleepy dust
+prev_word: colby
+next_word: coled
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -29,4 +29,15 @@ neighbours:
 - molle
 - rille
 - ville
+prev_word: milky
+next_word: mills
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

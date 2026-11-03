@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: DAR_S
   count: 8
+prev_word: daraf
+next_word: darcy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: An arm or inlet of the sea; a river estuary.
+prev_word: first
+next_word: fiscs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

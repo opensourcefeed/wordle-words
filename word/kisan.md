@@ -25,4 +25,15 @@ anagrams:
 - kains
 - kinas
 - naiks
+prev_word: kirri
+next_word: kissy
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

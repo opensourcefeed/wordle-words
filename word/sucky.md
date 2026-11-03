@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: Being something which sucks, which is unpleasant or inferior.
     example: That comedian was pretty sucky on TV last night.
+prev_word: sucks
+next_word: sucre
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

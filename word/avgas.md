@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: Gasoline fuel for piston-engined aircraft.
+prev_word: avert
+next_word: avian
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/av/"
+  label: Starting with AV
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

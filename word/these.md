@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: The thing, item, etc. being indicated.
     example: This isn't the item that I ordered.
+prev_word: therm
+next_word: thesp
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -26,4 +26,15 @@ neighbours:
 - oculi
 anagrams:
 - lotic
+prev_word: octic
+next_word: octyl
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

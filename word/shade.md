@@ -67,4 +67,15 @@ definitions:
       printing and needing a separate catalogue/catalog entry.
   - text: "(originally gay slang) Subtle insults."
     example: Why did you paint your room chartreuse? No shade; I'm genuinely curious.
+prev_word: shack
+next_word: shads
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _YTHE
   count: 7
+prev_word: lytes
+next_word: lytic
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

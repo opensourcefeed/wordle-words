@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: A chiefly Californian ornamental evergreen shrub (Heteromeles arbutifolia)
       of the rose family having white flowers succeeded by red berries.
+prev_word: toyer
+next_word: toyos
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

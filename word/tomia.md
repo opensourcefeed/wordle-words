@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 21
 neighbours:
 - tomin
+prev_word: tomes
+next_word: tomin
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

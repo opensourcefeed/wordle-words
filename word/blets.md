@@ -35,4 +35,15 @@ neighbours:
 anagrams:
 - belts
 - blest
+prev_word: blest
+next_word: bleys
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

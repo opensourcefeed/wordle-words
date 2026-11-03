@@ -63,4 +63,15 @@ definitions:
   - text: To let blood (from); to bleed.
   - text: To initiate into warfare or a blood sport, traditionally by smearing with
       the blood of the first kill witnessed.
+prev_word: blonx
+next_word: blook
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/od/"
+  label: Ending in OD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

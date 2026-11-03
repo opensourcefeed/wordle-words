@@ -24,4 +24,15 @@ stats:
 neighbours:
 - pical
 - pipal
+prev_word: pians
+next_word: pical
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

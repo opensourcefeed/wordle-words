@@ -50,4 +50,15 @@ definitions:
   - text: To cook in a microwave oven.
     example: I’ll nuke some pizza for dinner.
   - text: To over-analyze or overly despair over something.
+prev_word: nujol
+next_word: nukes
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

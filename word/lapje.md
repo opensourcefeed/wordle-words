@@ -24,4 +24,13 @@ stats:
   starter_top_percent: 34
 neighbours:
 - lapse
+prev_word: lapis
+next_word: lappa
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

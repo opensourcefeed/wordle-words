@@ -51,4 +51,15 @@ definitions:
   - text: To send, or compose and send, an email or emails.
     example: Most teenagers seem to spend almost the whole day emailing and surfing
       the Web.
+prev_word: emacs
+next_word: embar
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

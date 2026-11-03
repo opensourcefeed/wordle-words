@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _UTTY
   count: 9
+prev_word: jutes
+next_word: juves
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

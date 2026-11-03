@@ -25,4 +25,15 @@ neighbours:
 - sulky
 - hulks
 - hully
+prev_word: hulks
+next_word: hullo
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

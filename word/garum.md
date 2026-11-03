@@ -25,4 +25,15 @@ neighbours:
 - larum
 anagrams:
 - agrum
+prev_word: garth
+next_word: gases
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

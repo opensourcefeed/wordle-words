@@ -65,4 +65,15 @@ definitions:
     example: seven minus two is five
   - text: Without; deprived of.
     example: I walked out minus my coat.
+prev_word: minty
+next_word: minxy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: Short for Mother I'd Like to Fuck, a (putative) mother found sexually attractive
+prev_word: miles
+next_word: milia
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

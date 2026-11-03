@@ -26,4 +26,15 @@ neighbours:
 - boxed
 - boxes
 - woxen
+prev_word: boxed
+next_word: boxer
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -23,4 +23,15 @@ neighbours:
 - sheik
 anagrams:
 - kiths
+prev_word: shtar
+next_word: shtum
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

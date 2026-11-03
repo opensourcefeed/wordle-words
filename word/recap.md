@@ -45,4 +45,15 @@ definitions:
   - text: To seal (something) again with a cap.
   - text: To replace the worn tread on a tire by gluing a new outer portion. (US English
       only - Retread in UK English)
+prev_word: recal
+next_word: recce
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ap/"
+  label: Ending in AP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

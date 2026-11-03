@@ -37,4 +37,15 @@ definitions:
   - text: Any of various hard resins, obtained especially from evergreen trees, notably
       of the genera Agathis (Araucariaceae family) and Hopea (Dipterocarpaceae family),
       native to southeast Asia, also used in varnishes and lacquers.
+prev_word: daman
+next_word: dames
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

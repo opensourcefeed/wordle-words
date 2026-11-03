@@ -59,4 +59,15 @@ definitions:
       to hire it done.
   - text: To accept employment.
     example: They hired out as day laborers.
+prev_word: hippy
+next_word: hiree
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

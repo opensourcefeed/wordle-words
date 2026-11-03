@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: Make fat, especially of a boar.
   - text: Become fat, especially of a boar.
+prev_word: brawl
+next_word: braws
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

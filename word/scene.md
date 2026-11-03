@@ -64,4 +64,15 @@ definitions:
 - pos: verb
   defs:
   - text: To exhibit as a scene; to make a scene of; to display.
+prev_word: scend
+next_word: scent
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

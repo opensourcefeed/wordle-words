@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _IRED
   count: 8
+prev_word: viral
+next_word: vireo
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

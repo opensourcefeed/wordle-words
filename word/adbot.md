@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 41
 neighbours:
 - abbot
+prev_word: adays
+next_word: addas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

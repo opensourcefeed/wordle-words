@@ -44,4 +44,15 @@ definitions:
   - text: "(of a pig) To make a grunt or grunts."
   - text: To break wind; to fart.
     example: Who just grunted?
+prev_word: grund
+next_word: gryce
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

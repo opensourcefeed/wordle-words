@@ -26,4 +26,15 @@ anagrams:
 - lymes
 - yelms
 - ylems
+prev_word: mesto
+next_word: metal
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

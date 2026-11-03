@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _ITHE
   count: 7
+prev_word: sites
+next_word: sitka
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

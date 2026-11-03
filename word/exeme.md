@@ -24,4 +24,15 @@ neighbours:
 - exome
 anagrams:
 - exeem
+prev_word: exeem
+next_word: exert
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

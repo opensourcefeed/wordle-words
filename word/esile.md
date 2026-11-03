@@ -27,4 +27,15 @@ neighbours:
 - edile
 anagrams:
 - eisel
+prev_word: escot
+next_word: eskar
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/es/"
+  label: Starting with ES
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

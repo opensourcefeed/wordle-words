@@ -49,4 +49,15 @@ definitions:
   - text: A mixture of oxygen and other gases, administered to a patient to help them
       breathe.
   - text: An atom of this element.
+prev_word: oxids
+next_word: oxime
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ox/"
+  label: Starting with OX
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

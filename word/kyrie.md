@@ -33,4 +33,15 @@ definitions:
   - text: A short prayer or petition including the phrase kyrie eleison, meaning “Lord,
       have mercy”.
   - text: A setting of the traditional kyrie text to music for a Mass.
+prev_word: kypes
+next_word: kytes
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

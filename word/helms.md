@@ -56,4 +56,15 @@ definitions:
   - text: A helmet.
   - text: A helmet.
   - text: A heavy cloud lying on the brow of a mountain.
+prev_word: helly
+next_word: helos
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

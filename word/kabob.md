@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To roast in the style of a kebab
   - text: To stab or skewer
+prev_word: kabar
+next_word: kacha
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ob/"
+  label: Ending in OB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

@@ -83,4 +83,15 @@ definitions:
   defs:
   - text: A charge to be paid, a scot or shout.
     example: Drink up. It's his shot.
+prev_word: shote
+next_word: shott
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

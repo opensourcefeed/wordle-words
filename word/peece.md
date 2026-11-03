@@ -26,4 +26,15 @@ neighbours:
 - peepe
 - peeve
 - perce
+prev_word: pedro
+next_word: peeks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

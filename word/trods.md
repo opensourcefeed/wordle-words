@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: TRO_S
   count: 7
+prev_word: trode
+next_word: trogs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

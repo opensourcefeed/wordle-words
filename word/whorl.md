@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To form a pattern of concentric circles.
+prev_word: whops
+next_word: whort
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

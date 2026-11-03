@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: A form of amide in which the nitrogen atom is attached to two carbonyl groups
       - R1CONHCOR2
+prev_word: imbue
+next_word: imido
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

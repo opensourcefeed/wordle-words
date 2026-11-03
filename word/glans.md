@@ -47,4 +47,15 @@ definitions:
   - text: The acorn or mast of the oak and similar fruits.
   - text: A goiter.
   - text: A pessary.
+prev_word: gland
+next_word: glare
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

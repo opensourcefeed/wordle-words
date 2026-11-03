@@ -42,4 +42,15 @@ definitions:
     example: I can draw an anime version of you, if you want.
   - text: An animated work that originated in Japan, regardless of the artistic style.
   - text: An animated work, regardless of the country of origin.
+prev_word: anima
+next_word: animi
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

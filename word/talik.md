@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: An area of permanently unfrozen waterlogged soil surrounded by permafrost
   - text: Alternative form of taliq
+prev_word: tales
+next_word: talks
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

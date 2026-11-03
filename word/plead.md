@@ -42,4 +42,15 @@ definitions:
   - text: To offer by way of excuse.
     example: Not wishing to attend the banquet, I pleaded illness.
   - text: To discuss by arguments.
+prev_word: plaza
+next_word: pleas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -41,4 +41,15 @@ definitions:
   - text: Having foots, or settlings.
     example: footy oil or molasses
   - text: Poor; mean
+prev_word: foots
+next_word: foram
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

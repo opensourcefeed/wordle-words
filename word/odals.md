@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - alods
 - loads
+prev_word: odahs
+next_word: odder
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/od/"
+  label: Starting with OD
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

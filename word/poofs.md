@@ -48,4 +48,13 @@ definitions:
 - pos: noun
   defs:
   - text: A male homosexual, especially one who is effeminate.
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

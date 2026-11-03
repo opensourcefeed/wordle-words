@@ -25,4 +25,15 @@ stats:
 neighbours:
 - roric
 - rorie
+prev_word: roric
+next_word: rorie
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

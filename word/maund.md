@@ -35,4 +35,15 @@ definitions:
   - text: A wicker basket.
   - text: A unit of capacity with various specific local values.
   - text: A handbasket with two lids.
+prev_word: maumy
+next_word: maunt
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

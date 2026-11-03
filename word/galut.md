@@ -27,4 +27,15 @@ neighbours:
 - salut
 anagrams:
 - gault
+prev_word: galop
+next_word: galvo
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

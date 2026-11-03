@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: A citrus fruit originating in East Asia, Citrus ichangensis x Citrus reticulata
       var. austera.
+prev_word: yurts
+next_word: zabra
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

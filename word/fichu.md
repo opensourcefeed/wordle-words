@@ -29,4 +29,13 @@ definitions:
   - text: A woman's lightweight triangular scarf worn over the shoulders and tied
       in front, or tucked into a bodice to cover the exposed part of the neck and
       chest.
+prev_word: fiche
+next_word: ficin
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

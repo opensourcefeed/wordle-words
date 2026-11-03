@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: The hybrid offspring of a stallion (male horse) and a she-ass (female donkey).
+prev_word: hinky
+next_word: hints
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

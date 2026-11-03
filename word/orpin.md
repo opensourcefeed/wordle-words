@@ -35,4 +35,15 @@ definitions:
       have clusters of purple flowers, especially Hylotelephium telephium.
   - text: A yellow pigment of various degrees of intensity, sometimes approaching
       red.
+prev_word: orped
+next_word: orris
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

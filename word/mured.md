@@ -46,4 +46,15 @@ definitions:
   - text: To wall in or fortify
   - text: To enclose or imprison within walls.
     example: The five kings are mured in a cave. — John. x. (Heading).
+prev_word: muras
+next_word: mures
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

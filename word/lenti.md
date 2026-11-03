@@ -31,4 +31,15 @@ anagrams:
 - elint
 - enlit
 - intel
+prev_word: lense
+next_word: lento
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

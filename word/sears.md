@@ -53,4 +53,15 @@ definitions:
   - text: To make callous or insensible.
   - text: To mark permanently, as if by burning.
     example: The events of that day were seared into her memory.
+prev_word: seare
+next_word: sease
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

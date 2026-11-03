@@ -31,4 +31,13 @@ anagrams:
 - rotta
 - torta
 - troat
+prev_word: otium
+next_word: otter
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

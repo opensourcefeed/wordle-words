@@ -37,4 +37,15 @@ definitions:
       for such training.
   - text: "(by extension) A room or other facility used for other activities, such
       as meditation or software development."
+prev_word: doits
+next_word: dolce
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

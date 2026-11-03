@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: A small shrill pipe, resembling the piccolo flute, used chiefly to accompany
       the drum in military music
+prev_word: fifer
+next_word: fifis
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

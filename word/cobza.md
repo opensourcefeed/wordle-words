@@ -25,4 +25,15 @@ neighbours:
 - cobra
 - cobia
 - colza
+prev_word: cobra
+next_word: cocas
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

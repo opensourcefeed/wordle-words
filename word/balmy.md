@@ -42,4 +42,15 @@ definitions:
   - text: Soothing or fragrant.
   - text: Mild and pleasant.
   - text: Foolish; slightly crazy or mad; eccentric.
+prev_word: balms
+next_word: baloi
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

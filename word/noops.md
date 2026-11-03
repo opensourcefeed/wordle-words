@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _OOPS
   count: 11
+prev_word: noons
+next_word: noose
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -25,4 +25,15 @@ stats:
 neighbours:
 - jural
 - jures
+prev_word: jurat
+next_word: jures
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

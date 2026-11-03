@@ -56,4 +56,15 @@ definitions:
   - text: To take fast hold of; to seize and hold firmly; to pounce upon.
   - text: To strengthen or stiffen, as a beam or girder, by means of a brace or braces.
   - text: To execute by hanging; to hang; usually with up.
+prev_word: trunk
+next_word: trust
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

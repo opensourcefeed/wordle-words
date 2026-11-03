@@ -34,4 +34,13 @@ definitions:
 - pos: verb
   defs:
   - text: To divorce somebody by this means.
+prev_word: talak
+next_word: talar
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/q/"
+  label: Ending in Q
 ---

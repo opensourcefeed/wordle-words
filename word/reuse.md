@@ -45,4 +45,15 @@ definitions:
       something else).
     example: The students reused empty plastic bottles in their science experiment.
   - text: To use again, or in another place.
+prev_word: reups
+next_word: revel
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

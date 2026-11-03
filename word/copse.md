@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: To trim or cut.
   - text: To plant and preserve.
+prev_word: copra
+next_word: copsy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

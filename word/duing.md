@@ -27,4 +27,15 @@ neighbours:
 - ruing
 anagrams:
 - gundi
+prev_word: dufus
+next_word: duits
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

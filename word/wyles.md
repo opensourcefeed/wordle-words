@@ -28,4 +28,13 @@ neighbours:
 - wiles
 - wyled
 - wytes
+prev_word: wyled
+next_word: wynds
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

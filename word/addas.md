@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: An informal meeting place for conversation.
   - text: A session of chat.
+prev_word: adbot
+next_word: addax
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

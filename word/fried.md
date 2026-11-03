@@ -63,4 +63,15 @@ definitions:
   defs:
   - text: A method of cooking food.
   - text: To be affected by extreme heat or current.
+prev_word: fribs
+next_word: frier
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

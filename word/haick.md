@@ -23,4 +23,15 @@ stats:
 neighbours:
 - hoick
 - saick
+prev_word: hahas
+next_word: haika
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

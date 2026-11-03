@@ -56,4 +56,15 @@ definitions:
   - text: To explore by diving; to plunge into.
   - text: To plunge or to go deeply into any subject, question, business, etc.; to
       penetrate; to explore.
+prev_word: divas
+next_word: diver
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

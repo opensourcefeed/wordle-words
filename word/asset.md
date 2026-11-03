@@ -49,4 +49,15 @@ definitions:
   - text: An intelligence asset.
   - text: "(usually in the plural) The private parts; a woman's breasts or buttocks,
       or a man's genitalia."
+prev_word: asses
+next_word: assez
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

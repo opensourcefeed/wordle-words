@@ -27,4 +27,15 @@ neighbours:
 - nouls
 - nouns
 - noups
+prev_word: notum
+next_word: nouja
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

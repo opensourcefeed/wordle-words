@@ -25,4 +25,15 @@ neighbours:
 - jivey
 - mitey
 - mivvy
+prev_word: mitts
+next_word: mivvy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

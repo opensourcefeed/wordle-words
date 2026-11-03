@@ -42,4 +42,15 @@ definitions:
     example: Pam was leggy today because she was wearing a miniskirt.
   - text: Taller or longer than usual.
     example: Plants grow leggy if deprived of light.
+prev_word: leggo
+next_word: legit
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

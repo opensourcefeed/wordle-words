@@ -52,4 +52,15 @@ definitions:
   - text: An embellishment played on the lowest note of a chanter of a bagpipe, consisting
       of a series of grace notes produced by rapid sequential lifting of the fingers
       of the lower hand.
+prev_word: crank
+next_word: crape
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -23,4 +23,13 @@ neighbours:
 - stump
 - stulm
 - stums
+prev_word: stulm
+next_word: stump
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

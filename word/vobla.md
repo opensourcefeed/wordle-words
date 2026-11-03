@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: The Caspian roach (Rutilus caspicus), formerly considered a subspecies of
       the common roach.
+prev_word: voars
+next_word: vocab
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

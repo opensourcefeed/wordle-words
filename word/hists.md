@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ISTS
   count: 10
+prev_word: hissy
+next_word: hitch
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

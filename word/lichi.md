@@ -26,4 +26,15 @@ neighbours:
 - pichi
 anagrams:
 - chili
+prev_word: licet
+next_word: licht
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

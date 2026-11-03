@@ -26,4 +26,15 @@ neighbours:
 - coned
 - cones
 - coney
+prev_word: cones
+next_word: coney
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

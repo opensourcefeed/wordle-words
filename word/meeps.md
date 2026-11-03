@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: A high-pitched exclamation of fear or concern.
   - text: An endearing term of affection between lovers
+prev_word: meeja
+next_word: meers
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

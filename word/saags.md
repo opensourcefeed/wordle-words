@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: S_AGS
   count: 9
+prev_word: ryugi
+next_word: sabal
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

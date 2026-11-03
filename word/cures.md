@@ -77,4 +77,15 @@ definitions:
     example: The parts were curing in the autoclave.
   - text: To become healed.
   - text: To pay heed; to care; to give attention.
+prev_word: curer
+next_word: curet
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

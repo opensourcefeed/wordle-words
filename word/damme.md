@@ -24,4 +24,15 @@ stats:
 neighbours:
 - gamme
 - kamme
+prev_word: dames
+next_word: damna
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

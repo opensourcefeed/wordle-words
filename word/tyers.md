@@ -33,4 +33,15 @@ anagrams:
 - styre
 - treys
 - tyres
+prev_word: tyees
+next_word: tying
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

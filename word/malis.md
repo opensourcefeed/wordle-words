@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: A member of a caste in South Asia whose traditional occupation is gardening;
       hence, any native gardener.
+prev_word: malik
+next_word: malky
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

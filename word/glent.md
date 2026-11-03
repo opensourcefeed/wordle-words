@@ -26,4 +26,15 @@ neighbours:
 - gleet
 - glens
 - olent
+prev_word: glens
+next_word: gleys
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -31,4 +31,15 @@ definitions:
   - text: Lacking in courage or confidence.
     example: John's a very timid person. I'll doubt he'll be brave enough to face
       his brother.
+prev_word: times
+next_word: timon
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

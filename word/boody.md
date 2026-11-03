@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: BOO_Y
   count: 9
+prev_word: booby
+next_word: booed
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

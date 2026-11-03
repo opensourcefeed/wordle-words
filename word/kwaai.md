@@ -21,4 +21,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 92
+prev_word: kvell
+next_word: kwela
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

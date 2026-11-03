@@ -54,4 +54,15 @@ definitions:
 - pos: noun
   defs:
   - text: The raspberry.
+prev_word: rases
+next_word: raspy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

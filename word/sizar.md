@@ -37,4 +37,15 @@ definitions:
   - text: At certain universities, e.g. Cambridge and Dublin, a student who receives
       an allowance for his college expenses (a study grant), originally in return
       for serving other (paying) students.
+prev_word: sixty
+next_word: sized
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

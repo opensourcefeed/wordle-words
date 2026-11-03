@@ -45,4 +45,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having the form of an arc; arched.
+prev_word: arbor
+next_word: archi
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

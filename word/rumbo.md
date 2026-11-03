@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _UMBO
   count: 6
+prev_word: rumba
+next_word: rumen
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

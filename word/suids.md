@@ -30,4 +30,15 @@ neighbours:
 - sudds
 - suits
 - surds
+prev_word: suhur
+next_word: suing
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

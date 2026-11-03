@@ -75,4 +75,15 @@ definitions:
   - text: To tie or fasten with cords
   - text: To flatten a book during binding
   - text: To arrange (wood, etc.) in a pile for measurement by the cord.
+prev_word: corda
+next_word: cored
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

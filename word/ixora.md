@@ -26,4 +26,13 @@ stats:
   starter_top_percent: 26
 anagrams:
 - orixa
+prev_word: ixnay
+next_word: ixtle
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -55,4 +55,15 @@ definitions:
 - pos: verb
   defs:
   - text: 'Of pigs: to be in heat, to rut.'
+prev_word: brill
+next_word: brine
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

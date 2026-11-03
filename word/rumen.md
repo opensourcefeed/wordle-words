@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: The first compartment of the stomach of a cow or other ruminants.
+prev_word: rumbo
+next_word: rumes
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

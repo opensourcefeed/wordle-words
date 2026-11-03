@@ -23,4 +23,15 @@ stats:
 neighbours:
 - dumka
 - pukka
+prev_word: dukes
+next_word: dukun
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

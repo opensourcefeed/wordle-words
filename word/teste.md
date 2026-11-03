@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - teets
 - tetes
+prev_word: testa
+next_word: tests
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

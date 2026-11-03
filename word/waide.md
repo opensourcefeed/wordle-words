@@ -27,4 +27,15 @@ neighbours:
 - laide
 - waite
 - zaide
+prev_word: wahoo
+next_word: waifs
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

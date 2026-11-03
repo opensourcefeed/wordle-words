@@ -28,4 +28,15 @@ neighbours:
 - pouks
 - poule
 - poupe
+prev_word: pouis
+next_word: pouks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

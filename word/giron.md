@@ -28,4 +28,15 @@ neighbours:
 - gyron
 anagrams:
 - groin
+prev_word: girns
+next_word: giros
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

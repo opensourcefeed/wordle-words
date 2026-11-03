@@ -79,4 +79,15 @@ definitions:
       to be wiped out.
     example: If you try to fight that boss underprepared, you're definitely gonna
       wipe.
+prev_word: wiper
+next_word: wired
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

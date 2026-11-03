@@ -26,4 +26,15 @@ neighbours:
 - manso
 - manto
 - matzo
+prev_word: manus
+next_word: mapau
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/zo/"
+  label: Ending in ZO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

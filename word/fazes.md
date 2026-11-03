@@ -46,4 +46,15 @@ definitions:
       negative); to disconcert, to perturb.
     example: Jumping out of an airplane does not faze him, yet he is afraid to ride
       a roller coaster.
+prev_word: fazed
+next_word: feals
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

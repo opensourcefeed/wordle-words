@@ -22,4 +22,13 @@ stats:
   - Q
   starter_tier: Weak
   starter_top_percent: 86
+prev_word: ripps
+next_word: risen
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

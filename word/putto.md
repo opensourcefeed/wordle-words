@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: A representation, especially in Renaissance or Baroque art, of a small,
       naked, often winged (usually male) child; a cherub.
+prev_word: putti
+next_word: putts
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

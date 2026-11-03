@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: A hot water bottle.
   - text: A physically or sexually attractive person.
+prev_word: hotte
+next_word: houff
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

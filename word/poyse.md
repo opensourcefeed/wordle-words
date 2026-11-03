@@ -29,4 +29,15 @@ anagrams:
 - poesy
 - posey
 - sepoy
+prev_word: poyou
+next_word: pozzy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

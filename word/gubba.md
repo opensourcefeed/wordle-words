@@ -24,4 +24,15 @@ neighbours:
 - bubba
 - gabba
 - hubba
+prev_word: guava
+next_word: gucks
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -24,4 +24,15 @@ neighbours:
 - dwamy
 - seamy
 - swaly
+prev_word: swamp
+next_word: swang
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

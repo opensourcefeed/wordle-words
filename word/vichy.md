@@ -22,4 +22,15 @@ neighbours:
 - tichy
 anagrams:
 - chivy
+prev_word: vices
+next_word: vicus
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

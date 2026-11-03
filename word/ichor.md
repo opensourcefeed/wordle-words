@@ -34,4 +34,15 @@ definitions:
   - text: Any bloodlike fluid
   - text: A watery, fetid discharge from a sore
   - text: Yellow bile
+prev_word: iches
+next_word: icier
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/ic/"
+  label: Starting with IC
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

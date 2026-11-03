@@ -43,4 +43,15 @@ definitions:
     example: to grub up trees, rushes, or sedge
   - text: To supply with food.
   - text: To eat.
+prev_word: grrrl
+next_word: grued
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

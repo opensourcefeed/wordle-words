@@ -58,4 +58,15 @@ definitions:
       spout or shower head.
   - text: A nonlinear electrical circuit that creates new frequencies from two signals
       applied to it.
+prev_word: mixen
+next_word: mixes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

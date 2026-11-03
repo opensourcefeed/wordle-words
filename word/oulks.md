@@ -26,4 +26,15 @@ neighbours:
 - hulks
 - pulks
 - sulks
+prev_word: ouija
+next_word: oumas
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

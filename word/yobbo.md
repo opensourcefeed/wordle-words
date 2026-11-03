@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A yob.
+prev_word: ympes
+next_word: yobby
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

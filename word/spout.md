@@ -57,4 +57,15 @@ definitions:
   - text: To utter magniloquently; to recite in an oratorical or pompous manner.
   - text: To pawn; to pledge.
     example: to spout a watch
+prev_word: spots
+next_word: sprad
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

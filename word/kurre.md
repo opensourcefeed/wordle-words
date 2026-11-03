@@ -24,4 +24,15 @@ stats:
 neighbours:
 - murre
 - purre
+prev_word: kuris
+next_word: kurta
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

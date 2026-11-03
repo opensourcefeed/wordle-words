@@ -31,4 +31,13 @@ definitions:
   defs:
   - text: A confection usually made from crushed sesame seeds and honey. It is a traditional
       dessert in South Asia, the Mediterranean and the Middle East.
+prev_word: halve
+next_word: hamal
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -32,4 +32,15 @@ anagrams:
 - liwas
 - wails
 - walis
+prev_word: swags
+next_word: swain
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

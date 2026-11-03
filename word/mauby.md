@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A beverage made from the bark of certain species in the genus Colubrina
       or related plants and widely consumed in the Caribbean.
+prev_word: matzo
+next_word: mauds
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

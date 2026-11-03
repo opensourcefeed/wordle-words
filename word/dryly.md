@@ -32,4 +32,15 @@ definitions:
 - pos: adverb
   defs:
   - text: In a dry manner.
+prev_word: dryer
+next_word: dsobo
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

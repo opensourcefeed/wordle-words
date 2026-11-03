@@ -50,4 +50,15 @@ definitions:
   - text: The climbing plant that produces grapes.
   - text: Any plant of the genus Vitis.
   - text: "(by extension) Any similar climbing or trailing plant."
+prev_word: viner
+next_word: vinew
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

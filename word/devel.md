@@ -34,4 +34,15 @@ anagrams:
 trap:
   pattern: _EVEL
   count: 7
+prev_word: devas
+next_word: devil
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

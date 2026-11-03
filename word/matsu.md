@@ -25,4 +25,13 @@ anagrams:
 - mauts
 - musta
 - mutas
+prev_word: matra
+next_word: matte
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

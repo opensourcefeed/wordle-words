@@ -50,4 +50,15 @@ definitions:
     example: He'd seen my face, so I had to croak him.
   - text: To complain; especially, to grumble; to forebode evil; to utter complaints
       or forebodings habitually.
+prev_word: crits
+next_word: croci
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

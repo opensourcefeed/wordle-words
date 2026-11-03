@@ -60,4 +60,15 @@ definitions:
   - text: An irreducible component of a comb that intersects the handle in exactly
       one point, that point being distinct from the unique point of intersection for
       any other tooth of the comb.
+prev_word: teers
+next_word: teets
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -28,4 +28,15 @@ neighbours:
 - ehing
 - ering
 - exine
+prev_word: exine
+next_word: exist
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _ACES
   count: 7
+prev_word: dabba
+next_word: dacha
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

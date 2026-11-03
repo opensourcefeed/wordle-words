@@ -35,4 +35,15 @@ anagrams:
 - sacre
 - scrae
 - serac
+prev_word: ervil
+next_word: escot
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/es/"
+  label: Starting with ES
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

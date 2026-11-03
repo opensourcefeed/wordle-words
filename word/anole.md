@@ -46,4 +46,15 @@ definitions:
   - text: Any of the Anolis genus of arboreal American lizards (such as the American
       chameleon) from the iguana family which feature a brightly colored dewlap and
       color-changing ability.
+prev_word: anode
+next_word: anomy
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A lesbian.
+prev_word: lexis
+next_word: liana
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/zo/"
+  label: Ending in ZO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

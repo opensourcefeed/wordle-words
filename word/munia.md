@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Any of certain estrildid finches of the genera Lonchura (most instances)
       and Amandava (two species).
+prev_word: mungy
+next_word: munis
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

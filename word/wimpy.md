@@ -31,4 +31,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having the characteristics of a wimp; feeble, indecisive, cowardly.
+prev_word: wimps
+next_word: wince
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

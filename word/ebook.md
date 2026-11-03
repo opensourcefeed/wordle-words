@@ -26,4 +26,13 @@ definitions:
 - pos: noun
   defs:
   - text: "(authorship) Electronic book, a book published in electronic form."
+prev_word: ebony
+next_word: ecads
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ok/"
+  label: Ending in OK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

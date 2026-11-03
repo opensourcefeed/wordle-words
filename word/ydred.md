@@ -26,4 +26,13 @@ neighbours:
 - ydrad
 anagrams:
 - reddy
+prev_word: ydrad
+next_word: yeads
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -60,4 +60,15 @@ definitions:
   - text: To experience hatred.
     example: Do not fear; he who fears hates; he who hates kills. — attributed to
       Gandhi
+prev_word: hater
+next_word: hatha
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

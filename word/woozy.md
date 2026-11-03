@@ -35,4 +35,15 @@ definitions:
   - text: Queasy, dizzy, or disoriented
     example: I got off the rollercoaster feeling a bit woozy.
   - text: Intoxicated by drink or drugs
+prev_word: wootz
+next_word: words
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

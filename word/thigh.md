@@ -37,4 +37,15 @@ definitions:
   - text: That part of the leg of vertebrates (or sometimes other animals) which corresponds
       to the human thigh in position or function; the tibia of a horse, the tarsus
       of a bird; the third leg-section of an insect.
+prev_word: thief
+next_word: thigs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

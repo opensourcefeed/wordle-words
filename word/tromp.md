@@ -33,4 +33,15 @@ definitions:
   - text: To utterly defeat an opponent.
     example: The team had been tromped by their cross-town rivals, and the players
       were embarrassed to show their faces in school the next day.
+prev_word: troll
+next_word: trona
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

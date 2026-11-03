@@ -47,4 +47,15 @@ definitions:
   - text: A celestial phenomenon with the appearance given by the orbiting celestial
       body.
   - text: Any of several species of hummingbird found in the Andes.
+prev_word: comes
+next_word: comfy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

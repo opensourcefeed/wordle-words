@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: To annoy; vex.
     example: He was peeved to note that his hard work had been undone.
+prev_word: peery
+next_word: peevo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

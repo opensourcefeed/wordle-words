@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: TUR_S
   count: 7
+prev_word: turfy
+next_word: turme
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -24,4 +24,15 @@ stats:
 neighbours:
 - wanly
 - wanze
+prev_word: wangs
+next_word: wanly
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: A French policeman.
+prev_word: flick
+next_word: flied
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

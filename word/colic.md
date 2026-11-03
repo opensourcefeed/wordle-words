@@ -41,4 +41,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Relating to the colon; colonic.
+prev_word: coley
+next_word: colin
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

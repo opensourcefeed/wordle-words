@@ -34,4 +34,15 @@ definitions:
       district) as in the Evangelical Lutheran Church in America
   - text: An assembly or council having civil authority; a legislative body.
   - text: A conjunction of two or more of the heavenly bodies.
+prev_word: synes
+next_word: synth
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/od/"
+  label: Ending in OD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

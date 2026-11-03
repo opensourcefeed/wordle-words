@@ -69,4 +69,15 @@ definitions:
   defs:
   - text: To travel on foot carrying a swag (possessions tied in a blanket).
   - text: To transport stolen goods.
+prev_word: swage
+next_word: swail
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

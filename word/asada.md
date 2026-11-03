@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 94
 neighbours:
 - asana
+prev_word: aryls
+next_word: asana
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

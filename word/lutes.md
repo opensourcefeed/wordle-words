@@ -62,4 +62,15 @@ definitions:
 - pos: verb
   defs:
   - text: To fix or fasten something with lute.
+prev_word: luter
+next_word: luvvy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

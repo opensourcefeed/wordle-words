@@ -46,4 +46,15 @@ definitions:
   - text: Any of the large rodents of the genus Cuniculus (but see also its synonyms),
       native to Central America and South America, which have dark brown or black
       fur, a white or yellowish underbelly and rows of white spots along the sides.
+prev_word: pacai
+next_word: pacay
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

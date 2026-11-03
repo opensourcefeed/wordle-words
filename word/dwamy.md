@@ -21,4 +21,15 @@ stats:
 neighbours:
 - dwams
 - swamy
+prev_word: dwams
+next_word: dwang
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dw/"
+  label: Starting with DW
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

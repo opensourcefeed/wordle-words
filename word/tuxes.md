@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A tuxedo.
+prev_word: tutus
+next_word: tuyer
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

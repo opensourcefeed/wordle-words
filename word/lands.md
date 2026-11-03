@@ -80,4 +80,15 @@ definitions:
     example: It can be tricky to land a helicopter.
   - text: To acquire; to secure.
   - text: To deliver.
+prev_word: lande
+next_word: laned
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -44,4 +44,15 @@ definitions:
   - text: Powdery and resembling dust.
   - text: Grey in parts.
   - text: Ugly, disgusting (a general term of abuse)
+prev_word: dusts
+next_word: dutch
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

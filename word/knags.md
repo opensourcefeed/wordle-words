@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To hang something on a peg
+prev_word: knack
+next_word: knaps
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

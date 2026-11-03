@@ -44,4 +44,15 @@ definitions:
     example: A year hence it will be forgotten.
   - text: As a result; therefore, for this reason
     example: I shall go to Japan and hence will not be here in time for the party.
+prev_word: hempy
+next_word: hench
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

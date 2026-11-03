@@ -29,4 +29,15 @@ anagrams:
 - psoas
 - soaps
 - sposa
+prev_word: apsis
+next_word: apted
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

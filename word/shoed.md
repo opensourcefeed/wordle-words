@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - doseh
 - hosed
+prev_word: shock
+next_word: shoer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

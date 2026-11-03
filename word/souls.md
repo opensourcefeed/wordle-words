@@ -61,4 +61,15 @@ definitions:
 - pos: verb
   defs:
   - text: To afford suitable sustenance.
+prev_word: souks
+next_word: souly
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

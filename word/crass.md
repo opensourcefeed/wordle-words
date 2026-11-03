@@ -50,4 +50,15 @@ definitions:
   - text: Materialistic
   - text: Dense
   - text: Lacking finesse; crude and obvious.
+prev_word: crash
+next_word: crate
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

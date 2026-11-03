@@ -65,4 +65,15 @@ definitions:
       vacillate.
     example: Despite all the terrible things that happened to her, she never wavered
       from her beliefs.
+prev_word: waved
+next_word: waves
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

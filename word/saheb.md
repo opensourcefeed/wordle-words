@@ -23,4 +23,13 @@ stats:
 neighbours:
 - sahab
 - sahib
+prev_word: sahab
+next_word: sahib
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

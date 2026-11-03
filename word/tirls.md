@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _IRLS
   count: 9
+prev_word: tires
+next_word: tiros
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -46,4 +46,15 @@ anagrams:
 trap:
   pattern: _EILS
   count: 8
+prev_word: deign
+next_word: deink
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -23,4 +23,15 @@ stats:
 neighbours:
 - pagle
 - panne
+prev_word: pagle
+next_word: pagod
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

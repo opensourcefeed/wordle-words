@@ -45,4 +45,15 @@ definitions:
   - text: A plucked stringed instrument with five or seven steel strings stretched
       on a long fretted finger-board over two gourds, used mostly in Carnatic Indian
       classical music.
+prev_word: vinal
+next_word: vinca
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

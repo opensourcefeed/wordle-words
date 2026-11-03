@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: Naturally; of course.
     example: The Queen was seen wearing a hat when she visited Ascot, natch.
+prev_word: natal
+next_word: nates
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

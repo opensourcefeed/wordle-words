@@ -39,4 +39,15 @@ definitions:
       be repeated).
   - text: A volte
   - text: A turning point or point of change in a poem, most commonly a sonnet.
+prev_word: volta
+next_word: volti
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

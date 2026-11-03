@@ -45,4 +45,15 @@ anagrams:
 trap:
   pattern: _OIST
   count: 6
+prev_word: roins
+next_word: rojak
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

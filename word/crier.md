@@ -45,4 +45,15 @@ definitions:
   - text: One who cries.
   - text: An officer who proclaims the orders or directions of a court, or who gives
       public notice by loud proclamation, such as a town crier.
+prev_word: cried
+next_word: cries
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -30,4 +30,15 @@ definitions:
   - text: Of or relating to a kind of ignition, used in portable camping stoves etc.,
       where pressing a button causes a small spring-loaded hammer to strike a crystal
       of PZT or quartz, creating a voltage which ignites the gas.
+prev_word: piety
+next_word: piggy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/zo/"
+  label: Ending in ZO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

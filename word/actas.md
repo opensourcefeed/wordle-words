@@ -29,4 +29,15 @@ neighbours:
 - octas
 anagrams:
 - tasca
+prev_word: acryl
+next_word: acted
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

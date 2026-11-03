@@ -47,4 +47,15 @@ definitions:
     example: After it had healed, the scar tissue stood proud of his flesh.
   - text: Brave, valiant; gallant.
   - text: 'Excited by sexual desire; specifically of a female animal: in heat.'
+prev_word: proto
+next_word: proul
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ud/"
+  label: Ending in UD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

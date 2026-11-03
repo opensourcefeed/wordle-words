@@ -25,4 +25,15 @@ neighbours:
 - treif
 anagrams:
 - prief
+prev_word: prees
+next_word: preke
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/if/"
+  label: Ending in IF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -27,4 +27,13 @@ neighbours:
 - moars
 anagrams:
 - barms
+prev_word: mbari
+next_word: mbila
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

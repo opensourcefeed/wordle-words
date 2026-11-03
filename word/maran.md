@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: MARA_
   count: 6
+prev_word: maral
+next_word: maras
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -48,4 +48,15 @@ anagrams:
 trap:
   pattern: S_RED
   count: 7
+prev_word: sords
+next_word: soree
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

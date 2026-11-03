@@ -27,4 +27,15 @@ neighbours:
 - purdy
 anagrams:
 - durgy
+prev_word: guqin
+next_word: gurge
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

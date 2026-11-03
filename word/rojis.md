@@ -27,4 +27,15 @@ neighbours:
 - gojis
 - kojis
 - rotis
+prev_word: rojak
+next_word: roked
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

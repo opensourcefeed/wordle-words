@@ -35,4 +35,15 @@ anagrams:
 - sadis
 - saids
 - sidas
+prev_word: dirty
+next_word: disci
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

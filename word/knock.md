@@ -54,4 +54,15 @@ definitions:
     example: I accidentally knocked my drink off the bar.
   - text: To rap one's knuckles against something, especially wood.
     example: Knock on the door and find out if they’re home.
+prev_word: knobs
+next_word: knoll
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

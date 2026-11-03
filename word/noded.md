@@ -32,4 +32,15 @@ neighbours:
 - nowed
 - noyed
 - roded
+prev_word: noddy
+next_word: nodes
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: Algal organisms viewed collectively or as a mass; algal growth.
   - text: A particular kind of algae.
+prev_word: alfas
+next_word: algal
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

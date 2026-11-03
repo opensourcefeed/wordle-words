@@ -32,4 +32,13 @@ definitions:
 - pos: verb
   defs:
   - text: To smoke marijuana.
+prev_word: chons
+next_word: chook
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

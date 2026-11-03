@@ -48,4 +48,15 @@ definitions:
 - pos: adverb
   defs:
   - text: Probably.
+prev_word: probe
+next_word: proby
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

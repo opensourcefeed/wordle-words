@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: In card games, especially of the rummy family, to announce or display a
       combination of cards.
+prev_word: melch
+next_word: melee
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

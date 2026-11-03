@@ -57,4 +57,15 @@ definitions:
   - text: To fail to attend school or work without permission; to play truant (usually
       as in 'to bunk off').
   - text: To expel from a school.
+prev_word: bunko
+next_word: bunns
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 79
 neighbours:
 - zupas
+prev_word: zulus
+next_word: zupas
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

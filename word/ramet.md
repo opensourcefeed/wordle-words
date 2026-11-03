@@ -34,4 +34,15 @@ anagrams:
 - mater
 - retam
 - trema
+prev_word: rames
+next_word: ramie
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

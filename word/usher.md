@@ -44,4 +44,15 @@ definitions:
   - text: To accompany or escort (someone).
   - text: To precede; to act as a forerunner or herald.
   - text: To lead or guide somewhere
+prev_word: useta
+next_word: using
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/us/"
+  label: Starting with US
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

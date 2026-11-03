@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: MO_US
   count: 6
+prev_word: mokos
+next_word: molal
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

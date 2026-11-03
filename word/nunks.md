@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _UNKS
   count: 10
+prev_word: numps
+next_word: nunky
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

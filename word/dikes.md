@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: "(usually derogatory) A lesbian, particularly one with masculine or butch
       traits or behavior."
+prev_word: diker
+next_word: dikey
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

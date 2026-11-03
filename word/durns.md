@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A gatepost or doorpost.
+prev_word: durgy
+next_word: duroc
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

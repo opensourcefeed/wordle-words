@@ -50,4 +50,15 @@ definitions:
   - text: A police officer; a "pig".
   - text: Something difficult or awkward; a pain.
     example: That old car is a swine to manoeuvre.
+prev_word: swims
+next_word: swing
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

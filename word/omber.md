@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - ombre
 - brome
+prev_word: omasa
+next_word: ombre
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/om/"
+  label: Starting with OM
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

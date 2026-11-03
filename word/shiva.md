@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A weeklong period of formal mourning for a close relative.
+prev_word: shiur
+next_word: shive
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/va/"
+  label: Ending in VA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

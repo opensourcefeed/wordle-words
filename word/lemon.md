@@ -54,4 +54,15 @@ definitions:
   - text: Containing or having the flavour/flavor and/or scent of lemons.
   - text: Of the pale yellow colour/color of lemons.
   - text: (from "lemon tart") Smart; cheeky, vocal.
+prev_word: lemme
+next_word: lemur
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

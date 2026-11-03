@@ -64,4 +64,15 @@ definitions:
   - text: To put horseshoes on a horse.
   - text: To equip an object with a protection against wear.
     example: The billiard cue stick was shod in silver.
+prev_word: shoer
+next_word: shogi
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

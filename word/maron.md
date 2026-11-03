@@ -36,4 +36,15 @@ anagrams:
 - norma
 - ramon
 - roman
+prev_word: marms
+next_word: maror
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

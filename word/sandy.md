@@ -54,4 +54,15 @@ definitions:
     example: Some plants grow best in sandy soil.
   - text: Like sand, especially in texture.
   - text: Having the colour of sand.
+prev_word: sands
+next_word: saned
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

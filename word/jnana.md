@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 99
 neighbours:
 - anana
+prev_word: jivey
+next_word: jobed
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -48,4 +48,15 @@ definitions:
   - text: "(grammar) To be referential to another element in a sentence."
   - text: To address a specific location in computer memory.
   - text: Required to resit an examination.
+prev_word: refel
+next_word: reffo
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

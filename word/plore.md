@@ -32,4 +32,15 @@ anagrams:
 - loper
 - poler
 - prole
+prev_word: plops
+next_word: plots
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

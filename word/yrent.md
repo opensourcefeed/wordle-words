@@ -27,4 +27,13 @@ neighbours:
 - urent
 anagrams:
 - entry
+prev_word: yrapt
+next_word: yrivd
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

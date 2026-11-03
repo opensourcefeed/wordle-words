@@ -24,4 +24,13 @@ stats:
   starter_top_percent: 74
 neighbours:
 - liwas
+prev_word: livre
+next_word: liwas
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

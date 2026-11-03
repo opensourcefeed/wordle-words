@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: The sun-facing side of a mountain.
+prev_word: adred
+next_word: adrip
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

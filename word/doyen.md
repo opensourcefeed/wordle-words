@@ -33,4 +33,15 @@ definitions:
   - text: A commander in charge of ten men.
   - text: The senior, or eldest male member of a group.
   - text: A leading light, or exemplar of a particular practice or movement.
+prev_word: doxie
+next_word: doyly
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

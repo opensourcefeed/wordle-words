@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: Any of several medieval rights, either to hold a court, or to receive fines.
   - text: A district under a particular jurisdiction.
+prev_word: soken
+next_word: sokol
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

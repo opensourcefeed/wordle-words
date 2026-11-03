@@ -69,4 +69,15 @@ definitions:
   - text: An electrically powered wheelchair.
   - text: A transitional hold in which an attacking wrestler hoists an opponent up
       onto his/her shoulders so that they are both facing in the same direction.
+prev_word: chain
+next_word: chais
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

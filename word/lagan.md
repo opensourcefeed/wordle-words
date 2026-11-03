@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Goods or materials found or left on the sea floor, attached to a floating
       marker that indicates ownership.
+prev_word: laevo
+next_word: lagar
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

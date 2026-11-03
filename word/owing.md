@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Still to be paid; owed as a debt.
     example: These seven subscriptions remain owing.
+prev_word: owies
+next_word: owled
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ow/"
+  label: Starting with OW
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

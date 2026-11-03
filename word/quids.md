@@ -57,4 +57,15 @@ definitions:
   defs:
   - text: A piece of chewing tobacco.
   - text: The act of chewing such tobacco
+prev_word: quick
+next_word: quies
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

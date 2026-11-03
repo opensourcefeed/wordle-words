@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: A_ING
   count: 7
+prev_word: akene
+next_word: akita
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ak/"
+  label: Starting with AK
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -27,4 +27,15 @@ neighbours:
 - roche
 anagrams:
 - epoch
+prev_word: pocan
+next_word: pocho
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

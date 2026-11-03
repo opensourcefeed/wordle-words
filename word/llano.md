@@ -28,4 +28,13 @@ definitions:
 - pos: noun
   defs:
   - text: A plain or steppe in parts of Latin America.
+prev_word: llama
+next_word: loach
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

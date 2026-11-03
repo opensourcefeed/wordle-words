@@ -26,4 +26,13 @@ neighbours:
 - stoun
 - stown
 - swoln
+prev_word: stole
+next_word: stoma
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

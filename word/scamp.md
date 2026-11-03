@@ -36,4 +36,15 @@ definitions:
   - text: A mischievous person, especially a playful, impish youngster.
     example: My nephew is a little scamp who likes to leave lighted firecrackers under
       the lawnchairs of his dozing elders.
+prev_word: scaly
+next_word: scams
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

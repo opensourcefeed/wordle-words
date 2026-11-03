@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: In ancient armour, a visor, or projection like the peak of a cap, to which
       a fixed or movable faceguard was sometimes attached.
+prev_word: umbel
+next_word: umble
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/um/"
+  label: Starting with UM
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

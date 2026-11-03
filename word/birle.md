@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - liber
 - libre
+prev_word: birks
+next_word: birls
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

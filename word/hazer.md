@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: One who administers acts of hazing, or abusive initiation.
   - text: The rodeo performer who hazes the steer.
+prev_word: hazel
+next_word: hazes
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

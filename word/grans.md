@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: "(usually affectionate) a grandmother"
   - text: A grandfather
+prev_word: grano
+next_word: grant
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

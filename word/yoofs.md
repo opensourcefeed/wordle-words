@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _OOFS
   count: 9
+prev_word: yonny
+next_word: yoops
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

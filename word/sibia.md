@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any member of the timaliid bird genus Heterophasia.
+prev_word: sibbs
+next_word: sibyl
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -25,4 +25,15 @@ neighbours:
 - plain
 - olein
 - pleon
+prev_word: pleep
+next_word: plena
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -33,4 +33,15 @@ anagrams:
 - bries
 - brise
 - ribes
+prev_word: birrs
+next_word: birsy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _AIKS
   count: 9
+prev_word: bahut
+next_word: baile
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

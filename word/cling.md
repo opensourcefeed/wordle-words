@@ -53,4 +53,15 @@ definitions:
     example: Wood clings.
   - text: "(with preposition to) to be fond of, to feel strongly about and dependent
       on"
+prev_word: cline
+next_word: clink
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

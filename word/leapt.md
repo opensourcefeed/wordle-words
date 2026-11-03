@@ -49,4 +49,15 @@ definitions:
   - text: To copulate with (a female beast); to cover.
   - text: To cause to leap.
     example: to leap a horse across a ditch
+prev_word: leaps
+next_word: leare
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

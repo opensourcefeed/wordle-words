@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A dull old fellow; a person behind the times, over-conservative, or slow.
+prev_word: foehn
+next_word: foggy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

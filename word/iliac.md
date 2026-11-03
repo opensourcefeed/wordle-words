@@ -33,4 +33,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of or pertaining to the ilium.
+prev_word: ileus
+next_word: iliad
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/il/"
+  label: Starting with IL
+- url: "/ending-with/ac/"
+  label: Ending in AC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

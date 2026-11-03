@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A frog.
+prev_word: frory
+next_word: frost
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

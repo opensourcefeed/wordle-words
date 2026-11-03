@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _OWSE
   count: 6
+prev_word: lowry
+next_word: lowth
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

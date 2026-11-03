@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - write
 - twier
+prev_word: twiny
+next_word: twirk
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

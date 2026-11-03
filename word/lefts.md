@@ -44,4 +44,15 @@ definitions:
   - text: The left hand or fist.
   - text: A punch delivered with the left fist.
   - text: A wave breaking from left to right (viewed from the shore).
+prev_word: lefte
+next_word: lefty
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

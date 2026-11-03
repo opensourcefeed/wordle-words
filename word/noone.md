@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: 'Used in contrast to anyone, someone or everyone: not one person; nobody.'
     example: We went to the store but no one was there.
+prev_word: nooky
+next_word: noons
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

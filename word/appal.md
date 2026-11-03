@@ -38,4 +38,15 @@ definitions:
   - text: To weaken; to reduce in strength
   - text: To grow faint; to become weak; to become dismayed or discouraged.
   - text: To lose flavour or become stale.
+prev_word: aport
+next_word: appam
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

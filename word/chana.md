@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A dish principally made from chickpeas or chickpea paste.
   - text: Chickpeas.
+prev_word: chams
+next_word: chang
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -51,4 +51,15 @@ definitions:
   - text: To make holes in something (rail ticket, leather belt, etc)
   - text: To thrust against; to poke.
     example: to punch one with the end of a stick or the elbow
+prev_word: punce
+next_word: punga
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

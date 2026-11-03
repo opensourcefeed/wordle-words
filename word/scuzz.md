@@ -24,4 +24,15 @@ definitions:
 - pos: noun
   defs:
   - text: An unpleasant or disgusting (scuzzy) person
+prev_word: scuts
+next_word: scyes
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/zz/"
+  label: Ending in ZZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

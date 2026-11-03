@@ -71,4 +71,15 @@ definitions:
   defs:
   - text: A coconut with soft or gelatinous meat inside as well as the meat itself
       (which is of regular quality if the coconut is immature)
+prev_word: jells
+next_word: jembe
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

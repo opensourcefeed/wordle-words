@@ -23,4 +23,15 @@ stats:
 neighbours:
 - odism
 - ovist
+prev_word: ovine
+next_word: ovist
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ov/"
+  label: Starting with OV
+- url: "/ending-with/sm/"
+  label: Ending in SM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

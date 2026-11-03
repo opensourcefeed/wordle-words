@@ -114,4 +114,15 @@ definitions:
 - pos: noun
   defs:
   - text: A young rabbit, or its skin.
+prev_word: rache
+next_word: racon
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

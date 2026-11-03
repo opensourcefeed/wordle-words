@@ -26,4 +26,15 @@ neighbours:
 - video
 - kiddo
 - kidel
+prev_word: kidel
+next_word: kidge
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/eo/"
+  label: Ending in EO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

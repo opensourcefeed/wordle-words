@@ -26,4 +26,15 @@ neighbours:
 - quino
 - quips
 - quipu
+prev_word: quint
+next_word: quips
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/po/"
+  label: Ending in PO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

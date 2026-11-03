@@ -61,4 +61,15 @@ definitions:
     example: No plan. We're just to going to have to luck through.
   - text: To carry out relying on luck.
     example: Our plan is to luck it through.
+prev_word: lucid
+next_word: lucky
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

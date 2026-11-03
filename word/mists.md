@@ -60,4 +60,15 @@ definitions:
     example: The lens was misted.
   - text: "(of the eyes) To be covered by tears."
     example: My eyes misted when I remembered what had happened.
+prev_word: misto
+next_word: misty
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

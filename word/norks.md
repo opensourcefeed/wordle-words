@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(chiefly in plural) A woman's breast."
+prev_word: noris
+next_word: norma
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

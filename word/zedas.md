@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - adzes
 - dazes
+prev_word: zebus
+next_word: zeera
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/ze/"
+  label: Starting with ZE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

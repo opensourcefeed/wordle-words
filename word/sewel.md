@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - sweel
 - weels
+prev_word: sewed
+next_word: sewen
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

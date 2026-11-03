@@ -33,4 +33,15 @@ anagrams:
 - deary
 - deray
 - rayed
+prev_word: yeans
+next_word: yearn
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

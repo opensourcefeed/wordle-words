@@ -46,4 +46,15 @@ definitions:
   - text: To run (a previously broadcast television program) again.
   - text: To run (a race) again.
   - text: To run (a computer program) again.
+prev_word: rerig
+next_word: resam
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

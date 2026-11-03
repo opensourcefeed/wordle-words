@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: An unforested or deforested plain, a grassland, a moor.
   - text: A wood or forest, especially a wooded upland.
+prev_word: wokka
+next_word: wolfs
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

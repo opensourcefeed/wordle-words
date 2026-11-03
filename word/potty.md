@@ -54,4 +54,15 @@ definitions:
       children."
   - text: "(diminutive) Any other device or place for urination or defecation: a toilet;
       a lavatory; a latrine; an outhouse."
+prev_word: potts
+next_word: pouce
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -27,4 +27,15 @@ neighbours:
 - fasts
 anagrams:
 - fiats
+prev_word: fasci
+next_word: fasts
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

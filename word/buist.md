@@ -28,4 +28,15 @@ neighbours:
 - quist
 anagrams:
 - busti
+prev_word: built
+next_word: bukes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

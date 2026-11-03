@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _AWED
   count: 11
+prev_word: kawau
+next_word: kayak
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

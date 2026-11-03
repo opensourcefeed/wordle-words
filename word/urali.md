@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - rauli
 - urial
+prev_word: uraei
+next_word: uraos
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

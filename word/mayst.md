@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: To gather may, or flowers in general.
   - text: To celebrate May Day.
+prev_word: mayos
+next_word: mazac
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

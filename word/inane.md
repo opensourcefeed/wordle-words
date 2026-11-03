@@ -39,4 +39,15 @@ definitions:
       the songs sung in music class were so inane that he wanted to skip grades already!
       Eventually he did, so better late than never.
   - text: Purposeless; pointless
+prev_word: imshy
+next_word: inapt
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

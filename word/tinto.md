@@ -29,4 +29,15 @@ neighbours:
 - tinty
 anagrams:
 - nitto
+prev_word: tinny
+next_word: tints
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

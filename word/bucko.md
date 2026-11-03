@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Buckaroo.
   - text: Young lad, friend, pal (used in addressing someone).
+prev_word: buchu
+next_word: bucks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

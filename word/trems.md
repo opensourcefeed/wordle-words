@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: TRE_S
   count: 7
+prev_word: trema
+next_word: trend
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

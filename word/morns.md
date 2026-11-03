@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: Morning.
+prev_word: morne
+next_word: moron
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

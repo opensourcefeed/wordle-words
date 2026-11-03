@@ -55,4 +55,15 @@ definitions:
   - text: A vehicle or other device used for racing.
   - text: Any of several genera of colubrid snakes.
   - text: A video game involving racing of any kind.
+prev_word: raced
+next_word: races
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

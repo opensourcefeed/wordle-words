@@ -22,4 +22,15 @@ stats:
 neighbours:
 - daunt
 - daint
+prev_word: daych
+next_word: dazed
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

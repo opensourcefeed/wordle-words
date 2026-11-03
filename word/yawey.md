@@ -24,4 +24,15 @@ stats:
 neighbours:
 - yawed
 - yawny
+prev_word: yawed
+next_word: yawls
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

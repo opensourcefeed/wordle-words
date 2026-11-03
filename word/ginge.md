@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _INGE
   count: 10
+prev_word: ginga
+next_word: gings
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

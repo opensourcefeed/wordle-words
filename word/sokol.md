@@ -27,4 +27,15 @@ anagrams:
 - kolos
 - looks
 - skool
+prev_word: sokes
+next_word: solah
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

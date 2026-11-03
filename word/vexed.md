@@ -45,4 +45,15 @@ definitions:
     example: She became more and more vexed as she struggled to cope with the demands
       of the job.
   - text: Much debated, discussed or disputed
+prev_word: veves
+next_word: vexer
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

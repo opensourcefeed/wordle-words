@@ -36,4 +36,15 @@ definitions:
       fit for an idyll; a carefree or lighthearted experience.
   - text: A composition, usually instrumental, of a pastoral or sentimental character,
       e.g. Siegfried Idyll by Richard Wagner.
+prev_word: idyll
+next_word: iftar
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/id/"
+  label: Starting with ID
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

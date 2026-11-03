@@ -42,4 +42,15 @@ definitions:
   - text: Any (member) of several species of birds in the genera Aburria, Chamaepetes,
       Oreophasis, Penelope, Penelopina and Pipile, of the family Cracidae, limited
       to the Americas.
+prev_word: guano
+next_word: guard
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

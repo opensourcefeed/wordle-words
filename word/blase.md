@@ -44,4 +44,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Unimpressed with something because of over-familiarity.
+prev_word: blart
+next_word: blash
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 62
 neighbours:
 - yokan
+prev_word: yoick
+next_word: yokan
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

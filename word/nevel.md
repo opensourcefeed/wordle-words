@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _EVEL
   count: 7
+prev_word: neums
+next_word: never
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

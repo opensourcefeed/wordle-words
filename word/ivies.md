@@ -33,4 +33,13 @@ definitions:
   - text: Any of several woody, climbing or trailing evergreen plants of the genus
       Hedera.
   - text: Any similar plant of any genus.
+prev_word: ivied
+next_word: ivory
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

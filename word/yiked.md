@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _IKED
   count: 9
+prev_word: yield
+next_word: yikes
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yi/"
+  label: Starting with YI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

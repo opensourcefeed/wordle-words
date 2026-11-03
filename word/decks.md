@@ -67,4 +67,15 @@ definitions:
       elegance"
   - text: "(sometimes with out) To decorate (something)."
   - text: To cover; to overspread.
+prev_word: decko
+next_word: decor
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

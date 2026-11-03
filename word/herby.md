@@ -28,4 +28,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of or pertaining to herbs
+prev_word: herbs
+next_word: herds
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: A ritual, rooted in the Vedic religion, in which offerings of food etc.
       are burnt in order to bring good luck on a special occasion.
+prev_word: haute
+next_word: havel
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

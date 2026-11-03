@@ -50,4 +50,15 @@ definitions:
 - pos: noun
   defs:
   - text: Cigarette
+prev_word: biner
+next_word: binge
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

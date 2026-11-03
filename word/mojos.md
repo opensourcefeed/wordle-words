@@ -49,4 +49,15 @@ definitions:
   - text: Sex appeal; sex drive.
   - text: Illegal drugs.
   - text: (usually with "wire") A telecopier; a fax machine.
+prev_word: moity
+next_word: moker
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

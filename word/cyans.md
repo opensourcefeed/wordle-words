@@ -24,4 +24,15 @@ neighbours:
 - crans
 - cyano
 - gyans
+prev_word: cyano
+next_word: cyber
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cy/"
+  label: Starting with CY
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

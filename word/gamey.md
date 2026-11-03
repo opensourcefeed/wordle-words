@@ -36,4 +36,15 @@ definitions:
   - text: Having the smell, taste and texture of consumed game (meat).
   - text: Plucky, spirited or gritty
   - text: Risque, sordid or sexually suggestive
+prev_word: games
+next_word: gamic
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ALES
   count: 15
+prev_word: kalas
+next_word: kalif
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

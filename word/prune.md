@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To become wrinkled like a dried plum, as the fingers and toes do when kept
       submerged in water.
+prev_word: prude
+next_word: pruno
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

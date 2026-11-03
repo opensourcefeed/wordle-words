@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _OLLY
   count: 12
+prev_word: polls
+next_word: polos
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

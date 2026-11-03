@@ -44,4 +44,15 @@ definitions:
   - text: In land law, meaning either 1. or 2. above or use. Usually in singular form
       to mean use wherever there is assiduous re-use of precedents and aloof textbooks
       verbatim. Modern law, guarded against ambiguity, widely disfavors the term.
+prev_word: usens
+next_word: useta
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/us/"
+  label: Starting with US
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

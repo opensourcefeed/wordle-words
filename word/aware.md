@@ -42,4 +42,15 @@ definitions:
     example: Stay aware! Don't let your guard down.
   - text: Conscious or having knowledge of something.
     example: Are you aware of what is being said about you?
+prev_word: award
+next_word: awari
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

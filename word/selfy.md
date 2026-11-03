@@ -33,4 +33,15 @@ definitions:
       timer, tripod etc.) with a small camera or mobile phone.
     example: 2012 December 27, Andrew Prince, “The Mars Rover Takes A Selfie” http//www.npr.org/blogs/pictureshow/2012/12/27/168139129/the-mars-rover-takes-a-selfie,
       the picture show, National Public Radio
+prev_word: selfs
+next_word: selky
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

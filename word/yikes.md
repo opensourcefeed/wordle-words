@@ -48,4 +48,15 @@ definitions:
     example: Then she told me I was ‘beautiful, for a black girl’. —Yikes!
   - text: Expression of empathy with unpleasant or undesirable circumstances.
     example: John has lost his job and can't pay his mortgage; yikes!
+prev_word: yiked
+next_word: yills
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yi/"
+  label: Starting with YI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

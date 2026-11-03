@@ -28,4 +28,15 @@ neighbours:
 - prowl
 - crool
 - crows
+prev_word: crowd
+next_word: crown
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/wl/"
+  label: Ending in WL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

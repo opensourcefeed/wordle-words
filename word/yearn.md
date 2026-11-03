@@ -43,4 +43,15 @@ definitions:
   - text: To have strong feelings of love, sympathy, affection, etc. (toward someone).
   - text: To be pained or distressed; to grieve; to mourn.
   - text: To pain; to grieve; to vex.
+prev_word: yeard
+next_word: years
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

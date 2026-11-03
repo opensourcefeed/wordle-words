@@ -25,4 +25,13 @@ neighbours:
 - elven
 - erven
 - yeven
+prev_word: eerie
+next_word: eever
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

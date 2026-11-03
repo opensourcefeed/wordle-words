@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _OSED
   count: 9
+prev_word: moruk
+next_word: moses
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

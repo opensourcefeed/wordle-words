@@ -35,4 +35,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Inclined to weep; tearful or lachrymose.
+prev_word: weeps
+next_word: weest
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

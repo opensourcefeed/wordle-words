@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: AR_AS
   count: 6
+prev_word: arbah
+next_word: arbor
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

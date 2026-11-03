@@ -32,4 +32,15 @@ neighbours:
 - serra
 - serre
 - serry
+prev_word: serre
+next_word: serry
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

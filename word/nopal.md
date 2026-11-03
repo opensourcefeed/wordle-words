@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A prickly pear cactus from the genus Opuntia, especially Opuntia cochinellifera;
       the edible pads (fleshy leaves) of the cactus, considered as food.
+prev_word: noove
+next_word: noria
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -21,4 +21,15 @@ neighbours:
 - cuppy
 - cushy
 - cusps
+prev_word: cusps
+next_word: cusso
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

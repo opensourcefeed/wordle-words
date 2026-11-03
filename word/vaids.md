@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _AIDS
   count: 10
+prev_word: vagus
+next_word: vails
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

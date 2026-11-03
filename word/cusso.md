@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 83
 neighbours:
 - kusso
+prev_word: cuspy
+next_word: cusum
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

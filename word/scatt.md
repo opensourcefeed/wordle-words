@@ -28,4 +28,15 @@ neighbours:
 - skatt
 anagrams:
 - tacts
+prev_word: scats
+next_word: scaud
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/tt/"
+  label: Ending in TT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

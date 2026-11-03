@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - sawed
 - wades
+prev_word: deave
+next_word: deawy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

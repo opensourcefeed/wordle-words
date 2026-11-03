@@ -30,4 +30,15 @@ neighbours:
 - nitty
 anagrams:
 - tinto
+prev_word: nitta
+next_word: nitty
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

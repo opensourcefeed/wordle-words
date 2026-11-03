@@ -28,4 +28,15 @@ neighbours:
 - snows
 anagrams:
 - gowns
+prev_word: gnome
+next_word: goads
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gn/"
+  label: Starting with GN
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

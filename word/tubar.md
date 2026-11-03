@@ -27,4 +27,15 @@ neighbours:
 - fubar
 - tubae
 - tubas
+prev_word: tubal
+next_word: tubas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

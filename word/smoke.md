@@ -64,4 +64,15 @@ definitions:
   defs:
   - text: Of the colour known as smoke.
   - text: Made of or with smoke.
+prev_word: smogs
+next_word: smoko
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

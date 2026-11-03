@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 57
 neighbours:
 - bezel
+prev_word: bezes
+next_word: bezzy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

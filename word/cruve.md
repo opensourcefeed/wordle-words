@@ -26,4 +26,15 @@ neighbours:
 - cruse
 anagrams:
 - curve
+prev_word: crusy
+next_word: crwth
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

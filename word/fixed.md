@@ -87,4 +87,15 @@ definitions:
   - text: Rigged; fraudulently prearranged.
   - text: "(of a problem) Resolved; corrected."
   - text: Repaired
+prev_word: fives
+next_word: fixer
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

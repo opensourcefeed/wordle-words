@@ -33,4 +33,15 @@ neighbours:
 - ragus
 - rangs
 - riggs
+prev_word: ragga
+next_word: raggy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

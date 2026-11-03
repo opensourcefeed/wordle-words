@@ -36,4 +36,15 @@ definitions:
   - text: A board game for two players with each beginning with sixteen chess pieces
       moving according to fixed rules across a chessboard with the objective to checkmate
       the opposing king.
+prev_word: chert
+next_word: chest
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

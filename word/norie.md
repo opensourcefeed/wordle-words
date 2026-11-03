@@ -33,4 +33,15 @@ anagrams:
 - irone
 - noire
 - rione
+prev_word: noria
+next_word: noris
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

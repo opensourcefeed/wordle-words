@@ -63,4 +63,15 @@ definitions:
   defs:
   - text: "(of ice) smooth and bright or translucent; glary"
     example: skating on glare ice
+prev_word: glans
+next_word: glary
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

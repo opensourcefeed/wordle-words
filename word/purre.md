@@ -32,4 +32,15 @@ neighbours:
 - purry
 anagrams:
 - purer
+prev_word: purpy
+next_word: purrs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

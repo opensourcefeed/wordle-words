@@ -56,4 +56,15 @@ definitions:
   defs:
   - text: Semigloss.
     example: satin paint
+prev_word: sates
+next_word: satis
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

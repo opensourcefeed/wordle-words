@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: FO_DS
   count: 6
+prev_word: fouat
+next_word: fouer
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

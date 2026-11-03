@@ -26,4 +26,15 @@ neighbours:
 - volta
 - volte
 - volts
+prev_word: volte
+next_word: volts
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

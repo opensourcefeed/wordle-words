@@ -50,4 +50,15 @@ definitions:
   - text: Not mounted or placed in a setting.
   - text: Not set, as a broken limb.
   - text: Not planted.
+prev_word: unsee
+next_word: unsew
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

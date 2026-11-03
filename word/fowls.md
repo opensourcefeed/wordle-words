@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: To hunt fowl.
     example: We took our guns and went fowling.
+prev_word: fovea
+next_word: fowth
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

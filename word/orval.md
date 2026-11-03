@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - valor
 - volar
+prev_word: ortho
+next_word: orzos
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

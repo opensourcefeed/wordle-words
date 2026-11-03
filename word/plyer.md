@@ -28,4 +28,15 @@ neighbours:
 - slyer
 anagrams:
 - reply
+prev_word: pluty
+next_word: pneus
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

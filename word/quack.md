@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: To make a noise like a duck.
     example: Do you hear the ducks quack?
+prev_word: quabs
+next_word: quads
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -53,4 +53,15 @@ definitions:
   - text: People in general; everybody or anybody.
     example: Lots of folks like to travel during the holidays.
   - text: The police.
+prev_word: folio
+next_word: folky
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

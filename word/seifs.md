@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A sand dune that elongates parallel to the prevailing wind.
+prev_word: sehri
+next_word: seils
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

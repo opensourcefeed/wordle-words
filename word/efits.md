@@ -30,4 +30,13 @@ anagrams:
 - feist
 - fiest
 - tiefs
+prev_word: effer
+next_word: egads
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _EAZE
   count: 6
+prev_word: teats
+next_word: techs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

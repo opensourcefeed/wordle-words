@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - ergot
 - regot
+prev_word: etnas
+next_word: ettin
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/et/"
+  label: Starting with ET
+- url: "/ending-with/og/"
+  label: Ending in OG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

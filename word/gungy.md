@@ -27,4 +27,15 @@ neighbours:
 - gunny
 - mungy
 - pungy
+prev_word: gunge
+next_word: gunks
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

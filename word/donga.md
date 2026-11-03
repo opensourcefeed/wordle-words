@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A usually dry, eroded watercourse running only in times of heavy rain.
+prev_word: doner
+next_word: dongs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

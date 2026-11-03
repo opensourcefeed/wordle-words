@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any member of the genus Thuya.
+prev_word: thurl
+next_word: thyme
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ya/"
+  label: Ending in YA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

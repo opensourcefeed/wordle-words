@@ -94,4 +94,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(college slang) A college servant."
+prev_word: skios
+next_word: skirl
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

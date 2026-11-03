@@ -47,4 +47,15 @@ definitions:
   - text: A formal group or assembly of witches.
   - text: A family, group or assembly of vampires.
   - text: A clique that shares common interests or activities.
+prev_word: coved
+next_word: cover
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

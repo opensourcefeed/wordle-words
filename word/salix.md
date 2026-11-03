@@ -28,4 +28,15 @@ neighbours:
 - salis
 anagrams:
 - axils
+prev_word: salis
+next_word: salle
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

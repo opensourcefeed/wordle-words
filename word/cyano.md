@@ -29,4 +29,15 @@ definitions:
   - text: "(especially in combination) a univalent functional group, -CN, consisting
       of a carbon and a nitrogen atom joined with a triple bond; organic compounds
       containing a cyano group are nitriles"
+prev_word: cwtch
+next_word: cyans
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cy/"
+  label: Starting with CY
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

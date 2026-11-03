@@ -65,4 +65,15 @@ definitions:
       not a feathered distal end but instead the scar of a nearly perpendicular break.
     example: The flake hinged at an inclusion in the core.
   - text: To bend.
+prev_word: hinds
+next_word: hings
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

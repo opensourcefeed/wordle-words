@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(sometimes derogatory) calling attention; flashy; standing out to the eye"
+prev_word: shows
+next_word: shoyu
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/wy/"
+  label: Ending in WY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

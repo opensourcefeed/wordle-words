@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 36
+prev_word: knars
+next_word: knave
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

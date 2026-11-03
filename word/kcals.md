@@ -30,4 +30,13 @@ definitions:
   defs:
   - text: A non-SI unit of energy equal to 1,000 calories, used (now rare) in chemistry
       or physics; equal to 1 calorie or Calorie as used in nutrition. Symbol kcal.
+prev_word: kbars
+next_word: keaki
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

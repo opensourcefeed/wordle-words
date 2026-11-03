@@ -41,4 +41,15 @@ definitions:
   - text: In the Standard Model, an elementary subatomic particle that forms matter.
       They combine to form hadrons, such as protons and neutrons.
   - text: "(X Window System) An integer that uniquely identifies a text string."
+prev_word: quare
+next_word: quarl
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/rk/"
+  label: Ending in RK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

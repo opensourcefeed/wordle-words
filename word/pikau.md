@@ -26,4 +26,15 @@ neighbours:
 - pekau
 - pikas
 - pilau
+prev_word: pikas
+next_word: piked
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/au/"
+  label: Ending in AU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

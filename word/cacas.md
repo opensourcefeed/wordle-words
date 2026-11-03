@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: CA_AS
   count: 6
+prev_word: cacao
+next_word: cache
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

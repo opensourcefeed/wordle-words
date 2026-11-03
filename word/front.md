@@ -87,4 +87,15 @@ definitions:
   - text: Pronounced with the highest part of the body of the tongue toward the front
       of the mouth, near the hard palate (most often describing a vowel).
     example: The English word dress has a front vowel in most dialects.
+prev_word: frons
+next_word: froom
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

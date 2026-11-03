@@ -34,4 +34,15 @@ definitions:
   - text: A pause or period of slackening.
     example: We waited for a letup in the rain, then we ran home before it started
       again.
+prev_word: letty
+next_word: leuch
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/up/"
+  label: Ending in UP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

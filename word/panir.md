@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A soft, non-matured, Indian cheese.
     example: The spinach was mixed with paneer to make a satisfying meal.
+prev_word: panim
+next_word: panko
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

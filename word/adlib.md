@@ -34,4 +34,13 @@ definitions:
 - pos: noun
   defs:
   - text: Alternative spelling of ad-lib
+prev_word: adits
+next_word: adman
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

@@ -32,4 +32,15 @@ definitions:
   - text: A vessel for containing consecrated wine or oil.
   - text: The dilated end of a duct.
   - text: The spongiole of a root.
+prev_word: amply
+next_word: amrit
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

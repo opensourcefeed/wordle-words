@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: Turpentine or turpentine substitute.
   - text: Any alcoholic drink.
+prev_word: turon
+next_word: turrs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

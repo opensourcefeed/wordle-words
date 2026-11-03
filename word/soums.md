@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: SOU_S
   count: 6
+prev_word: souly
+next_word: sound
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: To move or hit (something) with a short, quick motion.
     example: flick one's hair
+prev_word: fleys
+next_word: flics
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -45,4 +45,15 @@ definitions:
   - text: An inhibition or ban that results from social custom or emotional aversion.
   - text: "(in Polynesia) Something which may not be used, approached or mentioned
       because it is sacred."
+prev_word: tabun
+next_word: tacan
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

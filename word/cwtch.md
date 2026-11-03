@@ -33,4 +33,13 @@ definitions:
   defs:
   - text: To hug or cuddle.
   - text: To crouch down.
+prev_word: cuzes
+next_word: cyano
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

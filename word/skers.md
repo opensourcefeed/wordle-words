@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: SKE_S
   count: 9
+prev_word: skerm
+next_word: skets
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

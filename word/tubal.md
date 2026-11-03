@@ -34,4 +34,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of or pertaining to a tube, especially an anatomical one
+prev_word: tubae
+next_word: tubar
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

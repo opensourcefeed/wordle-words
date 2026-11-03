@@ -34,4 +34,15 @@ definitions:
   - text: In general, to act in a way which results in an object becoming completely
       permeated or impregnated by some quality.
     example: The entire text is imbued with the sense of melancholy and hopelessness.
+prev_word: imbos
+next_word: imide
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -28,4 +28,15 @@ anagrams:
 - widen
 - dwine
 - wined
+prev_word: incut
+next_word: index
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ew/"
+  label: Ending in EW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

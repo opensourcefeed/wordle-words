@@ -49,4 +49,15 @@ definitions:
   - text: A red alga/seaweed, Porphyra umbilicalis (syn. Porphyra laciniata), eaten
       as a vegetable.
   - text: 'Other seaweeds similar in appearance or use, especially:'
+prev_word: laved
+next_word: laves
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

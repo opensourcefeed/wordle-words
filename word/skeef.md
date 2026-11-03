@@ -33,4 +33,13 @@ anagrams:
 trap:
   pattern: SKEE_
   count: 8
+prev_word: skeed
+next_word: skeen
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

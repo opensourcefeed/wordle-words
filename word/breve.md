@@ -39,4 +39,15 @@ definitions:
   - text: A double whole note.
   - text: Any writ or precept under seal, issued out of any court.
   - text: The great ant thrush of Sumatra (Pitta gigas), which has a very short tail.
+prev_word: brers
+next_word: brews
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

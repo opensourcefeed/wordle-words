@@ -49,4 +49,15 @@ definitions:
 - pos: verb
   defs:
   - text: To discard (especially rubbish); to chuck out.
+prev_word: dunes
+next_word: dungy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

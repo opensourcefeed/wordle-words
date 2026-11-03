@@ -29,4 +29,13 @@ definitions:
   - text: A red-brown resinous material, the dried sap of a tree of the species Commiphora
       myrrha.
   - text: The herb chervil.
+prev_word: myopy
+next_word: mysid
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/my/"
+  label: Starting with MY
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

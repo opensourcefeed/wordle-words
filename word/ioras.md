@@ -42,4 +42,13 @@ definitions:
   defs:
   - text: Any of a group of passerine birds, of the family Aegithinidae, found in
       India and other parts of Asia
+prev_word: ionic
+next_word: iotas
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

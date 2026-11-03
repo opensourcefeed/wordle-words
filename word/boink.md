@@ -33,4 +33,15 @@ definitions:
 - pos: verb
   defs:
   - text: To have sexual intercourse; to bonk.
+prev_word: boing
+next_word: boite
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

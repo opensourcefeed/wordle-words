@@ -39,4 +39,15 @@ definitions:
 - pos: verb
   defs:
   - text: To introduce.
+prev_word: intra
+next_word: inula
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

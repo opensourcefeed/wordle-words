@@ -30,4 +30,15 @@ neighbours:
 - oxine
 anagrams:
 - moxie
+prev_word: oxies
+next_word: oxims
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ox/"
+  label: Starting with OX
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

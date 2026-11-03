@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: Moustache, mustache.
+prev_word: tacet
+next_word: tachi
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

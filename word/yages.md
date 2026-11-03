@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _AGES
   count: 9
+prev_word: yager
+next_word: yagis
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 61
 anagrams:
 - sibyl
+prev_word: sybbe
+next_word: syboe
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

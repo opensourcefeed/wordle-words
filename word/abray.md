@@ -23,4 +23,15 @@ stats:
 neighbours:
 - array
 - abram
+prev_word: abram
+next_word: abrim
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

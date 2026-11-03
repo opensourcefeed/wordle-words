@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A strong cleat to which large ropes are belayed.
   - text: A stonemason's hammer.
+prev_word: ketol
+next_word: kevil
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

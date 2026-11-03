@@ -33,4 +33,15 @@ definitions:
       substance that cuts and penetrates through emotional instability or uncertainty.
   - text: "(Rigveda, Hindu mythology) The weapon of Indra, the god of heaven and the
       chief deity of the Rigvedic pantheon, used to kill sinners and ignorant persons."
+prev_word: vairy
+next_word: vakas
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

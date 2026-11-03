@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _EAZE
   count: 6
+prev_word: feats
+next_word: fecal
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

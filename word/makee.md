@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - keema
 - meake
+prev_word: makar
+next_word: maker
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -24,4 +24,15 @@ neighbours:
 - baals
 - barps
 - jaaps
+prev_word: baals
+next_word: babas
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

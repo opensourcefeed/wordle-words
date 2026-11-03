@@ -52,4 +52,15 @@ definitions:
   - text: To cause someone to walk somewhere.
   - text: To go to war; to make military advances.
   - text: To make steady progress.
+prev_word: maray
+next_word: marcs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

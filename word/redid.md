@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To do again.
+prev_word: redia
+next_word: redif
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

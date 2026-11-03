@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - harim
 - ihram
+prev_word: miraa
+next_word: mirch
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -28,4 +28,15 @@ anagrams:
 - plues
 - pules
 - spule
+prev_word: pushy
+next_word: pussy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

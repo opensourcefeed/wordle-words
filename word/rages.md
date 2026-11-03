@@ -58,4 +58,15 @@ definitions:
   - text: To act or speak in heightened anger.
   - text: "(sometimes figurative) To move with great violence, as a storm etc."
   - text: To enrage.
+prev_word: rager
+next_word: ragga
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

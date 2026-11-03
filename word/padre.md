@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A military clergyman
   - text: A Roman Catholic or Anglican priest
+prev_word: padou
+next_word: padri
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

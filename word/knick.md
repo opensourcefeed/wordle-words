@@ -24,4 +24,15 @@ neighbours:
 - knock
 - klick
 - snick
+prev_word: knelt
+next_word: knife
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

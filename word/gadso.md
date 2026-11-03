@@ -25,4 +25,15 @@ neighbours:
 - godso
 anagrams:
 - goads
+prev_word: gadjo
+next_word: gaffe
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

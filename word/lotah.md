@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - loath
 - altho
+prev_word: lossy
+next_word: lotas
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

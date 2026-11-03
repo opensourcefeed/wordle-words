@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 52
 anagrams:
 - incus
+prev_word: usnea
+next_word: usque
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/us/"
+  label: Starting with US
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

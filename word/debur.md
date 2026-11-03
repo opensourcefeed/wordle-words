@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - rebud
 - redub
+prev_word: debug
+next_word: debus
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

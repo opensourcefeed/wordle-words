@@ -39,4 +39,15 @@ definitions:
   - text: Having or demonstrating undivided and constant support for someone or something.
   - text: Firm in allegiance to a person or institution.
   - text: Faithful to a person or cause.
+prev_word: loxes
+next_word: lozen
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

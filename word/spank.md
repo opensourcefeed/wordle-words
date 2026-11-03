@@ -52,4 +52,15 @@ definitions:
   - text: To hit very hard
   - text: To move rapidly.
     example: The ship was really spanking along.
+prev_word: spang
+next_word: spans
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

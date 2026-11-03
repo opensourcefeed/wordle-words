@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _INES
   count: 15
+prev_word: cinct
+next_word: cinqs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

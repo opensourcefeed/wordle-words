@@ -22,4 +22,15 @@ stats:
   - X
   starter_tier: Weak
   starter_top_percent: 65
+prev_word: vexes
+next_word: vezir
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

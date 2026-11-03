@@ -30,4 +30,15 @@ anagrams:
 - reaks
 - saker
 - skear
+prev_word: kerve
+next_word: kests
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

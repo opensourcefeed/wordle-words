@@ -46,4 +46,15 @@ anagrams:
 trap:
   pattern: LEA_S
   count: 8
+prev_word: leaky
+next_word: leans
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

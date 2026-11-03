@@ -54,4 +54,15 @@ definitions:
       most mammals; the anterior optic lobes.
   - text: The buttocks.
   - text: The umbones of a bivalve shell.
+prev_word: natch
+next_word: natis
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -39,4 +39,15 @@ neighbours:
 trap:
   pattern: LO_ES
   count: 12
+prev_word: loxed
+next_word: loyal
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

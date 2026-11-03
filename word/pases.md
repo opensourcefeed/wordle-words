@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ASES
   count: 12
+prev_word: paseo
+next_word: pasha
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

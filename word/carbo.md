@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: Carbohydrate
+prev_word: carat
+next_word: carbs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

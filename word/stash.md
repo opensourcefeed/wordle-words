@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: To hide or store away for later use.
     example: He stashed his liquor in the cabinet under the bar.
+prev_word: stary
+next_word: state
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

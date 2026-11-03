@@ -40,4 +40,15 @@ definitions:
   - text: Resembling or characteristic of a pug dog.
     example: a puggy nose
   - text: Sticky, claylike
+prev_word: puffy
+next_word: pugil
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

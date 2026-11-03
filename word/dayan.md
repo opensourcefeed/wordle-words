@@ -23,4 +23,15 @@ neighbours:
 - daman
 - dayal
 - mayan
+prev_word: dayal
+next_word: daych
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

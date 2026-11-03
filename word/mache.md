@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Valerianella locusta, a small dicot annual plant of the family Caprifoliaceae
       often cultivated as a salad green or herb.
+prev_word: maces
+next_word: machi
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

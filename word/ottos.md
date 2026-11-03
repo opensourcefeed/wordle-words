@@ -31,4 +31,13 @@ definitions:
   defs:
   - text: An essential oil extracted from flowers.
   - text: A perfume made from this oil.
+prev_word: otter
+next_word: oubit
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

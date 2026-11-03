@@ -24,4 +24,15 @@ neighbours:
 - huffs
 - humas
 - humps
+prev_word: humas
+next_word: humic
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

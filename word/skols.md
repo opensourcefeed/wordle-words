@@ -25,4 +25,15 @@ neighbours:
 - skofs
 - skogs
 - sools
+prev_word: skogs
+next_word: skool
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

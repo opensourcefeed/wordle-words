@@ -25,4 +25,15 @@ neighbours:
 - pilot
 - pilaw
 - pilon
+prev_word: pilot
+next_word: pilum
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

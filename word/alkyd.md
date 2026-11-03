@@ -27,4 +27,13 @@ definitions:
   defs:
   - text: A synthetic resin derived from a reaction between alcohol and certain acids,
       used as a base for many laminates, paints and coatings.
+prev_word: alkos
+next_word: alkyl
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -38,4 +38,15 @@ definitions:
     example: 'tacit consent : consent by silence, or by not raising an objection'
   - text: Not derived from formal principles of reasoning; based on induction rather
       than deduction.
+prev_word: tachs
+next_word: tacks
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

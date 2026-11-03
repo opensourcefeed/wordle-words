@@ -47,4 +47,15 @@ definitions:
   - text: To cover with, or as if with, felt.
     example: to felt the cylinder of a steam engine
   - text: To cause a player to lose all their chips.
+prev_word: felon
+next_word: felty
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

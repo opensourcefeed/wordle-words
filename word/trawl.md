@@ -43,4 +43,15 @@ definitions:
   - text: To take (fish or other marine animals) with a trawl.
   - text: To fish from a slow-moving boat.
   - text: To make an exhaustive search for something within a defined area.
+prev_word: trave
+next_word: trayf
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/wl/"
+  label: Ending in WL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

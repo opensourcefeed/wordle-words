@@ -49,4 +49,15 @@ definitions:
   - text: Of necessity; necessarily; indispensably; used with an auxiliary verb (often
       must), and equivalent to "of need".
     example: One must needs run when the devil drives.
+prev_word: neebs
+next_word: needy
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

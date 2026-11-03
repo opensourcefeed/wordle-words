@@ -77,4 +77,15 @@ definitions:
   - text: Synthesis as opposed to analysis.
   - text: The arrangement and flow of elements in a picture.
   - text: Way to combine simple objects or data types into more complex ones.
+prev_word: commy
+next_word: comps
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/po/"
+  label: Ending in PO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

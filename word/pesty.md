@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _ESTY
   count: 7
+prev_word: pests
+next_word: petal
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

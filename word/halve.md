@@ -45,4 +45,15 @@ definitions:
       at the joining place, and fitting together.
   - text: In match play, to achieve a tie or draw on.
     example: to halve a hole or a match
+prev_word: halva
+next_word: halwa
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

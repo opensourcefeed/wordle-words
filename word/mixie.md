@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: Mixer; food processor
+prev_word: mixes
+next_word: mixis
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

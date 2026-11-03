@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: An ointment, cream, or balm with soothing, healing, or calming effects.
   - text: Any remedy or action that soothes or heals.
+prev_word: salut
+next_word: salvo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(Australian Aboriginal) A woman, especially an Aboriginal woman."
+prev_word: yores
+next_word: yorks
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -26,4 +26,15 @@ neighbours:
 - hushy
 - mashy
 - washy
+prev_word: harts
+next_word: hasks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

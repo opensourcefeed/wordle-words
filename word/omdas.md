@@ -25,4 +25,15 @@ neighbours:
 - omdah
 anagrams:
 - mados
+prev_word: omdah
+next_word: omdda
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/om/"
+  label: Starting with OM
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

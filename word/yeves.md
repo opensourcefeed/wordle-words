@@ -29,4 +29,15 @@ neighbours:
 - yeses
 - yeven
 - yexes
+prev_word: yeven
+next_word: yewen
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

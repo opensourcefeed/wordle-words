@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 27
 neighbours:
 - uprun
+prev_word: upper
+next_word: uprun
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/up/"
+  label: Starting with UP
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

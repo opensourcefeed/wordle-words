@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(Islamic mythology) a kind of djinn mentioned in the Qur'an."
+prev_word: afret
+next_word: afros
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

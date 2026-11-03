@@ -59,4 +59,15 @@ definitions:
     example: The job was too hard for me to do alone.
   - text: Exclusively.
     example: The responsibility is theirs alone.
+prev_word: aloin
+next_word: along
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -42,4 +42,15 @@ definitions:
       or 1.101 liters (dry quart) in the U.S.
   - text: Four successive cards of the same suit.
   - text: A fourth; a quarter; hence, a region of the earth.
+prev_word: quarl
+next_word: quash
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

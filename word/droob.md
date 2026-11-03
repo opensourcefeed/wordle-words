@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: An ineffectual or unattractive person; a dag.
+prev_word: drony
+next_word: droog
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ob/"
+  label: Ending in OB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: Heath or heather.
+prev_word: grift
+next_word: grike
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

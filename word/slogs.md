@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: A long, tedious walk, or session of work.
   - text: An aggressive shot played with little skill.
+prev_word: sloes
+next_word: sloid
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

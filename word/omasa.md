@@ -26,4 +26,15 @@ definitions:
 - pos: noun
   defs:
   - text: The third part of the stomach of a ruminant.
+prev_word: olpes
+next_word: omber
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/om/"
+  label: Starting with OM
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

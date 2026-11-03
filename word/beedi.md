@@ -27,4 +27,15 @@ definitions:
   defs:
   - text: A thin, often flavored, Indian cigarette made of tobacco wrapped in a tendu
       leaf.
+prev_word: beech
+next_word: beefs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/di/"
+  label: Ending in DI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

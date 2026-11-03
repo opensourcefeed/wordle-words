@@ -40,4 +40,15 @@ anagrams:
 - presa
 - rapes
 - reaps
+prev_word: spaed
+next_word: spaes
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

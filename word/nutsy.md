@@ -27,4 +27,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Crazy
+prev_word: nutso
+next_word: nutty
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

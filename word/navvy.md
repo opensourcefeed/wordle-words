@@ -32,4 +32,15 @@ definitions:
 - pos: verb
   defs:
   - text: To carry out physical labor on a civil engineering project.
+prev_word: navew
+next_word: nawab
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

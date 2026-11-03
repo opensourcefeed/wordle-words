@@ -52,4 +52,15 @@ definitions:
     example: He plopped down on the sofa to watch TV.
   - text: To defecate; derived from the "plop" sound made when excrement hits water
       in a toilet.
+prev_word: ploot
+next_word: plore
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

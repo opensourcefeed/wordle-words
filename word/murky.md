@@ -36,4 +36,15 @@ definitions:
   - text: Dark, dim, gloomy.
   - text: Cloudy, indistinct, obscure.
   - text: Dishonest, shady.
+prev_word: murks
+next_word: murls
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

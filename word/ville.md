@@ -30,4 +30,15 @@ neighbours:
 - vilde
 - villi
 - vills
+prev_word: villa
+next_word: villi
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

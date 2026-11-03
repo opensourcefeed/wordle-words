@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 60
 neighbours:
 - nduja
+prev_word: nougs
+next_word: nould
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ja/"
+  label: Ending in JA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

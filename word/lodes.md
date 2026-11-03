@@ -53,4 +53,15 @@ definitions:
   - text: A vein of metallic ore that lies within definite boundaries, or within a
       fissure.
   - text: "(by extension) A rich source of supply."
+prev_word: loden
+next_word: lodge
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

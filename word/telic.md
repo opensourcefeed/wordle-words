@@ -36,4 +36,15 @@ definitions:
   - text: Tending or directed towards a goal or specific end.
   - text: "(grammar) That expresses an end or purpose."
   - text: That expresses the perfective aspect.
+prev_word: telia
+next_word: tells
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -41,4 +41,15 @@ definitions:
   - text: A stick made of rattan, bahi, yantok, yakal or kamagong, used in Philippine
       stick fighting.
   - text: Traditional Philippine stick fighting, a martial art.
+prev_word: arnas
+next_word: arnut
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

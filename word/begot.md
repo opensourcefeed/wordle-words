@@ -36,4 +36,15 @@ definitions:
   - text: To cause; to produce.
   - text: To bring forth.
   - text: To happen to; befall.
+prev_word: begob
+next_word: begum
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

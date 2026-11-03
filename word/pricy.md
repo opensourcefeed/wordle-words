@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Expensive, dear.
+prev_word: prick
+next_word: pride
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To scrape or scratch.
+prev_word: scows
+next_word: scrae
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ab/"
+  label: Ending in AB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

@@ -24,4 +24,15 @@ neighbours:
 - acidy
 anagrams:
 - decay
+prev_word: accra
+next_word: acene
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

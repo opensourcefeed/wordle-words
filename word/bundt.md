@@ -33,4 +33,13 @@ definitions:
 - pos: noun
   defs:
   - text: A baking pan with a hollow, circular, raised area in the middle.
+prev_word: bunds
+next_word: bundu
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

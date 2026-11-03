@@ -27,4 +27,15 @@ neighbours:
 - titup
 anagrams:
 - pitsu
+prev_word: sitka
+next_word: situs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/up/"
+  label: Ending in UP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

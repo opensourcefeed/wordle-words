@@ -30,4 +30,15 @@ neighbours:
 - gowls
 - gowns
 - nowds
+prev_word: gowan
+next_word: gowfs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

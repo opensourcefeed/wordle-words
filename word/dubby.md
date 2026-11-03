@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _UBBY
   count: 10
+prev_word: dubbo
+next_word: ducal
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

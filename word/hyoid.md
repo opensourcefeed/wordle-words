@@ -38,4 +38,15 @@ definitions:
       bone or group of bones supporting the tongue.
     example: '1969: The hyoid bone in her throat flutters as if discharging some subvocal
       rosary. — JG Ballard, The Atrocity Exhibition'
+prev_word: hynde
+next_word: hyped
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -25,4 +25,15 @@ neighbours:
 - dappy
 - vampy
 - yampy
+prev_word: damps
+next_word: dance
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

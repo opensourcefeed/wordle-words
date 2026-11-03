@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: MO_ES
   count: 12
+prev_word: molys
+next_word: momie
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

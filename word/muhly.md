@@ -20,4 +20,15 @@ stats:
   starter_top_percent: 83
 neighbours:
 - murly
+prev_word: mugos
+next_word: muids
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

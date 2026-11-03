@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A dish made from small pieces of meat or fish grilled on a skewer and served
       with a spicy peanut sauce, originating from Indonesia and Malaysia.
+prev_word: sassy
+next_word: satay
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

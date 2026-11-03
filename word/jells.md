@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A jelly or gel
+prev_word: jello
+next_word: jelly
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

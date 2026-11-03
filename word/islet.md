@@ -43,4 +43,13 @@ definitions:
   defs:
   - text: A small island
   - text: An isolated piece of tissue that has a specific function
+prev_word: isles
+next_word: isnae
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

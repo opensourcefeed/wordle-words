@@ -25,4 +25,15 @@ neighbours:
 - triad
 - tried
 - trill
+prev_word: trike
+next_word: trill
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

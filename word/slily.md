@@ -34,4 +34,15 @@ definitions:
 - pos: adverb
   defs:
   - text: In a sly manner, cunningly.
+prev_word: slier
+next_word: slime
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

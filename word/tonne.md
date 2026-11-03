@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: 'A metric unit of mass equal to 1000 kilograms. Symbol: t'
   - text: A score of 100.
+prev_word: tonks
+next_word: tonus
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

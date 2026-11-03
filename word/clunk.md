@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make such a sound
+prev_word: clung
+next_word: clype
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

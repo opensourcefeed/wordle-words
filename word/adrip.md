@@ -28,4 +28,15 @@ anagrams:
 - padri
 - pardi
 - parid
+prev_word: adret
+next_word: adsum
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ip/"
+  label: Ending in IP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A coarse homespun cotton cloth from India.
+prev_word: keyer
+next_word: khads
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/di/"
+  label: Ending in DI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

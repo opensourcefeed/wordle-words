@@ -57,4 +57,15 @@ definitions:
   - text: To make engaged or earnest; to interest; to engage; to excite ardor or zeal
       in; to enliven.
   - text: To beat or spank.
+prev_word: warks
+next_word: warns
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

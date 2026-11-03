@@ -27,4 +27,15 @@ neighbours:
 - dicty
 anagrams:
 - ducti
+prev_word: dicts
+next_word: dicty
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/tu/"
+  label: Ending in TU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

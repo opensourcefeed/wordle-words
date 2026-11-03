@@ -26,4 +26,15 @@ neighbours:
 - thorp
 anagrams:
 - ortho
+prev_word: thorn
+next_word: thorp
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

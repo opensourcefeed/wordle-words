@@ -78,4 +78,15 @@ definitions:
   - text: To put something where it belongs.
   - text: "(Rhodesia, in the context of the Rhodesian Bush War) To kill."
   - text: "(Antarctica) To fall, or cause to fall, into a crevasse."
+prev_word: sloth
+next_word: slove
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

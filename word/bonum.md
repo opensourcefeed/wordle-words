@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 81
 neighbours:
 - bonus
+prev_word: bonny
+next_word: bonus
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

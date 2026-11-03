@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: A climbing woody vine, usually tropical.
+prev_word: liana
+next_word: liang
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

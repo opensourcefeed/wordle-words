@@ -33,4 +33,15 @@ anagrams:
 - cates
 - sceat
 - taces
+prev_word: cesse
+next_word: cesti
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

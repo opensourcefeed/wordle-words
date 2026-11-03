@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To publish personal information (of an individual) on the Internet.
+prev_word: doxed
+next_word: doxie
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

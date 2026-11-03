@@ -60,4 +60,15 @@ definitions:
   - text: An inexpensive waterproof covering used especially for floors, made from
       solidified linseed oil over a burlap or canvas backing, or from its modern replacement,
       polyvinyl chloride.
+prev_word: linny
+next_word: lints
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

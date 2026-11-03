@@ -36,4 +36,15 @@ definitions:
   - text: A spur.
   - text: A kind of bandage passing, by successive turns and crosses, from an extremity
       to the trunk; a spiral bandage with reversed turns.
+prev_word: spial
+next_word: spice
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

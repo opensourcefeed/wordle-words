@@ -29,4 +29,15 @@ neighbours:
 - pavin
 - ravin
 - savin
+prev_word: mavie
+next_word: mavis
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

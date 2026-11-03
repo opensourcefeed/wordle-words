@@ -27,4 +27,15 @@ neighbours:
 - downs
 anagrams:
 - adown
+prev_word: dowly
+next_word: downs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

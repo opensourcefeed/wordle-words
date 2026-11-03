@@ -51,4 +51,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(smoking, of a pipe) Empty with nothing left to smoke but ash."
+prev_word: cajun
+next_word: cakes
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

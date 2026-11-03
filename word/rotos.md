@@ -40,4 +40,15 @@ anagrams:
 - roots
 - stoor
 - toros
+prev_word: rotor
+next_word: rotta
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

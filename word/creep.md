@@ -49,4 +49,15 @@ definitions:
   - text: To drag in deep water with creepers, as for recovering a submarine cable.
   - text: To covertly have sex (with a person other than one's primary partner); to
       cheat with.
+prev_word: creel
+next_word: crees
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ep/"
+  label: Ending in EP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

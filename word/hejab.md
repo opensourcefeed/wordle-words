@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 58
 neighbours:
 - hijab
+prev_word: heist
+next_word: hejra
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ab/"
+  label: Ending in AB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

@@ -24,4 +24,13 @@ stats:
   starter_top_percent: 68
 neighbours:
 - vieux
+prev_word: miens
+next_word: mieve
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

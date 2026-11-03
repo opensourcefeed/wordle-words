@@ -28,4 +28,15 @@ neighbours:
 - loden
 - losen
 - lowen
+prev_word: loyal
+next_word: luach
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

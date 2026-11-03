@@ -31,4 +31,15 @@ definitions:
 - pos: verb
   defs:
   - text: To serve as or perform the duties of a butler.
+prev_word: butes
+next_word: butoh
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

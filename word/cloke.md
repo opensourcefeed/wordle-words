@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: CLO_E
   count: 7
+prev_word: clogs
+next_word: clomb
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

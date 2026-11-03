@@ -47,4 +47,15 @@ definitions:
     example: She was accused of trying to bribe the jury into making false statements.
   - text: To gain by a bribe; to induce as by a bribe.
     example: to bribe somebody's compliance
+prev_word: briar
+next_word: brick
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

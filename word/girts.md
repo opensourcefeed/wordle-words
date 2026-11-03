@@ -55,4 +55,15 @@ definitions:
 - pos: verb
   defs:
   - text: To capsize because of forces in the cable attaching it to another vessel.
+prev_word: girth
+next_word: gismo
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

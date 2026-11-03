@@ -34,4 +34,15 @@ definitions:
       Kali and offered their victims to her.
   - text: In gardening, an over-vigorous plant that spreads and dominates the flowerbed.
   - text: A punk; a hoodlum; a hooligan.
+prev_word: thuds
+next_word: thuja
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

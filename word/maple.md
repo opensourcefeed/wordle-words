@@ -40,4 +40,15 @@ definitions:
   - text: A tree of the Acer genus, characterised by its usually palmate leaves and
       winged seeds.
   - text: The wood of such a tree, prized for its hardness and attractive appearance
+prev_word: mapes
+next_word: mapou
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _UCKS
   count: 13
+prev_word: gubba
+next_word: gucky
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

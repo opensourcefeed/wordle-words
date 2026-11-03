@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _USHY
   count: 9
+prev_word: hurty
+next_word: husks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

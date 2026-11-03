@@ -21,4 +21,13 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 23
+prev_word: cundy
+next_word: cunit
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

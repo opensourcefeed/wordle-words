@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A navel that protrudes from the abdomen.
+prev_word: outgo
+next_word: outre
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

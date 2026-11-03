@@ -35,4 +35,15 @@ definitions:
   - text: Of or pertaining to trivalent gold.
   - text: Of, or pertaining to the ear; aural
   - text: Pertaining to an aura.
+prev_word: aures
+next_word: auris
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

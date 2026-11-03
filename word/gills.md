@@ -80,4 +80,15 @@ definitions:
 - pos: verb
   defs:
   - text: To act as a prostitute.
+prev_word: gilia
+next_word: gilly
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

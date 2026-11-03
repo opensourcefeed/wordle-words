@@ -84,4 +84,15 @@ definitions:
   - text: Ship's bells; the strokes on a ship's bell, every half hour, to mark the
       passage of time.
   - text: Short for bell-bottoms.
+prev_word: bello
+next_word: belly
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

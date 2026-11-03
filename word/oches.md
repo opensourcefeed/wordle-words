@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A line behind which a player's front foot must be placed when throwing a
       dart.
+prev_word: ocher
+next_word: ochre
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

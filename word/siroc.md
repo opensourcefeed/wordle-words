@@ -24,4 +24,13 @@ stats:
 anagrams:
 - coirs
 - crios
+prev_word: siris
+next_word: sirra
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

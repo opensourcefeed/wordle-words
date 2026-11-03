@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: A kind of unleavened flatbread commonly consumed in South Asia and the Caribbean.
     example: Nepalis eat sweet fried rice-flour doughnuts called sel roti.
+prev_word: rotes
+next_word: rotls
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

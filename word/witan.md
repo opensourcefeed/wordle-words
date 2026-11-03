@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: The Anglo-Saxon national council or witenagemot.
+prev_word: wists
+next_word: witch
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

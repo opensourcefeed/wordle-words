@@ -54,4 +54,15 @@ definitions:
       (sometimes with a cover).
     example: The milkmaid carried a pail of milk in each hand.
   - text: "(In technical use) A closed (covered) cylindrical shipping container."
+prev_word: paiks
+next_word: pains
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

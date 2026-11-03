@@ -31,4 +31,15 @@ anagrams:
 - rabis
 - ribas
 - sabir
+prev_word: abrin
+next_word: absey
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

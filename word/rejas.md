@@ -28,4 +28,15 @@ neighbours:
 - repas
 anagrams:
 - rajes
+prev_word: reive
+next_word: rejig
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

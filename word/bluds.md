@@ -28,4 +28,15 @@ neighbours:
 - blues
 - blurs
 - pluds
+prev_word: blude
+next_word: bludy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

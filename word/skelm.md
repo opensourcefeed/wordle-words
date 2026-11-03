@@ -24,4 +24,15 @@ neighbours:
 - skell
 - skelp
 - skerm
+prev_word: skell
+next_word: skelp
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/lm/"
+  label: Ending in LM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

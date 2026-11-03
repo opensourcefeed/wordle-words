@@ -49,4 +49,15 @@ definitions:
 - pos: verb
   defs:
   - text: To provide something with a berm
+prev_word: berme
+next_word: berob
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

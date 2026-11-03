@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To talk, particularly informally but persistently; to chatter or prattle.
   - text: To vomit, usually as a result of excessive alcohol consumption.
+prev_word: yacka
+next_word: yadda
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

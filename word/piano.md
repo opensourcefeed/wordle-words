@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: Soft, quiet
   - text: In extended use; quiet, subdued
+prev_word: piani
+next_word: pians
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

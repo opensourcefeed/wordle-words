@@ -31,4 +31,15 @@ neighbours:
 - treck
 - troak
 - tronk
+prev_word: troat
+next_word: trode
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

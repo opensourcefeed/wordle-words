@@ -24,4 +24,15 @@ neighbours:
 - kynde
 anagrams:
 - tyned
+prev_word: tymps
+next_word: tyned
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

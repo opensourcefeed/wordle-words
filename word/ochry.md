@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 50
 neighbours:
 - ochre
+prev_word: ochre
+next_word: ocker
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

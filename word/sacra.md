@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A large triangular bone at the base of the spine, located between the two
       ilia (wings of the pelvis) and formed from vertebrae that fuse in adulthood.
+prev_word: sacks
+next_word: sacre
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

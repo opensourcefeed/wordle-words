@@ -42,4 +42,15 @@ definitions:
   - text: To traverse (a body of water) by kayak.
     example: On a dare, he kayaked the Harlem River in New York from Hell's Gate to
       Spyten Duyvil.
+prev_word: kawed
+next_word: kayle
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

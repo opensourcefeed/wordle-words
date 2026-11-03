@@ -41,4 +41,15 @@ definitions:
       that passed through metal brackets on the sides of the chair.
   - text: An automobile designed in a configuration with separate compartments for
       engine space, driver/passenger space and luggage space.
+prev_word: sects
+next_word: seder
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -28,4 +28,15 @@ anagrams:
 - vails
 - valis
 - vials
+prev_word: silty
+next_word: simar
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/va/"
+  label: Ending in VA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

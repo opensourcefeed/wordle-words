@@ -56,4 +56,15 @@ definitions:
   - text: To insert or utilise spaces in a written text.
   - text: To eject into outer space, usually without a space suit.
   - text: To travel into and through outer space.
+prev_word: sozin
+next_word: spack
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

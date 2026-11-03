@@ -37,4 +37,15 @@ neighbours:
 anagrams:
 - aglus
 - gusla
+prev_word: gular
+next_word: gulch
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

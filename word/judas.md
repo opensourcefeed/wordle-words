@@ -33,4 +33,15 @@ definitions:
   - text: A traitor; a person not to be trusted.
   - text: A small hole in a door through which a person can spy without being seen
       from the other side, used especially in prisons; a Judas-hole.
+prev_word: jucos
+next_word: judge
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

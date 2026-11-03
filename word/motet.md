@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: A composition adapted to sacred words in the elaborate polyphonic church
       style; an anthem.
+prev_word: motes
+next_word: motey
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

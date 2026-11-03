@@ -37,4 +37,11 @@ definitions:
   defs:
   - text: To make a paper copy or copies by means of a photocopier.
     example: I xeroxed the report for all the people at the meeting.
+prev_word: xeric
+next_word: xerus
+hubs:
+- url: "/starting-with/x/"
+  label: Starting with X
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

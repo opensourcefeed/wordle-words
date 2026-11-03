@@ -88,4 +88,15 @@ definitions:
 - pos: noun
   defs:
   - text: A suitcase or schoolbag.
+prev_word: porth
+next_word: porty
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

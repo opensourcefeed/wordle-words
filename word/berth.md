@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To bring (a ship or vehicle) into its berth
+prev_word: berry
+next_word: beryl
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

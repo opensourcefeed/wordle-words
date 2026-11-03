@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: The common daisy.
   - text: Decomposed granite.
+prev_word: goves
+next_word: gowds
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

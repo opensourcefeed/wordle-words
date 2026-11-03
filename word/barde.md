@@ -37,4 +37,15 @@ anagrams:
 - debar
 - ardeb
 - bared
+prev_word: barca
+next_word: bardo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

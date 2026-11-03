@@ -27,4 +27,15 @@ neighbours:
 - fakie
 - jaxie
 - makie
+prev_word: jakey
+next_word: jalap
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

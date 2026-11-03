@@ -35,4 +35,15 @@ definitions:
       on which each axis terminates with a flower which blooms before the flowers
       below it. Contrast raceme.
   - text: "= cyma"
+prev_word: cymas
+next_word: cymol
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cy/"
+  label: Starting with CY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

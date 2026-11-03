@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: One of the chief divisions of a long poem; a book.
   - text: The treble or leading melody.
+prev_word: canti
+next_word: cants
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

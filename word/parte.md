@@ -49,4 +49,15 @@ anagrams:
 trap:
   pattern: PAR_E
   count: 6
+prev_word: parse
+next_word: parti
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

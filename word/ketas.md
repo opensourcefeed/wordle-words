@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ETAS
   count: 8
+prev_word: kests
+next_word: ketch
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

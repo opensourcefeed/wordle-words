@@ -57,4 +57,15 @@ definitions:
 - pos: verb
   defs:
   - text: To call a discarded tile to produce a chow.
+prev_word: chowk
+next_word: chubs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

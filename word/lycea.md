@@ -26,4 +26,15 @@ neighbours:
 - lycra
 anagrams:
 - lacey
+prev_word: lyase
+next_word: lycee
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

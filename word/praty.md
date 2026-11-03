@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - party
 - yrapt
+prev_word: pratt
+next_word: praus
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

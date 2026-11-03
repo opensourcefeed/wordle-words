@@ -46,4 +46,15 @@ definitions:
   - text: Barmy, crazy, mad.
     example: Your wife is as nutty as a fruitcake.
   - text: Extravagantly fashionable
+prev_word: nutsy
+next_word: nyaff
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

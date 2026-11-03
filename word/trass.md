@@ -49,4 +49,15 @@ definitions:
       used as a cement.
   - text: A coarse sort of plaster or mortar, durable in water, and used to line cisterns
       and other reservoirs of water.
+prev_word: trash
+next_word: trats
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

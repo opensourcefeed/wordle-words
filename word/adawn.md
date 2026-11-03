@@ -22,4 +22,15 @@ stats:
 neighbours:
 - adaws
 - adown
+prev_word: adats
+next_word: adaws
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

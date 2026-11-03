@@ -45,4 +45,15 @@ anagrams:
 trap:
   pattern: _ARES
   count: 14
+prev_word: garde
+next_word: garis
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

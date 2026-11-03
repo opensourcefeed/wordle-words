@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _IRTH
   count: 7
+prev_word: tirrs
+next_word: titan
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

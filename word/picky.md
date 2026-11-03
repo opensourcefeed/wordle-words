@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: Fussy; particular; demanding to have things just right.
     example: I am very picky about the way my kitchen is laid out.
+prev_word: picks
+next_word: picon
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

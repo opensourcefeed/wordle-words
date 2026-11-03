@@ -33,4 +33,15 @@ definitions:
   - text: A traditional formal way of sitting in Japan, by kneeling with the legs
       folded underneath the thighs and the buttocks resting on the heels, with ankles
       turned outward.
+prev_word: seity
+next_word: seize
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

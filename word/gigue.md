@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: An Irish dance, derived from the jig, used in the Partita form (Baroque
       Period).
+prev_word: gigot
+next_word: gilas
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -29,4 +29,15 @@ anagrams:
 - cotes
 - estoc
 - scote
+prev_word: escar
+next_word: esile
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/es/"
+  label: Starting with ES
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

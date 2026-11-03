@@ -44,4 +44,15 @@ definitions:
   - text: Secret, hidden, concealed.
   - text: With knowledge of; party to; let in on.
     example: He was privy to the discussions.
+prev_word: prius
+next_word: prize
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -29,4 +29,13 @@ neighbours:
 - retax
 anagrams:
 - oxter
+prev_word: retip
+next_word: retro
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

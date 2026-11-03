@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: MAZE_
   count: 6
+prev_word: mazed
+next_word: mazer
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -31,4 +31,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Relating to bees.
+prev_word: aphis
+next_word: aping
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

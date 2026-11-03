@@ -27,4 +27,15 @@ neighbours:
 - ubacs
 anagrams:
 - cabas
+prev_word: aback
+next_word: abaft
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

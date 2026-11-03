@@ -36,4 +36,15 @@ definitions:
       in a container of unfiltered wine."
   - text: "(the dregs) The worst and lowest part of something."
     example: the dregs of society
+prev_word: drees
+next_word: dreks
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

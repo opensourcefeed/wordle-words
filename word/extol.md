@@ -32,4 +32,15 @@ definitions:
 - pos: verb
   defs:
   - text: To praise; to make high.
+prev_word: expos
+next_word: extra
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

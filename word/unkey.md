@@ -22,4 +22,15 @@ stats:
 neighbours:
 - unked
 - unket
+prev_word: unket
+next_word: unkid
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

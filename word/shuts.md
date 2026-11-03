@@ -64,4 +64,15 @@ definitions:
   defs:
   - text: A narrow alley or passage acting as a short cut through the buildings between
       two streets.
+prev_word: shute
+next_word: shwas
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

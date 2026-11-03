@@ -71,4 +71,15 @@ definitions:
   defs:
   - text: A group of singers or musicians performing in the streets, especially around
       Christmas.
+prev_word: waite
+next_word: waive
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

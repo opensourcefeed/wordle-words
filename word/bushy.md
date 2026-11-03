@@ -41,4 +41,15 @@ definitions:
     example: the bushy tail of a squirrel
   - text: Growing thickly.
   - text: "(Racial slur) Derogatory word used to refer to Afro-textured Hair."
+prev_word: buses
+next_word: busks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

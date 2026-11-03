@@ -31,4 +31,15 @@ definitions:
       including R-12, R-22, and R-23.
   - text: "(refrigeration) A gaseous ozone-depleting refrigerant"
   - text: "(environmentalism) A chlorofluorocarbon"
+prev_word: frena
+next_word: frere
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

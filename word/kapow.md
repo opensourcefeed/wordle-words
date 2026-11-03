@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 77
 neighbours:
 - kapok
+prev_word: kapok
+next_word: kappa
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

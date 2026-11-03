@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _UKED
   count: 6
+prev_word: dukas
+next_word: dukes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - genre
 - green
+prev_word: germy
+next_word: gesse
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

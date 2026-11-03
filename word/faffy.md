@@ -26,4 +26,15 @@ neighbours:
 - faffs
 - fuffy
 - raffy
+prev_word: faffs
+next_word: fagin
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

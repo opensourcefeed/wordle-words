@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: SI_ES
   count: 11
+prev_word: sisal
+next_word: sissy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

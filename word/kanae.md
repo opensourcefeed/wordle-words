@@ -25,4 +25,15 @@ neighbours:
 - kanal
 - kanas
 - kanat
+prev_word: kamme
+next_word: kanal
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -45,4 +45,15 @@ definitions:
     example: the brink of a river
   - text: The edge or border
     example: He's on the brink of madness.
+prev_word: bring
+next_word: brins
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

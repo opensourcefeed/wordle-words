@@ -48,4 +48,15 @@ definitions:
     example: A typed variable can only store one kind of data.
   - text: "(of a programming language) In which variables are typed."
     example: Scheme is a typed language.
+prev_word: typal
+next_word: types
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

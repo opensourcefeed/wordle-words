@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _AVED
   count: 8
+prev_word: eatin
+next_word: eaver
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

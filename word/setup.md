@@ -49,4 +49,15 @@ definitions:
       shore of a body of water and lower at the upwind shore.
     example: There was a strong wind setup at the south end of the lake after a day
       of northerly gales.
+prev_word: setts
+next_word: sevak
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/up/"
+  label: Ending in UP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

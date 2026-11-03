@@ -24,4 +24,15 @@ neighbours:
 - ledgy
 - sedgy
 - wedgy
+prev_word: kedge
+next_word: keech
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

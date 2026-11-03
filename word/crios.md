@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: CRI_S
   count: 9
+prev_word: crins
+next_word: cripe
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

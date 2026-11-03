@@ -45,4 +45,15 @@ anagrams:
 trap:
   pattern: _INGE
   count: 10
+prev_word: rines
+next_word: rings
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

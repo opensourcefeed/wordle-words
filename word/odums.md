@@ -23,4 +23,15 @@ stats:
 anagrams:
 - doums
 - modus
+prev_word: odour
+next_word: odyle
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/od/"
+  label: Starting with OD
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

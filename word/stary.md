@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: STAR_
   count: 7
+prev_word: start
+next_word: stash
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

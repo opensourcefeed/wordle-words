@@ -50,4 +50,15 @@ definitions:
 - pos: verb
   defs:
   - text: To braid or knot hair.
+prev_word: trend
+next_word: trest
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

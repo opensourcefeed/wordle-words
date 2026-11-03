@@ -32,4 +32,15 @@ neighbours:
 - hulas
 - kulas
 - pulas
+prev_word: augur
+next_word: aulic
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -49,4 +49,15 @@ definitions:
       and interest.
   - text: "(of an image, video, piece of information, etc.) circulated rapidly and
       widely from one Internet user to another."
+prev_word: viper
+next_word: vired
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -85,4 +85,15 @@ definitions:
       or green food cut for them, instead of sending them out to pasture; hence (such
       food having the effect of purging them), to purge by feeding on green food.
     example: to soil a horse
+prev_word: sohur
+next_word: soily
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

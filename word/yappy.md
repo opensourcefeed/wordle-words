@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: Of a dog, yapping in an annoying manner.
   - text: Very talkative; talking foolishly or at length.
+prev_word: yapps
+next_word: yarak
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

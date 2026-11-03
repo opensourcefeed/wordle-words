@@ -21,4 +21,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 84
+prev_word: ofter
+next_word: ogams
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

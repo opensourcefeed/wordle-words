@@ -28,4 +28,15 @@ neighbours:
 - glens
 - gleys
 - vleis
+prev_word: gleet
+next_word: glens
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

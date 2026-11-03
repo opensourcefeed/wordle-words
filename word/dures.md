@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _URES
   count: 8
+prev_word: dured
+next_word: durgy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

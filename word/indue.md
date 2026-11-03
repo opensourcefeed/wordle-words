@@ -36,4 +36,15 @@ definitions:
   - text: To take on, to take the form of.
   - text: To put on (a piece of clothing); to clothe (someone with something).
   - text: To invest (someone) with a given quality, property etc.; to endow.
+prev_word: indri
+next_word: inept
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

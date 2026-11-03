@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: The sixth defensive position, with the sword hand held at chest height,
       and the tip of the sword at eye level.
+prev_word: sixmo
+next_word: sixth
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -38,4 +38,15 @@ definitions:
   - text: To escape; to slip away; — sometimes with from.
   - text: To attempt to escape; to practice artifice or sophistry, for the purpose
       of eluding.
+prev_word: eusol
+next_word: evegs
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ev/"
+  label: Starting with EV
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

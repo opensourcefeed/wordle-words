@@ -24,4 +24,15 @@ neighbours:
 - sylph
 anagrams:
 - plush
+prev_word: sully
+next_word: sulus
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ph/"
+  label: Ending in PH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

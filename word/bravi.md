@@ -26,4 +26,13 @@ neighbours:
 - bravo
 - braai
 - brava
+prev_word: brave
+next_word: bravo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

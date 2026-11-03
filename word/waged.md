@@ -50,4 +50,15 @@ definitions:
   - text: To conduct or carry out (a war or other contest).
   - text: To adventure, or lay out, for hire or reward; to hire out.
   - text: To give security for the performance of.
+prev_word: wafts
+next_word: wager
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

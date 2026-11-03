@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Any of various parts of the Agave (or similar) plants, when used as soap
   - text: Other Mexican and North American plants used as soap
+prev_word: amoks
+next_word: among
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

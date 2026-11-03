@@ -40,4 +40,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Like a tart (promiscuous woman); slutty, whorish.
+prev_word: tarts
+next_word: tarzy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

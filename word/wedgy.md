@@ -25,4 +25,15 @@ neighbours:
 - ledgy
 - sedgy
 - wodgy
+prev_word: wedge
+next_word: weeds
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

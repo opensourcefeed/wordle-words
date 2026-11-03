@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - heils
 - shiel
+prev_word: leirs
+next_word: leman
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

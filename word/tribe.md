@@ -55,4 +55,15 @@ definitions:
 - pos: verb
   defs:
   - text: To distribute into tribes or classes; to categorize.
+prev_word: trial
+next_word: trice
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

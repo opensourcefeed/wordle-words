@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: A hub of a wheel.
   - text: The navel.
+prev_word: navel
+next_word: navew
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

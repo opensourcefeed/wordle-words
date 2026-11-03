@@ -30,4 +30,15 @@ neighbours:
 - iambs
 - jambs
 - lambs
+prev_word: gambo
+next_word: gamed
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

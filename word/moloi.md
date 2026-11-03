@@ -27,4 +27,15 @@ neighbours:
 - molvi
 anagrams:
 - mooli
+prev_word: molly
+next_word: molos
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/oi/"
+  label: Ending in OI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

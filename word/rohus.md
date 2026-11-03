@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - hours
 - sohur
+prev_word: rohun
+next_word: roids
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

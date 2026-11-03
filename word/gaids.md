@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _AIDS
   count: 10
+prev_word: gages
+next_word: gaily
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

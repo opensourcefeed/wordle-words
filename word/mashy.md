@@ -28,4 +28,15 @@ neighbours:
 - masty
 - meshy
 - washy
+prev_word: masha
+next_word: masks
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

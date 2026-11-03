@@ -29,4 +29,15 @@ neighbours:
 - jambs
 - jambu
 - zambo
+prev_word: jambe
+next_word: jambs
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

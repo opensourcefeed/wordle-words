@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A canal on the central plain of Thailand.
+prev_word: kliks
+next_word: kloof
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kl/"
+  label: Starting with KL
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

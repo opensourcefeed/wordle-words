@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A South American canid of the genus Lycalopex, visually similar to (and
       sometimes referred to as) a fox but more closely related to a wolf.
+prev_word: zoris
+next_word: zorse
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

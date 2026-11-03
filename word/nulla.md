@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A stream-bed, ravine, or other watercourse; a drain for rain or floodwater.
+prev_word: nukes
+next_word: nullo
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

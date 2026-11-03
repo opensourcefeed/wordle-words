@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _EIST
   count: 6
+prev_word: feint
+next_word: felid
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

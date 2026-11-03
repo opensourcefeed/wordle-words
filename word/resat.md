@@ -48,4 +48,15 @@ definitions:
 - pos: verb
   defs:
   - text: To take an examination a second time.
+prev_word: resam
+next_word: resaw
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

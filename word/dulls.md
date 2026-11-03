@@ -48,4 +48,15 @@ definitions:
   - text: To lose a sharp edge; to become dull.
     example: A razor will dull with use.
   - text: To render dim or obscure; to sully; to tarnish.
+prev_word: dulia
+next_word: dully
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

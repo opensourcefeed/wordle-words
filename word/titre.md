@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To determine a titre, especially by titration
+prev_word: title
+next_word: titty
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

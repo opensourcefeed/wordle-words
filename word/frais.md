@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: FRA_S
   count: 8
+prev_word: fraim
+next_word: frame
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -39,4 +39,15 @@ definitions:
   - text: A garment worn over the torso, with or without sleeves, and of various lengths
       reaching from the hips to the ankles.
   - text: Any covering, such as seed coat or the organ that covers a membrane.
+prev_word: tungs
+next_word: tunny
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

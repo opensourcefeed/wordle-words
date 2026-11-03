@@ -26,4 +26,15 @@ neighbours:
 - signs
 anagrams:
 - gains
+prev_word: sigma
+next_word: signs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

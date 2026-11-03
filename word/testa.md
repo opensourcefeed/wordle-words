@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: A seed coat.
   - text: The external calciferous shell, or endoskeleton, of an echinoderm; the test.
+prev_word: tesla
+next_word: teste
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

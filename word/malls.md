@@ -50,4 +50,15 @@ definitions:
   - text: A heavy wooden mallet or hammer used in the game of pall mall.
   - text: The game of polo.
   - text: An old game played with malls or mallets and balls; pall mall.
+prev_word: malky
+next_word: malms
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

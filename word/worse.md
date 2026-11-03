@@ -123,4 +123,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make worse; to put at disadvantage; to discomfit.
+prev_word: worry
+next_word: worst
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

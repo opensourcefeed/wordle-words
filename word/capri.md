@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - carpi
 - picra
+prev_word: capot
+next_word: capul
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

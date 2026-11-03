@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ERKS
   count: 8
+prev_word: merit
+next_word: merle
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

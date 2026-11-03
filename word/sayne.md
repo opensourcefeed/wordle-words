@@ -27,4 +27,15 @@ neighbours:
 - sayee
 anagrams:
 - yeans
+prev_word: sayid
+next_word: sayon
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

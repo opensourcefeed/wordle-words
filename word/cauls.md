@@ -55,4 +55,15 @@ definitions:
       a removable plate or sheet.
   - text: A strip or block of wood used to distribute or direct clamping force.
   - text: Caul fat.
+prev_word: caulk
+next_word: caums
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

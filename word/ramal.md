@@ -31,4 +31,15 @@ anagrams:
 - alarm
 - malar
 - maral
+prev_word: ralph
+next_word: ramee
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

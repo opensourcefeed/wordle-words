@@ -59,4 +59,15 @@ definitions:
   - text: To have or produce frequent evacuations from the intestines, as by means
       of a cathartic.
   - text: To trim, dress or prune.
+prev_word: purga
+next_word: purin
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

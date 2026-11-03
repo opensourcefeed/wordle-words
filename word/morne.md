@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - enorm
 - moner
+prev_word: morna
+next_word: morns
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

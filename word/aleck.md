@@ -29,4 +29,15 @@ neighbours:
 - alick
 - cleck
 - pleck
+prev_word: aleak
+next_word: alecs
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -48,4 +48,15 @@ definitions:
 - pos: verb
   defs:
   - text: To insert a stent or tube into a blood vessel.
+prev_word: stens
+next_word: steps
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

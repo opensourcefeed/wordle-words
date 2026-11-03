@@ -86,4 +86,15 @@ definitions:
   defs:
   - text: "(place names) A goat."
     example: Tickenhall Drive
+prev_word: tichy
+next_word: ticky
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

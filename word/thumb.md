@@ -53,4 +53,15 @@ definitions:
       or open the cylinder of a revolver.
   - text: To fire (a single action revolver) quickly by pulling the hammer while keeping
       the trigger depressed.
+prev_word: thuja
+next_word: thump
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/mb/"
+  label: Ending in MB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

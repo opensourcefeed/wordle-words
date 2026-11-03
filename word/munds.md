@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _UNDS
   count: 6
+prev_word: munch
+next_word: mundu
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

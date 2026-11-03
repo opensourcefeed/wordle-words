@@ -27,4 +27,15 @@ neighbours:
 - washy
 anagrams:
 - shady
+prev_word: dashi
+next_word: datal
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -37,4 +37,15 @@ definitions:
   - text: Newly made, formed or evolved; having no precedent; of recent origin; new.
   - text: Original, especially in an interesting way; new and striking; not of the
       typical or ordinary type.
+prev_word: novas
+next_word: novia
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

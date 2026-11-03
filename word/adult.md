@@ -50,4 +50,15 @@ definitions:
       pornography.
     example: This program contains adult content. Parental discretion is advised.
   - text: Vulgar or profane.
+prev_word: aduki
+next_word: adunc
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

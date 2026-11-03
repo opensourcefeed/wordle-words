@@ -47,4 +47,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Pied, mottled.
+prev_word: pinta
+next_word: pints
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

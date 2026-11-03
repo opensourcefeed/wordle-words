@@ -22,4 +22,15 @@ stats:
   rare: []
   starter_tier: Good
   starter_top_percent: 4
+prev_word: artsy
+next_word: arums
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

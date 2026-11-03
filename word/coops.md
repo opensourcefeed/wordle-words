@@ -72,4 +72,15 @@ definitions:
 - pos: noun
   defs:
   - text: A small heap.
+prev_word: coomy
+next_word: coopt
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

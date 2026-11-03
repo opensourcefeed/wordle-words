@@ -118,4 +118,15 @@ definitions:
   - text: A kind of table used by printers.
   - text: A bench, or row of keys belonging to a keyboard, as in an organ.
   - text: Slang for money
+prev_word: banjo
+next_word: banky
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -28,4 +28,15 @@ neighbours:
 - reked
 - roked
 - rykes
+prev_word: ryijy
+next_word: rykes
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ry/"
+  label: Starting with RY
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

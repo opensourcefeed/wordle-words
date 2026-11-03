@@ -26,4 +26,15 @@ neighbours:
 - kippa
 - poppa
 - zoppa
+prev_word: kopje
+next_word: korai
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

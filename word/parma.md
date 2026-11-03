@@ -30,4 +30,15 @@ neighbours:
 - parra
 anagrams:
 - praam
+prev_word: parly
+next_word: parmo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

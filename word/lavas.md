@@ -46,4 +46,15 @@ definitions:
   - text: The molten rock ejected by a volcano from its crater or fissured sides.
   - text: Magma.
   - text: A shade of red, named after the volcanic lava.
+prev_word: laval
+next_word: laved
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

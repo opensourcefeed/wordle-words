@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _ANED
   count: 10
+prev_word: maneb
+next_word: maneh
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

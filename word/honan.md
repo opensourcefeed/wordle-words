@@ -24,4 +24,15 @@ stats:
 neighbours:
 - hogan
 - nonan
+prev_word: homme
+next_word: honda
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

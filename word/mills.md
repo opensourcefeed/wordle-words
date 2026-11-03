@@ -110,4 +110,15 @@ definitions:
   defs:
   - text: "(trading card games) To move (a card) from a deck to the discard pile."
   - text: "(Hearthstone) To destroy (a card) due to having a full hand."
+prev_word: mille
+next_word: milly
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

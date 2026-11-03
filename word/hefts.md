@@ -57,4 +57,15 @@ definitions:
   defs:
   - text: A number of sheets of paper fastened together, as for a notebook.
   - text: A part of a serial publication.
+prev_word: hefte
+next_word: hefty
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

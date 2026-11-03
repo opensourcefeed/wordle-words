@@ -40,4 +40,15 @@ definitions:
   - text: One of a collection of 36 small constellations or zodiacal subdivisions
       that appear heliacally at intervals of 10 days or are separated by approximately
       10 degrees.
+prev_word: decal
+next_word: decay
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

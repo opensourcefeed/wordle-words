@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To flow, spurt
+prev_word: prigs
+next_word: prima
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

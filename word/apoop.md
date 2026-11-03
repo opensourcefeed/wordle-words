@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 93
 anagrams:
 - poopa
+prev_word: apols
+next_word: aport
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

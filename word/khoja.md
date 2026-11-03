@@ -21,4 +21,15 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 84
+prev_word: khirs
+next_word: khors
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/ja/"
+  label: Ending in JA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

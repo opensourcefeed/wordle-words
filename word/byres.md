@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A barn, especially one used for keeping cattle in.
+prev_word: bylaw
+next_word: byrls
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/by/"
+  label: Starting with BY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 21
 neighbours:
 - pelas
+prev_word: peaze
+next_word: pecan
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

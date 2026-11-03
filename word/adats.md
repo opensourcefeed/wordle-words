@@ -27,4 +27,15 @@ neighbours:
 - adits
 - advts
 - adyts
+prev_word: adapt
+next_word: adawn
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

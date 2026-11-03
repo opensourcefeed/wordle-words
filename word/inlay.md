@@ -43,4 +43,15 @@ definitions:
   - text: To place (pieces of a foreign material) within another material to form
       a decorative design.
   - text: To place an inlay in a tooth.
+prev_word: inkle
+next_word: inlet
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

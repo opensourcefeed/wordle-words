@@ -27,4 +27,15 @@ neighbours:
 - putin
 anagrams:
 - unrip
+prev_word: purge
+next_word: puris
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

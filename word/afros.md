@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A hairstyle characterized by a tightly curled locks and a rounded shape.
+prev_word: afrit
+next_word: after
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

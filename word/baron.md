@@ -49,4 +49,15 @@ definitions:
   - text: A husband.
     example: 'baron and feme: husband and wife'
   - text: Any of various nymphalid butterflies of the genus Euthalia.
+prev_word: barny
+next_word: barps
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

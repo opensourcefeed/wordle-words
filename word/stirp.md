@@ -29,4 +29,15 @@ anagrams:
 - spirt
 - sprit
 - trips
+prev_word: stirk
+next_word: stirs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/rp/"
+  label: Ending in RP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -54,4 +54,15 @@ definitions:
   - text: To sweep with a broom.
   - text: "(roofing) To improve the embedding of a membrane by using a broom or squeegee
       to smooth it out and ensure contact with the adhesive under the membrane."
+prev_word: brool
+next_word: broos
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

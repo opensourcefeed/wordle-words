@@ -43,4 +43,15 @@ definitions:
   - text: Situated on higher ground, further inland, or more northerly.
   - text: "(of strata or geological time periods) younger, more recent"
   - text: Of or pertaining to a secondary school.
+prev_word: upped
+next_word: upran
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/up/"
+  label: Starting with UP
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

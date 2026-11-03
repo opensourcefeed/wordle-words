@@ -26,4 +26,15 @@ neighbours:
 - milch
 - pilch
 - zilch
+prev_word: hilar
+next_word: hillo
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

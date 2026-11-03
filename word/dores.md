@@ -48,4 +48,15 @@ anagrams:
 trap:
   pattern: _ORES
   count: 13
+prev_word: doree
+next_word: doric
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -58,4 +58,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(obsolete outside Scotland and northern Britain) To belch."
+prev_word: rifte
+next_word: rifty
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

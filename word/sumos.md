@@ -36,4 +36,15 @@ definitions:
       forced from the ring, or if any part of his body except the soles of his feet
       touches the ground.
   - text: A rikishi (sumo wrestler)
+prev_word: summa
+next_word: sumph
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

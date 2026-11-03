@@ -44,4 +44,15 @@ definitions:
       alphabet, in which it is preceded by digamma (Ϝ, ϝ)
   - text: A mathematical function formally known as the Riemann zeta function.
     example: Zeta of 3 is irrational
+prev_word: zesty
+next_word: zexes
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/ze/"
+  label: Starting with ZE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

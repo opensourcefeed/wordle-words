@@ -53,4 +53,15 @@ definitions:
 - pos: verb
   defs:
   - text: To dress in a gown, to don or garb with a gown.
+prev_word: gowls
+next_word: goxes
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

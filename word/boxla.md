@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 65
 neighbours:
 - boyla
+prev_word: boxes
+next_word: boxty
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -54,4 +54,15 @@ definitions:
   - text: The footprint of a hare.
   - text: A point or mark on the dial, noting the hour.
   - text: The point on a target at which an archer aims; the mark; the pin.
+prev_word: price
+next_word: pricy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

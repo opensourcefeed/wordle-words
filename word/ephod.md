@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: 'A priestly apron, or breastplate, described in the Bible in Exodus 28:
       vi - xxx, which only the chief priest of ancient Israel was allowed to wear.'
+prev_word: ephas
+next_word: ephor
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ep/"
+  label: Starting with EP
+- url: "/ending-with/od/"
+  label: Ending in OD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

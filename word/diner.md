@@ -51,4 +51,15 @@ definitions:
       that serves lower-class fare, normally having a counter with stools along one
       side and booths on the other, and often decorated in 50s and 60s pop culture
       themes and playing popular music from those decades.
+prev_word: dined
+next_word: dines
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

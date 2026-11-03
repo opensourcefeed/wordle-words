@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 75
 neighbours:
 - opsit
+prev_word: optic
+next_word: orach
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/op/"
+  label: Starting with OP
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

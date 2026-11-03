@@ -24,4 +24,15 @@ neighbours:
 - degus
 anagrams:
 - mudge
+prev_word: degas
+next_word: degus
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

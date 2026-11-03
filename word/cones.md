@@ -83,4 +83,15 @@ definitions:
   - text: To form a cone shape.
   - text: (frequently followed by "off") To segregate or delineate an area using traffic
       cones
+prev_word: coned
+next_word: conex
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

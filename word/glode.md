@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - lodge
 - ogled
+prev_word: globy
+next_word: glogg
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

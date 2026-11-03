@@ -47,4 +47,15 @@ definitions:
     example: I didn’t sleep very well, but I think I may have dozed a bit.
   - text: To make dull; to stupefy.
   - text: To bulldoze.
+prev_word: doyly
+next_word: dozen
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

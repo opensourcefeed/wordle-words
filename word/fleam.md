@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - flame
 - femal
+prev_word: flays
+next_word: fleas
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - ratio
 - ariot
+prev_word: riata
+next_word: ribas
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

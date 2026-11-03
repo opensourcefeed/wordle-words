@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A brilliant or successful effect; brilliance of success or effort; splendor;
       brilliant show; striking effect; glory; renown.
+prev_word: ecigs
+next_word: ecole
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ec/"
+  label: Starting with EC
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

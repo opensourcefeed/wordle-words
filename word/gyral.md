@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: Of or pertaining to a gyrus
   - text: Moving circularly or spirally; gyratory; whirling.
+prev_word: gypsy
+next_word: gyred
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -33,4 +33,13 @@ definitions:
       the eyes so they cannot be seen, and is worn by women.
   - text: A dress made from felt or karakul (the short curly fur of young lambs of
       the breed of that name), traditionally worn by men of the Caucasus region.
+prev_word: burps
+next_word: burra
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

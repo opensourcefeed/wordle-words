@@ -36,4 +36,15 @@ anagrams:
 - preta
 - repat
 - trape
+prev_word: petal
+next_word: peter
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

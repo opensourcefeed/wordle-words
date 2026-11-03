@@ -32,4 +32,15 @@ anagrams:
 - alecs
 - claes
 - laces
+prev_word: alcea
+next_word: alcid
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

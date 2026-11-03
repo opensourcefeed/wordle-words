@@ -26,4 +26,15 @@ neighbours:
 - kaval
 - lahal
 - lavas
+prev_word: laura
+next_word: lavas
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

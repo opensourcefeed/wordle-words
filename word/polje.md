@@ -29,4 +29,13 @@ definitions:
   - text: An extensive depression having a flat floor and steep walls but no outflowing
       surface stream and found in a region having karst topography (as in parts of
       Yugoslavia).
+prev_word: polis
+next_word: polka
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

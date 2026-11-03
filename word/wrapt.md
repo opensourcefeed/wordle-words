@@ -43,4 +43,15 @@ definitions:
   - text: To make functionality available through a software wrapper.
   - text: To (cause to) reset to an original value after passing a maximum.
     example: The row counter wraps back to zero when no more rows can be inserted.
+prev_word: wraps
+next_word: wrast
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

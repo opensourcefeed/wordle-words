@@ -32,4 +32,15 @@ neighbours:
 - saine
 anagrams:
 - acies
+prev_word: sahib
+next_word: saick
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

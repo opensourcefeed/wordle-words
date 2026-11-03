@@ -57,4 +57,15 @@ definitions:
   - text: To drop a blob or blobs onto, cover with blobs.
   - text: To fall in the form of a blob or blobs.
   - text: To relax idly and mindlessly; to veg out.
+prev_word: bloat
+next_word: block
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

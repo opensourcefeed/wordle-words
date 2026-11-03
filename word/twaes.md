@@ -30,4 +30,15 @@ anagrams:
 - waste
 - tawse
 - wetas
+prev_word: tuyer
+next_word: twain
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

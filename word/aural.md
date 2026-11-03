@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: Of or pertaining to the ear.
   - text: Of or pertaining to sound.
+prev_word: aurae
+next_word: aurar
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -62,4 +62,15 @@ definitions:
   defs:
   - text: A tooth, as of a card, a gear wheel, etc.
   - text: A slot or a wire in a reed
+prev_word: dente
+next_word: deoch
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

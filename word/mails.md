@@ -85,4 +85,15 @@ definitions:
   - text: A monetary payment or tribute.
   - text: Rent.
   - text: Tax.
+prev_word: mailo
+next_word: maims
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

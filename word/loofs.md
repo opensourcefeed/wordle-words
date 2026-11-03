@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OOFS
   count: 9
+prev_word: loofa
+next_word: looie
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

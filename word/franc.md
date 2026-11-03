@@ -31,4 +31,13 @@ definitions:
   - text: Any of several units of currency, some of which are multi-national (West
       African CFA Franc (XOF), Central African CFA Franc (XAF), the Swiss franc (CHF))
       while others are national currencies.
+prev_word: frame
+next_word: frank
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

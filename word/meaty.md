@@ -44,4 +44,15 @@ definitions:
   - text: Of a person or a body part, large and solid.
   - text: Substantial.
     example: I got a nice, meaty bonus.
+prev_word: meats
+next_word: mebbe
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

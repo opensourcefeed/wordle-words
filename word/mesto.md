@@ -32,4 +32,15 @@ anagrams:
 - moste
 - motes
 - tomes
+prev_word: messy
+next_word: mesyl
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

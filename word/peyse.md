@@ -28,4 +28,15 @@ neighbours:
 - pryse
 anagrams:
 - seepy
+prev_word: pewit
+next_word: pfftt
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

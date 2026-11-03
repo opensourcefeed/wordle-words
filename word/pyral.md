@@ -27,4 +27,15 @@ neighbours:
 - pyran
 anagrams:
 - parly
+prev_word: pyots
+next_word: pyran
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

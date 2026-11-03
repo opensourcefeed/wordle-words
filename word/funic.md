@@ -23,4 +23,15 @@ neighbours:
 - tunic
 - funis
 - runic
+prev_word: fungs
+next_word: funis
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

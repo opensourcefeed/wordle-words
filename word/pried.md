@@ -50,4 +50,15 @@ definitions:
 - pos: verb
   defs:
   - text: To use leverage to open or widen.
+prev_word: pridy
+next_word: prief
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

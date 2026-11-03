@@ -69,4 +69,13 @@ definitions:
   - text: Firm or successful in resisting.
     example: proof against harm
   - text: "(of alcoholic liquors) Being of a certain standard as to alcohol content."
+prev_word: pronk
+next_word: prook
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

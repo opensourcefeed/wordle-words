@@ -46,4 +46,15 @@ anagrams:
 trap:
   pattern: _ARED
   count: 12
+prev_word: tardy
+next_word: tares
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

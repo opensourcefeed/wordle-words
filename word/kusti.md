@@ -24,4 +24,15 @@ neighbours:
 - busti
 anagrams:
 - kutis
+prev_word: kusso
+next_word: kutai
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

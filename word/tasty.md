@@ -51,4 +51,15 @@ definitions:
   - text: Appealing; when applied to persons, sexually appealing.
   - text: Skillful; highly competent.
   - text: Potentially violent.
+prev_word: tasto
+next_word: tatar
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

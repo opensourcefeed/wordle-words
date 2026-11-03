@@ -35,4 +35,15 @@ definitions:
   - text: A style of Pakistani cooking in which the food is cooked in an iron pan
       having two handles.
   - text: A dish cooked in this style.
+prev_word: balsa
+next_word: balun
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

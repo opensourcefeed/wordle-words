@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 74
 neighbours:
 - sizel
+prev_word: zitty
+next_word: zizit
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

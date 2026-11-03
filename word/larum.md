@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - mural
 - rumal
+prev_word: larnt
+next_word: larva
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

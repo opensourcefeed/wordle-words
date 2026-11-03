@@ -37,4 +37,15 @@ anagrams:
 - deray
 - rayed
 - yeard
+prev_word: dears
+next_word: deash
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Big or important — used as a title of respect
     example: a burra sahib
+prev_word: burqa
+next_word: burro
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

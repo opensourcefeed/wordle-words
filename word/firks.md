@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _IRKS
   count: 8
+prev_word: firie
+next_word: firma
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

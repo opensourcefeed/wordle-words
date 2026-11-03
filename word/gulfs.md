@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: "(Oxbridge slang) To award a degree to somebody who has only just passed
       sufficiently."
+prev_word: gulet
+next_word: gulfy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

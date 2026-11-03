@@ -58,4 +58,13 @@ definitions:
       faster."
   - text: To press by solicitation; to urge; to dun; hence, to treat discourteously
       or unreasonably.
+prev_word: crout
+next_word: crowl
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

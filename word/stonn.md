@@ -32,4 +32,13 @@ neighbours:
 trap:
   pattern: STON_
   count: 6
+prev_word: stonk
+next_word: stony
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -23,4 +23,15 @@ neighbours:
 - grind
 - grunt
 - grued
+prev_word: grump
+next_word: grunt
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

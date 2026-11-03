@@ -41,4 +41,15 @@ definitions:
   - text: (in compound terms such as "moral mafia") An entity which attempts to control
       a specified arena.
     example: the digital mafia
+prev_word: maerl
+next_word: mafic
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

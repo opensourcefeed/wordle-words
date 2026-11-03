@@ -48,4 +48,15 @@ definitions:
       into various shapes; often sold in dried form and typically boiled for eating.
   - text: A dish or serving of pasta.
   - text: A type of pasta.
+prev_word: passu
+next_word: paste
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

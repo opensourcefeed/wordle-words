@@ -25,4 +25,15 @@ neighbours:
 - wecht
 anagrams:
 - cheth
+prev_word: heben
+next_word: hecks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

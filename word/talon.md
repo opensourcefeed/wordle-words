@@ -48,4 +48,15 @@ definitions:
       (When the concave part is at the top, it is called an inverted talon.)
   - text: The shoulder of the bolt of a lock on which the key acts to shoot the bolt.
   - text: In various card games, the remaining stock of undealt cards.
+prev_word: talma
+next_word: talpa
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

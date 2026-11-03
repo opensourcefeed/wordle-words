@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - asses
 - sasse
+prev_word: sesey
+next_word: setae
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -156,4 +156,15 @@ definitions:
       number of times; the lines of text so written out.
     example: I had to write out 200 lines
   - text: The reins with which a horse is guided by its driver.
+prev_word: liner
+next_word: liney
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

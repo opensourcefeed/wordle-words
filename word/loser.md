@@ -59,4 +59,15 @@ definitions:
     example: I'm a constant loser in love.
   - text: A contemptible or unfashionable person.
   - text: One who or that which loses something, such as extra weight, car keys, etc.
+prev_word: losen
+next_word: loses
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

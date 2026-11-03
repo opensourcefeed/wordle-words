@@ -52,4 +52,15 @@ definitions:
   - text: To bubble, seethe.
   - text: To wander; to roam.
   - text: To romp.
+prev_word: roids
+next_word: roily
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

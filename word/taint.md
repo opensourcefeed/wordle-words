@@ -59,4 +59,15 @@ definitions:
   - text: To mark (a variable) as unsafe, so that operations involving it are subject
       to additional security checks.
   - text: To invalidate (a share capital account) by transferring profits into it.
+prev_word: tains
+next_word: taira
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A variety of curd cheese made from sheep’s or goat’s milk and originating
       from Greece.
+prev_word: fetor
+next_word: fetts
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

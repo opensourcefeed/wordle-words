@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: Lieutenant
+prev_word: looed
+next_word: loofa
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

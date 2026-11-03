@@ -45,4 +45,15 @@ definitions:
       (also called a zwieback)
   - text: A weaning food for children
   - text: A cereal binder used in meat product manufacture
+prev_word: rushy
+next_word: rusky
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

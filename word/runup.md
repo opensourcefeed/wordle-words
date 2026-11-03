@@ -34,4 +34,15 @@ definitions:
     example: The candidates were very nervous in the run-up to the election.
   - text: An increase in the value or amount of something
     example: Economists expect a run-up of long-term interest rates.
+prev_word: runty
+next_word: ruote
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/up/"
+  label: Ending in UP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: GOR_S
   count: 6
+prev_word: goray
+next_word: gordo
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

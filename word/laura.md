@@ -27,4 +27,15 @@ neighbours:
 - lavra
 anagrams:
 - aural
+prev_word: laund
+next_word: laval
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

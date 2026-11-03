@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A traditional horse-drawn wagon used by Romanichals (Romani people).
+prev_word: varda
+next_word: vardy
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

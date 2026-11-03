@@ -49,4 +49,15 @@ definitions:
       or having consumed too much of something.
   - text: Worn out, wearied, exhausted or lacking enthusiasm, due to age or experience.
   - text: Made callous or cynically insensitive, by experience.
+prev_word: jacky
+next_word: jades
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

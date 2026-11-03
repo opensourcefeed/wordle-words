@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A form of worship in south Asia; a religious ceremony.
+prev_word: poohy
+next_word: pooka
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ja/"
+  label: Ending in JA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

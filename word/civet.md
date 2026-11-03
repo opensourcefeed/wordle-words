@@ -38,4 +38,15 @@ definitions:
   - text: The musky perfume produced by the animal.
   - text: Any animal in the family Viverridae or the similar family Nandiniidae
   - text: Any of several species of spotted skunk, in the genus Spilogale.
+prev_word: cives
+next_word: civic
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

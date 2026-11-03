@@ -53,4 +53,15 @@ definitions:
   - text: An ugly, evil-looking, or frightening old woman; a hag.
   - text: An old ewe.
   - text: An old man, especially one who talks and acts like an old woman.
+prev_word: crome
+next_word: cronk
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

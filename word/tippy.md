@@ -47,4 +47,15 @@ definitions:
   - text: "(absolute, with the) In the height of fashion, excellent, cool."
   - text: Clever, neat, smart.
   - text: Of tea, having a large amount of tips, or leaf buds.
+prev_word: tipis
+next_word: tipsy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

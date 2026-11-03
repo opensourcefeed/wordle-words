@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 95
 neighbours:
 - ricin
+prev_word: fichu
+next_word: ficos
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

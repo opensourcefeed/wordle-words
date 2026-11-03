@@ -39,4 +39,15 @@ definitions:
       jurisdiction over students.
     example: Oxford today has four bedels, representing Divinity, Law, Medicine, and
       Arts.
+prev_word: bedad
+next_word: bedes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

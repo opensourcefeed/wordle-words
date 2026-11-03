@@ -24,4 +24,15 @@ neighbours:
 - fizzy
 - fuzzy
 - bezzy
+prev_word: fezes
+next_word: fiars
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

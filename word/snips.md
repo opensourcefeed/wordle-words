@@ -56,4 +56,15 @@ definitions:
   - text: To break off; to snatch away.
   - text: To circumcise.
   - text: To remove the irrelevant parts of quotations in the reply message.
+prev_word: snipe
+next_word: snipy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -25,4 +25,15 @@ neighbours:
 - topee
 - tophi
 - tophs
+prev_word: topes
+next_word: tophi
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

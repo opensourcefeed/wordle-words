@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: An acoustic guitar with a metal resonator
+prev_word: dobra
+next_word: docht
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -27,4 +27,15 @@ neighbours:
 - simar
 anagrams:
 - micra
+prev_word: cills
+next_word: cimex
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

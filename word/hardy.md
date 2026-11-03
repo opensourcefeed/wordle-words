@@ -55,4 +55,15 @@ definitions:
       as frost.
   - text: Brave and resolute.
   - text: Impudent.
+prev_word: hards
+next_word: hared
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

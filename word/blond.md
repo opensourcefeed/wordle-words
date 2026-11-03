@@ -47,4 +47,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(especially of a woman) Stupid, ignorant, naive."
+prev_word: bloke
+next_word: blonx
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

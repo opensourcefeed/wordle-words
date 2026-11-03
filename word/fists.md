@@ -69,4 +69,15 @@ definitions:
 - pos: verb
   defs:
   - text: To break wind.
+prev_word: fisks
+next_word: fisty
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To utter an abrupt, high-pitched noise.
     example: The children yelped with delight as they played in the cold water.
+prev_word: yelms
+next_word: yelts
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To form or cause to form a helix.
+prev_word: helio
+next_word: hella
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

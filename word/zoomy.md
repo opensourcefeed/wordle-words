@@ -46,4 +46,15 @@ definitions:
     example: relies upon zoomy close-ups
   - text: Evocative of Generation Z.
     example: His love of putting avocados on bread is so zoomy.
+prev_word: zooms
+next_word: zoons
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

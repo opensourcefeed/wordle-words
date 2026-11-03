@@ -26,4 +26,15 @@ neighbours:
 - segno
 anagrams:
 - longe
+prev_word: legit
+next_word: lehrs
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

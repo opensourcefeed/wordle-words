@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: PER_S
   count: 11
+prev_word: perst
+next_word: perve
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

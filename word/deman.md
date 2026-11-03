@@ -33,4 +33,15 @@ anagrams:
 - maned
 - menad
 - named
+prev_word: delve
+next_word: demes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

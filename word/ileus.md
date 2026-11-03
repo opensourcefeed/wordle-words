@@ -35,4 +35,15 @@ definitions:
       tract, due to failure of peristalsis."
   - text: "(broad definition, now rare) Disruption of the normal propulsive ability
       of the gastrointestinal tract from any cause."
+prev_word: ileum
+next_word: iliac
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/il/"
+  label: Starting with IL
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

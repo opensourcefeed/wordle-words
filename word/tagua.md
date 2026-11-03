@@ -25,4 +25,15 @@ neighbours:
 - bagua
 - tagma
 - tegua
+prev_word: tagma
+next_word: tahas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ua/"
+  label: Ending in UA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

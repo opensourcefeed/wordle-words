@@ -23,4 +23,15 @@ neighbours:
 - hemps
 - humpy
 - kempy
+prev_word: hemps
+next_word: hence
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

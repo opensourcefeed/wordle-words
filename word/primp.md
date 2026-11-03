@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: To spend time improving one's appearance, often in front of a mirror.
   - text: To dress in an affected manner.
+prev_word: primo
+next_word: prims
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

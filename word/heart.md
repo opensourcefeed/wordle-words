@@ -72,4 +72,15 @@ definitions:
   - text: To give heart to; to hearten; to encourage.
   - text: To fill an interior with rubble, as a wall or a breakwater.
   - text: To form a dense cluster of leaves, a heart, especially of lettuce or cabbage.
+prev_word: hears
+next_word: heast
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

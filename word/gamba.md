@@ -40,4 +40,15 @@ definitions:
   - text: A stringed instrument related to the violin family, but held in the lap
       between the legs like a cello, usually with C-holes, a flat back, a fretted
       neck and six strings, played with an underhanded bow hold.
+prev_word: gamay
+next_word: gambe
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

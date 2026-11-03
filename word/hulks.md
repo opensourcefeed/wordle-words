@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To remove the entrails of; to disembowel.
     example: to hulk a hare
+prev_word: hules
+next_word: hulky
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

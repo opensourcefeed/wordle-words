@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To throw.
+prev_word: hoyas
+next_word: hoyle
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

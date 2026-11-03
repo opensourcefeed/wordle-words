@@ -23,4 +23,15 @@ stats:
 neighbours:
 - neele
 - seeld
+prev_word: neefs
+next_word: neele
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

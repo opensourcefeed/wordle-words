@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: Man, bloke
+prev_word: homey
+next_word: homme
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

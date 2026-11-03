@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - denet
 - dente
+prev_word: teems
+next_word: teene
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

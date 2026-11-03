@@ -31,4 +31,13 @@ definitions:
   defs:
   - text: A hereditary estate in parts of India; subsequently, an administrative subdivision
       of a district.
+prev_word: talpa
+next_word: talus
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

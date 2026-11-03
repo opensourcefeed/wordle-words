@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: A chiropractor.
   - text: Chiropractic.
+prev_word: chirm
+next_word: chirp
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

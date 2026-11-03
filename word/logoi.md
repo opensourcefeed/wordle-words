@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - igloo
 - oligo
+prev_word: login
+next_word: logon
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/oi/"
+  label: Ending in OI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -36,4 +36,13 @@ definitions:
       urethral orifice of the urinary bladder, caused by the middle lobe of the prostate.
   - text: An object so suspended inside a bell that it may hit the bell and cause
       it to ring; a clapper.
+prev_word: uveas
+next_word: vacas
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

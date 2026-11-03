@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _OKER
   count: 8
+prev_word: mojos
+next_word: mokes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

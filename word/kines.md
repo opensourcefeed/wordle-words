@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _INES
   count: 15
+prev_word: kindy
+next_word: kings
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

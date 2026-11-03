@@ -38,4 +38,15 @@ definitions:
       a group.
   - text: In Ancient Rome, a white tablet or register on which the praetor's edicts
       and other public notices were recorded.
+prev_word: albid
+next_word: alcea
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

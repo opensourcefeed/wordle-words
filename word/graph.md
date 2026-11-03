@@ -58,4 +58,15 @@ definitions:
   defs:
   - text: To draw a graph.
   - text: To draw a graph of a function.
+prev_word: grape
+next_word: grapy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ph/"
+  label: Ending in PH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -37,4 +37,15 @@ anagrams:
 - tower
 - wrote
 - twoer
+prev_word: rower
+next_word: rowie
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

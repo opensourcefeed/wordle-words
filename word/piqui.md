@@ -24,4 +24,13 @@ stats:
 neighbours:
 - pique
 - pequi
+prev_word: pique
+next_word: pirai
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A subdivision of currency, equal to one hundredth of an Icelandic króna
+prev_word: aural
+next_word: auras
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: Knotted; tied in a knot.
     example: a serpent nowed
+prev_word: nowds
+next_word: nowls
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

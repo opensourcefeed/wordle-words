@@ -32,4 +32,15 @@ definitions:
   - text: To remove the rigging from (a vessel, etc.).
   - text: To disable.
   - text: To undress (someone).
+prev_word: unrid
+next_word: unrip
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ig/"
+  label: Ending in IG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To use a scrim.
+prev_word: screw
+next_word: scrip
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

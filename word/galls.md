@@ -74,4 +74,15 @@ definitions:
 - pos: verb
   defs:
   - text: To impregnate with a decoction of gallnuts in dyeing.
+prev_word: galis
+next_word: gally
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

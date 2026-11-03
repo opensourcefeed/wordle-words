@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: FRIT_
   count: 6
+prev_word: frita
+next_word: frith
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

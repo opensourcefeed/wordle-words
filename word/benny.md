@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: (usually with "up") To take amphetamines.
+prev_word: benni
+next_word: bento
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

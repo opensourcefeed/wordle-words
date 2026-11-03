@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _ITAS
   count: 6
+prev_word: misty
+next_word: mitch
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

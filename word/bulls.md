@@ -90,4 +90,15 @@ definitions:
       in!
   - text: Statements that may be true but misleading nonetheless.
   - text: Statements made without any particular reference to their truth value.
+prev_word: bulla
+next_word: bully
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

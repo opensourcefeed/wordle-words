@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _OUKS
   count: 10
+prev_word: zorse
+next_word: zowee
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Any of several waterbirds in the cosmopolitan family Podicipedidae. They
       have strong, sharp bills, and lobate toes.
+prev_word: great
+next_word: grebo
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

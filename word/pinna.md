@@ -40,4 +40,15 @@ definitions:
       outer ear excluding the ear canal.
   - text: A leaflet or primary segment of a pinnate compound leaf.
   - text: A feather, wing, fin, or other similar appendage.
+prev_word: pinky
+next_word: pinny
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 74
 neighbours:
 - hoick
+prev_word: yohay
+next_word: yojan
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -30,4 +30,15 @@ anagrams:
 - stoun
 - tonus
 - touns
+prev_word: noups
+next_word: novae
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -67,4 +67,15 @@ definitions:
   - text: A setting of calibrated instruments such as a firearm.
   - text: A security which has a zero coupon (paying no periodic interest).
     example: The takeovers were financed by issuing zeroes.
+prev_word: zerks
+next_word: zests
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/ze/"
+  label: Starting with ZE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -30,4 +30,13 @@ definitions:
 - pos: noun
   defs:
   - text: A recording device, used by the Incas, consisting of intricate knotted cords.
+prev_word: quips
+next_word: quire
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

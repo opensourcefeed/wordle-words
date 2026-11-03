@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _EELY
   count: 6
+prev_word: deedy
+next_word: deems
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

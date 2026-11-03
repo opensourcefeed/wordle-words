@@ -30,4 +30,15 @@ anagrams:
 - abeys
 - absey
 - bayes
+prev_word: abuzz
+next_word: abysm
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

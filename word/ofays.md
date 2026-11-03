@@ -28,4 +28,13 @@ definitions:
 - pos: noun
   defs:
   - text: A white person.
+prev_word: odyls
+next_word: offal
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

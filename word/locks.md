@@ -79,4 +79,15 @@ definitions:
   - text: A tuft or length of hair, wool etc.
   - text: A small quantity of straw etc.
   - text: A quantity of meal, the perquisite of a mill-servant.
+prev_word: locis
+next_word: locky
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

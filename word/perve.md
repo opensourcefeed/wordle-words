@@ -49,4 +49,15 @@ definitions:
       thoughts about them.
     example: The soccer coach perved on one of the players as he undressed in the
       change room.
+prev_word: perts
+next_word: pervo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

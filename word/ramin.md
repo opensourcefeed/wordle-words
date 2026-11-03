@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - inarm
 - minar
+prev_word: ramie
+next_word: ramis
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

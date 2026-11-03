@@ -27,4 +27,15 @@ anagrams:
 - sumac
 - camus
 - caums
+prev_word: musar
+next_word: mused
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

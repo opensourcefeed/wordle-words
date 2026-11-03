@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: Attractive; good-looking; sexy.
   - text: Tending to relay information and gossip.
+prev_word: discs
+next_word: disks
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

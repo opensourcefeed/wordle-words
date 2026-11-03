@@ -76,4 +76,15 @@ definitions:
   - text: To fix (a problem) or handle (a task).
   - text: To attack physically.
     example: If he comes nosing around here again I'll sort him!
+prev_word: sorta
+next_word: sorus
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

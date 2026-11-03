@@ -58,4 +58,15 @@ definitions:
 - pos: noun
   defs:
   - text: A muffin.
+prev_word: mudra
+next_word: muffy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

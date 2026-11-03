@@ -56,4 +56,15 @@ definitions:
       out.
     example: to blot out a word or a sentence
   - text: To obscure; to eclipse; to shadow.
+prev_word: blore
+next_word: blown
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

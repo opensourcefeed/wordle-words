@@ -34,4 +34,15 @@ definitions:
   - text: Of or pertaining to a sudden physiologic attack such as a seizure, stroke
       or headache.
     example: The patient was in an ictal state.
+prev_word: icons
+next_word: ictic
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/ic/"
+  label: Starting with IC
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

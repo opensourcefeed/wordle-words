@@ -39,4 +39,15 @@ neighbours:
 trap:
   pattern: _OLES
   count: 13
+prev_word: joled
+next_word: jolie
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

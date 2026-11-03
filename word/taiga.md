@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A subarctic zone of evergreen coniferous forests situated south of the tundras
       and north of the steppes in the Northern Hemisphere.
+prev_word: tahrs
+next_word: taigs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

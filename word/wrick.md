@@ -30,4 +30,15 @@ neighbours:
 trap:
   pattern: _RICK
   count: 6
+prev_word: wrest
+next_word: wried
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -54,4 +54,15 @@ definitions:
   - text: A buttock, or the buttocks; a person's bottom.
   - text: A fool.
   - text: The female genitals.
+prev_word: prate
+next_word: pratt
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,15 @@ neighbours:
 - cardy
 - carny
 - marvy
+prev_word: carve
+next_word: casas
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

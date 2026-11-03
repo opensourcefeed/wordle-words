@@ -38,4 +38,15 @@ definitions:
   - text: A sour substance.
   - text: 'Any of several classes of compound having the following properties:'
   - text: Lysergic acid diethylamide (LSD)
+prev_word: achoo
+next_word: acidy
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

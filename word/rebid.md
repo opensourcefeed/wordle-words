@@ -44,4 +44,15 @@ definitions:
     example: We had to rebid the contract when accusations of fraud by other competitors
       occurred.
   - text: To bid a higher value of the current suit.
+prev_word: rebel
+next_word: rebit
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

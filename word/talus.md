@@ -48,4 +48,15 @@ definitions:
 - pos: noun
   defs:
   - text: The bone of the ankle.
+prev_word: taluk
+next_word: tamal
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

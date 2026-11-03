@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To send into exile.
+prev_word: exies
+next_word: exine
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -26,4 +26,15 @@ neighbours:
 - kurus
 - kutus
 - yuzus
+prev_word: kuyas
+next_word: kvass
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

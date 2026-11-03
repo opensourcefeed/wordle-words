@@ -28,4 +28,15 @@ neighbours:
 - sield
 anagrams:
 - biled
+prev_word: bidri
+next_word: biers
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

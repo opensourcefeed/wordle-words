@@ -22,4 +22,15 @@ stats:
 neighbours:
 - myope
 - myops
+prev_word: myops
+next_word: myrrh
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/my/"
+  label: Starting with MY
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -55,4 +55,15 @@ definitions:
   - text: To tantalise, and disappoint the hopes of.
   - text: To create a mockup or prototype of.
     example: What's the best way to mock a database layer?
+prev_word: mochy
+next_word: mocky
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

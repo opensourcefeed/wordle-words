@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: The currency of Croatia, divided into 100 lipa
+prev_word: kumys
+next_word: kunds
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

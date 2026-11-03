@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: "(West Cumbrian [Predominantly], Mackem) A friend, pal, buddy, mate."
     example: Alreet marra?
+prev_word: maror
+next_word: marri
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

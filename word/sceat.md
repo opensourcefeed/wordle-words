@@ -31,4 +31,15 @@ anagrams:
 - cates
 - cesta
 - taces
+prev_word: scaws
+next_word: scena
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

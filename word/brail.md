@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To reef, shorten or strike sail using brails.
+prev_word: braid
+next_word: brain
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

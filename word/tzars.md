@@ -35,4 +35,13 @@ definitions:
   defs:
   - text: An emperor of Russia (1547 to 1917) and of some South Slavic states.
   - text: A person with great power; an autocrat.
+prev_word: tythe
+next_word: ubacs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -50,4 +50,15 @@ definitions:
     example: Be sure to lock the door when you leave.
   - text: Free from danger; safe; secure.
   - text: Betrothed; engaged to marry.
+prev_word: sured
+next_word: sures
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

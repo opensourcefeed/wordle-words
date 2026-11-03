@@ -48,4 +48,15 @@ definitions:
   - text: A tall brimless hat, usually conical or curved on top, worn in Muslim countries
       as a sign of distinction and prestige.
   - text: A crown worn by Indian princes as a sign of high rank.
+prev_word: taits
+next_word: takas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

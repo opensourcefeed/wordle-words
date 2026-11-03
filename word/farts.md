@@ -56,4 +56,15 @@ definitions:
       to go about one's activities in a lackadaisical manner; to be lazy or over-relaxed
       in one's manner or bearing.
   - text: To emit (fumes, gases, etc.).
+prev_word: farse
+next_word: fasci
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

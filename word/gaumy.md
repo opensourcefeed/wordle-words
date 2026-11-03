@@ -26,4 +26,15 @@ neighbours:
 - gaums
 - gauzy
 - maumy
+prev_word: gaums
+next_word: gaunt
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

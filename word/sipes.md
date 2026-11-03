@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: Slit in a tire to drain away surface water and improve traction.
   - text: A drain.
+prev_word: siped
+next_word: sippy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

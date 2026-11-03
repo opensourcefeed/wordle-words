@@ -30,4 +30,15 @@ anagrams:
 - adrip
 - pardi
 - parid
+prev_word: padre
+next_word: paean
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

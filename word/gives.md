@@ -75,4 +75,15 @@ definitions:
   - text: To have a misgiving.
   - text: To be going on, to be occurring
     example: What gives?
+prev_word: giver
+next_word: gizmo
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

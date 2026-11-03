@@ -39,4 +39,15 @@ definitions:
   - text: To raise (the shoulders) to express uncertainty, lack of concern, (formerly)
       dread, etc.
     example: I asked him for an answer and he just shrugged.
+prev_word: shrub
+next_word: shtar
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ug/"
+  label: Ending in UG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

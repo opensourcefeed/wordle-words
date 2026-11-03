@@ -27,4 +27,13 @@ anagrams:
 - duals
 - lauds
 - salud
+prev_word: ubity
+next_word: udder
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

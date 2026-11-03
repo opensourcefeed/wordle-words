@@ -36,4 +36,15 @@ anagrams:
 - deshi
 - hides
 - sidhe
+prev_word: heiau
+next_word: heigh
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

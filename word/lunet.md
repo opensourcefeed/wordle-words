@@ -25,4 +25,15 @@ neighbours:
 - lunes
 anagrams:
 - unlet
+prev_word: lunes
+next_word: lunge
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

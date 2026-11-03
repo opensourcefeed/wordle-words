@@ -35,4 +35,15 @@ definitions:
   - text: A monster preying upon human beings and who sucked the blood of children,
       often described as having the head and breasts of a woman and the lower half
       of a serpent.
+prev_word: lames
+next_word: lammy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -36,4 +36,15 @@ definitions:
 - pos: verb
   defs:
   - text: To travel by luge; to ride a luge.
+prev_word: luffs
+next_word: luger
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

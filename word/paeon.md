@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A foot containing any pattern of three short syllables and one long syllable.
+prev_word: paedo
+next_word: pagan
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

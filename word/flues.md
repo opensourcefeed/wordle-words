@@ -49,4 +49,15 @@ definitions:
   - text: An enclosed passageway in which to direct air or other gaseous current along.
   - text: A woolly or downy substance; down, nap; a piece of this.
   - text: In an organ flue pipe, the opening between the lower lip and the languet.
+prev_word: flued
+next_word: fluey
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

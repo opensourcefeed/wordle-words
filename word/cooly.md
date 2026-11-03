@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _OOLY
   count: 7
+prev_word: cools
+next_word: coomb
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

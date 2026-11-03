@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: Extreme; far beyond the norm; fanatical; uncompromising.
     example: an ultra reformer; ultra measures
+prev_word: ulpan
+next_word: ulvas
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ul/"
+  label: Starting with UL
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

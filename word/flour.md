@@ -79,4 +79,15 @@ definitions:
 - pos: noun
   defs:
   - text: Something that flows, such as a river.
+prev_word: flote
+next_word: flout
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

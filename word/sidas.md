@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of the flowering plants of the genus Sida in the mallow family
+prev_word: sicky
+next_word: sided
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

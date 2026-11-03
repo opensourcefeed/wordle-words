@@ -31,4 +31,15 @@ neighbours:
 - grith
 anagrams:
 - birth
+prev_word: briss
+next_word: brits
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -29,4 +29,15 @@ anagrams:
 - sitka
 - takis
 - tikas
+prev_word: sakis
+next_word: salad
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

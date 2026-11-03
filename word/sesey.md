@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 88
 anagrams:
 - yeses
+prev_word: servo
+next_word: sessa
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - testy
 - yetts
+prev_word: styre
+next_word: suave
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -86,4 +86,15 @@ definitions:
   - text: A crude uncouth ill-bred person lacking culture or refinement
   - text: A person from Yorkshire; a Yorkshireman or Yorkshirewoman
   - text: A Roman Catholic
+prev_word: tikas
+next_word: tikia
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

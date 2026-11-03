@@ -31,4 +31,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Silly or scatterbrained, usually of a young woman.
+prev_word: ditty
+next_word: divan
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -54,4 +54,15 @@ definitions:
   - text: To (cause livestock to) suffer from diarrhoea or dysentery.
     example: If a lamb is scouring, do not delay treatment.
   - text: To cleanse (without rubbing).
+prev_word: scoup
+next_word: scout
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

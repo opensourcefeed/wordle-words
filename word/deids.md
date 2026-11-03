@@ -31,4 +31,15 @@ neighbours:
 - weids
 anagrams:
 - sided
+prev_word: deice
+next_word: deify
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

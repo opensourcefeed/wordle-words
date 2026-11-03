@@ -31,4 +31,15 @@ anagrams:
 - enlit
 - intel
 - lenti
+prev_word: elide
+next_word: elite
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

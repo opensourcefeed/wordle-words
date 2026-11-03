@@ -32,4 +32,15 @@ neighbours:
 - waits
 anagrams:
 - tawie
+prev_word: waist
+next_word: waits
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

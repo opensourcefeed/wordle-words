@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: A ridge or hill of sand piled up by the wind.
+prev_word: dunch
+next_word: dungs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -27,4 +27,15 @@ neighbours:
 - brook
 - bloop
 - plook
+prev_word: blood
+next_word: bloom
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ok/"
+  label: Ending in OK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

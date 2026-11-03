@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of fabric made of interwoven cloth strips, native to Ghana.
+prev_word: kenos
+next_word: kents
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -25,4 +25,15 @@ neighbours:
 - buffe
 - ruffe
 - tuffs
+prev_word: tufas
+next_word: tuffs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/fe/"
+  label: Ending in FE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

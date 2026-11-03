@@ -33,4 +33,15 @@ definitions:
       the top of the breastbone. It is most active during puberty, after which it
       shrinks in size. It plays an important role in the development of the immune
       system and produces lymphocytes.
+prev_word: thyme
+next_word: thymy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/mi/"
+  label: Ending in MI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

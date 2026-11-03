@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: By accident or luck.
   - text: Perhaps.
+prev_word: hapax
+next_word: happi
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

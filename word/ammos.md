@@ -27,4 +27,15 @@ neighbours:
 - ammas
 - ammon
 - atmos
+prev_word: ammon
+next_word: amnia
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

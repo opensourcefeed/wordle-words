@@ -29,4 +29,15 @@ neighbours:
 trap:
   pattern: PLA_S
   count: 6
+prev_word: plaur
+next_word: playa
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/vs/"
+  label: Ending in VS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

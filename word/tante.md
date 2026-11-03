@@ -33,4 +33,15 @@ neighbours:
 - zante
 anagrams:
 - netta
+prev_word: tansy
+next_word: tanti
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

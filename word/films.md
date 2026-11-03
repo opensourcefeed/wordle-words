@@ -48,4 +48,15 @@ definitions:
   - text: To record (activity, or a motion picture) on photographic film.
     example: A Hollywood studio was filming on location in NYC.
   - text: To cover or become covered with a thin skin or pellicle.
+prev_word: filmi
+next_word: filmy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -34,4 +34,15 @@ neighbours:
 - hires
 - hiver
 - wirer
+prev_word: hiree
+next_word: hires
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

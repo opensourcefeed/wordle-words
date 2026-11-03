@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ONER
   count: 8
+prev_word: mondo
+next_word: money
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

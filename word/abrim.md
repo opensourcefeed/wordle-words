@@ -29,4 +29,15 @@ anagrams:
 - imbar
 - mbari
 - mbira
+prev_word: abray
+next_word: abrin
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

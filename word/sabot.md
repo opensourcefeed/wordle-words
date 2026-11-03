@@ -39,4 +39,15 @@ definitions:
   - text: A wooden shoe.
   - text: A carrier around projectile(s) in firearms, cannons and artillery which
       holds the projectile in precision within the barrel
+prev_word: sabos
+next_word: sabra
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -46,4 +46,15 @@ definitions:
   - text: An abnormal cavity or passage such as a fistula, caused by the destruction
       of tissue.
   - text: A bay of the sea; a recess in the shore.
+prev_word: sinsi
+next_word: siped
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

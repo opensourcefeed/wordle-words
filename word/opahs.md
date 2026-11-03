@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Any of various large, colourful, deep-bodied pelagic fish of the family
       Lamprididae.
+prev_word: oozle
+next_word: opals
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/op/"
+  label: Starting with OP
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

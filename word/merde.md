@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(quaint) shit"
+prev_word: mercy
+next_word: merds
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

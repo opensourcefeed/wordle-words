@@ -26,4 +26,15 @@ neighbours:
 - pinot
 anagrams:
 - pilon
+prev_word: pinny
+next_word: pinon
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

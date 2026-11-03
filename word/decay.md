@@ -58,4 +58,15 @@ definitions:
   - text: To cause to rot or deteriorate.
     example: The extreme humidity decayed the wooden sculptures in the museum's collection
       in a matter of years.
+prev_word: decan
+next_word: decim
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A googly.
+prev_word: bosey
+next_word: bosks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: Something or someone of very large stature, greatness, or godliness.
+prev_word: tirth
+next_word: titar
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

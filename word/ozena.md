@@ -26,4 +26,13 @@ stats:
 anagrams:
 - neoza
 - zonae
+prev_word: ozeki
+next_word: ozone
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

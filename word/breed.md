@@ -73,4 +73,15 @@ definitions:
   - text: To produce or obtain by any natural process.
   - text: To have birth; to be produced, developed or multiplied.
   - text: To ejaculate inside someone's ass
+prev_word: breds
+next_word: breem
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

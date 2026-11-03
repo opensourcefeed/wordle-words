@@ -35,4 +35,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Pronunciation spelling of lots of.
+prev_word: lotos
+next_word: lotta
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

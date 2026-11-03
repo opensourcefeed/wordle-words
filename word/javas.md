@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _AVAS
   count: 7
+prev_word: jaups
+next_word: javel
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

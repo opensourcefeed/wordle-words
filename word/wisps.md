@@ -39,4 +39,15 @@ definitions:
   - text: A will o' the wisp, or ignis fatuus.
   - text: An immeasurable, indefinable essence of life; soul.
   - text: A disease affecting the feet of cattle.
+prev_word: wisht
+next_word: wispy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

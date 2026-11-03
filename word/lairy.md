@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Touchy, aggressive or confrontational, usually while drunk.
     example: Don't get lairy with me!
+prev_word: lairs
+next_word: laith
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

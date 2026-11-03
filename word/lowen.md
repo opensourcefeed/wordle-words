@@ -32,4 +32,15 @@ neighbours:
 - rowen
 anagrams:
 - lowne
+prev_word: lowed
+next_word: lower
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

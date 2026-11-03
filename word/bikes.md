@@ -69,4 +69,15 @@ definitions:
 - pos: noun
   defs:
   - text: A local woman who is sexually promiscuous.
+prev_word: biker
+next_word: bikie
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

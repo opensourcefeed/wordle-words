@@ -36,4 +36,15 @@ anagrams:
 - sager
 - sarge
 - segar
+prev_word: agent
+next_word: aggag
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

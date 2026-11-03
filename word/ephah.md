@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A former Hebrew unit of dry volume (about 23 L).
+prev_word: epene
+next_word: ephas
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ep/"
+  label: Starting with EP
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

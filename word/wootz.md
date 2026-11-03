@@ -21,4 +21,15 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 99
+prev_word: woosh
+next_word: woozy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/tz/"
+  label: Ending in TZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

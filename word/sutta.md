@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A rule or thesis in Sanskrit grammar or Hindu law or philosophy.
   - text: A scriptural narrative, especially a discourse of the Buddha.
+prev_word: sutra
+next_word: swabs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

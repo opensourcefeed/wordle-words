@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - birle
 - liber
+prev_word: libra
+next_word: libri
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

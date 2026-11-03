@@ -81,4 +81,15 @@ definitions:
     example: She was wearing a lovely new pair of pumps.
   - text: A dancing shoe.
   - text: A type of shoe without a heel.
+prev_word: pumie
+next_word: pumpy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: An obelisk or upright stone pillar, usually as a primitive commemoration
       or gravestone
+prev_word: stein
+next_word: stele
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

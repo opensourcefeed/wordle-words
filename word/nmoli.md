@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 46
 neighbours:
 - nmols
+prev_word: nkosi
+next_word: nmols
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

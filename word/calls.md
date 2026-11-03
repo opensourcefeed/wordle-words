@@ -97,4 +97,15 @@ definitions:
   - text: To jump to (another part of a program) to perform some operation, returning
       to the original point on completion.
     example: A recursive function is one that calls itself.
+prev_word: calle
+next_word: calms
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - scaly
 - clays
+prev_word: acute
+next_word: adage
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

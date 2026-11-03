@@ -31,4 +31,13 @@ definitions:
   defs:
   - text: An early three-stringed instrument, somewhat like a simple violin only pear
       shaped, played with a bow and used in Medieval and the early Renaissance eras.
+prev_word: rebbe
+next_word: rebel
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -40,4 +40,13 @@ definitions:
   - text: A small thin cloud attached to a cumulus cloud.
   - text: A conical felt hat worn in Ancient Rome and Greece.
   - text: The top of the head of a bird, from the bill to the nape.
+prev_word: piled
+next_word: piler
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

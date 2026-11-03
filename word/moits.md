@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: MO_TS
   count: 7
+prev_word: moist
+next_word: moity
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

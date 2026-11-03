@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To have a sickly feeling.
+prev_word: quale
+next_word: qualy
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/lm/"
+  label: Ending in LM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

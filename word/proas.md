@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: A sailing vessel found in the waters of Micronesia and Indonesia; it has
       a single, large outrigger and a triangular sail.
+prev_word: proal
+next_word: probe
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

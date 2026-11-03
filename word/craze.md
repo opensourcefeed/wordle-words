@@ -60,4 +60,15 @@ definitions:
       insane.
   - text: To break into pieces; to crush; to grind to powder. See crase.
   - text: To crack, as the glazing of porcelain or pottery.
+prev_word: crays
+next_word: crazy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -37,4 +37,15 @@ definitions:
   - text: To shrink back with horror, disgust, or dislike; to be contrary or averse;
       construed with from.
   - text: Differ entirely from.
+prev_word: abeys
+next_word: abide
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

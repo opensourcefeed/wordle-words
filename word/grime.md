@@ -53,4 +53,15 @@ definitions:
 - pos: verb
   defs:
   - text: To begrime; to cake with dirt.
+prev_word: grill
+next_word: grimy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -59,4 +59,15 @@ definitions:
   - text: To thrust a hump or protuberance out of (something); to crook, as the back.
   - text: To push or jostle with the elbow; to push or thrust against (someone).
   - text: To have a hunch, or make an intuitive guess.
+prev_word: humus
+next_word: hundo
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

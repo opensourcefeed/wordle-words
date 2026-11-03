@@ -36,4 +36,15 @@ definitions:
   - text: A person who does something once.
   - text: A single sexual encounter between two individuals, a one-night stand.
   - text: A person with whom one shares a single sexual encounter, a one-night stand.
+prev_word: omuls
+next_word: onces
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

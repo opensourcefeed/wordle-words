@@ -58,4 +58,15 @@ definitions:
   - text: To nose (a log) to make it drag or slip easily in skidding.
   - text: "(ice hockey slang) To score a goal."
   - text: To move the ball quickly in a different direction.
+prev_word: snigs
+next_word: snips
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -31,4 +31,13 @@ definitions:
   - text: A green vegetable
   - text: The larger leaves and the seed capsules of Indian hemp which are used to
       make bhang
+prev_word: sabre
+next_word: sacks
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

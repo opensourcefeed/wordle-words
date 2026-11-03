@@ -45,4 +45,15 @@ definitions:
   - text: In a low condition; meanly.
   - text: At low pitch or volume.
     example: He muttered lowly.
+prev_word: lowes
+next_word: lownd
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

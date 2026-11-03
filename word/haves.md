@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: 'The wealthy or privileged, contrasted to those who are poor or deprived:
       the have nots.'
+prev_word: haver
+next_word: havoc
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---
