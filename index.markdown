@@ -33,8 +33,8 @@ title: Home
 
 <input placeholder="Search for words" type="text" class="form-control" id="search-word">
 <div class="words">
-  <div id="pagination" class="pagination" class="pagination-controls"></div>
+  <div id="pagination" class="pagination-controls"></div>
   <div id="word-list" class="word-list"></div>
-  <div class="pagination" class="pagination-controls"></div>
+  <div class="pagination-controls"></div>
 </div>
 <script src="{{ '/assets/home.js' | relative_url }}"></script>

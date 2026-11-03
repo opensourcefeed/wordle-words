@@ -1,0 +1,6 @@
+{%- comment -%}
+  Compiles _includes/site.scss and inlines it. Use with {% include_cached %}
+  so the Sass compiles once per build instead of once per page.
+{%- endcomment -%}
+{%- capture site_css -%}{% include site.scss %}{%- endcapture -%}
+<style>{{ site_css | scssify }}</style>

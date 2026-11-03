@@ -18,6 +18,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-include-cache
 
 # Word pages are served without ".html" (/word/tiger), which is how the site
 # links to them; this keeps canonical and sitemap URLs the same.

@@ -3,8 +3,7 @@ layout: default
 ---
 {% assign up = page.word | upcase %}
 {% assign home = '/' | relative_url %}
-<div class="container">
-    <div class="word-details">
+<div class="word-details">
         <nav class="crumbs" aria-label="Breadcrumb">
             <a href="{{ home }}">All Wordle Words</a> <span aria-hidden="true">›</span> <span aria-current="page">{{ up }}</span>
         </nav>
@@ -134,7 +133,6 @@ layout: default
         <div class="text-center back-link">
             <a class="btn btn-primary" href="{{ home }}">&larr;&thinsp;&thinsp;Back to All Words</a>
         </div>
-    </div>
 </div>
 
 <script type="application/ld+json">

@@ -63,11 +63,11 @@ The home page's word list is built entirely by JavaScript from 120 KB of inline 
 - [ ] **"5 letter words starting with / ending with / containing X" hub pages**: these are high-volume queries that fit this dataset exactly. Start with the 26 starting letters and the top 2-letter prefixes and suffixes, then expand based on Search Console data. (H, M)
 - [ ] **Word page links**: breadcrumb (Home › T › TIGER), the neighbour and anagram blocks, previous/next alphabetical word, and a link to the starting-letter hub. (H, S)
 - [ ] **Hub pages for answers**: "All past Wordle answers" (by date and A–Z) and "Possible Wordle answers". (M, M)
-- [ ] **Rework the home page**: put a real H1 and a **word checker** box above the fold (type a word, get an instant ✅/❌ plus a link). Move the ad below the checker. Remove the duplicate `class` attributes on the pagination divs. (M, S)
+- [ ] **Rework the home page**: put a real H1 and a **word checker** box above the fold (type a word, get an instant ✅/❌ plus a link). Move the ad below the checker. ~~Remove the duplicate `class` attributes on the pagination divs~~ (done: pagination never rendered before, so only the first 1,000 words were browsable). (M, S)
 
 ## P3 – User experience, device friendliness and speed
 
-- [ ] Drop the full Bootstrap CDN (about 230 KB of CSS for a navbar and buttons). Write about 3 KB of custom CSS instead, and inline the critical CSS. (M, S)
+- [x] Dropped the Bootstrap CDN (~230 KB CSS, ~30 KB gzipped, render-blocking). `_includes/site.scss` now defines only what the site uses (reset, container, navbar, buttons, form input, pagination, utilities) plus the site styles: 5.9 KB minified, ~2 KB gzipped. It is compiled once per build and inlined on every page through `{% include_cached inline-css.html %}`, so pages make no stylesheet request. (M, S)
 - [ ] Remove the empty `assets/main.js` request. Load `home.js` with `defer`. (L, S)
 - [ ] Reserve a fixed min-height for ad slots to avoid layout shift (CLS). Keep only one ad above the fold on mobile. (M, S)
 - [ ] Mobile: 48 px tap targets on word tiles, a sticky search on the browse pages, and replace the 15-button pagination with prev/next plus a page select. (M, S)

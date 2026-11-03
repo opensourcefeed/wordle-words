@@ -1,0 +1,236 @@
+// Site stylesheet. Inlined into every page by _includes/inline-css.html
+// (compiled once per build), so there is no render-blocking CSS request.
+// Replaces Bootstrap: only the pieces this site uses are defined here.
+
+$blue: #0d6efd;
+$blue-dark: #0b5ed7;
+$border: #dee2e6;
+$muted: #6c757d;
+$green: #4f9d5d;
+$yellow: #c9a227;
+$grey: #7b8088;
+
+// ---------------------------------------------------------------- base
+*, ::before, ::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+    margin: 0;
+    font: 1rem/1.5 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: #333;
+    background: #f8f8f8;
+}
+h1, h2, h3 { margin: 0 0 .5rem; font-weight: 500; line-height: 1.2; }
+h1 { font-size: clamp(1.6rem, 5vw, 2.2rem); }
+h2 { font-size: 1.25rem; }
+h3 { font-size: 1rem; }
+p, ol, ul, dl { margin: 0 0 1rem; }
+ol, ul { padding-left: 2rem; }
+hr { margin: 1rem 0; border: 0; border-top: 1px solid; opacity: .25; }
+a { color: $blue; }
+a:hover { color: $blue-dark; }
+button, input { font: inherit; margin: 0; }
+code { font-size: .875em; color: #d63384; }
+:focus-visible { outline: 3px solid rgba($blue, .5); outline-offset: 2px; }
+
+// ---------------------------------------------------------------- layout & utilities
+.container { width: 100%; max-width: 1140px; margin: 0 auto; padding: 0 16px; }
+main.container { padding-top: 1rem; }
+.text-center { text-align: center; }
+.visually-hidden {
+    position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px;
+    overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+}
+
+// ---------------------------------------------------------------- header & footer
+.navbar { background: #212529; padding: .5rem 0; }
+.navbar-brand { display: inline-block; padding: .3rem 0; font-size: 1.25rem; color: #fff; text-decoration: none; }
+.navbar-brand:hover { color: #fff; }
+
+footer {
+    background: #2c3e50;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+    p { margin-bottom: .5rem; }
+    .disclaimer { font-size: .8rem; opacity: .8; padding: 0 1rem; }
+}
+.footer-links {
+    display: flex; flex-wrap: wrap; justify-content: center;
+    gap: .5rem 1.25rem; margin-bottom: .75rem;
+    a { color: #fff; padding: .5rem .25rem; }
+}
+
+// ---------------------------------------------------------------- controls
+.btn {
+    display: inline-block;
+    padding: .375rem .75rem;
+    border: 1px solid transparent;
+    border-radius: .375rem;
+    line-height: 1.5;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+.btn-primary { color: #fff; background: $blue; border-color: $blue; }
+.btn-primary:hover { color: #fff; background: $blue-dark; border-color: $blue-dark; }
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    color: #212529;
+    background: #fff;
+    border: 1px solid $border;
+    border-radius: .375rem;
+}
+.form-control:focus { border-color: #86b7fe; outline: 0; box-shadow: 0 0 0 .25rem rgba($blue, .25); }
+
+.pagination { display: flex; flex-wrap: wrap; justify-content: center; list-style: none; padding: 0; margin: 1rem; }
+.page-link {
+    display: block;
+    padding: .375rem .75rem;
+    margin: 0 0 -1px -1px;
+    color: $blue;
+    background: #fff;
+    border: 1px solid $border;
+    text-decoration: none;
+}
+.page-item.active .page-link { position: relative; color: #fff; background: $blue; border-color: $blue; }
+.page-item.disabled .page-link { color: $muted; pointer-events: none; }
+
+// ---------------------------------------------------------------- shared cards
+.intro, .words, .word-details article {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, .05);
+}
+.intro { padding: 2rem; text-align: center; }
+.self-links { text-align: center; a { margin: 1rem .5rem; font-size: 1.2rem; } }
+
+// ---------------------------------------------------------------- home page
+.words { padding: 2rem; margin-bottom: 2rem; }
+.word-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 20px;
+}
+.word-item {
+    background: #f0f0f0;
+    padding: 15px;
+    border-radius: 6px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .08);
+    a { display: block; font-size: 1.1rem; font-weight: 500; color: #333; text-transform: uppercase; text-decoration: none; }
+}
+
+// ---------------------------------------------------------------- word page
+.word-details { min-height: 80vh; }
+.word-details article { padding: 2rem; text-align: center; }
+.crumbs { font-size: .9rem; margin: 0 0 .75rem; color: $muted; a { color: inherit; } }
+
+.answer-card {
+    max-width: 720px;
+    margin: 0 auto 1.5rem;
+    padding: 1.5rem 1rem;
+    border-radius: 10px;
+    background: #f1f8f2;
+    border: 1px solid #cfe8d3;
+    .verdict { font-size: 1.25rem; margin: 1rem 0 .75rem; }
+    .answer-text { margin: .75rem 0 0; }
+    .rule-note { margin: .5rem 0 0; font-size: .9rem; color: #555; }
+}
+.status-possible.answer-card { background: #fbf6e6; border-color: #eedfa8; }
+.status-guess.answer-card { background: #f5f6f7; border-color: #dfe2e6; }
+
+.tiles { display: flex; justify-content: center; gap: 6px; }
+.tile {
+    width: clamp(44px, 12vw, 58px);
+    aspect-ratio: 1;
+    display: grid;
+    place-items: center;
+    font-size: clamp(1.4rem, 5vw, 1.9rem);
+    font-weight: 700;
+    color: #fff;
+    border-radius: 6px;
+    background: $green;
+}
+.status-possible .tile { background: $yellow; }
+.status-guess .tile { background: $grey; }
+
+.badges {
+    list-style: none; padding: 0; margin: 0;
+    display: flex; flex-wrap: wrap; justify-content: center; gap: .5rem;
+    li { padding: .3rem .75rem; border-radius: 999px; font-size: .9rem; font-weight: 600; }
+    .badge-ok { background: #d4edda; color: #1e5a2b; }
+    .badge-past { background: $green; color: #fff; }
+    .badge-possible { background: #f3e2a4; color: #6b5306; }
+    .badge-no { background: #e2e4e7; color: #3d4248; }
+}
+
+.ad-slot { min-height: 120px; max-width: 720px; margin: 0 auto 1.5rem; }
+
+.card-section {
+    max-width: 720px;
+    margin: 0 auto 1.75rem;
+    text-align: left;
+    h3 { font-style: italic; color: #555; margin-top: 1rem; }
+    li { margin-bottom: .4rem; }
+    details { margin-bottom: .75rem; }
+    summary { cursor: pointer; color: $blue; padding: .4rem 0; }
+}
+.example { display: block; color: #666; font-style: italic; margin-top: .15rem; }
+.phonetic { color: #666; }
+.attribution { font-size: .8rem; color: $muted; margin-top: 1.5rem; }
+
+.stats {
+    dl { display: grid; grid-template-columns: max-content 1fr; gap: .4rem 1rem; }
+    dt { font-weight: 600; }
+    dd { margin: 0; }
+    .trap { margin-top: 1rem; padding: .75rem 1rem; border-left: 4px solid $yellow; background: #fbf6e6; }
+    .stats-note { font-size: .8rem; color: $muted; margin-top: .75rem; }
+}
+
+.word-chips {
+    list-style: none; padding: 0;
+    display: flex; flex-wrap: wrap; gap: .5rem;
+    margin-bottom: 1.25rem;
+    a {
+        display: inline-block;
+        min-width: 4.5rem;
+        padding: .55rem .75rem;
+        border-radius: 6px;
+        background: #f0f0f0;
+        color: #333;
+        font-weight: 600;
+        text-align: center;
+        text-decoration: none;
+    }
+    a:hover, a:focus { background: #e2e6ea; }
+}
+.play .self-links a { margin: .5rem .25rem; font-size: 1rem; }
+.back-link { margin: 1rem 0 2rem; }
+
+// ---------------------------------------------------------------- about & 404
+.about {
+    text-align: left;
+    max-width: 760px;
+    margin: 0 auto 2rem;
+    h1 { text-align: center; }
+    h2 { margin-top: 1.5rem; }
+}
+.not-found {
+    max-width: 720px;
+    margin: 2rem auto;
+    .result { font-size: 1.2rem; margin: 1.25rem 0; }
+    form { display: flex; gap: .5rem; max-width: 420px; margin: 1rem auto; }
+}
+
+// ---------------------------------------------------------------- small screens
+@media (max-width: 576px) {
+    .intro, .words, .word-details article { padding: 1.25rem 1rem; }
+    .pagination { font-size: .8rem; }
+    .page-item { margin: 2px; }
+    .stats dl { grid-template-columns: 1fr; }
+    .stats dd { margin-bottom: .5rem; }
+}
