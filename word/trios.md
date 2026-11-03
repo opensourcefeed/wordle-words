@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TRIOS a Wordle Word?
-head_title: Is TRIOS a Wordle Word? Yes – Valid Guess
+head_title: Is TRIOS a Wordle Word? Yes – Valid Guess & Meaning
 word: trios
 description: Yes, TRIOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -45,4 +46,12 @@ anagrams:
 trap:
   pattern: TRI_S
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A group of three people or things.
+  - text: A group of three musicians.
+  - text: A piece of music written for three musicians.
+  - text: A passage in the middle of a minuet, frequently in a different key.
+  - text: Any cocktail made with a spirit, a liqueur, and a creamy ingredient.
 ---

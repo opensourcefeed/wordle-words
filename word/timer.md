@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is TIMER a Wordle Word?
-head_title: 'Is TIMER a Wordle Word? Yes – Past Answer #1368'
+head_title: 'Is TIMER a Wordle Word? Yes – Past Answer #1368 & Meaning'
 word: timer
 description: Yes, TIMER is a valid Wordle word. It was the Wordle answer on March
-  18, 2025 (#1368). See its starter rating and similar words.
+  18, 2025 (#1368). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on March 18, 2025 (#1368).
 past_answers:
@@ -42,4 +42,12 @@ anagrams:
 - remit
 - miter
 - mitre
+phonetic: "/ˈtaɪmɚ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Someone or something which times.
+  - text: A device used to measure amounts of time.
+  - text: Any electronic function that causes a device to be able to do something
+      automatically after a preset amount of time.
 ---

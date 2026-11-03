@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TRASS a Wordle Word?
-head_title: Is TRASS a Wordle Word? Yes – Valid Guess
+head_title: Is TRASS a Wordle Word? Yes – Valid Guess & Meaning
 word: trass
 description: Yes, TRASS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,4 +41,12 @@ anagrams:
 trap:
   pattern: TRA_S
   count: 9
+phonetic: "/tɹɑːs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A white to grey volcanic tufa, formed of decomposed trachytic cinders, sometimes
+      used as a cement.
+  - text: A coarse sort of plaster or mortar, durable in water, and used to line cisterns
+      and other reservoirs of water.
 ---

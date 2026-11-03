@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is STEAK a Wordle Word?
-head_title: 'Is STEAK a Wordle Word? Yes – Past Answer #1851'
+head_title: 'Is STEAK a Wordle Word? Yes – Past Answer #1851 & Meaning'
 word: steak
 description: Yes, STEAK is a valid Wordle word. It was the Wordle answer on July 14,
-  2026 (#1851). See its starter rating and similar words.
+  2026 (#1851). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on July 14, 2026 (#1851).
 past_answers:
@@ -45,4 +45,16 @@ anagrams:
 trap:
   pattern: STEA_
   count: 6
+phonetic: "/steɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: Beefsteak, a slice of beef, broiled or cut for broiling.
+  - text: "(by extension) A relatively large, thick slice or slab cut from another
+      animal, a vegetable, etc."
+  - text: "(seafood) A slice of meat cut across the grain (perpendicular to the spine)
+      from a fish."
+- pos: verb
+  defs:
+  - text: To cook (something, especially fish) like or as a steak.
 ---

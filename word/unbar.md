@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UNBAR a Wordle Word?
-head_title: Is UNBAR a Wordle Word? Yes – Valid Guess
+head_title: Is UNBAR a Wordle Word? Yes – Valid Guess & Meaning
 word: unbar
 description: Yes, UNBAR is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,4 +29,10 @@ anagrams:
 - aburn
 - buran
 - ruban
+definitions:
+- pos: verb
+  defs:
+  - text: To remove an impediment that obstructs the passage of (someone or something).
+  - text: To remove a prohibition.
+  - text: To unlock or unbolt a door that had been locked or bolted with a bar.
 ---

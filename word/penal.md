@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is PENAL a Wordle Word?
-head_title: 'Is PENAL a Wordle Word? Yes – Past Answer #1870'
+head_title: 'Is PENAL a Wordle Word? Yes – Past Answer #1870 & Meaning'
 word: penal
 description: Yes, PENAL is a valid Wordle word. It was the Wordle answer on August
-  2, 2026 (#1870). See its starter rating and similar words.
+  2, 2026 (#1870). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on August 2, 2026 (#1870).
 past_answers:
@@ -35,4 +35,16 @@ anagrams:
 - panel
 - plane
 - plena
+phonetic: "/ˈpiːnəl/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or relating to punishment.
+    example: penal servitude
+  - text: Subject to punishment; punishable.
+    example: a penal offence
+  - text: Serving as a place of punishment.
+    example: a penal colony
+  - text: Exorbitant.
+    example: a penal rate of interest.
 ---

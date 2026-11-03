@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TWITS a Wordle Word?
-head_title: Is TWITS a Wordle Word? Yes – Valid Guess
+head_title: Is TWITS a Wordle Word? Yes – Valid Guess & Meaning
 word: twits
 description: Yes, TWITS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -30,4 +31,15 @@ neighbours:
 - twite
 anagrams:
 - twist
+definitions:
+- pos: noun
+  defs:
+  - text: A reproach, gibe or taunt.
+  - text: A foolish or annoying person.
+  - text: A euphemism for "twat", a contemptible or stupid person.
+  - text: A person who twitters, i.e. chatters inanely (see usage notes).
+- pos: verb
+  defs:
+  - text: To reproach, blame; to ridicule or tease.
+  - text: To ignore or killfile (a user on a bulletin board system).
 ---

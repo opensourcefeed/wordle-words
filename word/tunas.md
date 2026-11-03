@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TUNAS a Wordle Word?
-head_title: Is TUNAS a Wordle Word? Yes – Valid Guess
+head_title: Is TUNAS a Wordle Word? Yes – Valid Guess & Meaning
 word: tunas
 description: Yes, TUNAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -44,4 +45,13 @@ anagrams:
 trap:
   pattern: _UNAS
   count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: Any of several species of fish of the genus Thunnus in the family Scombridae.
+  - text: The edible flesh of the tuna.
+- pos: noun
+  defs:
+  - text: The prickly pear, a type of cactus native to Mexico in the genus Opuntia.
+  - text: The fruit of the cactus.
 ---

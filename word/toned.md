@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TONED a Wordle Word?
-head_title: Is TONED a Wordle Word? Yes – Valid Guess
+head_title: Is TONED a Wordle Word? Yes – Valid Guess & Meaning
 word: toned
 description: Yes, TONED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -40,4 +41,18 @@ anagrams:
 trap:
   pattern: TO_ED
   count: 10
+phonetic: "/təʊnd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To give a particular tone to
+  - text: To change the colour of
+  - text: To make (something) firmer
+  - text: To harmonize, especially in colour
+  - text: To utter with an affected tone.
+- pos: adjective
+  defs:
+  - text: Having a (specified kind of) tone.
+    example: high-toned
+  - text: Having defined or firm muscles; fit
 ---

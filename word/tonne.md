@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TONNE a Wordle Word?
-head_title: Is TONNE a Wordle Word? Yes – Valid Guess
+head_title: Is TONNE a Wordle Word? Yes – Valid Guess & Meaning
 word: tonne
 description: Yes, TONNE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,4 +37,10 @@ anagrams:
 trap:
   pattern: _ONNE
   count: 6
+phonetic: "/tɒn/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'A metric unit of mass equal to 1000 kilograms. Symbol: t'
+  - text: A score of 100.
 ---

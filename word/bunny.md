@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is BUNNY a Wordle Word?
-head_title: 'Is BUNNY a Wordle Word? Yes – Past Answer #1618'
+head_title: 'Is BUNNY a Wordle Word? Yes – Past Answer #1618 & Meaning'
 word: bunny
 description: Yes, BUNNY is a valid Wordle word. It was the Wordle answer on November
-  23, 2025 (#1618). See its starter rating and similar words.
+  23, 2025 (#1618). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on November 23, 2025 (#1618).
 past_answers:
@@ -38,4 +38,17 @@ neighbours:
 trap:
   pattern: _UNNY
   count: 10
+phonetic: "/ˈbʌni/"
+definitions:
+- pos: noun
+  defs:
+  - text: A rabbit, especially a juvenile.
+  - text: 'A bunny girl: a nightclub waitress who wears a costume having rabbit ears
+      and tail.'
+  - text: In basketball, an easy shot (i.e., one right next to the bucket) that is
+      missed.
+- pos: adjective
+  defs:
+  - text: Easy or unchallenging.
+    example: Let’s start on the bunny slope.
 ---

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TOPES a Wordle Word?
-head_title: Is TOPES a Wordle Word? Yes – Valid Guess
+head_title: Is TOPES a Wordle Word? Yes – Valid Guess & Meaning
 word: topes
 description: Yes, TOPES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -48,4 +49,19 @@ anagrams:
 trap:
   pattern: TO_ES
   count: 10
+definitions:
+- pos: verb
+  defs:
+  - text: To drink excessively; to get drunk.
+- pos: noun
+  defs:
+  - text: A small, grey, European shark, Galeorhinus galeus, that has rough skin and
+      a long snout.
+- pos: noun
+  defs:
+  - text: A grove of trees.
+- pos: noun
+  defs:
+  - text: A mound-like Buddhist sepulchre, or memorial monument, often erected over
+      a relic; a stupa.
 ---

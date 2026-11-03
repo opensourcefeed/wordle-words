@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is SLANG a Wordle Word?
-head_title: 'Is SLANG a Wordle Word? Yes – Past Answer #1257'
+head_title: 'Is SLANG a Wordle Word? Yes – Past Answer #1257 & Meaning'
 word: slang
 description: Yes, SLANG is a valid Wordle word. It was the Wordle answer on November
-  27, 2024 (#1257). See its starter rating and similar words.
+  27, 2024 (#1257). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on November 27, 2024 (#1257).
 past_answers:
@@ -37,4 +37,17 @@ neighbours:
 - swang
 anagrams:
 - glans
+phonetic: "/sleɪŋ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Language outside of conventional usage and in the informal register.
+  - text: Language that is unique to a particular profession or subject; jargon.
+  - text: The specialized language of a social group, sometimes used to make what
+      is said unintelligible to those not members of the group; cant.
+  - text: A particular variety of slang; the slang used by a particular group.
+  - text: An item of slang; a slang word or expression.
+- pos: verb
+  defs:
+  - text: To vocally abuse, or shout at.
 ---

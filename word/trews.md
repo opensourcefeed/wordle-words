@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TREWS a Wordle Word?
-head_title: Is TREWS a Wordle Word? Yes – Valid Guess
+head_title: Is TREWS a Wordle Word? Yes – Valid Guess & Meaning
 word: trews
 description: Yes, TREWS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -39,4 +40,9 @@ anagrams:
 trap:
   pattern: TRE_S
   count: 7
+phonetic: "/tɹuːz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Trousers, especially if close fitting and tartan.
 ---

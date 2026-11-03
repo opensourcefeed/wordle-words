@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TRAYF a Wordle Word?
-head_title: Is TRAYF a Wordle Word? Yes – Valid Guess
+head_title: Is TRAYF a Wordle Word? Yes – Valid Guess & Meaning
 word: trayf
 description: Yes, TRAYF is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -25,4 +26,10 @@ neighbours:
 - treyf
 anagrams:
 - rafty
+definitions:
+- pos: adjective
+  defs:
+  - text: "(of food) Not kosher."
+    example: The casserole looked delicious, but Moishe wouldn't eat it because it
+      was treyf.
 ---

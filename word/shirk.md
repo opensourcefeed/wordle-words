@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is SHIRK a Wordle Word?
-head_title: 'Is SHIRK a Wordle Word? Yes – Past Answer #593'
+head_title: 'Is SHIRK a Wordle Word? Yes – Past Answer #593 & Meaning'
 word: shirk
 description: Yes, SHIRK is a valid Wordle word. It was the Wordle answer on February
-  2, 2023 (#593). See its starter rating and similar words.
+  2, 2023 (#593). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on February 2, 2023 (#593).
 past_answers:
@@ -35,4 +35,16 @@ neighbours:
 - stirk
 anagrams:
 - khirs
+phonetic: "/ʃɜːk/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who shirks, who avoids a duty or responsibility.
+- pos: verb
+  defs:
+  - text: To avoid, especially a duty, responsibility, etc.; to stay away from.
+  - text: To evade an obligation; to avoid the performance of duty, as by running
+      away.
+    example: If you have a job, don't shirk from it by staying off work.
+  - text: To procure by petty fraud and trickery; to obtain by mean solicitation.
 ---

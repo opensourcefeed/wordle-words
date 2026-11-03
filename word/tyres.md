@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TYRES a Wordle Word?
-head_title: Is TYRES a Wordle Word? Yes – Valid Guess
+head_title: Is TYRES a Wordle Word? Yes – Valid Guess & Meaning
 word: tyres
 description: Yes, TYRES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,4 +43,17 @@ anagrams:
 trap:
   pattern: _YRES
   count: 7
+phonetic: "/ˈtaɪə(ɹ)z/"
+definitions:
+- pos: noun
+  defs:
+  - text: The ring-shaped protective covering around a wheel which is usually made
+      of rubber or plastic composite and is either pneumatic or solid.
+  - text: The metal rim of a wheel, especially that of a railway vehicle.
+- pos: verb
+  defs:
+  - text: To fit tyres to (a vehicle).
+- pos: verb
+  defs:
+  - text: To adorn.
 ---

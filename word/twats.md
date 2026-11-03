@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TWATS a Wordle Word?
-head_title: Is TWATS a Wordle Word? Yes – Valid Guess
+head_title: Is TWATS a Wordle Word? Yes – Valid Guess & Meaning
 word: twats
 description: Yes, TWATS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 sensitive: true
 sitemap: false
 status: guess
@@ -34,4 +35,12 @@ neighbours:
 anagrams:
 - tawts
 - watts
+definitions:
+- pos: noun
+  defs:
+  - text: The vagina or vulva.
+  - text: A contemptible and stupid person, idiot.
+- pos: verb
+  defs:
+  - text: To hit, slap.
 ---

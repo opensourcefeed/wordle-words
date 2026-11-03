@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TRUED a Wordle Word?
-head_title: Is TRUED a Wordle Word? Yes – Valid Guess
+head_title: Is TRUED a Wordle Word? Yes – Valid Guess & Meaning
 word: trued
 description: Yes, TRUED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -28,4 +29,11 @@ neighbours:
 - grued
 - treed
 - trues
+definitions:
+- pos: verb
+  defs:
+  - text: To straighten.
+    example: He trued the spokes of the bicycle wheel.
+  - text: To make even, level, symmetrical, or accurate, align; adjust.
+    example: We spent all night truing up the report.
 ---

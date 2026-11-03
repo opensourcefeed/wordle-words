@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TORTE a Wordle Word?
-head_title: Is TORTE a Wordle Word? Yes – Valid Guess
+head_title: Is TORTE a Wordle Word? Yes – Valid Guess & Meaning
 word: torte
 description: Yes, TORTE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -35,4 +36,10 @@ anagrams:
 - ortet
 - rotte
 - toter
+phonetic: "/ˈtɔː(ɹ)t/"
+definitions:
+- pos: noun
+  defs:
+  - text: A rich, dense cake, typically made with many eggs and relatively little
+      flour (as opposed to a sponge cake or gâteau).
 ---

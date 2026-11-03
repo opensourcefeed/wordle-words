@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TREYS a Wordle Word?
-head_title: Is TREYS a Wordle Word? Yes – Valid Guess
+head_title: Is TREYS a Wordle Word? Yes – Valid Guess & Meaning
 word: treys
 description: Yes, TREYS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -42,4 +43,14 @@ anagrams:
 trap:
   pattern: TRE_S
   count: 7
+phonetic: "/tɹeɪz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A playing card or die with the rank of three.
+  - text: A score of three in cards, dice, or dominoes.
+  - text: A three-pointer.
+  - text: The third bearer of the same personal name in a family, often denoted by
+      suffixed Roman numeral III.
+  - text: The third branch of a deer's antler.
 ---

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TRONA a Wordle Word?
-head_title: Is TRONA a Wordle Word? Yes – Valid Guess
+head_title: Is TRONA a Wordle Word? Yes – Valid Guess & Meaning
 word: trona
 description: Yes, TRONA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,4 +33,9 @@ anagrams:
 - orant
 - rotan
 - toran
+definitions:
+- pos: noun
+  defs:
+  - text: A saline evaporite, consisting of mixture of sodium carbonate and sodium
+      bicarbonate, Na3HCO3CO3·2H2O.
 ---

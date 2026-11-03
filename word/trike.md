@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TRIKE a Wordle Word?
-head_title: Is TRIKE a Wordle Word? Yes – Valid Guess
+head_title: Is TRIKE a Wordle Word? Yes – Valid Guess & Meaning
 word: trike
 description: Yes, TRIKE is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -37,4 +38,13 @@ anagrams:
 trap:
   pattern: TRI_E
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A tricycle.
+  - text: A three-wheeled motorbike.
+  - text: 'A kind of railroad maintenance vehicle: a speeder or jigger.'
+- pos: verb
+  defs:
+  - text: To tricycle; to travel by tricycle.
 ---

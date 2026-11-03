@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is ULAMA a Wordle Word?
-head_title: Is ULAMA a Wordle Word? Yes – Valid Guess
+head_title: Is ULAMA a Wordle Word? Yes – Valid Guess & Meaning
 word: ulama
 description: Yes, ULAMA is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,4 +27,8 @@ neighbours:
 - ulema
 anagrams:
 - maula
+definitions:
+- pos: noun
+  defs:
+  - text: A (modern) ball game, descended from tlachtli.
 ---

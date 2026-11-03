@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TUBED a Wordle Word?
-head_title: Is TUBED a Wordle Word? Yes – Valid Guess
+head_title: Is TUBED a Wordle Word? Yes – Valid Guess & Meaning
 word: tubed
 description: Yes, TUBED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -29,4 +30,16 @@ neighbours:
 - tuned
 anagrams:
 - debut
+definitions:
+- pos: verb
+  defs:
+  - text: To supply with, or enclose in, a tube.
+    example: She tubes lipstick in the cosmetics factory.
+  - text: To ride an inner tube.
+    example: They tubed down the Colorado River.
+  - text: To intubate.
+    example: The patient was tubed.
+- pos: adjective
+  defs:
+  - text: Possessing a tube or tubes.
 ---

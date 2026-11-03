@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TOYED a Wordle Word?
-head_title: Is TOYED a Wordle Word? Yes – Valid Guess
+head_title: Is TOYED a Wordle Word? Yes – Valid Guess & Meaning
 word: toyed
 description: Yes, TOYED is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -38,4 +39,12 @@ neighbours:
 trap:
   pattern: TO_ED
   count: 10
+definitions:
+- pos: verb
+  defs:
+  - text: To play (with) in an idle or desultory way.
+    example: Figo is toying with the English defence.
+  - text: To ponder or consider.
+    example: I have been toying with the idea of starting my own business.
+  - text: To stimulate with a sex toy.
 ---

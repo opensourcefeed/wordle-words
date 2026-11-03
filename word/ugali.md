@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UGALI a Wordle Word?
-head_title: Is UGALI a Wordle Word? Yes – Valid Guess
+head_title: Is UGALI a Wordle Word? Yes – Valid Guess & Meaning
 word: ugali
 description: Yes, UGALI is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -24,4 +25,8 @@ stats:
   starter_top_percent: 36
 neighbours:
 - urali
+definitions:
+- pos: noun
+  defs:
+  - text: African cornmeal porridge
 ---

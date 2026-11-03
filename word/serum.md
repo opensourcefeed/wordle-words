@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is SERUM a Wordle Word?
-head_title: 'Is SERUM a Wordle Word? Yes – Past Answer #1018'
+head_title: 'Is SERUM a Wordle Word? Yes – Past Answer #1018 & Meaning'
 word: serum
 description: Yes, SERUM is a valid Wordle word. It was the Wordle answer on April
-  2, 2024 (#1018). See its starter rating and similar words.
+  2, 2024 (#1018). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on April 2, 2024 (#1018).
 past_answers:
@@ -33,4 +33,18 @@ anagrams:
 - mures
 - muser
 - rumes
+phonetic: "/ˈsiɹəm/"
+definitions:
+- pos: noun
+  defs:
+  - text: The clear yellowish liquid obtained upon separating whole blood into its
+      solid and liquid components after it has been allowed to clot.
+  - text: Blood serum from the tissues of immunized animals, containing antibodies
+      and used to transfer immunity to another individual, called antiserum.
+  - text: A watery liquid from animal tissue, especially one that moistens the surface
+      of serous membranes or that is exuded by such membranes when they become inflamed,
+      such as in edema or a blister.
+  - text: The watery portion of certain animal fluids like blood, milk, etc; whey.
+  - text: "(skincare) An intensive moisturising product to be applied after cleansing
+      but before a general moisturiser."
 ---

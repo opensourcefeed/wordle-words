@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TORII a Wordle Word?
-head_title: Is TORII a Wordle Word? Yes – Valid Guess
+head_title: Is TORII a Wordle Word? Yes – Valid Guess & Meaning
 word: torii
 description: Yes, TORII is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,4 +27,9 @@ stats:
 neighbours:
 - toric
 - torsi
+definitions:
+- pos: noun
+  defs:
+  - text: A traditional Japanese gate at Shinto shrines, symbolically marking the
+      transition from the profane to the sacred.
 ---

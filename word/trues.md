@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TRUES a Wordle Word?
-head_title: Is TRUES a Wordle Word? Yes – Valid Guess
+head_title: Is TRUES a Wordle Word? Yes – Valid Guess & Meaning
 word: trues
 description: Yes, TRUES is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -34,4 +35,11 @@ neighbours:
 anagrams:
 - sture
 - uster
+definitions:
+- pos: verb
+  defs:
+  - text: To straighten.
+    example: He trued the spokes of the bicycle wheel.
+  - text: To make even, level, symmetrical, or accurate, align; adjust.
+    example: We spent all night truing up the report.
 ---

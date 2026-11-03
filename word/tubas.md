@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TUBAS a Wordle Word?
-head_title: Is TUBAS a Wordle Word? Yes – Valid Guess
+head_title: Is TUBAS a Wordle Word? Yes – Valid Guess & Meaning
 word: tubas
 description: Yes, TUBAS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -36,4 +37,17 @@ anagrams:
 - buats
 - tabus
 - tsuba
+definitions:
+- pos: noun
+  defs:
+  - text: A large brass musical instrument, usually in the bass range, played through
+      a vibration of the lips upon the mouthpiece and fingering of the keys.
+  - text: A type of Roman military trumpet, distinct from the modern tuba.
+  - text: A large reed stop in organs.
+- pos: noun
+  defs:
+  - text: A reddish palm wine made from coconut or nipa sap.
+- pos: noun
+  defs:
+  - text: A tube or tubular organ.
 ---

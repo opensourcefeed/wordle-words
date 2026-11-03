@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is CREDO a Wordle Word?
-head_title: 'Is CREDO a Wordle Word? Yes – Past Answer #638'
+head_title: 'Is CREDO a Wordle Word? Yes – Past Answer #638 & Meaning'
 word: credo
 description: Yes, CREDO is a valid Wordle word. It was the Wordle answer on March
-  19, 2023 (#638). See its starter rating and similar words.
+  19, 2023 (#638). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on March 19, 2023 (#638).
 past_answers:
@@ -33,4 +33,12 @@ anagrams:
 - decor
 - coder
 - cored
+phonetic: "/ˈkɹidoʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A belief system.
+  - text: The liturgical creed (usually the Nicene Creed), or a musical arrangement
+      of it for use in church services.
+    example: Credo III is so beautiful!
 ---

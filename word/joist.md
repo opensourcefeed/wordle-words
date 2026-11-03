@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is JOIST a Wordle Word?
-head_title: 'Is JOIST a Wordle Word? Yes – Past Answer #1902'
+head_title: 'Is JOIST a Wordle Word? Yes – Past Answer #1902 & Meaning'
 word: joist
 description: Yes, JOIST is a valid Wordle word. It was the Wordle answer on September
-  3, 2026 (#1902). See its starter rating and similar words.
+  3, 2026 (#1902). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on September 3, 2026 (#1902).
 past_answers:
@@ -37,4 +37,13 @@ neighbours:
 trap:
   pattern: _OIST
   count: 6
+phonetic: "/dʒɔɪst/"
+definitions:
+- pos: noun
+  defs:
+  - text: A piece of timber laid horizontally, or nearly so, to which the planks of
+      the floor, or the laths or furring strips of a ceiling, are nailed.
+- pos: verb
+  defs:
+  - text: To fit or furnish with joists.
 ---

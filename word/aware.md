@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is AWARE a Wordle Word?
-head_title: 'Is AWARE a Wordle Word? Yes – Past Answer #1424'
+head_title: 'Is AWARE a Wordle Word? Yes – Past Answer #1424 & Meaning'
 word: aware
 description: Yes, AWARE is a valid Wordle word. It was the Wordle answer on May 13,
-  2025 (#1424). See its starter rating and similar words.
+  2025 (#1424). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on May 13, 2025 (#1424).
 past_answers:
@@ -34,4 +34,12 @@ neighbours:
 - awave
 - oware
 - sware
+phonetic: "/əˈweːɹ/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Vigilant or on one's guard against danger or difficulty.
+    example: Stay aware! Don't let your guard down.
+  - text: Conscious or having knowledge of something.
+    example: Are you aware of what is being said about you?
 ---

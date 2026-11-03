@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is UNARY a Wordle Word?
-head_title: Is UNARY a Wordle Word? Yes – Valid Guess
+head_title: Is UNARY a Wordle Word? Yes – Valid Guess & Meaning
 word: unary
 description: Yes, UNARY is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -23,4 +24,17 @@ stats:
 neighbours:
 - snary
 - unarm
+phonetic: "/ˈjuːnəɹi/"
+definitions:
+- pos: noun
+  defs:
+  - text: The unary numeral system; the bijective base-1 numeral system.
+  - text: Unary coding, an entropy encoding for natural numbers.
+- pos: adjective
+  defs:
+  - text: Consisting of or involving a single element or component.
+  - text: "(computer engineering) Of an operation, function, procedure or logic gate,
+      taking exactly one operand, argument, parameter or input; having domain of dimension
+      1."
+    example: Negation is a unary operation.
 ---

@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is THREE a Wordle Word?
-head_title: 'Is THREE a Wordle Word? Yes – Past Answer #924'
+head_title: 'Is THREE a Wordle Word? Yes – Past Answer #924 & Meaning'
 word: three
 description: Yes, THREE is a valid Wordle word. It was the Wordle answer on December
-  30, 2023 (#924). See its starter rating and similar words.
+  30, 2023 (#924). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on December 30, 2023 (#924).
 past_answers:
@@ -32,4 +32,27 @@ neighbours:
 anagrams:
 - ether
 - there
+phonetic: "/θɹiː/"
+definitions:
+- pos: noun
+  defs:
+  - text: The digit/figure 3.
+  - text: Anything measuring three units, as length.
+    example: Put all the threes in a separate container.
+  - text: A person who is three years old.
+    example: All the threes will go in Mrs. Smith's class, while I'll take the fours
+      and fives.
+  - text: The playing card featuring three pips.
+- pos: numeral
+  defs:
+  - text: A numerical value after two and before four. Represented in Arabic digits
+      as 3; this many dots (•••).
+  - text: Describing a set or group with three elements.
+- pos: noun
+  defs:
+  - text: A goal or other means of scoring worth three points.
+  - text: A three-point shot; a basket made from beyond the three-point line.
+  - text: A three-point landing; an airplane landing in which all three wheels touch
+      the ground simultaneously.
+  - text: A deer or other animal whose antlers feature three points or tines.
 ---

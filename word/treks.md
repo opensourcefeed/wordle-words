@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TREKS a Wordle Word?
-head_title: Is TREKS a Wordle Word? Yes – Valid Guess
+head_title: Is TREKS a Wordle Word? Yes – Valid Guess & Meaning
 word: treks
 description: Yes, TREKS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -32,4 +33,19 @@ neighbours:
 trap:
   pattern: TRE_S
   count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A journey by ox wagon.
+  - text: The Boer migration of 1835-1837.
+  - text: A slow or difficult journey.
+    example: We're planning a trek up Kilimanjaro.
+  - text: A long walk.
+    example: I would drive to the shops from here; you can walk, but it's quite a
+      trek.
+- pos: verb
+  defs:
+  - text: To make a slow or arduous journey.
+  - text: To journey on foot, especially to hike through mountainous areas.
+  - text: To travel by ox wagon.
 ---

@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TWAIN a Wordle Word?
-head_title: Is TWAIN a Wordle Word? Yes – Valid Guess
+head_title: Is TWAIN a Wordle Word? Yes – Valid Guess & Meaning
 word: twain
 description: Yes, TWAIN is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -26,4 +27,17 @@ neighbours:
 - swain
 anagrams:
 - witan
+phonetic: "/tweɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: Pair, couple
+- pos: adjective
+  defs:
+  - text: Twofold
+- pos: numeral
+  defs:
+  - text: Two
+    example: Bring me these twain cups of wine and water, and let us drink from the
+      one we feel more befitting of this day.
 ---

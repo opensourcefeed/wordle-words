@@ -1,10 +1,11 @@
 ---
 layout: word
 title: Is TOPOS a Wordle Word?
-head_title: Is TOPOS a Wordle Word? Yes – Valid Guess
+head_title: Is TOPOS a Wordle Word? Yes – Valid Guess & Meaning
 word: topos
 description: Yes, TOPOS is a valid Wordle word. It is not on the Wordle answer list,
-  so it is unlikely to be a daily answer. See its starter rating and similar words.
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 status: guess
 answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
   answer.
@@ -41,4 +42,11 @@ anagrams:
 trap:
   pattern: TO_OS
   count: 8
+phonetic: "/ˈtɒpɒs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A literary theme or motif; a rhetorical convention or formula.
+  - text: An elementary topos
+  - text: A Grothendieck topos
 ---

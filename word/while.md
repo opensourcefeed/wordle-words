@@ -1,10 +1,10 @@
 ---
 layout: word
 title: Is WHILE a Wordle Word?
-head_title: 'Is WHILE a Wordle Word? Yes – Past Answer #836'
+head_title: 'Is WHILE a Wordle Word? Yes – Past Answer #836 & Meaning'
 word: while
 description: Yes, WHILE is a valid Wordle word. It was the Wordle answer on October
-  3, 2023 (#836). See its starter rating and similar words.
+  3, 2023 (#836). See its meaning, starter rating and similar words.
 status: past
 answer_text: It was the Wordle answer on October 3, 2023 (#836).
 past_answers:
@@ -32,4 +32,32 @@ neighbours:
 - whole
 - chile
 - whilk
+phonetic: "/waɪl/"
+definitions:
+- pos: noun
+  defs:
+  - text: An uncertain duration of time, a period of time.
+    example: He lectured for quite a long while.
+- pos: verb
+  defs:
+  - text: To pass (time) idly.
+  - text: To occupy or entertain (someone) in order to let time pass.
+  - text: To loiter.
+- pos: preposition
+  defs:
+  - text: Until.
+- pos: conjunction
+  defs:
+  - text: During the same time that.
+    example: He was sleeping while I was singing.
+  - text: Although.
+    example: This case, while interesting, is a bit frustrating.
+  - text: Until.
+    example: I'll wait while you've finished painting.
+  - text: As long as.
+    example: While you're at school you may live at home.
+  - text: "(public policy) Used to denote an individual experiencing racial profiling
+      when performing a seemingly benign activity."
+    example: He was detained for four hours at the store yesterday. His crime? Shopping
+      while black.
 ---
