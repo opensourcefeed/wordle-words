@@ -2,5 +2,6 @@
 layout: word
 title: treif
 word: treif
+meaning: ""
 ---
 

@@ -2,5 +2,6 @@
 layout: word
 title: speir
 word: speir
+meaning: ""
 ---
 

@@ -13864,7 +13864,7 @@ wordle-words:
 - cheap
 - elide
 - rigid
-- false
+- "false"
 - renal
 - pence
 - rowdy

@@ -2,5 +2,6 @@
 layout: word
 title: shape
 word: shape
+meaning: ""
 ---
 

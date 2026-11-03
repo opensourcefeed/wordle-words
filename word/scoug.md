@@ -2,5 +2,6 @@
 layout: word
 title: scoug
 word: scoug
+meaning: ""
 ---
 

@@ -2,5 +2,6 @@
 layout: word
 title: tynde
 word: tynde
+meaning: ""
 ---
 

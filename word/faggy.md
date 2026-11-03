@@ -2,5 +2,6 @@
 layout: word
 title: faggy
 word: faggy
+meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfæɡi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Effeminate; homosexual; gay.</li></ul></div></div>"
 ---
 

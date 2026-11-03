@@ -2,8 +2,32 @@
 layout: default
 ---
 
-<article>
-    <h1>{{ page.title }}</h1>
-    <p>This page is about the word: {{ page.word }}</p>
-    <p><a href="/">Back to All Words</a></p>
-</article>
+<div class="container">
+    <div class="word-details">
+        <article>
+            <h1>{{ page.title }}</h1>
+            <hr>
+            <h2>Is <span class="text-uppercase fw-bolder">{{page.word}}</span> a wordle word?</h2>
+            <p>Yes. <span class="text-uppercase fw-bolder">{{page.word}}</span> is a wordle word candidate.</p>
+            <div class="meaning">
+                {{page.meaning}}
+            </div>
+        </article>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6380671811722843"
+            crossorigin="anonymous"></script>
+        <!-- Wordle Words - Word Info -->
+        <ins class="adsbygoogle"
+            style="display:block"
+            data-ad-client="ca-pub-6380671811722843"
+            data-ad-slot="2490361185"
+            data-ad-format="auto"
+            data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+        &nbsp;
+        <div class="text-center">
+            <a class="btn btn-primary" href="{{ '/' | relative_url }}">&larr;&thinsp;&thinsp;Back to All Words</a>
+        </div>
+    </div>
+</div>

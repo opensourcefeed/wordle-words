@@ -2,5 +2,6 @@
 layout: word
 title: earnt
 word: earnt
+meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɜːnt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To gain (success, reward, recognition) through applied effort or work.<p><strong>Example:</strong> You can have the s'mores: you earned them, clearing the walkway of snow so well.</p></li><li><strong>Definition 2:</strong> To receive payment for work.<p><strong>Example:</strong> He earns seven million dollars a year as CEO.  My bank account is only earning one percent interest.</p></li><li><strong>Definition 3:</strong> To receive payment for work.<p><strong>Example:</strong> Now that you are earning, you can start paying me rent.</p></li><li><strong>Definition 4:</strong> To cause (someone) to receive payment or reward.<p><strong>Example:</strong> My CD earns me six percent!</p></li><li><strong>Definition 5:</strong> To achieve by being worthy of.<p><strong>Example:</strong> to earn a spot in the top 20</p></li></ul></div></div>"
 ---
 
