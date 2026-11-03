@@ -12,14 +12,14 @@ Legend: **Impact** H/M/L · **Effort** S (< ½ day) / M (1–2 days) / L (3+ day
 The live site still runs the January 2025 commit. Every word page says only *"This page is about the word: tiger"*.
 None of the local work has shipped, and the current local config would break the site if it were deployed as-is.
 
-- [ ] **Fix `_config.yml`** (Impact H, Effort S)
+- [x] **Fix `_config.yml`** (Impact H, Effort S)
   - `url: https://www.opensourcefeed.org` and `baseurl: /wordle-words`. Right now `baseurl: /` builds `/assets/style.css`, which returns 404 on the live domain.
   - Remove the duplicate `url`, `domain` and `plugins` keys. The second `plugins:` block silently overrides the first.
   - `plugins: [jekyll-sitemap, jekyll-seo-tag]` (both are allowed on GitHub Pages).
   - `exclude: [generate_word_pages.rb, processed_words.yml, Gemfile, Gemfile.lock, TODO.md, .ruby-lsp]`. The generator script is currently published in `_site/`.
-- [ ] **Replace hard-coded `href="/"` with `{{ '/' | relative_url }}`** in `_includes/header.html` and `_layouts/word.html`. Today "Back to All Words" goes to the opensourcefeed.org homepage. (H, S)
-- [ ] **Do NOT delete the 5,727 "skipped" word pages** (the uncommitted `D word/*.md`). They are live URLs today, and the home page links to all 14,855 words, so deleting them creates thousands of internal 404s. Generate a page for **every** word in `_data/wordle-words.yml`. A definition is optional, because the Wordle data from P1 carries the page. (H, M)
-- [ ] **Deploy, then verify in production**: CSS loads, `/wordle-words/sitemap.xml` returns 200 (it returns 404 today), and the canonical URLs are correct. (H, S)
+- [x] **Replace hard-coded `href="/"` with `{{ '/' | relative_url }}`** in `_includes/header.html` and `_layouts/word.html`. Today "Back to All Words" goes to the opensourcefeed.org homepage. (H, S)
+- [x] **Do NOT delete the 5,727 "skipped" word pages** (the uncommitted `D word/*.md`). They are live URLs today, and the home page links to all 14,855 words, so deleting them creates thousands of internal 404s. Generate a page for **every** word in `_data/wordle-words.yml`. A definition is optional, because the Wordle data from P1 carries the page. (H, M)
+- [x] **Deploy, then verify in production**: CSS loads, `/wordle-words/sitemap.xml` returns 200 (it returns 404 today), and the canonical URLs are correct. (H, S)
 - [ ] **Google Search Console**: add the property and submit `https://www.opensourcefeed.org/wordle-words/sitemap.xml`. Also add a `Sitemap:` line for it in the main site's `robots.txt`. (H, S)
 - [ ] **Trust and compliance pages** (H, S)
   - Replace the boilerplate `about.markdown` (it still has the Minima/Jekyll placeholder text).
@@ -102,7 +102,7 @@ Users judge a site's trust and quality in the first few seconds. A polished desi
   - Uses rate-limit and retry for the API.
   (M, M)
 - [ ] Consider a GitHub Actions build (custom plugins become possible, for example data-page generation instead of 15k `.md` files), plus a scheduled job that appends each day's answer. (M, M)
-- [ ] Refresh the word list against the current NYT accepted list. NYT has added words since the original 14,855. (M, S)
+- [x] Word list verified against the current NYT accepted list on 2026-11-03: exactly 14,855 words, all with a page. Re-check periodically with `ruby scripts/validate_words.rb <reference-list.txt>`. (M, S)
 - [ ] Replace or complement Ahrefs analytics with an analytics tool that records in-page events (checker use and puzzle click-through). (M, S)
 
 ---
